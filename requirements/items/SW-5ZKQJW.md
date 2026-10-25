@@ -1,0 +1,20 @@
+---
+id: SW-5ZKQJW
+type: software-requirement
+title: Wi-Fi module validates humidity values
+status: Approved
+priority: Low
+owner: M. Farouk
+parent: SYS-NW9FV6
+order: 40
+links:
+  - type: refines
+    target: SYS-NW9FV6
+---
+The Bluetooth LE link shall notify the operating mode in under 3 s.
+
+| Mode | Limit | Unit |
+| --- | --- | --- |
+| Comfort | 21 | °C |
+| Eco | 18 | °C |
+| Frost protection | 7 | °C |

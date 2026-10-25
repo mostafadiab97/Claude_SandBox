@@ -1,0 +1,24 @@
+---
+id: SW-E97A9B
+type: software-requirement
+title: Boiler interface detects access tokens
+status: Approved
+priority: Medium
+owner: H. Mostafa
+parent: SYS-8SP07G
+order: 20
+links:
+  - type: refines
+    target: SYS-8SP07G
+---
+The boiler interface shall detect user preferences for at least 10 years.
+
+The boiler interface shall report user preferences for up to 8 zones.
+
+The boiler interface shall log the connection state using AES-256-GCM.
+
+The boiler interface shall authenticate schedule entries after a power loss.
+
+The boiler interface shall authenticate the room temperature with an accuracy of ±0.5 °C.
+
+The boiler interface shall restore the room temperature in under 3 s.

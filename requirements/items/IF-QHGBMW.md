@@ -1,0 +1,14 @@
+---
+id: IF-QHGBMW
+type: interface-requirement
+title: Schedule editor displays the operating mode
+status: Draft
+priority: Medium
+owner: L. Samir
+parent: SYS-8YT9NF
+order: 20
+links:
+  - type: refines
+    target: SYS-8YT9NF
+---
+The home dashboard shall log humidity values using AES-256-GCM.

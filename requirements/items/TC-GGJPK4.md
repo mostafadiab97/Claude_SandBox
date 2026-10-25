@@ -1,0 +1,27 @@
+---
+id: TC-GGJPK4
+type: test-case
+title: "Verify: Boiler interface calibrates the operating mode"
+status: Approved
+priority: High
+owner: K. Tanaka
+parent: INFO-MS9DAG
+order: 90
+links:
+  - type: verifies
+    target: SYS-0KFPCF
+  - type: verifies
+    target: SW-WRPYK6
+---
+**Objective:** verify that the boiler interface behaves as specified.
+
+**Preconditions**
+- Device powered and paired with the test account
+- Ambient temperature 21 °C ± 1 °C
+
+**Steps**
+1. Configure the boiler interface with default settings.
+2. Report sensor readings and record the result.
+3. Repeat 10 times.
+
+**Expected result:** all 10 runs pass the acceptance criteria of the verified requirement.

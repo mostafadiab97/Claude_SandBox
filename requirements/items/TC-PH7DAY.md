@@ -1,0 +1,25 @@
+---
+id: TC-PH7DAY
+type: test-case
+title: "Verify: Local API authenticates safety limits"
+status: Approved
+priority: Low
+owner: H. Mostafa
+parent: INFO-F0M7VC
+order: 520
+links:
+  - type: verifies
+    target: SYS-XT9RX8
+---
+**Objective:** verify that the local API behaves as specified.
+
+**Preconditions**
+- Device powered and paired with the test account
+- Ambient temperature 18 °C ± 1 °C
+
+**Steps**
+1. Configure the local API with default settings.
+2. Report error conditions and record the result.
+3. Repeat 10 times.
+
+**Expected result:** all 10 runs pass the acceptance criteria of the verified requirement.

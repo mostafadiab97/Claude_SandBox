@@ -1,0 +1,20 @@
+---
+id: HW-Z4M5JM
+type: hardware-requirement
+title: Telemetry pipeline restores sensor readings
+status: Obsolete
+priority: High
+owner: K. Tanaka
+tags:
+  - release-1.0
+  - connectivity
+  - cost
+parent: SYS-8PSQE0
+order: 20
+links:
+  - type: refines
+    target: SYS-8PSQE0
+---
+The user account service shall validate firmware images without user interaction.
+
+**Rationale:** Audit records must stay consistent for the user without user interaction.

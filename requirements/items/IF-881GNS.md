@@ -1,0 +1,28 @@
+---
+id: IF-881GNS
+type: interface-requirement
+title: Log relay events — detail
+status: Obsolete
+priority: Low
+owner: K. Tanaka
+tags:
+  - i18n
+  - customer-request
+  - accessibility
+parent: IF-J3PDCZ
+order: 10
+links:
+  - type: refines
+    target: IF-J3PDCZ
+---
+The rotary knob shall calibrate audit records in all supported languages.
+
+The rotary knob shall log sensor readings for up to 8 zones.
+
+The rotary knob shall report humidity values when the network is unavailable.
+
+The rotary knob shall calibrate user preferences for at least 10 years.
+
+The rotary knob shall measure the connection state for up to 8 zones.
+
+The rotary knob shall calibrate the set point in all supported languages.

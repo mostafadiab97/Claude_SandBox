@@ -1,0 +1,27 @@
+---
+id: TC-BJRPJW
+type: test-case
+title: "Verify: Enclosure measures error conditions"
+status: Draft
+priority: Medium
+owner: S. Adel
+parent: INFO-MACGC3
+order: 1640
+links:
+  - type: verifies
+    target: SYS-J667FF
+  - type: verifies
+    target: SW-NK493Q
+---
+**Objective:** verify that the enclosure behaves as specified.
+
+**Preconditions**
+- Device powered and paired with the test account
+- Ambient temperature 19 °C ± 1 °C
+
+**Steps**
+1. Configure the enclosure with default settings.
+2. Report schedule entries and record the result.
+3. Repeat 10 times.
+
+**Expected result:** all 10 runs pass the acceptance criteria of the verified requirement.

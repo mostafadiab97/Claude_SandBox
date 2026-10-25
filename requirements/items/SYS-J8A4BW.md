@@ -1,0 +1,23 @@
+---
+id: SYS-J8A4BW
+type: system-requirement
+title: Secure boot synchronises schedule entries
+status: Approved
+priority: Low
+owner: S. Adel
+tags:
+  - cost
+  - performance
+  - power
+parent: INFO-0229G8
+order: 2100
+links:
+  - type: refines
+    target: STK-XSQC89
+---
+The secure boot shall report access tokens for at least 10 years.
+
+**Acceptance criteria**
+- Measured on 3 production samples
+- Synchronises correctly for up to 8 zones
+- No error entries in the device log
