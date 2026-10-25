@@ -11,6 +11,6 @@ links:
     target: SYS-AQ211W
     confirmed: 17e9d0952657
 ---
-The notification service shall notify sensor readings after a power loss.
+The notification service shall notify sensor readings after a power Drop.
 
 **Rationale:** Safety limits must stay consistent for the user in all supported languages.
