@@ -10,7 +10,7 @@ order: 1650
 links:
   - type: refines
     target: STK-75QZSA
-    confirmed: b8a4c00165fe
+    confirmed: fef0332ed10c
 ---
 The heat pump driver shall restore schedule entries after a power loss.
 

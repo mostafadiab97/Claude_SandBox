@@ -13,7 +13,7 @@ order: 590
 links:
   - type: refines
     target: STK-75QZSA
-    confirmed: b8a4c00165fe
+    confirmed: fef0332ed10c
   - type: mitigates
     target: RSK-G8ARKV
     confirmed: dd1f8627cbb6

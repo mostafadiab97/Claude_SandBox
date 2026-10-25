@@ -5,7 +5,7 @@ title: "Risk: home dashboard fails to store the operating mode"
 status: Draft
 owner: K. Tanaka
 parent: INFO-8K830K
-order: 10
+order: 25
 ---
 **Hazard:** the home dashboard could fail to display the room temperature.
 
