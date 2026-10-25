@@ -1,0 +1,18 @@
+---
+id: SYS-WF4FY5
+type: system-requirement
+title: Local API validates relay events
+status: Approved
+priority: Medium
+owner: محمد علي
+tags:
+  - performance
+  - cost
+  - connectivity
+parent: INFO-NRVHA2
+order: 1830
+links:
+  - type: refines
+    target: STK-XSZSEZ
+---
+The local API shall measure energy consumption with an accuracy of ±0.5 °C.

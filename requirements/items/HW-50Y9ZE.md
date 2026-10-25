@@ -1,0 +1,22 @@
+---
+id: HW-50Y9ZE
+type: hardware-requirement
+title: Tamper detection limits access tokens
+status: Approved
+owner: K. Tanaka
+tags:
+  - release-2.0
+  - regulatory
+parent: SYS-971VHG
+order: 20
+links:
+  - type: refines
+    target: SYS-971VHG
+---
+The tamper detection shall validate energy consumption below 0.5 W in standby.
+
+| Mode | Limit | Unit |
+| --- | --- | --- |
+| Comfort | 23 | °C |
+| Eco | 17 | °C |
+| Frost protection | 7 | °C |

@@ -1,0 +1,27 @@
+---
+id: TC-VKK4J6
+type: test-case
+title: "Verify: Schedule editor limits safety limits"
+status: Approved
+priority: Medium
+owner: H. Mostafa
+tags:
+  - release-2.0
+parent: INFO-J0FETE
+order: 1240
+links:
+  - type: verifies
+    target: SYS-AW0CHS
+---
+**Objective:** verify that the schedule editor behaves as specified.
+
+**Preconditions**
+- Device powered and paired with the test account
+- Ambient temperature 21 °C ± 1 °C
+
+**Steps**
+1. Configure the schedule editor with default settings.
+2. Log the operating mode and record the result.
+3. Repeat 10 times.
+
+**Expected result:** all 10 runs pass the acceptance criteria of the verified requirement.

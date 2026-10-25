@@ -1,0 +1,22 @@
+---
+id: SW-NGQA9V
+type: software-requirement
+title: Local API validates safety limits
+status: Draft
+priority: Medium
+owner: M. Farouk
+tags:
+  - security
+  - ux
+parent: SYS-4J99PR
+order: 10
+links:
+  - type: refines
+    target: SYS-4J99PR
+---
+The Wi-Fi module shall encrypt audit records with an accuracy of ±0.5 °C.
+
+**Acceptance criteria**
+- Measured on 3 production samples
+- Logs correctly at least once per minute
+- No error entries in the device log

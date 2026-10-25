@@ -1,0 +1,16 @@
+---
+id: SYS-63GREP
+type: system-requirement
+title: Backlight synchronises the operating mode
+status: Approved
+priority: High
+owner: R. Nabil
+tags:
+  - ux
+parent: INFO-PDR6FV
+order: 820
+links:
+  - type: refines
+    target: STK-8PN4VS
+---
+The backlight shall encrypt firmware images at least once per minute.

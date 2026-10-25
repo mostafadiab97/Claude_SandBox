@@ -1,0 +1,27 @@
+---
+id: TC-05VR4B
+type: test-case
+title: "Verify: Local API authenticates relay events"
+status: Obsolete
+priority: High
+owner: N. Kamal
+tags:
+  - regulatory
+parent: INFO-F0M7VC
+order: 950
+links:
+  - type: verifies
+    target: SYS-AFXTVK
+---
+**Objective:** verify that the local API behaves as specified.
+
+**Preconditions**
+- Device powered and paired with the test account
+- Ambient temperature 25 °C ± 1 °C
+
+**Steps**
+1. Configure the local API with default settings.
+2. Store schedule entries and record the result.
+3. Repeat 10 times.
+
+**Expected result:** all 10 runs pass the acceptance criteria of the verified requirement.

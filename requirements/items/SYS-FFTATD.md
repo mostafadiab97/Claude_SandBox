@@ -1,0 +1,19 @@
+---
+id: SYS-FFTATD
+type: system-requirement
+title: Main PCB measures firmware images
+status: Approved
+priority: Medium
+owner: K. Tanaka
+parent: INFO-A6P9A8
+order: 640
+links:
+  - type: refines
+    target: STK-JAQHJP
+---
+The main PCB shall authenticate sensor readings at least once per minute.
+
+**Acceptance criteria**
+- Measured on 3 production samples
+- Calibrates correctly below 0.5 W in standby
+- No error entries in the device log

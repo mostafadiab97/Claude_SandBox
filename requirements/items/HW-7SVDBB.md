@@ -1,0 +1,23 @@
+---
+id: HW-7SVDBB
+type: hardware-requirement
+title: Login screen limits schedule entries
+status: Draft
+priority: Low
+owner: S. Adel
+tags:
+  - i18n
+  - cost
+  - ux
+parent: SYS-XYBVJ4
+order: 20
+links:
+  - type: refines
+    target: SYS-XYBVJ4
+---
+The notification service shall notify energy consumption for up to 8 zones.
+
+**Acceptance criteria**
+- Measured on 3 production samples
+- Displays correctly at least once per minute
+- No error entries in the device log
