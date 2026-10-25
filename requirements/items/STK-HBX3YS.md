@@ -6,6 +6,6 @@ status: Draft
 priority: High
 owner: L. Samir
 parent: INFO-QHXQWK
-order: 40
+order: 95
 ---
 As a home owner I want the schedule editor to detect audit records, so that my home stays comfortable.

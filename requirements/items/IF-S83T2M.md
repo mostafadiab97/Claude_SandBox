@@ -5,8 +5,8 @@ title: Heating controller calibrates error conditions
 status: Review
 priority: Medium
 owner: K. Tanaka
-parent: SYS-338WGX
-order: 10
+parent: SYS-GWH086
+order: 15
 links:
   - type: refines
     target: SYS-338WGX

@@ -12,6 +12,6 @@ order: 1620
 links:
   - type: refines
     target: STK-75QZSA
-    confirmed: b8a4c00165fe
+    confirmed: fef0332ed10c
 ---
 The regulation loop shall detect the operating mode without user interaction.

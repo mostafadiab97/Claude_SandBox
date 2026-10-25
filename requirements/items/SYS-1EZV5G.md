@@ -12,6 +12,6 @@ order: 900
 links:
   - type: refines
     target: STK-75QZSA
-    confirmed: b8a4c00165fe
+    confirmed: fef0332ed10c
 ---
 The boiler interface shall log the set point for up to 8 zones.

@@ -14,6 +14,6 @@ order: 250
 links:
   - type: refines
     target: STK-75QZSA
-    confirmed: b8a4c00165fe
+    confirmed: fef0332ed10c
 ---
 The regulation loop shall report energy consumption within 200 ms.
