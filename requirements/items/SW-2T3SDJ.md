@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-T2ZPTJ
+    confirmed: 307534c43d1d
 ---
 The telemetry pipeline shall log sensor readings below 0.5 W in standby.
 

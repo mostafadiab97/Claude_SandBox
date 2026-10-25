@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-DHBZX2
+    confirmed: f269617e5175
 ---
 The pairing process shall validate the operating mode at least once per minute.

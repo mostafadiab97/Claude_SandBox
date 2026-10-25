@@ -9,5 +9,6 @@ order: 20
 links:
   - type: implements
     target: SW-3E0EN9
+    confirmed: 21b49bb3281b
 ---
 Implemented in `src/ui/menu_system.c`.

@@ -11,6 +11,7 @@ order: 880
 links:
   - type: refines
     target: STK-SWTYBR
+    confirmed: 85d99e967934
 ---
 The mobile app shall log energy consumption for at least 10 years.
 

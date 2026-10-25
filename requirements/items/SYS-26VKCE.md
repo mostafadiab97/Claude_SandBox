@@ -13,6 +13,7 @@ order: 1430
 links:
   - type: refines
     target: STK-MNQXK0
+    confirmed: d3157dcb9034
 ---
 The menu system shall limit the set point for up to 8 zones.
 

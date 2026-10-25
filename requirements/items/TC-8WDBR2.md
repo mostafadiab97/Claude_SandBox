@@ -13,8 +13,10 @@ order: 1470
 links:
   - type: verifies
     target: SYS-ECD1HY
+    confirmed: 7483f5483c58
   - type: verifies
     target: SW-BYVAYF
+    confirmed: 74dc91e27dbd
 ---
 **Objective:** verify that the touch display behaves as specified.
 

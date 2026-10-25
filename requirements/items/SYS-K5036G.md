@@ -13,6 +13,7 @@ order: 1790
 links:
   - type: refines
     target: STK-BV5YMS
+    confirmed: 07434b0b5615
 ---
 The menu system shall restore the connection state when the network is unavailable.
 

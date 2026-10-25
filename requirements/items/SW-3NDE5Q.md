@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-RV3J4H
+    confirmed: c844415dcddc
 ---
 The mobile app shall limit audit records using AES-256-GCM.
 

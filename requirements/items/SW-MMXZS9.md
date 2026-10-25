@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-MJ3RPH
+    confirmed: 1ebca403ec7b
 ---
 The rotary knob shall synchronise the set point within 200 ms.
 

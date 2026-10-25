@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-MW6N7P
+    confirmed: 1f77718986ec
 ---
 The home dashboard shall limit error conditions when the network is unavailable.

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-56P9P7
+    confirmed: 7db347ec50be
 ---
 The over-temperature monitor shall validate firmware images at least once per minute.
 

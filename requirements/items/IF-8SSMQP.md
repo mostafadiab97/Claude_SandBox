@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-55BB0W
+    confirmed: 769ed2cb940e
 ---
 The home dashboard shall detect the operating mode at least once per minute.
 

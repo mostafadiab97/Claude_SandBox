@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-JX8WF1
+    confirmed: 482dfc4da294
 ---
 The battery backup shall notify the set point in all supported languages.

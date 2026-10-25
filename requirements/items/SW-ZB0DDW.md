@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-6QFCF2
+    confirmed: 25036748bd8f
 ---
 The OTA server shall store the room temperature after a power loss.
 

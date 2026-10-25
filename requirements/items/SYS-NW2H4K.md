@@ -12,5 +12,6 @@ order: 2070
 links:
   - type: refines
     target: STK-JBY2BX
+    confirmed: bcce6e51beb4
 ---
 The encryption layer shall calibrate sensor readings for up to 8 zones.

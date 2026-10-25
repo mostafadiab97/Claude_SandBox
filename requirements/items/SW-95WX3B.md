@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-4X1SRM
+    confirmed: bc96873ba6c1
 ---
 The Wi-Fi module shall measure humidity values in under 3 s.

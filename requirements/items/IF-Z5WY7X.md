@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-CRWPMS
+    confirmed: 052e277686a9
 ---
 The battery backup shall switch the set point when the network is unavailable.

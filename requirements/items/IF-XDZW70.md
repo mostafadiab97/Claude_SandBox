@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-CR4P8R
+    confirmed: 4c3ba50b83be
 ---
 The battery backup shall restore relay events for up to 8 zones.
 

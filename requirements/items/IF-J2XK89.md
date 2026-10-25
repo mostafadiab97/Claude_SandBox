@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-KFH2GP
+    confirmed: a8dcaf0bf6d6
 ---
 The login screen shall calibrate sensor readings for at least 10 years.

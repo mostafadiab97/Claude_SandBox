@@ -10,8 +10,10 @@ order: 350
 links:
   - type: verifies
     target: SYS-BR6W9Y
+    confirmed: 2465c089a968
   - type: verifies
     target: SW-NCA6J1
+    confirmed: 4256d1529958
 ---
 **Objective:** verify that the backlight behaves as specified.
 

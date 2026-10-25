@@ -10,6 +10,7 @@ order: 1570
 links:
   - type: refines
     target: STK-JAQHJP
+    confirmed: b0af11a5c3c2
 ---
 The battery backup shall store the set point when the network is unavailable.
 

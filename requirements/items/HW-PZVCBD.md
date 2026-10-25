@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-Z1018D
+    confirmed: f9597fe30a5d
 ---
 The battery backup shall report firmware images with an accuracy of ±0.5 °C.

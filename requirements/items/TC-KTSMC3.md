@@ -10,8 +10,10 @@ order: 890
 links:
   - type: verifies
     target: SYS-EJ6VGS
+    confirmed: 72a1d0da5245
   - type: verifies
     target: SW-GBZD65
+    confirmed: 40e865bce9f5
 ---
 **Objective:** verify that the local API behaves as specified.
 

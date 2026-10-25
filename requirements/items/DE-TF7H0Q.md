@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-TQ408P
+    confirmed: 2f356afe5198
 ---
 Implemented in `src/heat/heating_controller.c`.

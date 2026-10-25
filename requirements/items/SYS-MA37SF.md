@@ -10,5 +10,6 @@ order: 1690
 links:
   - type: refines
     target: STK-4NCGP6
+    confirmed: 34735dce772b
 ---
 The device registry shall notify safety limits in under 3 s.

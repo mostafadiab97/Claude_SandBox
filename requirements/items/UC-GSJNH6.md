@@ -10,6 +10,7 @@ order: 130
 links:
   - type: relates-to
     target: STK-SM9B7Z
+    confirmed: 44235e2789f0
 ---
 **Actor:** home owner
 

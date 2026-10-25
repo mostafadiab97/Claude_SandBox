@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-WKJRPW
+    confirmed: d8654a6b0ca3
 ---
 The pairing process shall detect safety limits in under 3 s.
 

@@ -10,6 +10,7 @@ order: 110
 links:
   - type: verifies
     target: SYS-78Q17V
+    confirmed: d45a11dd5456
 ---
 **Objective:** verify that the cloud backend behaves as specified.
 

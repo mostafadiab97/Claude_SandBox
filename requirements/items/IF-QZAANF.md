@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-9J0YHF
+    confirmed: 3602ee9aa103
 ---
 The power supply shall store energy consumption in all supported languages.
 

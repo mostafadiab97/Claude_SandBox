@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-XT9RX8
+    confirmed: ba8e9786a00b
 ---
 The local API shall restore energy consumption with an accuracy of ±0.5 °C.
 

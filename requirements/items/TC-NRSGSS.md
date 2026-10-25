@@ -14,6 +14,7 @@ order: 570
 links:
   - type: verifies
     target: SYS-TB9F0A
+    confirmed: cfce1cacc944
 ---
 **Objective:** verify that the touch display behaves as specified.
 

@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-XBZZ1N
+    confirmed: 7016f4079f61
 ---
 Implemented in `src/heat/regulation_loop.c`.

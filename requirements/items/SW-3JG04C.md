@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-WNWSQY
+    confirmed: 2ad6d2e20386
 ---
 The Zigbee radio shall validate access tokens with an accuracy of ±0.5 °C.
 

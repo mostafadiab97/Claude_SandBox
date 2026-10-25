@@ -14,6 +14,7 @@ order: 340
 links:
   - type: refines
     target: STK-7F9256
+    confirmed: 5588db2eb80a
 ---
 The power supply shall switch schedule entries in under 3 s.
 

@@ -12,6 +12,7 @@ order: 1490
 links:
   - type: verifies
     target: SYS-BNJ0XS
+    confirmed: 1bddaa57818d
 ---
 **Objective:** verify that the touch display behaves as specified.
 

@@ -10,6 +10,7 @@ order: 190
 links:
   - type: verifies
     target: SYS-PX6WZT
+    confirmed: f32411f63461
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

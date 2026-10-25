@@ -14,8 +14,10 @@ order: 440
 links:
   - type: refines
     target: STK-BSSZ8Z
+    confirmed: eb15999e37f0
   - type: mitigates
     target: RSK-V6W5F6
+    confirmed: 90eeacbe369d
 ---
 The menu system shall notify sensor readings for up to 8 zones.
 

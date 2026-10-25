@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-QPHFQ7
+    confirmed: "025545e52884"
 ---
 The pairing process shall display the room temperature after a power loss.

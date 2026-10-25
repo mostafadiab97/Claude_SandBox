@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-H1Z00Y
+    confirmed: 36bbc40bd419
 ---
 The Zigbee radio shall switch safety limits using AES-256-GCM.

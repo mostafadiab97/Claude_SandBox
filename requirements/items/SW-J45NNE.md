@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-DQWVMQ
+    confirmed: 7c9cac507365
 ---
 The user account service shall display energy consumption for up to 8 zones.
 

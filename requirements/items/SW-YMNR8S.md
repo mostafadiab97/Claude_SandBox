@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SW-5H3R25
+    confirmed: d0a887012e16
 ---
 The heating controller shall limit the set point for up to 8 zones.

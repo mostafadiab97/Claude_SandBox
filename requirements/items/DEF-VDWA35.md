@@ -13,8 +13,10 @@ order: 130
 links:
   - type: relates-to
     target: TC-8E87BP
+    confirmed: 8210f80f4b2e
   - type: relates-to
     target: SYS-7ME2MH
+    confirmed: 212fa2a7c66a
 ---
 Found during regression testing of build 2.1.31.
 

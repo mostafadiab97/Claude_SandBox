@@ -14,5 +14,6 @@ order: 30
 links:
   - type: refines
     target: SYS-FHYWXP
+    confirmed: 3d63ea693d7b
 ---
 The power supply shall report the room temperature using AES-256-GCM.

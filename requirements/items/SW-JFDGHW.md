@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-ZENQH5
+    confirmed: 2ab203b72e19
 ---
 The mobile app shall restore humidity values in under 3 s.

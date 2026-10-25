@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-23TV3K
+    confirmed: d17d2fad112b
 ---
 The home dashboard shall limit error conditions for at least 10 years.
 

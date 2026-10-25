@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-67M60W
+    confirmed: 1664afe6fc4e
 ---
 The login screen shall validate energy consumption at least once per minute.
 

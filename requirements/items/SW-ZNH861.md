@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-V1S2ND
+    confirmed: 4aae50eaee58
 ---
 The menu system shall detect safety limits within 200 ms.
 

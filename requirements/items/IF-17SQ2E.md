@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-PH3PWA
+    confirmed: 2363be236978
 ---
 The OTA server shall log safety limits in under 3 s.
 

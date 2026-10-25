@@ -13,8 +13,10 @@ order: 1850
 links:
   - type: refines
     target: STK-9YF5RE
+    confirmed: 43643c03020f
   - type: mitigates
     target: RSK-G8ARKV
+    confirmed: dd1f8627cbb6
 ---
 The heat pump driver shall authenticate access tokens when the network is unavailable.
 

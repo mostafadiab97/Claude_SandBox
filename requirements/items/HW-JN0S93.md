@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-B522T0
+    confirmed: f7cbafb4c165
 ---
 The battery backup shall report firmware images without user interaction.
 

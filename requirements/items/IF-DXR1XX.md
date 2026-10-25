@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-QK2BTP
+    confirmed: 0ba87564e044
 ---
 The Zigbee radio shall report firmware images in under 3 s.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-9PBJ8Z
+    confirmed: c99a3d587d22
 ---
 The boiler interface shall validate energy consumption with an accuracy of ±0.5 °C.
 

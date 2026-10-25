@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-TX0P0A
+    confirmed: 1e529db5157b
 ---
 The telemetry pipeline shall limit schedule entries within 200 ms.
 

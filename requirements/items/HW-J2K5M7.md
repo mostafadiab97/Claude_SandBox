@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-T8N5MR
+    confirmed: 1d9e96e23af9
 ---
 The main PCB shall encrypt access tokens for up to 8 zones.

@@ -13,6 +13,7 @@ order: 610
 links:
   - type: verifies
     target: SYS-QEG5QQ
+    confirmed: 312c76ebed64
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

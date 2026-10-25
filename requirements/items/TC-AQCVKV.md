@@ -13,6 +13,7 @@ order: 1320
 links:
   - type: verifies
     target: SYS-TC4ZEM
+    confirmed: 36689a624b77
 ---
 **Objective:** verify that the zone valve behaves as specified.
 

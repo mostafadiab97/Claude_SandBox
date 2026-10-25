@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-EPQX5G
+    confirmed: 839c3250cb67
 ---
 The zone valve shall synchronise schedule entries in under 3 s.
 

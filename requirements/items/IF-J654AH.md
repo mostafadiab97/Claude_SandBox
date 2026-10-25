@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SYS-ZQSPB3
+    confirmed: c8c012d7096b
 ---
 The zone valve shall switch the set point when the network is unavailable.

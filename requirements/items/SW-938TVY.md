@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-S7RBP0
+    confirmed: 4e24c6222487
 ---
 The backlight shall synchronise schedule entries for at least 10 years.
 

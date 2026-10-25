@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-HJM62M
+    confirmed: 1d6deddc1634
 ---
 The notification service shall detect firmware images below 0.5 W in standby.
 

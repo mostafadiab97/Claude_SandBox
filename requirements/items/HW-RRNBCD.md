@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-7WCAWK
+    confirmed: 872381f1db9b
 ---
 The battery backup shall detect the connection state when the network is unavailable.
 

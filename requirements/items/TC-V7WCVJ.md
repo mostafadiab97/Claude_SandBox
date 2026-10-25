@@ -11,6 +11,7 @@ order: 1230
 links:
   - type: verifies
     target: SYS-DTDMRC
+    confirmed: 001ab42cb872
 ---
 **Objective:** verify that the status LED behaves as specified.
 

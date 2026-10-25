@@ -13,8 +13,10 @@ order: 920
 links:
   - type: verifies
     target: SYS-X39PY1
+    confirmed: faeb181df037
   - type: verifies
     target: SW-WHES8A
+    confirmed: 8f304568f2fd
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

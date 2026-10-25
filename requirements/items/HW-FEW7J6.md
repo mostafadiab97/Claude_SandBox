@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-6YV024
+    confirmed: e79eb16e0194
 ---
 The OTA server shall calibrate sensor readings at least once per minute.
 

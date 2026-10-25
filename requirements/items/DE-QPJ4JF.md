@@ -14,5 +14,6 @@ order: 20
 links:
   - type: implements
     target: SW-V7TB34
+    confirmed: bf196a7be830
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

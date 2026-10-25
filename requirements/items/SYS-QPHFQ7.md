@@ -13,6 +13,7 @@ order: 2130
 links:
   - type: refines
     target: STK-GMCKMF
+    confirmed: f47328374a2b
 ---
 The pairing process shall notify error conditions without user interaction.
 

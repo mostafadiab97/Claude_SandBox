@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-0J7TVH
+    confirmed: ed6ce67d8603
 ---
 The backlight shall synchronise error conditions below 0.5 W in standby.
 

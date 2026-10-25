@@ -10,6 +10,7 @@ order: 10
 links:
   - type: verifies
     target: SYS-Z7FHQ2
+    confirmed: c3ef2cb2745a
 ---
 **Objective:** verify that the backlight behaves as specified.
 

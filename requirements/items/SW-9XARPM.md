@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-Z2TFC8
+    confirmed: 985116655f53
 ---
 The telemetry pipeline shall limit humidity values at least once per minute.
 

@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-3JPXMD
+    confirmed: 429b4766228a
 ---
 The schedule editor shall authenticate humidity values in under 3 s.

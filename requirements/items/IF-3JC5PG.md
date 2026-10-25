@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-AFXTVK
+    confirmed: f28f5499c8de
 ---
 The local API shall measure safety limits at least once per minute.
 

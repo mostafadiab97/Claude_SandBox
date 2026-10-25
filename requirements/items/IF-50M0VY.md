@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-AFWWZ5
+    confirmed: 67e16f182216
 ---
 The local API shall report relay events when the network is unavailable.
 

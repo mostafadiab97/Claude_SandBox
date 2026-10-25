@@ -12,6 +12,7 @@ order: 640
 links:
   - type: verifies
     target: SYS-N4MBK3
+    confirmed: 55991efb2c92
 ---
 **Objective:** verify that the device behaves as specified.
 

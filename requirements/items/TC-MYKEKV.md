@@ -13,6 +13,7 @@ order: 1170
 links:
   - type: verifies
     target: SYS-NN047S
+    confirmed: 44642ef24cf7
 ---
 **Objective:** verify that the touch display behaves as specified.
 

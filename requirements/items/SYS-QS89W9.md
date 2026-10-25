@@ -12,6 +12,7 @@ order: 610
 links:
   - type: refines
     target: STK-2STGXE
+    confirmed: c77fe61daf4b
 ---
 The enclosure shall switch the connection state at least once per minute.
 

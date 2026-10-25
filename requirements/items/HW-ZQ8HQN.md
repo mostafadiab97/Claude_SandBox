@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: HW-44S1K2
+    confirmed: 0e091040df8f
 ---
 The relay board shall authenticate user preferences using AES-256-GCM.

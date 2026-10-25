@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-CE57ME
+    confirmed: 4e23886933b6
 ---
 The boiler interface shall synchronise relay events for up to 8 zones.

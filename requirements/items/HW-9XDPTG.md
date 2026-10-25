@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-KS8K75
+    confirmed: 6713f81a0fb0
 ---
 The heating controller shall report error conditions without user interaction.
 

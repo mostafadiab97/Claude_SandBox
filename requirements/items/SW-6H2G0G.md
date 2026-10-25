@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-CJYXZT
+    confirmed: 21846957e66b
 ---
 The device registry shall store user preferences within 200 ms.

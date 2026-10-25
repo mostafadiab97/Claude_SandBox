@@ -13,6 +13,7 @@ order: 1570
 links:
   - type: refines
     target: STK-DJ9M3M
+    confirmed: ba30e28a130f
 ---
 The watchdog shall calibrate sensor readings within 200 ms.
 

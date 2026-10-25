@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-AT7SG8
+    confirmed: c483239675ae
 ---
 The over-temperature monitor shall calibrate the set point within 200 ms.
 

@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-SSMA7A
+    confirmed: 5a9608084436
 ---
 The enclosure shall store schedule entries within 200 ms.
 

@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-4J99PR
+    confirmed: 3b7b49c723e8
 ---
 The Wi-Fi module shall calibrate audit records below 0.5 W in standby.

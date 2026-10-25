@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MA8PA2
+    confirmed: 7c651b78b359
 ---
 The Bluetooth LE link shall store firmware images below 0.5 W in standby.
 

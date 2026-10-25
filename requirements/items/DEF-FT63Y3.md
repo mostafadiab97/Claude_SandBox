@@ -12,8 +12,10 @@ order: 150
 links:
   - type: relates-to
     target: TC-P7Q0F7
+    confirmed: db8c3092f24d
   - type: relates-to
     target: SYS-C66JCG
+    confirmed: 7ce4fa00052a
 ---
 Found during regression testing of build 2.7.34.
 

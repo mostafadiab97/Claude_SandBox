@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: IF-QMSWQW
+    confirmed: 93187a110299
 ---
 The main PCB shall store safety limits using AES-256-GCM.
 

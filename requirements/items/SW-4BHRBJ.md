@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-J6RJYD
+    confirmed: a893bb1c8e2d
 ---
 The user account service shall synchronise energy consumption after a power loss.

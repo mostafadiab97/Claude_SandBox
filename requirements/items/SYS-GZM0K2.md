@@ -13,6 +13,7 @@ order: 580
 links:
   - type: refines
     target: STK-1R2QT3
+    confirmed: 7ca04f22a1b8
 ---
 The Zigbee radio shall authenticate the set point with an accuracy of ±0.5 °C.
 

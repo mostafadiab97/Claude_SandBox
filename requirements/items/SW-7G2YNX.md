@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-N3G2GX
+    confirmed: 82049aeb2cf6
 ---
 The boiler interface shall validate the operating mode at least once per minute.
 

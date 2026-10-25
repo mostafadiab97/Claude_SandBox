@@ -10,6 +10,7 @@ order: 1060
 links:
   - type: verifies
     target: SYS-0DEP77
+    confirmed: 7dbcbeef3d13
 ---
 **Objective:** verify that the device registry behaves as specified.
 

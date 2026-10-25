@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-9YBZ5V
+    confirmed: 50bd568ec960
 ---
 The rotary knob shall validate audit records within 200 ms.
 

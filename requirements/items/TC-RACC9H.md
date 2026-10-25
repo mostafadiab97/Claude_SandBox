@@ -12,6 +12,7 @@ order: 250
 links:
   - type: verifies
     target: SYS-A6SZV3
+    confirmed: 2cf0a5310219
 ---
 **Objective:** verify that the boiler interface behaves as specified.
 

@@ -12,5 +12,6 @@ order: 1960
 links:
   - type: refines
     target: STK-1TB226
+    confirmed: ea29425b18b7
 ---
 The secure boot shall validate the operating mode in under 3 s.

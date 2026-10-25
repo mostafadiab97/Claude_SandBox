@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-NEEMPT
+    confirmed: 0bcec31c69de
 ---
 The heat pump driver shall detect schedule entries after a power loss.
 

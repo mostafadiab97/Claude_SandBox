@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MG3QAE
+    confirmed: fd1ef0a3e1ca
 ---
 The encryption layer shall synchronise energy consumption after a power loss.
 

@@ -13,6 +13,7 @@ order: 460
 links:
   - type: refines
     target: STK-W18EQ4
+    confirmed: aeec35e06317
 ---
 The power supply shall store safety limits in under 3 s.
 

@@ -14,6 +14,7 @@ order: 1910
 links:
   - type: verifies
     target: SYS-YW7JJY
+    confirmed: eb4dd1b8dfac
 ---
 **Objective:** verify that the device behaves as specified.
 

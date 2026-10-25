@@ -11,6 +11,7 @@ order: 2040
 links:
   - type: refines
     target: STK-4NGQJ5
+    confirmed: 96640a7e340d
 ---
 The main PCB shall authenticate humidity values without user interaction.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-A11K9R
+    confirmed: 24ff723bc647
 ---
 The notification service shall measure access tokens when the network is unavailable.
 

@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-82XYZM
+    confirmed: 7f8ed4700350
 ---
 The secure boot shall limit the operating mode with an accuracy of ±0.5 °C.
 

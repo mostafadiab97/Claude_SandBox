@@ -10,8 +10,10 @@ order: 1030
 links:
   - type: refines
     target: STK-XSZSEZ
+    confirmed: 1038f4e2e9d4
   - type: mitigates
     target: RSK-6H3D9M
+    confirmed: c7f45fccd8d0
 ---
 The local API shall encrypt the connection state in all supported languages.
 

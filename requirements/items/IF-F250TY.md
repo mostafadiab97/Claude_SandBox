@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: IF-8W61CT
+    confirmed: 2742c7c0fc16
 ---
 The device registry shall log relay events with an accuracy of ±0.5 °C.

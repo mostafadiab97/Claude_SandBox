@@ -14,6 +14,7 @@ order: 850
 links:
   - type: verifies
     target: SYS-ANP21Y
+    confirmed: 3e91619f12fb
 ---
 **Objective:** verify that the cloud backend behaves as specified.
 

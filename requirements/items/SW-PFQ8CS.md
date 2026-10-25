@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-AH9G64
+    confirmed: e3199b24d9a9
 ---
 The cloud backend shall store the room temperature with an accuracy of ±0.5 °C.
 

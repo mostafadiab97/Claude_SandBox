@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-67M60W
+    confirmed: 1664afe6fc4e
 ---
 The login screen shall report schedule entries without user interaction.
 

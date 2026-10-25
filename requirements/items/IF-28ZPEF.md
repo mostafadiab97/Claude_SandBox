@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-SPKGTS
+    confirmed: 8dbea22f8667
 ---
 The Wi-Fi module shall validate humidity values for up to 8 zones.
 

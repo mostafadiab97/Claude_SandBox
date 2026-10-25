@@ -10,6 +10,7 @@ order: 320
 links:
   - type: refines
     target: STK-8Y3SDF
+    confirmed: 2609d2cce998
 ---
 The user account service shall report the operating mode after a power loss.
 

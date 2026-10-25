@@ -13,6 +13,7 @@ order: 1770
 links:
   - type: verifies
     target: SYS-XZE982
+    confirmed: bc880bb42e39
 ---
 **Objective:** verify that the device behaves as specified.
 

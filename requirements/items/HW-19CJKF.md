@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: HW-SXC135
+    confirmed: 042a46f7caf3
 ---
 The OTA server shall log firmware images with an accuracy of ±0.5 °C.

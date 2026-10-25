@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-85957D
+    confirmed: 2462555b5bb1
 ---
 The relay board shall validate the set point below 0.5 W in standby.
 

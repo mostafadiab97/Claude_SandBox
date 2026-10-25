@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-37F447
+    confirmed: ab26978cce76
 ---
 The watchdog shall measure schedule entries in under 3 s.
 

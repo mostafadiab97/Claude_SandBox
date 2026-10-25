@@ -12,6 +12,7 @@ order: 1290
 links:
   - type: verifies
     target: SYS-GD6JM3
+    confirmed: 3ff6f348020f
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

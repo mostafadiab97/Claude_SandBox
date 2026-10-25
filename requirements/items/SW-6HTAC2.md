@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-NSNRJD
+    confirmed: 223c3f40a1fb
 ---
 The home dashboard shall authenticate relay events after a power loss.
 

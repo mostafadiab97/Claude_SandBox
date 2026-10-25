@@ -12,6 +12,7 @@ order: 1080
 links:
   - type: verifies
     target: SYS-JDST6C
+    confirmed: 7ea47e8c8d56
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

@@ -9,6 +9,7 @@ order: 1040
 links:
   - type: verifies
     target: SYS-80ZJ33
+    confirmed: 7a5b090e57ac
 ---
 **Objective:** verify that the device behaves as specified.
 

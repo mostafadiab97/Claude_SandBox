@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-HT1YEZ
+    confirmed: 55deeba83d7e
 ---
 The zone valve shall report access tokens at least once per minute.
 

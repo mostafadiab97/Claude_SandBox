@@ -13,6 +13,7 @@ order: 630
 links:
   - type: verifies
     target: SYS-M23G4X
+    confirmed: 3da3ac6dee1c
 ---
 **Objective:** verify that the power supply behaves as specified.
 

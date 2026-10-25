@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-4VCYRM
+    confirmed: d32333e735ba
 ---
 The Wi-Fi module shall report the room temperature in all supported languages.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-KJ0P5E
+    confirmed: 877e6818b0de
 ---
 The over-temperature monitor shall log relay events after a power loss.
 

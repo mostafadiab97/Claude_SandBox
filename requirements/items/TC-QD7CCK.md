@@ -13,6 +13,7 @@ order: 1160
 links:
   - type: verifies
     target: SYS-R6T7X1
+    confirmed: 03767e5db5f8
 ---
 **Objective:** verify that the device behaves as specified.
 

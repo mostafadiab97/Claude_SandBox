@@ -9,6 +9,7 @@ order: 780
 links:
   - type: refines
     target: STK-W18EQ4
+    confirmed: aeec35e06317
 ---
 The relay board shall notify access tokens using AES-256-GCM.
 

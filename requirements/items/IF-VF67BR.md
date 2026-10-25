@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-SXS3JV
+    confirmed: 67410b786182
 ---
 The local API shall synchronise the connection state in under 3 s.

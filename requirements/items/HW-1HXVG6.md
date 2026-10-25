@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-G05WA7
+    confirmed: c37aca9c7e04
 ---
 The battery backup shall detect user preferences with an accuracy of ±0.5 °C.
 

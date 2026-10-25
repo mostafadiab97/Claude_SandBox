@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-9DPF6C
+    confirmed: 33deda97a847
 ---
 The power supply shall detect safety limits for up to 8 zones.
 

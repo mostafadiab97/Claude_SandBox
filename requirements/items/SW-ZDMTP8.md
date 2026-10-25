@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-JB56QD
+    confirmed: 445531d1bb9c
 ---
 The regulation loop shall switch safety limits without user interaction.
 

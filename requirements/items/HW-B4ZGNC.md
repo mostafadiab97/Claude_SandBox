@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: HW-88FRF4
+    confirmed: a769524bffd9
 ---
 The menu system shall detect error conditions with an accuracy of ±0.5 °C.

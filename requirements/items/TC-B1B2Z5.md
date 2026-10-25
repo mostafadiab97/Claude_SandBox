@@ -12,6 +12,7 @@ order: 490
 links:
   - type: verifies
     target: SYS-3J52W8
+    confirmed: 92ce5ba8e9a8
 ---
 **Objective:** verify that the backlight behaves as specified.
 

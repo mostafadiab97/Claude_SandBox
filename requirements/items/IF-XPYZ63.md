@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-10RD9F
+    confirmed: c65b58fe967d
 ---
 The over-temperature monitor shall notify schedule entries at least once per minute.
 

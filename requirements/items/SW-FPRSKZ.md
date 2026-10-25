@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-32PD6V
+    confirmed: 09e351121e5d
 ---
 The status LED shall measure access tokens after a power loss.

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-9FNKPM
+    confirmed: c8a11d5e856a
 ---
 The relay board shall measure humidity values with an accuracy of ±0.5 °C.

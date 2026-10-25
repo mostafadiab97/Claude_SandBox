@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-5FN1TB
+    confirmed: 52219f23d7ef
 ---
 The regulation loop shall switch the operating mode for at least 10 years.

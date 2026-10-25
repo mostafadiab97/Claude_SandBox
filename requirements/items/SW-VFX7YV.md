@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-FA8CFD
+    confirmed: 7868d91ae4aa
 ---
 The local API shall calibrate the operating mode for up to 8 zones.
 

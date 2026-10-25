@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-MSJYD9
+    confirmed: a4f989d37c98
 ---
 The zone valve shall notify access tokens for up to 8 zones.
 

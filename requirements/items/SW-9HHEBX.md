@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-S318HE
+    confirmed: a8739639e10d
 ---
 The menu system shall report firmware images for up to 8 zones.
 

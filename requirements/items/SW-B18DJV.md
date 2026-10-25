@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-AE2EKW
+    confirmed: e00530755be8
 ---
 The Zigbee radio shall restore safety limits when the network is unavailable.
 

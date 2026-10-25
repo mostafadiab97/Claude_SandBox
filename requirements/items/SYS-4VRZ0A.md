@@ -12,5 +12,6 @@ order: 940
 links:
   - type: refines
     target: STK-8W3602
+    confirmed: 25b39ad8cae7
 ---
 The zone valve shall store audit records for at least 10 years.

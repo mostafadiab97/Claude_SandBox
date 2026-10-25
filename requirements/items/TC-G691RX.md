@@ -12,8 +12,10 @@ order: 200
 links:
   - type: verifies
     target: SYS-1K9BKF
+    confirmed: c64cd8bb0fb4
   - type: verifies
     target: SW-2GTPVQ
+    confirmed: 3433682acfa8
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

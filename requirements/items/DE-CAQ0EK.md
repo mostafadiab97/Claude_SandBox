@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-1DQH20
+    confirmed: aa747e4f3ef7
 ---
 Implemented in `src/conn/local_API.c`.

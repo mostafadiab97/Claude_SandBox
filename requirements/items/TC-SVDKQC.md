@@ -12,6 +12,7 @@ order: 1580
 links:
   - type: verifies
     target: SYS-WNE3D0
+    confirmed: c41d4d2660da
 ---
 **Objective:** verify that the device behaves as specified.
 

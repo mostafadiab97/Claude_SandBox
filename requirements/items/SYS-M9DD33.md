@@ -13,6 +13,7 @@ order: 1020
 links:
   - type: refines
     target: STK-HH6ZNR
+    confirmed: caa77fe9df1c
 ---
 The menu system shall limit safety limits in under 3 s.
 

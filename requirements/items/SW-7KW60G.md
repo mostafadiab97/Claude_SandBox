@@ -11,5 +11,6 @@ order: 30
 links:
   - type: refines
     target: SYS-A02XBZ
+    confirmed: a8363ba9fa7b
 ---
 The heating controller shall authenticate safety limits when the network is unavailable.

@@ -14,6 +14,7 @@ order: 970
 links:
   - type: refines
     target: STK-TT8FXG
+    confirmed: 85d87c7e9a76
 ---
 The enclosure shall encrypt the connection state for at least 10 years.
 

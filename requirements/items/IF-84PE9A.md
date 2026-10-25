@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-8YJPVN
+    confirmed: 98030a3341f7
 ---
 The main PCB shall restore the connection state using AES-256-GCM.

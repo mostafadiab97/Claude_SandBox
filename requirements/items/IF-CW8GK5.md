@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-9GHKM6
+    confirmed: ab9f96efc9a0
 ---
 The watchdog shall encrypt energy consumption at least once per minute.
 

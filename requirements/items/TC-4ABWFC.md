@@ -13,6 +13,7 @@ order: 1150
 links:
   - type: verifies
     target: SYS-RY2A1Y
+    confirmed: ba8d79699d39
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

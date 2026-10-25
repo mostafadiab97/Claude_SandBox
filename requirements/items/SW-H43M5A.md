@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-725VG3
+    confirmed: 73444b104e6b
 ---
 The notification service shall restore relay events in all supported languages.
 

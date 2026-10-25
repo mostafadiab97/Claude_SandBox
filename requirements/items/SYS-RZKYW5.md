@@ -13,6 +13,7 @@ order: 1600
 links:
   - type: refines
     target: STK-HBX3YS
+    confirmed: b42a2f94d25d
 ---
 The mobile app shall encrypt audit records with an accuracy of ±0.5 °C.
 

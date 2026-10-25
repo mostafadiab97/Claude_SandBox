@@ -12,6 +12,7 @@ order: 1050
 links:
   - type: verifies
     target: SYS-H265S4
+    confirmed: 35dc6bc96bb9
 ---
 **Objective:** verify that the menu system behaves as specified.
 

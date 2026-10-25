@@ -10,5 +10,6 @@ order: 1810
 links:
   - type: refines
     target: STK-4F6B1Y
+    confirmed: 4a1d76b1da2c
 ---
 The login screen shall limit the connection state for at least 10 years.

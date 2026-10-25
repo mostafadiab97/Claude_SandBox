@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SW-JYGRV4
+    confirmed: 11f85a727615
 ---
 The encryption layer shall synchronise the room temperature when the network is unavailable.

@@ -13,8 +13,10 @@ order: 390
 links:
   - type: refines
     target: STK-XSQC89
+    confirmed: 66c246d6b1dc
   - type: mitigates
     target: RSK-WMRVBA
+    confirmed: fb726ed12a32
 ---
 The over-temperature monitor shall encrypt energy consumption without user interaction.
 

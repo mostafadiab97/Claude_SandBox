@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-JGW1WQ
+    confirmed: b34c573d4b49
 ---
 The backlight shall limit safety limits in all supported languages.

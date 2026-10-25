@@ -11,8 +11,10 @@ order: 1310
 links:
   - type: verifies
     target: SYS-B92MZT
+    confirmed: 4ea3d699c52a
   - type: verifies
     target: SW-GD1AD4
+    confirmed: 5d785516a115
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

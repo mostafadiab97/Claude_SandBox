@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-G99T17
+    confirmed: 68ed9e0cc612
 ---
 Implemented in `src/cloud/device_registry.c`.

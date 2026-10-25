@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-185CG5
+    confirmed: 594be3c2d403
 ---
 The zone valve shall notify schedule entries without user interaction.

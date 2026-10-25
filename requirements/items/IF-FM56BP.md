@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-9J0YHF
+    confirmed: 3602ee9aa103
 ---
 The power supply shall detect sensor readings for up to 8 zones.

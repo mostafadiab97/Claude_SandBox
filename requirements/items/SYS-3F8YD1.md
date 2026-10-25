@@ -12,6 +12,7 @@ order: 1020
 links:
   - type: refines
     target: STK-MC9ASH
+    confirmed: a4f2ebaecfbe
 ---
 The notification service shall log safety limits without user interaction.
 

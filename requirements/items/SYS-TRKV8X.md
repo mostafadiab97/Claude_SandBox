@@ -12,6 +12,7 @@ order: 1310
 links:
   - type: refines
     target: STK-F7D2QS
+    confirmed: bd8a3050a12b
 ---
 The Wi-Fi module shall notify schedule entries after a power loss.
 

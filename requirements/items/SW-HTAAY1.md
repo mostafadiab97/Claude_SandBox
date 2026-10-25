@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SW-TN2FB3
+    confirmed: c9b9d18d3a5b
 ---
 The touch display shall synchronise audit records when the network is unavailable.

@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-YTH8E5
+    confirmed: d8d0d1c6087d
 ---
 The power supply shall restore safety limits with an accuracy of ±0.5 °C.
 

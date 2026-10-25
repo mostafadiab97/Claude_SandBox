@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-9WHVE0
+    confirmed: b19b26310755
 ---
 The notification service shall display sensor readings using AES-256-GCM.
 

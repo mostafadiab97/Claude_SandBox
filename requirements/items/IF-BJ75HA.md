@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-RK543Q
+    confirmed: fe331aa72f1d
 ---
 The main PCB shall switch access tokens after a power loss.
 

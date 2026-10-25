@@ -13,6 +13,7 @@ order: 1280
 links:
   - type: verifies
     target: SYS-MRHZSS
+    confirmed: 3746d94f7720
 ---
 **Objective:** verify that the notification service behaves as specified.
 

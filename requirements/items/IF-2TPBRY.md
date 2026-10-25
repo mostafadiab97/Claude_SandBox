@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-7AH6RP
+    confirmed: f255e71521d5
 ---
 The status LED shall calibrate error conditions below 0.5 W in standby.

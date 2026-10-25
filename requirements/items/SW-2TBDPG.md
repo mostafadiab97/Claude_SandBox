@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SYS-8Q3CHA
+    confirmed: bba9c1adc60e
 ---
 The zone valve shall detect safety limits at least once per minute.

@@ -13,6 +13,7 @@ order: 1720
 links:
   - type: verifies
     target: SYS-FJTSEK
+    confirmed: 0ff5a626958c
 ---
 **Objective:** verify that the device behaves as specified.
 

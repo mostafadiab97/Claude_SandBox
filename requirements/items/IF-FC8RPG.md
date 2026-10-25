@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-1NHXCW
+    confirmed: e694361bd48d
 ---
 The Wi-Fi module shall synchronise relay events in under 3 s.
 

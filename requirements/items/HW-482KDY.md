@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: HW-JQAZEP
+    confirmed: 95e8cf793345
 ---
 The battery backup shall calibrate firmware images for at least 10 years.

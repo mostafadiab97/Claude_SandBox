@@ -10,6 +10,7 @@ order: 1300
 links:
   - type: verifies
     target: SYS-SPCMHW
+    confirmed: 0232f50fadbf
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

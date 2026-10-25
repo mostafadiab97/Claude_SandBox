@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-MNWAKG
+    confirmed: 979db4a6f2e3
 ---
 The OTA server shall notify the set point in under 3 s.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-BHQRCP
+    confirmed: 38d50cfd007e
 ---
 The encryption layer shall authenticate error conditions when the network is unavailable.
 

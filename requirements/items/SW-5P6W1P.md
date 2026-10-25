@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-KT3GD2
+    confirmed: 8a0b2b4def8d
 ---
 The cloud backend shall authenticate user preferences for up to 8 zones.
 

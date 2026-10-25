@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-G1PHXX
+    confirmed: bf662a260349
 ---
 The boiler interface shall switch energy consumption below 0.5 W in standby.
 

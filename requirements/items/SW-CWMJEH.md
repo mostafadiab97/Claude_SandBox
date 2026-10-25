@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-8ZNJBE
+    confirmed: d6a67816b8b6
 ---
 The menu system shall switch user preferences after a power loss.

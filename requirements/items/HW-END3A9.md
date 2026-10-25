@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-5M0EN6
+    confirmed: 6b2f33a2ace5
 ---
 The regulation loop shall measure humidity values with an accuracy of ±0.5 °C.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-GBTGV5
+    confirmed: 3f594322748c
 ---
 The device registry shall log the connection state when the network is unavailable.
 

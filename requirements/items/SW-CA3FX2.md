@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-Z3C3F8
+    confirmed: 0af14c27b0f7
 ---
 The user account service shall store the set point in under 3 s.
 

@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-ZKTQQ8
+    confirmed: 495d5a5d64dd
 ---
 The local API shall store error conditions in under 3 s.
 

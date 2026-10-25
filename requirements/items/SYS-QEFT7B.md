@@ -13,6 +13,7 @@ order: 330
 links:
   - type: refines
     target: STK-JFBQPS
+    confirmed: 5027ee1822eb
 ---
 The OTA server shall notify the operating mode for up to 8 zones.
 

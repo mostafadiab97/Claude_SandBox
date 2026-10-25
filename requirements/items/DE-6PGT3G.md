@@ -12,5 +12,6 @@ order: 20
 links:
   - type: implements
     target: SW-XX8006
+    confirmed: 95410177b956
 ---
 Implemented in `src/conn/Bluetooth_LE_link.c`.

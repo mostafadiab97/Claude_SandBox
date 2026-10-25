@@ -12,5 +12,6 @@ order: 40
 links:
   - type: refines
     target: SYS-Q6QXAC
+    confirmed: e67f8d759f40
 ---
 The regulation loop shall restore energy consumption below 0.5 W in standby.

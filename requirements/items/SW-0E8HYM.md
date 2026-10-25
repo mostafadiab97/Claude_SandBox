@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-H80NAW
+    confirmed: d4703e1835f9
 ---
 The encryption layer shall log safety limits when the network is unavailable.

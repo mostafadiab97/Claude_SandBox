@@ -10,8 +10,10 @@ order: 1250
 links:
   - type: verifies
     target: SYS-3PN7YS
+    confirmed: 54565cf8f7c8
   - type: verifies
     target: SW-4ZJDE1
+    confirmed: 512e543b4ca6
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

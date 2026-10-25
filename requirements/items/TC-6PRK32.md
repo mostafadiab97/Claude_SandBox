@@ -9,6 +9,7 @@ order: 1150
 links:
   - type: verifies
     target: SYS-NE90V9
+    confirmed: d34ffbeb0cc6
 ---
 **Objective:** verify that the notification service behaves as specified.
 

@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-HN5S5X
+    confirmed: 98a2a16336ac
 ---
 The backlight shall limit sensor readings in all supported languages.
 

@@ -9,6 +9,7 @@ order: 440
 links:
   - type: verifies
     target: SYS-7T162W
+    confirmed: c3b62ffd68f1
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

@@ -12,6 +12,7 @@ order: 230
 links:
   - type: refines
     target: STK-4NGQJ5
+    confirmed: 96640a7e340d
 ---
 The enclosure shall limit humidity values with an accuracy of ±0.5 °C.
 

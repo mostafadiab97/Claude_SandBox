@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-D26GKZ
+    confirmed: 5ddece9ce40b
 ---
 The status LED shall encrypt firmware images for at least 10 years.

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-RMTAMA
+    confirmed: f186b3b52775
 ---
 The Zigbee radio shall store error conditions for at least 10 years.
 

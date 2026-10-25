@@ -9,6 +9,7 @@ order: 1360
 links:
   - type: verifies
     target: SYS-HB2DW1
+    confirmed: c311446b8020
 ---
 **Objective:** verify that the schedule editor behaves as specified.
 

@@ -12,5 +12,6 @@ order: 40
 links:
   - type: refines
     target: SYS-8KE9F2
+    confirmed: 046899ea1e41
 ---
 The heat pump driver shall measure firmware images within 200 ms.

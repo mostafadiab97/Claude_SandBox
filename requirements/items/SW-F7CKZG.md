@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-6YVE5W
+    confirmed: b6eeeafd6f52
 ---
 The home dashboard shall encrypt firmware images using AES-256-GCM.
 

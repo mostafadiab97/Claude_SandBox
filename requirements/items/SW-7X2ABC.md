@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-C2GRZK
+    confirmed: 83098b4942a6
 ---
 The encryption layer shall authenticate access tokens with an accuracy of ±0.5 °C.
 

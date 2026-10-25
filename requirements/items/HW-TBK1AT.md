@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-33WX8J
+    confirmed: 78ea2220229f
 ---
 The schedule editor shall measure energy consumption when the network is unavailable.
 

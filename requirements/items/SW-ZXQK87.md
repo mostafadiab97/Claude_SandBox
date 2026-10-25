@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-DRG6R3
+    confirmed: 08f38a1d34b8
 ---
 The OTA server shall log audit records with an accuracy of ±0.5 °C.
 

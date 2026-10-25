@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-MJ3RPH
+    confirmed: 1ebca403ec7b
 ---
 The rotary knob shall encrypt safety limits in all supported languages.

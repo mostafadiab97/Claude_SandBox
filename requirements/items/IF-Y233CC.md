@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-7TGW7V
+    confirmed: 5c07b577ecff
 ---
 The enclosure shall switch schedule entries when the network is unavailable.

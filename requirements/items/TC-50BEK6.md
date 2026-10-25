@@ -10,6 +10,7 @@ order: 1080
 links:
   - type: verifies
     target: SYS-JZ73HV
+    confirmed: 985c6ecc37fa
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

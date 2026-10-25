@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: IF-JEK92S
+    confirmed: 9fc1586852b6
 ---
 The battery backup shall store audit records for up to 8 zones.

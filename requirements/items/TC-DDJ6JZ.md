@@ -14,6 +14,7 @@ order: 550
 links:
   - type: verifies
     target: SYS-G8M4SE
+    confirmed: df8c85150795
 ---
 **Objective:** verify that the device registry behaves as specified.
 

@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-ZM1TJV
+    confirmed: d30e404e164e
 ---
 The mobile app shall restore sensor readings within 200 ms.

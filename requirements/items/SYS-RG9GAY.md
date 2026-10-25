@@ -10,5 +10,6 @@ order: 490
 links:
   - type: refines
     target: STK-8W3602
+    confirmed: 25b39ad8cae7
 ---
 The heating controller shall measure firmware images within 200 ms.

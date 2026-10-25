@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-6TVT9J
+    confirmed: 0af48dc95869
 ---
 The regulation loop shall display relay events for at least 10 years.

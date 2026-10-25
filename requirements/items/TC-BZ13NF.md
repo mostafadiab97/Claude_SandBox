@@ -13,6 +13,7 @@ order: 420
 links:
   - type: verifies
     target: SYS-B99DV1
+    confirmed: 4cbe1396d101
 ---
 **Objective:** verify that the local API behaves as specified.
 

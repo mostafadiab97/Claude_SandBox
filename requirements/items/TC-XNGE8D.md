@@ -10,6 +10,7 @@ order: 1550
 links:
   - type: verifies
     target: SYS-3JPXMD
+    confirmed: 429b4766228a
 ---
 **Objective:** verify that the device behaves as specified.
 

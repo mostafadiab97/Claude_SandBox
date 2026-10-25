@@ -10,6 +10,7 @@ order: 670
 links:
   - type: verifies
     target: SYS-32PD6V
+    confirmed: 09e351121e5d
 ---
 **Objective:** verify that the status LED behaves as specified.
 

@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-XTEFPC
+    confirmed: d422e1c60e4c
 ---
 The schedule editor shall encrypt safety limits with an accuracy of ±0.5 °C.
 

@@ -10,5 +10,6 @@ order: 1760
 links:
   - type: refines
     target: STK-4NGQJ5
+    confirmed: 96640a7e340d
 ---
 The relay board shall switch schedule entries with an accuracy of ±0.5 °C.

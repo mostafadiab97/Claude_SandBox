@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-X7MMJ8
+    confirmed: 0b9a1e94967b
 ---
 The boiler interface shall authenticate firmware images using AES-256-GCM.

@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-VW03TF
+    confirmed: 820dbe358ffe
 ---
 The Wi-Fi module shall notify the operating mode after a power loss.
 

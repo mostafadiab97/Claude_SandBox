@@ -12,6 +12,7 @@ order: 880
 links:
   - type: verifies
     target: SYS-367JHA
+    confirmed: bf84f865fd8d
 ---
 **Objective:** verify that the device behaves as specified.
 

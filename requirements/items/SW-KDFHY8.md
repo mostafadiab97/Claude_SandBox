@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-DWWPRQ
+    confirmed: c0c679df6f7d
 ---
 The status LED shall limit humidity values within 200 ms.
 

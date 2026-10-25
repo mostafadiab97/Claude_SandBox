@@ -12,6 +12,7 @@ order: 750
 links:
   - type: verifies
     target: SYS-19AJTE
+    confirmed: 453482be94f2
 ---
 **Objective:** verify that the menu system behaves as specified.
 

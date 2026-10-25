@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-NADNAY
+    confirmed: 7956526ae9f5
 ---
 The touch display shall notify relay events for up to 8 zones.
 

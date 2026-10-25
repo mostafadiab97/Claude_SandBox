@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-MT7DNQ
+    confirmed: f4fac07cb110
 ---
 The login screen shall report firmware images when the network is unavailable.

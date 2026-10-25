@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: IF-WD55BB
+    confirmed: 0e6f4098c95f
 ---
 The status LED shall log the room temperature for at least 10 years.
 

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-PPC4MR
+    confirmed: c230040bfa74
 ---
 Implemented in `src/app/login_screen.c`.

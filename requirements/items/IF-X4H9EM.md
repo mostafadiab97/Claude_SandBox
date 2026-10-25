@@ -9,5 +9,6 @@ order: 30
 links:
   - type: refines
     target: SYS-BQJJNH
+    confirmed: 699ed99f7701
 ---
 The tamper detection shall store the set point below 0.5 W in standby.

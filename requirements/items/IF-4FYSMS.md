@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-C6GTWA
+    confirmed: 4675716bf203
 ---
 The power supply shall authenticate relay events without user interaction.

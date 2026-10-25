@@ -12,6 +12,7 @@ order: 1470
 links:
   - type: verifies
     target: SYS-EKB2T7
+    confirmed: 08d1945fa1d9
 ---
 **Objective:** verify that the cloud backend behaves as specified.
 

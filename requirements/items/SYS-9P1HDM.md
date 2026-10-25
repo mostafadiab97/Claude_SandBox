@@ -12,5 +12,6 @@ order: 2070
 links:
   - type: refines
     target: STK-8Y3SDF
+    confirmed: 2609d2cce998
 ---
 The user account service shall detect sensor readings for at least 10 years.

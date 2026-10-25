@@ -12,6 +12,7 @@ order: 1560
 links:
   - type: refines
     target: STK-Y5PMTC
+    confirmed: 047439fb0db8
 ---
 The device registry shall store error conditions with an accuracy of ±0.5 °C.
 

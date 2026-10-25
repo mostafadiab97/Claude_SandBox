@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-7DYY7E
+    confirmed: 6d469f2b30ce
 ---
 Implemented in `src/app/login_screen.c`.

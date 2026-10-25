@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-F983ZE
+    confirmed: baf98ac3ac93
 ---
 The mobile app shall encrypt the set point without user interaction.
 

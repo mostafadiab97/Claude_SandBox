@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ZS700Y
+    confirmed: 3e1573548eed
 ---
 The encryption layer shall limit the connection state within 200 ms.
 

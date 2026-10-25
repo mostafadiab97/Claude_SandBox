@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-C6GTWA
+    confirmed: 4675716bf203
 ---
 The power supply shall measure user preferences with an accuracy of ±0.5 °C.

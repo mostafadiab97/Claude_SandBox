@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-KKM3DB
+    confirmed: cbda6c746ea4
 ---
 The zone valve shall notify sensor readings using AES-256-GCM.

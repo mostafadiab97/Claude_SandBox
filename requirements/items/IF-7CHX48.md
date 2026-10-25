@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-B9WH28
+    confirmed: e4a2c3843dd6
 ---
 The Bluetooth LE link shall report firmware images at least once per minute.
 

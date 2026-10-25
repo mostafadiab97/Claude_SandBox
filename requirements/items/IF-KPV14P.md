@@ -9,6 +9,7 @@ order: 40
 links:
   - type: refines
     target: SYS-9B4YX3
+    confirmed: 7e7b28ad44d1
 ---
 The relay board shall detect humidity values in all supported languages.
 

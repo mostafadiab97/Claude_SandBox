@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-1F01HM
+    confirmed: 12dbd5ae59ec
 ---
 The encryption layer shall calibrate the connection state for up to 8 zones.
 

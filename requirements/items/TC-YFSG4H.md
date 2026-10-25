@@ -14,6 +14,7 @@ order: 270
 links:
   - type: verifies
     target: SYS-FC1AYV
+    confirmed: eb5c3ea75cd1
 ---
 **Objective:** verify that the status LED behaves as specified.
 

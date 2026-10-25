@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-J19Z2X
+    confirmed: 341b2e9527f9
 ---
 The relay board shall encrypt the connection state in all supported languages.

@@ -12,5 +12,6 @@ order: 20
 links:
   - type: implements
     target: SW-Z49V0N
+    confirmed: 360a9921a40f
 ---
 Implemented in `src/ui/menu_system.c`.

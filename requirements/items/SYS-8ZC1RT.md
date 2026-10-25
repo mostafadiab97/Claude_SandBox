@@ -12,5 +12,6 @@ order: 850
 links:
   - type: refines
     target: STK-AKFTAC
+    confirmed: ba740bd0ae86
 ---
 The tamper detection shall display safety limits when the network is unavailable.

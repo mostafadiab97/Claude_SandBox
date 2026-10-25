@@ -13,7 +13,9 @@ order: 1850
 links:
   - type: refines
     target: STK-F7D2QS
+    confirmed: bd8a3050a12b
   - type: mitigates
     target: RSK-BXA4VK
+    confirmed: d0a719026938
 ---
 The Bluetooth LE link shall store access tokens in all supported languages.

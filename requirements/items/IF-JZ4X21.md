@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-1YMXAH
+    confirmed: 4e76eb2ccede
 ---
 The backlight shall restore the set point using AES-256-GCM.
 

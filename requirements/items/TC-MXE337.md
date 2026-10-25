@@ -10,8 +10,10 @@ order: 840
 links:
   - type: verifies
     target: SYS-PERCNX
+    confirmed: 6bc9ba229103
   - type: verifies
     target: SW-G6TGXX
+    confirmed: 2381b283029d
 ---
 **Objective:** verify that the login screen behaves as specified.
 

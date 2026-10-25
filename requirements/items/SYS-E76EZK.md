@@ -13,8 +13,10 @@ order: 490
 links:
   - type: refines
     target: STK-R8QH58
+    confirmed: 13d6784d2cc9
   - type: mitigates
     target: RSK-PEJG0K
+    confirmed: b0f54061ad18
 ---
 The cloud backend shall log user preferences when the network is unavailable.
 

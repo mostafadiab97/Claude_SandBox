@@ -12,8 +12,10 @@ order: 170
 links:
   - type: verifies
     target: SYS-PBA89X
+    confirmed: be94f152bddf
   - type: verifies
     target: SW-GQ9PF6
+    confirmed: 3d406af483d9
 ---
 **Objective:** verify that the rotary knob behaves as specified.
 

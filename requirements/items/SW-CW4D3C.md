@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ET5TES
+    confirmed: 7e6cc32b80b3
 ---
 The cloud backend shall display user preferences in all supported languages.
 

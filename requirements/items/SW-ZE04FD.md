@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-NQDF85
+    confirmed: 215904978b3c
 ---
 The tamper detection shall measure sensor readings after a power loss.
 

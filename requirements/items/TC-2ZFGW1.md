@@ -12,6 +12,7 @@ order: 280
 links:
   - type: verifies
     target: SYS-K61Y1H
+    confirmed: 05248eb02fec
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

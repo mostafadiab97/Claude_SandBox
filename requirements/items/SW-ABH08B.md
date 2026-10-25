@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-XFVPHY
+    confirmed: 7476eaa71d9e
 ---
 The tamper detection shall store firmware images without user interaction.
 

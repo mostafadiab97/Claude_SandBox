@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-1CRQSH
+    confirmed: 2abee9728074
 ---
 Implemented in `src/cloud/cloud_backend.c`.

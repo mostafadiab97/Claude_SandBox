@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-BQ9NSH
+    confirmed: e9c956142786
 ---
 The device registry shall validate the operating mode below 0.5 W in standby.
 

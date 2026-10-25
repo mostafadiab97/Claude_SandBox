@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: SYS-N6E1NE
+    confirmed: cc346536e668
 ---
 The Bluetooth LE link shall display sensor readings below 0.5 W in standby.

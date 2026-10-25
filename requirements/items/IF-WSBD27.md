@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-SGGFKV
+    confirmed: 04cafacc256c
 ---
 The main PCB shall validate audit records when the network is unavailable.
 

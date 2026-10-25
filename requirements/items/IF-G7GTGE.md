@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-EX11HN
+    confirmed: 1e076df8d628
 ---
 The telemetry pipeline shall log safety limits with an accuracy of ±0.5 °C.

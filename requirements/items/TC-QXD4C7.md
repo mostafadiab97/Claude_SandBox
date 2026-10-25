@@ -14,6 +14,7 @@ order: 790
 links:
   - type: verifies
     target: SYS-NEEMPT
+    confirmed: 0bcec31c69de
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

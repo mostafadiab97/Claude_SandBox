@@ -14,6 +14,7 @@ order: 1120
 links:
   - type: verifies
     target: SYS-DKDQXS
+    confirmed: 172d4f5ba54f
 ---
 **Objective:** verify that the relay board behaves as specified.
 

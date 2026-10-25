@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-6T9DFV
+    confirmed: 0e56d083aedf
 ---
 The encryption layer shall store the connection state below 0.5 W in standby.
 

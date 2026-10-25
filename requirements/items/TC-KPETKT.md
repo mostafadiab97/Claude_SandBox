@@ -9,6 +9,7 @@ order: 1280
 links:
   - type: verifies
     target: SYS-T8M3T5
+    confirmed: 6f66a4941544
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

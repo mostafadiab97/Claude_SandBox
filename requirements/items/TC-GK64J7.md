@@ -11,8 +11,10 @@ order: 1260
 links:
   - type: verifies
     target: SYS-XRA360
+    confirmed: 908f575295da
   - type: verifies
     target: SW-RJQAC0
+    confirmed: 87117a978d16
 ---
 **Objective:** verify that the cloud backend behaves as specified.
 

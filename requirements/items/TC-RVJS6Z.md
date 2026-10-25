@@ -12,6 +12,7 @@ order: 1100
 links:
   - type: verifies
     target: SYS-DKB6WA
+    confirmed: 8665d5a94c43
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

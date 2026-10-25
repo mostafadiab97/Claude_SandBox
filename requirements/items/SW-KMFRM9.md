@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-J2BCRS
+    confirmed: dbe3e7f88972
 ---
 The OTA server shall report the connection state in all supported languages.

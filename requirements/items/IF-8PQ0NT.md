@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-EKVD3G
+    confirmed: da78120d2244
 ---
 The main PCB shall restore error conditions at least once per minute.

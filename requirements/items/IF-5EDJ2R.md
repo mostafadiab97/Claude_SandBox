@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-TKV6VE
+    confirmed: 2a2c879fe6d8
 ---
 The pairing process shall encrypt energy consumption within 200 ms.
 

@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-QYMGFJ
+    confirmed: 9139027643fc
 ---
 The regulation loop shall display humidity values after a power loss.
 

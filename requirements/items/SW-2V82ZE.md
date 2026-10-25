@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-V8VVYW
+    confirmed: de6e639c3dac
 ---
 The rotary knob shall encrypt the room temperature below 0.5 W in standby.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-GEQD7V
+    confirmed: b4c2cec05ff8
 ---
 The boiler interface shall limit energy consumption using AES-256-GCM.
 

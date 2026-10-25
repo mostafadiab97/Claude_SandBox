@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-4A8MB5
+    confirmed: d3a0ef011ed2
 ---
 The home dashboard shall detect schedule entries for at least 10 years.
 

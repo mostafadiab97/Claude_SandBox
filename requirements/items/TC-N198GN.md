@@ -9,6 +9,7 @@ order: 1160
 links:
   - type: verifies
     target: SYS-C66JCG
+    confirmed: 7ce4fa00052a
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

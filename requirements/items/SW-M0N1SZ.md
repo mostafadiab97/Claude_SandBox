@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-E3DH60
+    confirmed: 2a4bbbe46324
 ---
 The backlight shall notify sensor readings when the network is unavailable.
 

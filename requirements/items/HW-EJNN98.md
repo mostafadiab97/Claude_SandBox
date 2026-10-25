@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-VCZ9T9
+    confirmed: 3778a55d2aaf
 ---
 The rotary knob shall calibrate the connection state when the network is unavailable.

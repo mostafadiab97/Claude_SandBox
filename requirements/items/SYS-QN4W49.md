@@ -14,7 +14,9 @@ order: 1290
 links:
   - type: refines
     target: STK-EFJRJ9
+    confirmed: fc922ec1a72e
   - type: mitigates
     target: RSK-G8ARKV
+    confirmed: dd1f8627cbb6
 ---
 The boiler interface shall validate relay events when the network is unavailable.

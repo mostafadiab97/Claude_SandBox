@@ -13,6 +13,7 @@ order: 1980
 links:
   - type: verifies
     target: SYS-QBP134
+    confirmed: 6e1a778017fa
 ---
 **Objective:** verify that the device behaves as specified.
 

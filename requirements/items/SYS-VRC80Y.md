@@ -15,6 +15,7 @@ links:
     target: STK-H87WHA
   - type: mitigates
     target: RSK-BZRBDX
+    confirmed: be3df4abc265
 ---
 The schedule editor shall detect access tokens in under 3 s.
 

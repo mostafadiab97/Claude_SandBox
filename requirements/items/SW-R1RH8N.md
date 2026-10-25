@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-AVMGNP
+    confirmed: bc0b6c9c3a28
 ---
 The local API shall restore relay events without user interaction.

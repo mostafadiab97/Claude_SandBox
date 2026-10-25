@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-A10E8C
+    confirmed: 2c36623fc5b2
 ---
 The boiler interface shall synchronise error conditions with an accuracy of ±0.5 °C.
 

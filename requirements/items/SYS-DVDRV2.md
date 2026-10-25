@@ -13,6 +13,7 @@ order: 1770
 links:
   - type: refines
     target: STK-5CT2VD
+    confirmed: 51ca0f7a80ed
 ---
 The pairing process shall detect the room temperature using AES-256-GCM.
 

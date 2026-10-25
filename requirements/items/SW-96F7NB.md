@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-SASG4P
+    confirmed: 00a1e26f4144
 ---
 The device registry shall synchronise energy consumption without user interaction.
 

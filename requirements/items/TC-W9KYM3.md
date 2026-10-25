@@ -13,6 +13,7 @@ order: 1530
 links:
   - type: verifies
     target: SYS-NDYE2C
+    confirmed: 843e71f7ca47
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

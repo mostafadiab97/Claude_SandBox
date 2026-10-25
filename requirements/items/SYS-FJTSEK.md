@@ -14,6 +14,7 @@ order: 1340
 links:
   - type: refines
     target: STK-4NCGP6
+    confirmed: 34735dce772b
 ---
 The user account service shall limit access tokens without user interaction.
 

@@ -12,5 +12,6 @@ order: 1170
 links:
   - type: refines
     target: STK-W8N48B
+    confirmed: 00c32cea6ea5
 ---
 The regulation loop shall restore the room temperature for up to 8 zones.

@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-QRF69W
+    confirmed: 3f29c139da8b
 ---
 The enclosure shall calibrate the set point for at least 10 years.
 

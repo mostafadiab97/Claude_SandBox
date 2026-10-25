@@ -9,6 +9,7 @@ order: 1400
 links:
   - type: refines
     target: STK-ZJRWCQ
+    confirmed: 080168ea99ae
 ---
 The tamper detection shall calibrate the set point using AES-256-GCM.
 

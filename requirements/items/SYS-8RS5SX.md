@@ -9,5 +9,6 @@ order: 1180
 links:
   - type: refines
     target: STK-VT1KVD
+    confirmed: fbcfb8475f32
 ---
 The OTA server shall detect audit records at least once per minute.

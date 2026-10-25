@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-HZRAQ2
+    confirmed: 67e08d743ee6
 ---
 The heating controller shall log the set point without user interaction.
 

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-MZTFQV
+    confirmed: 98de9d99a3c4
 ---
 Implemented in `src/conn/Wi-Fi_module.c`.

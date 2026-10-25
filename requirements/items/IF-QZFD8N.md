@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-15TR5S
+    confirmed: 5313fbec9423
 ---
 The encryption layer shall log the operating mode for at least 10 years.

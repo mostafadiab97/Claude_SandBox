@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-W3VB1X
+    confirmed: 0b387183e7b1
 ---
 The tamper detection shall measure audit records at least once per minute.
 

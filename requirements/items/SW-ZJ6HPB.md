@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-V7ZK4B
+    confirmed: d3ae0a8a942d
 ---
 The watchdog shall detect relay events using AES-256-GCM.
 

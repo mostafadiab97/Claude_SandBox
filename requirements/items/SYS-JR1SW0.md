@@ -10,6 +10,7 @@ order: 1730
 links:
   - type: refines
     target: STK-JAQHJP
+    confirmed: b0af11a5c3c2
 ---
 The relay board shall authenticate sensor readings when the network is unavailable.
 

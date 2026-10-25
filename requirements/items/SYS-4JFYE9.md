@@ -12,8 +12,10 @@ order: 1710
 links:
   - type: refines
     target: STK-F7D2QS
+    confirmed: bd8a3050a12b
   - type: mitigates
     target: RSK-BXA4VK
+    confirmed: d0a719026938
 ---
 The pairing process shall calibrate energy consumption below 0.5 W in standby.
 

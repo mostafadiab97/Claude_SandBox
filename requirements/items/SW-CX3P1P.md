@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-5BZJ6Y
+    confirmed: 4f8713624f57
 ---
 The over-temperature monitor shall encrypt schedule entries for up to 8 zones.

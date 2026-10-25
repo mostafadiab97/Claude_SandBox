@@ -13,8 +13,10 @@ order: 30
 links:
   - type: verifies
     target: SYS-V7ZK4B
+    confirmed: d3ae0a8a942d
   - type: verifies
     target: SW-720QYN
+    confirmed: e0f62860c276
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

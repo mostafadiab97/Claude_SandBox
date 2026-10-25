@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: HW-9NHS9M
+    confirmed: d35b99f044e0
 ---
 The schedule editor shall log user preferences without user interaction.

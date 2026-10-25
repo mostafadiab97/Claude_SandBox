@@ -10,6 +10,7 @@ order: 1020
 links:
   - type: verifies
     target: SYS-9QXR1R
+    confirmed: c9ae9a4debf3
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

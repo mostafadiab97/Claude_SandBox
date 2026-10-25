@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-65YC2Z
+    confirmed: a23609dd7210
 ---
 Implemented in `src/ui/touch_display.c`.

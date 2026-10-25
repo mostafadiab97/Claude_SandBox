@@ -11,6 +11,7 @@ order: 960
 links:
   - type: verifies
     target: SYS-06G288
+    confirmed: 3805c8343c55
 ---
 **Objective:** verify that the device registry behaves as specified.
 

@@ -13,6 +13,7 @@ order: 1520
 links:
   - type: refines
     target: STK-EHVDJF
+    confirmed: cf195cdb6a20
 ---
 The menu system shall log energy consumption below 0.5 W in standby.
 

@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-1XCVNB
+    confirmed: 54d963c03420
 ---
 The mobile app shall limit audit records at least once per minute.

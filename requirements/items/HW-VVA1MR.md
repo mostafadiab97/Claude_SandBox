@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-HB35Z8
+    confirmed: 503c5b0d07ad
 ---
 The encryption layer shall validate the room temperature at least once per minute.
 

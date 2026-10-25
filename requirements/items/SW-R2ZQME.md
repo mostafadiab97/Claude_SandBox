@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-EKB2T7
+    confirmed: 08d1945fa1d9
 ---
 The cloud backend shall measure error conditions using AES-256-GCM.
 

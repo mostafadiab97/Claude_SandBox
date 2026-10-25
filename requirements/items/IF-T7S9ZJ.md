@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-ZS700Y
+    confirmed: 3e1573548eed
 ---
 The encryption layer shall authenticate schedule entries for at least 10 years.

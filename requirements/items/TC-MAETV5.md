@@ -13,6 +13,7 @@ order: 620
 links:
   - type: verifies
     target: SYS-76BVFJ
+    confirmed: 3214f1c9f970
 ---
 **Objective:** verify that the device behaves as specified.
 

@@ -14,6 +14,7 @@ order: 1140
 links:
   - type: verifies
     target: SYS-PNS6E7
+    confirmed: 67545fb801f7
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

@@ -14,8 +14,10 @@ order: 210
 links:
   - type: refines
     target: STK-HH6ZNR
+    confirmed: caa77fe9df1c
   - type: mitigates
     target: RSK-ZJD18Y
+    confirmed: 94e509946a5c
 ---
 The rotary knob shall detect firmware images within 200 ms.
 

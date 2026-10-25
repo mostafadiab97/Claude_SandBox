@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-H9YARC
+    confirmed: 65250d626484
 ---
 The main PCB shall log error conditions in all supported languages.
 

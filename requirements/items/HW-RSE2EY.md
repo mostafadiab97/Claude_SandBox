@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-RM8EM1
+    confirmed: 464ef221678f
 ---
 The mobile app shall synchronise schedule entries within 200 ms.
 

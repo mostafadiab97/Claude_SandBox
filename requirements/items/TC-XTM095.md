@@ -9,8 +9,10 @@ order: 920
 links:
   - type: verifies
     target: SYS-TRKV8X
+    confirmed: 598d6ef77c60
   - type: verifies
     target: SW-JRSXRR
+    confirmed: 1355ccce7c2e
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.
 

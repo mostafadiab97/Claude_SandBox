@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-2MTE37
+    confirmed: 8c19b40a40ed
 ---
 The encryption layer shall detect access tokens using AES-256-GCM.
 

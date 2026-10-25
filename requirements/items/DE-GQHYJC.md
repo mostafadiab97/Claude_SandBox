@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-K35R6D
+    confirmed: b33775dffaf4
 ---
 Implemented in `src/cloud/device_registry.c`.

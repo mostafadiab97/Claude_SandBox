@@ -14,6 +14,7 @@ order: 550
 links:
   - type: verifies
     target: SYS-323774
+    confirmed: 37d7aaee7050
 ---
 **Objective:** verify that the boiler interface behaves as specified.
 

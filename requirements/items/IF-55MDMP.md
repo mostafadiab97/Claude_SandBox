@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-KE3ZCS
+    confirmed: "131852556952"
 ---
 The home dashboard shall measure energy consumption below 0.5 W in standby.

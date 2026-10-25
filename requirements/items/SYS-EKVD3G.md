@@ -11,6 +11,7 @@ order: 2410
 links:
   - type: refines
     target: STK-CDR1Y9
+    confirmed: d9857f8b33bf
 ---
 The main PCB shall display sensor readings below 0.5 W in standby.
 

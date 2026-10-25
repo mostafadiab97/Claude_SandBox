@@ -10,5 +10,6 @@ order: 650
 links:
   - type: refines
     target: STK-M28XWW
+    confirmed: bcf262f10744
 ---
 The enclosure shall report humidity values without user interaction.

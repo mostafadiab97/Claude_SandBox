@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-YFQ7J9
+    confirmed: 879d2491ed8f
 ---
 The Wi-Fi module shall report relay events for up to 8 zones.

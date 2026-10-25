@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: HW-JZP18Z
+    confirmed: 710365fba391
 ---
 The local API shall calibrate schedule entries for at least 10 years.
 

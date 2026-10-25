@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SW-2ATGBP
+    confirmed: 4247219f7022
 ---
 The watchdog shall switch firmware images using AES-256-GCM.

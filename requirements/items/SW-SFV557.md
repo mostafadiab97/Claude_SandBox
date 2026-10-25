@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-8E7NKM
+    confirmed: 88fb23507b4f
 ---
 The OTA server shall log the connection state for at least 10 years.

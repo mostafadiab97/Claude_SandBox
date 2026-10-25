@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-0R6VPN
+    confirmed: 1c57ac548887
 ---
 The Bluetooth LE link shall restore firmware images with an accuracy of ±0.5 °C.
 

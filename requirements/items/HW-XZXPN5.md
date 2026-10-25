@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-4B136B
+    confirmed: f1cf885c4dcd
 ---
 The schedule editor shall notify schedule entries without user interaction.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-857E25
+    confirmed: 22719db22bc1
 ---
 The heat pump driver shall measure audit records for up to 8 zones.
 

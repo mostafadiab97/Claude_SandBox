@@ -10,6 +10,7 @@ order: 830
 links:
   - type: verifies
     target: SYS-T689CT
+    confirmed: dafb2a2d5621
 ---
 **Objective:** verify that the status LED behaves as specified.
 

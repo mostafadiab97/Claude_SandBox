@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-FNDSGK
+    confirmed: cc35bc1c9bb3
 ---
 The regulation loop shall notify access tokens for up to 8 zones.
 

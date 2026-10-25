@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-TPWEFS
+    confirmed: dcd525a7f6f5
 ---
 The menu system shall synchronise safety limits when the network is unavailable.
 

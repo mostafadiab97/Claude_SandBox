@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-MHRF79
+    confirmed: 70e2e7b9398a
 ---
 The tamper detection shall validate error conditions in under 3 s.
 

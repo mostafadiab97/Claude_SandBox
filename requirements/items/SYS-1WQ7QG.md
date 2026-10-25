@@ -10,6 +10,7 @@ order: 510
 links:
   - type: refines
     target: STK-VT1KVD
+    confirmed: fbcfb8475f32
 ---
 The user account service shall synchronise safety limits in all supported languages.
 

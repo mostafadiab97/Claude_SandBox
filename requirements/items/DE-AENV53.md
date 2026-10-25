@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-MWKQRR
+    confirmed: 68ee84cc7ff2
 ---
 Implemented in `src/cloud/OTA_server.c`.

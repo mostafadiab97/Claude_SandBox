@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-BSG1R9
+    confirmed: 85db971310c7
 ---
 Implemented in `src/ui/touch_display.c`.

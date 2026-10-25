@@ -14,6 +14,7 @@ order: 390
 links:
   - type: verifies
     target: SYS-H3FFZV
+    confirmed: 5a7f9180a50d
 ---
 **Objective:** verify that the backlight behaves as specified.
 

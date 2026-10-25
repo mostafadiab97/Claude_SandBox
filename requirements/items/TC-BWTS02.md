@@ -13,8 +13,10 @@ order: 1460
 links:
   - type: verifies
     target: SYS-D1ZDY9
+    confirmed: 3c95eb652d79
   - type: verifies
     target: SW-YH3CS4
+    confirmed: a4cbb686541c
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

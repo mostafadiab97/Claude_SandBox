@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-R2FDWQ
+    confirmed: 08d5a1fe5a7b
 ---
 The schedule editor shall switch schedule entries within 200 ms.
 

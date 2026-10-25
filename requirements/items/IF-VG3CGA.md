@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-9WHVE0
+    confirmed: 70c58aa2c950
 ---
 The notification service shall synchronise the operating mode in under 3 s.
 

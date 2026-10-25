@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-3NHJRZ
+    confirmed: baea27b5b7c7
 ---
 The rotary knob shall validate humidity values using AES-256-GCM.
 

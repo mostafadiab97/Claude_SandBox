@@ -12,6 +12,7 @@ order: 1430
 links:
   - type: verifies
     target: SYS-5FN1TB
+    confirmed: 52219f23d7ef
 ---
 **Objective:** verify that the regulation loop behaves as specified.
 

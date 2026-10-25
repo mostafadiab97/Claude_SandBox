@@ -14,6 +14,7 @@ order: 2150
 links:
   - type: refines
     target: STK-4NGQJ5
+    confirmed: 96640a7e340d
 ---
 The enclosure shall switch sensor readings in under 3 s.
 

@@ -12,6 +12,7 @@ order: 750
 links:
   - type: verifies
     target: SYS-CN7FHD
+    confirmed: 5f0cd41f8d2d
 ---
 **Objective:** verify that the relay board behaves as specified.
 

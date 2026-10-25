@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-AQ211W
+    confirmed: 17e9d0952657
 ---
 The notification service shall encrypt audit records in all supported languages.
 

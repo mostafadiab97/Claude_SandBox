@@ -13,6 +13,7 @@ order: 480
 links:
   - type: verifies
     target: SYS-QK55NH
+    confirmed: 3934c54c3f62
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

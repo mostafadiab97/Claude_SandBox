@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-E79TSB
+    confirmed: dbeab1b468f4
 ---
 The relay board shall calibrate the room temperature in under 3 s.

@@ -10,6 +10,7 @@ order: 1350
 links:
   - type: refines
     target: STK-EWSQ9Z
+    confirmed: aa5e4143dbe7
 ---
 The heat pump driver shall synchronise the room temperature with an accuracy of ±0.5 °C.
 

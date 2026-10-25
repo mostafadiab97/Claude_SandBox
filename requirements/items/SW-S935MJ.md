@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-94CAYR
+    confirmed: a1ec4218b106
 ---
 The user account service shall notify relay events at least once per minute.
 

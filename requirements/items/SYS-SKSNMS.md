@@ -13,6 +13,7 @@ order: 1510
 links:
   - type: refines
     target: STK-GMCKMF
+    confirmed: 0937b27654b1
 ---
 The local API shall synchronise the room temperature in under 3 s.
 

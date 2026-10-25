@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-WATCFH
+    confirmed: b64888f762a3
 ---
 The telemetry pipeline shall detect the room temperature in all supported languages.
 

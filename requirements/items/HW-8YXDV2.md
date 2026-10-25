@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-XBES39
+    confirmed: bc98487a5cdc
 ---
 The pairing process shall detect humidity values below 0.5 W in standby.
 

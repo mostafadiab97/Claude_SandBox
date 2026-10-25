@@ -9,6 +9,7 @@ order: 1480
 links:
   - type: verifies
     target: SYS-WQ0CE1
+    confirmed: 876eb172799e
 ---
 **Objective:** verify that the zone valve behaves as specified.
 

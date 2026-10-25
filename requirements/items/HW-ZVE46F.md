@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-X20Q9Q
+    confirmed: 872e82d5e322
 ---
 The relay board shall display schedule entries without user interaction.
 

@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-Y096JN
+    confirmed: 3622c05b8ec0
 ---
 The status LED shall store user preferences without user interaction.

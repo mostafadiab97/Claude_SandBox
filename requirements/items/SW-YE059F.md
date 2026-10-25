@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-2VJXMH
+    confirmed: 83f4124c0709
 ---
 The zone valve shall log humidity values using AES-256-GCM.
 

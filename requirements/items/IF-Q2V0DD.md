@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-AH9G64
+    confirmed: e3199b24d9a9
 ---
 The cloud backend shall display the operating mode using AES-256-GCM.

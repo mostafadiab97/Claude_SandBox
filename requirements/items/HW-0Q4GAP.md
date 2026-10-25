@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-DXQ6WK
+    confirmed: c10fd23a93b0
 ---
 The user account service shall encrypt the room temperature for at least 10 years.
 

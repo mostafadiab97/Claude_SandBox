@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-71EHW5
+    confirmed: 79a9807170d2
 ---
 The device registry shall measure access tokens for up to 8 zones.

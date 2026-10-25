@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-11FFG3
+    confirmed: b87802a5ad61
 ---
 The battery backup shall synchronise the room temperature in under 3 s.
 

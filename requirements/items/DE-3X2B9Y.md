@@ -14,5 +14,6 @@ order: 20
 links:
   - type: implements
     target: SW-JYGRV4
+    confirmed: 11f85a727615
 ---
 Implemented in `src/safe/encryption_layer.c`.

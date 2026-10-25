@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-JZGGVQ
+    confirmed: 2a9e2d07c950
 ---
 The user account service shall limit firmware images using AES-256-GCM.

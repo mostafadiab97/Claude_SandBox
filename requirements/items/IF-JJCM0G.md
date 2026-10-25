@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-NADNAY
+    confirmed: 7956526ae9f5
 ---
 The touch display shall display error conditions for up to 8 zones.

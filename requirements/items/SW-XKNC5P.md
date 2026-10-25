@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-5N0YKT
+    confirmed: 08567b44affd
 ---
 The OTA server shall store access tokens after a power loss.
 

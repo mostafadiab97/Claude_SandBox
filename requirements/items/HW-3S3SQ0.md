@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-B94NGY
+    confirmed: 2cc78cf60d34
 ---
 The status LED shall detect safety limits after a power loss.
 

@@ -13,5 +13,6 @@ order: 320
 links:
   - type: refines
     target: STK-JBY2BX
+    confirmed: bcce6e51beb4
 ---
 The tamper detection shall synchronise audit records within 200 ms.

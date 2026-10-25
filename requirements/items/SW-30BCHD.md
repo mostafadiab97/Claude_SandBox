@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-TKV6VE
+    confirmed: 2a2c879fe6d8
 ---
 The pairing process shall authenticate error conditions when the network is unavailable.
 

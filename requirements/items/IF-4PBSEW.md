@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-7EXW5Q
+    confirmed: 70810886666e
 ---
 The backlight shall report the set point after a power loss.
 

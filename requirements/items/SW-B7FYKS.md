@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-T6SZE0
+    confirmed: eb82d81a139b
 ---
 The Wi-Fi module shall switch sensor readings in under 3 s.

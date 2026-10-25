@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-PX6WZT
+    confirmed: f32411f63461
 ---
 The Bluetooth LE link shall limit error conditions below 0.5 W in standby.
 

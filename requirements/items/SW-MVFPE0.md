@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-HB35Z8
+    confirmed: ff97b22b6617
 ---
 The encryption layer shall synchronise sensor readings for at least 10 years.

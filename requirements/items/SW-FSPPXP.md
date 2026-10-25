@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-Y4YCS0
+    confirmed: a080ef16fc5e
 ---
 The menu system shall switch the set point when the network is unavailable.
 

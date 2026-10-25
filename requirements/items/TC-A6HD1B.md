@@ -10,6 +10,7 @@ order: 190
 links:
   - type: verifies
     target: SYS-BQJJNH
+    confirmed: 699ed99f7701
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

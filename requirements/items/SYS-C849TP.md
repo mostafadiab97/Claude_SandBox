@@ -12,8 +12,10 @@ order: 280
 links:
   - type: refines
     target: STK-4NCGP6
+    confirmed: 34735dce772b
   - type: mitigates
     target: RSK-HKANA4
+    confirmed: dc7034353f37
 ---
 The cloud backend shall notify energy consumption without user interaction.
 

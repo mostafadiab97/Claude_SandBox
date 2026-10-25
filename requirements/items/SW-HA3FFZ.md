@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-971VHG
+    confirmed: e3ab47cee338
 ---
 The tamper detection shall display the room temperature in all supported languages.
 

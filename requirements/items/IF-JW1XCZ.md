@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-GK9D83
+    confirmed: e117ad0083a4
 ---
 The watchdog shall display user preferences at least once per minute.
 

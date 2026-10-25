@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-Q1NDZA
+    confirmed: 1aaab302f129
 ---
 The power supply shall notify schedule entries in all supported languages.

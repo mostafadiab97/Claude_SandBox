@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-1KYW4V
+    confirmed: b5edec3ba8f3
 ---
 The Zigbee radio shall calibrate the connection state within 200 ms.
 

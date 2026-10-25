@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-2TKSSR
+    confirmed: 7b7bf03ff065
 ---
 The Wi-Fi module shall notify sensor readings at least once per minute.
 

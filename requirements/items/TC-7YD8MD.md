@@ -12,6 +12,7 @@ order: 330
 links:
   - type: verifies
     target: SYS-RG9GAY
+    confirmed: 9687363c0226
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-W7QYYZ
+    confirmed: a8bc160ac28c
 ---
 The login screen shall display safety limits after a power loss.
 

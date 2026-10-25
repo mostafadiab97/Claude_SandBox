@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-XW4JM5
+    confirmed: ed6d4a00a62b
 ---
 The regulation loop shall restore the room temperature at least once per minute.
 

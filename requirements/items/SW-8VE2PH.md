@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-F4XGXW
+    confirmed: 0bd6fa290bf4
 ---
 The backlight shall report firmware images for up to 8 zones.
 

@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-6VF733
+    confirmed: 2270cc937a19
 ---
 The power supply shall log relay events below 0.5 W in standby.
 

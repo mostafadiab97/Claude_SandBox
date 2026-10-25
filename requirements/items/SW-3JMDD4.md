@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-8MMGZP
+    confirmed: 2ba99c4bfc3a
 ---
 The watchdog shall validate user preferences without user interaction.
 

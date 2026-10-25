@@ -13,5 +13,6 @@ order: 130
 links:
   - type: refines
     target: STK-9YF5RE
+    confirmed: 43643c03020f
 ---
 The boiler interface shall log sensor readings for at least 10 years.

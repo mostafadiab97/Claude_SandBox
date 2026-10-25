@@ -12,6 +12,7 @@ order: 1720
 links:
   - type: verifies
     target: SYS-EKVD3G
+    confirmed: da78120d2244
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ZHJT86
+    confirmed: d2ebf70532a7
 ---
 The power supply shall switch safety limits for up to 8 zones.
 

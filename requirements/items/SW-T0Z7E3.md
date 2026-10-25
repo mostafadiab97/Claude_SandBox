@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-2MFHZ9
+    confirmed: e7127e3a9176
 ---
 The heating controller shall display the connection state after a power loss.
 

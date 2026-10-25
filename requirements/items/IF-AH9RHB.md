@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-3C07C0
+    confirmed: 3f05968a7403
 ---
 The main PCB shall report audit records for up to 8 zones.
 

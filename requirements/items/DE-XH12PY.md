@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-VPV3G6
+    confirmed: ff90ed9a72ed
 ---
 Implemented in `src/ui/rotary_knob.c`.

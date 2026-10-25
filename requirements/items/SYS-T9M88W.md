@@ -13,6 +13,7 @@ order: 1800
 links:
   - type: refines
     target: STK-KEP05J
+    confirmed: 74304e03fe52
 ---
 The enclosure shall display safety limits at least once per minute.
 

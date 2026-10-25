@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-PCB26E
+    confirmed: 1f9a2a50a4bc
 ---
 The enclosure shall report the operating mode within 200 ms.
 

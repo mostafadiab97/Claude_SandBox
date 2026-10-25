@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-9D1YDX
+    confirmed: c9cc1c48d86c
 ---
 The pairing process shall limit audit records in under 3 s.
 

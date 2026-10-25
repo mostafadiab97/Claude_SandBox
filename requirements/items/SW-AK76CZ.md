@@ -12,5 +12,6 @@ order: 40
 links:
   - type: refines
     target: SYS-GPZ86P
+    confirmed: 29497feac15d
 ---
 The OTA server shall limit sensor readings for at least 10 years.

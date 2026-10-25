@@ -10,5 +10,6 @@ order: 1400
 links:
   - type: refines
     target: STK-M7S0HJ
+    confirmed: 000356d5d38b
 ---
 The regulation loop shall authenticate access tokens when the network is unavailable.

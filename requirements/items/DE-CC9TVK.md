@@ -11,5 +11,6 @@ order: 10
 links:
   - type: implements
     target: SW-79DGMT
+    confirmed: 6ddd86bfed11
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

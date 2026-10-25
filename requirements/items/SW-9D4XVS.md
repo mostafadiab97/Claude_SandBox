@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-J8Q01T
+    confirmed: d85270700def
 ---
 The zone valve shall measure energy consumption after a power loss.

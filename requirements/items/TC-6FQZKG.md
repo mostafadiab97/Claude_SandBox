@@ -12,8 +12,10 @@ order: 710
 links:
   - type: verifies
     target: SYS-64T5WP
+    confirmed: 6eadc6d38c4a
   - type: verifies
     target: SW-CQC35W
+    confirmed: 465a436c53ac
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

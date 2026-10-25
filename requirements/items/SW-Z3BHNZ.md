@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-4Y2DKR
+    confirmed: 02219a2f933f
 ---
 The mobile app shall report access tokens without user interaction.
 

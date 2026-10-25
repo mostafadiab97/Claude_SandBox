@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-Y15PQY
+    confirmed: 5effad950c23
 ---
 The cloud backend shall measure the set point in under 3 s.
 

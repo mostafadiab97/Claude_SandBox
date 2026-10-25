@@ -10,6 +10,7 @@ order: 1990
 links:
   - type: refines
     target: STK-G2ZBHW
+    confirmed: fee0d3303478
 ---
 The Bluetooth LE link shall store the room temperature using AES-256-GCM.
 

@@ -9,5 +9,6 @@ order: 40
 links:
   - type: refines
     target: SYS-V06HGN
+    confirmed: b6e976d782ae
 ---
 The notification service shall detect humidity values when the network is unavailable.

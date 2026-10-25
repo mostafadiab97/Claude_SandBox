@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-GD5QC7
+    confirmed: ec1a86cc2ebb
 ---
 The Bluetooth LE link shall display humidity values for at least 10 years.

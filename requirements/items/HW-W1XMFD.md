@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-B99DV1
+    confirmed: 4cbe1396d101
 ---
 The local API shall calibrate safety limits with an accuracy of ±0.5 °C.
 

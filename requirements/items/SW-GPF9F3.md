@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-KJZDA6
+    confirmed: cceccc292cf6
 ---
 The pairing process shall store sensor readings using AES-256-GCM.
 

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-M533EE
+    confirmed: 7d245035a878
 ---
 The battery backup shall detect relay events in under 3 s.
 

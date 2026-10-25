@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-7XYG17
+    confirmed: b02cb0cbf227
 ---
 The battery backup shall display audit records using AES-256-GCM.
 

@@ -12,6 +12,7 @@ order: 1190
 links:
   - type: verifies
     target: SYS-QHMFA6
+    confirmed: 9375eb52bc71
 ---
 **Objective:** verify that the device behaves as specified.
 

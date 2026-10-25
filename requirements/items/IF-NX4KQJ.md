@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-HWK1PW
+    confirmed: c8426e9a7327
 ---
 The zone valve shall synchronise energy consumption in all supported languages.
 

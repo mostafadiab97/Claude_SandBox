@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-VR1QT6
+    confirmed: b3132101c5d6
 ---
 The secure boot shall store access tokens for at least 10 years.
 

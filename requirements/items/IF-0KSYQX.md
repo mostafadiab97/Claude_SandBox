@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-DTDMRC
+    confirmed: 001ab42cb872
 ---
 The status LED shall notify the set point at least once per minute.
 

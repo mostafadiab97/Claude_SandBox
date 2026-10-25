@@ -10,5 +10,6 @@ order: 910
 links:
   - type: refines
     target: STK-4K2NE4
+    confirmed: 7cfb31353d89
 ---
 The menu system shall authenticate schedule entries below 0.5 W in standby.

@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-HV5YB5
+    confirmed: a372a699b46d
 ---
 The telemetry pipeline shall store the room temperature with an accuracy of ±0.5 °C.
 

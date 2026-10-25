@@ -9,6 +9,7 @@ order: 40
 links:
   - type: refines
     target: SYS-DHBZX2
+    confirmed: f269617e5175
 ---
 The pairing process shall switch audit records when the network is unavailable.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-ZM1TJV
+    confirmed: d30e404e164e
 ---
 The mobile app shall validate sensor readings below 0.5 W in standby.
 

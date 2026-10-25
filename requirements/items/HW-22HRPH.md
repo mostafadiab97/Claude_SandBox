@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XNZMY7
+    confirmed: 1e674699e206
 ---
 The backlight shall detect the operating mode for up to 8 zones.
 

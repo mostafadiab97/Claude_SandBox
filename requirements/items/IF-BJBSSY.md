@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-FN6K6C
+    confirmed: de635490bacc
 ---
 The enclosure shall notify user preferences without user interaction.
 

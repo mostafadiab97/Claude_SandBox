@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-GYMKHD
+    confirmed: 548847d1d9b7
 ---
 The battery backup shall detect user preferences for up to 8 zones.
 

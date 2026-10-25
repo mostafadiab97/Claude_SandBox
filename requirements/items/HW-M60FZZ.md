@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-AXR87X
+    confirmed: 4959dec1f97d
 ---
 The notification service shall synchronise the connection state in all supported languages.
 

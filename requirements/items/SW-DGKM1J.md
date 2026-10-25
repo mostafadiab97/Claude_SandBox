@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-M63JNN
+    confirmed: 5a464a8782e6
 ---
 The mobile app shall authenticate audit records with an accuracy of ±0.5 °C.
 

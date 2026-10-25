@@ -13,6 +13,7 @@ order: 150
 links:
   - type: verifies
     target: SYS-8BT9A5
+    confirmed: 768828fca553
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

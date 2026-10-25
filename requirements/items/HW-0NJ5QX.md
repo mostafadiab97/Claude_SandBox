@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-HY185S
+    confirmed: 4f41eab5e96a
 ---
 The pairing process shall store schedule entries with an accuracy of ±0.5 °C.
 

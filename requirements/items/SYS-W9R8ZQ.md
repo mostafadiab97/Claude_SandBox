@@ -12,8 +12,10 @@ order: 720
 links:
   - type: refines
     target: STK-BV5YMS
+    confirmed: 07434b0b5615
   - type: mitigates
     target: RSK-W1W7WX
+    confirmed: 902c1cbc8514
 ---
 The backlight shall display schedule entries in under 3 s.
 

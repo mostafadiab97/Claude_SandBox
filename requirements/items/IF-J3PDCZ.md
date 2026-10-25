@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-V8VVYW
+    confirmed: de6e639c3dac
 ---
 The rotary knob shall notify error conditions in under 3 s.
 

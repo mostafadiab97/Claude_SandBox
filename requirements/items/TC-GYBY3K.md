@@ -12,6 +12,7 @@ order: 1070
 links:
   - type: verifies
     target: SYS-35NR1X
+    confirmed: ce0c7ab3d25e
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

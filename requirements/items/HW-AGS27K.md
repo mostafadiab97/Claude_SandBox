@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-A6KWV7
+    confirmed: 4488148b69d2
 ---
 The enclosure shall validate the connection state with an accuracy of ±0.5 °C.
 

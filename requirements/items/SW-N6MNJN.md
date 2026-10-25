@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-PRTYJ3
+    confirmed: 93824c965ccd
 ---
 The heat pump driver shall measure error conditions with an accuracy of ±0.5 °C.
 

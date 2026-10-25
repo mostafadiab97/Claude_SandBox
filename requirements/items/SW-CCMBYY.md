@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-Z78B12
+    confirmed: bbd897175876
 ---
 The user account service shall switch audit records in under 3 s.
 

@@ -12,8 +12,10 @@ order: 200
 links:
   - type: verifies
     target: SYS-3PT4BJ
+    confirmed: 0a43238dc6c3
   - type: verifies
     target: SW-99AAP4
+    confirmed: 3a4ac0fc5bf5
 ---
 **Objective:** verify that the touch display behaves as specified.
 

@@ -12,5 +12,6 @@ order: 140
 links:
   - type: refines
     target: STK-SM9B7Z
+    confirmed: 44235e2789f0
 ---
 The tamper detection shall synchronise error conditions using AES-256-GCM.

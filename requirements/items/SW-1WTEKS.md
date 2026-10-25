@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-TNP510
+    confirmed: 342a56df9a48
 ---
 The notification service shall detect humidity values below 0.5 W in standby.
 

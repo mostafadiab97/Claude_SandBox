@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-HMK3XJ
+    confirmed: 243ec13ec9e6
 ---
 The secure boot shall store audit records using AES-256-GCM.

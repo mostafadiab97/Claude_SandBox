@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-SVYNWV
+    confirmed: a570d6044bb1
 ---
 The local API shall restore user preferences using AES-256-GCM.
 

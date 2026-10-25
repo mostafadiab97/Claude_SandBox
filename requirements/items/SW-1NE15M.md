@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-14RRJP
+    confirmed: 6d7d6ad41e6e
 ---
 The schedule editor shall authenticate the room temperature at least once per minute.
 

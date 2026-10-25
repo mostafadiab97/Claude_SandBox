@@ -9,6 +9,7 @@ order: 1920
 links:
   - type: verifies
     target: SYS-34QNYE
+    confirmed: f6e72f885951
 ---
 **Objective:** verify that the device behaves as specified.
 

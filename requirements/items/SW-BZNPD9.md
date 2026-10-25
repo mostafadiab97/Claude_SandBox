@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-4FGGM0
+    confirmed: 911515a7fcb8
 ---
 The cloud backend shall store the room temperature in under 3 s.
 

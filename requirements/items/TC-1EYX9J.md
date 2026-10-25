@@ -12,6 +12,7 @@ order: 1160
 links:
   - type: verifies
     target: SYS-TXF8EG
+    confirmed: 941441170ff9
 ---
 **Objective:** verify that the regulation loop behaves as specified.
 

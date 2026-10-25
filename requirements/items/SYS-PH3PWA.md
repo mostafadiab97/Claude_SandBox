@@ -10,8 +10,10 @@ order: 1480
 links:
   - type: refines
     target: STK-SKPX7F
+    confirmed: ff820400e2f9
   - type: mitigates
     target: RSK-PEJG0K
+    confirmed: b0f54061ad18
 ---
 The OTA server shall limit error conditions in all supported languages.
 

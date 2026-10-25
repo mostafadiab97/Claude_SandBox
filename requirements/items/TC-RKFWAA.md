@@ -13,6 +13,7 @@ order: 1130
 links:
   - type: verifies
     target: SYS-CRWPMS
+    confirmed: 052e277686a9
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

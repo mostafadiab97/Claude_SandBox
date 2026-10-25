@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-GQPR80
+    confirmed: d2b331597a33
 ---
 The mobile app shall validate the set point in under 3 s.

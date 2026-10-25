@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-CGJPSG
+    confirmed: 4edc21a3fb0f
 ---
 The heat pump driver shall restore user preferences for at least 10 years.
 

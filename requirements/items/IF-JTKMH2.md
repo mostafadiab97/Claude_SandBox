@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-SJBRGZ
+    confirmed: b7d5a11fe0af
 ---
 The heat pump driver shall limit the room temperature when the network is unavailable.
 

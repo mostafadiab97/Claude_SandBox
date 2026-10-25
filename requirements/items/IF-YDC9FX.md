@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-BD9F9G
+    confirmed: a784b1e17758
 ---
 The touch display shall store the set point below 0.5 W in standby.

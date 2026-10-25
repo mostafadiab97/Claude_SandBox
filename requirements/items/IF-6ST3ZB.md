@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-W2WVAG
+    confirmed: 4038e843b807
 ---
 The mobile app shall report firmware images in under 3 s.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-3V07ZT
+    confirmed: bd35bc218b6c
 ---
 The relay board shall report energy consumption for at least 10 years.
 

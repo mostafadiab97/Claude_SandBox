@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-BQGNZC
+    confirmed: 7c25709120be
 ---
 The watchdog shall encrypt sensor readings after a power loss.
 

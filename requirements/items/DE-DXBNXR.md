@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-82VWC8
+    confirmed: d65f935ce203
 ---
 Implemented in `src/app/login_screen.c`.

@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-SXS3JV
+    confirmed: 67410b786182
 ---
 The local API shall report user preferences when the network is unavailable.

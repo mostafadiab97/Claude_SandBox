@@ -13,8 +13,10 @@ order: 370
 links:
   - type: verifies
     target: SYS-91NRJ9
+    confirmed: 8a99ad0fb5ef
   - type: verifies
     target: SW-J6NQD8
+    confirmed: beec846c8c19
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.
 

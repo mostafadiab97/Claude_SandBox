@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SW-YJPEF1
+    confirmed: b9264051a674
 ---
 The telemetry pipeline shall measure user preferences at least once per minute.

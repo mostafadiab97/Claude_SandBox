@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-82CVHQ
+    confirmed: 53eb98981ee7
 ---
 The power supply shall synchronise safety limits in all supported languages.
 

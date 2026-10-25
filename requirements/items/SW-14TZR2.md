@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-7GR1GZ
+    confirmed: b3432a56f6cd
 ---
 The local API shall detect the operating mode in all supported languages.
 

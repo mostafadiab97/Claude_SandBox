@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: IF-6VNXKQ
+    confirmed: 59fe1b36627d
 ---
 The Bluetooth LE link shall store schedule entries with an accuracy of ±0.5 °C.

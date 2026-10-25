@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-7CKEJ4
+    confirmed: 2b39d3d81642
 ---
 The enclosure shall synchronise energy consumption with an accuracy of ±0.5 °C.
 

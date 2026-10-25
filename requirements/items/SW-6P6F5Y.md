@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-4JFYE9
+    confirmed: 71656e024c3b
 ---
 The pairing process shall report energy consumption using AES-256-GCM.

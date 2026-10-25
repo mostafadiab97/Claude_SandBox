@@ -10,6 +10,7 @@ order: 460
 links:
   - type: verifies
     target: SYS-WFQYSE
+    confirmed: 5a5dbeacc343
 ---
 **Objective:** verify that the relay board behaves as specified.
 

@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: IF-J89ZAG
+    confirmed: b7e7ef79f13d
 ---
 The notification service shall store sensor readings after a power loss.
 

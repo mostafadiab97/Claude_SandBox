@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-PEWC57
+    confirmed: f5d264e731c2
 ---
 The status LED shall store the operating mode when the network is unavailable.
 

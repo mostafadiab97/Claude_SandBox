@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-GK8E6S
+    confirmed: 3497825150a9
 ---
 The telemetry pipeline shall measure the connection state for up to 8 zones.
 

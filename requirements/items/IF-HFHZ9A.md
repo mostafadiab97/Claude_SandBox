@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-X491FT
+    confirmed: 8674f6feb478
 ---
 The telemetry pipeline shall display humidity values in under 3 s.

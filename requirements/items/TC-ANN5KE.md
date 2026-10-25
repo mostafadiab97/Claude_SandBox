@@ -11,6 +11,7 @@ order: 310
 links:
   - type: verifies
     target: SYS-AN3CZW
+    confirmed: 1331a264167a
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

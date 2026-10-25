@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-3C0KH3
+    confirmed: 171e276ae700
 ---
 The secure boot shall report user preferences at least once per minute.
 

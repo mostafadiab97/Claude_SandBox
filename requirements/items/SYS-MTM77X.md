@@ -14,7 +14,9 @@ order: 1470
 links:
   - type: refines
     target: STK-639N9T
+    confirmed: 252da9caa62c
   - type: mitigates
     target: RSK-02ER1G
+    confirmed: 146ad1557070
 ---
 The schedule editor shall limit sensor readings when the network is unavailable.

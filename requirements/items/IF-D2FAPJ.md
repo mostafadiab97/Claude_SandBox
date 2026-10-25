@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: IF-0YV6SB
+    confirmed: de57caa65551
 ---
 The home dashboard shall notify relay events without user interaction.

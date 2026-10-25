@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-AXJ7EV
+    confirmed: 1068668fe3b8
 ---
 The Bluetooth LE link shall restore the operating mode using AES-256-GCM.
 

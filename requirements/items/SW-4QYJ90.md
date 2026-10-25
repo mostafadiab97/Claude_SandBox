@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-SEWHSS
+    confirmed: aa9171cf3c4c
 ---
 The telemetry pipeline shall display relay events in all supported languages.
 

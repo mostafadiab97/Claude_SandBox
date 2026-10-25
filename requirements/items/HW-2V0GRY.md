@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-SGE8R7
+    confirmed: f0923cc9ca25
 ---
 The power supply shall measure the room temperature with an accuracy of ±0.5 °C.
 

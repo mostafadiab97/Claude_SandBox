@@ -10,8 +10,10 @@ order: 1960
 links:
   - type: refines
     target: STK-DKX022
+    confirmed: a534e573be6a
   - type: mitigates
     target: RSK-Y1RXSP
+    confirmed: 561d2ee3c121
 ---
 The user account service shall synchronise the room temperature within 200 ms.
 

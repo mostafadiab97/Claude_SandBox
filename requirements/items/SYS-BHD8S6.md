@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: STK-ZJRWCQ
+    confirmed: 080168ea99ae
 ---
 The encryption layer shall log the room temperature using AES-256-GCM.
 

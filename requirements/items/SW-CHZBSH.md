@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-EYJ94S
+    confirmed: 68e2cd729db2
 ---
 The mobile app shall log access tokens when the network is unavailable.
 

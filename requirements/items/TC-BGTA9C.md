@@ -10,8 +10,10 @@ order: 1460
 links:
   - type: verifies
     target: SYS-RV3J4H
+    confirmed: c844415dcddc
   - type: verifies
     target: SW-RFFCF6
+    confirmed: e55ee221dfd4
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

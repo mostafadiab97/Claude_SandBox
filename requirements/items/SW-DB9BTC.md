@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-0PGBJQ
+    confirmed: 70943949df10
 ---
 The Bluetooth LE link shall validate relay events after a power loss.
 

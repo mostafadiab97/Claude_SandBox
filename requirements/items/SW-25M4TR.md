@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-F2DJDC
+    confirmed: 2d379fb34255
 ---
 The watchdog shall limit the operating mode when the network is unavailable.
 

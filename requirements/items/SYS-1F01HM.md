@@ -13,6 +13,7 @@ order: 1870
 links:
   - type: refines
     target: STK-1TB226
+    confirmed: ea29425b18b7
 ---
 The encryption layer shall notify humidity values in all supported languages.
 

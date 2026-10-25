@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-GQMSWY
+    confirmed: 25ed5bb60995
 ---
 The schedule editor shall authenticate the set point when the network is unavailable.
 

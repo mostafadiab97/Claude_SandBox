@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-WYF7D8
+    confirmed: 40dbdbb8a1de
 ---
 The local API shall report the operating mode in all supported languages.
 

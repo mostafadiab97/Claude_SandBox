@@ -14,6 +14,7 @@ order: 1410
 links:
   - type: verifies
     target: SYS-82XYZM
+    confirmed: 7f8ed4700350
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

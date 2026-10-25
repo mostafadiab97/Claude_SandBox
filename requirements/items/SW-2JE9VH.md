@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-2NNT9F
+    confirmed: 34d488ad75d2
 ---
 The status LED shall synchronise access tokens in all supported languages.
 

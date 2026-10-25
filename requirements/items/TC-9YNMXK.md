@@ -12,6 +12,7 @@ order: 690
 links:
   - type: verifies
     target: SYS-XGYXWY
+    confirmed: fb88a89b54aa
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

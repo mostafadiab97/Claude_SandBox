@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-M3FMZZ
+    confirmed: 462438fa0d84
 ---
 The status LED shall measure firmware images using AES-256-GCM.
 

@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-R2FDWQ
+    confirmed: 08d5a1fe5a7b
 ---
 The schedule editor shall report sensor readings in all supported languages.

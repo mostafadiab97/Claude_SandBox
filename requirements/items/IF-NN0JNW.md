@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-AYSZZY
+    confirmed: 6829857dc6fd
 ---
 The power supply shall limit firmware images in all supported languages.
 

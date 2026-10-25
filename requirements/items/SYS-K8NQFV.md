@@ -14,6 +14,7 @@ order: 1760
 links:
   - type: refines
     target: STK-EFJRJ9
+    confirmed: fc922ec1a72e
 ---
 The zone valve shall report schedule entries within 200 ms.
 

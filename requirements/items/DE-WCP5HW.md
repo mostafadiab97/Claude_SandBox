@@ -9,5 +9,6 @@ order: 20
 links:
   - type: implements
     target: SW-2MEXPQ
+    confirmed: 1e20ac0f135d
 ---
 Implemented in `src/app/login_screen.c`.

@@ -12,6 +12,7 @@ order: 660
 links:
   - type: verifies
     target: SYS-FN4CWM
+    confirmed: 7a160395e991
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

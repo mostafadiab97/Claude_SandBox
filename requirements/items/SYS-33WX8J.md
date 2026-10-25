@@ -13,7 +13,9 @@ order: 610
 links:
   - type: refines
     target: STK-BR4RT9
+    confirmed: 16def0c1f947
   - type: mitigates
     target: RSK-HTQ195
+    confirmed: feaa24748b2b
 ---
 The schedule editor shall calibrate humidity values for at least 10 years.

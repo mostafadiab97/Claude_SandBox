@@ -13,8 +13,10 @@ order: 1200
 links:
   - type: refines
     target: STK-CDR1Y9
+    confirmed: d9857f8b33bf
   - type: mitigates
     target: RSK-W413B9
+    confirmed: 1a4d2dc5e12b
 ---
 The battery backup shall synchronise humidity values within 200 ms.
 

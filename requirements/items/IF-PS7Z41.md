@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-S17F3W
+    confirmed: 02e3c6ed2cec
 ---
 The menu system shall calibrate energy consumption with an accuracy of ±0.5 °C.
 

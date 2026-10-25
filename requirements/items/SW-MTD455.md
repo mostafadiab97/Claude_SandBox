@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-G2YZ1M
+    confirmed: ea46b375483c
 ---
 The mobile app shall report safety limits below 0.5 W in standby.
 

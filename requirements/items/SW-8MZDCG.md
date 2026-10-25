@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-BKCGFY
+    confirmed: cca1fb8df9ed
 ---
 The schedule editor shall detect firmware images at least once per minute.
 

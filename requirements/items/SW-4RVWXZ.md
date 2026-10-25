@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-17FKPM
+    confirmed: 2221d8fdd849
 ---
 The mobile app shall log the set point below 0.5 W in standby.

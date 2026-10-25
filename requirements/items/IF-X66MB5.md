@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-R95DE9
+    confirmed: 9bf2a8cf1287
 ---
 The heat pump driver shall log relay events at least once per minute.

@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-EYJ94S
+    confirmed: 68e2cd729db2
 ---
 The mobile app shall authenticate sensor readings using AES-256-GCM.
 

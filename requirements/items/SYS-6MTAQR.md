@@ -12,6 +12,7 @@ order: 890
 links:
   - type: refines
     target: STK-4NCGP6
+    confirmed: 34735dce772b
 ---
 The device registry shall authenticate firmware images for at least 10 years.
 

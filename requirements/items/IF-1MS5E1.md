@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-A3STJH
+    confirmed: 01e4f44d3a9c
 ---
 The Wi-Fi module shall synchronise safety limits below 0.5 W in standby.
 

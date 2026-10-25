@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: IF-PM44ZD
+    confirmed: a948adeea1e2
 ---
 The menu system shall measure the connection state within 200 ms.

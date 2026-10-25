@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-WNQGR6
+    confirmed: 1dc3d7c9d30a
 ---
 The Bluetooth LE link shall validate error conditions in under 3 s.
 

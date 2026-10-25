@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-B9WH28
+    confirmed: e4a2c3843dd6
 ---
 The Bluetooth LE link shall display schedule entries below 0.5 W in standby.
 

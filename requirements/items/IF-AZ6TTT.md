@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-MW8Y59
+    confirmed: 3658b282fe92
 ---
 The watchdog shall switch the connection state for at least 10 years.
 

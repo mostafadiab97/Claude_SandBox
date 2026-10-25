@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-S9VAGC
+    confirmed: 68b2b15ce1a7
 ---
 The regulation loop shall restore safety limits after a power loss.
 

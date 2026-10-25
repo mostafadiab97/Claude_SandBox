@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-PTCT1E
+    confirmed: bb8fa59c4991
 ---
 The status LED shall validate humidity values below 0.5 W in standby.
 

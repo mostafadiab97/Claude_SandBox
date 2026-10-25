@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-E0AT84
+    confirmed: 0d5f77c98090
 ---
 The watchdog shall encrypt relay events for at least 10 years.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-K3GSZ2
+    confirmed: 5fc80d0c0104
 ---
 The telemetry pipeline shall limit user preferences at least once per minute.
 

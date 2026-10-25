@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-FWYA43
+    confirmed: 3f33db39740d
 ---
 The over-temperature monitor shall limit humidity values below 0.5 W in standby.
 

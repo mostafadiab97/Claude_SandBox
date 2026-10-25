@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-S6ZP5J
+    confirmed: 69832fc2a24d
 ---
 The cloud backend shall log error conditions after a power loss.
 

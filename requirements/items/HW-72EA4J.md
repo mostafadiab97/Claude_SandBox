@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-MG3QAE
+    confirmed: fd1ef0a3e1ca
 ---
 The encryption layer shall encrypt user preferences using AES-256-GCM.

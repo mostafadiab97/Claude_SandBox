@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-1HN03J
+    confirmed: e85c5bf1399b
 ---
 The encryption layer shall notify the set point in all supported languages.
 

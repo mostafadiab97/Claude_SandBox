@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-8NMEER
+    confirmed: 7e2bfb083d08
 ---
 The backlight shall report humidity values without user interaction.
 

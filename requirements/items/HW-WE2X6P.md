@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-KEKD2W
+    confirmed: dce36b139246
 ---
 The mobile app shall switch the operating mode in under 3 s.
 

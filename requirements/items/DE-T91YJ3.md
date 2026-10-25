@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-SV8AMS
+    confirmed: 7e6cc42579fe
 ---
 Implemented in `src/app/login_screen.c`.

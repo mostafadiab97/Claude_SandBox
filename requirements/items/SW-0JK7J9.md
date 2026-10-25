@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-Y87VBS
+    confirmed: 54cb5d8f067b
 ---
 The home dashboard shall calibrate user preferences without user interaction.
 

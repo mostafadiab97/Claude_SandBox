@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-RW42CM
+    confirmed: 28c35d155880
 ---
 The encryption layer shall authenticate relay events after a power loss.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-7D21QR
+    confirmed: 5b9473609c57
 ---
 The over-temperature monitor shall switch access tokens at least once per minute.
 

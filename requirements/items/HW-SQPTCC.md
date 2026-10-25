@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ESNRC9
+    confirmed: 72173e46587d
 ---
 The relay board shall validate safety limits at least once per minute.
 

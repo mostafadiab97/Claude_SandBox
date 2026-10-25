@@ -14,6 +14,7 @@ order: 1210
 links:
   - type: refines
     target: STK-7F9256
+    confirmed: 5588db2eb80a
 ---
 The power supply shall encrypt the room temperature at least once per minute.
 

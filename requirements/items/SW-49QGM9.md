@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-WJPZMR
+    confirmed: 15b12041082c
 ---
 The status LED shall restore the operating mode below 0.5 W in standby.
 

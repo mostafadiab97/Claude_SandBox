@@ -12,6 +12,7 @@ order: 220
 links:
   - type: verifies
     target: SYS-CM44AM
+    confirmed: 2a3acc022feb
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

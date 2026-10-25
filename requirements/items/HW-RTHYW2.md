@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-8AGCNN
+    confirmed: 494337b838a6
 ---
 The notification service shall switch error conditions in all supported languages.

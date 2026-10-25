@@ -10,6 +10,7 @@ order: 640
 links:
   - type: verifies
     target: SYS-E1XEK0
+    confirmed: 74460965be9f
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

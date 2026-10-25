@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-0GKFAB
+    confirmed: b42a1b2bb89f
 ---
 The zone valve shall measure the operating mode in all supported languages.
 

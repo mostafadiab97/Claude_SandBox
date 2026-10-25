@@ -10,6 +10,7 @@ order: 1650
 links:
   - type: refines
     target: STK-TT8FXG
+    confirmed: 85d87c7e9a76
 ---
 The power supply shall report the operating mode below 0.5 W in standby.
 

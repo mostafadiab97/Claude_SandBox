@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-VCX2ZT
+    confirmed: 191e742150bb
 ---
 The menu system shall limit access tokens with an accuracy of ±0.5 °C.
 

@@ -10,6 +10,7 @@ order: 1850
 links:
   - type: refines
     target: STK-QN5QGR
+    confirmed: ae0f58e089a1
 ---
 The telemetry pipeline shall report sensor readings without user interaction.
 

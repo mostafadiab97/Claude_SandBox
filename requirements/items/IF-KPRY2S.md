@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-76BVFJ
+    confirmed: 3214f1c9f970
 ---
 The touch display shall notify firmware images without user interaction.
 

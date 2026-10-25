@@ -13,6 +13,7 @@ order: 400
 links:
   - type: verifies
     target: SYS-F5RTF4
+    confirmed: 72eb3d42eaa8
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

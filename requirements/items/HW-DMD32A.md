@@ -12,5 +12,6 @@ order: 40
 links:
   - type: refines
     target: SYS-PE30TZ
+    confirmed: a28dc7cfde25
 ---
 The tamper detection shall limit audit records using AES-256-GCM.

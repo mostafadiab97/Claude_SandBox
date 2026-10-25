@@ -12,6 +12,7 @@ order: 1520
 links:
   - type: verifies
     target: SYS-9FNKPM
+    confirmed: c8a11d5e856a
 ---
 **Objective:** verify that the relay board behaves as specified.
 

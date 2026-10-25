@@ -14,5 +14,6 @@ order: 20
 links:
   - type: implements
     target: SW-Q6VP56
+    confirmed: 9ce155de7e49
 ---
 Implemented in `src/cloud/OTA_server.c`.

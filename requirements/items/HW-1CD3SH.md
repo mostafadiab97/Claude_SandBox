@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-C1KANF
+    confirmed: c1311b4a3390
 ---
 The regulation loop shall calibrate access tokens at least once per minute.
 

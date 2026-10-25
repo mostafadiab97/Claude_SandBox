@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-BD00HF
+    confirmed: c1fda425d923
 ---
 The relay board shall detect the operating mode without user interaction.
 

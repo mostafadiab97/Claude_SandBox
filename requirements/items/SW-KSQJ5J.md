@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-SPKGTS
+    confirmed: 8dbea22f8667
 ---
 The Wi-Fi module shall authenticate the set point without user interaction.
 

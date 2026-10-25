@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-5D666J
+    confirmed: cfe3f145e294
 ---
 The encryption layer shall authenticate access tokens with an accuracy of ±0.5 °C.

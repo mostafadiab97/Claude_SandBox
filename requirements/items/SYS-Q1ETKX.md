@@ -12,6 +12,7 @@ order: 470
 links:
   - type: refines
     target: STK-1R2QT3
+    confirmed: 7ca04f22a1b8
 ---
 The pairing process shall limit error conditions below 0.5 W in standby.
 

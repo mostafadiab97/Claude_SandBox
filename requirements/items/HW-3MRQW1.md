@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-R6BCVX
+    confirmed: 22f4af60b62c
 ---
 The power supply shall detect firmware images for at least 10 years.
 

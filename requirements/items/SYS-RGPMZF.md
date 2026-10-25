@@ -12,6 +12,7 @@ order: 570
 links:
   - type: refines
     target: STK-4NCGP6
+    confirmed: 34735dce772b
 ---
 The cloud backend shall detect the connection state for up to 8 zones.
 

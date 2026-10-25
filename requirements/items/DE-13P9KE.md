@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-TGE2C7
+    confirmed: 3d19be192f78
 ---
 Implemented in `src/heat/regulation_loop.c`.

@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-XRNYEA
+    confirmed: 75864a489760
 ---
 Implemented in `src/safe/encryption_layer.c`.

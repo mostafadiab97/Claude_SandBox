@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-4RAPKT
+    confirmed: f832680a15f1
 ---
 Implemented in `src/safe/encryption_layer.c`.

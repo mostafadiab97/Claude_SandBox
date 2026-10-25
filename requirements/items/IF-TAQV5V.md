@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-D64G9R
+    confirmed: 5bc4e2b5f7b6
 ---
 The cloud backend shall switch the room temperature after a power loss.
 

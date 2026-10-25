@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-FVC51X
+    confirmed: 11ed96679d8d
 ---
 The enclosure shall log schedule entries below 0.5 W in standby.
 

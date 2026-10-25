@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-26V7TS
+    confirmed: ff10eade0df3
 ---
 The power supply shall synchronise energy consumption without user interaction.
 

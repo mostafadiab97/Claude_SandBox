@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-K2NWME
+    confirmed: e03e8a7a7686
 ---
 The battery backup shall synchronise energy consumption with an accuracy of ±0.5 °C.

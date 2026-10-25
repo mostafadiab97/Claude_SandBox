@@ -14,8 +14,10 @@ order: 470
 links:
   - type: verifies
     target: SYS-MJMPET
+    confirmed: db16e70cbc4d
   - type: verifies
     target: SW-PW0K7E
+    confirmed: fd1c6a5bf142
 ---
 **Objective:** verify that the login screen behaves as specified.
 

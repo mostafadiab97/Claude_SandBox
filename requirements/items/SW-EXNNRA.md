@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-RZ204B
+    confirmed: a414dd799ef0
 ---
 The secure boot shall report sensor readings with an accuracy of ±0.5 °C.
 

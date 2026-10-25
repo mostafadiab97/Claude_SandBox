@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-XFVPHY
+    confirmed: 7476eaa71d9e
 ---
 The tamper detection shall store energy consumption with an accuracy of ±0.5 °C.

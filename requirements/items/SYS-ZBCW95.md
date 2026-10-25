@@ -10,5 +10,6 @@ order: 380
 links:
   - type: refines
     target: STK-NTBW06
+    confirmed: d92faafa8cce
 ---
 The regulation loop shall notify relay events after a power loss.

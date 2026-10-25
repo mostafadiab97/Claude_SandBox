@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-J7M5Y0
+    confirmed: 48e9db75f26c
 ---
 The touch display shall notify firmware images in under 3 s.

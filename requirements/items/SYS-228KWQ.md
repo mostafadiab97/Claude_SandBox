@@ -9,6 +9,7 @@ order: 100
 links:
   - type: refines
     target: STK-ND3D08
+    confirmed: df91c673f737
 ---
 The home dashboard shall detect user preferences with an accuracy of ±0.5 °C.
 

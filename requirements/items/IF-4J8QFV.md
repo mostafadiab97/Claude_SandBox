@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-HSBZEM
+    confirmed: 22cdb66e683a
 ---
 The OTA server shall notify energy consumption with an accuracy of ±0.5 °C.
 

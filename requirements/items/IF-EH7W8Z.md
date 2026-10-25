@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-970YNT
+    confirmed: dd3cd885e5b3
 ---
 The schedule editor shall validate sensor readings for up to 8 zones.
 

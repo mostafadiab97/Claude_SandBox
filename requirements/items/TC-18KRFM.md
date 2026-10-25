@@ -10,8 +10,10 @@ order: 1040
 links:
   - type: verifies
     target: SYS-3KEBNW
+    confirmed: 79d2c72aebd1
   - type: verifies
     target: SW-NA4WSY
+    confirmed: f3c404d14f3c
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

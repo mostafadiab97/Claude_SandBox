@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-MW6N7P
+    confirmed: 1f77718986ec
 ---
 The home dashboard shall validate energy consumption with an accuracy of ±0.5 °C.
 

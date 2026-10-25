@@ -14,8 +14,10 @@ order: 20
 links:
   - type: refines
     target: STK-0AD5XP
+    confirmed: 30e7f07df0d1
   - type: mitigates
     target: RSK-6FVAYV
+    confirmed: 0c5515bf4edc
 ---
 The Bluetooth LE link shall log the set point below 0.5 W in standby.
 

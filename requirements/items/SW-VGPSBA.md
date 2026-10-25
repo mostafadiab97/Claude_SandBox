@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-B3GV8K
+    confirmed: d2b871787073
 ---
 The telemetry pipeline shall authenticate firmware images in all supported languages.
 

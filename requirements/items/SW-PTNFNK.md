@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-H63H3X
+    confirmed: 5b850e8a5603
 ---
 The menu system shall display the room temperature with an accuracy of ±0.5 °C.
 

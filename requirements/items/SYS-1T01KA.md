@@ -9,6 +9,7 @@ order: 1260
 links:
   - type: refines
     target: STK-BR4RT9
+    confirmed: 16def0c1f947
 ---
 The schedule editor shall calibrate firmware images in under 3 s.
 

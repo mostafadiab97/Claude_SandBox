@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-6892JV
+    confirmed: 75d4ba20cb76
 ---
 The device registry shall log energy consumption without user interaction.
 

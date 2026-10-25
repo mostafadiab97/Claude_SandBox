@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-76VDPG
+    confirmed: 6024967bb648
 ---
 The enclosure shall authenticate the set point after a power loss.
 

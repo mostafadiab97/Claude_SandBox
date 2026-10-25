@@ -13,8 +13,10 @@ order: 680
 links:
   - type: refines
     target: STK-639N9T
+    confirmed: 252da9caa62c
   - type: mitigates
     target: RSK-8FFR90
+    confirmed: 63c04ae06813
 ---
 The home dashboard shall switch user preferences at least once per minute.
 

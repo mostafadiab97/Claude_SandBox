@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-Q1NDZA
+    confirmed: 1aaab302f129
 ---
 The power supply shall store the room temperature with an accuracy of ±0.5 °C.

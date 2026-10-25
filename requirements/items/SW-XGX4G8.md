@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ZD3S52
+    confirmed: 0af8d7691be2
 ---
 The telemetry pipeline shall notify the room temperature for at least 10 years.
 

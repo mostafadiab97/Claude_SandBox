@@ -12,6 +12,7 @@ order: 120
 links:
   - type: relates-to
     target: SYS-GV4SNR
+    confirmed: 0a48294d13c0
 ---
 Requested by customer support (ticket #16785).
 

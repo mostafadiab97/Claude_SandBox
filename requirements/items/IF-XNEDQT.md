@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-ZSDCZJ
+    confirmed: 5cf55da3656a
 ---
 The battery backup shall restore the set point for up to 8 zones.
 

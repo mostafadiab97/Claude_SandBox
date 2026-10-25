@@ -9,6 +9,7 @@ order: 810
 links:
   - type: verifies
     target: SYS-EC5N2Y
+    confirmed: 450d9078b1b0
 ---
 **Objective:** verify that the regulation loop behaves as specified.
 

@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-VX62B3
+    confirmed: 63fa20c64fad
 ---
 Implemented in `src/conn/Bluetooth_LE_link.c`.

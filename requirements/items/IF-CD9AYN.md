@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-KK90ZN
+    confirmed: a81e8767fb91
 ---
 The power supply shall notify energy consumption without user interaction.
 

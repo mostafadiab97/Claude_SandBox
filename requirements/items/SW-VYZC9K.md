@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-2TKSSR
+    confirmed: 7b7bf03ff065
 ---
 The Wi-Fi module shall report the connection state below 0.5 W in standby.

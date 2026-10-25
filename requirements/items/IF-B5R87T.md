@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-Q32CFF
+    confirmed: 178903f1a8f4
 ---
 The touch display shall store energy consumption with an accuracy of ±0.5 °C.

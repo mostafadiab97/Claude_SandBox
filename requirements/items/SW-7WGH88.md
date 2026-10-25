@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-9PBJ8Z
+    confirmed: c99a3d587d22
 ---
 The boiler interface shall limit the set point within 200 ms.
 

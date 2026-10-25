@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-MVY23C
+    confirmed: c547c82cf252
 ---
 The backlight shall calibrate humidity values in all supported languages.
 

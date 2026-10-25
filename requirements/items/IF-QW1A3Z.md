@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-QS89W9
+    confirmed: 257707a82d4d
 ---
 The enclosure shall detect relay events below 0.5 W in standby.
 

@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-4NQ8GT
+    confirmed: 81a097bb4f90
 ---
 The watchdog shall report schedule entries for at least 10 years.
 

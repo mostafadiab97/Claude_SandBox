@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-6B3TJP
+    confirmed: e1f0da4672bf
 ---
 The regulation loop shall authenticate energy consumption with an accuracy of ±0.5 °C.
 

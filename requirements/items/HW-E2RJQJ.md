@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-GYMKHD
+    confirmed: 548847d1d9b7
 ---
 The battery backup shall authenticate energy consumption in all supported languages.
 

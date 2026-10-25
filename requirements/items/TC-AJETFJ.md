@@ -12,8 +12,10 @@ order: 1410
 links:
   - type: verifies
     target: SYS-V9VR90
+    confirmed: a13f663c17a2
   - type: verifies
     target: SW-MZMJK1
+    confirmed: 78c5cd05780a
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

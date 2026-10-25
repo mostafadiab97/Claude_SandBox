@@ -13,6 +13,7 @@ order: 1650
 links:
   - type: verifies
     target: SYS-3C07C0
+    confirmed: 3f05968a7403
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

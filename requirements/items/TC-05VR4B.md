@@ -12,6 +12,7 @@ order: 950
 links:
   - type: verifies
     target: SYS-AFXTVK
+    confirmed: f28f5499c8de
 ---
 **Objective:** verify that the local API behaves as specified.
 

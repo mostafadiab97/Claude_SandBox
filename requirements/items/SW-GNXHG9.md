@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-21S4KC
+    confirmed: 3c1f845c98e2
 ---
 The pairing process shall authenticate audit records below 0.5 W in standby.
 

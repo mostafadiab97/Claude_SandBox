@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7SSV4S
+    confirmed: b8e679420187
 ---
 The OTA server shall measure schedule entries below 0.5 W in standby.
 

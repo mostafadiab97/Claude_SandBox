@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-5AHKSR
+    confirmed: e2079d0acc83
 ---
 The touch display shall store the set point for at least 10 years.
 

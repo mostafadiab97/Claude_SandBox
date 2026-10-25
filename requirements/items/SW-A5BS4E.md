@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-HPD0VD
+    confirmed: 5718299a4e75
 ---
 The heat pump driver shall restore the room temperature within 200 ms.
 

@@ -9,6 +9,7 @@ order: 40
 links:
   - type: refines
     target: SYS-H16WP1
+    confirmed: ba4b259a4075
 ---
 The watchdog shall restore sensor readings with an accuracy of ±0.5 °C.
 

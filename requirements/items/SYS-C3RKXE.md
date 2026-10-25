@@ -14,6 +14,7 @@ order: 1760
 links:
   - type: refines
     target: STK-92HHJV
+    confirmed: 260bd01800c6
 ---
 The watchdog shall authenticate schedule entries for at least 10 years.
 

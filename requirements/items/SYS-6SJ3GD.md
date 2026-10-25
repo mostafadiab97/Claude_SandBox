@@ -13,6 +13,7 @@ order: 1250
 links:
   - type: refines
     target: STK-AA05P4
+    confirmed: e2bec3bcd11c
 ---
 The boiler interface shall measure sensor readings with an accuracy of ±0.5 °C.
 

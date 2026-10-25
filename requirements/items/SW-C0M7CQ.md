@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-3KEBNW
+    confirmed: 79d2c72aebd1
 ---
 The home dashboard shall encrypt error conditions after a power loss.
 

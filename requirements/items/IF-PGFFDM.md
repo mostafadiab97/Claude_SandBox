@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-T098Z1
+    confirmed: 8bf9018cb7b2
 ---
 The menu system shall validate humidity values at least once per minute.
 

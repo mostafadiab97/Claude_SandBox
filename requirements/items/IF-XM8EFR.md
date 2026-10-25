@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-55BB0W
+    confirmed: 769ed2cb940e
 ---
 The home dashboard shall notify humidity values below 0.5 W in standby.
 

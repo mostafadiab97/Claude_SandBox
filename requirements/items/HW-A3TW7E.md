@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-BHD8S6
+    confirmed: b4b9539a5d88
 ---
 The encryption layer shall calibrate access tokens after a power loss.
 

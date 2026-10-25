@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-6SJ3GD
+    confirmed: af53245ff967
 ---
 The boiler interface shall validate the connection state with an accuracy of ±0.5 °C.
 

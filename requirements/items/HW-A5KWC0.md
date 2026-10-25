@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-GVXTHV
+    confirmed: d5b204a2b54c
 ---
 The power supply shall display sensor readings without user interaction.
 

@@ -14,6 +14,7 @@ order: 890
 links:
   - type: verifies
     target: SYS-Z3AF7E
+    confirmed: 9dfa61330ebe
 ---
 **Objective:** verify that the menu system behaves as specified.
 

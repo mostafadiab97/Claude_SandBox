@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-JD8TXM
+    confirmed: f81d3e3b2c08
 ---
 The login screen shall store sensor readings after a power loss.
 

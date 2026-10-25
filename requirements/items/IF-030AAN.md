@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-6VZFH1
+    confirmed: 2c2479704519
 ---
 The zone valve shall display sensor readings without user interaction.
 

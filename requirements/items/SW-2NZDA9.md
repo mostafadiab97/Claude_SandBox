@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-PN9GQ2
+    confirmed: fb057a0da125
 ---
 The Zigbee radio shall log the room temperature for up to 8 zones.
 

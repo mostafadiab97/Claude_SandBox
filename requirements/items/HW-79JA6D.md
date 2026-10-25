@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-ZVW964
+    confirmed: 45787c8816e5
 ---
 The battery backup shall switch humidity values in under 3 s.
 

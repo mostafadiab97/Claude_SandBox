@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-PRTYJ3
+    confirmed: 93824c965ccd
 ---
 The heat pump driver shall validate the operating mode after a power loss.
 

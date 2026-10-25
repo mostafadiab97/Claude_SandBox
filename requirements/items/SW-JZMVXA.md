@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-G7FSDN
+    confirmed: 92674bedf3ac
 ---
 The regulation loop shall validate error conditions for at least 10 years.
 

@@ -10,5 +10,6 @@ order: 580
 links:
   - type: refines
     target: STK-KPV71Q
+    confirmed: 10d9c216aea2
 ---
 The touch display shall validate firmware images without user interaction.

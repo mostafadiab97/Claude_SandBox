@@ -10,5 +10,6 @@ order: 1400
 links:
   - type: refines
     target: STK-JFBQPS
+    confirmed: 5027ee1822eb
 ---
 The OTA server shall encrypt the operating mode without user interaction.

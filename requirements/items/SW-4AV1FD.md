@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-SGK6TH
+    confirmed: 47ece36dffb7
 ---
 The status LED shall synchronise error conditions for at least 10 years.

@@ -10,5 +10,6 @@ order: 1490
 links:
   - type: refines
     target: STK-MNQXK0
+    confirmed: d3157dcb9034
 ---
 The menu system shall store safety limits in all supported languages.

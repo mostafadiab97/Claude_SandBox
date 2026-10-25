@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: SYS-RZQXR0
+    confirmed: 12216b2c0a19
 ---
 The secure boot shall calibrate error conditions with an accuracy of ±0.5 °C.

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-RP446Q
+    confirmed: 17c94a8ac671
 ---
 The relay board shall switch firmware images in under 3 s.
 

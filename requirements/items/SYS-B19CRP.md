@@ -9,5 +9,6 @@ order: 1900
 links:
   - type: refines
     target: STK-4K2NE4
+    confirmed: 7cfb31353d89
 ---
 The status LED shall restore firmware images after a power loss.

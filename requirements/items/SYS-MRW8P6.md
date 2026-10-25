@@ -10,5 +10,6 @@ order: 240
 links:
   - type: refines
     target: STK-HH6ZNR
+    confirmed: caa77fe9df1c
 ---
 The menu system shall notify user preferences using AES-256-GCM.

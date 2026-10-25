@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-RTTMR2
+    confirmed: 1b45fe5bd3cb
 ---
 Implemented in `src/conn/Bluetooth_LE_link.c`.

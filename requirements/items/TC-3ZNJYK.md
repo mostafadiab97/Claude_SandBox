@@ -10,6 +10,7 @@ order: 1640
 links:
   - type: verifies
     target: SYS-BVR9MT
+    confirmed: 4ce801427d87
 ---
 **Objective:** verify that the device behaves as specified.
 

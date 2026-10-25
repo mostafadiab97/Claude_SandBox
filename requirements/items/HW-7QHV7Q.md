@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-PE30TZ
+    confirmed: a28dc7cfde25
 ---
 The tamper detection shall authenticate schedule entries when the network is unavailable.
 

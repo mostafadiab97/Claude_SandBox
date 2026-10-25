@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-P6F0FV
+    confirmed: 947114a116fc
 ---
 The secure boot shall notify relay events for up to 8 zones.
 

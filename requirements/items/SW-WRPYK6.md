@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-EPQX5G
+    confirmed: 839c3250cb67
 ---
 The zone valve shall measure safety limits using AES-256-GCM.

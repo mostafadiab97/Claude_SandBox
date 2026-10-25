@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: HW-A5KWC0
+    confirmed: 58d55d23995d
 ---
 The power supply shall store safety limits when the network is unavailable.

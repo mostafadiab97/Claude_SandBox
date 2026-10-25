@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-NNMYTF
+    confirmed: e726f1ea8987
 ---
 The heat pump driver shall display relay events for up to 8 zones.
 

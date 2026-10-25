@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-2EK2H0
+    confirmed: 799a820f6357
 ---
 The heat pump driver shall authenticate access tokens at least once per minute.
 

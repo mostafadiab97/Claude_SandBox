@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-6ES66C
+    confirmed: ec8cd1bbb3ad
 ---
 The home dashboard shall detect access tokens when the network is unavailable.
 

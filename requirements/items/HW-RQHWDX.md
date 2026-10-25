@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: HW-NHT0NH
+    confirmed: a012a3e73867
 ---
 The touch display shall limit user preferences below 0.5 W in standby.

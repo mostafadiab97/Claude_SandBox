@@ -9,8 +9,10 @@ order: 100
 links:
   - type: verifies
     target: SYS-KF7ZE3
+    confirmed: 3dd7a8ccfac1
   - type: verifies
     target: SW-4Y5KKR
+    confirmed: da530757de05
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

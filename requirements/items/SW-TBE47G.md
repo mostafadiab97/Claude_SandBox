@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-NW2H4K
+    confirmed: 061c07f59466
 ---
 The encryption layer shall log user preferences with an accuracy of ±0.5 °C.
 

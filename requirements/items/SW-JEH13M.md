@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-F0WQVQ
+    confirmed: e5beb3d765c5
 ---
 The pairing process shall authenticate audit records in all supported languages.
 

@@ -12,6 +12,7 @@ order: 1360
 links:
   - type: verifies
     target: SYS-KBPFCV
+    confirmed: 659b9683cc27
 ---
 **Objective:** verify that the device behaves as specified.
 

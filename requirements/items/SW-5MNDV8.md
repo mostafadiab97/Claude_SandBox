@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-35QZ1B
+    confirmed: eaceeabf6305
 ---
 The mobile app shall display the operating mode below 0.5 W in standby.

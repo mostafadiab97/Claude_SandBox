@@ -11,6 +11,7 @@ order: 1290
 links:
   - type: verifies
     target: SYS-DVDRV2
+    confirmed: 1dc89c6de993
 ---
 **Objective:** verify that the device behaves as specified.
 

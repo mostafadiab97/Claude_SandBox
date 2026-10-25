@@ -13,8 +13,10 @@ order: 1080
 links:
   - type: verifies
     target: SYS-61BADB
+    confirmed: 8aabb6fc11d2
   - type: verifies
     target: SW-DP9XAE
+    confirmed: de0e79bdb5ad
 ---
 **Objective:** verify that the relay board behaves as specified.
 

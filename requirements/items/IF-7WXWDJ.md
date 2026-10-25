@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-12Y20P
+    confirmed: 83d1b44e122c
 ---
 The encryption layer shall report humidity values for at least 10 years.
 

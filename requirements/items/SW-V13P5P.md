@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-26VKCE
+    confirmed: 5c68d7d11bea
 ---
 The menu system shall authenticate relay events when the network is unavailable.

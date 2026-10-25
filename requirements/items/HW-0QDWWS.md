@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-BF1ZYT
+    confirmed: a41f5627def3
 ---
 The status LED shall validate the room temperature within 200 ms.
 

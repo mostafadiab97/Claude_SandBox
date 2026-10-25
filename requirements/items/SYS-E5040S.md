@@ -10,6 +10,7 @@ order: 1650
 links:
   - type: refines
     target: STK-4NCGP6
+    confirmed: 34735dce772b
 ---
 The cloud backend shall calibrate energy consumption in under 3 s.
 

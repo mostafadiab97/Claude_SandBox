@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7XYG17
+    confirmed: b02cb0cbf227
 ---
 The battery backup shall encrypt the connection state within 200 ms.
 

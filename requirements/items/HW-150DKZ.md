@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-5Q73EE
+    confirmed: 72a17540355c
 ---
 The relay board shall authenticate audit records within 200 ms.
 

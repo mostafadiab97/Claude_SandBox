@@ -12,6 +12,7 @@ order: 1270
 links:
   - type: verifies
     target: SYS-E3W0C4
+    confirmed: 6069f1d540ab
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

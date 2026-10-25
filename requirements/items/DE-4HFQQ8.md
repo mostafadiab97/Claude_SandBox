@@ -12,5 +12,6 @@ order: 20
 links:
   - type: implements
     target: SW-28YT84
+    confirmed: ee3e9611ea63
 ---
 Implemented in `src/ui/backlight.c`.

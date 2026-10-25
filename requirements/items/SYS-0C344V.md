@@ -10,6 +10,7 @@ order: 1810
 links:
   - type: refines
     target: STK-GMCKMF
+    confirmed: f47328374a2b
 ---
 The local API shall log sensor readings for up to 8 zones.
 

@@ -13,6 +13,7 @@ order: 200
 links:
   - type: verifies
     target: SYS-DHBZX2
+    confirmed: f269617e5175
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

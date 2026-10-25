@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-MRW8P6
+    confirmed: f8cc2c516026
 ---
 The menu system shall log access tokens when the network is unavailable.
 

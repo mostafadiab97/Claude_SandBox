@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-7NG4EK
+    confirmed: 9b2c415b0097
 ---
 The main PCB shall synchronise error conditions for at least 10 years.
 

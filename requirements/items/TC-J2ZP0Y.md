@@ -10,6 +10,7 @@ order: 160
 links:
   - type: verifies
     target: SYS-CH0H2M
+    confirmed: dcde66db1e30
 ---
 **Objective:** verify that the status LED behaves as specified.
 

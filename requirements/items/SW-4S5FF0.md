@@ -11,6 +11,7 @@ order: 40
 links:
   - type: refines
     target: SYS-HB2DW1
+    confirmed: c311446b8020
 ---
 The schedule editor shall report sensor readings in under 3 s.
 

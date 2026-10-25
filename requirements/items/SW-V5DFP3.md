@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ERGMGJ
+    confirmed: 4e0d29ca2f08
 ---
 The Zigbee radio shall detect the set point for up to 8 zones.
 

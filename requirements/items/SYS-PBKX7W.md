@@ -13,8 +13,10 @@ order: 1500
 links:
   - type: refines
     target: STK-71VSKB
+    confirmed: 994ecb1eff6f
   - type: mitigates
     target: RSK-6H3D9M
+    confirmed: c7f45fccd8d0
 ---
 The Zigbee radio shall validate the operating mode for at least 10 years.
 

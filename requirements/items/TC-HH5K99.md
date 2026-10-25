@@ -14,6 +14,7 @@ order: 480
 links:
   - type: verifies
     target: SYS-8XZZQ8
+    confirmed: 60302e1ca7b2
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

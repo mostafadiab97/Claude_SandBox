@@ -13,8 +13,10 @@ order: 430
 links:
   - type: refines
     target: STK-AAZ4HV
+    confirmed: 44fc7956dbf8
   - type: mitigates
     target: RSK-6FVAYV
+    confirmed: 0c5515bf4edc
 ---
 The pairing process shall store the operating mode without user interaction.
 

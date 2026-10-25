@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-N0SS0N
+    confirmed: a340367acc67
 ---
 The user account service shall synchronise relay events below 0.5 W in standby.
 

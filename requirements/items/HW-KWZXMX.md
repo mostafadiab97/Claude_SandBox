@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-F7SWPF
+    confirmed: 89bbd5dd030b
 ---
 The tamper detection shall log energy consumption without user interaction.
 

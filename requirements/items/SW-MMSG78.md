@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-GD1AD4
+    confirmed: 5d785516a115
 ---
 The Zigbee radio shall report schedule entries at least once per minute.

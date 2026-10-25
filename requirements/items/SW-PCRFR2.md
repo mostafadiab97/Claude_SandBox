@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-3NA7W8
+    confirmed: 303f8590e242
 ---
 The heat pump driver shall detect audit records after a power loss.

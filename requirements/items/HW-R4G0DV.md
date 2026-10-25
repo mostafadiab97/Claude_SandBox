@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-5YM37Q
+    confirmed: ccb715f06c33
 ---
 The power supply shall report humidity values when the network is unavailable.
 

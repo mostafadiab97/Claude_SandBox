@@ -12,6 +12,7 @@ order: 1800
 links:
   - type: refines
     target: STK-HH6ZNR
+    confirmed: caa77fe9df1c
 ---
 The menu system shall measure energy consumption in under 3 s.
 

@@ -13,8 +13,10 @@ order: 350
 links:
   - type: refines
     target: STK-922G3A
+    confirmed: ea4a6a665922
   - type: mitigates
     target: RSK-4NE1NJ
+    confirmed: 56f6781ca0d3
 ---
 The enclosure shall switch audit records at least once per minute.
 

@@ -12,8 +12,10 @@ order: 540
 links:
   - type: verifies
     target: SYS-M0XMTJ
+    confirmed: 265474e3470a
   - type: verifies
     target: SW-6X60Y9
+    confirmed: da06f2957b14
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

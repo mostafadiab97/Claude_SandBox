@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-72QJ2X
+    confirmed: b36914a527ec
 ---
 The power supply shall measure humidity values in under 3 s.
 

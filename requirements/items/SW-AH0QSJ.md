@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-KEKD2W
+    confirmed: dce36b139246
 ---
 The mobile app shall measure error conditions in all supported languages.
 

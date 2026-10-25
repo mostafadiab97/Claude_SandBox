@@ -10,8 +10,10 @@ order: 1420
 links:
   - type: verifies
     target: SYS-ZD3S52
+    confirmed: 0af8d7691be2
   - type: verifies
     target: SW-PZFQGD
+    confirmed: 691fb7a4cd9f
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

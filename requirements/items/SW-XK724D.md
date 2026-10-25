@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-3KF2S8
+    confirmed: 6e6c9a856c9a
 ---
 The device registry shall limit the operating mode after a power loss.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-BJZPAW
+    confirmed: 118d961f538b
 ---
 The pairing process shall switch the set point at least once per minute.
 

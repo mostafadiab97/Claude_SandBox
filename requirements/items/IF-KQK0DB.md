@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-GGXREM
+    confirmed: 81e2ec979afd
 ---
 The Zigbee radio shall restore access tokens at least once per minute.
 

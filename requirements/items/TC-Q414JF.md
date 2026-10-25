@@ -12,8 +12,10 @@ order: 70
 links:
   - type: verifies
     target: SYS-F28JAH
+    confirmed: d2f3c3322d09
   - type: verifies
     target: SW-BPPPDX
+    confirmed: 7619d6624a37
 ---
 **Objective:** verify that the menu system behaves as specified.
 

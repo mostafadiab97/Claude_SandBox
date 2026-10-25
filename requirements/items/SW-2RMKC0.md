@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-ZRJGC6
+    confirmed: f533853c62c8
 ---
 The heat pump driver shall encrypt the operating mode for up to 8 zones.
 

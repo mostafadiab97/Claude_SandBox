@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-S7Z1Y4
+    confirmed: b1317ed9239c
 ---
 Implemented in `src/heat/zone_valve.c`.

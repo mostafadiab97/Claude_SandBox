@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-YJCK64
+    confirmed: 3cd2af5ea529
 ---
 The main PCB shall detect error conditions without user interaction.
 

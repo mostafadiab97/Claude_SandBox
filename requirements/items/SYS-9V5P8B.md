@@ -10,5 +10,6 @@ order: 1240
 links:
   - type: refines
     target: STK-Q8BNKR
+    confirmed: 6deaa78e6ab3
 ---
 The boiler interface shall limit audit records with an accuracy of ±0.5 °C.

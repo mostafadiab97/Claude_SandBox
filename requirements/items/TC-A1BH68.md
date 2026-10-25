@@ -10,6 +10,7 @@ order: 1180
 links:
   - type: verifies
     target: SYS-4JFYE9
+    confirmed: 71656e024c3b
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

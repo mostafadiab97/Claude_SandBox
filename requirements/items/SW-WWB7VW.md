@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-725VG3
+    confirmed: 73444b104e6b
 ---
 The notification service shall measure energy consumption in all supported languages.

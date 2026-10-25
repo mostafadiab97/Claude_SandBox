@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-6HD5PY
+    confirmed: c27b6629ca65
 ---
 The home dashboard shall log the operating mode for up to 8 zones.
 

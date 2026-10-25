@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-JAAEVD
+    confirmed: 9e43edd3ff39
 ---
 The heat pump driver shall validate the room temperature in all supported languages.
 

@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-MGCE70
+    confirmed: 8713b2c65e08
 ---
 The tamper detection shall restore the room temperature for up to 8 zones.

@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-MV08ST
+    confirmed: 70d4bbd357b5
 ---
 The user account service shall authenticate the set point for up to 8 zones.
 

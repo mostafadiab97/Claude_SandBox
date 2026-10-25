@@ -13,6 +13,7 @@ order: 210
 links:
   - type: verifies
     target: SYS-QGA0VX
+    confirmed: 773f6956359c
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

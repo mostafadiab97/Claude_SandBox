@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-YZPPWS
+    confirmed: 91020cf1f7b8
 ---
 The home dashboard shall synchronise the set point within 200 ms.
 

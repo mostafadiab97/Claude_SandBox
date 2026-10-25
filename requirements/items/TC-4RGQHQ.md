@@ -13,8 +13,10 @@ order: 920
 links:
   - type: verifies
     target: SYS-W2WVAG
+    confirmed: 2e87eec370fa
   - type: verifies
     target: SW-9EEFDN
+    confirmed: 94ba9510fda2
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

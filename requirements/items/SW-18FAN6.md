@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-DBGSQ3
+    confirmed: c89dbb4bfa32
 ---
 The tamper detection shall restore energy consumption in under 3 s.
 

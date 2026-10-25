@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-2RJ62J
+    confirmed: 86b1e408d2e0
 ---
 The main PCB shall display firmware images at least once per minute.
 

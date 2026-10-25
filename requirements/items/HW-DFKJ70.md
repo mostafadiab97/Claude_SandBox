@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-6AHW2J
+    confirmed: 688f9dd4cce6
 ---
 The power supply shall restore user preferences within 200 ms.

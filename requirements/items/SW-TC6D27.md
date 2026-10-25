@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-6B2AFX
+    confirmed: 2f261bacbfde
 ---
 The over-temperature monitor shall authenticate user preferences below 0.5 W in standby.
 

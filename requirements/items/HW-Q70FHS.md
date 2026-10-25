@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SYS-C8D1CH
+    confirmed: e163ab21e834
 ---
 The power supply shall display schedule entries with an accuracy of ±0.5 °C.

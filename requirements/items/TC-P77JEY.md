@@ -13,6 +13,7 @@ order: 370
 links:
   - type: verifies
     target: SYS-K367WR
+    confirmed: 639fddbac072
 ---
 **Objective:** verify that the user account service behaves as specified.
 

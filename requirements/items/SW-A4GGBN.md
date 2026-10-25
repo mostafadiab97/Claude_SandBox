@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-GWH086
+    confirmed: 65adf430bd97
 ---
 The heating controller shall detect the connection state when the network is unavailable.

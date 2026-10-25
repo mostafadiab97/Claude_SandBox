@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-C4HEZ6
+    confirmed: d7ecad5f2748
 ---
 The telemetry pipeline shall display the set point when the network is unavailable.

@@ -12,6 +12,7 @@ order: 1140
 links:
   - type: verifies
     target: SYS-BM27EB
+    confirmed: 044815c5b2d6
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

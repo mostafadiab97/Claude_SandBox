@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-FFTATD
+    confirmed: 95a8578d9835
 ---
 The main PCB shall encrypt the set point at least once per minute.
 

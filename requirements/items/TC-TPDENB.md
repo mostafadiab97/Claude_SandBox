@@ -12,8 +12,10 @@ order: 1590
 links:
   - type: verifies
     target: SYS-2NJC1D
+    confirmed: c95413eef36f
   - type: verifies
     target: SW-1DHCGS
+    confirmed: 7c536d464892
 ---
 **Objective:** verify that the user account service behaves as specified.
 

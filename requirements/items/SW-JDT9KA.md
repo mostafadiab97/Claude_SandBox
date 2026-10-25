@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-B7FYKS
+    confirmed: 996754e4bcdc
 ---
 The Wi-Fi module shall authenticate user preferences within 200 ms.

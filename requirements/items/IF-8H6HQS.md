@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-849P26
+    confirmed: 7121ab6b7fe1
 ---
 The zone valve shall report humidity values in under 3 s.
 

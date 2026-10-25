@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-S2CZRZ
+    confirmed: 9cc8d8fe0b96
 ---
 The enclosure shall validate the connection state with an accuracy of ±0.5 °C.

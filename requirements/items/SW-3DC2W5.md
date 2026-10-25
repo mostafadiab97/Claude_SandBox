@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-FMC0YD
+    confirmed: de721eeebf34
 ---
 The boiler interface shall switch sensor readings in under 3 s.

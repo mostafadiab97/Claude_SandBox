@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-7GMJTA
+    confirmed: 3901ff02971d
 ---
 The tamper detection shall restore the room temperature within 200 ms.

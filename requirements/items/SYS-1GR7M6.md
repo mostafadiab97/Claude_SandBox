@@ -10,6 +10,7 @@ order: 1720
 links:
   - type: refines
     target: STK-XSZSEZ
+    confirmed: 1038f4e2e9d4
 ---
 The Wi-Fi module shall synchronise sensor readings using AES-256-GCM.
 

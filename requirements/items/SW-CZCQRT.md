@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-KBPFCV
+    confirmed: 659b9683cc27
 ---
 The telemetry pipeline shall switch error conditions for up to 8 zones.

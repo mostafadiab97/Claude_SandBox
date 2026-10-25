@@ -10,8 +10,10 @@ order: 510
 links:
   - type: verifies
     target: SYS-YW7JJY
+    confirmed: eb4dd1b8dfac
   - type: verifies
     target: SW-Q0G587
+    confirmed: 4aab3e3585cc
 ---
 **Objective:** verify that the schedule editor behaves as specified.
 

@@ -10,8 +10,10 @@ order: 410
 links:
   - type: verifies
     target: SYS-R4K32S
+    confirmed: 5bdb17b664f3
   - type: verifies
     target: SW-08XFNX
+    confirmed: 61e860ae008f
 ---
 **Objective:** verify that the power supply behaves as specified.
 

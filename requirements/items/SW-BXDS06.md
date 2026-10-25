@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-RB6KMZ
+    confirmed: 9e9699c7ff42
 ---
 The Zigbee radio shall detect the connection state in all supported languages.
 

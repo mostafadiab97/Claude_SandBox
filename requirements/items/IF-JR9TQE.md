@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-8HSDWQ
+    confirmed: 410ee1c6bb84
 ---
 The mobile app shall calibrate energy consumption within 200 ms.
 

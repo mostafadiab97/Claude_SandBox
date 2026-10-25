@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-RZ204B
+    confirmed: a414dd799ef0
 ---
 The secure boot shall limit the connection state in under 3 s.
 

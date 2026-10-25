@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-TC0THB
+    confirmed: c7a17f22b84b
 ---
 The Wi-Fi module shall authenticate error conditions using AES-256-GCM.
 

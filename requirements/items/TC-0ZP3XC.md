@@ -10,6 +10,7 @@ order: 750
 links:
   - type: verifies
     target: SYS-0QZ4FS
+    confirmed: 83b1b69a9529
 ---
 **Objective:** verify that the device behaves as specified.
 

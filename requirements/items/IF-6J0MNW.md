@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-RWYDHZ
+    confirmed: 11de28b7d99d
 ---
 The enclosure shall synchronise safety limits for up to 8 zones.
 

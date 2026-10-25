@@ -14,5 +14,6 @@ order: 40
 links:
   - type: refines
     target: SYS-E8YWD2
+    confirmed: 5ab6d3697437
 ---
 The menu system shall encrypt schedule entries with an accuracy of ±0.5 °C.

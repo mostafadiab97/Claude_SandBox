@@ -9,6 +9,7 @@ order: 1100
 links:
   - type: refines
     target: STK-M28XWW
+    confirmed: bcf262f10744
 ---
 The power supply shall report error conditions in all supported languages.
 

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-324HGW
+    confirmed: 827d08f24199
 ---
 The battery backup shall authenticate schedule entries with an accuracy of ±0.5 °C.

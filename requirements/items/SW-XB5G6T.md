@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-3PY964
+    confirmed: 3718c9e5d8ae
 ---
 The Bluetooth LE link shall detect the operating mode below 0.5 W in standby.
 

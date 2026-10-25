@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-7XYG17
+    confirmed: b02cb0cbf227
 ---
 The battery backup shall limit user preferences at least once per minute.
 

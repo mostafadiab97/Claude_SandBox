@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-ES2T78
+    confirmed: 96c465893601
 ---
 The enclosure shall log the set point within 200 ms.

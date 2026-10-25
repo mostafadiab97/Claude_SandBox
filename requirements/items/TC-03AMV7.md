@@ -13,6 +13,7 @@ order: 1050
 links:
   - type: verifies
     target: SYS-SZFE37
+    confirmed: 8ab1e84398ea
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

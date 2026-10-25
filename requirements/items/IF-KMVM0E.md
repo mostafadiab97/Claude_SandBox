@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-PX7YQ6
+    confirmed: a1bdacbc8613
 ---
 The main PCB shall synchronise the room temperature at least once per minute.
 

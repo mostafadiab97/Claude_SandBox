@@ -14,5 +14,6 @@ order: 20
 links:
   - type: implements
     target: SW-M54D82
+    confirmed: b1928a8fb2d4
 ---
 Implemented in `src/conn/local_API.c`.

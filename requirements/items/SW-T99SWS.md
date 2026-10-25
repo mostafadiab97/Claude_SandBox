@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-E60WCX
+    confirmed: 52a4389d660e
 ---
 The device registry shall notify relay events in under 3 s.
 

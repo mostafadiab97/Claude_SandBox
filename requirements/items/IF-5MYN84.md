@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-TX0P0A
+    confirmed: 1e529db5157b
 ---
 The telemetry pipeline shall restore energy consumption when the network is unavailable.
 

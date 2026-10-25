@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-KNKBSP
+    confirmed: deeee4c782d1
 ---
 Implemented in `src/safe/watchdog.c`.

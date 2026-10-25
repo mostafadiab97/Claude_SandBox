@@ -10,6 +10,7 @@ order: 710
 links:
   - type: verifies
     target: SYS-FDJDP9
+    confirmed: 3facea10cce7
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

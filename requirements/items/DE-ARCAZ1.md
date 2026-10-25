@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-B18DJV
+    confirmed: 6a6381a10ebb
 ---
 Implemented in `src/conn/Zigbee_radio.c`.

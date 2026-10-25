@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-DQWVMQ
+    confirmed: 7c9cac507365
 ---
 The user account service shall store the room temperature using AES-256-GCM.
 

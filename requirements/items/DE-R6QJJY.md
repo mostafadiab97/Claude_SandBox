@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-RKEDEC
+    confirmed: 2913a90a748a
 ---
 Implemented in `src/safe/secure_boot.c`.

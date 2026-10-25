@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-G1WQ30
+    confirmed: 6324bbe48da8
 ---
 The menu system shall notify safety limits after a power loss.

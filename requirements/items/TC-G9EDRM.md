@@ -9,6 +9,7 @@ order: 1080
 links:
   - type: verifies
     target: SYS-5RDA7K
+    confirmed: 0b455862f511
 ---
 **Objective:** verify that the device behaves as specified.
 

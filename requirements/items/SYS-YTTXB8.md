@@ -13,6 +13,7 @@ order: 690
 links:
   - type: refines
     target: STK-JFBQPS
+    confirmed: 5027ee1822eb
 ---
 The telemetry pipeline shall encrypt the operating mode when the network is unavailable.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-N3WYBE
+    confirmed: 7445dfc2f902
 ---
 The local API shall encrypt user preferences after a power loss.
 

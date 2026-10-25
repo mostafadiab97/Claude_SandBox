@@ -9,6 +9,7 @@ order: 840
 links:
   - type: verifies
     target: SYS-5N9SCM
+    confirmed: "3408558e1049"
 ---
 **Objective:** verify that the device behaves as specified.
 

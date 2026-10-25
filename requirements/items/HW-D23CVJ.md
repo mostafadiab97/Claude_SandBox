@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-NYS190
+    confirmed: ed22064137e9
 ---
 The main PCB shall display the room temperature below 0.5 W in standby.
 

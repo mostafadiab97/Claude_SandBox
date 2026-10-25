@@ -11,8 +11,10 @@ order: 100
 links:
   - type: relates-to
     target: TC-BZFCE0
+    confirmed: e17c2ae77fd1
   - type: relates-to
     target: SYS-WKCZDQ
+    confirmed: ef7ce1eb28d3
 ---
 Found during regression testing of build 2.3.3.
 

@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-XQJCRE
+    confirmed: edcb243104e3
 ---
 The OTA server shall notify access tokens without user interaction.

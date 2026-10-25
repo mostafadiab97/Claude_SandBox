@@ -12,8 +12,10 @@ order: 410
 links:
   - type: refines
     target: STK-CDR1Y9
+    confirmed: d9857f8b33bf
   - type: mitigates
     target: RSK-4NE1NJ
+    confirmed: 56f6781ca0d3
 ---
 The battery backup shall notify relay events after a power loss.
 

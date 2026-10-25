@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-PN5J1K
+    confirmed: 3969f39acf44
 ---
 The encryption layer shall report safety limits with an accuracy of ±0.5 °C.
 

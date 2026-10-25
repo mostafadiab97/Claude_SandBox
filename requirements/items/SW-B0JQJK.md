@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-4WB58V
+    confirmed: 328c59c5e6fa
 ---
 The tamper detection shall report the room temperature using AES-256-GCM.
 

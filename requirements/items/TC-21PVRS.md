@@ -12,6 +12,7 @@ order: 900
 links:
   - type: verifies
     target: SYS-G2WJ4Z
+    confirmed: 24c104aab763
 ---
 **Objective:** verify that the login screen behaves as specified.
 

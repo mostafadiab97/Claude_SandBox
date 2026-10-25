@@ -14,6 +14,7 @@ order: 1290
 links:
   - type: refines
     target: STK-Q9RBYT
+    confirmed: a67c8b718d88
 ---
 The Zigbee radio shall switch the operating mode in all supported languages.
 

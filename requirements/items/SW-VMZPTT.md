@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-81C7XG
+    confirmed: b58b7666ff81
 ---
 The watchdog shall limit user preferences for up to 8 zones.

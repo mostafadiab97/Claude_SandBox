@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-SDM6X9
+    confirmed: 7f15286cc504
 ---
 The heating controller shall encrypt access tokens within 200 ms.
 

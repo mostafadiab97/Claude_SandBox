@@ -9,6 +9,7 @@ order: 280
 links:
   - type: verifies
     target: SYS-NDHES6
+    confirmed: 93697423a54b
 ---
 **Objective:** verify that the menu system behaves as specified.
 

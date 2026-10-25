@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-GG7TYH
+    confirmed: 14e77bb898fb
 ---
 The menu system shall measure user preferences at least once per minute.
 

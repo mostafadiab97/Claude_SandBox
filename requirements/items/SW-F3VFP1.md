@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-E05HS7
+    confirmed: 417b034b04bb
 ---
 The user account service shall synchronise schedule entries below 0.5 W in standby.
 

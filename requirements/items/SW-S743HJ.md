@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-ZTBW13
+    confirmed: 32ef0f0cf1f9
 ---
 The regulation loop shall switch error conditions in all supported languages.
 

@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-YDAQGT
+    confirmed: 7b303cf8f92a
 ---
 The watchdog shall report energy consumption without user interaction.

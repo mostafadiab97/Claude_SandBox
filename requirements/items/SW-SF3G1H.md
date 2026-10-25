@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-ZFAGA9
+    confirmed: 088ced33b5bc
 ---
 The schedule editor shall measure relay events in all supported languages.

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-RJDTZ9
+    confirmed: e76b1fb2127a
 ---
 The menu system shall restore humidity values at least once per minute.
 

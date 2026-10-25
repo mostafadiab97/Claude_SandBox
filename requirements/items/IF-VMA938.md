@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-B10NCR
+    confirmed: 9a60e2a0df86
 ---
 The encryption layer shall synchronise the set point in under 3 s.
 

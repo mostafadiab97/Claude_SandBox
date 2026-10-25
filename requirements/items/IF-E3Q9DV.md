@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-KVPS8H
+    confirmed: a4885701524f
 ---
 The login screen shall store schedule entries for up to 8 zones.

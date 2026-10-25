@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-E66142
+    confirmed: 02e2558f5021
 ---
 The status LED shall report humidity values below 0.5 W in standby.
 

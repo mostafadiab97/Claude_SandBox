@@ -12,5 +12,6 @@ order: 1710
 links:
   - type: refines
     target: STK-ND3D08
+    confirmed: df91c673f737
 ---
 The notification service shall encrypt audit records when the network is unavailable.

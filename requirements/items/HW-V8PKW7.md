@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-PBC9WM
+    confirmed: 7c5c5ce3bd83
 ---
 The heat pump driver shall validate user preferences with an accuracy of ±0.5 °C.
 

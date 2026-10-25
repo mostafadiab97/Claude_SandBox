@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SW-6ZNEMR
+    confirmed: 8cdaa51b3615
 ---
 The regulation loop shall calibrate firmware images without user interaction.

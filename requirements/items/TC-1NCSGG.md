@@ -12,6 +12,7 @@ order: 160
 links:
   - type: verifies
     target: SYS-SK1ZFN
+    confirmed: 65625f74ff05
 ---
 **Objective:** verify that the zone valve behaves as specified.
 

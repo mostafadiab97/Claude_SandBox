@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-YC69H2
+    confirmed: e34bdb6b99b2
 ---
 The heating controller shall switch audit records for up to 8 zones.
 

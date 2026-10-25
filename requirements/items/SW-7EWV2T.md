@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-GW0M6J
+    confirmed: 9c07e786f103
 ---
 The pairing process shall measure schedule entries at least once per minute.

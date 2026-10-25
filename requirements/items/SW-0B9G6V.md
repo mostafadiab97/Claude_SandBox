@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-N3G2GX
+    confirmed: 82049aeb2cf6
 ---
 The boiler interface shall log audit records with an accuracy of ±0.5 °C.

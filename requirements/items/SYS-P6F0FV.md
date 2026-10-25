@@ -14,6 +14,7 @@ order: 1130
 links:
   - type: refines
     target: STK-SM9B7Z
+    confirmed: 44235e2789f0
 ---
 The secure boot shall detect relay events at least once per minute.
 

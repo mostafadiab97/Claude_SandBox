@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-KPEZFF
+    confirmed: 9b54fb39d731
 ---
 The encryption layer shall encrypt energy consumption without user interaction.
 

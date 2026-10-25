@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-FN6K6C
+    confirmed: de635490bacc
 ---
 The enclosure shall restore the connection state at least once per minute.
 

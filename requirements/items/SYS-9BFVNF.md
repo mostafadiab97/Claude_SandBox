@@ -9,6 +9,7 @@ order: 480
 links:
   - type: refines
     target: STK-Y4WG9E
+    confirmed: 9c3c4f9c0995
 ---
 The main PCB shall validate humidity values in all supported languages.
 

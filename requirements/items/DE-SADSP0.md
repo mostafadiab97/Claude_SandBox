@@ -11,5 +11,6 @@ order: 10
 links:
   - type: implements
     target: SW-2BT8PX
+    confirmed: 4789d1c8a547
 ---
 Implemented in `src/heat/regulation_loop.c`.

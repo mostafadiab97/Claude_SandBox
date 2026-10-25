@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-HBCT8J
+    confirmed: "735188e33202"
 ---
 The secure boot shall store error conditions at least once per minute.
 

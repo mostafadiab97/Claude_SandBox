@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-HMK3XJ
+    confirmed: 243ec13ec9e6
 ---
 The secure boot shall synchronise humidity values using AES-256-GCM.
 

@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-Z3AF7E
+    confirmed: 9dfa61330ebe
 ---
 The menu system shall log the connection state below 0.5 W in standby.

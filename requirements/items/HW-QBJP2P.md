@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-DVK0ST
+    confirmed: "123689018215"
 ---
 The menu system shall detect energy consumption within 200 ms.
 

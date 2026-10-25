@@ -12,8 +12,10 @@ order: 690
 links:
   - type: verifies
     target: SYS-HRRNGW
+    confirmed: afbcfeedc1e2
   - type: verifies
     target: SW-8EMMCV
+    confirmed: dd9315a9d417
 ---
 **Objective:** verify that the power supply behaves as specified.
 

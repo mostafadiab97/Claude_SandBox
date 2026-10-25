@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-5DA537
+    confirmed: b3506b846105
 ---
 The boiler interface shall restore relay events after a power loss.
 

@@ -10,8 +10,10 @@ order: 550
 links:
   - type: verifies
     target: SYS-RWYDHZ
+    confirmed: 11de28b7d99d
   - type: verifies
     target: SW-MEDA9V
+    confirmed: 0626f45d0a4b
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

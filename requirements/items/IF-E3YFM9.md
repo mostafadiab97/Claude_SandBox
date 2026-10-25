@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-6PYBJD
+    confirmed: fd85d789dbcd
 ---
 The main PCB shall detect the set point within 200 ms.
 

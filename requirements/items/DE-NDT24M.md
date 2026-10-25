@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-KMSG1B
+    confirmed: 9d9c75efcd0a
 ---
 Implemented in `src/heat/heating_controller.c`.

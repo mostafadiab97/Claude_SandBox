@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-W4JX9Z
+    confirmed: 068564ed1fe1
 ---
 The Zigbee radio shall detect energy consumption with an accuracy of ±0.5 °C.

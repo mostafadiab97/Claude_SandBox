@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-FNDSGK
+    confirmed: cc35bc1c9bb3
 ---
 The regulation loop shall calibrate access tokens in under 3 s.
 

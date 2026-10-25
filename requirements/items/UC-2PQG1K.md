@@ -14,6 +14,7 @@ order: 160
 links:
   - type: relates-to
     target: STK-DKX022
+    confirmed: a534e573be6a
 ---
 **Actor:** home owner
 

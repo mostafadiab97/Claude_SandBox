@@ -9,6 +9,7 @@ order: 820
 links:
   - type: verifies
     target: SYS-K8QB7W
+    confirmed: b56f90ef8f2c
 ---
 **Objective:** verify that the device registry behaves as specified.
 

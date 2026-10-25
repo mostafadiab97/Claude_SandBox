@@ -14,8 +14,10 @@ order: 160
 links:
   - type: refines
     target: STK-1TB226
+    confirmed: ea29425b18b7
   - type: mitigates
     target: RSK-MJR7PZ
+    confirmed: a67337939a06
 ---
 The over-temperature monitor shall validate relay events in all supported languages.
 

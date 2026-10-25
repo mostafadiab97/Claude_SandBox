@@ -8,6 +8,7 @@ order: 10
 links:
   - type: refines
     target: SW-C295KT
+    confirmed: 805eac7a90c1
 ---
 The mobile app shall validate access tokens using AES-256-GCM.
 

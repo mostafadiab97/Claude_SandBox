@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-HF856T
+    confirmed: 96551a11c8e9
 ---
 The secure boot shall detect firmware images below 0.5 W in standby.
 

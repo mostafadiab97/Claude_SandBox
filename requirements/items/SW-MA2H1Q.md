@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-KVWKZF
+    confirmed: 9148889bdd96
 ---
 The boiler interface shall report user preferences for at least 10 years.
 

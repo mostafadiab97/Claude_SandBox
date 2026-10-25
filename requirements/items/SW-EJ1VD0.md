@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QN4W49
+    confirmed: 6a7a9fdc0288
 ---
 The boiler interface shall log humidity values when the network is unavailable.
 

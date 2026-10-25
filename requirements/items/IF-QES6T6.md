@@ -11,6 +11,7 @@ order: 40
 links:
   - type: refines
     target: SYS-M1RMNM
+    confirmed: 6d9e9d1dc1e4
 ---
 The Bluetooth LE link shall display energy consumption in under 3 s.
 

@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-DNKAZZ
+    confirmed: 22452286eeb7
 ---
 The local API shall encrypt the room temperature without user interaction.
 

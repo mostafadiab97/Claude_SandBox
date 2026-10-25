@@ -13,6 +13,7 @@ order: 1340
 links:
   - type: verifies
     target: SYS-KJZDA6
+    confirmed: cceccc292cf6
 ---
 **Objective:** verify that the device behaves as specified.
 

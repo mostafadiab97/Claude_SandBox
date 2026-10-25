@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-J2BCRS
+    confirmed: dbe3e7f88972
 ---
 The OTA server shall switch humidity values at least once per minute.
 

@@ -14,5 +14,6 @@ order: 1860
 links:
   - type: refines
     target: STK-SZWQ0A
+    confirmed: fc1f05b44684
 ---
 The over-temperature monitor shall encrypt safety limits when the network is unavailable.

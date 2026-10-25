@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-PP9XSM
+    confirmed: f6b12bd52bbe
 ---
 The local API shall detect error conditions when the network is unavailable.
 

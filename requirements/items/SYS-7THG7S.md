@@ -11,8 +11,10 @@ order: 310
 links:
   - type: refines
     target: STK-EFJRJ9
+    confirmed: fc922ec1a72e
   - type: mitigates
     target: RSK-14YSDS
+    confirmed: 0db3fa8291ee
 ---
 The zone valve shall log energy consumption using AES-256-GCM.
 

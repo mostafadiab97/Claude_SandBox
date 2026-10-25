@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-367JHA
+    confirmed: bf84f865fd8d
 ---
 The mobile app shall restore audit records at least once per minute.
 

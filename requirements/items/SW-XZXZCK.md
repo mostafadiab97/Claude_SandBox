@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-RE1KVT
+    confirmed: 33051d32765f
 ---
 The regulation loop shall measure the operating mode with an accuracy of ±0.5 °C.

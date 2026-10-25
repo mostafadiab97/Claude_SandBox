@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-MJMPET
+    confirmed: db16e70cbc4d
 ---
 The login screen shall display sensor readings within 200 ms.
 

@@ -12,6 +12,7 @@ order: 1170
 links:
   - type: verifies
     target: SYS-A1EMZ9
+    confirmed: a04194db67ef
 ---
 **Objective:** verify that the device behaves as specified.
 

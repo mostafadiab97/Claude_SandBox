@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-K4EQQV
+    confirmed: 2c98aea622bf
 ---
 The telemetry pipeline shall validate the connection state below 0.5 W in standby.
 

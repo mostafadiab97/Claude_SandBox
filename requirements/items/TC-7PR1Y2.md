@@ -10,8 +10,10 @@ order: 230
 links:
   - type: verifies
     target: SYS-HMK3XJ
+    confirmed: 243ec13ec9e6
   - type: verifies
     target: SW-NA4WSY
+    confirmed: bff4a0ed5836
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

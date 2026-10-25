@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7WCAWK
+    confirmed: 872381f1db9b
 ---
 The battery backup shall detect sensor readings at least once per minute.
 

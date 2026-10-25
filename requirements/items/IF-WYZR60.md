@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-HDSJK7
+    confirmed: 051a9b0bce58
 ---
 The boiler interface shall detect relay events at least once per minute.

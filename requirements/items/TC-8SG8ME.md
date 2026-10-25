@@ -10,6 +10,7 @@ order: 380
 links:
   - type: verifies
     target: SYS-KGMJR6
+    confirmed: 173f8dfb735a
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

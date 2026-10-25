@@ -13,6 +13,7 @@ order: 770
 links:
   - type: verifies
     target: SYS-HY185S
+    confirmed: 4f41eab5e96a
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

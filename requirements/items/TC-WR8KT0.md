@@ -13,6 +13,7 @@ order: 1040
 links:
   - type: verifies
     target: SYS-HKPNTA
+    confirmed: 1b21455ffebe
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

@@ -12,8 +12,10 @@ order: 360
 links:
   - type: verifies
     target: SYS-49FF9M
+    confirmed: de1a22bc8031
   - type: verifies
     target: SW-7NJ840
+    confirmed: 598e15ccb9d4
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

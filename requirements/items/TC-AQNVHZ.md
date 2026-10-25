@@ -9,8 +9,10 @@ order: 960
 links:
   - type: verifies
     target: SYS-9AYNBP
+    confirmed: f3e0173269c9
   - type: verifies
     target: SW-AJP6HH
+    confirmed: e6cdf4908071
 ---
 **Objective:** verify that the schedule editor behaves as specified.
 

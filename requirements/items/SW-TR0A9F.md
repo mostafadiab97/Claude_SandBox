@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-M5YEH7
+    confirmed: 82e2e5978f31
 ---
 The over-temperature monitor shall encrypt sensor readings for at least 10 years.

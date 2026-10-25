@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-PSKGXZ
+    confirmed: 9687ca73a4bf
 ---
 Implemented in `src/heat/boiler_interface.c`.

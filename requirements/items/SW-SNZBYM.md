@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-F7SWPF
+    confirmed: 89bbd5dd030b
 ---
 The tamper detection shall store the room temperature below 0.5 W in standby.
 

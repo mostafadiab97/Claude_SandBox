@@ -9,6 +9,7 @@ order: 1000
 links:
   - type: verifies
     target: SYS-XFHV81
+    confirmed: cd27f13dbcce
 ---
 **Objective:** verify that the local API behaves as specified.
 

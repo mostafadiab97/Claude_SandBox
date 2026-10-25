@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-T689CT
+    confirmed: dafb2a2d5621
 ---
 The status LED shall switch energy consumption for up to 8 zones.
 

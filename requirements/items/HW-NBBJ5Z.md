@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: HW-YEQRJF
+    confirmed: ec60f0694182
 ---
 The battery backup shall restore the connection state in all supported languages.
 

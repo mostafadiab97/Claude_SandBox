@@ -10,6 +10,7 @@ order: 1590
 links:
   - type: refines
     target: STK-4NGQJ5
+    confirmed: 96640a7e340d
 ---
 The enclosure shall detect the room temperature using AES-256-GCM.
 

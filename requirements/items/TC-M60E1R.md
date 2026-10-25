@@ -13,8 +13,10 @@ order: 230
 links:
   - type: verifies
     target: SYS-MS7ER6
+    confirmed: 02dd9854df79
   - type: verifies
     target: SW-JEHJ48
+    confirmed: a9ad8edc6a5a
 ---
 **Objective:** verify that the user account service behaves as specified.
 

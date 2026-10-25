@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-A3STJH
+    confirmed: 01e4f44d3a9c
 ---
 The Wi-Fi module shall limit sensor readings within 200 ms.
 

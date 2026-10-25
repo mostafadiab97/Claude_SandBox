@@ -13,6 +13,7 @@ order: 670
 links:
   - type: verifies
     target: SYS-841ZEK
+    confirmed: f5675ac44211
 ---
 **Objective:** verify that the login screen behaves as specified.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-H80NAW
+    confirmed: d4703e1835f9
 ---
 The encryption layer shall limit error conditions without user interaction.
 

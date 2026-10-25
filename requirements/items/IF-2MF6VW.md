@@ -11,6 +11,7 @@ order: 40
 links:
   - type: refines
     target: SYS-G8M4SE
+    confirmed: df8c85150795
 ---
 The device registry shall restore firmware images in all supported languages.
 

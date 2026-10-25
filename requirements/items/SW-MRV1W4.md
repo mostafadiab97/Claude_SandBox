@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-1BABK1
+    confirmed: 2abcea762c88
 ---
 The pairing process shall authenticate audit records for up to 8 zones.
 

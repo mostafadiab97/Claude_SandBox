@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-B37VY2
+    confirmed: 06bc752da75c
 ---
 The boiler interface shall validate humidity values without user interaction.
 

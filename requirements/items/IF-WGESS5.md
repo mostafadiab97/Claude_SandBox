@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: IF-Y7XB4Z
+    confirmed: f4cee4842824
 ---
 The boiler interface shall restore humidity values with an accuracy of ±0.5 °C.
 

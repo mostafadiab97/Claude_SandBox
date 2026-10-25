@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-N6Z4DM
+    confirmed: 6691c4349401
 ---
 The enclosure shall display energy consumption when the network is unavailable.
 

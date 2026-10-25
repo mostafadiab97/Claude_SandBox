@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-C7RCJ1
+    confirmed: 3bf493978048
 ---
 The battery backup shall log audit records below 0.5 W in standby.
 

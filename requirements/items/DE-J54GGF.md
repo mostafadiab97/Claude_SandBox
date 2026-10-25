@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-GY72BR
+    confirmed: b60a5a88c89f
 ---
 Implemented in `src/safe/over-temperature_monitor.c`.

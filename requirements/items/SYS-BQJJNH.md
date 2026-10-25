@@ -12,6 +12,7 @@ order: 260
 links:
   - type: refines
     target: STK-JBY2BX
+    confirmed: bcce6e51beb4
 ---
 The tamper detection shall measure firmware images after a power loss.
 

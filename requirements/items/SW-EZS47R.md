@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-AZ9A6C
+    confirmed: 2e121d1569dc
 ---
 The home dashboard shall encrypt the operating mode at least once per minute.
 

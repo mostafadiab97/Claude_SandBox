@@ -9,6 +9,7 @@ order: 770
 links:
   - type: verifies
     target: SYS-MASKXR
+    confirmed: c14e888575b5
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

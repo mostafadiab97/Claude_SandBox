@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-KFH2GP
+    confirmed: a8dcaf0bf6d6
 ---
 The login screen shall store user preferences with an accuracy of ±0.5 °C.
 

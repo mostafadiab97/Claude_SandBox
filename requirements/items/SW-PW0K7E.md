@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-5DXFKN
+    confirmed: 222cb7641c45
 ---
 The heating controller shall restore humidity values within 200 ms.

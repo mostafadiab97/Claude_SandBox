@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-8AGCNN
+    confirmed: 494337b838a6
 ---
 The notification service shall synchronise energy consumption after a power loss.
 

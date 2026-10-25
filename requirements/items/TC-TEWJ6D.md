@@ -12,6 +12,7 @@ order: 360
 links:
   - type: verifies
     target: SYS-34QNYE
+    confirmed: f6e72f885951
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

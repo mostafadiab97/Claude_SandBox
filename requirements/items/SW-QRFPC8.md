@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-R873ZE
+    confirmed: fae59ce68ce5
 ---
 The zone valve shall log audit records in under 3 s.
 

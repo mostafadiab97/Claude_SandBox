@@ -14,6 +14,7 @@ order: 920
 links:
   - type: refines
     target: STK-HH6ZNR
+    confirmed: 8a0ce5d354df
 ---
 The status LED shall log humidity values when the network is unavailable.
 

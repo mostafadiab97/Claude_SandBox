@@ -12,8 +12,10 @@ order: 130
 links:
   - type: relates-to
     target: TC-VKK4J6
+    confirmed: 044395b18de2
   - type: relates-to
     target: SYS-TE6FDF
+    confirmed: 11c446c78b24
 ---
 Found during regression testing of build 2.4.31.
 

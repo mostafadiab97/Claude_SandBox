@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-QRK41E
+    confirmed: ffc44ca06ebf
 ---
 The encryption layer shall measure energy consumption within 200 ms.
 

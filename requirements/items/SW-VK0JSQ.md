@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-PDA2DJ
+    confirmed: 6c392c4860e1
 ---
 The Zigbee radio shall limit schedule entries using AES-256-GCM.
 

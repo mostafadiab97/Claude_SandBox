@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-SQM30D
+    confirmed: 61b33a5fb3c5
 ---
 The telemetry pipeline shall detect access tokens in all supported languages.
 

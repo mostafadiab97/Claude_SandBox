@@ -10,6 +10,7 @@ order: 220
 links:
   - type: verifies
     target: SYS-Q0NNG8
+    confirmed: d9d2819ed73b
 ---
 **Objective:** verify that the rotary knob behaves as specified.
 

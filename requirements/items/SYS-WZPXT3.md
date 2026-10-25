@@ -10,6 +10,7 @@ order: 1400
 links:
   - type: refines
     target: STK-HBX3YS
+    confirmed: b42a2f94d25d
 ---
 The schedule editor shall detect the connection state at least once per minute.
 

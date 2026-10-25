@@ -10,6 +10,7 @@ order: 1290
 links:
   - type: verifies
     target: SYS-749A38
+    confirmed: a8274ea6218e
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.
 

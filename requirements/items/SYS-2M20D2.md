@@ -9,8 +9,10 @@ order: 1710
 links:
   - type: refines
     target: STK-8PN4VS
+    confirmed: a3e83ac40678
   - type: mitigates
     target: RSK-H5P7DK
+    confirmed: 071ef93a7be9
 ---
 The rotary knob shall calibrate the operating mode at least once per minute.
 

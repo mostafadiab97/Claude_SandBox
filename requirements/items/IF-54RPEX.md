@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-QS1ZXM
+    confirmed: 7e7c7e73d25f
 ---
 The boiler interface shall authenticate firmware images without user interaction.
 

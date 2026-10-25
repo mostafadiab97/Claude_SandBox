@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-2QHPNW
+    confirmed: 579c82632c6d
 ---
 The Wi-Fi module shall switch schedule entries without user interaction.

@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-27GEFX
+    confirmed: "546768219639"
 ---
 The battery backup shall store the set point without user interaction.
 

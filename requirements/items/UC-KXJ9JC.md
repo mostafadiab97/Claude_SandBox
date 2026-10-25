@@ -12,6 +12,7 @@ order: 170
 links:
   - type: relates-to
     target: STK-0AD5XP
+    confirmed: 30e7f07df0d1
 ---
 **Actor:** home owner
 

@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-V1TPCM
+    confirmed: 66b004f91487
 ---
 The boiler interface shall log safety limits after a power loss.

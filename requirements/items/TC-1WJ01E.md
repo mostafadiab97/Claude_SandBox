@@ -10,8 +10,10 @@ order: 600
 links:
   - type: verifies
     target: SYS-ASDD8G
+    confirmed: 5ff12c4c4c1a
   - type: verifies
     target: SW-2GS8S2
+    confirmed: eec819e67021
 ---
 **Objective:** verify that the status LED behaves as specified.
 

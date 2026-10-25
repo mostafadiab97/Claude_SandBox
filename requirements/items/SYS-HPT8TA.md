@@ -12,5 +12,6 @@ order: 90
 links:
   - type: refines
     target: STK-55M3CZ
+    confirmed: 45f1b5fe0502
 ---
 The schedule editor shall synchronise error conditions for up to 8 zones.

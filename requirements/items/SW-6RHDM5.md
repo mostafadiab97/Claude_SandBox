@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-BCDQHB
+    confirmed: ed0bba187a94
 ---
 The Zigbee radio shall encrypt error conditions without user interaction.

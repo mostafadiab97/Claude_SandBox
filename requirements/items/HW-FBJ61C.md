@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-CMNCSV
+    confirmed: c22e3af7bfc8
 ---
 The battery backup shall validate the room temperature in all supported languages.
 

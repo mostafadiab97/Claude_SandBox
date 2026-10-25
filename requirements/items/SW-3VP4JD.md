@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-CM44AM
+    confirmed: 2a3acc022feb
 ---
 The pairing process shall switch safety limits without user interaction.
 

@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-7DF4GN
+    confirmed: b8942c9f4893
 ---
 The tamper detection shall notify the set point within 200 ms.
 

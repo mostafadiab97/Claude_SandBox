@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-DJ18XA
+    confirmed: 7af79213d5f2
 ---
 The Bluetooth LE link shall calibrate humidity values after a power loss.
 

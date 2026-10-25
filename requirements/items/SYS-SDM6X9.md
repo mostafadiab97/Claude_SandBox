@@ -13,8 +13,10 @@ order: 930
 links:
   - type: refines
     target: STK-NTBW06
+    confirmed: d92faafa8cce
   - type: mitigates
     target: RSK-AA3YJ3
+    confirmed: 84e686f1bbcc
 ---
 The heating controller shall encrypt user preferences in all supported languages.
 

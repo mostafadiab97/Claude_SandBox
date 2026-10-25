@@ -14,5 +14,6 @@ order: 1880
 links:
   - type: refines
     target: STK-2STGXE
+    confirmed: c77fe61daf4b
 ---
 The battery backup shall validate error conditions at least once per minute.

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-PV76TW
+    confirmed: b6baf2d57c8f
 ---
 The login screen shall switch safety limits for at least 10 years.
 

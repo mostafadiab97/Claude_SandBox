@@ -13,5 +13,6 @@ order: 1340
 links:
   - type: refines
     target: STK-639N9T
+    confirmed: 252da9caa62c
 ---
 The login screen shall measure firmware images for up to 8 zones.

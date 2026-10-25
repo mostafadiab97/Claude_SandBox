@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-3311SY
+    confirmed: 73000130eecf
 ---
 The zone valve shall notify the operating mode using AES-256-GCM.
 

@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-QEFT7B
+    confirmed: aafd3f4bb931
 ---
 The OTA server shall synchronise sensor readings within 200 ms.
 

@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-0P0DNN
+    confirmed: fb01b79aacb5
 ---
 The boiler interface shall synchronise energy consumption within 200 ms.

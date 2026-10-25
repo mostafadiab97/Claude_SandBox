@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-6QFCF2
+    confirmed: d9f6d0d7d66b
 ---
 The OTA server shall restore access tokens after a power loss.
 

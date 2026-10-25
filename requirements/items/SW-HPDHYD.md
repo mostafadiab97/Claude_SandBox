@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-EH295E
+    confirmed: 7d5baafb4296
 ---
 The Zigbee radio shall notify the set point without user interaction.

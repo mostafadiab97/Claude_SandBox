@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-MEDA9V
+    confirmed: 0626f45d0a4b
 ---
 The user account service shall restore humidity values after a power loss.
 

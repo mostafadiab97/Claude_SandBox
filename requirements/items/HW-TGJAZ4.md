@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SYS-94CAYR
+    confirmed: a1ec4218b106
 ---
 The user account service shall log the operating mode when the network is unavailable.

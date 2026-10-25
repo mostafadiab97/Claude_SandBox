@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: HW-7M18GD
+    confirmed: 2192ad1d14bf
 ---
 The battery backup shall report error conditions after a power loss.
 

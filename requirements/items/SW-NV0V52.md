@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-JP0CW4
+    confirmed: 957dcef549ba
 ---
 The notification service shall notify energy consumption when the network is unavailable.
 

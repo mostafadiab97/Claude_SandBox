@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: HW-Q7NVRN
+    confirmed: abd150db92d5
 ---
 The boiler interface shall log the connection state when the network is unavailable.

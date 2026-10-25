@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-NXCKHB
+    confirmed: 0e08dd7928f3
 ---
 Implemented in `src/safe/encryption_layer.c`.

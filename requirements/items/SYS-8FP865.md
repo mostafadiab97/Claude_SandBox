@@ -13,8 +13,10 @@ order: 100
 links:
   - type: refines
     target: STK-MNQXK0
+    confirmed: d3157dcb9034
   - type: mitigates
     target: RSK-S88NZ1
+    confirmed: 257f5def6363
 ---
 The backlight shall log the connection state for at least 10 years.
 

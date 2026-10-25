@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: HW-MCTF70
+    confirmed: 6c60e50cdc1b
 ---
 The enclosure shall calibrate the connection state after a power loss.

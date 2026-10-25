@@ -12,6 +12,7 @@ order: 690
 links:
   - type: verifies
     target: SYS-4W17YE
+    confirmed: 91763bba0bd6
 ---
 **Objective:** verify that the notification service behaves as specified.
 

@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-J6RJYD
+    confirmed: a893bb1c8e2d
 ---
 The user account service shall authenticate humidity values without user interaction.

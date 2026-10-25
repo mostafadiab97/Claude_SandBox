@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-PWBJ2E
+    confirmed: 02684a777525
 ---
 The over-temperature monitor shall limit error conditions after a power loss.
 

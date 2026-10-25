@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-HX38ZE
+    confirmed: b463e7814f2b
 ---
 The heat pump driver shall synchronise access tokens at least once per minute.
 

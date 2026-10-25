@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-FDJDP9
+    confirmed: 3facea10cce7
 ---
 The secure boot shall calibrate access tokens for at least 10 years.
 

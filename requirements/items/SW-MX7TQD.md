@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-531285
+    confirmed: 27ad17bc6596
 ---
 The encryption layer shall synchronise the operating mode at least once per minute.

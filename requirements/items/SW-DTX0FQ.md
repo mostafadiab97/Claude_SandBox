@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-JEH13M
+    confirmed: 6a3acdb4791f
 ---
 The pairing process shall limit access tokens with an accuracy of ±0.5 °C.
 

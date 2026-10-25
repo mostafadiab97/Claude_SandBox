@@ -9,8 +9,10 @@ order: 80
 links:
   - type: verifies
     target: SYS-0GKFAB
+    confirmed: b42a1b2bb89f
   - type: verifies
     target: SW-MGBSAX
+    confirmed: 02768e075c96
 ---
 **Objective:** verify that the zone valve behaves as specified.
 

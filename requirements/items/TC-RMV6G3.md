@@ -10,8 +10,10 @@ order: 1250
 links:
   - type: verifies
     target: SYS-378XSW
+    confirmed: 5031ebc6a924
   - type: verifies
     target: SW-69Q8PV
+    confirmed: 8a81734f6f33
 ---
 **Objective:** verify that the status LED behaves as specified.
 

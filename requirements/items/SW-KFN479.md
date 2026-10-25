@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-8ZNJBE
+    confirmed: d6a67816b8b6
 ---
 The menu system shall authenticate relay events with an accuracy of ±0.5 °C.

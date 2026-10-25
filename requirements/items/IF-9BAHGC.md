@@ -11,5 +11,6 @@ order: 40
 links:
   - type: refines
     target: SYS-8BT9A5
+    confirmed: 768828fca553
 ---
 The watchdog shall validate safety limits using AES-256-GCM.

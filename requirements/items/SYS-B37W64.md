@@ -13,8 +13,10 @@ order: 1010
 links:
   - type: refines
     target: STK-W1SAZ0
+    confirmed: f0954f8ba0a2
   - type: mitigates
     target: RSK-G8ARKV
+    confirmed: dd1f8627cbb6
 ---
 The heating controller shall switch the set point with an accuracy of ±0.5 °C.
 

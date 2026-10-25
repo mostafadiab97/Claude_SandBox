@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-A45TJB
+    confirmed: 6163aa570a7a
 ---
 The login screen shall authenticate the connection state for up to 8 zones.
 

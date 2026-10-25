@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-B8BCQN
+    confirmed: 2a3d9dbc24b6
 ---
 The menu system shall report sensor readings below 0.5 W in standby.
 

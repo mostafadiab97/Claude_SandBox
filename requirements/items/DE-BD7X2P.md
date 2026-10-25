@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-B45075
+    confirmed: 44b6eb114f52
 ---
 Implemented in `src/heat/boiler_interface.c`.

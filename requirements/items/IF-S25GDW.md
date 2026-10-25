@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-YF7TFF
+    confirmed: 7c6e8f945766
 ---
 The relay board shall measure error conditions for up to 8 zones.
 

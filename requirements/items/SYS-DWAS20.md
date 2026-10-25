@@ -12,6 +12,7 @@ order: 1100
 links:
   - type: refines
     target: STK-35QR7F
+    confirmed: bc1aebb7918d
 ---
 The touch display shall store energy consumption below 0.5 W in standby.
 

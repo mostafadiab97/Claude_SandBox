@@ -10,6 +10,7 @@ order: 1500
 links:
   - type: verifies
     target: SYS-HPNQHQ
+    confirmed: 4fe382f87558
 ---
 **Objective:** verify that the login screen behaves as specified.
 

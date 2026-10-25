@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-3V1R9W
+    confirmed: 36b7913e764d
 ---
 The schedule editor shall validate audit records without user interaction.
 

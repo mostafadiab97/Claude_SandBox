@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-B19CRP
+    confirmed: 9dc800f53108
 ---
 The status LED shall authenticate relay events in under 3 s.
 

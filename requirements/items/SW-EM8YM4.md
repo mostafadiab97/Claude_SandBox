@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-CCEYVZ
+    confirmed: 0da0bb7a7e52
 ---
 The cloud backend shall validate the room temperature below 0.5 W in standby.

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-74FH7T
+    confirmed: 89ab6af8e498
 ---
 The OTA server shall validate relay events at least once per minute.
 

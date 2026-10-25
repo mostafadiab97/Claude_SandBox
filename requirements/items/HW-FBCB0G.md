@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-58H7WQ
+    confirmed: 4ec07940ffd5
 ---
 The OTA server shall switch the room temperature for up to 8 zones.

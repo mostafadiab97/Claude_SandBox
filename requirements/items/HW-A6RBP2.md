@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-S5AVVB
+    confirmed: 21ef3d7af8e5
 ---
 The user account service shall measure sensor readings using AES-256-GCM.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-CCEYVZ
+    confirmed: 0da0bb7a7e52
 ---
 The cloud backend shall report sensor readings without user interaction.
 

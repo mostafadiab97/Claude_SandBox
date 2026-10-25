@@ -9,6 +9,7 @@ order: 1190
 links:
   - type: verifies
     target: SYS-5FSH1D
+    confirmed: 7162ed5d8a28
 ---
 **Objective:** verify that the zone valve behaves as specified.
 

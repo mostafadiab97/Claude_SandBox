@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-XCZ8FT
+    confirmed: 4082509ac9c9
 ---
 The local API shall authenticate audit records for up to 8 zones.

@@ -10,5 +10,6 @@ order: 450
 links:
   - type: refines
     target: STK-HBX3YS
+    confirmed: b42a2f94d25d
 ---
 The mobile app shall measure the connection state for at least 10 years.

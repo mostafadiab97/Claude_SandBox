@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-N7H58H
+    confirmed: a8a06726344d
 ---
 The watchdog shall display the room temperature when the network is unavailable.

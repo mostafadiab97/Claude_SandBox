@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-MJMPET
+    confirmed: db16e70cbc4d
 ---
 The login screen shall authenticate sensor readings below 0.5 W in standby.

@@ -9,8 +9,10 @@ order: 1220
 links:
   - type: refines
     target: STK-DZ9P6K
+    confirmed: 35469390951d
   - type: mitigates
     target: RSK-6Q7HV9
+    confirmed: 67f9d16d1648
 ---
 The Zigbee radio shall report user preferences with an accuracy of ±0.5 °C.
 

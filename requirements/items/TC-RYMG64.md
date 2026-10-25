@@ -10,6 +10,7 @@ order: 600
 links:
   - type: verifies
     target: SYS-YKN19M
+    confirmed: cf6a8acfb8a2
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

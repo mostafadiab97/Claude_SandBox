@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7DMMJ1
+    confirmed: 25d533559e9b
 ---
 The encryption layer shall notify the operating mode without user interaction.
 

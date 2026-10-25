@@ -10,6 +10,7 @@ order: 1970
 links:
   - type: refines
     target: STK-M7S0HJ
+    confirmed: 000356d5d38b
 ---
 The regulation loop shall detect access tokens using AES-256-GCM.
 

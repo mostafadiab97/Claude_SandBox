@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-Z1R41Y
+    confirmed: a9d6063a6808
 ---
 The zone valve shall calibrate user preferences after a power loss.
 

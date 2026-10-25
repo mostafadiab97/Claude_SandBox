@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-77M8EH
+    confirmed: fd9c2898d69c
 ---
 The battery backup shall calibrate firmware images in all supported languages.
 

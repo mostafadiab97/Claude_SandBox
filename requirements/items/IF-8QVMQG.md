@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-TYCMRT
+    confirmed: cd494a5f904a
 ---
 The status LED shall display sensor readings without user interaction.
 

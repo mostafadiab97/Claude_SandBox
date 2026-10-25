@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-5CGTBY
+    confirmed: 142068eb1880
 ---
 The Zigbee radio shall display humidity values without user interaction.

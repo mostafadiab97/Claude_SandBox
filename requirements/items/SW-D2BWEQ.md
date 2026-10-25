@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-C7XPC7
+    confirmed: 159fdc89b57b
 ---
 The Wi-Fi module shall encrypt error conditions for up to 8 zones.
 

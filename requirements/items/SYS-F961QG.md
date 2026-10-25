@@ -12,8 +12,10 @@ order: 1410
 links:
   - type: refines
     target: STK-Y4WG9E
+    confirmed: 9c3c4f9c0995
   - type: mitigates
     target: RSK-46TQ95
+    confirmed: d8376349dea6
 ---
 The enclosure shall report firmware images after a power loss.
 

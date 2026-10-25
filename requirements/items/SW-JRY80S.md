@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-5SCN5H
+    confirmed: 94875c7db4c5
 ---
 The mobile app shall display sensor readings without user interaction.
 

@@ -13,5 +13,6 @@ order: 360
 links:
   - type: refines
     target: STK-W8N48B
+    confirmed: 00c32cea6ea5
 ---
 The boiler interface shall authenticate error conditions for at least 10 years.

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-RB976T
+    confirmed: 5b0c85ffc293
 ---
 The status LED shall log the room temperature at least once per minute.
 

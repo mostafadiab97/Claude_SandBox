@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-3MCFDD
+    confirmed: a0fea72fbd43
 ---
 The telemetry pipeline shall switch firmware images in under 3 s.
 

@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-S55V4N
+    confirmed: 706f127e04d0
 ---
 The regulation loop shall measure schedule entries with an accuracy of ±0.5 °C.
 

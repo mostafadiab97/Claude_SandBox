@@ -14,6 +14,7 @@ order: 1450
 links:
   - type: verifies
     target: SYS-0MGEHH
+    confirmed: 342197138fa1
 ---
 **Objective:** verify that the local API behaves as specified.
 

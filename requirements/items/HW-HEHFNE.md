@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-SKSNMS
+    confirmed: 25a2208d5d33
 ---
 The local API shall store the set point for up to 8 zones.
 

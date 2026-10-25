@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-JGSYAF
+    confirmed: 68f515bb8ed8
 ---
 The cloud backend shall encrypt humidity values in under 3 s.

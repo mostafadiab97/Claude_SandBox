@@ -14,8 +14,10 @@ order: 170
 links:
   - type: verifies
     target: SYS-Z2TFC8
+    confirmed: 985116655f53
   - type: verifies
     target: SW-KZQTY6
+    confirmed: 2d0abae3753b
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

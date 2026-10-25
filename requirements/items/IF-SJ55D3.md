@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-GECB0Q
+    confirmed: 76c8ecd5a548
 ---
 The heat pump driver shall restore the operating mode at least once per minute.
 

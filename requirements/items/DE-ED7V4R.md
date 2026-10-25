@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-V8G75G
+    confirmed: 9bbfacd2c8bc
 ---
 Implemented in `src/app/home_dashboard.c`.

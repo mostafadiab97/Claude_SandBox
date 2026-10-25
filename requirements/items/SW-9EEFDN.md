@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-7QNRB0
+    confirmed: a3f05325ad0a
 ---
 The notification service shall calibrate sensor readings for up to 8 zones.

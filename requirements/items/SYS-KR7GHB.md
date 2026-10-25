@@ -14,8 +14,10 @@ order: 610
 links:
   - type: refines
     target: STK-M7S0HJ
+    confirmed: 000356d5d38b
   - type: mitigates
     target: RSK-G8ARKV
+    confirmed: dd1f8627cbb6
 ---
 The heat pump driver shall authenticate the connection state with an accuracy of ±0.5 °C.
 

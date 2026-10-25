@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-12HMHQ
+    confirmed: c7fe0edbb759
 ---
 The mobile app shall authenticate user preferences for at least 10 years.

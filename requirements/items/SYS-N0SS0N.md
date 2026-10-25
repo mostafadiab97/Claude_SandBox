@@ -13,6 +13,7 @@ order: 1050
 links:
   - type: refines
     target: STK-R8QH58
+    confirmed: 13d6784d2cc9
 ---
 The user account service shall detect schedule entries for at least 10 years.
 

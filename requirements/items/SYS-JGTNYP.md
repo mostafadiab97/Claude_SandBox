@@ -14,6 +14,7 @@ order: 280
 links:
   - type: refines
     target: STK-7X7S81
+    confirmed: 0b0c08c75491
 ---
 The encryption layer shall restore safety limits for up to 8 zones.
 

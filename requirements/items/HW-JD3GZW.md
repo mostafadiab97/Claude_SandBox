@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-DCDDTY
+    confirmed: 5b47c2ab88c1
 ---
 The watchdog shall encrypt the connection state when the network is unavailable.
 

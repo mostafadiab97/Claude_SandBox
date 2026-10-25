@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-2RJ62J
+    confirmed: 86b1e408d2e0
 ---
 The main PCB shall display the room temperature at least once per minute.

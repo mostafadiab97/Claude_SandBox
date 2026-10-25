@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-S1NYQA
+    confirmed: c4185487c86a
 ---
 The relay board shall authenticate error conditions below 0.5 W in standby.

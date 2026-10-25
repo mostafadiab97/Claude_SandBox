@@ -13,5 +13,6 @@ order: 20
 links:
   - type: implements
     target: SW-17SVMP
+    confirmed: 76be45cfb878
 ---
 Implemented in `src/app/schedule_editor.c`.

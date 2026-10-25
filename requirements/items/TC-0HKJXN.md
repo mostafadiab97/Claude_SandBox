@@ -12,8 +12,10 @@ order: 160
 links:
   - type: verifies
     target: SYS-H9YARC
+    confirmed: 65250d626484
   - type: verifies
     target: SW-MBM5E6
+    confirmed: ee73796f28b9
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-1T01KA
+    confirmed: b90824328e7a
 ---
 The schedule editor shall restore humidity values for up to 8 zones.
 

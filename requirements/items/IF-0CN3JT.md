@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-C084T6
+    confirmed: 60b474ed648f
 ---
 The cloud backend shall detect the set point after a power loss.
 

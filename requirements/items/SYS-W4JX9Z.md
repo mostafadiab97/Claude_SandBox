@@ -10,6 +10,7 @@ order: 1430
 links:
   - type: refines
     target: STK-GMCKMF
+    confirmed: f47328374a2b
 ---
 The Zigbee radio shall validate safety limits when the network is unavailable.
 

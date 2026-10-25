@@ -9,5 +9,6 @@ order: 30
 links:
   - type: refines
     target: SYS-4JQMJS
+    confirmed: 5acdb7574d9f
 ---
 The heating controller shall log the operating mode when the network is unavailable.

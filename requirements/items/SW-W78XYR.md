@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-9CRJNJ
+    confirmed: cff5909e7692
 ---
 The device registry shall store user preferences after a power loss.
 

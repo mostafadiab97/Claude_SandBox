@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SW-0AJSZ5
+    confirmed: a6c79179d7d9
 ---
 The notification service shall calibrate energy consumption when the network is unavailable.

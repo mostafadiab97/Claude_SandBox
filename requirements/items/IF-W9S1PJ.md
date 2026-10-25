@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-KH549P
+    confirmed: 7b84e6500217
 ---
 The watchdog shall limit safety limits in all supported languages.
 

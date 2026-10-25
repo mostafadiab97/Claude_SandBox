@@ -14,8 +14,10 @@ order: 1290
 links:
   - type: verifies
     target: SYS-NYK3S8
+    confirmed: 144fa7466d8d
   - type: verifies
     target: SW-DWKGYH
+    confirmed: 0dcb4ff55039
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

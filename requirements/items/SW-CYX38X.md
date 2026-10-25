@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-367JHA
+    confirmed: bf84f865fd8d
 ---
 The mobile app shall detect user preferences when the network is unavailable.
 

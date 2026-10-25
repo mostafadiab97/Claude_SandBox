@@ -10,6 +10,7 @@ order: 10
 links:
   - type: verifies
     target: SYS-AQ211W
+    confirmed: 17e9d0952657
 ---
 **Objective:** verify that the notification service behaves as specified.
 

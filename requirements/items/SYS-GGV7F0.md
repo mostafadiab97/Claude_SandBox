@@ -12,8 +12,10 @@ order: 510
 links:
   - type: refines
     target: STK-SWTYBR
+    confirmed: 85d99e967934
   - type: mitigates
     target: RSK-BZRBDX
+    confirmed: be3df4abc265
 ---
 The login screen shall log sensor readings for at least 10 years.
 

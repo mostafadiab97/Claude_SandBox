@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-DXR1XX
+    confirmed: 3cbef25923d6
 ---
 The Zigbee radio shall limit the connection state after a power loss.
 

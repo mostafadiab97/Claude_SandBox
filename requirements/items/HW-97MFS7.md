@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-1JDYJJ
+    confirmed: 3aea3876253d
 ---
 The relay board shall store the connection state with an accuracy of ±0.5 °C.

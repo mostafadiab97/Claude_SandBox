@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-V8VVYW
+    confirmed: de6e639c3dac
 ---
 The rotary knob shall calibrate safety limits at least once per minute.
 

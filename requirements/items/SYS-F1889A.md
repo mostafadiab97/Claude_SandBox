@@ -9,6 +9,7 @@ order: 2330
 links:
   - type: refines
     target: STK-CDR1Y9
+    confirmed: 0ced3207c14d
 ---
 The relay board shall synchronise access tokens for up to 8 zones.
 

@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-CG6V2A
+    confirmed: e1d41e2a8540
 ---
 Implemented in `src/ui/status_LED.c`.

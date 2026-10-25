@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-4PGC54
+    confirmed: 88e547fede6c
 ---
 The enclosure shall encrypt the room temperature using AES-256-GCM.
 

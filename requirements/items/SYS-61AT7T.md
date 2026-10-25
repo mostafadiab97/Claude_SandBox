@@ -12,6 +12,7 @@ order: 270
 links:
   - type: refines
     target: STK-55M3CZ
+    confirmed: 45f1b5fe0502
 ---
 The login screen shall encrypt safety limits in under 3 s.
 

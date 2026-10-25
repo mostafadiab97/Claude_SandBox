@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-2SXPK4
+    confirmed: a35d491379ed
 ---
 The main PCB shall report access tokens at least once per minute.
 

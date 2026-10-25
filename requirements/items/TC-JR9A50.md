@@ -12,8 +12,10 @@ order: 1310
 links:
   - type: verifies
     target: SYS-YC69H2
+    confirmed: e34bdb6b99b2
   - type: verifies
     target: SW-N3NVXW
+    confirmed: 82e0295a63ac
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

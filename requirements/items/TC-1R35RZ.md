@@ -13,6 +13,7 @@ order: 1180
 links:
   - type: verifies
     target: SYS-J86K99
+    confirmed: cd639bbeedd1
 ---
 **Objective:** verify that the device registry behaves as specified.
 

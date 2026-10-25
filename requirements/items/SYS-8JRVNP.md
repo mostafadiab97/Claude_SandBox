@@ -13,6 +13,7 @@ order: 60
 links:
   - type: refines
     target: STK-ZJRWCQ
+    confirmed: 080168ea99ae
 ---
 The encryption layer shall switch relay events for up to 8 zones.
 

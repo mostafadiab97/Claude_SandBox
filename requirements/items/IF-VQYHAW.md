@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-8T3EWK
+    confirmed: 6237143aa404
 ---
 The secure boot shall authenticate error conditions when the network is unavailable.
 

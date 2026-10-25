@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ZQSPB3
+    confirmed: c8c012d7096b
 ---
 The zone valve shall display the set point in under 3 s.
 

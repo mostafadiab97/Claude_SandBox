@@ -10,5 +10,6 @@ order: 20
 links:
   - type: implements
     target: SW-2ATGBP
+    confirmed: 4247219f7022
 ---
 Implemented in `src/safe/watchdog.c`.

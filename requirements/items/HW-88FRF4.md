@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-VMC9C0
+    confirmed: 351bd05f9fe5
 ---
 The menu system shall synchronise the operating mode without user interaction.
 

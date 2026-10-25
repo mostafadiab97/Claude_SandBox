@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-HAHK2K
+    confirmed: 7f1ee54f249d
 ---
 The notification service shall log the set point after a power loss.
 

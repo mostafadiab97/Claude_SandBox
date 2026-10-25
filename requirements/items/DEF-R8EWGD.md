@@ -13,8 +13,10 @@ order: 50
 links:
   - type: relates-to
     target: TC-FY5MVC
+    confirmed: e2910617abd3
   - type: relates-to
     target: SYS-1BYGW7
+    confirmed: aaf2829fd5ea
 ---
 Found during regression testing of build 2.1.0.
 

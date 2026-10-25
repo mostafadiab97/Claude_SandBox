@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-FP6P6A
+    confirmed: fa24f6ea73fa
 ---
 The telemetry pipeline shall detect humidity values within 200 ms.

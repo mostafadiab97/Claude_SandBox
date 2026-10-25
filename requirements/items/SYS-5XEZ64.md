@@ -12,8 +12,10 @@ order: 2110
 links:
   - type: refines
     target: STK-92HHJV
+    confirmed: 260bd01800c6
   - type: mitigates
     target: RSK-WMRVBA
+    confirmed: fb726ed12a32
 ---
 The watchdog shall display access tokens in all supported languages.
 

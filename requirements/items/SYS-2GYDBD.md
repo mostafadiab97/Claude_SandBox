@@ -10,5 +10,6 @@ order: 1370
 links:
   - type: refines
     target: STK-GMCKMF
+    confirmed: f47328374a2b
 ---
 The Wi-Fi module shall display humidity values with an accuracy of ±0.5 °C.

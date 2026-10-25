@@ -13,8 +13,10 @@ order: 370
 links:
   - type: verifies
     target: SYS-GECB0Q
+    confirmed: 76c8ecd5a548
   - type: verifies
     target: SW-MGBSAX
+    confirmed: 02768e075c96
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

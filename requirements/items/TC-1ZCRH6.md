@@ -10,6 +10,7 @@ order: 1590
 links:
   - type: verifies
     target: SYS-AXK7J9
+    confirmed: 3cfd57c0b514
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

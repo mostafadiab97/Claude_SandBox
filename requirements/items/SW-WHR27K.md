@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-9RTKP2
+    confirmed: 3379698ed305
 ---
 The heating controller shall store the set point in all supported languages.
 

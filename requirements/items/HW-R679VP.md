@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-2XRBY7
+    confirmed: 7b1130aac0e9
 ---
 The power supply shall store safety limits for up to 8 zones.

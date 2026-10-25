@@ -12,6 +12,7 @@ order: 890
 links:
   - type: refines
     target: STK-G2ZBHW
+    confirmed: fee0d3303478
 ---
 The Wi-Fi module shall encrypt the operating mode for up to 8 zones.
 

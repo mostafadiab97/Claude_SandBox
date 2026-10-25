@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-EB6E2D
+    confirmed: 564bcd032c6b
 ---
 The main PCB shall validate humidity values with an accuracy of ±0.5 °C.
 

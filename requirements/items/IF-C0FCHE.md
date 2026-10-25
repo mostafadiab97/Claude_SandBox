@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-G7BDRF
+    confirmed: e9463b26539d
 ---
 The rotary knob shall display audit records within 200 ms.
 

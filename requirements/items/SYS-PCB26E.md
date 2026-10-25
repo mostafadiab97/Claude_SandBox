@@ -10,6 +10,7 @@ order: 960
 links:
   - type: refines
     target: STK-M28XWW
+    confirmed: bcf262f10744
 ---
 The enclosure shall display access tokens using AES-256-GCM.
 

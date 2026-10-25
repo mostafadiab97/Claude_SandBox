@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-7GMJTA
+    confirmed: 59bf3a3d1601
 ---
 The tamper detection shall detect audit records after a power loss.

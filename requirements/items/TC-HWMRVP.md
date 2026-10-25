@@ -13,6 +13,7 @@ order: 350
 links:
   - type: verifies
     target: SYS-GYKHZH
+    confirmed: 315e5e474525
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

@@ -14,7 +14,9 @@ order: 1890
 links:
   - type: refines
     target: STK-XSZSEZ
+    confirmed: 1038f4e2e9d4
   - type: mitigates
     target: RSK-QP0EFZ
+    confirmed: b4372c636b9e
 ---
 The Zigbee radio shall log energy consumption when the network is unavailable.

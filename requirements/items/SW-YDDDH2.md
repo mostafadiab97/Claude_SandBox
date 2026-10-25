@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-BMNNFF
+    confirmed: e59e68c0f6b6
 ---
 The OTA server shall log relay events in under 3 s.
 

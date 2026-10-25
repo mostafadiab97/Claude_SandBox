@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-A8AYK0
+    confirmed: 7c18672779dd
 ---
 The schedule editor shall switch the operating mode in all supported languages.

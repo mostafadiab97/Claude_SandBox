@@ -11,8 +11,10 @@ order: 1670
 links:
   - type: refines
     target: STK-MC9ASH
+    confirmed: a4f2ebaecfbe
   - type: mitigates
     target: RSK-040M7X
+    confirmed: fdb267eb1465
 ---
 The mobile app shall log user preferences in all supported languages.
 

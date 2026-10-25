@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-3J52W8
+    confirmed: 92ce5ba8e9a8
 ---
 The backlight shall notify error conditions without user interaction.
 

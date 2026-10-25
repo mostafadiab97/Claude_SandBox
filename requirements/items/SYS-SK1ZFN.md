@@ -13,6 +13,7 @@ order: 210
 links:
   - type: refines
     target: STK-EFJRJ9
+    confirmed: fc922ec1a72e
 ---
 The zone valve shall log safety limits in under 3 s.
 

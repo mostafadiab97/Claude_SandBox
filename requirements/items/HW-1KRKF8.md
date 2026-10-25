@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-RGXH2B
+    confirmed: a7182b2229b0
 ---
 The relay board shall authenticate firmware images without user interaction.

@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-61BADB
+    confirmed: 8aabb6fc11d2
 ---
 The relay board shall validate sensor readings in all supported languages.
 

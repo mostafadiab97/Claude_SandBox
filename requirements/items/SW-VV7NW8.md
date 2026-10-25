@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-16G1CW
+    confirmed: f35dc132d9d4
 ---
 The login screen shall synchronise the room temperature when the network is unavailable.

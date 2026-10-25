@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-GRPZ1J
+    confirmed: 5728c75e8b12
 ---
 The battery backup shall switch the connection state below 0.5 W in standby.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-CZF40M
+    confirmed: 463cc60a6f2f
 ---
 The mobile app shall calibrate the operating mode within 200 ms.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-KFPJKE
+    confirmed: bd64fc054017
 ---
 The over-temperature monitor shall validate the connection state after a power loss.
 

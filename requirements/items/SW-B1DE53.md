@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-5CN5AS
+    confirmed: e17c58f91496
 ---
 The zone valve shall synchronise firmware images for up to 8 zones.
 

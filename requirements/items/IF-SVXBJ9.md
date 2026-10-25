@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-VDRW9V
+    confirmed: 0ac53f80c216
 ---
 The relay board shall restore the room temperature when the network is unavailable.
 

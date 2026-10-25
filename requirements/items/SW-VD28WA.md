@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-ZJTVWV
+    confirmed: 994bea7e19ea
 ---
 The mobile app shall limit schedule entries for at least 10 years.
 

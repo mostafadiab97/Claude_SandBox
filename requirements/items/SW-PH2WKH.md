@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-HC7415
+    confirmed: 072f7558d179
 ---
 The login screen shall switch safety limits for up to 8 zones.

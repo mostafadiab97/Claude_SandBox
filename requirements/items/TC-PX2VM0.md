@@ -14,6 +14,7 @@ order: 730
 links:
   - type: verifies
     target: SYS-PF652Q
+    confirmed: a1604d2a8c0c
 ---
 **Objective:** verify that the user account service behaves as specified.
 

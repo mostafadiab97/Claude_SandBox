@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-E66142
+    confirmed: 02e2558f5021
 ---
 The status LED shall synchronise error conditions in under 3 s.
 

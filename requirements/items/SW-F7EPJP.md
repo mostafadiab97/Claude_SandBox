@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-28GV7E
+    confirmed: c02f405b6878
 ---
 The heat pump driver shall store user preferences using AES-256-GCM.
 

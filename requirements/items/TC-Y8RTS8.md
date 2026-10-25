@@ -9,8 +9,10 @@ order: 530
 links:
   - type: verifies
     target: SYS-FTTKBM
+    confirmed: 3389f03cd260
   - type: verifies
     target: SW-M5K19A
+    confirmed: d493bfcbb1ae
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-DTN5PG
+    confirmed: acb9d7ae9cd5
 ---
 The rotary knob shall display safety limits for up to 8 zones.
 

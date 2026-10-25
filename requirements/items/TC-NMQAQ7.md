@@ -9,6 +9,7 @@ order: 1230
 links:
   - type: verifies
     target: SYS-78N6Z3
+    confirmed: 51d87d69c62c
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

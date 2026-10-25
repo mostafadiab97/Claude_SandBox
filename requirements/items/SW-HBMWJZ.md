@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-XPCTNY
+    confirmed: 042eed4f2a11
 ---
 The backlight shall limit sensor readings with an accuracy of ±0.5 °C.
 

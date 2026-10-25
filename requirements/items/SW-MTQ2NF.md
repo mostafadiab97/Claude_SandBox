@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-GYFC7J
+    confirmed: 65d7e0b71208
 ---
 The watchdog shall encrypt firmware images using AES-256-GCM.
 

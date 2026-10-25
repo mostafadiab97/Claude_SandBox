@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-4A9C1C
+    confirmed: 7e8a730cf0b5
 ---
 The touch display shall display safety limits in all supported languages.
 

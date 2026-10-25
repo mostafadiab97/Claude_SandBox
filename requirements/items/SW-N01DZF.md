@@ -14,5 +14,6 @@ order: 40
 links:
   - type: refines
     target: SYS-APGJQA
+    confirmed: "45019195e843"
 ---
 The login screen shall synchronise the room temperature at least once per minute.

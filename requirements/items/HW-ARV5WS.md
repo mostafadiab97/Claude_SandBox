@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-QT1CFV
+    confirmed: ee55a0dd3a84
 ---
 The status LED shall measure the set point without user interaction.
 

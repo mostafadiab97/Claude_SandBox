@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-G85CT4
+    confirmed: 278fe2b83855
 ---
 The telemetry pipeline shall report audit records below 0.5 W in standby.
 

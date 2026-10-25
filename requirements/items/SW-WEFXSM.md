@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-YC69H2
+    confirmed: e34bdb6b99b2
 ---
 The heating controller shall report energy consumption after a power loss.
 

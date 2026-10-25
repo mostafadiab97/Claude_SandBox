@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-QK55NH
+    confirmed: 3934c54c3f62
 ---
 The mobile app shall synchronise safety limits for up to 8 zones.

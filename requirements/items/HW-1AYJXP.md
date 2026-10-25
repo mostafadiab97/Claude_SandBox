@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-1ZDBX0
+    confirmed: 665bbcd834f8
 ---
 The power supply shall log schedule entries for up to 8 zones.
 

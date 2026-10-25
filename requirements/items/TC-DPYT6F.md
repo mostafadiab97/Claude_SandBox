@@ -13,6 +13,7 @@ order: 720
 links:
   - type: verifies
     target: SYS-Q83WR4
+    confirmed: 2504ace2c747
 ---
 **Objective:** verify that the rotary knob behaves as specified.
 

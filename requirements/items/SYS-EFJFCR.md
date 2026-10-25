@@ -10,6 +10,7 @@ order: 1040
 links:
   - type: refines
     target: STK-BSSZ8Z
+    confirmed: eb15999e37f0
 ---
 The touch display shall display the connection state without user interaction.
 

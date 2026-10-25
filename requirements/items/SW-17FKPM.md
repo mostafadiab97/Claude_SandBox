@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-RV3J4H
+    confirmed: c844415dcddc
 ---
 The mobile app shall store schedule entries without user interaction.

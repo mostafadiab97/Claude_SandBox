@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: HW-SKT58D
+    confirmed: ad6d91cef1bc
 ---
 The enclosure shall switch schedule entries when the network is unavailable.

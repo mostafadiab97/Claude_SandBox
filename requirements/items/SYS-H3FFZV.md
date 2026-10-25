@@ -14,5 +14,6 @@ order: 530
 links:
   - type: refines
     target: STK-BSSZ8Z
+    confirmed: eb15999e37f0
 ---
 The backlight shall notify relay events below 0.5 W in standby.

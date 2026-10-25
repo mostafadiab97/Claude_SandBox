@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-E1XEK0
+    confirmed: 74460965be9f
 ---
 The secure boot shall restore safety limits for up to 8 zones.
 

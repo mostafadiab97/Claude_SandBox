@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-DHYCNS
+    confirmed: 9466532a35e3
 ---
 The Zigbee radio shall store access tokens when the network is unavailable.
 

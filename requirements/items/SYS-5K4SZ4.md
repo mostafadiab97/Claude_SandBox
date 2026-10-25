@@ -10,6 +10,7 @@ order: 220
 links:
   - type: refines
     target: STK-AA05P4
+    confirmed: e2bec3bcd11c
 ---
 The zone valve shall display the operating mode in all supported languages.
 

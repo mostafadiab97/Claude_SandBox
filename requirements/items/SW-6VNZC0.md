@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-F6VRWH
+    confirmed: abf71e4c34db
 ---
 The Zigbee radio shall calibrate safety limits using AES-256-GCM.
 

@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-M72RBF
+    confirmed: 9dbd45a382a2
 ---
 The home dashboard shall encrypt relay events after a power loss.

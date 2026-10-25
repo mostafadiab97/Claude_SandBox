@@ -10,6 +10,7 @@ order: 770
 links:
   - type: verifies
     target: SYS-EFJFCR
+    confirmed: b46684aa0799
 ---
 **Objective:** verify that the touch display behaves as specified.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-3JCMM1
+    confirmed: 30c298151d62
 ---
 The watchdog shall store audit records with an accuracy of ±0.5 °C.
 

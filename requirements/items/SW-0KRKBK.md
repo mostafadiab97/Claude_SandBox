@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-HSBZEM
+    confirmed: 22cdb66e683a
 ---
 The OTA server shall measure sensor readings using AES-256-GCM.

@@ -8,6 +8,7 @@ order: 600
 links:
   - type: verifies
     target: SYS-3MCFDD
+    confirmed: a0fea72fbd43
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

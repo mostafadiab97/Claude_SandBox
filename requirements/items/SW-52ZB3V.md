@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-25J8VJ
+    confirmed: 2c47b5d6654c
 ---
 The telemetry pipeline shall notify firmware images after a power loss.

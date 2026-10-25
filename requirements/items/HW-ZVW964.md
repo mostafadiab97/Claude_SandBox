@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-9J39GS
+    confirmed: 59241a6dbb43
 ---
 The battery backup shall notify error conditions below 0.5 W in standby.
 

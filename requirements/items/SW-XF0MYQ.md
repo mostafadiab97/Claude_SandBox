@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-QVQSYN
+    confirmed: 5e9c45c3b23e
 ---
 The telemetry pipeline shall calibrate safety limits at least once per minute.
 

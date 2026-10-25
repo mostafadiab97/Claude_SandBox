@@ -12,5 +12,6 @@ order: 40
 links:
   - type: refines
     target: SYS-5FQKC3
+    confirmed: 93e192f9b401
 ---
 The OTA server shall switch error conditions in all supported languages.

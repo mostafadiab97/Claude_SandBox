@@ -10,6 +10,7 @@ order: 390
 links:
   - type: verifies
     target: SYS-3KF2S8
+    confirmed: 6e6c9a856c9a
 ---
 **Objective:** verify that the device registry behaves as specified.
 

@@ -10,6 +10,7 @@ order: 910
 links:
   - type: refines
     target: STK-DZ9P6K
+    confirmed: 35469390951d
 ---
 The local API shall detect the room temperature for up to 8 zones.
 

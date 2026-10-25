@@ -13,7 +13,9 @@ order: 840
 links:
   - type: refines
     target: STK-SZWQ0A
+    confirmed: fc1f05b44684
   - type: mitigates
     target: RSK-MJR7PZ
+    confirmed: a67337939a06
 ---
 The secure boot shall authenticate schedule entries after a power loss.

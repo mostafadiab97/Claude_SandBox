@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SW-QMJGPG
+    confirmed: e6d24d40b127
 ---
 The zone valve shall limit humidity values for up to 8 zones.

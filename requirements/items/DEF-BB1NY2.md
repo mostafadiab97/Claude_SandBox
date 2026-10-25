@@ -10,8 +10,10 @@ order: 210
 links:
   - type: relates-to
     target: TC-0WHVXH
+    confirmed: 066f328ba2c5
   - type: relates-to
     target: SYS-378XSW
+    confirmed: 5031ebc6a924
 ---
 Found during regression testing of build 2.6.7.
 

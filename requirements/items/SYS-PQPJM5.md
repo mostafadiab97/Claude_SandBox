@@ -13,6 +13,7 @@ order: 670
 links:
   - type: refines
     target: STK-Q8BNKR
+    confirmed: 6deaa78e6ab3
 ---
 The heat pump driver shall encrypt audit records in under 3 s.
 

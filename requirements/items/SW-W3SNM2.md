@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SW-6YPG2B
+    confirmed: 9aa76d7cf530
 ---
 The Zigbee radio shall validate schedule entries without user interaction.

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-PDA2DJ
+    confirmed: 6c392c4860e1
 ---
 The Zigbee radio shall detect user preferences for at least 10 years.
 

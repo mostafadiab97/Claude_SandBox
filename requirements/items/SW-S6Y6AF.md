@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-XFHV81
+    confirmed: cd27f13dbcce
 ---
 The local API shall store sensor readings without user interaction.

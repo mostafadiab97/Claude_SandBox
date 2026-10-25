@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-MR5CRK
+    confirmed: ff67b7696602
 ---
 The tamper detection shall display safety limits in under 3 s.
 

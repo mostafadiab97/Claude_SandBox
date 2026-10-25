@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-8XZZQ8
+    confirmed: 60302e1ca7b2
 ---
 The secure boot shall measure audit records below 0.5 W in standby.
 

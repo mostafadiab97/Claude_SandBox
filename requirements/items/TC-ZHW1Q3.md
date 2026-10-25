@@ -13,6 +13,7 @@ order: 1250
 links:
   - type: verifies
     target: SYS-NSNRJD
+    confirmed: 223c3f40a1fb
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

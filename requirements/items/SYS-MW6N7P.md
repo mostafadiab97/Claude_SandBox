@@ -13,6 +13,7 @@ links:
     target: STK-H87WHA
   - type: mitigates
     target: RSK-HTQ195
+    confirmed: feaa24748b2b
 ---
 The home dashboard shall validate the room temperature below 0.5 W in standby.
 

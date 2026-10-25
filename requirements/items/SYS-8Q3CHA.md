@@ -10,6 +10,7 @@ order: 80
 links:
   - type: refines
     target: STK-75QZSA
+    confirmed: b8a4c00165fe
 ---
 The zone valve shall store access tokens without user interaction.
 

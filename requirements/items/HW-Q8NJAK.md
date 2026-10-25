@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-SPKGTS
+    confirmed: 8dbea22f8667
 ---
 The Wi-Fi module shall report the set point for up to 8 zones.
 

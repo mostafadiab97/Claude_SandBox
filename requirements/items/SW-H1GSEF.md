@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-DHBZX2
+    confirmed: f269617e5175
 ---
 The pairing process shall encrypt error conditions in all supported languages.
 

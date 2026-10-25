@@ -13,6 +13,7 @@ order: 1000
 links:
   - type: verifies
     target: SYS-36NNDJ
+    confirmed: 100c60ddc325
 ---
 **Objective:** verify that the status LED behaves as specified.
 

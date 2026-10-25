@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-90Z9AA
+    confirmed: fe1a440a5bde
 ---
 The schedule editor shall measure audit records in under 3 s.

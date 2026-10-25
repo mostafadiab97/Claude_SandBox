@@ -10,8 +10,10 @@ order: 910
 links:
   - type: verifies
     target: SYS-QN4W49
+    confirmed: 6a7a9fdc0288
   - type: verifies
     target: SW-2TBDPG
+    confirmed: a13f7b1862ac
 ---
 **Objective:** verify that the boiler interface behaves as specified.
 

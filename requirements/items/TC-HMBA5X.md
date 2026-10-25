@@ -12,6 +12,7 @@ order: 1220
 links:
   - type: verifies
     target: SYS-9ECYTV
+    confirmed: 7b9cca966730
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

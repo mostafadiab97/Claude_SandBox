@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-P36G1D
+    confirmed: 7608061a10c1
 ---
 The pairing process shall restore the set point within 200 ms.

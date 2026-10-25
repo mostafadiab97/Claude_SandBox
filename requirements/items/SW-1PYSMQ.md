@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-V9TTZK
+    confirmed: 19606134e5ee
 ---
 The telemetry pipeline shall validate access tokens at least once per minute.
 

@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-TNBWPZ
+    confirmed: da4f4dabc709
 ---
 Implemented in `src/app/login_screen.c`.

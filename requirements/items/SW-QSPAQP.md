@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-HMGV8B
+    confirmed: 6ffbb345c3bf
 ---
 The local API shall validate sensor readings in all supported languages.

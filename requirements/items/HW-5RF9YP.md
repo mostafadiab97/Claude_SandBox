@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-FG76ZF
+    confirmed: 7e8fe1606dcd
 ---
 The enclosure shall restore user preferences using AES-256-GCM.

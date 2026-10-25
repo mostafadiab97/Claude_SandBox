@@ -11,6 +11,7 @@ order: 40
 links:
   - type: refines
     target: SYS-SGE8R7
+    confirmed: f0923cc9ca25
 ---
 The power supply shall switch relay events when the network is unavailable.
 

@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: HW-J586G6
+    confirmed: fce19bce06ef
 ---
 The home dashboard shall switch energy consumption for at least 10 years.

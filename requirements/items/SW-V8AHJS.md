@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-W3VB1X
+    confirmed: 0b387183e7b1
 ---
 The tamper detection shall store access tokens below 0.5 W in standby.
 

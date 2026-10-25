@@ -10,8 +10,10 @@ order: 780
 links:
   - type: verifies
     target: SYS-4MWCBY
+    confirmed: 12c71184dbf6
   - type: verifies
     target: SW-H6KK0F
+    confirmed: e94aaaa10742
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

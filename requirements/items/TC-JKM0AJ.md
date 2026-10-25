@@ -9,6 +9,7 @@ order: 690
 links:
   - type: verifies
     target: SYS-EJR3YH
+    confirmed: 7b3dac33b561
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

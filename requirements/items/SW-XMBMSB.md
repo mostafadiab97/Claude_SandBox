@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-YX6EBV
+    confirmed: d90c022122ab
 ---
 The mobile app shall log relay events when the network is unavailable.
 

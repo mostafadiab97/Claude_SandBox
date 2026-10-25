@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-A1BMDT
+    confirmed: a5a789639dde
 ---
 The telemetry pipeline shall notify the set point using AES-256-GCM.
 

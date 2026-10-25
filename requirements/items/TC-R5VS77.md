@@ -13,8 +13,10 @@ order: 1070
 links:
   - type: verifies
     target: SYS-37CSVM
+    confirmed: c35d42070911
   - type: verifies
     target: SW-FM4SMD
+    confirmed: e433c3217e25
 ---
 **Objective:** verify that the zone valve behaves as specified.
 

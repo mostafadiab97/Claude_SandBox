@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-VT2YB8
+    confirmed: 4eec0ee8940e
 ---
 The mobile app shall restore audit records for up to 8 zones.
 

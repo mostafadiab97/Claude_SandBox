@@ -9,6 +9,7 @@ order: 1200
 links:
   - type: verifies
     target: SYS-NSQBT9
+    confirmed: a72d25c263cd
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-TX0P0A
+    confirmed: 1e529db5157b
 ---
 The telemetry pipeline shall restore energy consumption in all supported languages.
 

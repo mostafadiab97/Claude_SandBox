@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-ZTHS0F
+    confirmed: 1917153ef15c
 ---
 The Zigbee radio shall validate the set point with an accuracy of ±0.5 °C.
 

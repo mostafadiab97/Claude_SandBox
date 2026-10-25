@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-TS8CKW
+    confirmed: ebfb06184d78
 ---
 The boiler interface shall switch user preferences below 0.5 W in standby.
 

@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-CPG2EW
+    confirmed: e993ebab475d
 ---
 The enclosure shall encrypt error conditions in all supported languages.

@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-0YN9CR
+    confirmed: fd79ba8f2af2
 ---
 The login screen shall switch user preferences after a power loss.

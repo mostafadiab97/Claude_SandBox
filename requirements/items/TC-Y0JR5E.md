@@ -10,8 +10,10 @@ order: 1320
 links:
   - type: verifies
     target: SYS-J3QEM9
+    confirmed: 78aeb447b6ae
   - type: verifies
     target: SW-BYVAYF
+    confirmed: 74dc91e27dbd
 ---
 **Objective:** verify that the relay board behaves as specified.
 

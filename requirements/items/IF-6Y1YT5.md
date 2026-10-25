@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-E6XBN0
+    confirmed: 7e3fcc9cce70
 ---
 The boiler interface shall measure safety limits for at least 10 years.
 

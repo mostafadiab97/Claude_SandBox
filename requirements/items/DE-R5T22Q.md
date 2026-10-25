@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-YENQEB
+    confirmed: 9b19a83a2b9a
 ---
 Implemented in `src/heat/heating_controller.c`.

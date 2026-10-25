@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-VG4CAX
+    confirmed: a7c55f8eb200
 ---
 The main PCB shall validate access tokens with an accuracy of ±0.5 °C.
 

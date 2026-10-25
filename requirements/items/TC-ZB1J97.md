@@ -10,6 +10,7 @@ order: 700
 links:
   - type: verifies
     target: SYS-Q7FXSQ
+    confirmed: 87ab2e4b1288
 ---
 **Objective:** verify that the menu system behaves as specified.
 

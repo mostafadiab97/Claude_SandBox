@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-263BJQ
+    confirmed: 545c48596828
 ---
 The mobile app shall store the connection state when the network is unavailable.
 

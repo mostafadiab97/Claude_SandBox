@@ -10,6 +10,7 @@ order: 330
 links:
   - type: verifies
     target: SYS-W1MEG3
+    confirmed: 7ffa04910a1e
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

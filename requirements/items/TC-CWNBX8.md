@@ -12,8 +12,10 @@ order: 1060
 links:
   - type: verifies
     target: SYS-TETJ5F
+    confirmed: c924d6e8986e
   - type: verifies
     target: SW-H2FV48
+    confirmed: 946291b1e196
 ---
 **Objective:** verify that the notification service behaves as specified.
 

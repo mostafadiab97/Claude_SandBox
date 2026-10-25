@@ -11,5 +11,6 @@ order: 40
 links:
   - type: refines
     target: SYS-VDRW9V
+    confirmed: 0ac53f80c216
 ---
 The relay board shall switch humidity values for up to 8 zones.

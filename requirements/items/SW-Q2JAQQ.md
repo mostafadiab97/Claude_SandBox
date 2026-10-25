@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-K93N9B
+    confirmed: e0ece5df8764
 ---
 The telemetry pipeline shall store schedule entries for up to 8 zones.
 

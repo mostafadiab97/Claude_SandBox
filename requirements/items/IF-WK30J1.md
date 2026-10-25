@@ -12,5 +12,6 @@ order: 40
 links:
   - type: refines
     target: SYS-G0JBM8
+    confirmed: 4d23af5c0f84
 ---
 The cloud backend shall measure audit records for up to 8 zones.

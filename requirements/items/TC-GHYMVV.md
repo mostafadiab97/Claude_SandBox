@@ -10,8 +10,10 @@ order: 490
 links:
   - type: verifies
     target: SYS-B37VY2
+    confirmed: 06bc752da75c
   - type: verifies
     target: SW-R9FW76
+    confirmed: 4a784bcd2cf6
 ---
 **Objective:** verify that the boiler interface behaves as specified.
 

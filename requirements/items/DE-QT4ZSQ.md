@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-MNDWZ5
+    confirmed: dfd0e5939a3d
 ---
 Implemented in `src/app/home_dashboard.c`.

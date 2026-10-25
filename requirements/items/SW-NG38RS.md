@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-60DWBJ
+    confirmed: 6642ffcbd2f7
 ---
 The touch display shall store firmware images in all supported languages.

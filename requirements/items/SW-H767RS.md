@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-78N6Z3
+    confirmed: f440dad16a09
 ---
 The mobile app shall measure relay events below 0.5 W in standby.

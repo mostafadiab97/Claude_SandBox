@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-4K2HDJ
+    confirmed: 3febb67033c8
 ---
 The tamper detection shall encrypt the connection state at least once per minute.
 

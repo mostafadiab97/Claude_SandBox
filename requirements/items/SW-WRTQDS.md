@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-KD220M
+    confirmed: 39ba118c88d8
 ---
 The heat pump driver shall calibrate the connection state with an accuracy of ±0.5 °C.
 

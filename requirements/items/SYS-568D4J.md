@@ -10,6 +10,7 @@ order: 1730
 links:
   - type: refines
     target: STK-1R2QT3
+    confirmed: 7ca04f22a1b8
 ---
 The pairing process shall encrypt the operating mode when the network is unavailable.
 

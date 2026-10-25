@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-35QZ1B
+    confirmed: eaceeabf6305
 ---
 The mobile app shall limit humidity values in under 3 s.
 

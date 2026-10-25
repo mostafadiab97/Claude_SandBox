@@ -10,6 +10,7 @@ order: 820
 links:
   - type: verifies
     target: SYS-D26GKZ
+    confirmed: 5ddece9ce40b
 ---
 **Objective:** verify that the device behaves as specified.
 

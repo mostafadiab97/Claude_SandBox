@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-WFZVWZ
+    confirmed: 66917eb2d4db
 ---
 The battery backup shall notify audit records in under 3 s.

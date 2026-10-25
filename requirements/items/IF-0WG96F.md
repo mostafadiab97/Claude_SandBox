@@ -9,6 +9,7 @@ order: 40
 links:
   - type: refines
     target: SYS-GYMKHD
+    confirmed: 548847d1d9b7
 ---
 The battery backup shall report safety limits at least once per minute.
 

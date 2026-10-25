@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-32PD6V
+    confirmed: 09e351121e5d
 ---
 The status LED shall measure schedule entries at least once per minute.
 

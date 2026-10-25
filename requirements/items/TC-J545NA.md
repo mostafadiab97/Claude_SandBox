@@ -9,8 +9,10 @@ order: 1470
 links:
   - type: verifies
     target: SYS-R6BCVX
+    confirmed: 22f4af60b62c
   - type: verifies
     target: SW-E3BXE1
+    confirmed: a4c82810347b
 ---
 **Objective:** verify that the power supply behaves as specified.
 

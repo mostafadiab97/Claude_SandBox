@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-79KQKX
+    confirmed: 4a5dbc61d1c6
 ---
 The mobile app shall measure humidity values below 0.5 W in standby.
 

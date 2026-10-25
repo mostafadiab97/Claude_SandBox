@@ -12,8 +12,10 @@ order: 1050
 links:
   - type: verifies
     target: SYS-G0JBM8
+    confirmed: 4d23af5c0f84
   - type: verifies
     target: SW-1Z9X0M
+    confirmed: 4509eef2439a
 ---
 **Objective:** verify that the cloud backend behaves as specified.
 

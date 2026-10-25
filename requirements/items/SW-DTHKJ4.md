@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-33WX8J
+    confirmed: 78ea2220229f
 ---
 The schedule editor shall detect humidity values for up to 8 zones.
 

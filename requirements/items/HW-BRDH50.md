@@ -8,5 +8,6 @@ order: 10
 links:
   - type: refines
     target: HW-YP0262
+    confirmed: 385f6461c445
 ---
 The cloud backend shall log relay events within 200 ms.

@@ -10,6 +10,7 @@ order: 1890
 links:
   - type: refines
     target: STK-XZPKF8
+    confirmed: f082d5e65a7a
 ---
 The touch display shall encrypt the set point after a power loss.
 

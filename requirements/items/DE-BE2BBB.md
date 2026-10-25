@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-W8PK6X
+    confirmed: eca855aac5d8
 ---
 Implemented in `src/ui/touch_display.c`.

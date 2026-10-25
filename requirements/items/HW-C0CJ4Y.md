@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-CJSA65
+    confirmed: 3bf01e0cf471
 ---
 The relay board shall measure access tokens within 200 ms.
 

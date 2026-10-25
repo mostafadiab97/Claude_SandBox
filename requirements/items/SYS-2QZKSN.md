@@ -13,6 +13,7 @@ order: 870
 links:
   - type: refines
     target: STK-4NCGP6
+    confirmed: 34735dce772b
 ---
 The telemetry pipeline shall switch humidity values for up to 8 zones.
 

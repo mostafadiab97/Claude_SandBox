@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: HW-24EJKD
+    confirmed: 9b2db7ec8878
 ---
 The telemetry pipeline shall notify the room temperature within 200 ms.
 

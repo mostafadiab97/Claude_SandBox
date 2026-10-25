@@ -10,8 +10,10 @@ order: 1190
 links:
   - type: verifies
     target: SYS-QT1CFV
+    confirmed: ee55a0dd3a84
   - type: verifies
     target: SW-P1PC3F
+    confirmed: 55aa95befbc6
 ---
 **Objective:** verify that the status LED behaves as specified.
 

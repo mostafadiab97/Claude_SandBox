@@ -13,8 +13,10 @@ order: 160
 links:
   - type: refines
     target: STK-BSSZ8Z
+    confirmed: eb15999e37f0
   - type: mitigates
     target: RSK-VGP24B
+    confirmed: b764dfff3d75
 ---
 The menu system shall store the connection state below 0.5 W in standby.
 

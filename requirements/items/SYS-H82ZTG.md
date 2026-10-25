@@ -10,7 +10,9 @@ order: 290
 links:
   - type: refines
     target: STK-ND3D08
+    confirmed: df91c673f737
   - type: mitigates
     target: RSK-BZRBDX
+    confirmed: be3df4abc265
 ---
 The mobile app shall authenticate audit records below 0.5 W in standby.

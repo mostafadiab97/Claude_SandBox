@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-DGDEYQ
+    confirmed: 3502cbffc9ec
 ---
 The Bluetooth LE link shall log relay events with an accuracy of ±0.5 °C.
 

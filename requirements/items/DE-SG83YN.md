@@ -12,5 +12,6 @@ order: 20
 links:
   - type: implements
     target: SW-K42P3P
+    confirmed: 36a30a89257b
 ---
 Implemented in `src/ui/backlight.c`.

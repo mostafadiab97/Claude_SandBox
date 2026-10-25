@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-XFVHXG
+    confirmed: 6ba023b53f4f
 ---
 The cloud backend shall encrypt the set point in under 3 s.
 

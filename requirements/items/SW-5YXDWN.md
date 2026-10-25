@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-Z9T7JH
+    confirmed: 3664e3ffa15c
 ---
 The mobile app shall report user preferences when the network is unavailable.

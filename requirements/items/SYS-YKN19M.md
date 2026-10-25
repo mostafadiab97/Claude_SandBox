@@ -14,8 +14,10 @@ order: 830
 links:
   - type: refines
     target: STK-Q8BNKR
+    confirmed: 6deaa78e6ab3
   - type: mitigates
     target: RSK-F4STQD
+    confirmed: 0441ab9b0284
 ---
 The heating controller shall display safety limits without user interaction.
 

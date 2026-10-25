@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-BBX6H4
+    confirmed: eea34ba9a0b3
 ---
 The encryption layer shall limit sensor readings for at least 10 years.
 

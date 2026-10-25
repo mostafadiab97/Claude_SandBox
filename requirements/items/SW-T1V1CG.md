@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-M72RBF
+    confirmed: 9dbd45a382a2
 ---
 The home dashboard shall synchronise user preferences using AES-256-GCM.
 

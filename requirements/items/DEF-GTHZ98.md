@@ -9,8 +9,10 @@ order: 140
 links:
   - type: relates-to
     target: TC-AZDHZP
+    confirmed: 602767348f3e
   - type: relates-to
     target: SYS-WZPXT3
+    confirmed: 758f34cfcd04
 ---
 Found during regression testing of build 2.7.13.
 

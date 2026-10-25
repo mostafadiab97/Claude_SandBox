@@ -13,6 +13,7 @@ order: 650
 links:
   - type: refines
     target: STK-BV5YMS
+    confirmed: 07434b0b5615
 ---
 The touch display shall authenticate sensor readings at least once per minute.
 

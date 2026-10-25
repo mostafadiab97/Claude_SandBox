@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-6REMTR
+    confirmed: e73f40f41cec
 ---
 The login screen shall measure humidity values with an accuracy of ±0.5 °C.
 

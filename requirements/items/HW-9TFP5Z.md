@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-TC4ZEM
+    confirmed: 36689a624b77
 ---
 The zone valve shall store the connection state at least once per minute.
 

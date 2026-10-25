@@ -10,6 +10,7 @@ order: 150
 links:
   - type: relates-to
     target: STK-HH6ZNR
+    confirmed: caa77fe9df1c
 ---
 **Actor:** home owner
 

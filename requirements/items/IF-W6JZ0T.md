@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-38FJX0
+    confirmed: 215aef7ef123
 ---
 The over-temperature monitor shall encrypt safety limits for at least 10 years.
 

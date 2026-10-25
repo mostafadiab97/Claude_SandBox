@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-3KF2S8
+    confirmed: 6e6c9a856c9a
 ---
 The device registry shall synchronise audit records below 0.5 W in standby.
 

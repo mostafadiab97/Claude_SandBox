@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-7PADSD
+    confirmed: d945d7dacc5c
 ---
 The secure boot shall log error conditions when the network is unavailable.
 

@@ -14,6 +14,7 @@ order: 1400
 links:
   - type: verifies
     target: SYS-BS5G2C
+    confirmed: 19954ae1e0af
 ---
 **Objective:** verify that the notification service behaves as specified.
 

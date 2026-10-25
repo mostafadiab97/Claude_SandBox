@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-5KC2PJ
+    confirmed: 995251b92766
 ---
 The watchdog shall report error conditions for up to 8 zones.
 

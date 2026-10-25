@@ -11,8 +11,10 @@ order: 630
 links:
   - type: verifies
     target: SYS-RZ204B
+    confirmed: a414dd799ef0
   - type: verifies
     target: SW-BS2GHY
+    confirmed: 06a9377c89bf
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-R873ZE
+    confirmed: fae59ce68ce5
 ---
 The zone valve shall restore energy consumption with an accuracy of ±0.5 °C.

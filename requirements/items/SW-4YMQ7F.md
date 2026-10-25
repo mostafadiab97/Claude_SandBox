@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-K70KRX
+    confirmed: 0aa34a333db0
 ---
 The telemetry pipeline shall report the operating mode without user interaction.
 

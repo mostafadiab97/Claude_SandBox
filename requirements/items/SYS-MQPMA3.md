@@ -10,8 +10,10 @@ order: 2000
 links:
   - type: refines
     target: STK-1R2QT3
+    confirmed: 7ca04f22a1b8
   - type: mitigates
     target: RSK-6Q7HV9
+    confirmed: 67f9d16d1648
 ---
 The pairing process shall encrypt error conditions when the network is unavailable.
 

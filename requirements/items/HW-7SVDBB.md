@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-XYBVJ4
+    confirmed: 7d080417271e
 ---
 The notification service shall notify energy consumption for up to 8 zones.
 

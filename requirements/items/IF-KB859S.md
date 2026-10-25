@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-0Z1CBK
+    confirmed: 900884856ff6
 ---
 The heating controller shall report humidity values for at least 10 years.
 

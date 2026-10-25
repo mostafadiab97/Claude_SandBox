@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-MK2A6C
+    confirmed: f66b9f28edb5
 ---
 The telemetry pipeline shall detect the operating mode below 0.5 W in standby.
 

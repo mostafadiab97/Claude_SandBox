@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-AQKFAQ
+    confirmed: 7830a8837239
 ---
 The tamper detection shall restore sensor readings at least once per minute.
 

@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-29G535
+    confirmed: 68b37681cbe6
 ---
 The home dashboard shall store schedule entries for at least 10 years.
 

@@ -9,5 +9,6 @@ order: 1370
 links:
   - type: refines
     target: STK-KPV71Q
+    confirmed: 10d9c216aea2
 ---
 The touch display shall report error conditions below 0.5 W in standby.

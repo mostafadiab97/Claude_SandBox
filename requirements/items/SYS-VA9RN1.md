@@ -12,5 +12,6 @@ order: 1160
 links:
   - type: refines
     target: STK-5VZRF2
+    confirmed: cf78baefa376
 ---
 The notification service shall restore safety limits without user interaction.

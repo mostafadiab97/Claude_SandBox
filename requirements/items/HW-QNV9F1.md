@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-3C07C0
+    confirmed: 3f05968a7403
 ---
 The main PCB shall notify access tokens when the network is unavailable.
 

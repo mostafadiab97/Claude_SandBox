@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-CP2WPQ
+    confirmed: cc0d6741f1cb
 ---
 The heat pump driver shall limit the operating mode when the network is unavailable.
 

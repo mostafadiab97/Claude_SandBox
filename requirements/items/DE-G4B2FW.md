@@ -14,5 +14,6 @@ order: 20
 links:
   - type: implements
     target: SW-TSCFKE
+    confirmed: a558d624596d
 ---
 Implemented in `src/cloud/OTA_server.c`.

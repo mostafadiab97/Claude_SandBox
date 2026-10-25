@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-7C3GR4
+    confirmed: d6385afd3348
 ---
 The backlight shall synchronise relay events for up to 8 zones.
 

@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-G0JBM8
+    confirmed: 4d23af5c0f84
 ---
 The cloud backend shall store error conditions at least once per minute.

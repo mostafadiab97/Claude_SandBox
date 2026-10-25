@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QKZP7T
+    confirmed: a1c30d626e9c
 ---
 The status LED shall limit error conditions in all supported languages.
 

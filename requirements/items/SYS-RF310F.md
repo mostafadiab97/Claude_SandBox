@@ -14,8 +14,10 @@ order: 2100
 links:
   - type: refines
     target: STK-GMCKMF
+    confirmed: f47328374a2b
   - type: mitigates
     target: RSK-W4Q53T
+    confirmed: d200c399f368
 ---
 The local API shall calibrate firmware images with an accuracy of ±0.5 °C.
 

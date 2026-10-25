@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-HHZXC3
+    confirmed: ed2dc7884456
 ---
 The notification service shall report sensor readings for at least 10 years.
 

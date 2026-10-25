@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-66NFPS
+    confirmed: c345a9cbc34b
 ---
 The pairing process shall encrypt the connection state in under 3 s.
 

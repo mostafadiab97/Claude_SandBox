@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-4WB58V
+    confirmed: 328c59c5e6fa
 ---
 The tamper detection shall authenticate energy consumption for at least 10 years.
 

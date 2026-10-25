@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-YHD3YX
+    confirmed: 1e38f217f022
 ---
 The watchdog shall notify the connection state after a power loss.
 

@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-CY6ETQ
+    confirmed: fca3f3673c34
 ---
 The Bluetooth LE link shall restore relay events in under 3 s.
 

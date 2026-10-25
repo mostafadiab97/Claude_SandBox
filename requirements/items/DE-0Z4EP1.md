@@ -10,5 +10,6 @@ order: 20
 links:
   - type: implements
     target: SW-Q3CD0R
+    confirmed: 1f65b782f615
 ---
 Implemented in `src/safe/secure_boot.c`.

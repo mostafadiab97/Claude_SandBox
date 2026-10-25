@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-NGJ1TQ
+    confirmed: 1548f299daa4
 ---
 The notification service shall store relay events at least once per minute.
 

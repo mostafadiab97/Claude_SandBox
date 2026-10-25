@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-J667FF
+    confirmed: 1d8cfb08af6f
 ---
 The enclosure shall detect relay events within 200 ms.

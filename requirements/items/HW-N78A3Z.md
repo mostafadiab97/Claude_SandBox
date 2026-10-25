@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-MNSH1E
+    confirmed: 7868e7c37ee2
 ---
 The telemetry pipeline shall restore sensor readings for at least 10 years.
 

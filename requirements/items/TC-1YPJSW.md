@@ -12,8 +12,10 @@ order: 150
 links:
   - type: verifies
     target: SYS-2Y9FGT
+    confirmed: 4c561d45744d
   - type: verifies
     target: SW-CGSC6B
+    confirmed: 48866ed0074a
 ---
 **Objective:** verify that the login screen behaves as specified.
 

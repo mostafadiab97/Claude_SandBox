@@ -10,6 +10,7 @@ order: 1660
 links:
   - type: verifies
     target: SYS-R95DE9
+    confirmed: ed1eb0f9c553
 ---
 **Objective:** verify that the device behaves as specified.
 

@@ -14,8 +14,10 @@ order: 1240
 links:
   - type: verifies
     target: SYS-NJ73ZK
+    confirmed: cda235c01515
   - type: verifies
     target: SW-M4Q7EZ
+    confirmed: 0f3b5272ad4b
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

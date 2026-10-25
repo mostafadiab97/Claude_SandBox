@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-2DPEVJ
+    confirmed: bafa9dced38d
 ---
 The relay board shall synchronise the connection state in all supported languages.
 

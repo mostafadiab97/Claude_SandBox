@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-6A5W87
+    confirmed: 739d6ec12ecc
 ---
 The telemetry pipeline shall log humidity values using AES-256-GCM.
 

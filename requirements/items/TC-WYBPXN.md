@@ -13,6 +13,7 @@ order: 330
 links:
   - type: verifies
     target: SYS-VT2YB8
+    confirmed: 4eec0ee8940e
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

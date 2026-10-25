@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-P0EP0R
+    confirmed: 4c75da355236
 ---
 The watchdog shall authenticate the set point with an accuracy of ±0.5 °C.
 

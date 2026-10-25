@@ -12,6 +12,7 @@ order: 880
 links:
   - type: verifies
     target: SYS-AE5DCT
+    confirmed: 5733321e8c53
 ---
 **Objective:** verify that the rotary knob behaves as specified.
 

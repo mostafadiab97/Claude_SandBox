@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-6FPHXN
+    confirmed: 13b34afb2e0e
 ---
 The login screen shall validate the operating mode in all supported languages.
 

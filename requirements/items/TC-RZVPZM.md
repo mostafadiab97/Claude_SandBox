@@ -9,8 +9,10 @@ order: 1010
 links:
   - type: verifies
     target: SYS-KH549P
+    confirmed: 7b84e6500217
   - type: verifies
     target: SW-FJMKGH
+    confirmed: 3c38329616a9
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

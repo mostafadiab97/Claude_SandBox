@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-2DYZPV
+    confirmed: 37aac0e40a8d
 ---
 The Bluetooth LE link shall authenticate the room temperature for up to 8 zones.
 

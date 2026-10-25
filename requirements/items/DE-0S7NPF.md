@@ -10,5 +10,6 @@ order: 20
 links:
   - type: implements
     target: SW-4Y5KKR
+    confirmed: da530757de05
 ---
 Implemented in `src/cloud/user_account_service.c`.

@@ -12,6 +12,7 @@ order: 1550
 links:
   - type: verifies
     target: SYS-781NXX
+    confirmed: cda58af9c59f
 ---
 **Objective:** verify that the login screen behaves as specified.
 

@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-Q1RCFN
+    confirmed: 70b815b71c14
 ---
 The Bluetooth LE link shall report user preferences within 200 ms.
 

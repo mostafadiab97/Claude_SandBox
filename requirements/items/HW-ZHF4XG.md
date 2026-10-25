@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-Z2HDST
+    confirmed: b1fca0b4c45f
 ---
 The power supply shall limit humidity values below 0.5 W in standby.
 

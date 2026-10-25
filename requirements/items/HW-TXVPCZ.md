@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-XRXTDN
+    confirmed: ad932a195f5d
 ---
 The boiler interface shall detect sensor readings for up to 8 zones.
 

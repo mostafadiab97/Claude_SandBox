@@ -13,6 +13,7 @@ order: 350
 links:
   - type: refines
     target: STK-BV5YMS
+    confirmed: 07434b0b5615
 ---
 The menu system shall switch relay events below 0.5 W in standby.
 

@@ -12,5 +12,6 @@ order: 570
 links:
   - type: refines
     target: STK-1TB226
+    confirmed: ea29425b18b7
 ---
 The encryption layer shall store the room temperature when the network is unavailable.

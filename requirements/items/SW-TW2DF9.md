@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-S0DBYP
+    confirmed: edb84b967ce3
 ---
 The boiler interface shall limit the room temperature at least once per minute.
 

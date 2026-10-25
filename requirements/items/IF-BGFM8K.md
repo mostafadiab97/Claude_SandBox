@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-26ZAHT
+    confirmed: 2fc7492bf655
 ---
 The user account service shall synchronise energy consumption within 200 ms.
 

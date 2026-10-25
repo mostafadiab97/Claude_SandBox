@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-0MK9ZW
+    confirmed: 5727fec8b08d
 ---
 The home dashboard shall limit firmware images without user interaction.

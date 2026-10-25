@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-SPCMHW
+    confirmed: 0232f50fadbf
 ---
 The battery backup shall authenticate audit records without user interaction.
 

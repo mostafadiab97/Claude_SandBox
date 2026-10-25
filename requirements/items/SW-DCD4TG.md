@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-CG6CRR
+    confirmed: 221cd3163355
 ---
 The home dashboard shall switch humidity values after a power loss.
 

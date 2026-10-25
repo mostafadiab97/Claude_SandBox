@@ -13,6 +13,7 @@ order: 1090
 links:
   - type: refines
     target: STK-55M3CZ
+    confirmed: 45f1b5fe0502
 ---
 The mobile app shall switch user preferences in under 3 s.
 

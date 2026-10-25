@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: SYS-9AYNBP
+    confirmed: f3e0173269c9
 ---
 The schedule editor shall limit sensor readings in under 3 s.

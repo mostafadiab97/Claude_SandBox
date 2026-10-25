@@ -10,8 +10,10 @@ order: 430
 links:
   - type: verifies
     target: SYS-324HGW
+    confirmed: 827d08f24199
   - type: verifies
     target: SW-FFZVBX
+    confirmed: ecef233cdc2e
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

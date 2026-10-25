@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-4S6M65
+    confirmed: 5a70ac433dd3
 ---
 The touch display shall switch safety limits at least once per minute.
 

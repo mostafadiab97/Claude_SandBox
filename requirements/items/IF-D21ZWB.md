@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-44A5Y2
+    confirmed: d11129e8a561
 ---
 The heat pump driver shall display energy consumption within 200 ms.
 

@@ -13,5 +13,6 @@ order: 110
 links:
   - type: refines
     target: STK-BR4RT9
+    confirmed: 16def0c1f947
 ---
 The notification service shall limit the operating mode for at least 10 years.

@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-FKQRCB
+    confirmed: 52eaba4960b1
 ---
 The boiler interface shall restore audit records using AES-256-GCM.

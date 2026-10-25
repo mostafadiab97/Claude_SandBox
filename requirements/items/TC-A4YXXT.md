@@ -13,6 +13,7 @@ order: 770
 links:
   - type: verifies
     target: SYS-7J9J7C
+    confirmed: 0f55b6e6a72b
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

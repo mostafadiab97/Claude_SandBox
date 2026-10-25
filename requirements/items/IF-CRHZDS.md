@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-KH549P
+    confirmed: 7b84e6500217
 ---
 The watchdog shall synchronise sensor readings below 0.5 W in standby.
 

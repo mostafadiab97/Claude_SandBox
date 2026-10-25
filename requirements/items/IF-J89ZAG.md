@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XYBVJ4
+    confirmed: 7d080417271e
 ---
 The notification service shall measure sensor readings below 0.5 W in standby.
 

@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-8KE9F2
+    confirmed: 046899ea1e41
 ---
 The heat pump driver shall limit the set point for up to 8 zones.
 

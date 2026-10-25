@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-WTR0RD
+    confirmed: 89b38a947458
 ---
 Implemented in `src/cloud/OTA_server.c`.

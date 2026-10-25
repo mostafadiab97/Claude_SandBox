@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-RM4JP8
+    confirmed: 243bb9661d34
 ---
 The cloud backend shall notify energy consumption when the network is unavailable.
 

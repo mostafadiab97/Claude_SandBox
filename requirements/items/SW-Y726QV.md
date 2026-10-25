@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-EX11HN
+    confirmed: 1e076df8d628
 ---
 The telemetry pipeline shall authenticate audit records within 200 ms.
 

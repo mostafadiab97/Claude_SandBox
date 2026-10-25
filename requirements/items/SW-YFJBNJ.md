@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-C849TP
+    confirmed: 0e79beed01a7
 ---
 The cloud backend shall display safety limits without user interaction.
 

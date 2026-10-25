@@ -13,6 +13,7 @@ order: 860
 links:
   - type: refines
     target: STK-G2ZBHW
+    confirmed: fee0d3303478
 ---
 The Wi-Fi module shall authenticate the connection state in all supported languages.
 

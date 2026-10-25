@@ -14,6 +14,7 @@ order: 470
 links:
   - type: verifies
     target: SYS-GBXCHX
+    confirmed: 0ce68205e703
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

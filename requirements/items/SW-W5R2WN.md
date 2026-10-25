@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-MRYHNM
+    confirmed: 82b2ddf90cf3
 ---
 The watchdog shall restore error conditions at least once per minute.

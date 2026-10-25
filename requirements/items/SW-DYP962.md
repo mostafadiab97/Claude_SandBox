@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-G4NP41
+    confirmed: acd64f4d0a48
 ---
 The Wi-Fi module shall detect access tokens with an accuracy of ±0.5 °C.

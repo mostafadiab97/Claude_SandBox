@@ -11,5 +11,6 @@ order: 10
 links:
   - type: implements
     target: SW-139T8M
+    confirmed: 0fb562d05165
 ---
 Implemented in `src/safe/tamper_detection.c`.

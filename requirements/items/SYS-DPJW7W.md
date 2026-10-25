@@ -14,5 +14,6 @@ order: 1200
 links:
   - type: refines
     target: STK-ZJRWCQ
+    confirmed: 080168ea99ae
 ---
 The encryption layer shall limit the connection state below 0.5 W in standby.

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-VFV0E7
+    confirmed: 846c545e5032
 ---
 The menu system shall authenticate schedule entries for up to 8 zones.
 

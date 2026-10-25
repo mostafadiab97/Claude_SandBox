@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-J0HR1G
+    confirmed: 8e8a8762a32d
 ---
 The home dashboard shall store energy consumption in under 3 s.
 

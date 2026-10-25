@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-SZGAP0
+    confirmed: a7b5b694318d
 ---
 The menu system shall log the operating mode in under 3 s.
 

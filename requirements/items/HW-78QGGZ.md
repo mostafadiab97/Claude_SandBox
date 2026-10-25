@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-FMTYXJ
+    confirmed: 51ed09f00e1d
 ---
 The regulation loop shall store firmware images when the network is unavailable.
 

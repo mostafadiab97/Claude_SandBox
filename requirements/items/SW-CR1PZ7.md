@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SW-0PS1TF
+    confirmed: d759aa88e6e1
 ---
 The cloud backend shall report the set point when the network is unavailable.
 

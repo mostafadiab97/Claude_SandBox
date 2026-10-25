@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-P0EP0R
+    confirmed: 4c75da355236
 ---
 The watchdog shall switch schedule entries within 200 ms.
 

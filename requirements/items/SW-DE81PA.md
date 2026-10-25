@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-34QNYE
+    confirmed: f6e72f885951
 ---
 The Bluetooth LE link shall measure safety limits in under 3 s.

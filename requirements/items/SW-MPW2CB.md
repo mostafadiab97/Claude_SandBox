@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-TC4ZEM
+    confirmed: 36689a624b77
 ---
 The zone valve shall validate access tokens with an accuracy of ±0.5 °C.
 

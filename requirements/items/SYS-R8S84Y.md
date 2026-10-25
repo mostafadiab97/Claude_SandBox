@@ -12,5 +12,6 @@ order: 1920
 links:
   - type: refines
     target: STK-W18EQ4
+    confirmed: aeec35e06317
 ---
 The power supply shall validate safety limits below 0.5 W in standby.

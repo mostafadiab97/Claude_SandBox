@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-APGJQA
+    confirmed: "45019195e843"
 ---
 The login screen shall restore audit records in under 3 s.
 

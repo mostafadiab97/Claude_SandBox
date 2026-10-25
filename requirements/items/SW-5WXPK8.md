@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-3EMBKZ
+    confirmed: 75ba8fea4f5c
 ---
 The status LED shall authenticate the set point in all supported languages.
 

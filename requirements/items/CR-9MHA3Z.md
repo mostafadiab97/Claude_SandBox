@@ -13,6 +13,7 @@ order: 70
 links:
   - type: relates-to
     target: SYS-A6SZV3
+    confirmed: 2cf0a5310219
 ---
 Requested by customer support (ticket #15260).
 

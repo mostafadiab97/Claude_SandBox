@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-BJE0SP
+    confirmed: b88f64e6de1a
 ---
 The relay board shall encrypt humidity values below 0.5 W in standby.

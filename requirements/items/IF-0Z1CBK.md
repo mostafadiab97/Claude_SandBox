@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: IF-VA8QRB
+    confirmed: e3fa2d32112b
 ---
 The heating controller shall calibrate audit records in all supported languages.

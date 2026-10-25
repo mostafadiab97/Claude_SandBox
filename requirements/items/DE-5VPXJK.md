@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-SCSQA0
+    confirmed: 63015059f128
 ---
 Implemented in `src/cloud/cloud_backend.c`.

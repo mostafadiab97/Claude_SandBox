@@ -9,6 +9,7 @@ order: 480
 links:
   - type: verifies
     target: SYS-TKV6VE
+    confirmed: 2a2c879fe6d8
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

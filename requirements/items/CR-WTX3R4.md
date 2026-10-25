@@ -10,6 +10,7 @@ order: 60
 links:
   - type: relates-to
     target: SYS-3V07ZT
+    confirmed: bd35bc218b6c
 ---
 Requested by customer support (ticket #18434).
 

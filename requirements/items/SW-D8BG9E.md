@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-GZM0K2
+    confirmed: 6d9372f63395
 ---
 The Zigbee radio shall encrypt energy consumption at least once per minute.
 

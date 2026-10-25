@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-7B2FV2
+    confirmed: 31b6db799d67
 ---
 The menu system shall store the room temperature after a power loss.
 

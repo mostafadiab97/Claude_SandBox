@@ -11,5 +11,6 @@ order: 30
 links:
   - type: refines
     target: SYS-0HAZNH
+    confirmed: 8fef3f917b7b
 ---
 The cloud backend shall encrypt access tokens below 0.5 W in standby.

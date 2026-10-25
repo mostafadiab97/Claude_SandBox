@@ -12,8 +12,10 @@ order: 1490
 links:
   - type: verifies
     target: SYS-1DTP29
+    confirmed: 076f90a0ea7e
   - type: verifies
     target: SW-75XXSR
+    confirmed: 4c4f1f47baa6
 ---
 **Objective:** verify that the regulation loop behaves as specified.
 

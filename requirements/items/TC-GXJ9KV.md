@@ -10,6 +10,7 @@ order: 1400
 links:
   - type: verifies
     target: SYS-RP2FET
+    confirmed: f29685558736
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

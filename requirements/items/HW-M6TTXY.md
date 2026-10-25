@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-33WX8J
+    confirmed: 78ea2220229f
 ---
 The schedule editor shall switch access tokens below 0.5 W in standby.

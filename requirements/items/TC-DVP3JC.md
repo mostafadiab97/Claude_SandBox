@@ -12,6 +12,7 @@ order: 350
 links:
   - type: verifies
     target: SYS-58H7WQ
+    confirmed: 4ec07940ffd5
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

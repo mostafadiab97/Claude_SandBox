@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-ZCATXC
+    confirmed: b58d7a4ac260
 ---
 The Zigbee radio shall display error conditions when the network is unavailable.
 

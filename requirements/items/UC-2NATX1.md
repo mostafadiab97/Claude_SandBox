@@ -10,6 +10,7 @@ order: 160
 links:
   - type: relates-to
     target: STK-SZWQ0A
+    confirmed: fc1f05b44684
 ---
 **Actor:** home owner
 

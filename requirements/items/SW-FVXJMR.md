@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-AH20RG
+    confirmed: 3223ff118368
 ---
 The pairing process shall detect user preferences with an accuracy of ±0.5 °C.
 

@@ -9,6 +9,7 @@ order: 830
 links:
   - type: verifies
     target: SYS-HAHB1Q
+    confirmed: 7a23dee59b18
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

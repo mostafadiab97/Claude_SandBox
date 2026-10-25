@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-RBJ09S
+    confirmed: bc3faed102e0
 ---
 Implemented in `src/safe/over-temperature_monitor.c`.

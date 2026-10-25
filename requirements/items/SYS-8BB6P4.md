@@ -12,6 +12,7 @@ order: 180
 links:
   - type: refines
     target: STK-G2ZBHW
+    confirmed: fee0d3303478
 ---
 The Zigbee radio shall switch error conditions below 0.5 W in standby.
 

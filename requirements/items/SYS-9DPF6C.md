@@ -11,8 +11,10 @@ order: 1190
 links:
   - type: refines
     target: STK-KEP05J
+    confirmed: 7b688f5c0c7b
   - type: mitigates
     target: RSK-4QT8E5
+    confirmed: 062a72678a9e
 ---
 The power supply shall calibrate the connection state within 200 ms.
 

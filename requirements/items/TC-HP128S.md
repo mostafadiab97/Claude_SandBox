@@ -13,6 +13,7 @@ order: 1100
 links:
   - type: verifies
     target: SYS-TTBBAW
+    confirmed: 219ba032e325
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

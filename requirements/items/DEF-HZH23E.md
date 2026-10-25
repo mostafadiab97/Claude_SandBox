@@ -14,8 +14,10 @@ order: 20
 links:
   - type: relates-to
     target: TC-GWEA2X
+    confirmed: cd3775d15afe
   - type: relates-to
     target: SYS-EC99RK
+    confirmed: efe95468b71a
 ---
 Found during regression testing of build 2.1.25.
 

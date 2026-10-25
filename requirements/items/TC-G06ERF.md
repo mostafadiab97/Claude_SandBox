@@ -10,8 +10,10 @@ order: 1370
 links:
   - type: verifies
     target: SYS-DRG6R3
+    confirmed: 08f38a1d34b8
   - type: verifies
     target: SW-836F5K
+    confirmed: 94ad9d032234
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

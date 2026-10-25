@@ -12,5 +12,6 @@ order: 1530
 links:
   - type: refines
     target: STK-W1SAZ0
+    confirmed: f0954f8ba0a2
 ---
 The heat pump driver shall detect energy consumption in under 3 s.

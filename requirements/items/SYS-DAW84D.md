@@ -10,5 +10,6 @@ order: 2020
 links:
   - type: refines
     target: STK-4NGQJ5
+    confirmed: 96640a7e340d
 ---
 The enclosure shall report relay events at least once per minute.

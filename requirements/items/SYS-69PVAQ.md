@@ -10,6 +10,7 @@ order: 1640
 links:
   - type: refines
     target: STK-SWTYBR
+    confirmed: 85d99e967934
 ---
 The mobile app shall display the connection state in under 3 s.
 

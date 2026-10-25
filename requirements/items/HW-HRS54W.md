@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-F4HTNV
+    confirmed: f5977efaa651
 ---
 The Wi-Fi module shall display relay events without user interaction.
 

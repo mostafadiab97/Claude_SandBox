@@ -8,6 +8,7 @@ order: 10
 links:
   - type: refines
     target: SW-YQY02N
+    confirmed: 2cb96856ccbf
 ---
 The local API shall display the connection state using AES-256-GCM.
 

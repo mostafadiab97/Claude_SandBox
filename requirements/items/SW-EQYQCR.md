@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-9W9NZD
+    confirmed: 4875c522f62f
 ---
 The touch display shall restore firmware images in all supported languages.
 

@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-ZENQH5
+    confirmed: 2ab203b72e19
 ---
 The mobile app shall encrypt energy consumption for at least 10 years.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7PADSD
+    confirmed: d945d7dacc5c
 ---
 The secure boot shall synchronise safety limits for at least 10 years.
 

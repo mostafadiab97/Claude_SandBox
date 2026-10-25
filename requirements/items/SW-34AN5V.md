@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SW-FCG5ER
+    confirmed: 2e632be6e257
 ---
 The telemetry pipeline shall notify the connection state for at least 10 years.

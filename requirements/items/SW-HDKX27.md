@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-PRE7SJ
+    confirmed: 690f18343fde
 ---
 The touch display shall detect firmware images with an accuracy of ±0.5 °C.
 

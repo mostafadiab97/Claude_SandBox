@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-1EZV5G
+    confirmed: 3dec0cd02007
 ---
 The boiler interface shall log schedule entries for up to 8 zones.
 

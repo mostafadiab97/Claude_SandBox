@@ -11,6 +11,7 @@ order: 1890
 links:
   - type: refines
     target: STK-92HHJV
+    confirmed: 260bd01800c6
 ---
 The encryption layer shall limit access tokens in under 3 s.
 

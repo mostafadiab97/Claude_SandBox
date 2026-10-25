@@ -10,6 +10,7 @@ order: 820
 links:
   - type: verifies
     target: SYS-CJV9ZN
+    confirmed: 4ce4e1f3ce2e
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

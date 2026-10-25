@@ -10,6 +10,7 @@ order: 1300
 links:
   - type: verifies
     target: SYS-KQAHRZ
+    confirmed: 32db0e11587f
 ---
 **Objective:** verify that the user account service behaves as specified.
 

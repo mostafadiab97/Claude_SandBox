@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-EJR3YH
+    confirmed: 7b3dac33b561
 ---
 The secure boot shall authenticate energy consumption within 200 ms.
 

@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-PDF1CD
+    confirmed: ba0d0f689c55
 ---
 The home dashboard shall encrypt the operating mode without user interaction.

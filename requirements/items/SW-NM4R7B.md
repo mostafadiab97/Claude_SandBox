@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-D1ZDY9
+    confirmed: 3c95eb652d79
 ---
 The heat pump driver shall restore relay events in all supported languages.
 

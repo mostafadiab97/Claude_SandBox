@@ -12,8 +12,10 @@ order: 870
 links:
   - type: verifies
     target: SYS-DPJW7W
+    confirmed: 011bc9e01fc2
   - type: verifies
     target: SW-WHR27K
+    confirmed: a2de404f9c89
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

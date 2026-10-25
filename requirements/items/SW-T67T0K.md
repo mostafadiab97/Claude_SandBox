@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-N6E1NE
+    confirmed: cc346536e668
 ---
 The Bluetooth LE link shall measure sensor readings when the network is unavailable.
 

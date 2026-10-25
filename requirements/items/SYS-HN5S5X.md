@@ -13,8 +13,10 @@ order: 220
 links:
   - type: refines
     target: STK-XZPKF8
+    confirmed: f082d5e65a7a
   - type: mitigates
     target: RSK-5PJGGC
+    confirmed: 75f8fe6da08d
 ---
 The backlight shall display relay events using AES-256-GCM.
 

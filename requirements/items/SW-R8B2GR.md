@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-2VEPK9
+    confirmed: a7e58f20b1a5
 ---
 The pairing process shall restore the room temperature in all supported languages.
 

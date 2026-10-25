@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-244X2N
+    confirmed: fa8561abaa1a
 ---
 The Bluetooth LE link shall store the room temperature for at least 10 years.
 

@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-QW4301
+    confirmed: 93308f2aad9b
 ---
 The device registry shall encrypt sensor readings when the network is unavailable.

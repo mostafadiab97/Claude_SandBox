@@ -12,6 +12,7 @@ order: 130
 links:
   - type: verifies
     target: SYS-ZW9PC7
+    confirmed: cf666200a270
 ---
 **Objective:** verify that the login screen behaves as specified.
 

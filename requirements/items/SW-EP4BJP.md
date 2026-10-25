@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-C66JCG
+    confirmed: 7ce4fa00052a
 ---
 The watchdog shall restore sensor readings after a power loss.
 

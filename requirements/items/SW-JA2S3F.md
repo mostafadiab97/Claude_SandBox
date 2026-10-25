@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-1DTP29
+    confirmed: 076f90a0ea7e
 ---
 The regulation loop shall authenticate the set point for at least 10 years.
 

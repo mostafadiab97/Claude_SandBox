@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-QPQPPM
+    confirmed: cccfd4c3a197
 ---
 Implemented in `src/cloud/device_registry.c`.

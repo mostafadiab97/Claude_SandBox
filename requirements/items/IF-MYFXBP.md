@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-C9V44A
+    confirmed: 884859b61c66
 ---
 The relay board shall store humidity values within 200 ms.

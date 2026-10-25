@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-CEFJX7
+    confirmed: fadbb8266e08
 ---
 The relay board shall measure the set point after a power loss.
 

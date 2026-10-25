@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-7AKQK2
+    confirmed: 0a4c44bfead6
 ---
 The boiler interface shall encrypt safety limits at least once per minute.
 

@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-FRJ8JT
+    confirmed: 5c966bbd47be
 ---
 The encryption layer shall switch user preferences when the network is unavailable.
 

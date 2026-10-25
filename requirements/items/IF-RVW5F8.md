@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-WTMM9P
+    confirmed: f9afa2fdb4af
 ---
 The Wi-Fi module shall measure error conditions for up to 8 zones.
 

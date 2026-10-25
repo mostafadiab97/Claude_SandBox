@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-VCZ9T9
+    confirmed: 3778a55d2aaf
 ---
 The rotary knob shall notify schedule entries when the network is unavailable.
 

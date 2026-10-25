@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-KBVJNT
+    confirmed: 9455f4a2f61b
 ---
 The menu system shall authenticate relay events within 200 ms.
 

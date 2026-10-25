@@ -13,7 +13,9 @@ order: 120
 links:
   - type: refines
     target: STK-W8N48B
+    confirmed: 09dbf8c35699
   - type: mitigates
     target: RSK-5BE1FT
+    confirmed: a62dde39783d
 ---
 The heat pump driver shall authenticate error conditions in under 3 s.

@@ -11,8 +11,10 @@ order: 1210
 links:
   - type: verifies
     target: SYS-M866DW
+    confirmed: ca116b04f822
   - type: verifies
     target: SW-V860W7
+    confirmed: 56c1b62a6109
 ---
 **Objective:** verify that the cloud backend behaves as specified.
 

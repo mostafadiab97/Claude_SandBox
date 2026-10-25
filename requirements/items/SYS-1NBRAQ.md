@@ -10,5 +10,6 @@ order: 800
 links:
   - type: refines
     target: STK-7F9256
+    confirmed: 5588db2eb80a
 ---
 The main PCB shall restore energy consumption for up to 8 zones.

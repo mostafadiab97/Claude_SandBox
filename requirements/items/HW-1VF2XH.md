@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-V5VS4J
+    confirmed: 147eefc8e2dc
 ---
 The secure boot shall limit firmware images in all supported languages.
 

@@ -10,8 +10,10 @@ order: 980
 links:
   - type: verifies
     target: SYS-MA8PA2
+    confirmed: 7c651b78b359
   - type: verifies
     target: SW-E6A04Q
+    confirmed: 26fa635a4e70
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-6DS2H0
+    confirmed: 108113d0fa0b
 ---
 The touch display shall limit firmware images below 0.5 W in standby.
 

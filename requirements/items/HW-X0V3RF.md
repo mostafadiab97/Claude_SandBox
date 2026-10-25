@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-6PYBJD
+    confirmed: fd85d789dbcd
 ---
 The main PCB shall notify the room temperature for up to 8 zones.
 

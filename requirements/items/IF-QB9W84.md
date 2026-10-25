@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-TCAQ5C
+    confirmed: 2cddef017379
 ---
 The rotary knob shall limit the connection state in all supported languages.
 

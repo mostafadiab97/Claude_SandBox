@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XWSXG7
+    confirmed: 99ff67880704
 ---
 The relay board shall authenticate the room temperature when the network is unavailable.
 

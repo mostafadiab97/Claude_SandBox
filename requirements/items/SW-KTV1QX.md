@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-K5KTY4
+    confirmed: 1d8e4186edff
 ---
 The schedule editor shall report the operating mode at least once per minute.
 

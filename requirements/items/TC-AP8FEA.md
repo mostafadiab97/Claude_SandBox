@@ -13,6 +13,7 @@ order: 690
 links:
   - type: verifies
     target: SYS-6DAVQX
+    confirmed: 7edaaaba42b0
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-W1MEG3
+    confirmed: 7ffa04910a1e
 ---
 The pairing process shall encrypt error conditions below 0.5 W in standby.
 

@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-08Q79Y
+    confirmed: 8a374fcf4b3a
 ---
 The status LED shall measure firmware images with an accuracy of ±0.5 °C.
 

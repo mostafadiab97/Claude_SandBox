@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-2TCHQB
+    confirmed: d50f8cfb5fb0
 ---
 The tamper detection shall calibrate error conditions for up to 8 zones.
 

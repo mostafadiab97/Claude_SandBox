@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-YG9MA7
+    confirmed: 44025c9425c4
 ---
 The telemetry pipeline shall store sensor readings after a power loss.
 

@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-JKNRQ3
+    confirmed: 2f3dabce7169
 ---
 The pairing process shall validate audit records at least once per minute.
 

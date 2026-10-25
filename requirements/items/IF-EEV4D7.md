@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-2QHPNW
+    confirmed: 579c82632c6d
 ---
 The Wi-Fi module shall measure audit records when the network is unavailable.
 

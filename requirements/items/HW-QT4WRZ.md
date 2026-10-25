@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XT9RX8
+    confirmed: ba8e9786a00b
 ---
 The local API shall synchronise energy consumption when the network is unavailable.
 

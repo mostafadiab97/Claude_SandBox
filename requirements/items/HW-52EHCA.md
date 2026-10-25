@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: HW-MCMA48
+    confirmed: 2ff5855327ef
 ---
 The power supply shall restore the operating mode within 200 ms.

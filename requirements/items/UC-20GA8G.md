@@ -13,6 +13,7 @@ order: 140
 links:
   - type: relates-to
     target: STK-1CAAXP
+    confirmed: a853df6f0866
 ---
 **Actor:** home owner
 

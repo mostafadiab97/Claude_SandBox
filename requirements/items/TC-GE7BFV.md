@@ -13,6 +13,7 @@ order: 1690
 links:
   - type: verifies
     target: SYS-XSDXN6
+    confirmed: b0286a82c3c7
 ---
 **Objective:** verify that the device behaves as specified.
 

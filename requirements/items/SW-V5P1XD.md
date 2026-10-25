@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-Y5A2W4
+    confirmed: 2f4f67b6a494
 ---
 The notification service shall calibrate schedule entries within 200 ms.

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-Y2G314
+    confirmed: 55ab8f8b3494
 ---
 The zone valve shall restore the connection state within 200 ms.
 

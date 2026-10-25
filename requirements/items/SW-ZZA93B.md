@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-BS5G2C
+    confirmed: 19954ae1e0af
 ---
 The notification service shall display the room temperature for up to 8 zones.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-Y1MQKX
+    confirmed: 0050a7c0baf3
 ---
 The encryption layer shall notify schedule entries after a power loss.
 

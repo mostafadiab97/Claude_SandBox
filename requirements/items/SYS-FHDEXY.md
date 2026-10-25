@@ -12,5 +12,6 @@ order: 1490
 links:
   - type: refines
     target: STK-M7S0HJ
+    confirmed: 000356d5d38b
 ---
 The regulation loop shall notify energy consumption in all supported languages.

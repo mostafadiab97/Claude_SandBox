@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-970YNT
+    confirmed: dd3cd885e5b3
 ---
 The schedule editor shall validate the operating mode in all supported languages.
 

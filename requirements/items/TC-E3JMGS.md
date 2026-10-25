@@ -10,6 +10,7 @@ order: 1330
 links:
   - type: verifies
     target: SYS-A3STJH
+    confirmed: 01e4f44d3a9c
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.
 

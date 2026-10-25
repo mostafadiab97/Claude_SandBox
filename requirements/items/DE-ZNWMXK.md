@@ -11,5 +11,6 @@ order: 10
 links:
   - type: implements
     target: SW-60M2TJ
+    confirmed: c1d3612d6600
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

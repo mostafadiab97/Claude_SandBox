@@ -14,8 +14,10 @@ order: 970
 links:
   - type: refines
     target: STK-G2H1B9
+    confirmed: fce33b342585
   - type: mitigates
     target: RSK-RV8KBD
+    confirmed: 637ec5e39d53
 ---
 The secure boot shall limit error conditions using AES-256-GCM.
 

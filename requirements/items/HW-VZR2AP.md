@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-2KGJFW
+    confirmed: 33b6774f671a
 ---
 The status LED shall limit schedule entries within 200 ms.
 

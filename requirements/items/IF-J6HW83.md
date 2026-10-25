@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-JYEJXF
+    confirmed: 4340b120fb96
 ---
 The schedule editor shall notify the room temperature in under 3 s.
 

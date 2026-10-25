@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: HW-6QW5X0
+    confirmed: f081a7be4767
 ---
 The Zigbee radio shall display firmware images with an accuracy of ±0.5 °C.

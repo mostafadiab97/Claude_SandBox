@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XHYQN4
+    confirmed: 3a60145a886a
 ---
 The secure boot shall switch humidity values with an accuracy of ±0.5 °C.
 

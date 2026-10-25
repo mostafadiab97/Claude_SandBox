@@ -10,6 +10,7 @@ order: 1370
 links:
   - type: verifies
     target: SYS-72RSQG
+    confirmed: d9f78fd2af42
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

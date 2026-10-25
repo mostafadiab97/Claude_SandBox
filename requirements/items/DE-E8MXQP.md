@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-Z5HD5W
+    confirmed: 29e08bcbf4c6
 ---
 Implemented in `src/cloud/telemetry_pipeline.c`.

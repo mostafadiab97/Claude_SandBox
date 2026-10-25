@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-QQKQYS
+    confirmed: 4947f67da293
 ---
 The cloud backend shall synchronise audit records within 200 ms.
 

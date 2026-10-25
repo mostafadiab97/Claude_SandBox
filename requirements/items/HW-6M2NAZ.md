@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7Q4FYP
+    confirmed: af798c8aaa0c
 ---
 The backlight shall encrypt the operating mode in all supported languages.
 

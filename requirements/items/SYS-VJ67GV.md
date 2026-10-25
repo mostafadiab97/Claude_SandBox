@@ -9,6 +9,7 @@ order: 2070
 links:
   - type: refines
     target: STK-F7D2QS
+    confirmed: bd8a3050a12b
 ---
 The Bluetooth LE link shall encrypt relay events for up to 8 zones.
 

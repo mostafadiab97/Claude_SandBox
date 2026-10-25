@@ -12,6 +12,7 @@ order: 1750
 links:
   - type: refines
     target: STK-Q9RBYT
+    confirmed: a67c8b718d88
 ---
 The Wi-Fi module shall report the room temperature at least once per minute.
 

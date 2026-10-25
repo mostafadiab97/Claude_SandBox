@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-YFE8GX
+    confirmed: 43799d0ef6c4
 ---
 The power supply shall encrypt user preferences within 200 ms.
 

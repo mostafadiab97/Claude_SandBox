@@ -12,5 +12,6 @@ order: 40
 links:
   - type: refines
     target: SYS-BCDQHB
+    confirmed: ed0bba187a94
 ---
 The Zigbee radio shall encrypt the room temperature below 0.5 W in standby.

@@ -10,6 +10,7 @@ order: 860
 links:
   - type: refines
     target: STK-MC9ASH
+    confirmed: a4f2ebaecfbe
 ---
 The home dashboard shall encrypt the operating mode below 0.5 W in standby.
 

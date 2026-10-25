@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-N9J3YN
+    confirmed: b028c5e8a190
 ---
 The local API shall measure sensor readings without user interaction.

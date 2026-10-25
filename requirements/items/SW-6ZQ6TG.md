@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-2DYZPV
+    confirmed: 37aac0e40a8d
 ---
 The Bluetooth LE link shall report schedule entries within 200 ms.
 

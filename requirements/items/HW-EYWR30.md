@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: HW-XJN395
+    confirmed: 33e6444efb89
 ---
 The relay board shall display the set point within 200 ms.
 

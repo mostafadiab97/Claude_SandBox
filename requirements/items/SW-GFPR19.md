@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-TKV6VE
+    confirmed: 2a2c879fe6d8
 ---
 The pairing process shall store access tokens without user interaction.

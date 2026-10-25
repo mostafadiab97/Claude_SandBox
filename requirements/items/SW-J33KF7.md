@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-6Q9CPR
+    confirmed: b2427158c415
 ---
 The rotary knob shall measure audit records when the network is unavailable.
 

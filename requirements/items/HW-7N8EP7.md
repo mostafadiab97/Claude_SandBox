@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-F1889A
+    confirmed: 2c23251911ef
 ---
 The relay board shall validate schedule entries below 0.5 W in standby.
 

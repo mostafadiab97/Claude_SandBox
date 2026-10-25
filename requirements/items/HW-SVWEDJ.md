@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7Y9J5P
+    confirmed: 8394341da33d
 ---
 The mobile app shall calibrate the operating mode below 0.5 W in standby.
 

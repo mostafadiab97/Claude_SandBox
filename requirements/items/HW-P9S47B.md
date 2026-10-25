@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-2NQ3E8
+    confirmed: 08cad2a24d2f
 ---
 The OTA server shall limit the set point at least once per minute.
 

@@ -12,6 +12,7 @@ order: 170
 links:
   - type: relates-to
     target: SYS-QHMFA6
+    confirmed: 9375eb52bc71
 ---
 Requested by customer support (ticket #17374).
 

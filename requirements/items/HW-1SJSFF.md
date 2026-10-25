@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-Z3C3F8
+    confirmed: 0af14c27b0f7
 ---
 The user account service shall calibrate the operating mode using AES-256-GCM.

@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-BA2G1M
+    confirmed: f603768ac45b
 ---
 The telemetry pipeline shall measure audit records below 0.5 W in standby.
 

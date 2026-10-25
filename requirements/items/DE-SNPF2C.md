@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-95AXDE
+    confirmed: a736aff9cba8
 ---
 Implemented in `src/ui/touch_display.c`.

@@ -11,6 +11,7 @@ order: 950
 links:
   - type: verifies
     target: SYS-ZRJGC6
+    confirmed: f533853c62c8
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

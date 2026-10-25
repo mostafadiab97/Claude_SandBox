@@ -12,6 +12,7 @@ order: 30
 links:
   - type: relates-to
     target: SYS-TV1J1J
+    confirmed: 840d4cfa795b
 ---
 Requested by customer support (ticket #13023).
 

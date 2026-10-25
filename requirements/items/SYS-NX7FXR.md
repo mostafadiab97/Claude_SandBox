@@ -10,6 +10,7 @@ order: 810
 links:
   - type: refines
     target: STK-1CAAXP
+    confirmed: a853df6f0866
 ---
 The user account service shall display the set point without user interaction.
 

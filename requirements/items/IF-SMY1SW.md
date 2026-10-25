@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-R8S84Y
+    confirmed: 1adc29377b0d
 ---
 The power supply shall authenticate energy consumption when the network is unavailable.

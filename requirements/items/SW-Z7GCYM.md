@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-2TBAE2
+    confirmed: 1c6a633bcb0f
 ---
 The Zigbee radio shall detect the connection state when the network is unavailable.
 

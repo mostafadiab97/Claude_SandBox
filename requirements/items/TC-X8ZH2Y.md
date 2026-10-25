@@ -10,6 +10,7 @@ order: 1810
 links:
   - type: verifies
     target: SYS-749A38
+    confirmed: a8274ea6218e
 ---
 **Objective:** verify that the device behaves as specified.
 

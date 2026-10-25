@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SW-CY5VGN
+    confirmed: 8565b1b722ca
 ---
 The notification service shall encrypt user preferences below 0.5 W in standby.

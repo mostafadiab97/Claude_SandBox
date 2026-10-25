@@ -14,6 +14,7 @@ order: 70
 links:
   - type: refines
     target: STK-Q8BNKR
+    confirmed: 6deaa78e6ab3
 ---
 The boiler interface shall notify relay events in all supported languages.
 

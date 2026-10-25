@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ENSJB5
+    confirmed: da484be59d82
 ---
 The main PCB shall encrypt the connection state after a power loss.
 

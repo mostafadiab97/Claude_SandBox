@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-F7EPJP
+    confirmed: feab156e1a57
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

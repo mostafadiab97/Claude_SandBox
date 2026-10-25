@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-9QD67X
+    confirmed: c23bbc65f43c
 ---
 The tamper detection shall detect safety limits without user interaction.

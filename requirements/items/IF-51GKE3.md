@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-4JV7MY
+    confirmed: 199fce62923b
 ---
 The battery backup shall switch sensor readings within 200 ms.
 

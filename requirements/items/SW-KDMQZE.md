@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-5EDM7V
+    confirmed: 50e6801cc264
 ---
 The mobile app shall display the connection state with an accuracy of ±0.5 °C.

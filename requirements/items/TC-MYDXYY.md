@@ -13,6 +13,7 @@ order: 660
 links:
   - type: verifies
     target: SYS-2ZWKRN
+    confirmed: da49b7d4a05b
 ---
 **Objective:** verify that the device behaves as specified.
 

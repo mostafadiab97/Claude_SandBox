@@ -12,6 +12,7 @@ order: 780
 links:
   - type: verifies
     target: SYS-FBM4B7
+    confirmed: c2dee4a6831a
 ---
 **Objective:** verify that the device behaves as specified.
 

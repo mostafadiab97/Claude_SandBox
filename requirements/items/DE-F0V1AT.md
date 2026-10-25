@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-5EWC48
+    confirmed: 7dfc9c8f3524
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

@@ -8,6 +8,7 @@ order: 10
 links:
   - type: refines
     target: SW-K42P3P
+    confirmed: 36a30a89257b
 ---
 The backlight shall restore firmware images when the network is unavailable.
 

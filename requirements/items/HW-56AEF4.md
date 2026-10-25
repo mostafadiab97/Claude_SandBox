@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MB5B23
+    confirmed: 7dee66be9e03
 ---
 The main PCB shall validate relay events with an accuracy of ±0.5 °C.
 

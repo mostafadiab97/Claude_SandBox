@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-DN2SKS
+    confirmed: 0ed24975e2c6
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

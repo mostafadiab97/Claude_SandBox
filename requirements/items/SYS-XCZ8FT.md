@@ -10,6 +10,7 @@ order: 1740
 links:
   - type: refines
     target: STK-XSZSEZ
+    confirmed: 1038f4e2e9d4
 ---
 The local API shall calibrate user preferences using AES-256-GCM.
 

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-N36TB6
+    confirmed: 37dc028a5c77
 ---
 The regulation loop shall switch energy consumption in under 3 s.
 

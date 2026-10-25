@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-V7ZK4B
+    confirmed: d3ae0a8a942d
 ---
 The watchdog shall limit the room temperature for up to 8 zones.

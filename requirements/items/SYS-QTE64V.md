@@ -10,6 +10,7 @@ order: 480
 links:
   - type: refines
     target: STK-DNB9QM
+    confirmed: 90394ce55463
 ---
 The telemetry pipeline shall authenticate safety limits with an accuracy of ±0.5 °C.
 

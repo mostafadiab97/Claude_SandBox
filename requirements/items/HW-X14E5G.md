@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-C1GZFQ
+    confirmed: 4a1b95f28b03
 ---
 The encryption layer shall encrypt audit records for up to 8 zones.
 

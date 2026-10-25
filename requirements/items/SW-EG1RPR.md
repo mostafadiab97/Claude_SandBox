@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-XJA19E
+    confirmed: 907af0c1b352
 ---
 The over-temperature monitor shall synchronise user preferences within 200 ms.
 

@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: IF-3H50X6
+    confirmed: 0c95427c9174
 ---
 The telemetry pipeline shall authenticate user preferences for at least 10 years.
 

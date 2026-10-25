@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-WTMBDQ
+    confirmed: 58aa56d32867
 ---
 The Bluetooth LE link shall report access tokens using AES-256-GCM.

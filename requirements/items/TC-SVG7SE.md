@@ -13,6 +13,7 @@ order: 1070
 links:
   - type: verifies
     target: SYS-NVH3G7
+    confirmed: a822090bf9b4
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

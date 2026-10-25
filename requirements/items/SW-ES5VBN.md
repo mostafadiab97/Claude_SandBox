@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-DHBZX2
+    confirmed: f269617e5175
 ---
 The pairing process shall switch energy consumption without user interaction.

@@ -9,6 +9,7 @@ order: 850
 links:
   - type: verifies
     target: SYS-1S2BHB
+    confirmed: 46ab9d294f6f
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

@@ -12,6 +12,7 @@ order: 1510
 links:
   - type: refines
     target: STK-8PN4VS
+    confirmed: a3e83ac40678
 ---
 The backlight shall report the set point at least once per minute.
 

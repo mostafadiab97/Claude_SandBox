@@ -9,8 +9,10 @@ order: 290
 links:
   - type: verifies
     target: SYS-A6Z44C
+    confirmed: f442eb9491f7
   - type: verifies
     target: SW-MV99XM
+    confirmed: ebb6a7b1b83a
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

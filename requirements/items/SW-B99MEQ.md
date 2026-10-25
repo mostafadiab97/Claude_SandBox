@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-MY3DCX
+    confirmed: ace85c596789
 ---
 The Bluetooth LE link shall store schedule entries when the network is unavailable.

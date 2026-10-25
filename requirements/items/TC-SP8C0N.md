@@ -10,6 +10,7 @@ order: 1830
 links:
   - type: verifies
     target: SYS-82PKWA
+    confirmed: c920ab97ee7b
 ---
 **Objective:** verify that the device behaves as specified.
 

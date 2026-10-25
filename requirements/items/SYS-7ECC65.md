@@ -12,6 +12,7 @@ order: 170
 links:
   - type: refines
     target: STK-92HHJV
+    confirmed: 260bd01800c6
 ---
 The over-temperature monitor shall validate safety limits for at least 10 years.
 

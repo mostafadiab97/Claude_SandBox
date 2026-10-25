@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-H40ZC8
+    confirmed: a59873eb8362
 ---
 The rotary knob shall limit schedule entries using AES-256-GCM.
 

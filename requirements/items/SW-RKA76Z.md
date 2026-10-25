@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-XSDXN6
+    confirmed: b0286a82c3c7
 ---
 The heat pump driver shall restore the room temperature after a power loss.
 

@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-X20Q9Q
+    confirmed: 872e82d5e322
 ---
 The relay board shall display relay events in all supported languages.

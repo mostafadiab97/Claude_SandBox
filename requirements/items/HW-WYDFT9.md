@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-AE2EKW
+    confirmed: e00530755be8
 ---
 The Zigbee radio shall log user preferences with an accuracy of ±0.5 °C.

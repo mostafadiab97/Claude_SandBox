@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-EMF91Y
+    confirmed: 9d4481346f88
 ---
 The menu system shall log audit records for up to 8 zones.
 

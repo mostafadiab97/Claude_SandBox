@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-S7N2J2
+    confirmed: 925e327e6609
 ---
 The enclosure shall switch the room temperature after a power loss.

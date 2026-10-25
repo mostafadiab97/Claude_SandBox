@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-V4CDVD
+    confirmed: d3b836ff9b14
 ---
 The rotary knob shall limit the room temperature when the network is unavailable.
 

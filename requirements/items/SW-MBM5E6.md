@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-0DEP77
+    confirmed: 7dbcbeef3d13
 ---
 The device registry shall calibrate the operating mode in all supported languages.
 

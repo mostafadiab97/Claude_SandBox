@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-KM35T2
+    confirmed: 66d8e2ac37b5
 ---
 The telemetry pipeline shall detect audit records with an accuracy of ±0.5 °C.
 

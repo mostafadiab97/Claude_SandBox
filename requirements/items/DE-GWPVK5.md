@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-GKX27Y
+    confirmed: 9a0010a8ffdd
 ---
 Implemented in `src/heat/heating_controller.c`.

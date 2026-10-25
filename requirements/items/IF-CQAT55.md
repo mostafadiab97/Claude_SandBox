@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-FFNK01
+    confirmed: f88551723442
 ---
 The boiler interface shall restore the operating mode below 0.5 W in standby.
 

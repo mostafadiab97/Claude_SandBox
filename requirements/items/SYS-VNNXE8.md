@@ -13,6 +13,7 @@ order: 1450
 links:
   - type: refines
     target: STK-4K2NE4
+    confirmed: 7cfb31353d89
 ---
 The status LED shall switch access tokens below 0.5 W in standby.
 

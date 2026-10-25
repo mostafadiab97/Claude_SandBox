@@ -14,5 +14,6 @@ order: 500
 links:
   - type: refines
     target: STK-AA05P4
+    confirmed: e2bec3bcd11c
 ---
 The zone valve shall detect access tokens at least once per minute.

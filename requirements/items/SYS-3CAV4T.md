@@ -9,8 +9,10 @@ order: 1540
 links:
   - type: refines
     target: STK-JFBQPS
+    confirmed: 5027ee1822eb
   - type: mitigates
     target: RSK-HKANA4
+    confirmed: dc7034353f37
 ---
 The user account service shall encrypt humidity values with an accuracy of ±0.5 °C.
 

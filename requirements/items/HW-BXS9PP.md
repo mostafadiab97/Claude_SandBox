@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-T11C75
+    confirmed: 795575845fa5
 ---
 The relay board shall measure safety limits without user interaction.
 

@@ -14,6 +14,7 @@ order: 20
 links:
   - type: verifies
     target: SYS-B9VTJR
+    confirmed: 07a4ebe67d81
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

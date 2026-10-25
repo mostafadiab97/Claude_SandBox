@@ -11,5 +11,6 @@ order: 30
 links:
   - type: refines
     target: SYS-VMW9A5
+    confirmed: c6158c1e98f6
 ---
 The battery backup shall restore firmware images in all supported languages.

@@ -14,6 +14,7 @@ order: 100
 links:
   - type: verifies
     target: SYS-XVVWVF
+    confirmed: f37bc3493af5
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

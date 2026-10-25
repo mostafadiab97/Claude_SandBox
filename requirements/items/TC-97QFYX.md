@@ -13,8 +13,10 @@ order: 730
 links:
   - type: verifies
     target: SYS-ZS700Y
+    confirmed: 3e1573548eed
   - type: verifies
     target: SW-PY0PQQ
+    confirmed: 895d0c73b9f2
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

@@ -11,6 +11,7 @@ order: 40
 links:
   - type: verifies
     target: SYS-8JRVNP
+    confirmed: 947f4568b2cf
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

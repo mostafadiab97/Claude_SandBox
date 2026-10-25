@@ -9,8 +9,10 @@ order: 1100
 links:
   - type: verifies
     target: SYS-VNNXE8
+    confirmed: 1b092edc3073
   - type: verifies
     target: SW-E0C6CJ
+    confirmed: 54e0e57fc0f2
 ---
 **Objective:** verify that the status LED behaves as specified.
 

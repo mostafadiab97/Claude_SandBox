@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QGGTRG
+    confirmed: e1c94732a57d
 ---
 The enclosure shall log access tokens for up to 8 zones.
 

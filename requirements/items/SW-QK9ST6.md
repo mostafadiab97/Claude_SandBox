@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-M2DDZ3
+    confirmed: 1fa4e7b531b5
 ---
 The mobile app shall detect audit records for up to 8 zones.
 

@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-1DTP29
+    confirmed: 076f90a0ea7e
 ---
 The regulation loop shall encrypt access tokens below 0.5 W in standby.
 

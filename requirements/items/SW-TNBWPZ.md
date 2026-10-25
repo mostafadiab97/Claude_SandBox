@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-Y9J3XR
+    confirmed: e9321a9a2b2f
 ---
 The login screen shall limit the operating mode when the network is unavailable.

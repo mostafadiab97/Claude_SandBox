@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-G04V2Y
+    confirmed: b6d6034c72e0
 ---
 The schedule editor shall store user preferences without user interaction.
 

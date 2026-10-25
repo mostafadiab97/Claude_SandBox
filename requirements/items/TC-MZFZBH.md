@@ -9,6 +9,7 @@ order: 660
 links:
   - type: verifies
     target: SYS-7DF4GN
+    confirmed: b8942c9f4893
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

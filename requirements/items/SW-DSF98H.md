@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-ASMZ9Q
+    confirmed: 41b07dbfc705
 ---
 The touch display shall synchronise humidity values using AES-256-GCM.
 

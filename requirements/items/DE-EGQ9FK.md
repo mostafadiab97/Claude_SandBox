@@ -12,5 +12,6 @@ order: 20
 links:
   - type: implements
     target: SW-616CH6
+    confirmed: 3666376b13b0
 ---
 Implemented in `src/ui/menu_system.c`.

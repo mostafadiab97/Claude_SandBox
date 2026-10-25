@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-GYKHZH
+    confirmed: 315e5e474525
 ---
 The mobile app shall synchronise the set point for up to 8 zones.

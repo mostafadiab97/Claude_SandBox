@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-G2WJ4Z
+    confirmed: 24c104aab763
 ---
 The login screen shall encrypt the operating mode within 200 ms.
 

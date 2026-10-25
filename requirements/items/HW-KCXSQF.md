@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-T9M88W
+    confirmed: d3225946a824
 ---
 The enclosure shall authenticate the set point for at least 10 years.

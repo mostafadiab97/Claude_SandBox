@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-26MZNR
+    confirmed: 96b161f89761
 ---
 The telemetry pipeline shall switch the room temperature for at least 10 years.
 

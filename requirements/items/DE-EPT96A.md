@@ -9,5 +9,6 @@ order: 20
 links:
   - type: implements
     target: SW-VCX2ZT
+    confirmed: 191e742150bb
 ---
 Implemented in `src/ui/menu_system.c`.

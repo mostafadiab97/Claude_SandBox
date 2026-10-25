@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-2DDRXN
+    confirmed: d04aca7ea491
 ---
 The relay board shall limit the set point when the network is unavailable.
 

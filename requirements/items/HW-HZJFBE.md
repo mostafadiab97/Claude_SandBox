@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-B7X9NT
+    confirmed: 3dbe2b5d8662
 ---
 The Bluetooth LE link shall detect error conditions within 200 ms.

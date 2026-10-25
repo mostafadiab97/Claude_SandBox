@@ -13,6 +13,7 @@ order: 1090
 links:
   - type: verifies
     target: SYS-8FK5CW
+    confirmed: a4a8351402a3
 ---
 **Objective:** verify that the device behaves as specified.
 

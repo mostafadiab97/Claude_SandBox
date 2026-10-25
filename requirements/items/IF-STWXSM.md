@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: IF-AGNW91
+    confirmed: b5ddeb879a69
 ---
 The status LED shall store energy consumption in all supported languages.

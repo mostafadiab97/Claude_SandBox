@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-KQAHRZ
+    confirmed: 32db0e11587f
 ---
 The user account service shall validate audit records with an accuracy of ±0.5 °C.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-WBEJJ8
+    confirmed: 8b169ee65246
 ---
 The Bluetooth LE link shall detect the room temperature using AES-256-GCM.
 

@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-SXY642
+    confirmed: a708fd825329
 ---
 The heat pump driver shall validate energy consumption with an accuracy of ±0.5 °C.

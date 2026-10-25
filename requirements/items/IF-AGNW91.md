@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-K86C96
+    confirmed: ddea1423ffa8
 ---
 The status LED shall calibrate error conditions for at least 10 years.

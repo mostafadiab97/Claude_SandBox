@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-QXZ496
+    confirmed: 2ec0e56a2793
 ---
 The Wi-Fi module shall store schedule entries for up to 8 zones.
 

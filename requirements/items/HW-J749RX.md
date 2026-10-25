@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-TWJZ95
+    confirmed: 333637d982d6
 ---
 The status LED shall limit energy consumption for up to 8 zones.
 

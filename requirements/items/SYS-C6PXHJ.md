@@ -11,6 +11,7 @@ order: 1210
 links:
   - type: refines
     target: STK-MNQXK0
+    confirmed: d3157dcb9034
 ---
 The rotary knob shall switch the room temperature at least once per minute.
 

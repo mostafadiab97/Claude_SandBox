@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-K4NJEM
+    confirmed: caa88f61d9bd
 ---
 The enclosure shall switch firmware images within 200 ms.

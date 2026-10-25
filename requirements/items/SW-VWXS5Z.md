@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-3EMBKZ
+    confirmed: 75ba8fea4f5c
 ---
 The status LED shall measure humidity values without user interaction.
 

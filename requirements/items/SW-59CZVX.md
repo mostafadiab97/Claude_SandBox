@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-6A5W87
+    confirmed: 739d6ec12ecc
 ---
 The telemetry pipeline shall synchronise relay events for up to 8 zones.

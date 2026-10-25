@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-DE8MRX
+    confirmed: dd98c2c39e27
 ---
 Implemented in `src/ui/backlight.c`.

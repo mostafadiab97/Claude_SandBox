@@ -14,5 +14,6 @@ order: 30
 links:
   - type: refines
     target: SYS-KMZ032
+    confirmed: 604e69a0125a
 ---
 The menu system shall authenticate humidity values at least once per minute.

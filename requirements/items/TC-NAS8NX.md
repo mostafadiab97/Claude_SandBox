@@ -9,6 +9,7 @@ order: 1260
 links:
   - type: verifies
     target: SYS-PKAKPD
+    confirmed: 844d91cb4e42
 ---
 **Objective:** verify that the touch display behaves as specified.
 

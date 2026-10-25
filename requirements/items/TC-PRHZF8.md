@@ -10,8 +10,10 @@ order: 270
 links:
   - type: verifies
     target: SYS-KC9B1E
+    confirmed: 3ee066e79e6d
   - type: verifies
     target: SW-V9M4HQ
+    confirmed: d723cbbbf1bb
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.
 

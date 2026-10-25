@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-K93N9B
+    confirmed: e0ece5df8764
 ---
 The telemetry pipeline shall calibrate the connection state within 200 ms.
 

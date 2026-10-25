@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-TXF8EG
+    confirmed: 941441170ff9
 ---
 The regulation loop shall authenticate the set point below 0.5 W in standby.
 

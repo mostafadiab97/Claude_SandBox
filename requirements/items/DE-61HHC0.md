@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-RSRRDG
+    confirmed: 1bad6df9fdc4
 ---
 Implemented in `src/safe/secure_boot.c`.

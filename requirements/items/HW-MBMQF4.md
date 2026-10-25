@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-BKCGFY
+    confirmed: cca1fb8df9ed
 ---
 The schedule editor shall encrypt energy consumption for up to 8 zones.
 

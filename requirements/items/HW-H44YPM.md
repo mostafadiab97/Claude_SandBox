@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-M533EE
+    confirmed: 7d245035a878
 ---
 The battery backup shall authenticate energy consumption below 0.5 W in standby.
 

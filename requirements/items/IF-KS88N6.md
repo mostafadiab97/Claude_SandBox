@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-RJDTZ9
+    confirmed: e76b1fb2127a
 ---
 The menu system shall limit safety limits using AES-256-GCM.
 

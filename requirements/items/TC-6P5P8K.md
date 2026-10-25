@@ -12,6 +12,7 @@ order: 1760
 links:
   - type: verifies
     target: SYS-1HN03J
+    confirmed: e85c5bf1399b
 ---
 **Objective:** verify that the device behaves as specified.
 

@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-FCT3MK
+    confirmed: bc66988537d7
 ---
 The schedule editor shall log user preferences after a power loss.
 

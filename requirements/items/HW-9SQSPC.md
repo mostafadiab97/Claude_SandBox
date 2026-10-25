@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ZCATXC
+    confirmed: b58d7a4ac260
 ---
 The Zigbee radio shall limit user preferences without user interaction.
 

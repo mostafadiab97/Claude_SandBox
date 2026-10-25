@@ -10,6 +10,7 @@ order: 1380
 links:
   - type: verifies
     target: SYS-SNV0V5
+    confirmed: e469f30b51d1
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

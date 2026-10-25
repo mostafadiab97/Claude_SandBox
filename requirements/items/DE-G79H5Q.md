@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-PYXB6V
+    confirmed: da80da4d9363
 ---
 Implemented in `src/safe/secure_boot.c`.

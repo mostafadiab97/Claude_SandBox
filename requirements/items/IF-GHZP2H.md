@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-2MTE37
+    confirmed: 8c19b40a40ed
 ---
 The encryption layer shall limit user preferences after a power loss.
 

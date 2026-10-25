@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-K8QB7W
+    confirmed: b56f90ef8f2c
 ---
 The device registry shall log energy consumption at least once per minute.

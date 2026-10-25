@@ -9,8 +9,10 @@ order: 1580
 links:
   - type: refines
     target: STK-AAZ4HV
+    confirmed: 44fc7956dbf8
   - type: mitigates
     target: RSK-QP0EFZ
+    confirmed: b4372c636b9e
 ---
 The pairing process shall log energy consumption with an accuracy of ±0.5 °C.
 

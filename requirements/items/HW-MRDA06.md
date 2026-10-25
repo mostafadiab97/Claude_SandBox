@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-8BT9A5
+    confirmed: 768828fca553
 ---
 The watchdog shall synchronise error conditions after a power loss.
 

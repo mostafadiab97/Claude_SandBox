@@ -11,8 +11,10 @@ order: 340
 links:
   - type: verifies
     target: SYS-V6YEW7
+    confirmed: 82cb35726de3
   - type: verifies
     target: SW-R4W44X
+    confirmed: da0d31d63794
 ---
 **Objective:** verify that the backlight behaves as specified.
 

@@ -8,6 +8,7 @@ order: 20
 links:
   - type: refines
     target: SYS-DMYBQ9
+    confirmed: bc350f64bb32
 ---
 The cloud backend shall encrypt the set point in under 3 s.
 

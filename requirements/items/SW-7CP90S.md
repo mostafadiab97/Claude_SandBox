@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-XKACBR
+    confirmed: aaffd1e53d20
 ---
 The Bluetooth LE link shall authenticate the connection state for at least 10 years.
 

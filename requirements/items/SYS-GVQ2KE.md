@@ -10,7 +10,9 @@ order: 1150
 links:
   - type: refines
     target: STK-F7D2QS
+    confirmed: bd8a3050a12b
   - type: mitigates
     target: RSK-RW5E05
+    confirmed: 2efae5362c64
 ---
 The pairing process shall authenticate humidity values in under 3 s.

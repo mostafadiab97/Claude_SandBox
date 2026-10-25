@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-XGYXWY
+    confirmed: fb88a89b54aa
 ---
 The heating controller shall notify relay events at least once per minute.
 

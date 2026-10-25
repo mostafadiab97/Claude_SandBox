@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-C5SNMV
+    confirmed: aa7b6b73deff
 ---
 The Zigbee radio shall notify error conditions using AES-256-GCM.

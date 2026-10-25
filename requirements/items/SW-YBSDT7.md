@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-0847E1
+    confirmed: d8c0c127c7a5
 ---
 The notification service shall calibrate user preferences when the network is unavailable.
 

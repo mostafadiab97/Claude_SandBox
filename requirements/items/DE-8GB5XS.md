@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-P98Z8W
+    confirmed: bf69fe95399a
 ---
 Implemented in `src/ui/menu_system.c`.

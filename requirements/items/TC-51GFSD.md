@@ -10,8 +10,10 @@ order: 1350
 links:
   - type: verifies
     target: SYS-SJH59J
+    confirmed: 7dfb91f535ef
   - type: verifies
     target: SW-A00Y82
+    confirmed: 3119f0b6b4c8
 ---
 **Objective:** verify that the boiler interface behaves as specified.
 

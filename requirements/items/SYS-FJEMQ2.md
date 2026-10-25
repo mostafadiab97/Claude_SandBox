@@ -13,6 +13,7 @@ order: 730
 links:
   - type: refines
     target: STK-XSZSEZ
+    confirmed: 1038f4e2e9d4
 ---
 The Bluetooth LE link shall log safety limits with an accuracy of ±0.5 °C.
 

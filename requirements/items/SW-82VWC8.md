@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-781NXX
+    confirmed: cda58af9c59f
 ---
 The login screen shall report the connection state at least once per minute.
 

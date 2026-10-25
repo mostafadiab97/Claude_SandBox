@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-FHYWXP
+    confirmed: 3d63ea693d7b
 ---
 The power supply shall limit audit records for at least 10 years.
 

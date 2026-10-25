@@ -13,6 +13,7 @@ order: 1740
 links:
   - type: refines
     target: STK-R8QH58
+    confirmed: 13d6784d2cc9
 ---
 The cloud backend shall notify the room temperature below 0.5 W in standby.
 

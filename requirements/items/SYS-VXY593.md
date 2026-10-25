@@ -12,6 +12,7 @@ order: 1630
 links:
   - type: refines
     target: STK-7F9256
+    confirmed: 5588db2eb80a
 ---
 The main PCB shall synchronise error conditions in under 3 s.
 

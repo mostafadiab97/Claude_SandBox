@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-ECFS03
+    confirmed: b4e6c19774a0
 ---
 The schedule editor shall restore user preferences without user interaction.
 

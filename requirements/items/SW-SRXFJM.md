@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-4R41VA
+    confirmed: 83721f87c9d0
 ---
 The pairing process shall display the operating mode at least once per minute.
 

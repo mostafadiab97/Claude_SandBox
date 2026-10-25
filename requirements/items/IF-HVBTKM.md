@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-BHD8S6
+    confirmed: b4b9539a5d88
 ---
 The encryption layer shall store audit records for up to 8 zones.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-V8GBRT
+    confirmed: 4d8dd94bd30e
 ---
 The home dashboard shall report the operating mode below 0.5 W in standby.
 

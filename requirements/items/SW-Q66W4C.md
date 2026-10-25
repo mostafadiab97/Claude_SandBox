@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SW-CN0XQA
+    confirmed: f0c87b0c4ded
 ---
 The login screen shall validate the set point below 0.5 W in standby.

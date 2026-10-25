@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-H1CNKW
+    confirmed: 9861456efecc
 ---
 The touch display shall report the set point below 0.5 W in standby.
 

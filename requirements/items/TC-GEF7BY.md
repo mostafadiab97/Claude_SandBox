@@ -9,8 +9,10 @@ order: 510
 links:
   - type: verifies
     target: SYS-VB3BED
+    confirmed: 7ba2d9f9c3fd
   - type: verifies
     target: SW-6KEF7V
+    confirmed: 3b26921fc961
 ---
 **Objective:** verify that the backlight behaves as specified.
 

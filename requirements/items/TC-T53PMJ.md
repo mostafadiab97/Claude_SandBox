@@ -10,8 +10,10 @@ order: 1440
 links:
   - type: verifies
     target: SYS-9W9NZD
+    confirmed: 4875c522f62f
   - type: verifies
     target: SW-BERKW5
+    confirmed: 4ff3c09d3986
 ---
 **Objective:** verify that the touch display behaves as specified.
 

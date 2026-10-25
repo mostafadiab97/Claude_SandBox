@@ -12,6 +12,7 @@ order: 550
 links:
   - type: refines
     target: STK-W1SAZ0
+    confirmed: f0954f8ba0a2
 ---
 The heating controller shall report the connection state in all supported languages.
 

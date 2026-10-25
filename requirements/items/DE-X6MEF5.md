@@ -11,5 +11,6 @@ order: 20
 links:
   - type: implements
     target: SW-GEQD7V
+    confirmed: b4c2cec05ff8
 ---
 Implemented in `src/heat/boiler_interface.c`.

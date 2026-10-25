@@ -12,8 +12,10 @@ order: 1570
 links:
   - type: verifies
     target: SYS-JAKPTT
+    confirmed: 83294ed50340
   - type: verifies
     target: SW-EB45BR
+    confirmed: 74bdaa9f6306
 ---
 **Objective:** verify that the device registry behaves as specified.
 

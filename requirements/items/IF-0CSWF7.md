@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: IF-EKPVRY
+    confirmed: 4289b930edd3
 ---
 The power supply shall encrypt the room temperature at least once per minute.

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-EZJ9GT
+    confirmed: 77bea35604f8
 ---
 The rotary knob shall notify the connection state without user interaction.
 

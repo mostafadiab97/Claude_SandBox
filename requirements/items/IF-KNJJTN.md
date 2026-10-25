@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-1T0TAM
+    confirmed: 834d1bdeda5b
 ---
 The battery backup shall log the connection state in under 3 s.
 

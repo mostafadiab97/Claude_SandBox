@@ -12,8 +12,10 @@ order: 1690
 links:
   - type: verifies
     target: SYS-X1EA2B
+    confirmed: 4f643ca54fad
   - type: verifies
     target: SW-5H3R25
+    confirmed: d0a887012e16
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

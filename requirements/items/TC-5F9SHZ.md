@@ -9,6 +9,7 @@ order: 1460
 links:
   - type: verifies
     target: SYS-A8AYK0
+    confirmed: 7c18672779dd
 ---
 **Objective:** verify that the device behaves as specified.
 

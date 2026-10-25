@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-FN6K6C
+    confirmed: de635490bacc
 ---
 The enclosure shall log audit records below 0.5 W in standby.
 

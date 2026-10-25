@@ -9,6 +9,7 @@ order: 280
 links:
   - type: verifies
     target: SYS-6PYBJD
+    confirmed: fd85d789dbcd
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

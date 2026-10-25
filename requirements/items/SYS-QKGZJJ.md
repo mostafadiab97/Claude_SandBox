@@ -14,6 +14,7 @@ order: 1270
 links:
   - type: refines
     target: STK-4F6B1Y
+    confirmed: 4a1d76b1da2c
 ---
 The schedule editor shall limit safety limits within 200 ms.
 

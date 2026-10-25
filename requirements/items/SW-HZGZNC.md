@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-TC6D27
+    confirmed: e414fb53df16
 ---
 The over-temperature monitor shall store the set point in all supported languages.
 

@@ -9,6 +9,7 @@ order: 1420
 links:
   - type: refines
     target: STK-922G3A
+    confirmed: ea4a6a665922
 ---
 The main PCB shall encrypt access tokens when the network is unavailable.
 

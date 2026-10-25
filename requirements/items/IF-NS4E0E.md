@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: IF-KQ3YF2
+    confirmed: 84cde946314c
 ---
 The Zigbee radio shall limit error conditions for at least 10 years.
 

@@ -12,6 +12,7 @@ order: 390
 links:
   - type: verifies
     target: SYS-9TKGBW
+    confirmed: cdd3f206f1b7
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

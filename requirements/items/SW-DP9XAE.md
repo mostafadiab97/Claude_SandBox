@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-A6TWWN
+    confirmed: bf12fa6151fd
 ---
 The notification service shall restore energy consumption using AES-256-GCM.
 

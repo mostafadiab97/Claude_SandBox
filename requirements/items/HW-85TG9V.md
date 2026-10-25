@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-G8P704
+    confirmed: ac1f313d67a2
 ---
 The menu system shall detect humidity values at least once per minute.
 

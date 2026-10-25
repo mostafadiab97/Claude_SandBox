@@ -14,8 +14,10 @@ order: 2130
 links:
   - type: refines
     target: STK-1TB226
+    confirmed: ea29425b18b7
   - type: mitigates
     target: RSK-JW7YBZ
+    confirmed: fdd2a6f94f2a
 ---
 The watchdog shall report audit records in all supported languages.
 

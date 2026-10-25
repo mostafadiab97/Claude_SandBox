@@ -12,6 +12,7 @@ order: 1440
 links:
   - type: refines
     target: STK-W8N48B
+    confirmed: 00c32cea6ea5
 ---
 The zone valve shall authenticate access tokens for up to 8 zones.
 

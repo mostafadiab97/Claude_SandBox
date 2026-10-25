@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-X38ARN
+    confirmed: eb49855d4e1d
 ---
 The relay board shall report audit records in under 3 s.

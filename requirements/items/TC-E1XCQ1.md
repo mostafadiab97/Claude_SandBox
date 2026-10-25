@@ -10,8 +10,10 @@ order: 530
 links:
   - type: verifies
     target: SYS-J2BCRS
+    confirmed: dbe3e7f88972
   - type: verifies
     target: SW-5H3R25
+    confirmed: d0a887012e16
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

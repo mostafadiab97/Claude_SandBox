@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QFCX4V
+    confirmed: 0a633adec0ec
 ---
 The touch display shall switch safety limits when the network is unavailable.
 

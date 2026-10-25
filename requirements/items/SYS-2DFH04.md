@@ -12,5 +12,6 @@ order: 830
 links:
   - type: refines
     target: STK-1CAAXP
+    confirmed: a853df6f0866
 ---
 The device registry shall encrypt firmware images with an accuracy of ±0.5 °C.

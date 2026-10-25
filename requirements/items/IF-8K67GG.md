@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-TYH61D
+    confirmed: be2e7216bf63
 ---
 The touch display shall synchronise sensor readings for up to 8 zones.
 

@@ -13,6 +13,7 @@ order: 1020
 links:
   - type: verifies
     target: SYS-RAASTZ
+    confirmed: 6b0c923b5313
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

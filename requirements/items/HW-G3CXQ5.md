@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: SYS-DH9YV1
+    confirmed: f434ce225b84
 ---
 The OTA server shall report energy consumption without user interaction.

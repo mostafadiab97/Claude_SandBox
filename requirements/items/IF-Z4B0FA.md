@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-TTC476
+    confirmed: fcf4c01f1afd
 ---
 The enclosure shall switch the set point for up to 8 zones.
 

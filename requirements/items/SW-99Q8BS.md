@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QNMZ6J
+    confirmed: 988a557fd818
 ---
 The tamper detection shall notify access tokens when the network is unavailable.
 

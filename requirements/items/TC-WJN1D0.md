@@ -14,6 +14,7 @@ order: 280
 links:
   - type: verifies
     target: SYS-29G535
+    confirmed: 68b37681cbe6
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

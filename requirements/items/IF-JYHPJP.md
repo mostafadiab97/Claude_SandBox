@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-1KYW4V
+    confirmed: b5edec3ba8f3
 ---
 The Zigbee radio shall report humidity values with an accuracy of ±0.5 °C.

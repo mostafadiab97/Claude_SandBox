@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-1HN03J
+    confirmed: e85c5bf1399b
 ---
 The encryption layer shall calibrate the set point below 0.5 W in standby.
 

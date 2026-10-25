@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-AXR87X
+    confirmed: 4959dec1f97d
 ---
 The notification service shall limit sensor readings below 0.5 W in standby.

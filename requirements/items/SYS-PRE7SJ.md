@@ -10,8 +10,10 @@ order: 150
 links:
   - type: refines
     target: STK-HH6ZNR
+    confirmed: caa77fe9df1c
   - type: mitigates
     target: RSK-ZJD18Y
+    confirmed: 94e509946a5c
 ---
 The touch display shall notify audit records in all supported languages.
 

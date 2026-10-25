@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-JKDR8H
+    confirmed: 85d240523d89
 ---
 The backlight shall report relay events within 200 ms.
 

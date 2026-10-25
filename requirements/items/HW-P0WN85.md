@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-8A6J2S
+    confirmed: e71fab5032e0
 ---
 The main PCB shall authenticate user preferences using AES-256-GCM.
 

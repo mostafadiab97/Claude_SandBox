@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-6ES66C
+    confirmed: ec8cd1bbb3ad
 ---
 The home dashboard shall validate the room temperature for up to 8 zones.
 

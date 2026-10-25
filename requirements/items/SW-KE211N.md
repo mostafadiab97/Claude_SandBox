@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-FCT3MK
+    confirmed: bc66988537d7
 ---
 The schedule editor shall switch error conditions for at least 10 years.
 

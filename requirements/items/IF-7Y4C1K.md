@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-T44M5X
+    confirmed: b93a511f8f0f
 ---
 The notification service shall validate error conditions after a power loss.
 

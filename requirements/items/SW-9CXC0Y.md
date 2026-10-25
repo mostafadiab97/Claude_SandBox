@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-BM27EB
+    confirmed: 044815c5b2d6
 ---
 The watchdog shall report access tokens with an accuracy of ±0.5 °C.
 

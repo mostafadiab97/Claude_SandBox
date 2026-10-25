@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-34DWM5
+    confirmed: ac229c214d4c
 ---
 The Zigbee radio shall switch humidity values in all supported languages.
 

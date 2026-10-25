@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-G8M4SE
+    confirmed: df8c85150795
 ---
 The device registry shall report schedule entries below 0.5 W in standby.
 

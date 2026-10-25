@@ -10,8 +10,10 @@ order: 140
 links:
   - type: verifies
     target: SYS-TTC476
+    confirmed: c20a655c1dc7
   - type: verifies
     target: SW-XR8SYF
+    confirmed: eac962e658d0
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

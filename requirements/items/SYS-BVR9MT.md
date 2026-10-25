@@ -10,6 +10,7 @@ order: 740
 links:
   - type: refines
     target: STK-FWM06B
+    confirmed: bbd40f488fa4
 ---
 The backlight shall store the operating mode in all supported languages.
 

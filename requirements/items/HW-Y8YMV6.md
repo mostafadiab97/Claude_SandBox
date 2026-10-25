@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-R6T7X1
+    confirmed: 03767e5db5f8
 ---
 The battery backup shall calibrate the room temperature at least once per minute.

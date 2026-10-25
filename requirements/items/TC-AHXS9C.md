@@ -10,6 +10,7 @@ order: 90
 links:
   - type: verifies
     target: SYS-GK8E6S
+    confirmed: 3497825150a9
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

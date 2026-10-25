@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-5XH32A
+    confirmed: b60352f5d5a1
 ---
 Implemented in `src/conn/pairing_process.c`.

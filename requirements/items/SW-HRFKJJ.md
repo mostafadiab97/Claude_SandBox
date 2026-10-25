@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-AE2EKW
+    confirmed: e00530755be8
 ---
 The Zigbee radio shall display access tokens after a power loss.
 

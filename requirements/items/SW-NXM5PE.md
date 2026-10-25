@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-5T8QY1
+    confirmed: e938f1e76d9e
 ---
 The user account service shall detect the room temperature without user interaction.

@@ -10,8 +10,10 @@ order: 2040
 links:
   - type: refines
     target: STK-GMCKMF
+    confirmed: f47328374a2b
   - type: mitigates
     target: RSK-QP0EFZ
+    confirmed: b4372c636b9e
 ---
 The pairing process shall notify sensor readings at least once per minute.
 

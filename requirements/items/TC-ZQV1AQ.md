@@ -10,6 +10,7 @@ order: 770
 links:
   - type: verifies
     target: SYS-KC8K49
+    confirmed: d331f9bc5a8a
 ---
 **Objective:** verify that the device behaves as specified.
 

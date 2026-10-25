@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-5PV5FX
+    confirmed: b948ad16ad2c
 ---
 The menu system shall calibrate the set point without user interaction.
 

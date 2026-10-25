@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-E3TBDW
+    confirmed: c0e6f0c26e10
 ---
 The local API shall calibrate the operating mode below 0.5 W in standby.
 

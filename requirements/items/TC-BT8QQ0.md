@@ -13,8 +13,10 @@ order: 410
 links:
   - type: verifies
     target: SYS-4AZ7BD
+    confirmed: cd9c225e18ad
   - type: verifies
     target: SW-XB5G6T
+    confirmed: ab37a081d370
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

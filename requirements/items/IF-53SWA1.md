@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-X1EA2B
+    confirmed: 4f643ca54fad
 ---
 The enclosure shall report user preferences without user interaction.
 

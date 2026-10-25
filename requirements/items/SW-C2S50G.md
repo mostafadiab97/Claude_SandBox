@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-S0DBYP
+    confirmed: edb84b967ce3
 ---
 The boiler interface shall store the set point without user interaction.

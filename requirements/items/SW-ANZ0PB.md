@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-DRG6R3
+    confirmed: 08f38a1d34b8
 ---
 The OTA server shall restore the operating mode with an accuracy of ±0.5 °C.
 

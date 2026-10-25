@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-0S985C
+    confirmed: 9e01085ff5ca
 ---
 The local API shall display the operating mode in all supported languages.
 

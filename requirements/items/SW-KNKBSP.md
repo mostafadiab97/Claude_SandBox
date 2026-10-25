@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-CFWA46
+    confirmed: 13df4104599e
 ---
 The watchdog shall display schedule entries below 0.5 W in standby.

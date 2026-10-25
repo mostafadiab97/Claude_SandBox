@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-J06B7Z
+    confirmed: 2ddf44dea71d
 ---
 The menu system shall synchronise schedule entries for at least 10 years.
 

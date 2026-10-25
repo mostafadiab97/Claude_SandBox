@@ -11,8 +11,10 @@ order: 80
 links:
   - type: relates-to
     target: TC-GX7NG7
+    confirmed: 1f75e64a55a1
   - type: relates-to
     target: SYS-JWK81Y
+    confirmed: 8656508483c4
 ---
 Found during regression testing of build 2.5.11.
 

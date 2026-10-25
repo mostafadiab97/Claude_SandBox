@@ -10,5 +10,6 @@ order: 210
 links:
   - type: refines
     target: STK-AKFTAC
+    confirmed: 3cca48da4b1c
 ---
 The watchdog shall detect schedule entries for at least 10 years.

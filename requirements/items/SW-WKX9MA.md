@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-J3J8BZ
+    confirmed: d99f27aaae6a
 ---
 The local API shall restore the connection state for at least 10 years.
 

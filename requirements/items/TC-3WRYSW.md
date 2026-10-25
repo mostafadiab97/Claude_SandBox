@@ -10,6 +10,7 @@ order: 480
 links:
   - type: verifies
     target: SYS-NADNAY
+    confirmed: 7956526ae9f5
 ---
 **Objective:** verify that the touch display behaves as specified.
 

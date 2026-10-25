@@ -10,6 +10,7 @@ order: 1160
 links:
   - type: refines
     target: STK-G2H1B9
+    confirmed: fce33b342585
 ---
 The tamper detection shall store relay events using AES-256-GCM.
 

@@ -12,6 +12,7 @@ order: 300
 links:
   - type: refines
     target: STK-MNQXK0
+    confirmed: d3157dcb9034
 ---
 The backlight shall log relay events in all supported languages.
 

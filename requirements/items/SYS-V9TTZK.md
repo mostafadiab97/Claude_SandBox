@@ -13,6 +13,7 @@ order: 1390
 links:
   - type: refines
     target: STK-QN5QGR
+    confirmed: ae0f58e089a1
 ---
 The telemetry pipeline shall measure relay events after a power loss.
 

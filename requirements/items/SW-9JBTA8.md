@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-YWXHFA
+    confirmed: ee4bee4c5185
 ---
 The device registry shall detect the connection state after a power loss.
 

@@ -12,6 +12,7 @@ order: 320
 links:
   - type: verifies
     target: SYS-X38ARN
+    confirmed: eb49855d4e1d
 ---
 **Objective:** verify that the relay board behaves as specified.
 

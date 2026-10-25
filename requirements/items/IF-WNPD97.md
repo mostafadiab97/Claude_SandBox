@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-82CVHQ
+    confirmed: 53eb98981ee7
 ---
 The power supply shall report access tokens when the network is unavailable.
 

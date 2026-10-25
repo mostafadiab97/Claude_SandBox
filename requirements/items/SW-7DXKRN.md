@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-JAKPTT
+    confirmed: c8ec22696e3b
 ---
 The device registry shall restore the set point below 0.5 W in standby.
 

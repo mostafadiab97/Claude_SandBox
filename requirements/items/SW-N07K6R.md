@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-X7Q0GZ
+    confirmed: 1f0c64db8df4
 ---
 The telemetry pipeline shall display the connection state at least once per minute.
 

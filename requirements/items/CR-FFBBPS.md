@@ -12,6 +12,7 @@ order: 50
 links:
   - type: relates-to
     target: SYS-QGA0VX
+    confirmed: 773f6956359c
 ---
 Requested by customer support (ticket #15663).
 

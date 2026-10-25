@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-J3EKW6
+    confirmed: 7e4eee25d689
 ---
 The login screen shall encrypt the operating mode for at least 10 years.
 

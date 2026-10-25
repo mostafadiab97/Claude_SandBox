@@ -14,6 +14,7 @@ order: 1050
 links:
   - type: verifies
     target: SYS-J3QEM9
+    confirmed: 78aeb447b6ae
 ---
 **Objective:** verify that the device behaves as specified.
 

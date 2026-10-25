@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SYS-RGPMZF
+    confirmed: 44306853822b
 ---
 The cloud backend shall restore access tokens for up to 8 zones.

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-WT0723
+    confirmed: cf712a2f2dbd
 ---
 The heat pump driver shall synchronise access tokens below 0.5 W in standby.
 

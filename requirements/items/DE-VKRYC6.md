@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-K4CCF1
+    confirmed: c403b89e1ad9
 ---
 Implemented in `src/app/mobile_app.c`.

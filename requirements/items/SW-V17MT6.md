@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-D5BE23
+    confirmed: 909e2792e686
 ---
 The status LED shall measure schedule entries after a power loss.

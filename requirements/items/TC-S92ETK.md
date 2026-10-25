@@ -14,6 +14,7 @@ order: 760
 links:
   - type: verifies
     target: SYS-SS4F7X
+    confirmed: 072a30500dc2
 ---
 **Objective:** verify that the touch display behaves as specified.
 

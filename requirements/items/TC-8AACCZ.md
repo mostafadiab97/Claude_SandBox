@@ -10,8 +10,10 @@ order: 560
 links:
   - type: verifies
     target: SYS-1NHXCW
+    confirmed: e694361bd48d
   - type: verifies
     target: SW-Y2C20F
+    confirmed: 86644ed6fccb
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.
 

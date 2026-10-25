@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-2B13NX
+    confirmed: 5fda8f4cc9f5
 ---
 The heating controller shall display the room temperature for up to 8 zones.
 

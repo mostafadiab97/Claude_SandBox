@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-N7H58H
+    confirmed: a8a06726344d
 ---
 The watchdog shall log user preferences below 0.5 W in standby.
 

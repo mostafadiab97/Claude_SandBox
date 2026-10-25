@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-49FF9M
+    confirmed: de1a22bc8031
 ---
 The tamper detection shall limit user preferences after a power loss.

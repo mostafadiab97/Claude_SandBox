@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-796A9N
+    confirmed: cfcec3502269
 ---
 The relay board shall report the set point after a power loss.
 

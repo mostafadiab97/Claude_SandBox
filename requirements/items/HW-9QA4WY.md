@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-FS8JEV
+    confirmed: 0f8454ecd67d
 ---
 The mobile app shall report the room temperature after a power loss.

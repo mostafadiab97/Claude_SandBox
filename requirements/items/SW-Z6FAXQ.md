@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-ACFDCK
+    confirmed: 2867a35b0ea7
 ---
 The Wi-Fi module shall detect the connection state using AES-256-GCM.

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-ANP21Y
+    confirmed: 3e91619f12fb
 ---
 The cloud backend shall switch user preferences without user interaction.

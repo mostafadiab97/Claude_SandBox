@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-913VEK
+    confirmed: 791be17ead25
 ---
 Implemented in `src/conn/pairing_process.c`.

@@ -10,6 +10,7 @@ order: 540
 links:
   - type: verifies
     target: SYS-RJBYTY
+    confirmed: 8b795ddb3eaf
 ---
 **Objective:** verify that the touch display behaves as specified.
 

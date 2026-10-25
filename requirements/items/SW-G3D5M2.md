@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-AZWQYS
+    confirmed: 00d3546fe417
 ---
 The boiler interface shall report firmware images when the network is unavailable.
 

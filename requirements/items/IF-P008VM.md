@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-6860KX
+    confirmed: b248eb8f7c40
 ---
 The watchdog shall display error conditions at least once per minute.
 

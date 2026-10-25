@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-B19CRP
+    confirmed: 9dc800f53108
 ---
 The status LED shall store the connection state for up to 8 zones.
 

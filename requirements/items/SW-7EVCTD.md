@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-3EMBKZ
+    confirmed: 75ba8fea4f5c
 ---
 The status LED shall store safety limits with an accuracy of ±0.5 °C.
 

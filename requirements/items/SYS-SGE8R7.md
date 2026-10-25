@@ -13,8 +13,10 @@ order: 420
 links:
   - type: refines
     target: STK-JAQHJP
+    confirmed: b0af11a5c3c2
   - type: mitigates
     target: RSK-3VPDQ8
+    confirmed: 3cf91f6b37bc
 ---
 The power supply shall encrypt user preferences for up to 8 zones.
 

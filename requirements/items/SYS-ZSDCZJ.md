@@ -13,5 +13,6 @@ order: 2340
 links:
   - type: refines
     target: STK-M28XWW
+    confirmed: bcf262f10744
 ---
 The battery backup shall log the connection state with an accuracy of ±0.5 °C.

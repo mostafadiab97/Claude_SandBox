@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-J86K99
+    confirmed: cd639bbeedd1
 ---
 The device registry shall validate safety limits below 0.5 W in standby.
 

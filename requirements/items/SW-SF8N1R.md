@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-2DFH04
+    confirmed: 051320b022ae
 ---
 The device registry shall calibrate safety limits within 200 ms.
 

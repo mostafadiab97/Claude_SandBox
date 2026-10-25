@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-BKCVJB
+    confirmed: 7750ef7b4cd4
 ---
 The watchdog shall synchronise the room temperature at least once per minute.
 

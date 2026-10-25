@@ -8,5 +8,6 @@ order: 10
 links:
   - type: implements
     target: SW-NMX28D
+    confirmed: a642f03452f5
 ---
 Implemented in `src/ui/rotary_knob.c`.

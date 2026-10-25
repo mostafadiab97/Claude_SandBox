@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-0QZ4FS
+    confirmed: 83b1b69a9529
 ---
 The user account service shall validate audit records at least once per minute.
 

@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-SSMQPE
+    confirmed: 5f6b6dac23d7
 ---
 The telemetry pipeline shall validate safety limits in all supported languages.
 

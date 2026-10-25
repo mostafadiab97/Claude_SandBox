@@ -10,6 +10,7 @@ order: 1040
 links:
   - type: refines
     target: STK-G2ZBHW
+    confirmed: fee0d3303478
 ---
 The Bluetooth LE link shall restore schedule entries for at least 10 years.
 

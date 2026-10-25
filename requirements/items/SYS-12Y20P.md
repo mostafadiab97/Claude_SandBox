@@ -10,5 +10,6 @@ order: 720
 links:
   - type: refines
     target: STK-SM9B7Z
+    confirmed: 44235e2789f0
 ---
 The encryption layer shall encrypt the room temperature within 200 ms.

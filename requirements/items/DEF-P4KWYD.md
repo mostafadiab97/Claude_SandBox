@@ -13,8 +13,10 @@ order: 130
 links:
   - type: relates-to
     target: TC-XTRJVZ
+    confirmed: d552f36705c8
   - type: relates-to
     target: SYS-JSEPSH
+    confirmed: 07bbcfe4ef37
 ---
 Found during regression testing of build 2.0.35.
 

@@ -11,7 +11,9 @@ order: 1490
 links:
   - type: refines
     target: STK-XSZSEZ
+    confirmed: 1038f4e2e9d4
   - type: mitigates
     target: RSK-PV2FA3
+    confirmed: b0d749ed0447
 ---
 The Wi-Fi module shall synchronise schedule entries in all supported languages.

@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-NW2H4K
+    confirmed: 061c07f59466
 ---
 The encryption layer shall validate user preferences for up to 8 zones.

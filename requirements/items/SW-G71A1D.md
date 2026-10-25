@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-7BRVTY
+    confirmed: f003d27313f2
 ---
 The home dashboard shall calibrate the operating mode using AES-256-GCM.
 

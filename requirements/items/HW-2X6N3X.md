@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-VEFG9D
+    confirmed: f2ed11769dc3
 ---
 The OTA server shall report relay events with an accuracy of ±0.5 °C.
 

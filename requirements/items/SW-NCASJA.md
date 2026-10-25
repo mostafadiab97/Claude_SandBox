@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-84MF5D
+    confirmed: 22eb4a53b603
 ---
 The touch display shall report humidity values within 200 ms.
 

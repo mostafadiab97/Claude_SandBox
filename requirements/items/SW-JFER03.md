@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SW-YPVPDW
+    confirmed: 6d5a3e691cf4
 ---
 The notification service shall notify access tokens in under 3 s.

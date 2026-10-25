@@ -13,6 +13,7 @@ order: 740
 links:
   - type: verifies
     target: SYS-RZQXR0
+    confirmed: 12216b2c0a19
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

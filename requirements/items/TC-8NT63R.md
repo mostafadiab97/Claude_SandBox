@@ -14,6 +14,7 @@ order: 650
 links:
   - type: verifies
     target: SYS-QRF69W
+    confirmed: 3f29c139da8b
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

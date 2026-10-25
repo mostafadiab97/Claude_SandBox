@@ -10,6 +10,7 @@ order: 90
 links:
   - type: verifies
     target: SYS-66QHTN
+    confirmed: 65154f9b889c
 ---
 **Objective:** verify that the local API behaves as specified.
 

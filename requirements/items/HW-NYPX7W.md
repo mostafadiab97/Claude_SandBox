@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-60M6A4
+    confirmed: 951d86cd447b
 ---
 The cloud backend shall report the room temperature within 200 ms.
 

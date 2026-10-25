@@ -10,6 +10,7 @@ order: 450
 links:
   - type: verifies
     target: SYS-6ES66C
+    confirmed: ec8cd1bbb3ad
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-MK7X5V
+    confirmed: 075ff0f225a2
 ---
 The Zigbee radio shall store error conditions in under 3 s.
 

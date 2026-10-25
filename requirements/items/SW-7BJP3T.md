@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-HKPNTA
+    confirmed: 1b21455ffebe
 ---
 The over-temperature monitor shall measure the set point for at least 10 years.
 

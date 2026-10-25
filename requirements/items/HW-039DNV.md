@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-JRYFKW
+    confirmed: eaf4dadef412
 ---
 The power supply shall switch humidity values without user interaction.

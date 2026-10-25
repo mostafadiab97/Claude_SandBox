@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-BJEV5G
+    confirmed: c5698f4c4723
 ---
 The local API shall validate relay events with an accuracy of ±0.5 °C.
 

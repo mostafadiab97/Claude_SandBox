@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-0F1D8X
+    confirmed: de3125cc19b7
 ---
 The enclosure shall restore user preferences below 0.5 W in standby.
 

@@ -12,6 +12,7 @@ order: 1430
 links:
   - type: verifies
     target: SYS-DAW84D
+    confirmed: d28364cb190d
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

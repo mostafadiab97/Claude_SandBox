@@ -14,6 +14,7 @@ order: 2060
 links:
   - type: refines
     target: STK-R8QH58
+    confirmed: 13d6784d2cc9
 ---
 The telemetry pipeline shall log user preferences within 200 ms.
 

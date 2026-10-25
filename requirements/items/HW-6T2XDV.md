@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-H3FFZV
+    confirmed: 5a7f9180a50d
 ---
 The backlight shall store the operating mode in under 3 s.
 

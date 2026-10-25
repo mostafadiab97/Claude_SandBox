@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-T378HZ
+    confirmed: 8685bc40ef34
 ---
 The notification service shall log schedule entries for at least 10 years.
 

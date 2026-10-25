@@ -10,6 +10,7 @@ order: 620
 links:
   - type: refines
     target: STK-Q9RBYT
+    confirmed: a67c8b718d88
 ---
 The local API shall switch schedule entries in all supported languages.
 

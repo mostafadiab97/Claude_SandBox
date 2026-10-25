@@ -9,6 +9,7 @@ order: 610
 links:
   - type: refines
     target: STK-B4ZH98
+    confirmed: c19c22627f21
 ---
 The secure boot shall synchronise user preferences for up to 8 zones.
 

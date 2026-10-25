@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-ZWGKMZ
+    confirmed: de491092c347
 ---
 The menu system shall validate sensor readings at least once per minute.
 

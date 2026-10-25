@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-W2WVAG
+    confirmed: 2e87eec370fa
 ---
 The mobile app shall validate sensor readings at least once per minute.

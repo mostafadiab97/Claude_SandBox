@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-PN9GQ2
+    confirmed: fb057a0da125
 ---
 The Zigbee radio shall notify schedule entries in under 3 s.

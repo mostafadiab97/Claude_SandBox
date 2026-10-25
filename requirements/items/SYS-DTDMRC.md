@@ -9,6 +9,7 @@ order: 1630
 links:
   - type: refines
     target: STK-MNQXK0
+    confirmed: d3157dcb9034
 ---
 The status LED shall notify safety limits with an accuracy of ±0.5 °C.
 

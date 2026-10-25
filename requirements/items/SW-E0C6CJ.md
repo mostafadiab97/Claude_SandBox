@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-JP14AF
+    confirmed: 7e7a01db4f25
 ---
 The regulation loop shall report firmware images within 200 ms.

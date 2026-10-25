@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-XRA360
+    confirmed: 908f575295da
 ---
 The cloud backend shall validate the operating mode within 200 ms.
 

@@ -9,6 +9,7 @@ order: 1670
 links:
   - type: verifies
     target: SYS-G2YZ1M
+    confirmed: ea46b375483c
 ---
 **Objective:** verify that the device behaves as specified.
 

@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-3Z4RXV
+    confirmed: 6ca149f912b8
 ---
 The backlight shall notify humidity values at least once per minute.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-KR7GHB
+    confirmed: 8050d4028450
 ---
 The heat pump driver shall authenticate user preferences when the network is unavailable.
 

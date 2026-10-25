@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-Y8RNAD
+    confirmed: e21c897550a0
 ---
 The Zigbee radio shall notify safety limits below 0.5 W in standby.

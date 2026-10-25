@@ -13,7 +13,9 @@ order: 2170
 links:
   - type: refines
     target: STK-KEP05J
+    confirmed: 74304e03fe52
   - type: mitigates
     target: RSK-GX4MEK
+    confirmed: 9d07153fd24b
 ---
 The enclosure shall calibrate the connection state in all supported languages.

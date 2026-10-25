@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MGCE70
+    confirmed: 8713b2c65e08
 ---
 The tamper detection shall detect energy consumption using AES-256-GCM.
 

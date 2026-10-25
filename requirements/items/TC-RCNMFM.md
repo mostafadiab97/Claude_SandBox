@@ -13,6 +13,7 @@ order: 1280
 links:
   - type: verifies
     target: SYS-3PY964
+    confirmed: 3718c9e5d8ae
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

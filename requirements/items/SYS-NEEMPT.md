@@ -11,6 +11,7 @@ order: 1100
 links:
   - type: refines
     target: STK-W1SAZ0
+    confirmed: f0954f8ba0a2
 ---
 The heat pump driver shall encrypt access tokens for up to 8 zones.
 

@@ -13,6 +13,7 @@ order: 1390
 links:
   - type: refines
     target: STK-BR4RT9
+    confirmed: 16def0c1f947
 ---
 The home dashboard shall measure energy consumption at least once per minute.
 

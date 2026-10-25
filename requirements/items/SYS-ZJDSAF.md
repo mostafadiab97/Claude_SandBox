@@ -9,6 +9,7 @@ order: 840
 links:
   - type: refines
     target: STK-8W3602
+    confirmed: 25b39ad8cae7
 ---
 The zone valve shall calibrate relay events without user interaction.
 

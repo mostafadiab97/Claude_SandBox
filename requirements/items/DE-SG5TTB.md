@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-PPTXQK
+    confirmed: e6661010019e
 ---
 Implemented in `src/app/notification_service.c`.

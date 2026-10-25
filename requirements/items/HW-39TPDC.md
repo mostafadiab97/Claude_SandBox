@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-2G95V5
+    confirmed: c56996de7c48
 ---
 The relay board shall restore sensor readings in all supported languages.

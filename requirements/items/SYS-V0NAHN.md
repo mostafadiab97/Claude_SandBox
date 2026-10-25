@@ -9,5 +9,6 @@ order: 310
 links:
   - type: refines
     target: STK-M28XWW
+    confirmed: bcf262f10744
 ---
 The main PCB shall encrypt the set point using AES-256-GCM.

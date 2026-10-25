@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-3NFK47
+    confirmed: a62ecfbf4557
 ---
 The heat pump driver shall restore error conditions when the network is unavailable.

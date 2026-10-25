@@ -10,6 +10,7 @@ order: 1060
 links:
   - type: verifies
     target: SYS-JRYFKW
+    confirmed: eaf4dadef412
 ---
 **Objective:** verify that the power supply behaves as specified.
 

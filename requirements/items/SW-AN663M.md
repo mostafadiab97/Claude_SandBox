@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-4A9C1C
+    confirmed: 7e8a730cf0b5
 ---
 The touch display shall report safety limits below 0.5 W in standby.
 

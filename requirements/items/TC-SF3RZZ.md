@@ -10,8 +10,10 @@ order: 1180
 links:
   - type: verifies
     target: SYS-Y6AMBA
+    confirmed: 9d1ea6b10234
   - type: verifies
     target: SW-248X4W
+    confirmed: 9fc54428d2d9
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

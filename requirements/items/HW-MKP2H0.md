@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-RE1KVT
+    confirmed: 33051d32765f
 ---
 The regulation loop shall measure schedule entries below 0.5 W in standby.
 

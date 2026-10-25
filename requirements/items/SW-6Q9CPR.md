@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-SF88T3
+    confirmed: 209502b43a6d
 ---
 The rotary knob shall synchronise safety limits within 200 ms.
 

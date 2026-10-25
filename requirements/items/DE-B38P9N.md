@@ -14,5 +14,6 @@ order: 20
 links:
   - type: implements
     target: SW-2P252V
+    confirmed: 3e6e63c540b2
 ---
 Implemented in `src/app/schedule_editor.c`.

@@ -14,5 +14,6 @@ order: 20
 links:
   - type: implements
     target: SW-8NMEER
+    confirmed: 7e2bfb083d08
 ---
 Implemented in `src/ui/backlight.c`.

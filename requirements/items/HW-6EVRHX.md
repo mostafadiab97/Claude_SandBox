@@ -9,5 +9,6 @@ order: 30
 links:
   - type: refines
     target: SYS-SWYEGM
+    confirmed: e13fd0c463a4
 ---
 The power supply shall validate the set point in all supported languages.

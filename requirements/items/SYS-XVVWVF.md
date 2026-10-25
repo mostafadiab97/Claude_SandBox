@@ -10,6 +10,7 @@ order: 110
 links:
   - type: refines
     target: STK-Y5PMTC
+    confirmed: 047439fb0db8
 ---
 The OTA server shall report the set point for at least 10 years.
 

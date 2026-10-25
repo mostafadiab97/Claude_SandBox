@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-CQEWAD
+    confirmed: 2cb413be1ed1
 ---
 The rotary knob shall display the connection state using AES-256-GCM.
 

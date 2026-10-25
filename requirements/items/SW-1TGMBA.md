@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-ZTJGBY
+    confirmed: bce29b6dd921
 ---
 The pairing process shall calibrate the connection state in under 3 s.

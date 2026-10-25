@@ -12,8 +12,10 @@ order: 30
 links:
   - type: relates-to
     target: TC-KGPGWV
+    confirmed: 1b958c991b13
   - type: relates-to
     target: SYS-FMC0YD
+    confirmed: de721eeebf34
 ---
 Found during regression testing of build 2.8.37.
 

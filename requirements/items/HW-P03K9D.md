@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: HW-3XH373
+    confirmed: 46c9861e1763
 ---
 The telemetry pipeline shall encrypt schedule entries using AES-256-GCM.

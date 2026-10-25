@@ -11,6 +11,7 @@ order: 220
 links:
   - type: verifies
     target: SYS-KT3GD2
+    confirmed: 8a0b2b4def8d
 ---
 **Objective:** verify that the cloud backend behaves as specified.
 

@@ -12,6 +12,7 @@ order: 1210
 links:
   - type: verifies
     target: SYS-SPKGTS
+    confirmed: 8dbea22f8667
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.
 

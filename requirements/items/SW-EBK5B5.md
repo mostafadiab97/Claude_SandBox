@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-3JQGM8
+    confirmed: 9748f881870f
 ---
 The encryption layer shall calibrate error conditions after a power loss.
 

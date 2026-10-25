@@ -13,6 +13,7 @@ order: 630
 links:
   - type: verifies
     target: SYS-0K19ZT
+    confirmed: 46a84c8b4189
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

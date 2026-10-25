@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-FTCR67
+    confirmed: 0285b22b8c6c
 ---
 The power supply shall synchronise sensor readings within 200 ms.
 

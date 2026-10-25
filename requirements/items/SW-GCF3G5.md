@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-VY28RQ
+    confirmed: 7e13e53fd09a
 ---
 The login screen shall validate the connection state within 200 ms.

@@ -10,6 +10,7 @@ order: 1130
 links:
   - type: verifies
     target: SYS-ZFAGA9
+    confirmed: 088ced33b5bc
 ---
 **Objective:** verify that the schedule editor behaves as specified.
 

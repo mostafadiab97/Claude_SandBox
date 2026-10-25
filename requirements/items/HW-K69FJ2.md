@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-Q3NWSK
+    confirmed: 98491b75e1ce
 ---
 The power supply shall synchronise user preferences below 0.5 W in standby.
 

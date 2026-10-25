@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-9FTG47
+    confirmed: 6b7150a5bc62
 ---
 The secure boot shall encrypt humidity values at least once per minute.
 

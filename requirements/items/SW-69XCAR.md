@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-QGA0VX
+    confirmed: 773f6956359c
 ---
 The heat pump driver shall display sensor readings for at least 10 years.

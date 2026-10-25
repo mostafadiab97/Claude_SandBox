@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-V0E8NK
+    confirmed: 8b83909c9c36
 ---
 The device registry shall switch the set point in under 3 s.

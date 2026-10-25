@@ -10,6 +10,7 @@ order: 320
 links:
   - type: verifies
     target: SYS-4JQMJS
+    confirmed: 5acdb7574d9f
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

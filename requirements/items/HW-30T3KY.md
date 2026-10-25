@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-VCX096
+    confirmed: 63d283d89339
 ---
 The enclosure shall notify user preferences using AES-256-GCM.
 

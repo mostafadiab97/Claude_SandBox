@@ -10,6 +10,7 @@ order: 90
 links:
   - type: verifies
     target: SYS-6FPGAZ
+    confirmed: 839828246f65
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

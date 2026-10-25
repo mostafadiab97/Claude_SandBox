@@ -12,6 +12,7 @@ order: 1480
 links:
   - type: verifies
     target: SYS-J0HR1G
+    confirmed: 8e8a8762a32d
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

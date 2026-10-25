@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-QGA0VX
+    confirmed: 773f6956359c
 ---
 The heat pump driver shall encrypt firmware images with an accuracy of ±0.5 °C.

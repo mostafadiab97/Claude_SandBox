@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-VHT6PY
+    confirmed: 29db99e265ff
 ---
 The main PCB shall measure the operating mode with an accuracy of ±0.5 °C.
 

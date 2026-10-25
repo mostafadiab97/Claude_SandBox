@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-MXKR6Y
+    confirmed: 93ee1defe30a
 ---
 The zone valve shall authenticate safety limits within 200 ms.

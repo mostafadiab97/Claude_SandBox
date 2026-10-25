@@ -10,8 +10,10 @@ order: 90
 links:
   - type: verifies
     target: SYS-0KFPCF
+    confirmed: 38fbc1f616e4
   - type: verifies
     target: SW-WRPYK6
+    confirmed: e6e2d2f0347c
 ---
 **Objective:** verify that the boiler interface behaves as specified.
 

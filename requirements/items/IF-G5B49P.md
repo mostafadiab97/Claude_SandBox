@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-MNWAKG
+    confirmed: 979db4a6f2e3
 ---
 The OTA server shall validate schedule entries for at least 10 years.

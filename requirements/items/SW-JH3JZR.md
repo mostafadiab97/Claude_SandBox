@@ -8,6 +8,7 @@ order: 20
 links:
   - type: refines
     target: SYS-3F8YD1
+    confirmed: a6cd254de65c
 ---
 The notification service shall switch the room temperature when the network is unavailable.
 

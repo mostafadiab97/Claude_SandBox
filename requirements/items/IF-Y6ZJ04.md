@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-9D1YDX
+    confirmed: c9cc1c48d86c
 ---
 The pairing process shall store energy consumption within 200 ms.
 

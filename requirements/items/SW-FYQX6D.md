@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-S318HE
+    confirmed: a8739639e10d
 ---
 The menu system shall authenticate the set point in all supported languages.
 

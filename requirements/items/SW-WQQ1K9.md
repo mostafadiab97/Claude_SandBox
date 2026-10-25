@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SW-QWPBFA
+    confirmed: 9176e64ec4e9
 ---
 The menu system shall calibrate energy consumption after a power loss.

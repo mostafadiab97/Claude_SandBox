@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: HW-52EHCA
+    confirmed: 8390faa4c33e
 ---
 The power supply shall limit energy consumption for at least 10 years.

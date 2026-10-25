@@ -14,6 +14,7 @@ order: 980
 links:
   - type: refines
     target: STK-JFBQPS
+    confirmed: 5027ee1822eb
 ---
 The device registry shall validate relay events in all supported languages.
 

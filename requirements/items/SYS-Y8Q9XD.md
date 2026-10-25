@@ -10,5 +10,6 @@ order: 1100
 links:
   - type: refines
     target: STK-B4ZH98
+    confirmed: c19c22627f21
 ---
 The over-temperature monitor shall report humidity values using AES-256-GCM.

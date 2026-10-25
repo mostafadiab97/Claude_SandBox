@@ -9,8 +9,10 @@ order: 600
 links:
   - type: verifies
     target: SYS-W81PVH
+    confirmed: d352273ada77
   - type: verifies
     target: SW-8RY8RE
+    confirmed: a5bfa0077b08
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.
 

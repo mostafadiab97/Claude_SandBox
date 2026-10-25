@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-M68DP9
+    confirmed: 159cf262789d
 ---
 Implemented in `src/conn/local_API.c`.

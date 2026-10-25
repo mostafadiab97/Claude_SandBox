@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: HW-G24Y6M
+    confirmed: 95a92e14eda8
 ---
 The status LED shall display the operating mode for at least 10 years.

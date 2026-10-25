@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-19PSY9
+    confirmed: 6a61bda8a792
 ---
 The touch display shall restore the set point at least once per minute.

@@ -9,5 +9,6 @@ order: 20
 links:
   - type: implements
     target: SW-YNMS62
+    confirmed: 2d4e395bd4fc
 ---
 Implemented in `src/app/home_dashboard.c`.

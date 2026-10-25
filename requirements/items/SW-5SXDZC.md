@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-BYV6KE
+    confirmed: a241069de6f9
 ---
 The device registry shall report access tokens after a power loss.
 

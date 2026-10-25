@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-CE57ME
+    confirmed: 4e23886933b6
 ---
 The boiler interface shall validate audit records for at least 10 years.

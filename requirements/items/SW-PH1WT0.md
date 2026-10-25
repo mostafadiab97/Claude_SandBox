@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-TRKV8X
+    confirmed: 598d6ef77c60
 ---
 The Wi-Fi module shall calibrate user preferences for up to 8 zones.

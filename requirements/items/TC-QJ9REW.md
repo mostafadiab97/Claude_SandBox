@@ -11,6 +11,7 @@ order: 770
 links:
   - type: verifies
     target: SYS-2G95V5
+    confirmed: c56996de7c48
 ---
 **Objective:** verify that the relay board behaves as specified.
 

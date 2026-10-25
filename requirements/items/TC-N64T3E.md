@@ -14,6 +14,7 @@ order: 190
 links:
   - type: verifies
     target: SYS-A47H7R
+    confirmed: fd7d82b6415e
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

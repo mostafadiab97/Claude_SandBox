@@ -13,8 +13,10 @@ order: 420
 links:
   - type: verifies
     target: SYS-PY3FTT
+    confirmed: 028b4e4661e2
   - type: verifies
     target: SW-JH3JZR
+    confirmed: dbe3045309c3
 ---
 **Objective:** verify that the status LED behaves as specified.
 

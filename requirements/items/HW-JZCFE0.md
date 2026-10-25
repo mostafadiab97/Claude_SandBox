@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-2X77EP
+    confirmed: 8e0ad7a2d91d
 ---
 The OTA server shall log the room temperature using AES-256-GCM.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-PKAKPD
+    confirmed: 844d91cb4e42
 ---
 The touch display shall report access tokens below 0.5 W in standby.
 

@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-ZBCW95
+    confirmed: b4748e4c331f
 ---
 The regulation loop shall notify humidity values when the network is unavailable.

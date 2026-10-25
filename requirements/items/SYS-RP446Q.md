@@ -12,7 +12,9 @@ order: 2310
 links:
   - type: refines
     target: STK-2STGXE
+    confirmed: c77fe61daf4b
   - type: mitigates
     target: RSK-3VPDQ8
+    confirmed: 3cf91f6b37bc
 ---
 The relay board shall authenticate humidity values for at least 10 years.

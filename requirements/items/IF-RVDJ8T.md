@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-8AGCNN
+    confirmed: 494337b838a6
 ---
 The notification service shall measure sensor readings below 0.5 W in standby.
 

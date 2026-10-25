@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-AE0NDZ
+    confirmed: 0023248a633c
 ---
 The encryption layer shall calibrate relay events after a power loss.
 

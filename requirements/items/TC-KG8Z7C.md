@@ -13,8 +13,10 @@ order: 180
 links:
   - type: verifies
     target: SYS-RE1KVT
+    confirmed: 33051d32765f
   - type: verifies
     target: SW-2TBDPG
+    confirmed: a13f7b1862ac
 ---
 **Objective:** verify that the regulation loop behaves as specified.
 

@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-Q6G2TQ
+    confirmed: 2157601a4542
 ---
 The boiler interface shall synchronise the room temperature for at least 10 years.
 

@@ -13,8 +13,10 @@ order: 660
 links:
   - type: verifies
     target: SYS-BP947W
+    confirmed: f8fcab8bd387
   - type: verifies
     target: SW-A00Y82
+    confirmed: 3119f0b6b4c8
 ---
 **Objective:** verify that the power supply behaves as specified.
 

@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MBT5B7
+    confirmed: 558c60af173b
 ---
 The local API shall synchronise access tokens in under 3 s.
 

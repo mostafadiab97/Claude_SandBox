@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-C9V4XY
+    confirmed: 4bc41d718b3c
 ---
 The heating controller shall switch schedule entries at least once per minute.
 

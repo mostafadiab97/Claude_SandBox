@@ -10,8 +10,10 @@ order: 630
 links:
   - type: verifies
     target: SYS-MY3DCX
+    confirmed: ace85c596789
   - type: verifies
     target: SW-3GNB5A
+    confirmed: 4b2f2da462f8
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

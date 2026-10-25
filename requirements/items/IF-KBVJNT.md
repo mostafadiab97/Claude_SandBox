@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-E8YWD2
+    confirmed: 5ab6d3697437
 ---
 The menu system shall notify safety limits in all supported languages.
 

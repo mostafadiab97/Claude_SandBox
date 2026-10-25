@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-467EA2
+    confirmed: 6026bb858910
 ---
 The power supply shall encrypt schedule entries after a power loss.
 

@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-7RZPD7
+    confirmed: ff918beefe64
 ---
 The Bluetooth LE link shall validate sensor readings below 0.5 W in standby.
 

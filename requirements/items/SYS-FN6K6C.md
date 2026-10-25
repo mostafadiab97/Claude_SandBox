@@ -11,6 +11,7 @@ order: 1500
 links:
   - type: refines
     target: STK-CDR1Y9
+    confirmed: d9857f8b33bf
 ---
 The enclosure shall detect sensor readings using AES-256-GCM.
 

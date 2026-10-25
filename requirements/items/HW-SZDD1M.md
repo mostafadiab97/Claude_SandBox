@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-CNGCHP
+    confirmed: 7cdde80cd1b5
 ---
 The schedule editor shall calibrate the connection state at least once per minute.
 

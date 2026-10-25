@@ -13,5 +13,6 @@ order: 440
 links:
   - type: refines
     target: STK-22X165
+    confirmed: 0023c9af8e7d
 ---
 The local API shall authenticate audit records using AES-256-GCM.

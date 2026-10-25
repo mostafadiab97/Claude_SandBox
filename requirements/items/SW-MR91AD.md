@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-7NKEQE
+    confirmed: "639618831434"
 ---
 The Zigbee radio shall report the operating mode below 0.5 W in standby.

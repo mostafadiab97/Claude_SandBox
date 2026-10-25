@@ -12,6 +12,7 @@ order: 1530
 links:
   - type: verifies
     target: SYS-EC81QP
+    confirmed: 1189223f2096
 ---
 **Objective:** verify that the notification service behaves as specified.
 

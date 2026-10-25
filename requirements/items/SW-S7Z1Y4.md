@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-KKM3DB
+    confirmed: cbda6c746ea4
 ---
 The zone valve shall synchronise schedule entries at least once per minute.
 

@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-RY2A1Y
+    confirmed: ba8d79699d39
 ---
 The secure boot shall measure audit records using AES-256-GCM.

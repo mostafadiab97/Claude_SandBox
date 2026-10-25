@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-ZKTQQ8
+    confirmed: 495d5a5d64dd
 ---
 The local API shall notify audit records after a power loss.

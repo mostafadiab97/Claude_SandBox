@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-3P41N6
+    confirmed: 6d3c703cd5e8
 ---
 The menu system shall store access tokens after a power loss.
 

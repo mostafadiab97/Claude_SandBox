@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-JZ73HV
+    confirmed: 985c6ecc37fa
 ---
 The heat pump driver shall calibrate energy consumption without user interaction.
 

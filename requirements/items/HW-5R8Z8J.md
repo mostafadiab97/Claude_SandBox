@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-ZSDCZJ
+    confirmed: 5cf55da3656a
 ---
 The battery backup shall store energy consumption with an accuracy of ±0.5 °C.
 

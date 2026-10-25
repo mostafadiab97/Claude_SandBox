@@ -11,8 +11,10 @@ order: 970
 links:
   - type: verifies
     target: SYS-C084T6
+    confirmed: 60b474ed648f
   - type: verifies
     target: SW-XMBMSB
+    confirmed: ab5edb451296
 ---
 **Objective:** verify that the cloud backend behaves as specified.
 

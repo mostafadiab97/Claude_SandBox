@@ -13,6 +13,7 @@ order: 530
 links:
   - type: verifies
     target: SYS-AX0YF1
+    confirmed: 8815ccfb397d
 ---
 **Objective:** verify that the menu system behaves as specified.
 

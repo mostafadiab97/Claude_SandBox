@@ -13,8 +13,10 @@ order: 1460
 links:
   - type: verifies
     target: SYS-8SN8KA
+    confirmed: 57d91dd17cd7
   - type: verifies
     target: SW-4C6BH6
+    confirmed: 08d749a8875b
 ---
 **Objective:** verify that the device registry behaves as specified.
 

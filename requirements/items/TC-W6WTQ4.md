@@ -13,8 +13,10 @@ order: 1410
 links:
   - type: verifies
     target: SYS-H7XP2M
+    confirmed: 7b8641948b25
   - type: verifies
     target: SW-CN0XQA
+    confirmed: f0c87b0c4ded
 ---
 **Objective:** verify that the relay board behaves as specified.
 

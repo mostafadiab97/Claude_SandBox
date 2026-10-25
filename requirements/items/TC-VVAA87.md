@@ -13,6 +13,7 @@ order: 920
 links:
   - type: verifies
     target: SYS-C6PXHJ
+    confirmed: 603d88c764e7
 ---
 **Objective:** verify that the rotary knob behaves as specified.
 

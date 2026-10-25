@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-QEXJSV
+    confirmed: 4affd2b49de2
 ---
 The login screen shall calibrate the set point in under 3 s.
 

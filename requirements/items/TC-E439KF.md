@@ -9,8 +9,10 @@ order: 450
 links:
   - type: verifies
     target: SYS-XHYQN4
+    confirmed: 3a60145a886a
   - type: verifies
     target: SW-RA5W6M
+    confirmed: 5a5e48e6f008
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

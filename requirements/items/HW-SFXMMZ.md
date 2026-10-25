@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-244X2N
+    confirmed: fa8561abaa1a
 ---
 The Bluetooth LE link shall switch firmware images in under 3 s.

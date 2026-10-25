@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-86C3Z1
+    confirmed: 9813f1ce92fd
 ---
 The heat pump driver shall encrypt safety limits using AES-256-GCM.
 

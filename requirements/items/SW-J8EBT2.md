@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-BA2G1M
+    confirmed: f603768ac45b
 ---
 The telemetry pipeline shall log firmware images for up to 8 zones.
 

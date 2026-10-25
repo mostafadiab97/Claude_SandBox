@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-5C94DF
+    confirmed: c00f25df31a0
 ---
 The main PCB shall store firmware images after a power loss.
 

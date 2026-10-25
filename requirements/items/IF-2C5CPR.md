@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-8P54CP
+    confirmed: 83be93bab647
 ---
 The login screen shall calibrate the room temperature for up to 8 zones.
 

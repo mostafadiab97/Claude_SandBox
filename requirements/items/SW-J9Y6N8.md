@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-BA2G1M
+    confirmed: f603768ac45b
 ---
 The telemetry pipeline shall authenticate user preferences within 200 ms.

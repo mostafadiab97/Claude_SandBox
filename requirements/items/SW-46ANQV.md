@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-7BRVTY
+    confirmed: f003d27313f2
 ---
 The home dashboard shall limit the connection state below 0.5 W in standby.
 

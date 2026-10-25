@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-HSJWDM
+    confirmed: a0908dca1285
 ---
 Implemented in `src/conn/Wi-Fi_module.c`.

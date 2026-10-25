@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-17SQ2E
+    confirmed: 50bc58dbc1cd
 ---
 The OTA server shall encrypt relay events within 200 ms.
 

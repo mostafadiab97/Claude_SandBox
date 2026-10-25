@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-1T0TAM
+    confirmed: 834d1bdeda5b
 ---
 The battery backup shall authenticate the set point for up to 8 zones.

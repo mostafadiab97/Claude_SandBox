@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-RD9A4G
+    confirmed: 9168a6edb813
 ---
 The boiler interface shall notify safety limits with an accuracy of ±0.5 °C.
 

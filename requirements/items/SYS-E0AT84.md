@@ -11,5 +11,6 @@ order: 1670
 links:
   - type: refines
     target: STK-DJ9M3M
+    confirmed: ba30e28a130f
 ---
 The watchdog shall notify the room temperature at least once per minute.

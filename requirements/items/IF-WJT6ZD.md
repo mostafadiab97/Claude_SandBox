@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: IF-ZV02TT
+    confirmed: 0531c9bcbf67
 ---
 The rotary knob shall calibrate sensor readings at least once per minute.
 

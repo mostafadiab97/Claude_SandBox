@@ -9,5 +9,6 @@ order: 30
 links:
   - type: refines
     target: SYS-MG3QAE
+    confirmed: fd1ef0a3e1ca
 ---
 The encryption layer shall log access tokens using AES-256-GCM.

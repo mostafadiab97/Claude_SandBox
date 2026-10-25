@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-9V5P8B
+    confirmed: a4b7cbbff72f
 ---
 The boiler interface shall restore humidity values in under 3 s.

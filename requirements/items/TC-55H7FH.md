@@ -14,6 +14,7 @@ order: 20
 links:
   - type: verifies
     target: SYS-338WGX
+    confirmed: ba9b4f21444e
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

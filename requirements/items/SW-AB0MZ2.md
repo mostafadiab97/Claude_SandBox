@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-RZ204B
+    confirmed: 1c27482f8c01
 ---
 The secure boot shall validate safety limits with an accuracy of ±0.5 °C.
 

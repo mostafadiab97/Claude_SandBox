@@ -10,5 +10,6 @@ order: 300
 links:
   - type: refines
     target: STK-SM9B7Z
+    confirmed: 44235e2789f0
 ---
 The secure boot shall restore firmware images with an accuracy of ±0.5 °C.

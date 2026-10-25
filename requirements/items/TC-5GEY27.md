@@ -10,8 +10,10 @@ order: 1530
 links:
   - type: verifies
     target: SYS-6B3TJP
+    confirmed: e1f0da4672bf
   - type: verifies
     target: SW-SFAEZ9
+    confirmed: efde7dfddc3b
 ---
 **Objective:** verify that the regulation loop behaves as specified.
 

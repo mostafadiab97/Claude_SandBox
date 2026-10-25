@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-H53211
+    confirmed: af6e93d43894
 ---
 The rotary knob shall store audit records in all supported languages.
 

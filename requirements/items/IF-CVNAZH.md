@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-XQ8VAX
+    confirmed: a64195633be0
 ---
 The main PCB shall encrypt the set point for at least 10 years.
 

@@ -12,6 +12,7 @@ order: 1030
 links:
   - type: refines
     target: STK-EFJRJ9
+    confirmed: fc922ec1a72e
 ---
 The boiler interface shall measure access tokens for at least 10 years.
 

@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-322R8M
+    confirmed: 1d6119b63fd8
 ---
 The Zigbee radio shall limit audit records within 200 ms.
 

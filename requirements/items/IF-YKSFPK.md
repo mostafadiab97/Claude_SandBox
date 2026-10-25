@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-Z7FHQ2
+    confirmed: c3ef2cb2745a
 ---
 The backlight shall report sensor readings without user interaction.
 

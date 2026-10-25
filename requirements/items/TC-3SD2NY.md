@@ -9,6 +9,7 @@ order: 1820
 links:
   - type: verifies
     target: SYS-QTE64V
+    confirmed: 27661a1b1fc7
 ---
 **Objective:** verify that the device behaves as specified.
 

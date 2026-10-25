@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-T6SZE0
+    confirmed: eb82d81a139b
 ---
 The Wi-Fi module shall encrypt the set point without user interaction.
 

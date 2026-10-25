@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-PQPJM5
+    confirmed: 743135e74e23
 ---
 The heat pump driver shall detect energy consumption for at least 10 years.
 

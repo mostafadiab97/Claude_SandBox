@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-84WAA6
+    confirmed: f4bfc0859903
 ---
 The battery backup shall store the operating mode for up to 8 zones.
 

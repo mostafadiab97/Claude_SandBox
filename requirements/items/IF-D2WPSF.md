@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-5NPG22
+    confirmed: de7334e55ef0
 ---
 The Wi-Fi module shall store the operating mode for up to 8 zones.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-GJ7V6K
+    confirmed: 84c632114950
 ---
 The mobile app shall calibrate firmware images after a power loss.
 

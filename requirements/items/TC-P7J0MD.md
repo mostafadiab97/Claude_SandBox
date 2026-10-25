@@ -9,6 +9,7 @@ order: 1030
 links:
   - type: verifies
     target: SYS-0F1D8X
+    confirmed: de3125cc19b7
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

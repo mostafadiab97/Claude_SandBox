@@ -8,6 +8,7 @@ order: 30
 links:
   - type: refines
     target: SYS-C4HEZ6
+    confirmed: d7ecad5f2748
 ---
 The telemetry pipeline shall calibrate the connection state for at least 10 years.
 

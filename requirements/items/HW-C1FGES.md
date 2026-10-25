@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: HW-45G663
+    confirmed: d674eab54097
 ---
 The menu system shall report user preferences at least once per minute.

@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-FJEMQ2
+    confirmed: 8fcf329b307d
 ---
 The Bluetooth LE link shall validate the room temperature when the network is unavailable.
 

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-E9RGPF
+    confirmed: f695ac56bd99
 ---
 The login screen shall limit access tokens with an accuracy of ±0.5 °C.
 

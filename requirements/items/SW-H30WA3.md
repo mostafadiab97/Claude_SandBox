@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-YVNHRY
+    confirmed: 586d305ca699
 ---
 The menu system shall notify safety limits when the network is unavailable.
 

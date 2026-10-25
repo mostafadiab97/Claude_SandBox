@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-6YK5CA
+    confirmed: 2507133e13d3
 ---
 The telemetry pipeline shall measure the operating mode in under 3 s.
 

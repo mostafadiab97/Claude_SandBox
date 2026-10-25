@@ -13,5 +13,6 @@ order: 1540
 links:
   - type: refines
     target: STK-NTBW06
+    confirmed: d92faafa8cce
 ---
 The boiler interface shall calibrate the operating mode using AES-256-GCM.

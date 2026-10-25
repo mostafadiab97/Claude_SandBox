@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-TZNZPT
+    confirmed: c37b04ecf91b
 ---
 Implemented in `src/app/login_screen.c`.

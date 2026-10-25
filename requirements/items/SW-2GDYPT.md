@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-DJ2F1G
+    confirmed: c02522170a88
 ---
 The menu system shall limit firmware images at least once per minute.
 

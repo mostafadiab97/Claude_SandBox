@@ -10,6 +10,7 @@ order: 640
 links:
   - type: verifies
     target: SYS-3C9GVX
+    confirmed: 982b55b41ef5
 ---
 **Objective:** verify that the regulation loop behaves as specified.
 

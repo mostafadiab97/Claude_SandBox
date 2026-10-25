@@ -9,8 +9,10 @@ order: 800
 links:
   - type: verifies
     target: SYS-VMW9A5
+    confirmed: b407b79e1420
   - type: verifies
     target: SW-0AJSZ5
+    confirmed: a6c79179d7d9
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

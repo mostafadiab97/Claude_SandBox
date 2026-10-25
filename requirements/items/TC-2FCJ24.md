@@ -9,6 +9,7 @@ order: 1390
 links:
   - type: verifies
     target: SYS-QFCX4V
+    confirmed: 0a633adec0ec
 ---
 **Objective:** verify that the touch display behaves as specified.
 

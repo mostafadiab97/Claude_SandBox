@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-Y33EQ3
+    confirmed: 06b5de7a3ad6
 ---
 The zone valve shall store relay events at least once per minute.
 

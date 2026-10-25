@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-XTSYX5
+    confirmed: dc17ae1784ef
 ---
 The home dashboard shall synchronise schedule entries with an accuracy of ±0.5 °C.
 

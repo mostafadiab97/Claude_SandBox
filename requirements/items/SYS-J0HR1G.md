@@ -13,6 +13,7 @@ order: 2010
 links:
   - type: refines
     target: STK-4F6B1Y
+    confirmed: 4a1d76b1da2c
 ---
 The home dashboard shall measure the set point in all supported languages.
 

@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-ZJWQRZ
+    confirmed: 03ef66fd8af4
 ---
 Implemented in `src/ui/status_LED.c`.

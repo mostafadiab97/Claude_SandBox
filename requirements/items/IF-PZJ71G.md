@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-725QBQ
+    confirmed: 6e41b60e44cd
 ---
 The regulation loop shall switch the set point without user interaction.
 

@@ -10,6 +10,7 @@ order: 470
 links:
   - type: verifies
     target: SYS-ZQYMN8
+    confirmed: a257d6fd1501
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

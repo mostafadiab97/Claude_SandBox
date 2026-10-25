@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-5WJBCW
+    confirmed: cd6c90a42873
 ---
 The watchdog shall display sensor readings without user interaction.

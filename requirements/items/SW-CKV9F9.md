@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-VN8P2R
+    confirmed: 09343cc43a29
 ---
 The status LED shall measure relay events for up to 8 zones.
 

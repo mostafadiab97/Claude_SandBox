@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-EN3YXQ
+    confirmed: 1e489c983669
 ---
 The schedule editor shall measure safety limits within 200 ms.
 

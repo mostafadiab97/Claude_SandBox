@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-324HGW
+    confirmed: 827d08f24199
 ---
 The battery backup shall display the connection state for at least 10 years.
 

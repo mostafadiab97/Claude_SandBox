@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-KFPJKE
+    confirmed: bd64fc054017
 ---
 The over-temperature monitor shall switch relay events for up to 8 zones.

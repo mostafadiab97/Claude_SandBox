@@ -12,6 +12,7 @@ order: 1270
 links:
   - type: verifies
     target: SYS-XJ8215
+    confirmed: 56e95d4cfbe7
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

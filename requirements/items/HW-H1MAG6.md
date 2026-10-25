@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-YW8M7A
+    confirmed: 8a991d854752
 ---
 The enclosure shall encrypt the room temperature after a power loss.
 

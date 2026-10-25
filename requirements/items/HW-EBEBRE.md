@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-KS8K75
+    confirmed: 6713f81a0fb0
 ---
 The heating controller shall limit firmware images at least once per minute.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-RZD9YZ
+    confirmed: da6a2a0d52cb
 ---
 The status LED shall calibrate safety limits below 0.5 W in standby.
 

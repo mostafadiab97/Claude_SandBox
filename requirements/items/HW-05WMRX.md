@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-ENR5YZ
+    confirmed: 8c135bde4ead
 ---
 The Zigbee radio shall notify energy consumption within 200 ms.
 

@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: STK-KPV71Q
+    confirmed: 10d9c216aea2
 ---
 The menu system shall limit firmware images in under 3 s.
 

@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-4T8ANS
+    confirmed: 400a2ed062a9
 ---
 The Bluetooth LE link shall display the set point for up to 8 zones.
 

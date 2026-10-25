@@ -14,6 +14,7 @@ order: 1870
 links:
   - type: refines
     target: STK-4NCGP6
+    confirmed: 34735dce772b
 ---
 The device registry shall detect relay events using AES-256-GCM.
 

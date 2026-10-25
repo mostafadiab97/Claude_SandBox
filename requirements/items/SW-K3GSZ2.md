@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MK2A6C
+    confirmed: f66b9f28edb5
 ---
 The telemetry pipeline shall authenticate energy consumption below 0.5 W in standby.
 

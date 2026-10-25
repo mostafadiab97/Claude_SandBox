@@ -10,8 +10,10 @@ order: 140
 links:
   - type: verifies
     target: SYS-GDH96C
+    confirmed: dfc6c8083c05
   - type: verifies
     target: SW-H71N1T
+    confirmed: 0448e6c3fca0
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.
 

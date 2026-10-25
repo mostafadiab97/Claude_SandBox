@@ -12,6 +12,7 @@ order: 50
 links:
   - type: refines
     target: STK-92HHJV
+    confirmed: 260bd01800c6
 ---
 The watchdog shall authenticate access tokens in all supported languages.
 

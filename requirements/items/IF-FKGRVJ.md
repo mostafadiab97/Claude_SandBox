@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-DVDRV2
+    confirmed: 1dc89c6de993
 ---
 The pairing process shall limit the room temperature below 0.5 W in standby.
 

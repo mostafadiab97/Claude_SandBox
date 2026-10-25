@@ -9,5 +9,6 @@ order: 30
 links:
   - type: refines
     target: SYS-8Q3CHA
+    confirmed: bba9c1adc60e
 ---
 The zone valve shall notify humidity values without user interaction.

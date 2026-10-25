@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-36NNDJ
+    confirmed: 100c60ddc325
 ---
 The status LED shall authenticate user preferences at least once per minute.

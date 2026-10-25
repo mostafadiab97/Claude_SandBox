@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-9FNKPM
+    confirmed: c8a11d5e856a
 ---
 The relay board shall authenticate the connection state in all supported languages.
 

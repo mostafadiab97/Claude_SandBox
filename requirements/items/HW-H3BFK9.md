@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: SYS-SXS3JV
+    confirmed: 67410b786182
 ---
 The local API shall switch energy consumption at least once per minute.

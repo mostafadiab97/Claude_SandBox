@@ -13,8 +13,10 @@ order: 70
 links:
   - type: relates-to
     target: TC-3WPFJP
+    confirmed: 73843db0166e
   - type: relates-to
     target: SYS-F2DJDC
+    confirmed: 2d379fb34255
 ---
 Found during regression testing of build 2.6.24.
 

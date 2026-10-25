@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-G71A1D
+    confirmed: f68ea59c2fd9
 ---
 The home dashboard shall encrypt relay events within 200 ms.

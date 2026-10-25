@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-C2GRZK
+    confirmed: 83098b4942a6
 ---
 The encryption layer shall measure humidity values for at least 10 years.

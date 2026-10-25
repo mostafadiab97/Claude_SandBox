@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-H5WZK0
+    confirmed: c13813b57602
 ---
 The boiler interface shall restore safety limits when the network is unavailable.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-Y57EAP
+    confirmed: 6b2c6923c4ae
 ---
 The cloud backend shall display audit records using AES-256-GCM.
 

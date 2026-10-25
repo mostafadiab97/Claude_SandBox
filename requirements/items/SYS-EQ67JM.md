@@ -12,6 +12,7 @@ order: 1750
 links:
   - type: refines
     target: STK-SKPX7F
+    confirmed: ff820400e2f9
 ---
 The OTA server shall measure safety limits below 0.5 W in standby.
 

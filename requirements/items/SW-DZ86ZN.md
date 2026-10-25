@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-J7M5Y0
+    confirmed: 48e9db75f26c
 ---
 The touch display shall switch user preferences for at least 10 years.
 

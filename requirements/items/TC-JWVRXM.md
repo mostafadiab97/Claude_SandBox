@@ -12,8 +12,10 @@ order: 320
 links:
   - type: verifies
     target: SYS-XDJVKC
+    confirmed: 80942e0b2984
   - type: verifies
     target: SW-3S3QPN
+    confirmed: 650f794940e6
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

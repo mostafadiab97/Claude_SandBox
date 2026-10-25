@@ -12,6 +12,7 @@ order: 1790
 links:
   - type: refines
     target: STK-71VSKB
+    confirmed: 994ecb1eff6f
 ---
 The pairing process shall synchronise sensor readings in under 3 s.
 

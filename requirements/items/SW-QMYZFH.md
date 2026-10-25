@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-WZGH76
+    confirmed: c26d6a231bfa
 ---
 The notification service shall store audit records after a power loss.
 

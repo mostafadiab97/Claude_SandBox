@@ -12,6 +12,7 @@ order: 1020
 links:
   - type: refines
     target: STK-AKFTAC
+    confirmed: 3cca48da4b1c
 ---
 The encryption layer shall store energy consumption below 0.5 W in standby.
 

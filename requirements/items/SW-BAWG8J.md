@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-E0AT84
+    confirmed: 0d5f77c98090
 ---
 The watchdog shall notify user preferences in under 3 s.
 

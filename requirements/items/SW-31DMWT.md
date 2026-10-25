@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-JYEJXF
+    confirmed: 4340b120fb96
 ---
 The schedule editor shall log access tokens when the network is unavailable.
 

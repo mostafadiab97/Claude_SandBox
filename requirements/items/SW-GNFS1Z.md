@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-AW0CHS
+    confirmed: "565684011683"
 ---
 The schedule editor shall encrypt the set point below 0.5 W in standby.
 

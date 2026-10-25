@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7NG4EK
+    confirmed: 9b2c415b0097
 ---
 The main PCB shall measure the set point using AES-256-GCM.
 

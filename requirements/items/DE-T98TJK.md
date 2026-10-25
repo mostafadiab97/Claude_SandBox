@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-CA3FX2
+    confirmed: b2d790f8f3d4
 ---
 Implemented in `src/cloud/user_account_service.c`.

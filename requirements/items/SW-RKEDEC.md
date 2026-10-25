@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-7PADSD
+    confirmed: d945d7dacc5c
 ---
 The secure boot shall authenticate audit records below 0.5 W in standby.
 

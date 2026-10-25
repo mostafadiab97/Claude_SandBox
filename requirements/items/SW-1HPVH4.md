@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-ZFR0V7
+    confirmed: 46e331dbae75
 ---
 The zone valve shall report energy consumption below 0.5 W in standby.
 

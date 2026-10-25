@@ -10,6 +10,7 @@ order: 50
 links:
   - type: refines
     target: STK-7F9256
+    confirmed: 5588db2eb80a
 ---
 The power supply shall notify the set point for up to 8 zones.
 

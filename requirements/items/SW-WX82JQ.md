@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-D3GXWM
+    confirmed: 837c0d0a7912
 ---
 The over-temperature monitor shall switch schedule entries at least once per minute.

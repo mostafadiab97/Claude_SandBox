@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-7XRVPP
+    confirmed: d90eb5aab73d
 ---
 The home dashboard shall restore the set point in all supported languages.
 

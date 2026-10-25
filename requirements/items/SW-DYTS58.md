@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-SKZG0A
+    confirmed: ea742fa40ce3
 ---
 The touch display shall validate energy consumption within 200 ms.
 

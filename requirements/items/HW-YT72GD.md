@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-RP1J10
+    confirmed: bb8a4ae9c942
 ---
 The power supply shall notify error conditions in all supported languages.
 

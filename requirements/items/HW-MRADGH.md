@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-E3Z9PA
+    confirmed: 789aac36902e
 ---
 The main PCB shall report schedule entries in under 3 s.

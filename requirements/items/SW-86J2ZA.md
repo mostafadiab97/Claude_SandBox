@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-B7X9NT
+    confirmed: 3dbe2b5d8662
 ---
 The Bluetooth LE link shall limit the set point within 200 ms.
 

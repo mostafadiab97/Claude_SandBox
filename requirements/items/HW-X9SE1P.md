@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-HRRNGW
+    confirmed: afbcfeedc1e2
 ---
 The power supply shall limit user preferences in all supported languages.

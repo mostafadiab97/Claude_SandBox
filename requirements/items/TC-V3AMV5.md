@@ -10,6 +10,7 @@ order: 620
 links:
   - type: verifies
     target: SYS-ETJ0RM
+    confirmed: 3cc57eda9250
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

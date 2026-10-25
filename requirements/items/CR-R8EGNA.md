@@ -14,6 +14,7 @@ order: 150
 links:
   - type: relates-to
     target: SYS-DAW84D
+    confirmed: d28364cb190d
 ---
 Requested by customer support (ticket #12522).
 

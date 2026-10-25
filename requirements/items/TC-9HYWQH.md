@@ -12,6 +12,7 @@ order: 540
 links:
   - type: verifies
     target: SYS-XP4ZAH
+    confirmed: b8b57a2c487b
 ---
 **Objective:** verify that the regulation loop behaves as specified.
 

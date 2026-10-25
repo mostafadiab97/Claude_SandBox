@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-3F8YD1
+    confirmed: a6cd254de65c
 ---
 The notification service shall limit relay events below 0.5 W in standby.
 

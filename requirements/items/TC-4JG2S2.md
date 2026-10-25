@@ -14,6 +14,7 @@ order: 1680
 links:
   - type: verifies
     target: SYS-J893M9
+    confirmed: 6ba2be2cebf8
 ---
 **Objective:** verify that the device behaves as specified.
 

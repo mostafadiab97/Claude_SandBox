@@ -13,5 +13,6 @@ order: 2070
 links:
   - type: refines
     target: STK-ESBN30
+    confirmed: 8a56cb48b6c3
 ---
 The boiler interface shall notify relay events with an accuracy of ±0.5 °C.

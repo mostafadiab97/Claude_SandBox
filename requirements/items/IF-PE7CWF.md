@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MAHRKG
+    confirmed: 1818eb6c7e09
 ---
 The over-temperature monitor shall synchronise safety limits with an accuracy of ±0.5 °C.
 

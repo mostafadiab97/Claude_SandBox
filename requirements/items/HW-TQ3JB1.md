@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-VXY593
+    confirmed: ee56b8ee15e6
 ---
 The main PCB shall calibrate safety limits below 0.5 W in standby.
 

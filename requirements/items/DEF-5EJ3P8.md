@@ -12,8 +12,10 @@ order: 160
 links:
   - type: relates-to
     target: TC-CT7VNP
+    confirmed: 05349755849a
   - type: relates-to
     target: SYS-5EWC97
+    confirmed: 112d894849fe
 ---
 Found during regression testing of build 2.5.38.
 

@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-186VAA
+    confirmed: 8c9ff96ed042
 ---
 The rotary knob shall display schedule entries for at least 10 years.
 

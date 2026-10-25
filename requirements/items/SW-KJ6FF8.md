@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-FNTHY0
+    confirmed: 86355bb1c3be
 ---
 The status LED shall detect schedule entries in under 3 s.
 

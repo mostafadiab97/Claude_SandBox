@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-59QMSN
+    confirmed: 261ae2911413
 ---
 The device registry shall limit error conditions for at least 10 years.
 

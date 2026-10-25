@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-K8QB7W
+    confirmed: b56f90ef8f2c
 ---
 The device registry shall log access tokens after a power loss.
 

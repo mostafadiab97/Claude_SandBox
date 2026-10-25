@@ -10,6 +10,7 @@ order: 1530
 links:
   - type: refines
     target: STK-XSZSEZ
+    confirmed: 1038f4e2e9d4
 ---
 The Bluetooth LE link shall display user preferences at least once per minute.
 

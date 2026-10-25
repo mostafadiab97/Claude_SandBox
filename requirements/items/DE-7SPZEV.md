@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-70HJZJ
+    confirmed: 80a3748b254d
 ---
 Implemented in `src/safe/watchdog.c`.

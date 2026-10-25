@@ -10,8 +10,10 @@ order: 1780
 links:
   - type: refines
     target: STK-35QR7F
+    confirmed: bc1aebb7918d
   - type: mitigates
     target: RSK-S88NZ1
+    confirmed: 257f5def6363
 ---
 The status LED shall authenticate firmware images in all supported languages.
 

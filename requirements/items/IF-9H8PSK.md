@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-S4CRQY
+    confirmed: 665acc28f34d
 ---
 The boiler interface shall display relay events without user interaction.
 

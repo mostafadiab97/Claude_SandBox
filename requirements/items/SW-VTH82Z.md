@@ -8,6 +8,7 @@ order: 10
 links:
   - type: refines
     target: SW-KY9MTZ
+    confirmed: 3c0da9b16201
 ---
 The home dashboard shall switch the operating mode without user interaction.
 

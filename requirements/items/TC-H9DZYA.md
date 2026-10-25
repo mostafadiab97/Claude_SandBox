@@ -14,8 +14,10 @@ order: 1150
 links:
   - type: verifies
     target: SYS-AC34S0
+    confirmed: 35daf5402be7
   - type: verifies
     target: SW-BYV6KE
+    confirmed: a241069de6f9
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

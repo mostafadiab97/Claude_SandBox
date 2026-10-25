@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-JG6JBY
+    confirmed: a8701491a579
 ---
 The watchdog shall authenticate schedule entries below 0.5 W in standby.
 

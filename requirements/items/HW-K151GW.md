@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-FB7G52
+    confirmed: 43ac6cc2a75b
 ---
 The local API shall measure sensor readings in all supported languages.
 

@@ -11,5 +11,6 @@ order: 10
 links:
   - type: implements
     target: SW-AK7JWR
+    confirmed: 2670ac92e89b
 ---
 Implemented in `src/app/home_dashboard.c`.

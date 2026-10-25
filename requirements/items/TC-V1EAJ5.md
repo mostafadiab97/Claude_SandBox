@@ -9,6 +9,7 @@ order: 1360
 links:
   - type: verifies
     target: SYS-JJBC0A
+    confirmed: 33302d5c9847
 ---
 **Objective:** verify that the power supply behaves as specified.
 

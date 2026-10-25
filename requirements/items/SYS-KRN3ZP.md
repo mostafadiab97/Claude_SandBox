@@ -14,8 +14,10 @@ order: 1460
 links:
   - type: refines
     target: STK-SM9B7Z
+    confirmed: 44235e2789f0
   - type: mitigates
     target: RSK-4WN2DG
+    confirmed: b41c475816a4
 ---
 The over-temperature monitor shall log access tokens in all supported languages.
 

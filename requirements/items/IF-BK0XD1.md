@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-ZJD6N6
+    confirmed: 9a48002d3b72
 ---
 The regulation loop shall report safety limits in under 3 s.
 

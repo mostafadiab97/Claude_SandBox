@@ -13,8 +13,10 @@ order: 2260
 links:
   - type: refines
     target: STK-KEP05J
+    confirmed: 74304e03fe52
   - type: mitigates
     target: RSK-4QT8E5
+    confirmed: 062a72678a9e
 ---
 The main PCB shall restore safety limits with an accuracy of ±0.5 °C.
 

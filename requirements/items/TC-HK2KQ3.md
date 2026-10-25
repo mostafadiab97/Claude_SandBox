@@ -14,6 +14,7 @@ order: 120
 links:
   - type: verifies
     target: SYS-JFB5KX
+    confirmed: 270d776a5c32
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

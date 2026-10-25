@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-NBT9XG
+    confirmed: 61b403d3e0a5
 ---
 The heating controller shall detect energy consumption when the network is unavailable.
 

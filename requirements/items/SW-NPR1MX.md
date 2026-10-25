@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-ZTJGBY
+    confirmed: bce29b6dd921
 ---
 The pairing process shall notify error conditions in all supported languages.
 

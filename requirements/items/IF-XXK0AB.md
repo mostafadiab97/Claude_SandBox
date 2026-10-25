@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XTSYX5
+    confirmed: dc17ae1784ef
 ---
 The home dashboard shall calibrate humidity values for at least 10 years.
 

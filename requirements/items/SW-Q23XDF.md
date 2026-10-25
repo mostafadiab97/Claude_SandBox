@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-0GKFAB
+    confirmed: b42a1b2bb89f
 ---
 The zone valve shall report safety limits with an accuracy of ±0.5 °C.
 

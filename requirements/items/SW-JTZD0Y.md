@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-M1MR5T
+    confirmed: 5ddacb5e8dc3
 ---
 The notification service shall measure the set point for at least 10 years.

@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-FHAECY
+    confirmed: 1293558404d1
 ---
 The schedule editor shall display relay events in all supported languages.
 

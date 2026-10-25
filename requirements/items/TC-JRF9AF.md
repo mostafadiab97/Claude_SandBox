@@ -10,8 +10,10 @@ order: 1000
 links:
   - type: verifies
     target: SYS-4FGGM0
+    confirmed: 08bb9f68e463
   - type: verifies
     target: SW-02H99V
+    confirmed: 72ab5f08e287
 ---
 **Objective:** verify that the cloud backend behaves as specified.
 

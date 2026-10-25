@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-DAW84D
+    confirmed: d28364cb190d
 ---
 The enclosure shall encrypt the set point with an accuracy of ±0.5 °C.

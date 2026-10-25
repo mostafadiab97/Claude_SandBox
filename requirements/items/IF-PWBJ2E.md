@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-M0XMTJ
+    confirmed: 265474e3470a
 ---
 The over-temperature monitor shall display audit records without user interaction.
 

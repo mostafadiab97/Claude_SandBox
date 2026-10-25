@@ -9,6 +9,7 @@ order: 470
 links:
   - type: refines
     target: STK-Q8BNKR
+    confirmed: 6deaa78e6ab3
 ---
 The heating controller shall store the room temperature within 200 ms.
 

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-N36TB6
+    confirmed: 37dc028a5c77
 ---
 The regulation loop shall limit user preferences within 200 ms.

@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-A103QP
+    confirmed: ebe6b95c0f3d
 ---
 The OTA server shall calibrate audit records below 0.5 W in standby.

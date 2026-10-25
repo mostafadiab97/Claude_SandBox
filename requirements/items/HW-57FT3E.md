@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-QS89W9
+    confirmed: 257707a82d4d
 ---
 The enclosure shall log the connection state in under 3 s.
 

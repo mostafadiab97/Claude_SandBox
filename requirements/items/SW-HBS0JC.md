@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-01CMP1
+    confirmed: 86791af43201
 ---
 The secure boot shall validate audit records at least once per minute.

@@ -12,5 +12,6 @@ order: 40
 links:
   - type: refines
     target: SYS-DTDMRC
+    confirmed: 001ab42cb872
 ---
 The status LED shall notify relay events at least once per minute.

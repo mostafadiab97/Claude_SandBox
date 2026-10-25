@@ -12,6 +12,7 @@ order: 430
 links:
   - type: verifies
     target: SYS-1WQ7QG
+    confirmed: 54178d5c99b7
 ---
 **Objective:** verify that the user account service behaves as specified.
 

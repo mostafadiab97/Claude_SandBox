@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-GK9D83
+    confirmed: e117ad0083a4
 ---
 The watchdog shall restore error conditions for up to 8 zones.
 

@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-9AYNBP
+    confirmed: f3e0173269c9
 ---
 The schedule editor shall encrypt audit records for up to 8 zones.
 

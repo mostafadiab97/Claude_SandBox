@@ -12,8 +12,10 @@ order: 1080
 links:
   - type: verifies
     target: SYS-9PZN49
+    confirmed: 62fe12aea17c
   - type: verifies
     target: SW-5SKQZV
+    confirmed: 254e4c6d5905
 ---
 **Objective:** verify that the login screen behaves as specified.
 

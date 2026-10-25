@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-7ME2MH
+    confirmed: 212fa2a7c66a
 ---
 The heat pump driver shall synchronise the connection state within 200 ms.
 

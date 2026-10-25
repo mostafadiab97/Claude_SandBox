@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-R873ZE
+    confirmed: fae59ce68ce5
 ---
 The zone valve shall measure energy consumption without user interaction.
 

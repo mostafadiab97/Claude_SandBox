@@ -10,6 +10,7 @@ order: 590
 links:
   - type: refines
     target: STK-5VZRF2
+    confirmed: cf78baefa376
 ---
 The mobile app shall log the connection state with an accuracy of ±0.5 °C.
 

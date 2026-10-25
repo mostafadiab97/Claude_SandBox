@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-9ECYTV
+    confirmed: 7b9cca966730
 ---
 The secure boot shall notify energy consumption within 200 ms.
 

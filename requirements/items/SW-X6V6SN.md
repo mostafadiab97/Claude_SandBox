@@ -9,5 +9,6 @@ order: 30
 links:
   - type: refines
     target: SYS-TB9F0A
+    confirmed: cfce1cacc944
 ---
 The touch display shall notify the connection state with an accuracy of ±0.5 °C.

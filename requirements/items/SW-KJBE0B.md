@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-MA8PA2
+    confirmed: 7c651b78b359
 ---
 The Bluetooth LE link shall notify the room temperature in all supported languages.
 

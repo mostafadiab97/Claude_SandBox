@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-263BJQ
+    confirmed: 545c48596828
 ---
 The mobile app shall authenticate firmware images in all supported languages.
 

@@ -12,6 +12,7 @@ order: 170
 links:
   - type: relates-to
     target: STK-7X7S81
+    confirmed: 0b0c08c75491
 ---
 **Actor:** home owner
 

@@ -14,5 +14,6 @@ order: 20
 links:
   - type: implements
     target: SW-MTXK34
+    confirmed: 4c707dcaf3d3
 ---
 Implemented in `src/heat/regulation_loop.c`.

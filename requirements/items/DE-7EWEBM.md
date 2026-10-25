@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-JXB2P6
+    confirmed: daa91cf519fc
 ---
 Implemented in `src/cloud/user_account_service.c`.

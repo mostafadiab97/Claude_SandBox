@@ -12,6 +12,7 @@ order: 1280
 links:
   - type: verifies
     target: SYS-Z3C3F8
+    confirmed: 0af14c27b0f7
 ---
 **Objective:** verify that the user account service behaves as specified.
 

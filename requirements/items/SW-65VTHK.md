@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-5JSFVB
+    confirmed: 82cc499c962b
 ---
 The regulation loop shall display user preferences at least once per minute.

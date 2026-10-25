@@ -13,5 +13,6 @@ order: 1390
 links:
   - type: refines
     target: STK-NTBW06
+    confirmed: d92faafa8cce
 ---
 The heating controller shall limit error conditions below 0.5 W in standby.

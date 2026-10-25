@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-W9JKKF
+    confirmed: cc33ff5a3ddf
 ---
 The secure boot shall validate access tokens for at least 10 years.
 

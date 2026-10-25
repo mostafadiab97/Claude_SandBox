@@ -13,6 +13,7 @@ order: 1770
 links:
   - type: refines
     target: STK-KEP05J
+    confirmed: 74304e03fe52
 ---
 The power supply shall limit the connection state in all supported languages.
 

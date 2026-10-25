@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-7VF1VB
+    confirmed: cd08b02dec95
 ---
 The boiler interface shall display schedule entries below 0.5 W in standby.

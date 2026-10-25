@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-21RSPB
+    confirmed: 6d6c12313a2b
 ---
 The watchdog shall calibrate the room temperature with an accuracy of ±0.5 °C.
 

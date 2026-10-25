@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SYS-T098Z1
+    confirmed: 74cca4062527
 ---
 The menu system shall calibrate the set point at least once per minute.

@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-FJYCC7
+    confirmed: 7f14ac08d029
 ---
 The local API shall display energy consumption in all supported languages.
 

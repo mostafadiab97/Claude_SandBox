@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-E3Z9PA
+    confirmed: 789aac36902e
 ---
 The main PCB shall log relay events without user interaction.
 

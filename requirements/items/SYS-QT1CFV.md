@@ -12,6 +12,7 @@ order: 1580
 links:
   - type: refines
     target: STK-XZPKF8
+    confirmed: f082d5e65a7a
 ---
 The status LED shall synchronise the operating mode in all supported languages.
 

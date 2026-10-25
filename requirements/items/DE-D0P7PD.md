@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-GMDDQC
+    confirmed: 1b819fa45f3b
 ---
 Implemented in `src/cloud/user_account_service.c`.

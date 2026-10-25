@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MEFF8R
+    confirmed: f144cf8852e5
 ---
 The heating controller shall authenticate the operating mode using AES-256-GCM.
 

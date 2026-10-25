@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-KVH0QX
+    confirmed: 12318aa6eb13
 ---
 The over-temperature monitor shall limit humidity values below 0.5 W in standby.
 

@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-HRRNGW
+    confirmed: afbcfeedc1e2
 ---
 The power supply shall report firmware images for up to 8 zones.
 

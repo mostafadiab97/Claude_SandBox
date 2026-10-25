@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-8S81RT
+    confirmed: 789b723216ac
 ---
 Implemented in `src/heat/boiler_interface.c`.

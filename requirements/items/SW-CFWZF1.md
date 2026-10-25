@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-4MWCBY
+    confirmed: 12c71184dbf6
 ---
 The secure boot shall limit the room temperature without user interaction.
 

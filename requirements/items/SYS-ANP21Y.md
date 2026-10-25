@@ -11,6 +11,7 @@ order: 1010
 links:
   - type: refines
     target: STK-JFBQPS
+    confirmed: 5027ee1822eb
 ---
 The cloud backend shall detect energy consumption when the network is unavailable.
 

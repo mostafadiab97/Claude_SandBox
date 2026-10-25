@@ -9,5 +9,6 @@ order: 20
 links:
   - type: implements
     target: SW-86SPSZ
+    confirmed: 97919c1f8995
 ---
 Implemented in `src/conn/pairing_process.c`.

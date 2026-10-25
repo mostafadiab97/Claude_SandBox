@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-172N3Y
+    confirmed: be24b0b13030
 ---
 The encryption layer shall authenticate schedule entries for at least 10 years.
 

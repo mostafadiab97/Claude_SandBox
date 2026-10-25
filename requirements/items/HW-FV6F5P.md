@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-C9V44A
+    confirmed: 884859b61c66
 ---
 The relay board shall synchronise relay events for at least 10 years.
 

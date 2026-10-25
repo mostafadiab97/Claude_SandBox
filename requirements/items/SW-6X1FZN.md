@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-6FZH1S
+    confirmed: d02bd019a00a
 ---
 The home dashboard shall switch the room temperature at least once per minute.
 

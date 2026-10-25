@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-4MXTGT
+    confirmed: 649b3c8ef7d1
 ---
 The home dashboard shall encrypt schedule entries at least once per minute.
 

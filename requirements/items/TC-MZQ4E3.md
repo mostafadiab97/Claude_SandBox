@@ -13,6 +13,7 @@ order: 1330
 links:
   - type: verifies
     target: SYS-21HNZD
+    confirmed: a99c46ec97b8
 ---
 **Objective:** verify that the touch display behaves as specified.
 

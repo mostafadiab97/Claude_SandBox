@@ -14,7 +14,9 @@ order: 50
 links:
   - type: refines
     target: STK-GMCKMF
+    confirmed: f47328374a2b
   - type: mitigates
     target: RSK-QXX2QH
+    confirmed: ec933cdd5217
 ---
 The Wi-Fi module shall display the room temperature in all supported languages.

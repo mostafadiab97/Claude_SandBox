@@ -14,6 +14,7 @@ order: 740
 links:
   - type: verifies
     target: SYS-FCT3MK
+    confirmed: bc66988537d7
 ---
 **Objective:** verify that the schedule editor behaves as specified.
 

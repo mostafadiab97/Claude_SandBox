@@ -10,6 +10,7 @@ order: 430
 links:
   - type: verifies
     target: SYS-FMVZ4N
+    confirmed: 64d198139b67
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

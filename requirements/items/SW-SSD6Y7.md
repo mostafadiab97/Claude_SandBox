@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-XJA19E
+    confirmed: 907af0c1b352
 ---
 The over-temperature monitor shall calibrate schedule entries with an accuracy of ±0.5 °C.

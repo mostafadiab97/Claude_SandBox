@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-VRB76Z
+    confirmed: 15cce5c5b6ba
 ---
 The secure boot shall detect relay events after a power loss.
 

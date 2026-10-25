@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-B7MWJ2
+    confirmed: cfcb93c868dc
 ---
 The Zigbee radio shall display sensor readings without user interaction.
 

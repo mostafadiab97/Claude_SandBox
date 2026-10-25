@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-RB6KMZ
+    confirmed: 9e9699c7ff42
 ---
 The Zigbee radio shall switch energy consumption without user interaction.
 

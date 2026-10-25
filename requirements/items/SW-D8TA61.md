@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-HDKX27
+    confirmed: d0734b718c2e
 ---
 The touch display shall calibrate the set point without user interaction.

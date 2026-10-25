@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-1XCVNB
+    confirmed: 54d963c03420
 ---
 The mobile app shall validate humidity values at least once per minute.
 

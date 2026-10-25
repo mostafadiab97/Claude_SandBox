@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: HW-0W8W30
+    confirmed: 6f05a4562143
 ---
 The pairing process shall authenticate audit records after a power loss.

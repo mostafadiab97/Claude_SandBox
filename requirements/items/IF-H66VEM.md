@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-K367WR
+    confirmed: 3d96f70b4db3
 ---
 The user account service shall log user preferences in under 3 s.
 

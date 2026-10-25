@@ -12,8 +12,10 @@ order: 930
 links:
   - type: refines
     target: STK-M28XWW
+    confirmed: bcf262f10744
   - type: mitigates
     target: RSK-W413B9
+    confirmed: 1a4d2dc5e12b
 ---
 The enclosure shall measure the room temperature using AES-256-GCM.
 

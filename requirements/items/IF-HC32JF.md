@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-6Y1YT5
+    confirmed: a6d38b4cbf14
 ---
 The boiler interface shall synchronise energy consumption when the network is unavailable.
 

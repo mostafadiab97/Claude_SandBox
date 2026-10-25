@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SW-2T3SDJ
+    confirmed: 97ade53ddf7b
 ---
 The telemetry pipeline shall restore error conditions for up to 8 zones.

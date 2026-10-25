@@ -11,5 +11,6 @@ order: 760
 links:
   - type: refines
     target: STK-B9Y7CM
+    confirmed: 2e83dea5db22
 ---
 The home dashboard shall restore error conditions with an accuracy of ±0.5 °C.

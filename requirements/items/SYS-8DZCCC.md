@@ -13,6 +13,7 @@ order: 2140
 links:
   - type: refines
     target: STK-22X165
+    confirmed: 0023c9af8e7d
 ---
 The pairing process shall report safety limits with an accuracy of ±0.5 °C.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-2P252V
+    confirmed: 3e6e63c540b2
 ---
 The schedule editor shall log the room temperature when the network is unavailable.
 

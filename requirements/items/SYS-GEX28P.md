@@ -13,5 +13,6 @@ order: 1530
 links:
   - type: refines
     target: STK-PCP268
+    confirmed: 74f66b1bb8e8
 ---
 The touch display shall switch the set point within 200 ms.

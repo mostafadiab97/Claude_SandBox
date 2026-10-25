@@ -14,5 +14,6 @@ order: 30
 links:
   - type: refines
     target: SYS-TXF8EG
+    confirmed: 941441170ff9
 ---
 The regulation loop shall restore safety limits below 0.5 W in standby.

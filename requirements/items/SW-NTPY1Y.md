@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-ZVPM29
+    confirmed: 74f2cdf0b355
 ---
 The tamper detection shall notify error conditions in under 3 s.
 

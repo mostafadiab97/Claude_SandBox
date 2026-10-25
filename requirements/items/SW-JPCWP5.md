@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-Z3AF7E
+    confirmed: 9dfa61330ebe
 ---
 The menu system shall report the operating mode when the network is unavailable.
 

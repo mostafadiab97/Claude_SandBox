@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-8PSQE0
+    confirmed: 6c3a3bfcff30
 ---
 The user account service shall limit schedule entries after a power loss.

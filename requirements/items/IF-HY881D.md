@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-PERCNX
+    confirmed: 6bc9ba229103
 ---
 The login screen shall display the connection state in under 3 s.
 

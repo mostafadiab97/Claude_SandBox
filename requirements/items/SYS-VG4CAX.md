@@ -10,6 +10,7 @@ order: 1250
 links:
   - type: refines
     target: STK-2STGXE
+    confirmed: c77fe61daf4b
 ---
 The main PCB shall detect schedule entries using AES-256-GCM.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-BS08SF
+    confirmed: 4d5371598d96
 ---
 The over-temperature monitor shall limit access tokens within 200 ms.
 

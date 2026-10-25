@@ -12,8 +12,10 @@ order: 1980
 links:
   - type: refines
     target: STK-9YF5RE
+    confirmed: 43643c03020f
   - type: mitigates
     target: RSK-GP1TY2
+    confirmed: 50cb7d905eb0
 ---
 The heat pump driver shall display sensor readings for at least 10 years.
 

@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-5NPG22
+    confirmed: de7334e55ef0
 ---
 The Wi-Fi module shall display the set point at least once per minute.

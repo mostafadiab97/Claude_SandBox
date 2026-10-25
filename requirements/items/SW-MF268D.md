@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-RXWF3R
+    confirmed: f3d27e3d9880
 ---
 The backlight shall limit audit records in all supported languages.
 

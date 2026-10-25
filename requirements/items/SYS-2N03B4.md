@@ -11,6 +11,7 @@ order: 1120
 links:
   - type: refines
     target: STK-0AD5XP
+    confirmed: 30e7f07df0d1
 ---
 The Bluetooth LE link shall log the room temperature without user interaction.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-6M9X9N
+    confirmed: 2a2857a71beb
 ---
 The watchdog shall limit the connection state within 200 ms.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-Q32CFF
+    confirmed: 178903f1a8f4
 ---
 The touch display shall detect humidity values using AES-256-GCM.
 

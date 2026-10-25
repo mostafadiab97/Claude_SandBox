@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-K8NQFV
+    confirmed: 85b34b755d1e
 ---
 The zone valve shall log the connection state below 0.5 W in standby.
 

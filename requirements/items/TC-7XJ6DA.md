@@ -12,6 +12,7 @@ order: 890
 links:
   - type: verifies
     target: SYS-V3KNC0
+    confirmed: c71efbcdb7bc
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

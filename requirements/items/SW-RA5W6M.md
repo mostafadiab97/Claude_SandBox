@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-5CXE8W
+    confirmed: 36aae11cfefa
 ---
 The telemetry pipeline shall store the room temperature in under 3 s.

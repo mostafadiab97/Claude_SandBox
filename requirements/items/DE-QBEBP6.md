@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-KFN479
+    confirmed: b3134a49a3a8
 ---
 Implemented in `src/ui/menu_system.c`.

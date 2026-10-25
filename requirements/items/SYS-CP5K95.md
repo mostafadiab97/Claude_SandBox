@@ -10,6 +10,7 @@ order: 820
 links:
   - type: refines
     target: STK-B9Y7CM
+    confirmed: 2e83dea5db22
 ---
 The home dashboard shall log the room temperature after a power loss.
 

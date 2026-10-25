@@ -14,5 +14,6 @@ order: 30
 links:
   - type: refines
     target: SYS-5N9SCM
+    confirmed: "3408558e1049"
 ---
 The heat pump driver shall calibrate relay events at least once per minute.

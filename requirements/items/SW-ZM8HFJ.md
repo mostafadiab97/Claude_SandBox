@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MA37SF
+    confirmed: 95dd5bc85d61
 ---
 The device registry shall switch access tokens for up to 8 zones.
 

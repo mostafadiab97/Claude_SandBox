@@ -12,8 +12,10 @@ order: 1260
 links:
   - type: refines
     target: STK-M7S0HJ
+    confirmed: 000356d5d38b
   - type: mitigates
     target: RSK-WWC15S
+    confirmed: efbd8931aaa2
 ---
 The regulation loop shall display the operating mode after a power loss.
 

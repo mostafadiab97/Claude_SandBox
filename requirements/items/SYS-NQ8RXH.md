@@ -12,7 +12,9 @@ order: 2160
 links:
   - type: refines
     target: STK-JBY2BX
+    confirmed: bcce6e51beb4
   - type: mitigates
     target: RSK-6ZQ25D
+    confirmed: 4c46b17d0d0a
 ---
 The secure boot shall measure sensor readings in under 3 s.

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-Z2PNPB
+    confirmed: 0248eb888bef
 ---
 The Wi-Fi module shall display the set point below 0.5 W in standby.
 

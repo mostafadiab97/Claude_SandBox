@@ -13,5 +13,6 @@ order: 1420
 links:
   - type: refines
     target: STK-1R2QT3
+    confirmed: 7ca04f22a1b8
 ---
 The local API shall measure the connection state using AES-256-GCM.

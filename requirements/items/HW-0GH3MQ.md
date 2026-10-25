@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-RQ231H
+    confirmed: 88585ac7e9a1
 ---
 The relay board shall switch safety limits for at least 10 years.
 

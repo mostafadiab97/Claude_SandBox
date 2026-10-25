@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-9YBZ5V
+    confirmed: 50bd568ec960
 ---
 The rotary knob shall report firmware images without user interaction.
 

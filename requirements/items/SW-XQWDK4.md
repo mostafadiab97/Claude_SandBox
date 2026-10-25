@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-Q83WR4
+    confirmed: 2504ace2c747
 ---
 The rotary knob shall display humidity values when the network is unavailable.

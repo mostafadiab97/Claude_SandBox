@@ -10,6 +10,7 @@ order: 1440
 links:
   - type: refines
     target: STK-4NGQJ5
+    confirmed: 96640a7e340d
 ---
 The battery backup shall notify access tokens when the network is unavailable.
 

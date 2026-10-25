@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-G1EY1S
+    confirmed: 0765f686e186
 ---
 The menu system shall report audit records for at least 10 years.
 

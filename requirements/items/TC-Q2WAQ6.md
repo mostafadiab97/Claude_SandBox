@@ -11,6 +11,7 @@ order: 1430
 links:
   - type: verifies
     target: SYS-4RKE3A
+    confirmed: a899eccfab06
 ---
 **Objective:** verify that the rotary knob behaves as specified.
 

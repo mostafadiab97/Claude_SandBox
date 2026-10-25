@@ -9,6 +9,7 @@ order: 40
 links:
   - type: refines
     target: SYS-3JQGM8
+    confirmed: 9748f881870f
 ---
 The encryption layer shall switch error conditions for at least 10 years.
 

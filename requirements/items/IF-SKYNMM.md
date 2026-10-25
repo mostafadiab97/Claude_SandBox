@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-FDJDP9
+    confirmed: 3facea10cce7
 ---
 The secure boot shall synchronise firmware images within 200 ms.
 

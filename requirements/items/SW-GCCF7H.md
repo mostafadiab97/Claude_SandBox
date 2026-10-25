@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-2NPFB8
+    confirmed: 5220caa76f4b
 ---
 The user account service shall restore the set point for at least 10 years.
 

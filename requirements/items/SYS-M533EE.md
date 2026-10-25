@@ -10,6 +10,7 @@ order: 1510
 links:
   - type: refines
     target: STK-ZWN5M8
+    confirmed: 994b9d44bde8
 ---
 The battery backup shall limit firmware images at least once per minute.
 

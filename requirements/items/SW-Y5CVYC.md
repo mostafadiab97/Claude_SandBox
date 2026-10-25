@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-1F54XW
+    confirmed: 63e961a2987d
 ---
 The cloud backend shall calibrate audit records within 200 ms.
 

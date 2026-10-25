@@ -12,8 +12,10 @@ order: 330
 links:
   - type: refines
     target: STK-EFJRJ9
+    confirmed: fc922ec1a72e
   - type: mitigates
     target: RSK-5BE1FT
+    confirmed: a62dde39783d
 ---
 The boiler interface shall detect audit records at least once per minute.
 

@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-CH0H2M
+    confirmed: dcde66db1e30
 ---
 The status LED shall restore relay events for up to 8 zones.

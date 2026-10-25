@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-5N9SCM
+    confirmed: "3408558e1049"
 ---
 The heat pump driver shall limit energy consumption within 200 ms.

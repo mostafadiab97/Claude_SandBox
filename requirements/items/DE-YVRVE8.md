@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-5ZAFWN
+    confirmed: dabae8beaf50
 ---
 Implemented in `src/safe/secure_boot.c`.

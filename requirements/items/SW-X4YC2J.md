@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-81C7XG
+    confirmed: b58b7666ff81
 ---
 The watchdog shall authenticate relay events below 0.5 W in standby.
 

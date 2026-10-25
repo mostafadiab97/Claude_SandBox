@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-ZG2A7P
+    confirmed: dd3e6f066e4e
 ---
 The cloud backend shall calibrate sensor readings when the network is unavailable.
 

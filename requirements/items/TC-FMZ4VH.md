@@ -10,6 +10,7 @@ order: 270
 links:
   - type: verifies
     target: SYS-94CAYR
+    confirmed: a1ec4218b106
 ---
 **Objective:** verify that the user account service behaves as specified.
 

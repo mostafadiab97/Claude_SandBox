@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-S318HE
+    confirmed: a8739639e10d
 ---
 The menu system shall display energy consumption in under 3 s.
 

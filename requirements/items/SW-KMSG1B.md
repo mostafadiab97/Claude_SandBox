@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-19PGBF
+    confirmed: ae3b18f7d74c
 ---
 The heating controller shall measure safety limits within 200 ms.
 

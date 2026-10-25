@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-GVQ2KE
+    confirmed: 87167ec45d26
 ---
 The pairing process shall measure relay events within 200 ms.
 

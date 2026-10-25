@@ -13,5 +13,6 @@ order: 2040
 links:
   - type: refines
     target: STK-G2H1B9
+    confirmed: fce33b342585
 ---
 The over-temperature monitor shall restore audit records at least once per minute.

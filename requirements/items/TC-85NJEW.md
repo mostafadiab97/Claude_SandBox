@@ -12,6 +12,7 @@ order: 1950
 links:
   - type: verifies
     target: SYS-34B7MH
+    confirmed: 9aafb86ae7fb
 ---
 **Objective:** verify that the device behaves as specified.
 

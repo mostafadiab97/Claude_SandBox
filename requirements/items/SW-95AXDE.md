@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-RJBYTY
+    confirmed: 8b795ddb3eaf
 ---
 The touch display shall notify energy consumption after a power loss.
 

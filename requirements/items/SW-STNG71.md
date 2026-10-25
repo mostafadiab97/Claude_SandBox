@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-3FCPBN
+    confirmed: 53e5304c7666
 ---
 The boiler interface shall validate energy consumption for at least 10 years.

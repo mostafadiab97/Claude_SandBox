@@ -10,6 +10,7 @@ order: 1650
 links:
   - type: refines
     target: STK-8PN4VS
+    confirmed: a3e83ac40678
 ---
 The status LED shall report firmware images within 200 ms.
 

@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SW-HY5F5F
+    confirmed: e62f4f79aa12
 ---
 The home dashboard shall report the operating mode when the network is unavailable.
 

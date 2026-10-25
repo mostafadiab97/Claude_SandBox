@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: IF-M7HYKX
+    confirmed: 7174db36477e
 ---
 The secure boot shall authenticate the room temperature when the network is unavailable.
 

@@ -13,5 +13,6 @@ order: 1120
 links:
   - type: refines
     target: STK-B4ZH98
+    confirmed: c19c22627f21
 ---
 The tamper detection shall calibrate user preferences below 0.5 W in standby.

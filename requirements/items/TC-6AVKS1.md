@@ -13,6 +13,7 @@ order: 500
 links:
   - type: verifies
     target: SYS-38FJX0
+    confirmed: 215aef7ef123
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

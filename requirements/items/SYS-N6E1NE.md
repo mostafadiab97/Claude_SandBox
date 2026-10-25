@@ -14,8 +14,10 @@ order: 210
 links:
   - type: refines
     target: STK-Q9RBYT
+    confirmed: a67c8b718d88
   - type: mitigates
     target: RSK-PV2FA3
+    confirmed: b0d749ed0447
 ---
 The Bluetooth LE link shall synchronise sensor readings for at least 10 years.
 

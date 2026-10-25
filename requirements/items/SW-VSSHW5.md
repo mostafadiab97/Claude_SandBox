@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-9RTKP2
+    confirmed: 3379698ed305
 ---
 The heating controller shall calibrate the operating mode below 0.5 W in standby.
 

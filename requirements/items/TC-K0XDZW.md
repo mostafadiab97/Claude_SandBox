@@ -13,8 +13,10 @@ order: 330
 links:
   - type: verifies
     target: SYS-B2CPV7
+    confirmed: f3e9ccc7a316
   - type: verifies
     target: SW-2H0559
+    confirmed: 5579dea52157
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

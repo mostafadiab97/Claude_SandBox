@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-1AMMK8
+    confirmed: 6b7fab82fc75
 ---
 The local API shall validate user preferences in under 3 s.

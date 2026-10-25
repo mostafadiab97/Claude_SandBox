@@ -9,8 +9,10 @@ order: 1130
 links:
   - type: verifies
     target: SYS-HAF95K
+    confirmed: dde92a3c92b3
   - type: verifies
     target: SW-1H9E9G
+    confirmed: 7e07c68a1de6
 ---
 **Objective:** verify that the menu system behaves as specified.
 

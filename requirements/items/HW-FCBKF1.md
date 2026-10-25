@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-SJNR25
+    confirmed: 387a89ed8e59
 ---
 The main PCB shall validate firmware images at least once per minute.
 

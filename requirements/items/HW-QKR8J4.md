@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-11FFG3
+    confirmed: b87802a5ad61
 ---
 The battery backup shall calibrate access tokens using AES-256-GCM.
 

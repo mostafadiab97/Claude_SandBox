@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-RASXVA
+    confirmed: ede27c9e1c7f
 ---
 The cloud backend shall calibrate user preferences for up to 8 zones.
 

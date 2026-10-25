@@ -13,6 +13,7 @@ order: 1550
 links:
   - type: refines
     target: STK-EWSQ9Z
+    confirmed: aa5e4143dbe7
 ---
 The zone valve shall notify energy consumption within 200 ms.
 

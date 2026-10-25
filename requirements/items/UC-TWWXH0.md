@@ -10,6 +10,7 @@ order: 170
 links:
   - type: relates-to
     target: STK-4NCGP6
+    confirmed: 34735dce772b
 ---
 **Actor:** home owner
 

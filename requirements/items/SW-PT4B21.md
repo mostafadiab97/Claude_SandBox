@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-FD2FZ8
+    confirmed: 4dfe758a6e2c
 ---
 The tamper detection shall notify relay events when the network is unavailable.

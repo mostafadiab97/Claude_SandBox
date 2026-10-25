@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-NDHES6
+    confirmed: 93697423a54b
 ---
 The menu system shall validate user preferences for at least 10 years.
 

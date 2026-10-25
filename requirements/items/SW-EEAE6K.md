@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-JF3REC
+    confirmed: c2bec4a69526
 ---
 The pairing process shall synchronise user preferences without user interaction.

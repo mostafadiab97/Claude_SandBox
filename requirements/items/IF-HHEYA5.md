@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: IF-RREG5Q
+    confirmed: ffc0e5e5178c
 ---
 The telemetry pipeline shall detect sensor readings when the network is unavailable.
 

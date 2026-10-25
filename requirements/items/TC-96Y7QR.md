@@ -10,8 +10,10 @@ order: 1160
 links:
   - type: verifies
     target: SYS-VDRW9V
+    confirmed: 0ac53f80c216
   - type: verifies
     target: SW-TZCS9C
+    confirmed: d8fdea0c8e00
 ---
 **Objective:** verify that the relay board behaves as specified.
 

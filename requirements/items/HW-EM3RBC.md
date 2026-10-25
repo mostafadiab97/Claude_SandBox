@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-0C1Q7X
+    confirmed: 4646138416b6
 ---
 The backlight shall store audit records with an accuracy of ±0.5 °C.
 

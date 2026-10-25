@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-HMK3XJ
+    confirmed: 243ec13ec9e6
 ---
 The secure boot shall store energy consumption with an accuracy of ±0.5 °C.
 

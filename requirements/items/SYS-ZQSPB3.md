@@ -14,8 +14,10 @@ order: 620
 links:
   - type: refines
     target: STK-EWSQ9Z
+    confirmed: aa5e4143dbe7
   - type: mitigates
     target: RSK-AA3YJ3
+    confirmed: 84e686f1bbcc
 ---
 The zone valve shall log energy consumption at least once per minute.
 

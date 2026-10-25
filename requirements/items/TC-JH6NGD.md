@@ -10,6 +10,7 @@ order: 1350
 links:
   - type: verifies
     target: SYS-NA1SC7
+    confirmed: 5bf0247d7ebd
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

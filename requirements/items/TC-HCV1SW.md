@@ -13,8 +13,10 @@ order: 480
 links:
   - type: verifies
     target: SYS-RAHT6W
+    confirmed: 3ed84532df89
   - type: verifies
     target: SW-AT00E2
+    confirmed: 7f592a075c3f
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

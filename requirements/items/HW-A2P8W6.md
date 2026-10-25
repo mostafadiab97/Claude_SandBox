@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-98SWXJ
+    confirmed: 2eaf1870cc5d
 ---
 The main PCB shall limit safety limits in all supported languages.

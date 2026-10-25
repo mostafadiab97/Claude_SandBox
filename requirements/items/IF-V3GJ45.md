@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: IF-80DE29
+    confirmed: bfaf94a9a91e
 ---
 The secure boot shall restore the room temperature with an accuracy of ±0.5 °C.
 

@@ -9,6 +9,7 @@ order: 160
 links:
   - type: refines
     target: STK-MC9ASH
+    confirmed: a4f2ebaecfbe
 ---
 The login screen shall synchronise the room temperature with an accuracy of ±0.5 °C.
 

@@ -12,5 +12,6 @@ order: 40
 links:
   - type: refines
     target: SYS-2XXCCW
+    confirmed: 8a24cf881fb1
 ---
 The encryption layer shall switch firmware images when the network is unavailable.

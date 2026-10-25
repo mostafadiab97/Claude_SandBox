@@ -10,6 +10,7 @@ order: 1010
 links:
   - type: refines
     target: STK-KPV71Q
+    confirmed: 10d9c216aea2
 ---
 The menu system shall restore safety limits below 0.5 W in standby.
 

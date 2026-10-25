@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-9BKWE6
+    confirmed: 69aa4344ccec
 ---
 The OTA server shall detect user preferences in all supported languages.

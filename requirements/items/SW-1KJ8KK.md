@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-XPCTNY
+    confirmed: 042eed4f2a11
 ---
 The backlight shall detect the room temperature in all supported languages.

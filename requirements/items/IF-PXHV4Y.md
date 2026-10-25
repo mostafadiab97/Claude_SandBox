@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-7C9J06
+    confirmed: cd6745f84064
 ---
 The backlight shall store the set point in under 3 s.
 

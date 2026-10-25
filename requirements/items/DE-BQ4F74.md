@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-75XXSR
+    confirmed: 0a1871ba51cc
 ---
 Implemented in `src/heat/heating_controller.c`.

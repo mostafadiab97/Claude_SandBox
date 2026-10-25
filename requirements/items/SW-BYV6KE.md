@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-2537HM
+    confirmed: 757b06263a13
 ---
 The device registry shall synchronise error conditions when the network is unavailable.

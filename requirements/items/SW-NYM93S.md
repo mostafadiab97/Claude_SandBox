@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-H3FFZV
+    confirmed: 5a7f9180a50d
 ---
 The backlight shall detect relay events in all supported languages.

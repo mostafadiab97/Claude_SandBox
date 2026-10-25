@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-MR5CRK
+    confirmed: ff67b7696602
 ---
 The tamper detection shall validate sensor readings with an accuracy of ±0.5 °C.
 

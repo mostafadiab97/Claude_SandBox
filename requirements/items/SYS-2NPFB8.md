@@ -14,6 +14,7 @@ order: 800
 links:
   - type: refines
     target: STK-Y5PMTC
+    confirmed: 047439fb0db8
 ---
 The user account service shall display error conditions for at least 10 years.
 

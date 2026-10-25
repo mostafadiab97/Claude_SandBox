@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-H40ZC8
+    confirmed: a59873eb8362
 ---
 The rotary knob shall detect error conditions for at least 10 years.
 

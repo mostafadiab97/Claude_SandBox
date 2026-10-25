@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-HPNQHQ
+    confirmed: 4fe382f87558
 ---
 The login screen shall switch the operating mode after a power loss.
 

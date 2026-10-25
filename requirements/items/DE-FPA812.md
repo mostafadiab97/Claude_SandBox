@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-VQZJBE
+    confirmed: 8b45568161ae
 ---
 Implemented in `src/app/schedule_editor.c`.

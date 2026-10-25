@@ -10,5 +10,6 @@ order: 470
 links:
   - type: refines
     target: STK-F8MTPC
+    confirmed: b5e443c4b84c
 ---
 The schedule editor shall validate access tokens at least once per minute.

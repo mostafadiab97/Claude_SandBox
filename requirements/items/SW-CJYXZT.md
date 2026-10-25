@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-RCK4NZ
+    confirmed: 32fb1eff344d
 ---
 The device registry shall calibrate firmware images for up to 8 zones.
 

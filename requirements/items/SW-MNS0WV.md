@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-RGCFDP
+    confirmed: 703711cfcecf
 ---
 The watchdog shall store user preferences at least once per minute.
 

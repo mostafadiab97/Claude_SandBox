@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-M1JWVB
+    confirmed: b1bab8074bf3
 ---
 The battery backup shall validate user preferences without user interaction.
 

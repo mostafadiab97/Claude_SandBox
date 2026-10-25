@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-GBTGV5
+    confirmed: 3f594322748c
 ---
 The device registry shall switch sensor readings at least once per minute.
 

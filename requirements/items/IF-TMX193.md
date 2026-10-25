@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-387701
+    confirmed: 0b7909b67648
 ---
 The enclosure shall report the room temperature in all supported languages.
 

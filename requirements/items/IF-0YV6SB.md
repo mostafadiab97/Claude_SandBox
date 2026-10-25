@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-QBP134
+    confirmed: 6e1a778017fa
 ---
 The home dashboard shall log safety limits using AES-256-GCM.

@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-JHZTBB
+    confirmed: a18fdffef991
 ---
 The backlight shall encrypt energy consumption within 200 ms.
 

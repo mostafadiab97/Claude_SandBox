@@ -10,6 +10,7 @@ order: 310
 links:
   - type: verifies
     target: SYS-TV1J1J
+    confirmed: 4dad1a572bf6
 ---
 **Objective:** verify that the status LED behaves as specified.
 

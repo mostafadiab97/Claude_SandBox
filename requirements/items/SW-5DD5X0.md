@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-8FZWQN
+    confirmed: da1b062f4b9e
 ---
 The over-temperature monitor shall detect the room temperature at least once per minute.
 

@@ -10,8 +10,10 @@ order: 970
 links:
   - type: verifies
     target: SYS-QBP134
+    confirmed: 6e1a778017fa
   - type: verifies
     target: SW-RKA76Z
+    confirmed: f76ca26e4df8
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

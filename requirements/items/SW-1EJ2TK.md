@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-MX8XXF
+    confirmed: 38778e16bd81
 ---
 The pairing process shall notify firmware images when the network is unavailable.

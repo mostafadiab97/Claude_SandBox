@@ -14,6 +14,7 @@ order: 1260
 links:
   - type: verifies
     target: SYS-2KGJFW
+    confirmed: 33b6774f671a
 ---
 **Objective:** verify that the device behaves as specified.
 

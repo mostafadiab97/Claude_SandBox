@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-CJVNAT
+    confirmed: c41a3807a409
 ---
 Implemented in `src/ui/menu_system.c`.

@@ -13,5 +13,6 @@ order: 1130
 links:
   - type: refines
     target: STK-35QR7F
+    confirmed: bc1aebb7918d
 ---
 The backlight shall authenticate access tokens in under 3 s.

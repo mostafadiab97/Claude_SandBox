@@ -13,5 +13,6 @@ order: 70
 links:
   - type: refines
     target: STK-JFBQPS
+    confirmed: 5027ee1822eb
 ---
 The telemetry pipeline shall store safety limits when the network is unavailable.

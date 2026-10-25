@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-M2DDZ3
+    confirmed: 1fa4e7b531b5
 ---
 The mobile app shall detect the operating mode at least once per minute.
 

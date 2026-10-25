@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-12P0BS
+    confirmed: d8b351a5c8e8
 ---
 The cloud backend shall restore relay events with an accuracy of ±0.5 °C.

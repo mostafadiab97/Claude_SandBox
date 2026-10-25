@@ -13,6 +13,7 @@ order: 1410
 links:
   - type: refines
     target: STK-CJBDWK
+    confirmed: b9e9b89c87b3
 ---
 The cloud backend shall notify audit records in all supported languages.
 

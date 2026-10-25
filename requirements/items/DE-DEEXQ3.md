@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-SWVQYB
+    confirmed: 14ead55198dd
 ---
 Implemented in `src/app/login_screen.c`.

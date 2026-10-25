@@ -12,5 +12,6 @@ order: 200
 links:
   - type: refines
     target: STK-XSQC89
+    confirmed: 66c246d6b1dc
 ---
 The watchdog shall limit the operating mode after a power loss.

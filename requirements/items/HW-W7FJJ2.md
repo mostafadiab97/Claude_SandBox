@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-F28JAH
+    confirmed: d2f3c3322d09
 ---
 The menu system shall measure energy consumption without user interaction.
 

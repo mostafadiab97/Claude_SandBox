@@ -10,8 +10,10 @@ order: 1230
 links:
   - type: verifies
     target: SYS-FP6P6A
+    confirmed: fa24f6ea73fa
   - type: verifies
     target: SW-82VWC8
+    confirmed: d65f935ce203
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

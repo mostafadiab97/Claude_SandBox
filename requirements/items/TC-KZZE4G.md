@@ -12,8 +12,10 @@ order: 530
 links:
   - type: verifies
     target: SYS-82CVHQ
+    confirmed: 53eb98981ee7
   - type: verifies
     target: SW-ZQNECF
+    confirmed: 616347694a14
 ---
 **Objective:** verify that the power supply behaves as specified.
 

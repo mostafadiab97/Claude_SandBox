@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-40FZW3
+    confirmed: 742369f303cc
 ---
 The user account service shall encrypt sensor readings below 0.5 W in standby.
 

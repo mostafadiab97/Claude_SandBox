@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XP4ZAH
+    confirmed: b8b57a2c487b
 ---
 The regulation loop shall detect the room temperature at least once per minute.
 

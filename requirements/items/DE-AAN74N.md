@@ -10,5 +10,6 @@ order: 20
 links:
   - type: implements
     target: SW-H14SJR
+    confirmed: db1ae44a8ed8
 ---
 Implemented in `src/conn/local_API.c`.

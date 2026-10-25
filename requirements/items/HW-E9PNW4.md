@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-7NQQC7
+    confirmed: 3afbbd800686
 ---
 The rotary knob shall restore firmware images without user interaction.
 

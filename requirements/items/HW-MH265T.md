@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-7GMD9Z
+    confirmed: c158e15e62b6
 ---
 The mobile app shall log access tokens in all supported languages.
 

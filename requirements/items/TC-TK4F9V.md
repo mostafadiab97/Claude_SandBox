@@ -12,8 +12,10 @@ order: 580
 links:
   - type: verifies
     target: SYS-WQRW57
+    confirmed: a077b95b29b8
   - type: verifies
     target: SW-0B9G6V
+    confirmed: 4dd853c054a2
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

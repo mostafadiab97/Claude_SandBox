@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-JF5Y3D
+    confirmed: d5f9f8f2f306
 ---
 The pairing process shall measure schedule entries for up to 8 zones.
 

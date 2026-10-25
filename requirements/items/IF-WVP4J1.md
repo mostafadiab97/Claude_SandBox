@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: IF-6VDCMB
+    confirmed: 5dcdedee95f6
 ---
 The over-temperature monitor shall validate the connection state after a power loss.

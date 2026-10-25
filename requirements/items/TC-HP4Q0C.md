@@ -12,8 +12,10 @@ order: 240
 links:
   - type: verifies
     target: SYS-7THG7S
+    confirmed: c2a2db34ec62
   - type: verifies
     target: SW-WRPYK6
+    confirmed: 54253c7ea624
 ---
 **Objective:** verify that the zone valve behaves as specified.
 

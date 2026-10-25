@@ -10,6 +10,7 @@ order: 950
 links:
   - type: refines
     target: STK-BV5YMS
+    confirmed: 07434b0b5615
 ---
 The menu system shall store energy consumption with an accuracy of ±0.5 °C.
 

@@ -10,8 +10,10 @@ order: 1050
 links:
   - type: refines
     target: STK-EWSQ9Z
+    confirmed: aa5e4143dbe7
   - type: mitigates
     target: RSK-AA3YJ3
+    confirmed: 84e686f1bbcc
 ---
 The heat pump driver shall encrypt the room temperature below 0.5 W in standby.
 

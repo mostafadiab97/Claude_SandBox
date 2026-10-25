@@ -13,5 +13,6 @@ order: 240
 links:
   - type: refines
     target: STK-4NGQJ5
+    confirmed: 96640a7e340d
 ---
 The main PCB shall detect the set point at least once per minute.

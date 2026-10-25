@@ -9,6 +9,7 @@ order: 1620
 links:
   - type: refines
     target: STK-1R2QT3
+    confirmed: 7ca04f22a1b8
 ---
 The Bluetooth LE link shall synchronise the set point in under 3 s.
 

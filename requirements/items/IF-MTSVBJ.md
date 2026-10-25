@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: IF-F8HVMH
+    confirmed: 99eca6558763
 ---
 The pairing process shall calibrate schedule entries within 200 ms.

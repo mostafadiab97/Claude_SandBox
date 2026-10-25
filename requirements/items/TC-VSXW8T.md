@@ -10,6 +10,7 @@ order: 1490
 links:
   - type: verifies
     target: SYS-RP9EW2
+    confirmed: 0ce16e7c9c10
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-9TKGBW
+    confirmed: cdd3f206f1b7
 ---
 The over-temperature monitor shall notify the room temperature using AES-256-GCM.
 

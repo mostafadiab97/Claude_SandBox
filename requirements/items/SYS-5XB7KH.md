@@ -13,5 +13,6 @@ order: 1180
 links:
   - type: refines
     target: STK-GMCKMF
+    confirmed: f47328374a2b
 ---
 The Bluetooth LE link shall store firmware images in all supported languages.

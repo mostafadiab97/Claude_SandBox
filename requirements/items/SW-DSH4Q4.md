@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-S5AVVB
+    confirmed: 21ef3d7af8e5
 ---
 The user account service shall log firmware images using AES-256-GCM.
 

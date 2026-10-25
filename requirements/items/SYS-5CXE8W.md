@@ -10,5 +10,6 @@ order: 1780
 links:
   - type: refines
     target: STK-4NCGP6
+    confirmed: 34735dce772b
 ---
 The telemetry pipeline shall authenticate the room temperature after a power loss.

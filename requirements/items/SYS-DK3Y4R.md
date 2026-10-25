@@ -13,6 +13,7 @@ order: 1230
 links:
   - type: refines
     target: STK-7F9256
+    confirmed: 5588db2eb80a
 ---
 The relay board shall validate energy consumption below 0.5 W in standby.
 

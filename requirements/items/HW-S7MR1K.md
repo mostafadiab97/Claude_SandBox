@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-D4MGRN
+    confirmed: b3e25b1d60cb
 ---
 The user account service shall limit access tokens when the network is unavailable.
 

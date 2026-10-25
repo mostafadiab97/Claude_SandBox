@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-04ZGE8
+    confirmed: 10dcdf47ad95
 ---
 The zone valve shall synchronise access tokens using AES-256-GCM.
 

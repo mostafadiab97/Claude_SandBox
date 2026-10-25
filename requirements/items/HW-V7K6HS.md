@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-CHKY3X
+    confirmed: 3654ea6dcd35
 ---
 The mobile app shall synchronise energy consumption for up to 8 zones.

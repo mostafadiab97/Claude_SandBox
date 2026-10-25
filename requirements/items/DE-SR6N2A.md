@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-368DJX
+    confirmed: 096152fc2a70
 ---
 Implemented in `src/app/mobile_app.c`.

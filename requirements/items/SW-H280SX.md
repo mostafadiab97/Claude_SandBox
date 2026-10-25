@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-7G556P
+    confirmed: d4d136b4fe06
 ---
 The status LED shall report user preferences when the network is unavailable.
 

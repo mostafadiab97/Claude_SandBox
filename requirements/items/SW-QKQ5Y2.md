@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-6XP8WD
+    confirmed: 7d377887eb21
 ---
 The pairing process shall synchronise error conditions without user interaction.
 

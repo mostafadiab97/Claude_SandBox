@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-EJR3YH
+    confirmed: 7b3dac33b561
 ---
 The secure boot shall validate sensor readings without user interaction.
 

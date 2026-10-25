@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-BFB7EF
+    confirmed: a7ba030d51de
 ---
 The power supply shall limit user preferences after a power loss.
 

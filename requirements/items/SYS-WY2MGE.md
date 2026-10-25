@@ -12,6 +12,7 @@ order: 1260
 links:
   - type: refines
     target: STK-KPV71Q
+    confirmed: 10d9c216aea2
 ---
 The status LED shall report audit records at least once per minute.
 

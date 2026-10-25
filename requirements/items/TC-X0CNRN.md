@@ -13,6 +13,7 @@ order: 1460
 links:
   - type: verifies
     target: SYS-JHZDTN
+    confirmed: a2bd8c822300
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

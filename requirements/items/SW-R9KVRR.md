@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-FY6GGE
+    confirmed: 9936c076515d
 ---
 The boiler interface shall encrypt audit records within 200 ms.
 

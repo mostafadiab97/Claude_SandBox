@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-76VDPG
+    confirmed: ff6ec08a24da
 ---
 The enclosure shall restore error conditions below 0.5 W in standby.
 

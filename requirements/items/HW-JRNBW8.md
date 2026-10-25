@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-E3W0C4
+    confirmed: 6069f1d540ab
 ---
 The enclosure shall limit the operating mode at least once per minute.
 

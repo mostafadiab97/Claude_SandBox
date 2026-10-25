@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-RAGJWJ
+    confirmed: 8fefcc6bf8d8
 ---
 The over-temperature monitor shall display energy consumption for at least 10 years.
 

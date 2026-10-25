@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-BBX6H4
+    confirmed: eea34ba9a0b3
 ---
 The encryption layer shall log safety limits using AES-256-GCM.

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-JAKT2B
+    confirmed: 7ee8a51de204
 ---
 The telemetry pipeline shall synchronise access tokens using AES-256-GCM.
 

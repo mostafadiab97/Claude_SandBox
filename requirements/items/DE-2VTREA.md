@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-CD64BA
+    confirmed: f7be308643e4
 ---
 Implemented in `src/heat/heating_controller.c`.

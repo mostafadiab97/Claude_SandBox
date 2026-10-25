@@ -13,6 +13,7 @@ order: 1370
 links:
   - type: verifies
     target: SYS-ZTHS0F
+    confirmed: 1917153ef15c
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.
 

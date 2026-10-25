@@ -14,6 +14,7 @@ order: 960
 links:
   - type: verifies
     target: SYS-21S4KC
+    confirmed: 3c1f845c98e2
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

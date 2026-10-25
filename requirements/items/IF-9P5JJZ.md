@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-2Y9FGT
+    confirmed: 4c561d45744d
 ---
 The login screen shall authenticate humidity values within 200 ms.
 

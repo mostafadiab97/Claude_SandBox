@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QBP134
+    confirmed: 6e1a778017fa
 ---
 The home dashboard shall synchronise the set point after a power loss.
 

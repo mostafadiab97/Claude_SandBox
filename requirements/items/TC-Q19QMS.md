@@ -14,6 +14,7 @@ order: 350
 links:
   - type: verifies
     target: SYS-Y33EQ3
+    confirmed: 06b5de7a3ad6
 ---
 **Objective:** verify that the zone valve behaves as specified.
 

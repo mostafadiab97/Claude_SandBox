@@ -14,6 +14,7 @@ order: 1010
 links:
   - type: verifies
     target: SYS-ZENQH5
+    confirmed: 2ab203b72e19
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

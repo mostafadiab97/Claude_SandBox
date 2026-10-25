@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-J17HQ6
+    confirmed: e0be285eec93
 ---
 The login screen shall encrypt the room temperature within 200 ms.

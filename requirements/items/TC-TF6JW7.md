@@ -12,6 +12,7 @@ order: 1370
 links:
   - type: verifies
     target: SYS-NZJKH0
+    confirmed: 3f0107cdd84c
 ---
 **Objective:** verify that the device behaves as specified.
 

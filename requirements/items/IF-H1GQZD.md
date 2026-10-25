@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-MQR6RF
+    confirmed: d9d4b12d67de
 ---
 The relay board shall measure humidity values after a power loss.

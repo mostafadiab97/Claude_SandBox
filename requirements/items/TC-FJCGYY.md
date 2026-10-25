@@ -10,8 +10,10 @@ order: 240
 links:
   - type: verifies
     target: SYS-H82ZTG
+    confirmed: f99414faf3d8
   - type: verifies
     target: SW-MV99XM
+    confirmed: ebb6a7b1b83a
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

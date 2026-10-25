@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-7M1BY1
+    confirmed: d12d9fe139a8
 ---
 Implemented in `src/cloud/telemetry_pipeline.c`.

@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-RAHT6W
+    confirmed: 3ed84532df89
 ---
 The main PCB shall switch safety limits when the network is unavailable.
 

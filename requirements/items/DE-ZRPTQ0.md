@@ -14,5 +14,6 @@ order: 20
 links:
   - type: implements
     target: SW-ZAYE04
+    confirmed: d8e70e7b6a32
 ---
 Implemented in `src/cloud/telemetry_pipeline.c`.

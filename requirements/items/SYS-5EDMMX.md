@@ -13,5 +13,6 @@ order: 930
 links:
   - type: refines
     target: STK-MC9ASH
+    confirmed: a4f2ebaecfbe
 ---
 The home dashboard shall detect safety limits without user interaction.

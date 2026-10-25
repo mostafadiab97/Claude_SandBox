@@ -12,8 +12,10 @@ order: 10
 links:
   - type: relates-to
     target: TC-Q6QD24
+    confirmed: 01121f023aa6
   - type: relates-to
     target: SYS-ZW9PC7
+    confirmed: cf666200a270
 ---
 Found during regression testing of build 2.1.15.
 

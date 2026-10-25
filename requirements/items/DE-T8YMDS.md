@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-GVA7AE
+    confirmed: b4cd814897fc
 ---
 Implemented in `src/conn/local_API.c`.

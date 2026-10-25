@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-RX90D9
+    confirmed: b0d94cbcb216
 ---
 The tamper detection shall encrypt sensor readings for up to 8 zones.
 

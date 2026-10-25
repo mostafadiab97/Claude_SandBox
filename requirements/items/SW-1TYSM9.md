@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-BQJJNH
+    confirmed: 699ed99f7701
 ---
 The tamper detection shall calibrate humidity values with an accuracy of ±0.5 °C.

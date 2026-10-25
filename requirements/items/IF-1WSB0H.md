@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-JP2FG0
+    confirmed: 0bf18351a2cd
 ---
 The power supply shall validate access tokens within 200 ms.
 

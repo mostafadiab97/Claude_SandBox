@@ -13,6 +13,7 @@ order: 60
 links:
   - type: verifies
     target: SYS-E287Z5
+    confirmed: 75c4df8a465f
 ---
 **Objective:** verify that the rotary knob behaves as specified.
 

@@ -13,6 +13,7 @@ order: 600
 links:
   - type: refines
     target: STK-JFBQPS
+    confirmed: 5027ee1822eb
 ---
 The user account service shall display the room temperature in all supported languages.
 

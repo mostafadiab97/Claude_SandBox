@@ -12,8 +12,10 @@ order: 380
 links:
   - type: refines
     target: STK-JFBQPS
+    confirmed: 5027ee1822eb
   - type: mitigates
     target: RSK-WPWANY
+    confirmed: e5572913b0fe
 ---
 The cloud backend shall authenticate firmware images in under 3 s.
 

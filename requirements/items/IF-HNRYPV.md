@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-3TCD57
+    confirmed: 1d766f1eac06
 ---
 The cloud backend shall display the room temperature using AES-256-GCM.
 

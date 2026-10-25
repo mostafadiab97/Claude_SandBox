@@ -12,6 +12,7 @@ order: 140
 links:
   - type: refines
     target: STK-FWM06B
+    confirmed: bbd40f488fa4
 ---
 The status LED shall notify audit records using AES-256-GCM.
 

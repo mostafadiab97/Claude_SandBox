@@ -10,8 +10,10 @@ order: 1300
 links:
   - type: verifies
     target: SYS-MNZNT7
+    confirmed: 694f89dba807
   - type: verifies
     target: SW-H10MBQ
+    confirmed: 1c06138d71e9
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

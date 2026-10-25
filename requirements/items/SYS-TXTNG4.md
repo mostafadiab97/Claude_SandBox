@@ -14,8 +14,10 @@ order: 1080
 links:
   - type: refines
     target: STK-GMCKMF
+    confirmed: f47328374a2b
   - type: mitigates
     target: RSK-QP0EFZ
+    confirmed: b4372c636b9e
 ---
 The Wi-Fi module shall authenticate error conditions within 200 ms.
 

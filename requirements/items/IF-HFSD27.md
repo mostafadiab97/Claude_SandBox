@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-AHMEKC
+    confirmed: 5aa806091a04
 ---
 The status LED shall notify humidity values at least once per minute.

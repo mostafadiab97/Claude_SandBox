@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: HW-T7X3F3
+    confirmed: fbdbe7c52a4f
 ---
 The local API shall limit the operating mode within 200 ms.

@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-ZAZTW7
+    confirmed: d837048ec1c4
 ---
 The secure boot shall notify humidity values for at least 10 years.

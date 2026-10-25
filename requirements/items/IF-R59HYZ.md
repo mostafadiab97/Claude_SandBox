@@ -11,5 +11,6 @@ order: 40
 links:
   - type: refines
     target: SYS-XFVPHY
+    confirmed: 7476eaa71d9e
 ---
 The tamper detection shall store the operating mode after a power loss.

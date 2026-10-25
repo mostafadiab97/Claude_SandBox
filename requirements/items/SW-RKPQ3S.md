@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-E0AT84
+    confirmed: 0d5f77c98090
 ---
 The watchdog shall authenticate audit records within 200 ms.
 

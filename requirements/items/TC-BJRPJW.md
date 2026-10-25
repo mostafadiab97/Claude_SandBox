@@ -10,8 +10,10 @@ order: 1640
 links:
   - type: verifies
     target: SYS-J667FF
+    confirmed: 1d8cfb08af6f
   - type: verifies
     target: SW-NK493Q
+    confirmed: f40caf35bcf0
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-VXY593
+    confirmed: ee56b8ee15e6
 ---
 The main PCB shall switch the operating mode without user interaction.
 

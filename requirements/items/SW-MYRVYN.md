@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-CP5K95
+    confirmed: 278409ef24f8
 ---
 The home dashboard shall authenticate humidity values within 200 ms.
 

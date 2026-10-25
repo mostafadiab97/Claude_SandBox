@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-X9ECZ8
+    confirmed: 3485feb279ff
 ---
 The encryption layer shall detect user preferences for at least 10 years.
 

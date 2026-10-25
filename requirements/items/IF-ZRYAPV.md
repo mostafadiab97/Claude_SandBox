@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-1AMMK8
+    confirmed: 6b7fab82fc75
 ---
 The local API shall measure energy consumption without user interaction.
 

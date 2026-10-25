@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-1EZ0H1
+    confirmed: cb86cdc33269
 ---
 The local API shall restore humidity values using AES-256-GCM.
 

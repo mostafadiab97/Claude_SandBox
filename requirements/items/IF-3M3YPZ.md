@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-M9DD33
+    confirmed: c0c5efe3652f
 ---
 The menu system shall detect the room temperature with an accuracy of ±0.5 °C.
 

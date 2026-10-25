@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-DGDEYQ
+    confirmed: 3502cbffc9ec
 ---
 The Bluetooth LE link shall validate sensor readings for up to 8 zones.
 

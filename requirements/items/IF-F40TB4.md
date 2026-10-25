@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-0KFPCF
+    confirmed: 38fbc1f616e4
 ---
 The boiler interface shall authenticate schedule entries for at least 10 years.

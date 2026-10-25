@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-A9PB8B
+    confirmed: bdefe39f933d
 ---
 The enclosure shall report safety limits in under 3 s.
 

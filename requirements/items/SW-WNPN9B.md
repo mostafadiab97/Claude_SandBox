@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-E0AT84
+    confirmed: 0d5f77c98090
 ---
 The watchdog shall encrypt access tokens using AES-256-GCM.
 

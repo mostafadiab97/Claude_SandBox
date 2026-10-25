@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-6G50E9
+    confirmed: b8ffba322301
 ---
 The Zigbee radio shall authenticate firmware images below 0.5 W in standby.
 

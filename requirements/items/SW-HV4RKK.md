@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-V98JPV
+    confirmed: 9edb50772368
 ---
 The secure boot shall validate sensor readings with an accuracy of ±0.5 °C.
 

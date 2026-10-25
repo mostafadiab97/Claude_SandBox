@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-1N6JYM
+    confirmed: 8a43e2af9dbf
 ---
 The home dashboard shall restore error conditions below 0.5 W in standby.
 

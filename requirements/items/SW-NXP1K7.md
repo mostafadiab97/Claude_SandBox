@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-6RXFNT
+    confirmed: 58653acb842c
 ---
 The notification service shall detect firmware images without user interaction.
 

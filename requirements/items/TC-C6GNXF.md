@@ -9,8 +9,10 @@ order: 1490
 links:
   - type: verifies
     target: SYS-ENSJB5
+    confirmed: da484be59d82
   - type: verifies
     target: SW-W52A2H
+    confirmed: a470245f4ac9
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

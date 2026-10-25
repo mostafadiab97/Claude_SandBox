@@ -13,6 +13,7 @@ order: 420
 links:
   - type: refines
     target: STK-G2ZBHW
+    confirmed: fee0d3303478
 ---
 The Bluetooth LE link shall limit relay events within 200 ms.
 

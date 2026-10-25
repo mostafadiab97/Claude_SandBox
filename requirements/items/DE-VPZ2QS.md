@@ -8,5 +8,6 @@ order: 10
 links:
   - type: implements
     target: SW-Y2Z8SE
+    confirmed: 576277f51b24
 ---
 Implemented in `src/app/notification_service.c`.

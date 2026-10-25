@@ -10,6 +10,7 @@ order: 440
 links:
   - type: verifies
     target: SYS-DXQ6WK
+    confirmed: c10fd23a93b0
 ---
 **Objective:** verify that the user account service behaves as specified.
 

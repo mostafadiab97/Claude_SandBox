@@ -10,6 +10,7 @@ order: 1230
 links:
   - type: refines
     target: STK-MNQXK0
+    confirmed: d3157dcb9034
 ---
 The touch display shall restore audit records without user interaction.
 

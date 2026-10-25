@@ -12,7 +12,9 @@ order: 1040
 links:
   - type: refines
     target: STK-G2H1B9
+    confirmed: fce33b342585
   - type: mitigates
     target: RSK-4WN2DG
+    confirmed: b41c475816a4
 ---
 The over-temperature monitor shall detect the set point at least once per minute.

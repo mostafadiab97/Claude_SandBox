@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-H6D9Y3
+    confirmed: 01ab1874e635
 ---
 The home dashboard shall display audit records at least once per minute.
 

@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-37F447
+    confirmed: ab26978cce76
 ---
 The watchdog shall store the connection state when the network is unavailable.
 

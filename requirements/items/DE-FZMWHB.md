@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-AQHYKY
+    confirmed: bc6b1c405d35
 ---
 Implemented in `src/conn/Bluetooth_LE_link.c`.

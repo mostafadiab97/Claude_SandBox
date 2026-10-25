@@ -10,8 +10,10 @@ order: 360
 links:
   - type: verifies
     target: SYS-XQJCRE
+    confirmed: edcb243104e3
   - type: verifies
     target: SW-3AAWDY
+    confirmed: 7fe29834a8a6
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

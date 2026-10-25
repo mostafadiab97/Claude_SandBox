@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: HW-Z90N2H
+    confirmed: b2ab06d54979
 ---
 The user account service shall log user preferences within 200 ms.

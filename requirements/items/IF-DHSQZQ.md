@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-3TWJPP
+    confirmed: 618b62b567a5
 ---
 The login screen shall display audit records in all supported languages.
 

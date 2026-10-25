@@ -14,5 +14,6 @@ order: 40
 links:
   - type: refines
     target: SYS-7RZPD7
+    confirmed: ff918beefe64
 ---
 The Bluetooth LE link shall log energy consumption with an accuracy of ±0.5 °C.

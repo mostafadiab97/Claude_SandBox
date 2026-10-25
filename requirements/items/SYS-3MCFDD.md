@@ -10,6 +10,7 @@ order: 720
 links:
   - type: refines
     target: STK-SKPX7F
+    confirmed: ff820400e2f9
 ---
 The telemetry pipeline shall synchronise schedule entries when the network is unavailable.
 

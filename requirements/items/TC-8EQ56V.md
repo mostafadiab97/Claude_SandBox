@@ -10,6 +10,7 @@ order: 1230
 links:
   - type: verifies
     target: SYS-DS9BCD
+    confirmed: 71372d39e051
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

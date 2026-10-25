@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-HQ31K8
+    confirmed: a6c85b7e41e6
 ---
 The heat pump driver shall detect the set point below 0.5 W in standby.
 

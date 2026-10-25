@@ -10,6 +10,7 @@ order: 1150
 links:
   - type: refines
     target: STK-8Y3SDF
+    confirmed: 2609d2cce998
 ---
 The OTA server shall display the room temperature for at least 10 years.
 

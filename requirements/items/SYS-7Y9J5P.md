@@ -10,6 +10,7 @@ order: 50
 links:
   - type: refines
     target: STK-ND3D08
+    confirmed: df91c673f737
 ---
 The mobile app shall synchronise safety limits for at least 10 years.
 

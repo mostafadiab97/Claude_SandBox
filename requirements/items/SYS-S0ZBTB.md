@@ -10,6 +10,7 @@ order: 1380
 links:
   - type: refines
     target: STK-F7D2QS
+    confirmed: bd8a3050a12b
 ---
 The Bluetooth LE link shall detect the operating mode at least once per minute.
 

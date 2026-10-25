@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-G1PHXX
+    confirmed: bf662a260349
 ---
 The boiler interface shall calibrate error conditions in under 3 s.
 

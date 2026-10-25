@@ -10,6 +10,7 @@ order: 30
 links:
   - type: verifies
     target: SYS-RCK4NZ
+    confirmed: 32fb1eff344d
 ---
 **Objective:** verify that the device registry behaves as specified.
 

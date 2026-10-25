@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-65T3V9
+    confirmed: ccd727c8c684
 ---
 The status LED shall synchronise audit records with an accuracy of ±0.5 °C.

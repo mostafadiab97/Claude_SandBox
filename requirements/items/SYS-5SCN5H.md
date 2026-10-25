@@ -10,6 +10,7 @@ order: 80
 links:
   - type: refines
     target: STK-4F6B1Y
+    confirmed: 4a1d76b1da2c
 ---
 The mobile app shall detect the operating mode in under 3 s.
 

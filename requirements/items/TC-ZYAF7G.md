@@ -13,8 +13,10 @@ order: 740
 links:
   - type: verifies
     target: SYS-YGWC8P
+    confirmed: 77480e1be3cd
   - type: verifies
     target: SW-JRP90Q
+    confirmed: 9d94b6822a15
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

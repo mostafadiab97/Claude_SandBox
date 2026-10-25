@@ -11,6 +11,7 @@ order: 1000
 links:
   - type: verifies
     target: SYS-XM6K6N
+    confirmed: 2dfa982258c0
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

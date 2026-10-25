@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-XP4ZAH
+    confirmed: b8b57a2c487b
 ---
 The regulation loop shall notify schedule entries without user interaction.
 

@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-EH295E
+    confirmed: 7d5baafb4296
 ---
 The Zigbee radio shall report energy consumption with an accuracy of ±0.5 °C.

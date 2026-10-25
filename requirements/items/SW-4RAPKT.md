@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-JGTNYP
+    confirmed: 80eca18336ac
 ---
 The encryption layer shall store relay events for at least 10 years.
 

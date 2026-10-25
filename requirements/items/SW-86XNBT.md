@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-VVFPNP
+    confirmed: 18f947658131
 ---
 The OTA server shall log audit records for at least 10 years.
 

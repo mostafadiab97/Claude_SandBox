@@ -10,6 +10,7 @@ order: 560
 links:
   - type: refines
     target: STK-9YF5RE
+    confirmed: 43643c03020f
 ---
 The heating controller shall measure access tokens in under 3 s.
 

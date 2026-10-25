@@ -14,6 +14,7 @@ order: 690
 links:
   - type: refines
     target: STK-XSQC89
+    confirmed: 66c246d6b1dc
 ---
 The tamper detection shall calibrate access tokens after a power loss.
 

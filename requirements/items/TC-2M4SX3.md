@@ -10,8 +10,10 @@ order: 880
 links:
   - type: verifies
     target: SYS-BGEM84
+    confirmed: 7c077fec9862
   - type: verifies
     target: SW-JE2GH1
+    confirmed: 00c6a3ef7be5
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

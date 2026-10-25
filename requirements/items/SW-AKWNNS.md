@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-2TKSSR
+    confirmed: 7b7bf03ff065
 ---
 The Wi-Fi module shall encrypt safety limits at least once per minute.
 

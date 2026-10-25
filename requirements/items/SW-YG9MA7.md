@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-SQM30D
+    confirmed: 61b33a5fb3c5
 ---
 The telemetry pipeline shall validate audit records below 0.5 W in standby.
 

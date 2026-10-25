@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-JF5Y3D
+    confirmed: d5f9f8f2f306
 ---
 The pairing process shall notify error conditions using AES-256-GCM.
 

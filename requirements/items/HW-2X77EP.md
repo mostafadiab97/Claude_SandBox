@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-EK761P
+    confirmed: db6748ce1b10
 ---
 The OTA server shall store error conditions at least once per minute.

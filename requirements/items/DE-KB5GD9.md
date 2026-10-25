@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-DY2ENV
+    confirmed: 92ff2e318e4a
 ---
 Implemented in `src/app/login_screen.c`.

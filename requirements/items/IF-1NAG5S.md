@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-XD7AFZ
+    confirmed: 1b7e0ea31eaa
 ---
 The local API shall calibrate access tokens for up to 8 zones.
 

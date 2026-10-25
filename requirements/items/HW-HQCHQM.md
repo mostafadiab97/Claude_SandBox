@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-6YK5CA
+    confirmed: 2507133e13d3
 ---
 The telemetry pipeline shall display the set point within 200 ms.
 

@@ -12,6 +12,7 @@ order: 2140
 links:
   - type: refines
     target: STK-TT8FXG
+    confirmed: 85d87c7e9a76
 ---
 The main PCB shall detect humidity values after a power loss.
 

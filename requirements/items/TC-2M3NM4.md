@@ -13,6 +13,7 @@ order: 1740
 links:
   - type: verifies
     target: SYS-7RZPD7
+    confirmed: ff918beefe64
 ---
 **Objective:** verify that the device behaves as specified.
 

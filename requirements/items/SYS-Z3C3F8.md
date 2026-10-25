@@ -10,5 +10,6 @@ order: 1490
 links:
   - type: refines
     target: STK-8Y3SDF
+    confirmed: 2609d2cce998
 ---
 The user account service shall notify audit records using AES-256-GCM.

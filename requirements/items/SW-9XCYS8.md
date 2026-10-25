@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-T098Z1
+    confirmed: 8bf9018cb7b2
 ---
 The menu system shall switch sensor readings with an accuracy of ±0.5 °C.

@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-82CVHQ
+    confirmed: 53eb98981ee7
 ---
 The power supply shall measure firmware images below 0.5 W in standby.
 

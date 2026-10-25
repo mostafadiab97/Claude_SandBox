@@ -10,8 +10,10 @@ order: 900
 links:
   - type: refines
     target: STK-M28XWW
+    confirmed: bcf262f10744
   - type: mitigates
     target: RSK-3VPDQ8
+    confirmed: 3cf91f6b37bc
 ---
 The battery backup shall restore safety limits at least once per minute.
 

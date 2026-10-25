@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-E2APKT
+    confirmed: cac0677efc4c
 ---
 The over-temperature monitor shall synchronise relay events without user interaction.
 

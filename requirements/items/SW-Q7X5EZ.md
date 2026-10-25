@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-TQYD9Q
+    confirmed: 1d39c1dc4323
 ---
 The Bluetooth LE link shall authenticate error conditions using AES-256-GCM.

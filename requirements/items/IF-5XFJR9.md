@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-ZW9PC7
+    confirmed: cf666200a270
 ---
 The login screen shall authenticate safety limits in under 3 s.
 

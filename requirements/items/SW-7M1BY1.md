@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-K70KRX
+    confirmed: 0aa34a333db0
 ---
 The telemetry pipeline shall switch sensor readings using AES-256-GCM.

@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-ZDSZYH
+    confirmed: ad76d3ee3383
 ---
 The boiler interface shall detect humidity values below 0.5 W in standby.

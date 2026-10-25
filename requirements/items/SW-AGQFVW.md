@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-XJ8215
+    confirmed: 56e95d4cfbe7
 ---
 The watchdog shall measure firmware images for up to 8 zones.
 

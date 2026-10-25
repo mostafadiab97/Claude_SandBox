@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-M97YDE
+    confirmed: 2b5e37645c78
 ---
 The local API shall report schedule entries when the network is unavailable.
 

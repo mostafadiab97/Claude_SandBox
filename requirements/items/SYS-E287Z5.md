@@ -12,5 +12,6 @@ order: 80
 links:
   - type: refines
     target: STK-KPV71Q
+    confirmed: 10d9c216aea2
 ---
 The rotary knob shall report safety limits using AES-256-GCM.

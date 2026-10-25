@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-3BVVSM
+    confirmed: 8d4772f02317
 ---
 The cloud backend shall report sensor readings in under 3 s.
 

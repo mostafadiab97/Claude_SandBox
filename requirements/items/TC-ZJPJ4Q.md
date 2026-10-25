@@ -13,6 +13,7 @@ order: 850
 links:
   - type: verifies
     target: SYS-T3DJD4
+    confirmed: c316125af8be
 ---
 **Objective:** verify that the device behaves as specified.
 

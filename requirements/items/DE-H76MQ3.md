@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-4K537B
+    confirmed: 929748397cbf
 ---
 Implemented in `src/heat/heating_controller.c`.

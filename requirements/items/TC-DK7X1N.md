@@ -13,6 +13,7 @@ order: 930
 links:
   - type: verifies
     target: SYS-M5YEH7
+    confirmed: 82e2e5978f31
 ---
 **Objective:** verify that the device behaves as specified.
 

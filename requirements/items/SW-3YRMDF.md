@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-5XB7KH
+    confirmed: ce31b91ce201
 ---
 The Bluetooth LE link shall report the operating mode for at least 10 years.
 

@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-BQ9NSH
+    confirmed: e9c956142786
 ---
 The device registry shall notify audit records with an accuracy of ±0.5 °C.

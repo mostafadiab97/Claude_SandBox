@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-HX38ZE
+    confirmed: afcd446a898e
 ---
 The heat pump driver shall measure the room temperature in under 3 s.

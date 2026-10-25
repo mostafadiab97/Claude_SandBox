@@ -11,6 +11,7 @@ order: 940
 links:
   - type: refines
     target: STK-JAQHJP
+    confirmed: b0af11a5c3c2
 ---
 The power supply shall validate the room temperature within 200 ms.
 

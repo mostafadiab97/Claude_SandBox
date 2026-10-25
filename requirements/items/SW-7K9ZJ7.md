@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-YBBSY4
+    confirmed: 96a38799b53c
 ---
 The regulation loop shall synchronise the connection state at least once per minute.
 

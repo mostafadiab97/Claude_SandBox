@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-4SQ716
+    confirmed: b0c2f6b01862
 ---
 The login screen shall notify user preferences within 200 ms.
 

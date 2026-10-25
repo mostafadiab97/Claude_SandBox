@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-1SK52W
+    confirmed: 27622b3cf4f9
 ---
 The backlight shall switch the connection state for up to 8 zones.
 

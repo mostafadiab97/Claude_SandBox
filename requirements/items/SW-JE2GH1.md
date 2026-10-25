@@ -9,5 +9,6 @@ order: 40
 links:
   - type: refines
     target: SYS-X1DW4B
+    confirmed: ac324fd128ba
 ---
 The pairing process shall authenticate humidity values for at least 10 years.

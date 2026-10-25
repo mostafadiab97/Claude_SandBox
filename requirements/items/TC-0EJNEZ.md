@@ -10,6 +10,7 @@ order: 680
 links:
   - type: verifies
     target: SYS-7QNRB0
+    confirmed: a3f05325ad0a
 ---
 **Objective:** verify that the notification service behaves as specified.
 

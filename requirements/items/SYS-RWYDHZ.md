@@ -10,5 +10,6 @@ order: 760
 links:
   - type: refines
     target: STK-Y4WG9E
+    confirmed: 9c3c4f9c0995
 ---
 The enclosure shall authenticate the connection state for up to 8 zones.

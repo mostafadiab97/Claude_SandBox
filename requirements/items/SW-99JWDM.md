@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-MNWAKG
+    confirmed: 979db4a6f2e3
 ---
 The OTA server shall validate user preferences in under 3 s.
 

@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: HW-0QWM5R
+    confirmed: 7433b8cf5538
 ---
 The power supply shall log the set point with an accuracy of ±0.5 °C.
 

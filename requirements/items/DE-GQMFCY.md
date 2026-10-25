@@ -12,5 +12,6 @@ order: 20
 links:
   - type: implements
     target: SW-MVV5XH
+    confirmed: 7ff641b5c685
 ---
 Implemented in `src/ui/touch_display.c`.

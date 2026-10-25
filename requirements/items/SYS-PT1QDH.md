@@ -13,6 +13,7 @@ order: 90
 links:
   - type: refines
     target: STK-7F9256
+    confirmed: 5588db2eb80a
 ---
 The battery backup shall restore the operating mode for at least 10 years.
 

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-J73TGA
+    confirmed: c6ffa9bc0f1f
 ---
 The main PCB shall switch user preferences for up to 8 zones.
 

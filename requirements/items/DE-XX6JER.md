@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-19FN55
+    confirmed: a6882e43e434
 ---
 Implemented in `src/safe/encryption_layer.c`.

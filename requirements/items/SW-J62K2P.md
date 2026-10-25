@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-SMHT0V
+    confirmed: 58b3899d52be
 ---
 The heat pump driver shall store the operating mode within 200 ms.
 

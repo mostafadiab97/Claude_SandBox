@@ -9,6 +9,7 @@ order: 230
 links:
   - type: verifies
     target: SYS-4BMNYZ
+    confirmed: 46035baf3f33
 ---
 **Objective:** verify that the power supply behaves as specified.
 

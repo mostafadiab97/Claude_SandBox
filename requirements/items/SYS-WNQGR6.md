@@ -12,8 +12,10 @@ order: 10
 links:
   - type: refines
     target: STK-Q9RBYT
+    confirmed: a67c8b718d88
   - type: mitigates
     target: RSK-BXA4VK
+    confirmed: d0a719026938
 ---
 The Bluetooth LE link shall measure humidity values using AES-256-GCM.
 

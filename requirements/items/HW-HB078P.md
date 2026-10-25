@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-SXY642
+    confirmed: a708fd825329
 ---
 The heat pump driver shall authenticate audit records for at least 10 years.

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-YHR5KF
+    confirmed: 660a8488c508
 ---
 The over-temperature monitor shall switch safety limits using AES-256-GCM.
 

@@ -10,8 +10,10 @@ order: 120
 links:
   - type: relates-to
     target: TC-XJAF7S
+    confirmed: 90e1c054b755
   - type: relates-to
     target: SYS-FN6K6C
+    confirmed: de635490bacc
 ---
 Found during regression testing of build 2.5.10.
 

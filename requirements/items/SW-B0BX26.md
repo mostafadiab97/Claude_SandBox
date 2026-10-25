@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SW-0YS706
+    confirmed: a8cc29d3b22c
 ---
 The OTA server shall detect the operating mode below 0.5 W in standby.

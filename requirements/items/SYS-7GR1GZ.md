@@ -9,5 +9,6 @@ order: 190
 links:
   - type: refines
     target: STK-22X165
+    confirmed: 0023c9af8e7d
 ---
 The local API shall restore relay events using AES-256-GCM.

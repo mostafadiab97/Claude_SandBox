@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-60DWBJ
+    confirmed: 6642ffcbd2f7
 ---
 The touch display shall restore the operating mode for up to 8 zones.
 

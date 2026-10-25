@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-S1BVE9
+    confirmed: 7041e83377a5
 ---
 The heat pump driver shall calibrate humidity values below 0.5 W in standby.
 

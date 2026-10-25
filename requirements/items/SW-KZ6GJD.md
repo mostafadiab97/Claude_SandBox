@@ -14,5 +14,6 @@ order: 30
 links:
   - type: refines
     target: SYS-NN047S
+    confirmed: 44642ef24cf7
 ---
 The touch display shall validate the operating mode after a power loss.

@@ -14,6 +14,7 @@ order: 810
 links:
   - type: verifies
     target: SYS-MR5CRK
+    confirmed: ff67b7696602
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

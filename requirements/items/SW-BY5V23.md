@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-M4QAQY
+    confirmed: 4fabc5aa13e6
 ---
 The regulation loop shall limit error conditions for at least 10 years.
 

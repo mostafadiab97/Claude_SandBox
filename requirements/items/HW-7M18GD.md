@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-HEVMYH
+    confirmed: 5cd34b16673e
 ---
 The battery backup shall encrypt the set point after a power loss.
 

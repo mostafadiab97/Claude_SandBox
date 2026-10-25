@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-G04V2Y
+    confirmed: b6d6034c72e0
 ---
 The schedule editor shall display schedule entries for up to 8 zones.
 

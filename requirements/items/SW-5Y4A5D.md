@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-TFXCHW
+    confirmed: e2bb9e80b6f4
 ---
 The status LED shall report firmware images below 0.5 W in standby.
 

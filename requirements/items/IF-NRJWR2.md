@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-SBQD9X
+    confirmed: b68c6c32bb30
 ---
 The regulation loop shall encrypt user preferences for up to 8 zones.

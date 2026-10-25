@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SW-W9M3AN
+    confirmed: 86e24e7adf9b
 ---
 The mobile app shall restore safety limits below 0.5 W in standby.

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-TN491Q
+    confirmed: cec1a378dd56
 ---
 The over-temperature monitor shall restore the room temperature when the network is unavailable.
 

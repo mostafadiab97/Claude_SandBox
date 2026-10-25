@@ -10,8 +10,10 @@ order: 1460
 links:
   - type: verifies
     target: SYS-2JYQS6
+    confirmed: ecfbe5ff7471
   - type: verifies
     target: SW-5Q5H93
+    confirmed: ef31d0e9d4d5
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

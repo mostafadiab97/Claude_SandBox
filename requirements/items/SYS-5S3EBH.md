@@ -12,6 +12,7 @@ order: 1180
 links:
   - type: refines
     target: STK-NTBW06
+    confirmed: d92faafa8cce
 ---
 The heat pump driver shall switch error conditions for up to 8 zones.
 

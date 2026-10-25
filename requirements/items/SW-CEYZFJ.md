@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-29G535
+    confirmed: 68b37681cbe6
 ---
 The home dashboard shall switch firmware images at least once per minute.
 

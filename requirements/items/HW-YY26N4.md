@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XRP95E
+    confirmed: c526dc6b205d
 ---
 The enclosure shall switch energy consumption when the network is unavailable.
 

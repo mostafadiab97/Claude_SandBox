@@ -10,5 +10,6 @@ order: 470
 links:
   - type: refines
     target: STK-AKFTAC
+    confirmed: 3cca48da4b1c
 ---
 The secure boot shall authenticate error conditions for up to 8 zones.

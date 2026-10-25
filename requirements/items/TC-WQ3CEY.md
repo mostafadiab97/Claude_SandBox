@@ -11,6 +11,7 @@ order: 1870
 links:
   - type: verifies
     target: SYS-7GR1GZ
+    confirmed: b3432a56f6cd
 ---
 **Objective:** verify that the device behaves as specified.
 

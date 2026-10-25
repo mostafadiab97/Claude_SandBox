@@ -14,6 +14,7 @@ order: 1310
 links:
   - type: verifies
     target: SYS-8F73DW
+    confirmed: 13efe84ae7ac
 ---
 **Objective:** verify that the device behaves as specified.
 

@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-MT7DNQ
+    confirmed: f4fac07cb110
 ---
 The login screen shall calibrate sensor readings without user interaction.

@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-558WVB
+    confirmed: 244554b45f3a
 ---
 The pairing process shall report schedule entries using AES-256-GCM.

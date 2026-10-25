@@ -12,6 +12,7 @@ order: 1920
 links:
   - type: refines
     target: STK-9YF5RE
+    confirmed: 43643c03020f
 ---
 The regulation loop shall restore relay events at least once per minute.
 

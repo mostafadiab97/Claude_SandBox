@@ -9,6 +9,7 @@ order: 2010
 links:
   - type: refines
     target: STK-W1SAZ0
+    confirmed: f0954f8ba0a2
 ---
 The heat pump driver shall display the room temperature within 200 ms.
 

@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-08Q79Y
+    confirmed: 8a374fcf4b3a
 ---
 The status LED shall notify access tokens in under 3 s.

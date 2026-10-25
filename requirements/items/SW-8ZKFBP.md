@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QT1CFV
+    confirmed: ee55a0dd3a84
 ---
 The status LED shall restore energy consumption below 0.5 W in standby.
 

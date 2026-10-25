@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-4AZ7BD
+    confirmed: cd9c225e18ad
 ---
 The tamper detection shall notify the room temperature below 0.5 W in standby.
 

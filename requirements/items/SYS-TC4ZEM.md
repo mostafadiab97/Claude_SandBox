@@ -9,5 +9,6 @@ order: 1820
 links:
   - type: refines
     target: STK-AA05P4
+    confirmed: e2bec3bcd11c
 ---
 The zone valve shall store firmware images when the network is unavailable.

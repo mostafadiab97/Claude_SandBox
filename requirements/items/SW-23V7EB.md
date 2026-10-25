@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-9MTYDR
+    confirmed: 167b541b0a5f
 ---
 The user account service shall validate schedule entries using AES-256-GCM.
 

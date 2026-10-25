@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-A6TWWN
+    confirmed: bf12fa6151fd
 ---
 The notification service shall encrypt the connection state using AES-256-GCM.

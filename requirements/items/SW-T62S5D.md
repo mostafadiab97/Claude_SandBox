@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SW-S7V3AE
+    confirmed: 72a9881a1dbb
 ---
 The tamper detection shall encrypt the connection state after a power loss.

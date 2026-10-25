@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-8BB6P4
+    confirmed: 6499795c1519
 ---
 The Zigbee radio shall store error conditions with an accuracy of ±0.5 °C.

@@ -10,6 +10,7 @@ order: 1370
 links:
   - type: refines
     target: STK-EFJRJ9
+    confirmed: fc922ec1a72e
 ---
 The heat pump driver shall detect the connection state in under 3 s.
 

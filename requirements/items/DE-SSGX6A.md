@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-XHRAWT
+    confirmed: 1a3e925447ed
 ---
 Implemented in `src/ui/menu_system.c`.

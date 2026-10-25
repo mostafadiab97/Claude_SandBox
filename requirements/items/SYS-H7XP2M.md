@@ -10,6 +10,7 @@ order: 2000
 links:
   - type: refines
     target: STK-2STGXE
+    confirmed: c77fe61daf4b
 ---
 The relay board shall notify the connection state after a power loss.
 

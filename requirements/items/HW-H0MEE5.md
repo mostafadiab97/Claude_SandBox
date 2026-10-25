@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-SGGFKV
+    confirmed: 04cafacc256c
 ---
 The main PCB shall validate user preferences for up to 8 zones.
 

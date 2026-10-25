@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-A10V0R
+    confirmed: ff47382f2bba
 ---
 The user account service shall measure sensor readings below 0.5 W in standby.
 

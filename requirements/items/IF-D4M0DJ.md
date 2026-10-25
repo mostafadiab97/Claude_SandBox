@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-NBQQ5Q
+    confirmed: 5b8a1f6cb039
 ---
 The local API shall restore audit records in all supported languages.

@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-MY3DCX
+    confirmed: ace85c596789
 ---
 The Bluetooth LE link shall display the connection state in all supported languages.

@@ -10,6 +10,7 @@ order: 2130
 links:
   - type: verifies
     target: SYS-1F54XW
+    confirmed: 63e961a2987d
 ---
 **Objective:** verify that the device behaves as specified.
 

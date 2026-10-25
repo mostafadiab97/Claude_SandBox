@@ -12,6 +12,7 @@ order: 1540
 links:
   - type: verifies
     target: SYS-7PADSD
+    confirmed: d945d7dacc5c
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

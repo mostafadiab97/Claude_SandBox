@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ZAZTW7
+    confirmed: d837048ec1c4
 ---
 The secure boot shall report energy consumption within 200 ms.
 

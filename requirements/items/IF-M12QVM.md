@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-JGZMEV
+    confirmed: 06d6346c072b
 ---
 The menu system shall authenticate relay events using AES-256-GCM.
 

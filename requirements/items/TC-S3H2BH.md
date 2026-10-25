@@ -14,8 +14,10 @@ order: 700
 links:
   - type: verifies
     target: SYS-WKCZDQ
+    confirmed: ef7ce1eb28d3
   - type: verifies
     target: SW-K3F3HS
+    confirmed: 850242f25f43
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-XWNGQ6
+    confirmed: 63430edab993
 ---
 The cloud backend shall restore the operating mode for up to 8 zones.
 

@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-8JRVNP
+    confirmed: 947f4568b2cf
 ---
 The encryption layer shall validate schedule entries with an accuracy of ±0.5 °C.
 

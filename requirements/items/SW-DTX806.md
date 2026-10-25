@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-5EDMMX
+    confirmed: 6f6f1dc47197
 ---
 The home dashboard shall store the connection state after a power loss.
 

@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-HB2DW1
+    confirmed: c311446b8020
 ---
 The schedule editor shall store the room temperature with an accuracy of ±0.5 °C.

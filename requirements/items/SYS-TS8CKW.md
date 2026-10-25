@@ -11,8 +11,10 @@ order: 640
 links:
   - type: refines
     target: STK-W1SAZ0
+    confirmed: f0954f8ba0a2
   - type: mitigates
     target: RSK-14YSDS
+    confirmed: 0db3fa8291ee
 ---
 The boiler interface shall notify access tokens using AES-256-GCM.
 

@@ -14,6 +14,7 @@ order: 630
 links:
   - type: verifies
     target: SYS-E3DH60
+    confirmed: 2a4bbbe46324
 ---
 **Objective:** verify that the backlight behaves as specified.
 

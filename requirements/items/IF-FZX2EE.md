@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-BR6W9Y
+    confirmed: 2465c089a968
 ---
 The backlight shall validate firmware images for at least 10 years.

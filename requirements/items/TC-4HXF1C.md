@@ -10,6 +10,7 @@ order: 2170
 links:
   - type: verifies
     target: SYS-EQ67JM
+    confirmed: deb3f38239b9
 ---
 **Objective:** verify that the device behaves as specified.
 

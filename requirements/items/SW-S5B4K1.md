@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-QXZ496
+    confirmed: 2ec0e56a2793
 ---
 The Wi-Fi module shall log humidity values for at least 10 years.
 

@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-AKZ1R4
+    confirmed: da5ffbb2dc98
 ---
 The Wi-Fi module shall validate user preferences after a power loss.
 

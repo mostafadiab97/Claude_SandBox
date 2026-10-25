@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-YHD3YX
+    confirmed: 1e38f217f022
 ---
 The watchdog shall measure energy consumption with an accuracy of ±0.5 °C.
 

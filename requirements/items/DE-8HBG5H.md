@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-61NQ7P
+    confirmed: 9eab6a339615
 ---
 Implemented in `src/safe/secure_boot.c`.

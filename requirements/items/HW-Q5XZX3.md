@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-XRA360
+    confirmed: 908f575295da
 ---
 The cloud backend shall restore humidity values after a power loss.

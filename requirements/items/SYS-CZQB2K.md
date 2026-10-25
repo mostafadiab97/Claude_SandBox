@@ -10,6 +10,7 @@ order: 240
 links:
   - type: refines
     target: STK-4NCGP6
+    confirmed: 34735dce772b
 ---
 The user account service shall detect error conditions without user interaction.
 

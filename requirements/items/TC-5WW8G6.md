@@ -12,6 +12,7 @@ order: 1630
 links:
   - type: verifies
     target: SYS-5DA537
+    confirmed: b3506b846105
 ---
 **Objective:** verify that the device behaves as specified.
 

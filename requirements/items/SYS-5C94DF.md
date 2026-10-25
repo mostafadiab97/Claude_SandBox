@@ -12,8 +12,10 @@ order: 1170
 links:
   - type: refines
     target: STK-4NGQJ5
+    confirmed: 96640a7e340d
   - type: mitigates
     target: RSK-CYTG6T
+    confirmed: 2c8e05c3e368
 ---
 The main PCB shall notify energy consumption in all supported languages.
 

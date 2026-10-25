@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-QEFT7B
+    confirmed: aafd3f4bb931
 ---
 The OTA server shall calibrate access tokens when the network is unavailable.
 

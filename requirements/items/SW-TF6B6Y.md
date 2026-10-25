@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-HZRAQ2
+    confirmed: 67e08d743ee6
 ---
 The heating controller shall report audit records without user interaction.
 

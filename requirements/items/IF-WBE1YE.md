@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-BKCGFY
+    confirmed: cca1fb8df9ed
 ---
 The schedule editor shall limit firmware images within 200 ms.
 

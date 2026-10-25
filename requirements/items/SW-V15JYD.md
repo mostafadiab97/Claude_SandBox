@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-5449PV
+    confirmed: 51ad9fc7ce44
 ---
 The regulation loop shall notify schedule entries within 200 ms.
 

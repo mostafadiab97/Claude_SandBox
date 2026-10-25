@@ -13,6 +13,7 @@ order: 1380
 links:
   - type: verifies
     target: SYS-DZR11A
+    confirmed: f59e21414ac4
 ---
 **Objective:** verify that the relay board behaves as specified.
 

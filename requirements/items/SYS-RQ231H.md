@@ -14,5 +14,6 @@ order: 180
 links:
   - type: refines
     target: STK-ZWN5M8
+    confirmed: 994b9d44bde8
 ---
 The relay board shall report schedule entries below 0.5 W in standby.

@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-YFE8GX
+    confirmed: 43799d0ef6c4
 ---
 The power supply shall report the set point using AES-256-GCM.
 

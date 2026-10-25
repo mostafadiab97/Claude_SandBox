@@ -8,5 +8,6 @@ order: 1060
 links:
   - type: refines
     target: STK-DZ9P6K
+    confirmed: 35469390951d
 ---
 The Bluetooth LE link shall display the operating mode after a power loss.

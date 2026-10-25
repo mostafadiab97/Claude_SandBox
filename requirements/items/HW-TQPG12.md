@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-PY3FTT
+    confirmed: 028b4e4661e2
 ---
 The status LED shall calibrate error conditions using AES-256-GCM.

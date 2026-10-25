@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-S5AVVB
+    confirmed: 21ef3d7af8e5
 ---
 The user account service shall encrypt access tokens for up to 8 zones.

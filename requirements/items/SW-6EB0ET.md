@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-H71N1T
+    confirmed: 0448e6c3fca0
 ---
 The menu system shall synchronise user preferences in all supported languages.
 

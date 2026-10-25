@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-7NWEV1
+    confirmed: ad7f11705f94
 ---
 The schedule editor shall validate sensor readings at least once per minute.

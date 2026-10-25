@@ -10,8 +10,10 @@ order: 910
 links:
   - type: verifies
     target: SYS-XB38HS
+    confirmed: 51d064ca7d2a
   - type: verifies
     target: SW-E3BXE1
+    confirmed: a4c82810347b
 ---
 **Objective:** verify that the notification service behaves as specified.
 

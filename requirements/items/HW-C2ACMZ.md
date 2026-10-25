@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: HW-RF1291
+    confirmed: 6a9e31769481
 ---
 The OTA server shall log firmware images when the network is unavailable.

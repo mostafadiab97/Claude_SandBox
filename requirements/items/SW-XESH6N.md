@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-4ZV4DE
+    confirmed: 67b9d1fd1831
 ---
 The heat pump driver shall synchronise safety limits using AES-256-GCM.
 

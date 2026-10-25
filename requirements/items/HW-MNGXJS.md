@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-KND72D
+    confirmed: ff6b76b187e7
 ---
 The enclosure shall switch audit records without user interaction.
 

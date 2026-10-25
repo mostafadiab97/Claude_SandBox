@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-045KKD
+    confirmed: 1b2f3a28be4f
 ---
 The status LED shall synchronise the room temperature for up to 8 zones.

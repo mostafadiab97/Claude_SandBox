@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: HW-EM7BEC
+    confirmed: 8f4c22812167
 ---
 The relay board shall synchronise humidity values at least once per minute.
 

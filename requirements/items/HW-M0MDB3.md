@@ -8,6 +8,7 @@ order: 20
 links:
   - type: refines
     target: SYS-R8S84Y
+    confirmed: 1adc29377b0d
 ---
 The power supply shall report sensor readings in under 3 s.
 

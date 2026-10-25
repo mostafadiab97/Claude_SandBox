@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: IF-CP4CG7
+    confirmed: ad3e93e069ec
 ---
 The device registry shall display firmware images in all supported languages.
 

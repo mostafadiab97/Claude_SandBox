@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-HH08PK
+    confirmed: "8228102962e4"
 ---
 The local API shall synchronise the connection state within 200 ms.
 

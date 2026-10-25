@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-F9GP9Y
+    confirmed: 443125a88fee
 ---
 The Wi-Fi module shall detect the operating mode within 200 ms.
 

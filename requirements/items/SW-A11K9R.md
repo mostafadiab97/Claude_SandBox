@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-Y2RP9E
+    confirmed: e9c58e7ee304
 ---
 The notification service shall report sensor readings using AES-256-GCM.
 

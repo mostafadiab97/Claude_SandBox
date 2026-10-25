@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: HW-DA1EEE
+    confirmed: 9052fa2da340
 ---
 The enclosure shall store the room temperature below 0.5 W in standby.

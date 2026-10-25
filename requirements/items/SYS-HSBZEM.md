@@ -14,6 +14,7 @@ order: 900
 links:
   - type: refines
     target: STK-DKX022
+    confirmed: a534e573be6a
 ---
 The OTA server shall encrypt the set point in all supported languages.
 

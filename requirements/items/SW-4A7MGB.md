@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-6085Y8
+    confirmed: d22ffa0b21da
 ---
 The home dashboard shall report energy consumption at least once per minute.
 

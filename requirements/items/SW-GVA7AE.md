@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-WF4FY5
+    confirmed: 98658dca5000
 ---
 The local API shall synchronise safety limits when the network is unavailable.
 

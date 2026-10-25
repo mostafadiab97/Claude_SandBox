@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-26TY15
+    confirmed: b9173172523d
 ---
 Implemented in `src/safe/tamper_detection.c`.

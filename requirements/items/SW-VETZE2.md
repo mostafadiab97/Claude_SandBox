@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-VY28RQ
+    confirmed: 7e13e53fd09a
 ---
 The login screen shall log sensor readings in under 3 s.

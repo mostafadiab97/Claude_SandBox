@@ -14,6 +14,7 @@ order: 990
 links:
   - type: verifies
     target: SYS-ZH89V8
+    confirmed: 777482c845de
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

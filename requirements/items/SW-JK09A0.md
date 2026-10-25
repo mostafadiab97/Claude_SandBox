@@ -14,5 +14,6 @@ order: 40
 links:
   - type: refines
     target: SYS-3PY964
+    confirmed: 3718c9e5d8ae
 ---
 The Bluetooth LE link shall switch the room temperature using AES-256-GCM.

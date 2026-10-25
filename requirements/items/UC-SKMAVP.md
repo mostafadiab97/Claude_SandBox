@@ -9,6 +9,7 @@ order: 130
 links:
   - type: relates-to
     target: STK-CDR1Y9
+    confirmed: d9857f8b33bf
 ---
 **Actor:** home owner
 

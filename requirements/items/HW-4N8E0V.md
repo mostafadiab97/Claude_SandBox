@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-KRN3ZP
+    confirmed: 85ba3b9261c1
 ---
 The over-temperature monitor shall report error conditions in all supported languages.
 

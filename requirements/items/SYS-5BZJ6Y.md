@@ -14,5 +14,6 @@ order: 1320
 links:
   - type: refines
     target: STK-ZJRWCQ
+    confirmed: 080168ea99ae
 ---
 The over-temperature monitor shall report energy consumption within 200 ms.

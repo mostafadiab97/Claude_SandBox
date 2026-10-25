@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-27ZRZ6
+    confirmed: 2208a37cfcbe
 ---
 The telemetry pipeline shall authenticate access tokens in all supported languages.
 

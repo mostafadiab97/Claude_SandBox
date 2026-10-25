@@ -10,6 +10,7 @@ order: 2080
 links:
   - type: verifies
     target: SYS-4WB58V
+    confirmed: 328c59c5e6fa
 ---
 **Objective:** verify that the device behaves as specified.
 

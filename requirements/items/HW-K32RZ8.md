@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-SGE8R7
+    confirmed: f0923cc9ca25
 ---
 The power supply shall synchronise firmware images for up to 8 zones.

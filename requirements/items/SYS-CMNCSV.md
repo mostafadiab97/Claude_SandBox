@@ -14,6 +14,7 @@ order: 1430
 links:
   - type: refines
     target: STK-7F9256
+    confirmed: 5588db2eb80a
 ---
 The battery backup shall detect the set point for up to 8 zones.
 

@@ -13,8 +13,10 @@ order: 1510
 links:
   - type: verifies
     target: SYS-3TWJPP
+    confirmed: 618b62b567a5
   - type: verifies
     target: SW-A10E8C
+    confirmed: 2c36623fc5b2
 ---
 **Objective:** verify that the login screen behaves as specified.
 

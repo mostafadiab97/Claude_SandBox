@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MRW8P6
+    confirmed: f8cc2c516026
 ---
 The menu system shall encrypt schedule entries without user interaction.
 

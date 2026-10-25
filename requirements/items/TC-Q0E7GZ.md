@@ -13,8 +13,10 @@ order: 800
 links:
   - type: verifies
     target: SYS-AKZ1R4
+    confirmed: da5ffbb2dc98
   - type: verifies
     target: SW-AT00E2
+    confirmed: 7f592a075c3f
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.
 

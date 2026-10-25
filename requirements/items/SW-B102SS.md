@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-MDEDXA
+    confirmed: 1956ae8aa0df
 ---
 The telemetry pipeline shall detect schedule entries for at least 10 years.
 

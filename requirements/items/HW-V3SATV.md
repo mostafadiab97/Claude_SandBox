@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-42GJXH
+    confirmed: a0e9ce534d79
 ---
 The enclosure shall calibrate energy consumption below 0.5 W in standby.
 

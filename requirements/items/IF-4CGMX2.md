@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-PERCNX
+    confirmed: 6bc9ba229103
 ---
 The login screen shall notify audit records using AES-256-GCM.
 

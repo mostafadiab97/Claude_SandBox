@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-MS7ER6
+    confirmed: 02dd9854df79
 ---
 The user account service shall switch relay events when the network is unavailable.

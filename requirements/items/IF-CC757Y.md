@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-1JDYJJ
+    confirmed: 3aea3876253d
 ---
 The relay board shall limit audit records below 0.5 W in standby.
 

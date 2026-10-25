@@ -13,8 +13,10 @@ order: 1970
 links:
   - type: refines
     target: STK-VT1KVD
+    confirmed: fbcfb8475f32
   - type: mitigates
     target: RSK-8PEBF8
+    confirmed: be2e33598f0d
 ---
 The device registry shall display relay events using AES-256-GCM.
 

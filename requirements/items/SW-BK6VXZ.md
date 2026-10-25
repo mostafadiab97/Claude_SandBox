@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-558WVB
+    confirmed: 244554b45f3a
 ---
 The pairing process shall authenticate the operating mode for up to 8 zones.
 

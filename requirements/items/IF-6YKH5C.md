@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-D4SJN8
+    confirmed: 0fa38802d920
 ---
 The zone valve shall limit energy consumption using AES-256-GCM.
 

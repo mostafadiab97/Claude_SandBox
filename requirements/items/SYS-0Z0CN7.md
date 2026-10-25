@@ -14,6 +14,7 @@ order: 330
 links:
   - type: refines
     target: STK-71VSKB
+    confirmed: 994ecb1eff6f
 ---
 The Bluetooth LE link shall log the connection state with an accuracy of ±0.5 °C.
 

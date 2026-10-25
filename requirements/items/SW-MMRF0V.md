@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-KCC5WV
+    confirmed: 201bc4a0f987
 ---
 The user account service shall store access tokens using AES-256-GCM.
 

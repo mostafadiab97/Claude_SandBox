@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-GW4A7W
+    confirmed: 81dfb0ea3083
 ---
 The enclosure shall measure audit records in under 3 s.
 

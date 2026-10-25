@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-8F73DW
+    confirmed: 13efe84ae7ac
 ---
 The regulation loop shall authenticate schedule entries below 0.5 W in standby.
 

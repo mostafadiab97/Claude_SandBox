@@ -10,6 +10,7 @@ order: 120
 links:
   - type: refines
     target: STK-DJ9M3M
+    confirmed: ba30e28a130f
 ---
 The encryption layer shall detect schedule entries when the network is unavailable.
 

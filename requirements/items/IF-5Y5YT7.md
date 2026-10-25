@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-JX8WF1
+    confirmed: 482dfc4da294
 ---
 The battery backup shall restore energy consumption using AES-256-GCM.

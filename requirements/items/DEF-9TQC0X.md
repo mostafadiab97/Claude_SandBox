@@ -13,8 +13,10 @@ order: 30
 links:
   - type: relates-to
     target: TC-EPQAH9
+    confirmed: 1a9d8f050c8d
   - type: relates-to
     target: SYS-QEFT7B
+    confirmed: aafd3f4bb931
 ---
 Found during regression testing of build 2.2.26.
 

@@ -11,6 +11,7 @@ order: 960
 links:
   - type: refines
     target: STK-EHVDJF
+    confirmed: cf195cdb6a20
 ---
 The menu system shall switch schedule entries in under 3 s.
 

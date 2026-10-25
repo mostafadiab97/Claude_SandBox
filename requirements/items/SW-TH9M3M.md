@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-FA8CFD
+    confirmed: 7868d91ae4aa
 ---
 The local API shall log schedule entries after a power loss.
 

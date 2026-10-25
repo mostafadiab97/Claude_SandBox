@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-WF4FY5
+    confirmed: 98658dca5000
 ---
 The local API shall display the connection state after a power loss.
 

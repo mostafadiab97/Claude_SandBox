@@ -13,6 +13,7 @@ order: 580
 links:
   - type: verifies
     target: SYS-H2ZXTG
+    confirmed: b7cf40825d4f
 ---
 **Objective:** verify that the rotary knob behaves as specified.
 

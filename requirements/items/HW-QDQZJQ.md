@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-36WGJV
+    confirmed: f71b41facc21
 ---
 The battery backup shall switch schedule entries for up to 8 zones.
 

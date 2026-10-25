@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-NE90V9
+    confirmed: d34ffbeb0cc6
 ---
 The notification service shall switch safety limits after a power loss.

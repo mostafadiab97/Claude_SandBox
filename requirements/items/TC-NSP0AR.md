@@ -10,8 +10,10 @@ order: 1270
 links:
   - type: verifies
     target: SYS-PH3PWA
+    confirmed: 2363be236978
   - type: verifies
     target: SW-NTY35T
+    confirmed: afa2f9924712
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

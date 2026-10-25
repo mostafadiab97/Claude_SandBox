@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-XAT0K2
+    confirmed: bc4860e51f16
 ---
 The mobile app shall calibrate the operating mode after a power loss.

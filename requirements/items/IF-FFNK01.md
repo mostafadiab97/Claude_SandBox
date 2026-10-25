@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-FKQRCB
+    confirmed: 52eaba4960b1
 ---
 The boiler interface shall store error conditions at least once per minute.
 

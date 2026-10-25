@@ -8,6 +8,7 @@ order: 30
 links:
   - type: refines
     target: SYS-WKJRPW
+    confirmed: d8654a6b0ca3
 ---
 The pairing process shall notify sensor readings in all supported languages.
 

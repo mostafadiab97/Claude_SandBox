@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-61BADB
+    confirmed: 8aabb6fc11d2
 ---
 The relay board shall synchronise the set point for at least 10 years.
 

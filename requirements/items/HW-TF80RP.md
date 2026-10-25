@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-8RS5SX
+    confirmed: 46ee13bca2b0
 ---
 The OTA server shall measure user preferences at least once per minute.
 

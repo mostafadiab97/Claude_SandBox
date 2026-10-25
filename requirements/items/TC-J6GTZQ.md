@@ -9,8 +9,10 @@ order: 890
 links:
   - type: verifies
     target: SYS-MN0YG6
+    confirmed: abb306df2814
   - type: verifies
     target: SW-EGCZEM
+    confirmed: c3b84376e908
 ---
 **Objective:** verify that the login screen behaves as specified.
 

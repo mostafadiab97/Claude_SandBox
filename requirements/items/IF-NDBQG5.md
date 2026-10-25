@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7BCVCV
+    confirmed: 9b16ba8d6617
 ---
 The login screen shall measure safety limits after a power loss.
 

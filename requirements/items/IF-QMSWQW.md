@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-JHK0D7
+    confirmed: a8c42ffc28bc
 ---
 The main PCB shall synchronise the room temperature within 200 ms.
 

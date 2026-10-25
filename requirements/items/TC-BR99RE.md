@@ -12,8 +12,10 @@ order: 460
 links:
   - type: verifies
     target: SYS-XW4JM5
+    confirmed: ed6d4a00a62b
   - type: verifies
     target: SW-N2SS39
+    confirmed: 50e7f7afa151
 ---
 **Objective:** verify that the regulation loop behaves as specified.
 

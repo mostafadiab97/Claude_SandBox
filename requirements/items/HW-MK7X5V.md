@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-V3JY7R
+    confirmed: a0359a8db234
 ---
 The Zigbee radio shall log the connection state below 0.5 W in standby.

@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-B92MZT
+    confirmed: 4ea3d699c52a
 ---
 The tamper detection shall notify schedule entries in under 3 s.

@@ -10,8 +10,10 @@ order: 50
 links:
   - type: relates-to
     target: TC-21PVRS
+    confirmed: 23a3ffec2339
   - type: relates-to
     target: SYS-B7X9NT
+    confirmed: 3dbe2b5d8662
 ---
 Found during regression testing of build 2.7.7.
 

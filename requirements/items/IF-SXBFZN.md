@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: SYS-6TVT9J
+    confirmed: 0af48dc95869
 ---
 The regulation loop shall calibrate the connection state with an accuracy of ±0.5 °C.

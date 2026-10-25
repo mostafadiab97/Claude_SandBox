@@ -10,6 +10,7 @@ order: 320
 links:
   - type: refines
     target: STK-XSZSEZ
+    confirmed: 1038f4e2e9d4
 ---
 The local API shall authenticate humidity values using AES-256-GCM.
 

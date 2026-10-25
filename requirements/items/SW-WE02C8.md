@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-V3JY7R
+    confirmed: a0359a8db234
 ---
 The Zigbee radio shall encrypt access tokens for at least 10 years.
 

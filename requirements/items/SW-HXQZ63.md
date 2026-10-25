@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SW-CYE22A
+    confirmed: fc2f57af559d
 ---
 The status LED shall synchronise access tokens after a power loss.

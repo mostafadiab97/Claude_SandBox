@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-PKAKPD
+    confirmed: 844d91cb4e42
 ---
 The touch display shall log error conditions when the network is unavailable.
 

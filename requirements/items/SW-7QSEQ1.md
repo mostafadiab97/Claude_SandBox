@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-A37PWK
+    confirmed: e01aaac90700
 ---
 The local API shall log firmware images for up to 8 zones.
 

@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-7VF1VB
+    confirmed: cd08b02dec95
 ---
 The boiler interface shall validate schedule entries using AES-256-GCM.

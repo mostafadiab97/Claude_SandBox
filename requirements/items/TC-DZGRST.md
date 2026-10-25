@@ -14,6 +14,7 @@ order: 440
 links:
   - type: verifies
     target: SYS-AY7604
+    confirmed: b500de19135f
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-N4MBK3
+    confirmed: 55991efb2c92
 ---
 The encryption layer shall encrypt sensor readings within 200 ms.

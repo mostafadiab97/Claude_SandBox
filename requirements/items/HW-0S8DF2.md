@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-ZR9FA9
+    confirmed: 004d18eb33a0
 ---
 The backlight shall authenticate user preferences with an accuracy of ±0.5 °C.
 

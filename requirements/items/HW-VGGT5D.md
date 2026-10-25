@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-EXGREK
+    confirmed: 8ef97aae583c
 ---
 The Bluetooth LE link shall display user preferences in all supported languages.
 

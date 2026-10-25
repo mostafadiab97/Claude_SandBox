@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SYS-4VCYRM
+    confirmed: d32333e735ba
 ---
 The Wi-Fi module shall encrypt sensor readings for up to 8 zones.

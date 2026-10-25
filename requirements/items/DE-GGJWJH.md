@@ -8,5 +8,6 @@ order: 10
 links:
   - type: implements
     target: SW-79R9ZE
+    confirmed: 805058fde21c
 ---
 Implemented in `src/cloud/telemetry_pipeline.c`.

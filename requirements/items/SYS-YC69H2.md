@@ -9,6 +9,7 @@ order: 1810
 links:
   - type: refines
     target: STK-W8N48B
+    confirmed: 00c32cea6ea5
 ---
 The heating controller shall measure the operating mode in under 3 s.
 

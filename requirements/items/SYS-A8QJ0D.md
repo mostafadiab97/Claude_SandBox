@@ -8,6 +8,7 @@ order: 590
 links:
   - type: refines
     target: STK-BV5YMS
+    confirmed: 07434b0b5615
 ---
 The touch display shall measure relay events at least once per minute.
 

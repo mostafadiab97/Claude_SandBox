@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-971VHG
+    confirmed: e3ab47cee338
 ---
 The tamper detection shall validate energy consumption below 0.5 W in standby.
 

@@ -12,6 +12,7 @@ order: 100
 links:
   - type: verifies
     target: SYS-12HMHQ
+    confirmed: c7fe0edbb759
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

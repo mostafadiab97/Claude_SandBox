@@ -13,6 +13,7 @@ order: 1410
 links:
   - type: refines
     target: STK-HH6ZNR
+    confirmed: caa77fe9df1c
 ---
 The backlight shall report access tokens in under 3 s.
 

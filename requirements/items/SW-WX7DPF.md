@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-E66142
+    confirmed: 02e2558f5021
 ---
 The status LED shall validate schedule entries without user interaction.

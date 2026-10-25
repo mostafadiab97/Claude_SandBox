@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: HW-6N0S3R
+    confirmed: 13435eae1c22
 ---
 The relay board shall authenticate audit records using AES-256-GCM.
 

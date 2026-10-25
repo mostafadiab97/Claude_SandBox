@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-J17HQ6
+    confirmed: e0be285eec93
 ---
 The login screen shall notify sensor readings with an accuracy of ±0.5 °C.
 

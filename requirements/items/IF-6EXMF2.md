@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-7R66ST
+    confirmed: db31d2c97a6c
 ---
 The touch display shall notify audit records for up to 8 zones.
 

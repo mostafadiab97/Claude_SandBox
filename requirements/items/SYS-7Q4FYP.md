@@ -9,6 +9,7 @@ order: 1840
 links:
   - type: refines
     target: STK-FWM06B
+    confirmed: bbd40f488fa4
 ---
 The backlight shall measure safety limits for at least 10 years.
 

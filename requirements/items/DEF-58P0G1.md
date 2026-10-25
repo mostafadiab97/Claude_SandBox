@@ -13,8 +13,10 @@ order: 90
 links:
   - type: relates-to
     target: TC-DS30DM
+    confirmed: 2b097e682e6c
   - type: relates-to
     target: SYS-3PRD5R
+    confirmed: 582bb4e31c0f
 ---
 Found during regression testing of build 2.5.21.
 

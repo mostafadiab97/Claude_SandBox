@@ -14,8 +14,10 @@ order: 1210
 links:
   - type: verifies
     target: SYS-MQR6RF
+    confirmed: d9d4b12d67de
   - type: verifies
     target: SW-KZQTY6
+    confirmed: 2d0abae3753b
 ---
 **Objective:** verify that the relay board behaves as specified.
 

@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-1Q68X4
+    confirmed: 01eaedbf5ab3
 ---
 The power supply shall encrypt humidity values at least once per minute.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-0J8RA9
+    confirmed: e16a16e4a8ad
 ---
 The Zigbee radio shall detect safety limits below 0.5 W in standby.
 

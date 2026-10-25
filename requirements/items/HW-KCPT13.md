@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: HW-ERQREG
+    confirmed: c207e35a249f
 ---
 The status LED shall restore relay events using AES-256-GCM.
 

@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-1E8HZD
+    confirmed: eacf408dec81
 ---
 Implemented in `src/conn/pairing_process.c`.

@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-3C07C0
+    confirmed: 3f05968a7403
 ---
 The main PCB shall authenticate the connection state within 200 ms.
 

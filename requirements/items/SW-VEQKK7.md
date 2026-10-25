@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-F4HTNV
+    confirmed: f5977efaa651
 ---
 The Wi-Fi module shall notify firmware images with an accuracy of ±0.5 °C.

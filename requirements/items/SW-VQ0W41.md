@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-6YK5CA
+    confirmed: 2507133e13d3
 ---
 The telemetry pipeline shall measure error conditions at least once per minute.
 

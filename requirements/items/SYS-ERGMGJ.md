@@ -10,6 +10,7 @@ order: 1930
 links:
   - type: refines
     target: STK-71VSKB
+    confirmed: 994ecb1eff6f
 ---
 The Zigbee radio shall calibrate humidity values for at least 10 years.
 

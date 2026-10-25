@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-6TVT9J
+    confirmed: 0af48dc95869
 ---
 The regulation loop shall measure relay events in under 3 s.

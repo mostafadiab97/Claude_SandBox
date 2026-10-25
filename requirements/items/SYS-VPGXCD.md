@@ -10,6 +10,7 @@ order: 1800
 links:
   - type: refines
     target: STK-HBX3YS
+    confirmed: b42a2f94d25d
 ---
 The mobile app shall authenticate audit records within 200 ms.
 

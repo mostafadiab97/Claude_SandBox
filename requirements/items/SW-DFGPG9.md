@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-045KKD
+    confirmed: 1b2f3a28be4f
 ---
 The status LED shall limit the room temperature in all supported languages.
 

@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-TRKV8X
+    confirmed: 598d6ef77c60
 ---
 The Wi-Fi module shall report energy consumption when the network is unavailable.
 

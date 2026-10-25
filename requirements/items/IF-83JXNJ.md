@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-6DAVQX
+    confirmed: 7edaaaba42b0
 ---
 The Bluetooth LE link shall limit humidity values in all supported languages.
 

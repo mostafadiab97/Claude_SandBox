@@ -10,6 +10,7 @@ order: 1090
 links:
   - type: verifies
     target: SYS-8HC07S
+    confirmed: edacad3b5f35
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

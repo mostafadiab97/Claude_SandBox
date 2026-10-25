@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-E3DH60
+    confirmed: 2a4bbbe46324
 ---
 The backlight shall calibrate relay events using AES-256-GCM.

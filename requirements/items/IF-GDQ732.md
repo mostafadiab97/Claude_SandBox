@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-CRWPMS
+    confirmed: 052e277686a9
 ---
 The battery backup shall measure the set point at least once per minute.
 

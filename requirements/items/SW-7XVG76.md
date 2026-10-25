@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-4AZ7BD
+    confirmed: cd9c225e18ad
 ---
 The tamper detection shall authenticate schedule entries within 200 ms.

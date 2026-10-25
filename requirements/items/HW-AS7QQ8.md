@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-CSBXDS
+    confirmed: 1344b9a930e1
 ---
 The schedule editor shall measure error conditions below 0.5 W in standby.
 

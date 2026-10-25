@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-75ZSGD
+    confirmed: 58f0d670cbc1
 ---
 The main PCB shall calibrate user preferences for at least 10 years.
 

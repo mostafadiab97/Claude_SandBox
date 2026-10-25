@@ -14,5 +14,6 @@ order: 30
 links:
   - type: refines
     target: SYS-JJBC0A
+    confirmed: 33302d5c9847
 ---
 The power supply shall display the set point for at least 10 years.

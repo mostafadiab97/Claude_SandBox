@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: IF-CMRW60
+    confirmed: 4267f69dcb5a
 ---
 The menu system shall limit user preferences below 0.5 W in standby.
 

@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: IF-WQX12B
+    confirmed: 1b4dbc4764ea
 ---
 The heating controller shall synchronise the operating mode in all supported languages.

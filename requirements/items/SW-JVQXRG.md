@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-5GVCBE
+    confirmed: 4f9a7c40ce36
 ---
 The mobile app shall calibrate schedule entries within 200 ms.
 

@@ -14,8 +14,10 @@ order: 1850
 links:
   - type: refines
     target: STK-B9Y7CM
+    confirmed: 2e83dea5db22
   - type: mitigates
     target: RSK-BZRBDX
+    confirmed: be3df4abc265
 ---
 The home dashboard shall restore user preferences in all supported languages.
 

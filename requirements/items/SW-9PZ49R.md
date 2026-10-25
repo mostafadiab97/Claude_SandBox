@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-JGZMEV
+    confirmed: 06d6346c072b
 ---
 The menu system shall detect access tokens for up to 8 zones.
 

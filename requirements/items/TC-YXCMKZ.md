@@ -12,8 +12,10 @@ order: 1130
 links:
   - type: verifies
     target: SYS-W77D8P
+    confirmed: 939eef8c8900
   - type: verifies
     target: SW-K76H4S
+    confirmed: eb58fcaf9f95
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

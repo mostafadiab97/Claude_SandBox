@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-9A1GW8
+    confirmed: 86e623abefc2
 ---
 The secure boot shall log the connection state after a power loss.
 

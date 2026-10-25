@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-84WAA6
+    confirmed: 34578fd70293
 ---
 The battery backup shall limit schedule entries after a power loss.
 

@@ -12,6 +12,7 @@ order: 210
 links:
   - type: verifies
     target: SYS-RGXH2B
+    confirmed: a7182b2229b0
 ---
 **Objective:** verify that the relay board behaves as specified.
 

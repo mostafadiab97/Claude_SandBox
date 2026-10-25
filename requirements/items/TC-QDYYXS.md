@@ -10,8 +10,10 @@ order: 110
 links:
   - type: verifies
     target: SYS-RQ231H
+    confirmed: 88585ac7e9a1
   - type: verifies
     target: SW-A11K9R
+    confirmed: 24ff723bc647
 ---
 **Objective:** verify that the relay board behaves as specified.
 

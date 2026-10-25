@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-JKDR8H
+    confirmed: 85d240523d89
 ---
 The backlight shall limit sensor readings below 0.5 W in standby.
 

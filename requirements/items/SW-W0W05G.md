@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-25VHBZ
+    confirmed: b66a06d6db09
 ---
 The telemetry pipeline shall calibrate relay events without user interaction.

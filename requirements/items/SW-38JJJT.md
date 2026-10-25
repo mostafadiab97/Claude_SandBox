@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-J20KDY
+    confirmed: 046e3bad56fa
 ---
 The over-temperature monitor shall encrypt schedule entries in under 3 s.
 

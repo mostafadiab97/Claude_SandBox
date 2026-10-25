@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-KZYDJR
+    confirmed: c4c96610c247
 ---
 The over-temperature monitor shall measure schedule entries for up to 8 zones.
 

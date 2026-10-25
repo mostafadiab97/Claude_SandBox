@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-19AJTE
+    confirmed: 453482be94f2
 ---
 The menu system shall log energy consumption with an accuracy of ±0.5 °C.
 

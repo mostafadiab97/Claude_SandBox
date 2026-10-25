@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: HW-3CV5ZR
+    confirmed: d3f8966e296f
 ---
 The mobile app shall validate safety limits in all supported languages.

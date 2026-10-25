@@ -9,6 +9,7 @@ order: 1750
 links:
   - type: verifies
     target: SYS-YKSDDE
+    confirmed: 631388ab0b1c
 ---
 **Objective:** verify that the device behaves as specified.
 

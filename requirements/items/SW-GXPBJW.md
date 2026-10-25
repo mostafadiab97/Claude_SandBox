@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-Z166W7
+    confirmed: 099678ac6f39
 ---
 The secure boot shall limit the room temperature in all supported languages.
 

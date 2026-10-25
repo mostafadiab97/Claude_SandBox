@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-XWSXG7
+    confirmed: 99ff67880704
 ---
 The relay board shall calibrate safety limits after a power loss.

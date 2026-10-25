@@ -14,8 +14,10 @@ order: 50
 links:
   - type: verifies
     target: SYS-BJEV5G
+    confirmed: c5698f4c4723
   - type: verifies
     target: SW-NMX28D
+    confirmed: a642f03452f5
 ---
 **Objective:** verify that the local API behaves as specified.
 

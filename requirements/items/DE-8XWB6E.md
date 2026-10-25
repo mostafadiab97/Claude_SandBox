@@ -11,5 +11,6 @@ order: 20
 links:
   - type: implements
     target: SW-F763R6
+    confirmed: 8f4a455a76a6
 ---
 Implemented in `src/cloud/telemetry_pipeline.c`.

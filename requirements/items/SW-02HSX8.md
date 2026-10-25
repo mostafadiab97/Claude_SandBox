@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-T58ZF0
+    confirmed: 5e996d12a800
 ---
 The Wi-Fi module shall store user preferences without user interaction.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-9BFVNF
+    confirmed: 36211779cc51
 ---
 The main PCB shall validate the operating mode in under 3 s.
 

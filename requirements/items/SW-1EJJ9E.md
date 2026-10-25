@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-6QXQJN
+    confirmed: ca38e7bc528c
 ---
 The local API shall validate safety limits without user interaction.
 

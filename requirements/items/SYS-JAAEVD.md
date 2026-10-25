@@ -10,5 +10,6 @@ order: 1130
 links:
   - type: refines
     target: STK-8W3602
+    confirmed: 25b39ad8cae7
 ---
 The heat pump driver shall display the room temperature for at least 10 years.

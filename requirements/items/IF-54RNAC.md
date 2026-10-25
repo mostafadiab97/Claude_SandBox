@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-MQR6RF
+    confirmed: d9d4b12d67de
 ---
 The relay board shall report relay events below 0.5 W in standby.
 

@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-PEWC57
+    confirmed: f5d264e731c2
 ---
 The status LED shall calibrate the room temperature within 200 ms.

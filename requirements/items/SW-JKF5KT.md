@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-PZ4VK2
+    confirmed: 12092eeb71f2
 ---
 The notification service shall detect humidity values when the network is unavailable.
 

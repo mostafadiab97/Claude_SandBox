@@ -14,6 +14,7 @@ order: 1350
 links:
   - type: verifies
     target: SYS-X38ARN
+    confirmed: eb49855d4e1d
 ---
 **Objective:** verify that the device behaves as specified.
 

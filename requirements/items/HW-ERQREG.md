@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-FC1AYV
+    confirmed: eb5c3ea75cd1
 ---
 The status LED shall calibrate energy consumption for at least 10 years.
 

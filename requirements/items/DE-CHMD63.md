@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-77W32Q
+    confirmed: 073d911b6462
 ---
 Implemented in `src/conn/Zigbee_radio.c`.

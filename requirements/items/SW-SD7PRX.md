@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-BJZPAW
+    confirmed: 118d961f538b
 ---
 The pairing process shall report safety limits within 200 ms.
 

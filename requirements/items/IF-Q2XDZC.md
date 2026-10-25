@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-SPX676
+    confirmed: c915b489dd1f
 ---
 The Zigbee radio shall authenticate firmware images for up to 8 zones.
 

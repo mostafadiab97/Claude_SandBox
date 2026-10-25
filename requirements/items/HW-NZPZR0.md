@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-N4973J
+    confirmed: 8d1bab1da881
 ---
 The menu system shall synchronise sensor readings below 0.5 W in standby.
 

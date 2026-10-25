@@ -14,6 +14,7 @@ order: 1540
 links:
   - type: verifies
     target: SYS-SASG4P
+    confirmed: 00a1e26f4144
 ---
 **Objective:** verify that the device registry behaves as specified.
 

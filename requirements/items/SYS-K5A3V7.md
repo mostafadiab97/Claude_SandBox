@@ -10,6 +10,7 @@ order: 620
 links:
   - type: refines
     target: STK-8PN4VS
+    confirmed: a3e83ac40678
 ---
 The touch display shall measure the operating mode in all supported languages.
 

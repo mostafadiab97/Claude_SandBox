@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-PE874W
+    confirmed: 0009c1a66a34
 ---
 The Bluetooth LE link shall measure safety limits without user interaction.
 

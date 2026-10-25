@@ -11,6 +11,7 @@ order: 810
 links:
   - type: refines
     target: STK-8W3602
+    confirmed: 25b39ad8cae7
 ---
 The boiler interface shall display error conditions in under 3 s.
 

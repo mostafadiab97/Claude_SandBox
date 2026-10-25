@@ -14,5 +14,6 @@ order: 30
 links:
   - type: refines
     target: SYS-AY7604
+    confirmed: b500de19135f
 ---
 The home dashboard shall switch the room temperature within 200 ms.

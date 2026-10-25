@@ -10,6 +10,7 @@ order: 1960
 links:
   - type: refines
     target: STK-5CT2VD
+    confirmed: 51ca0f7a80ed
 ---
 The Bluetooth LE link shall encrypt firmware images in all supported languages.
 

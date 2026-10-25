@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-BPCY60
+    confirmed: a39478942b51
 ---
 The Zigbee radio shall report user preferences after a power loss.
 

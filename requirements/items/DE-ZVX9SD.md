@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-EFCBX4
+    confirmed: dd32bb21a8f8
 ---
 Implemented in `src/heat/heating_controller.c`.

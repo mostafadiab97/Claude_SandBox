@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-E79TSB
+    confirmed: dbeab1b468f4
 ---
 The relay board shall notify the connection state within 200 ms.
 

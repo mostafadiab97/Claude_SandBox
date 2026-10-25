@@ -13,6 +13,7 @@ order: 1490
 links:
   - type: refines
     target: STK-Y4WG9E
+    confirmed: 9c3c4f9c0995
 ---
 The battery backup shall switch energy consumption with an accuracy of ±0.5 °C.
 

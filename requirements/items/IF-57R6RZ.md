@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-67M60W
+    confirmed: 1664afe6fc4e
 ---
 The login screen shall detect the connection state in under 3 s.

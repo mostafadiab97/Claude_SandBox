@@ -10,5 +10,6 @@ order: 1500
 links:
   - type: refines
     target: STK-B4ZH98
+    confirmed: c19c22627f21
 ---
 The secure boot shall display the room temperature when the network is unavailable.

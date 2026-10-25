@@ -10,6 +10,7 @@ order: 420
 links:
   - type: refines
     target: STK-SWTYBR
+    confirmed: 85d99e967934
 ---
 The notification service shall notify schedule entries at least once per minute.
 

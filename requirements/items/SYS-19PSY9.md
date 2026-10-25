@@ -9,6 +9,7 @@ order: 540
 links:
   - type: refines
     target: STK-8PN4VS
+    confirmed: a3e83ac40678
 ---
 The touch display shall encrypt relay events using AES-256-GCM.
 

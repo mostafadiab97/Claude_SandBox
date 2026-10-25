@@ -11,5 +11,6 @@ order: 40
 links:
   - type: refines
     target: SYS-QTE64V
+    confirmed: 27661a1b1fc7
 ---
 The telemetry pipeline shall log the room temperature with an accuracy of ±0.5 °C.

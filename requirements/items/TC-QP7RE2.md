@@ -12,6 +12,7 @@ order: 750
 links:
   - type: verifies
     target: SYS-HSBZEM
+    confirmed: 22cdb66e683a
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

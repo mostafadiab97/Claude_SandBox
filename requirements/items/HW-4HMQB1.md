@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-NE6TEY
+    confirmed: 1bfcfdf93dd1
 ---
 The rotary knob shall notify relay events in all supported languages.
 

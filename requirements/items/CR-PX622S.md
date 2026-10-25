@@ -14,6 +14,7 @@ order: 20
 links:
   - type: relates-to
     target: SYS-25J8VJ
+    confirmed: 2c47b5d6654c
 ---
 Requested by customer support (ticket #11905).
 

@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-2KGJFW
+    confirmed: 33b6774f671a
 ---
 The status LED shall log audit records with an accuracy of ±0.5 °C.

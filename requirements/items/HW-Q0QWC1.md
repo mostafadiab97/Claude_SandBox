@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-CJSA65
+    confirmed: 3bf01e0cf471
 ---
 The relay board shall detect audit records with an accuracy of ±0.5 °C.
 

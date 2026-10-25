@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-R238S9
+    confirmed: c8cdaae5e43a
 ---
 Implemented in `src/app/mobile_app.c`.

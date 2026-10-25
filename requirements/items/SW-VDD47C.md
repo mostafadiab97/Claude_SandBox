@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-MBHXR1
+    confirmed: ce3a84795410
 ---
 The user account service shall store access tokens with an accuracy of ±0.5 °C.

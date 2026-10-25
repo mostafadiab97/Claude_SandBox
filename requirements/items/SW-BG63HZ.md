@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-J8Q01T
+    confirmed: d85270700def
 ---
 The zone valve shall encrypt the set point in all supported languages.
 

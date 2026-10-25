@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: HW-NWPRR1
+    confirmed: 1467677dc74e
 ---
 The power supply shall validate schedule entries when the network is unavailable.

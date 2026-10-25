@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-NJ73ZK
+    confirmed: cda235c01515
 ---
 The pairing process shall log access tokens below 0.5 W in standby.
 

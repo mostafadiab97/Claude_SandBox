@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: IF-1N0RPT
+    confirmed: 37e4641c95bb
 ---
 The enclosure shall authenticate schedule entries for up to 8 zones.

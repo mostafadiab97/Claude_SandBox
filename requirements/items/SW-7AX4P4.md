@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-VR1QT6
+    confirmed: b3132101c5d6
 ---
 The secure boot shall synchronise safety limits using AES-256-GCM.
 

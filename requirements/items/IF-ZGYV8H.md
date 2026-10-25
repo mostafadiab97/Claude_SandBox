@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-XZE9DK
+    confirmed: 7345ac77c8fe
 ---
 The user account service shall synchronise the connection state within 200 ms.
 

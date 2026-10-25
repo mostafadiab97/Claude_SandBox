@@ -12,6 +12,7 @@ order: 1500
 links:
   - type: verifies
     target: SYS-AZWQYS
+    confirmed: 00d3546fe417
 ---
 **Objective:** verify that the boiler interface behaves as specified.
 

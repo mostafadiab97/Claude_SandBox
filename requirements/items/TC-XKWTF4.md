@@ -12,8 +12,10 @@ order: 1520
 links:
   - type: verifies
     target: SYS-6DS2H0
+    confirmed: 108113d0fa0b
   - type: verifies
     target: SW-DMY4GP
+    confirmed: b52688ba9a63
 ---
 **Objective:** verify that the touch display behaves as specified.
 

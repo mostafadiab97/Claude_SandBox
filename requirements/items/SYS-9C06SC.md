@@ -12,8 +12,10 @@ order: 860
 links:
   - type: refines
     target: STK-JFBQPS
+    confirmed: 5027ee1822eb
   - type: mitigates
     target: RSK-M50SEK
+    confirmed: 2cdadc33fb4f
 ---
 The cloud backend shall limit humidity values in all supported languages.
 

@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-6ZKWGN
+    confirmed: 77726f2db2ad
 ---
 Implemented in `src/safe/secure_boot.c`.

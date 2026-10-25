@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-GV4SNR
+    confirmed: 0a48294d13c0
 ---
 The touch display shall validate relay events after a power loss.
 

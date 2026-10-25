@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SW-XHKJA3
+    confirmed: 2db13121f5f5
 ---
 The regulation loop shall report the room temperature in all supported languages.

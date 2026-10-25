@@ -9,8 +9,10 @@ order: 1080
 links:
   - type: verifies
     target: SYS-AHR17G
+    confirmed: f886c26f41b1
   - type: verifies
     target: SW-SFAEZ9
+    confirmed: efde7dfddc3b
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

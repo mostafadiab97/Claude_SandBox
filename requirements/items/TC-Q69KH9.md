@@ -8,6 +8,7 @@ order: 350
 links:
   - type: verifies
     target: SYS-JP2FG0
+    confirmed: 0bf18351a2cd
 ---
 **Objective:** verify that the power supply behaves as specified.
 

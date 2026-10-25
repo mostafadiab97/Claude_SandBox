@@ -14,6 +14,7 @@ order: 450
 links:
   - type: verifies
     target: SYS-6QFCF2
+    confirmed: d9f6d0d7d66b
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

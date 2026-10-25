@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-PBKX7W
+    confirmed: a53b6550389e
 ---
 The Zigbee radio shall authenticate energy consumption without user interaction.
 

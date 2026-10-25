@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-BDJ1DZ
+    confirmed: 2e34cdf6c76f
 ---
 The Bluetooth LE link shall restore safety limits in all supported languages.
 

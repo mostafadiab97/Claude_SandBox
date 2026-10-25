@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-B9VTJR
+    confirmed: 07a4ebe67d81
 ---
 The pairing process shall measure access tokens using AES-256-GCM.

@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-NBQQ5Q
+    confirmed: 5b8a1f6cb039
 ---
 The local API shall display firmware images for up to 8 zones.
 

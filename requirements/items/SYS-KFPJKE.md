@@ -9,6 +9,7 @@ order: 2030
 links:
   - type: refines
     target: STK-ZJRWCQ
+    confirmed: 080168ea99ae
 ---
 The over-temperature monitor shall display safety limits in all supported languages.
 

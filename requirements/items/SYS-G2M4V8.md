@@ -12,6 +12,7 @@ order: 570
 links:
   - type: refines
     target: STK-MC9ASH
+    confirmed: a4f2ebaecfbe
 ---
 The mobile app shall switch user preferences at least once per minute.
 

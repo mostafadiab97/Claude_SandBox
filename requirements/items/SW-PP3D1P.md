@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-AY6RXE
+    confirmed: 7ff5c17c87ed
 ---
 The backlight shall validate error conditions in all supported languages.
 

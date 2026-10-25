@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-BQ9NSH
+    confirmed: e9c956142786
 ---
 The device registry shall limit audit records when the network is unavailable.
 

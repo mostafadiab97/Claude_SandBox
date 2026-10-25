@@ -10,6 +10,7 @@ order: 130
 links:
   - type: refines
     target: STK-639N9T
+    confirmed: 252da9caa62c
 ---
 The mobile app shall store user preferences without user interaction.
 

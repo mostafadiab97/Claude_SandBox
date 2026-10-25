@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-N3G2GX
+    confirmed: 82049aeb2cf6
 ---
 The boiler interface shall validate sensor readings below 0.5 W in standby.
 

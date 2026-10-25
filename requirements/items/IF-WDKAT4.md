@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-Q1NDZA
+    confirmed: 1aaab302f129
 ---
 The power supply shall encrypt relay events when the network is unavailable.
 

@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-NVKX9K
+    confirmed: 720362ab5cfe
 ---
 The over-temperature monitor shall notify relay events without user interaction.
 

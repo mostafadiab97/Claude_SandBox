@@ -10,6 +10,7 @@ order: 130
 links:
   - type: verifies
     target: SYS-JGZMEV
+    confirmed: 06d6346c072b
 ---
 **Objective:** verify that the menu system behaves as specified.
 

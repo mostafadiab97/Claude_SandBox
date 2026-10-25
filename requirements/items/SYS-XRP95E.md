@@ -14,6 +14,7 @@ order: 2200
 links:
   - type: refines
     target: STK-2STGXE
+    confirmed: c77fe61daf4b
 ---
 The enclosure shall notify energy consumption for at least 10 years.
 

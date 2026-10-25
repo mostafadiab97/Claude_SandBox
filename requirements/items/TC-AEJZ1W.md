@@ -12,6 +12,7 @@ order: 780
 links:
   - type: verifies
     target: SYS-RW8T89
+    confirmed: 60bb88437f79
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

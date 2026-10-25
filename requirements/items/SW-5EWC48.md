@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-PQPJM5
+    confirmed: 743135e74e23
 ---
 The heat pump driver shall synchronise the operating mode when the network is unavailable.
 

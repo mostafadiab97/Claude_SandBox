@@ -13,6 +13,7 @@ order: 2000
 links:
   - type: verifies
     target: SYS-6A5W87
+    confirmed: 739d6ec12ecc
 ---
 **Objective:** verify that the device behaves as specified.
 

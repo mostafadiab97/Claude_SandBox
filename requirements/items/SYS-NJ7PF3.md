@@ -11,8 +11,10 @@ order: 1090
 links:
   - type: refines
     target: STK-92HHJV
+    confirmed: 260bd01800c6
   - type: mitigates
     target: RSK-RV8KBD
+    confirmed: 637ec5e39d53
 ---
 The tamper detection shall limit error conditions for at least 10 years.
 

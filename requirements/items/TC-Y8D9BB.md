@@ -12,6 +12,7 @@ order: 400
 links:
   - type: verifies
     target: SYS-19PSY9
+    confirmed: 6a61bda8a792
 ---
 **Objective:** verify that the touch display behaves as specified.
 

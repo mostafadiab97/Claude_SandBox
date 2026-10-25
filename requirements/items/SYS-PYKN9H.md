@@ -12,6 +12,7 @@ order: 90
 links:
   - type: refines
     target: STK-Y5PMTC
+    confirmed: 047439fb0db8
 ---
 The telemetry pipeline shall measure audit records at least once per minute.
 

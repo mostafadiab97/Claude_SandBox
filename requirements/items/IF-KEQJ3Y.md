@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-ZG2A7P
+    confirmed: dd3e6f066e4e
 ---
 The cloud backend shall authenticate sensor readings without user interaction.
 

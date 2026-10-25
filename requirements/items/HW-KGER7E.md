@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-6FPHXN
+    confirmed: 13b34afb2e0e
 ---
 The login screen shall validate audit records below 0.5 W in standby.
 

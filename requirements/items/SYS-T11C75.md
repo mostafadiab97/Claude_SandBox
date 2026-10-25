@@ -10,6 +10,7 @@ order: 1400
 links:
   - type: refines
     target: STK-CDR1Y9
+    confirmed: d9857f8b33bf
 ---
 The relay board shall report user preferences in under 3 s.
 

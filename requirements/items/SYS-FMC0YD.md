@@ -12,6 +12,7 @@ order: 180
 links:
   - type: refines
     target: STK-EFJRJ9
+    confirmed: fc922ec1a72e
 ---
 The boiler interface shall measure energy consumption with an accuracy of ±0.5 °C.
 

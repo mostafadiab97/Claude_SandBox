@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-AV8TV7
+    confirmed: 7a477944dca2
 ---
 Implemented in `src/safe/over-temperature_monitor.c`.

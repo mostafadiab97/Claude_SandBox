@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-WFQYSE
+    confirmed: 5a5dbeacc343
 ---
 The relay board shall limit error conditions without user interaction.
 

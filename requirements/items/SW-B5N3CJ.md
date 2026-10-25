@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: SYS-KC9B1E
+    confirmed: 3ee066e79e6d
 ---
 The Wi-Fi module shall encrypt schedule entries without user interaction.

@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: HW-R1226R
+    confirmed: b871e4575ee8
 ---
 The enclosure shall synchronise the set point without user interaction.
 

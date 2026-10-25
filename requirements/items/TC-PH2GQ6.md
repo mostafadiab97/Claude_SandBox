@@ -11,6 +11,7 @@ order: 30
 links:
   - type: verifies
     target: SYS-6REMTR
+    confirmed: e73f40f41cec
 ---
 **Objective:** verify that the login screen behaves as specified.
 

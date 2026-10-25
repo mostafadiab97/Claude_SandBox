@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-5D666J
+    confirmed: cfe3f145e294
 ---
 The encryption layer shall report the connection state without user interaction.

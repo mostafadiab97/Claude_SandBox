@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-5JP4T4
+    confirmed: 8b6fa0928d20
 ---
 The encryption layer shall validate the operating mode in under 3 s.

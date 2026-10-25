@@ -10,6 +10,7 @@ order: 1540
 links:
   - type: verifies
     target: SYS-SA1DH7
+    confirmed: 339efbb2167c
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

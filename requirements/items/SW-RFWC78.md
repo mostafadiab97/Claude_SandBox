@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-4QH9R0
+    confirmed: 723f7d1c807e
 ---
 The heating controller shall restore user preferences in under 3 s.

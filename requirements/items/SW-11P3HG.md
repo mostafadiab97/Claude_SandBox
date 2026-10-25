@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-CY6ETQ
+    confirmed: fca3f3673c34
 ---
 The Bluetooth LE link shall encrypt the set point with an accuracy of ±0.5 °C.

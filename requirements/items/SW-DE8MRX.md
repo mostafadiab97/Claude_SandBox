@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-WEYZAK
+    confirmed: 7b40fcf8dbb4
 ---
 The backlight shall authenticate energy consumption within 200 ms.
 

@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-D4MGRN
+    confirmed: b3e25b1d60cb
 ---
 The user account service shall store schedule entries for up to 8 zones.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-MBFN7F
+    confirmed: b19c9537fa97
 ---
 The enclosure shall authenticate sensor readings below 0.5 W in standby.
 

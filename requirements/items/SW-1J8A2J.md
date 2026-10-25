@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-JSEPSH
+    confirmed: 07bbcfe4ef37
 ---
 The pairing process shall restore the set point using AES-256-GCM.
 

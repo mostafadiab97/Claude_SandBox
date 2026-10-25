@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-F961QG
+    confirmed: f5b7f4c14067
 ---
 The enclosure shall detect the operating mode using AES-256-GCM.
 

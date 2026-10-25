@@ -10,6 +10,7 @@ order: 1420
 links:
   - type: verifies
     target: SYS-Q32CFF
+    confirmed: 178903f1a8f4
 ---
 **Objective:** verify that the touch display behaves as specified.
 

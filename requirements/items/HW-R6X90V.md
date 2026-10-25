@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SYS-2C5AG5
+    confirmed: f015c93439ed
 ---
 The secure boot shall report access tokens below 0.5 W in standby.

@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-HB4GM5
+    confirmed: 2cd9efe1d517
 ---
 The home dashboard shall authenticate error conditions for at least 10 years.

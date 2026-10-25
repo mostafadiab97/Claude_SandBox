@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-YD7QZF
+    confirmed: 373d1317b49b
 ---
 The menu system shall synchronise user preferences without user interaction.

@@ -11,6 +11,7 @@ order: 330
 links:
   - type: refines
     target: STK-JAQHJP
+    confirmed: b0af11a5c3c2
 ---
 The relay board shall log energy consumption in under 3 s.
 

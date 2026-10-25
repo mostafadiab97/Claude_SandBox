@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-MV08ST
+    confirmed: 70d4bbd357b5
 ---
 The user account service shall measure the set point below 0.5 W in standby.
 

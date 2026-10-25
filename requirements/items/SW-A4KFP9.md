@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-49FF9M
+    confirmed: de1a22bc8031
 ---
 The tamper detection shall synchronise the operating mode for up to 8 zones.

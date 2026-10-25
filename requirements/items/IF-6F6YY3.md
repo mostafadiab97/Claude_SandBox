@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-H16WP1
+    confirmed: ba4b259a4075
 ---
 The watchdog shall notify the connection state for at least 10 years.
 

@@ -9,6 +9,7 @@ order: 40
 links:
   - type: refines
     target: SYS-4MWCBY
+    confirmed: 12c71184dbf6
 ---
 The secure boot shall store the connection state at least once per minute.
 

@@ -9,5 +9,6 @@ order: 30
 links:
   - type: refines
     target: SYS-KT5254
+    confirmed: 609b39c5ecd0
 ---
 The enclosure shall synchronise humidity values in under 3 s.

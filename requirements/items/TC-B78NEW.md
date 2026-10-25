@@ -10,6 +10,7 @@ order: 410
 links:
   - type: verifies
     target: SYS-8P54CP
+    confirmed: 83be93bab647
 ---
 **Objective:** verify that the login screen behaves as specified.
 

@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: IF-265QXZ
+    confirmed: aef58d532a01
 ---
 The boiler interface shall validate error conditions using AES-256-GCM.
 

@@ -13,8 +13,10 @@ order: 1200
 links:
   - type: verifies
     target: SYS-6B5FVX
+    confirmed: 9f166b9bcfdd
   - type: verifies
     target: SW-37ZS02
+    confirmed: f039821094b7
 ---
 **Objective:** verify that the touch display behaves as specified.
 

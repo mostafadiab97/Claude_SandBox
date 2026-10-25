@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-WZP19J
+    confirmed: d934eb15363e
 ---
 The Bluetooth LE link shall calibrate relay events for at least 10 years.

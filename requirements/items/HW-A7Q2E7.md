@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-E9RGPF
+    confirmed: f695ac56bd99
 ---
 The login screen shall measure the connection state using AES-256-GCM.
 

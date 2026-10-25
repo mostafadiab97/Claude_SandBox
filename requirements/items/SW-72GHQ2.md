@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-J7BTY7
+    confirmed: 407923e760c5
 ---
 The status LED shall encrypt access tokens without user interaction.
 

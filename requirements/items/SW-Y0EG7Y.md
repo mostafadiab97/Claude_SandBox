@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-BY1F6D
+    confirmed: 47a415e5df93
 ---
 The over-temperature monitor shall detect energy consumption with an accuracy of ±0.5 °C.
 

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-JWQ89P
+    confirmed: 8d8f328abb5c
 ---
 The Bluetooth LE link shall switch the connection state for at least 10 years.
 

@@ -11,8 +11,10 @@ order: 460
 links:
   - type: verifies
     target: SYS-JKF1QX
+    confirmed: ff14b57eee23
   - type: verifies
     target: SW-FJNHTZ
+    confirmed: e5166e8743b5
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

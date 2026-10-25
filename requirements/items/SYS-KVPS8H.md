@@ -11,5 +11,6 @@ order: 1120
 links:
   - type: refines
     target: STK-SWTYBR
+    confirmed: 85d99e967934
 ---
 The login screen shall synchronise the operating mode for up to 8 zones.

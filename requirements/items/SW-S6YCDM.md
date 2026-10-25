@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-AAE3BF
+    confirmed: 18744e5f2f29
 ---
 The telemetry pipeline shall restore schedule entries in under 3 s.
 

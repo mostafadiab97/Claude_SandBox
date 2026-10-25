@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-79KQKX
+    confirmed: 4a5dbc61d1c6
 ---
 The mobile app shall authenticate energy consumption in under 3 s.
 

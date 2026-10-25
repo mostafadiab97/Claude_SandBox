@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-884WH5
+    confirmed: f22a1b5d8558
 ---
 The secure boot shall encrypt schedule entries in all supported languages.
 

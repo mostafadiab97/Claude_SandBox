@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-G5S6EX
+    confirmed: e5867026fabe
 ---
 The secure boot shall switch the connection state in all supported languages.
 

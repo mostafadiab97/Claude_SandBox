@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-ADSZ4M
+    confirmed: bec31ed60a2e
 ---
 Implemented in `src/app/login_screen.c`.

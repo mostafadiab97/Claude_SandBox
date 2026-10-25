@@ -13,8 +13,10 @@ order: 170
 links:
   - type: relates-to
     target: TC-VAJSZT
+    confirmed: f6229e64650f
   - type: relates-to
     target: SYS-8FZWQN
+    confirmed: da1b062f4b9e
 ---
 Found during regression testing of build 2.8.11.
 

@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-7W8YGY
+    confirmed: aca44262add5
 ---
 The Bluetooth LE link shall authenticate sensor readings with an accuracy of ±0.5 °C.

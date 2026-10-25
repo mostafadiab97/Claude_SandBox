@@ -8,6 +8,7 @@ order: 10
 links:
   - type: refines
     target: HW-HPT0RH
+    confirmed: 0be1cb4ed5d7
 ---
 The OTA server shall synchronise sensor readings at least once per minute.
 

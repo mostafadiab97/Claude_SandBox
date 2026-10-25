@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-H7XP2M
+    confirmed: 7b8641948b25
 ---
 The relay board shall synchronise sensor readings below 0.5 W in standby.
 

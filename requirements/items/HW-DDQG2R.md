@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7TGW7V
+    confirmed: 5c07b577ecff
 ---
 The enclosure shall calibrate humidity values using AES-256-GCM.
 

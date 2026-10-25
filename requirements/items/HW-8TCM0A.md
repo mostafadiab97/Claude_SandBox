@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-P934M9
+    confirmed: dd9a2dec3b73
 ---
 The Bluetooth LE link shall log the connection state at least once per minute.

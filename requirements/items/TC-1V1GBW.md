@@ -9,6 +9,7 @@ order: 830
 links:
   - type: verifies
     target: SYS-ERGMGJ
+    confirmed: 4e0d29ca2f08
 ---
 **Objective:** verify that the device behaves as specified.
 

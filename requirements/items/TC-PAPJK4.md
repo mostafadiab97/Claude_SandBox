@@ -9,6 +9,7 @@ order: 930
 links:
   - type: verifies
     target: SYS-069B79
+    confirmed: b68bfd68f8d5
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: HW-AEW2N9
+    confirmed: 051330cec579
 ---
 The Bluetooth LE link shall log error conditions within 200 ms.

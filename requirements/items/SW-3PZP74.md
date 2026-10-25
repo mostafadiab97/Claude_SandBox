@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-8DNBZZ
+    confirmed: 56dd9201bfb6
 ---
 The status LED shall synchronise the operating mode without user interaction.
 

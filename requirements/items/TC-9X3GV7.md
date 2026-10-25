@@ -12,6 +12,7 @@ order: 1700
 links:
   - type: verifies
     target: SYS-2GY8ED
+    confirmed: af1bc2a80b1d
 ---
 **Objective:** verify that the device behaves as specified.
 

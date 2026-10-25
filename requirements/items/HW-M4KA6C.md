@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-MVY23C
+    confirmed: c547c82cf252
 ---
 The backlight shall limit error conditions at least once per minute.
 

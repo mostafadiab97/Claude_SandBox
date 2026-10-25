@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-RB6KMZ
+    confirmed: 9e9699c7ff42
 ---
 The Zigbee radio shall notify energy consumption for at least 10 years.
 

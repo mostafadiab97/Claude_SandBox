@@ -10,6 +10,7 @@ order: 110
 links:
   - type: verifies
     target: SYS-N7H58H
+    confirmed: a8a06726344d
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

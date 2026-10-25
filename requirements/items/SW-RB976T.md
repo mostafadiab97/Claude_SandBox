@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-M3FMZZ
+    confirmed: 462438fa0d84
 ---
 The status LED shall log user preferences without user interaction.
 

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-TMA5SV
+    confirmed: dbbdc041687a
 ---
 The over-temperature monitor shall authenticate the set point at least once per minute.
 

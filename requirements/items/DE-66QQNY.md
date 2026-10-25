@@ -11,5 +11,6 @@ order: 20
 links:
   - type: implements
     target: SW-BXDS06
+    confirmed: a79a0d1525b6
 ---
 Implemented in `src/conn/Zigbee_radio.c`.

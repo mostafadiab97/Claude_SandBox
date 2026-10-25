@@ -12,8 +12,10 @@ order: 1020
 links:
   - type: refines
     target: STK-DZ9P6K
+    confirmed: 35469390951d
   - type: mitigates
     target: RSK-RW5E05
+    confirmed: 2efae5362c64
 ---
 The local API shall restore sensor readings when the network is unavailable.
 

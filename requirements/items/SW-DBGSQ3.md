@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-7DF4GN
+    confirmed: b8942c9f4893
 ---
 The tamper detection shall store safety limits for up to 8 zones.
 

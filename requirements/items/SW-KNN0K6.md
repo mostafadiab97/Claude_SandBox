@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-HMGV8B
+    confirmed: 6ffbb345c3bf
 ---
 The local API shall detect audit records in all supported languages.

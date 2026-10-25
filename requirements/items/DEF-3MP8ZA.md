@@ -14,8 +14,10 @@ order: 140
 links:
   - type: relates-to
     target: TC-YJBGRM
+    confirmed: 78027f123c30
   - type: relates-to
     target: SYS-9RTKP2
+    confirmed: 3379698ed305
 ---
 Found during regression testing of build 2.1.28.
 

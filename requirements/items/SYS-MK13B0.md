@@ -12,8 +12,10 @@ order: 670
 links:
   - type: refines
     target: STK-B4ZH98
+    confirmed: c19c22627f21
   - type: mitigates
     target: RSK-MJR7PZ
+    confirmed: a67337939a06
 ---
 The over-temperature monitor shall display relay events without user interaction.
 

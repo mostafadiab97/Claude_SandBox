@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-GF9YJW
+    confirmed: f757c2d54080
 ---
 Implemented in `src/heat/heating_controller.c`.

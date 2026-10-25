@@ -10,5 +10,6 @@ order: 1680
 links:
   - type: refines
     target: STK-35QR7F
+    confirmed: bc1aebb7918d
 ---
 The touch display shall notify access tokens in under 3 s.

@@ -9,6 +9,7 @@ order: 100
 links:
   - type: refines
     target: STK-AAZ4HV
+    confirmed: 44fc7956dbf8
 ---
 The Wi-Fi module shall limit the connection state for up to 8 zones.
 

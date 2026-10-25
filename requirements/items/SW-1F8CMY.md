@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-SB9M68
+    confirmed: f26633d7c346
 ---
 The Bluetooth LE link shall encrypt audit records at least once per minute.

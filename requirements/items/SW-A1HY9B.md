@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MNZNT7
+    confirmed: 694f89dba807
 ---
 The watchdog shall validate audit records within 200 ms.
 

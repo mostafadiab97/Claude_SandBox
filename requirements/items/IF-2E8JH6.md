@@ -12,5 +12,6 @@ order: 40
 links:
   - type: refines
     target: SYS-78N6Z3
+    confirmed: f440dad16a09
 ---
 The mobile app shall authenticate sensor readings within 200 ms.

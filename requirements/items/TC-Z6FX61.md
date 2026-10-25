@@ -10,6 +10,7 @@ order: 770
 links:
   - type: verifies
     target: SYS-XAT0K2
+    confirmed: e5e67b8095dc
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

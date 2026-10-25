@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-GP4XWS
+    confirmed: 36dbca0b21ec
 ---
 The login screen shall validate humidity values in all supported languages.
 

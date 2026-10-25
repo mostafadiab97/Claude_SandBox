@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-9AYNBP
+    confirmed: f3e0173269c9
 ---
 The schedule editor shall display the operating mode after a power loss.
 

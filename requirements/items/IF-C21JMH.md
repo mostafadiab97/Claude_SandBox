@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ZTBW13
+    confirmed: 32ef0f0cf1f9
 ---
 The regulation loop shall notify the set point for at least 10 years.
 

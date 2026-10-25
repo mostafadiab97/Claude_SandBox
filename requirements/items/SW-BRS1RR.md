@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-FN4CWM
+    confirmed: 7a160395e991
 ---
 The home dashboard shall store the room temperature within 200 ms.

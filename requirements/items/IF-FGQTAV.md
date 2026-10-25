@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-K5036G
+    confirmed: 028aea2d56ab
 ---
 The menu system shall log relay events using AES-256-GCM.

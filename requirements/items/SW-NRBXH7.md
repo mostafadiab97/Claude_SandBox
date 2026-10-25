@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SYS-SKM5Z9
+    confirmed: 832b55acc75f
 ---
 The home dashboard shall authenticate the operating mode for up to 8 zones.

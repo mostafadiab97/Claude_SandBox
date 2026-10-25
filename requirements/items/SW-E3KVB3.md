@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-32PD6V
+    confirmed: 09e351121e5d
 ---
 The status LED shall report firmware images after a power loss.

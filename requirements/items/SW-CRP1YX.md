@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-P9J0Z4
+    confirmed: c925c6f3b356
 ---
 The zone valve shall limit firmware images using AES-256-GCM.
 

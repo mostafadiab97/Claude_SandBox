@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-B1HVNJ
+    confirmed: f6423235fdb8
 ---
 The watchdog shall limit relay events for up to 8 zones.
 

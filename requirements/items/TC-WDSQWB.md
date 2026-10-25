@@ -11,6 +11,7 @@ order: 430
 links:
   - type: verifies
     target: SYS-EH295E
+    confirmed: 7d5baafb4296
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-GDH96C
+    confirmed: dfc6c8083c05
 ---
 The Zigbee radio shall calibrate the room temperature at least once per minute.
 

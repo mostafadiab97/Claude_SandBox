@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-DWKSH2
+    confirmed: 3f3b61efc945
 ---
 The heating controller shall log schedule entries using AES-256-GCM.
 

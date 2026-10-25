@@ -13,8 +13,10 @@ order: 1820
 links:
   - type: refines
     target: STK-4F6B1Y
+    confirmed: 4a1d76b1da2c
   - type: mitigates
     target: RSK-KX4Z8F
+    confirmed: ce36fe2999cf
 ---
 The mobile app shall display the room temperature when the network is unavailable.
 

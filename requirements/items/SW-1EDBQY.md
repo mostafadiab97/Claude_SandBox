@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-RRWY3H
+    confirmed: f45ac16eb785
 ---
 The regulation loop shall notify schedule entries in under 3 s.

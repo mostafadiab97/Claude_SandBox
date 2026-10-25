@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-WNE3D0
+    confirmed: c41d4d2660da
 ---
 The over-temperature monitor shall measure humidity values when the network is unavailable.

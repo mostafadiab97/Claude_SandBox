@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-T540P6
+    confirmed: f63e72450720
 ---
 Implemented in `src/cloud/cloud_backend.c`.

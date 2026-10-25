@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SYS-WKJRPW
+    confirmed: d8654a6b0ca3
 ---
 The pairing process shall switch safety limits with an accuracy of ±0.5 °C.

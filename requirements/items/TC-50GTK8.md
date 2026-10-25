@@ -14,6 +14,7 @@ order: 470
 links:
   - type: verifies
     target: SYS-TC0THB
+    confirmed: c7a17f22b84b
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.
 

@@ -10,5 +10,6 @@ order: 2000
 links:
   - type: refines
     target: STK-ESBN30
+    confirmed: 8a56cb48b6c3
 ---
 The heat pump driver shall log user preferences after a power loss.

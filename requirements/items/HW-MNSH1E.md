@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-175X0G
+    confirmed: 3e7e54a5d4f3
 ---
 The telemetry pipeline shall calibrate firmware images below 0.5 W in standby.

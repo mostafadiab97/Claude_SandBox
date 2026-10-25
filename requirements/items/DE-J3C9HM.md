@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-J36VPS
+    confirmed: deae275b3f03
 ---
 Implemented in `src/ui/rotary_knob.c`.

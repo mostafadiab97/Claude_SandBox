@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-CY6ETQ
+    confirmed: fca3f3673c34
 ---
 The Bluetooth LE link shall limit user preferences within 200 ms.
 

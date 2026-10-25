@@ -10,8 +10,10 @@ order: 50
 links:
   - type: verifies
     target: SYS-FDZDPZ
+    confirmed: 6777c9b563e8
   - type: verifies
     target: SW-ZZA93B
+    confirmed: 06c0108fb889
 ---
 **Objective:** verify that the power supply behaves as specified.
 

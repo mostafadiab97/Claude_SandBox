@@ -11,5 +11,6 @@ order: 30
 links:
   - type: refines
     target: SYS-0MGEHH
+    confirmed: 342197138fa1
 ---
 The local API shall synchronise audit records at least once per minute.

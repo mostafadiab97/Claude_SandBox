@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-55BB0W
+    confirmed: 769ed2cb940e
 ---
 The home dashboard shall limit the operating mode for up to 8 zones.
 

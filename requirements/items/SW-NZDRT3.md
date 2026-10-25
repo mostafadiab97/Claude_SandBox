@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-ZTBW13
+    confirmed: 32ef0f0cf1f9
 ---
 The regulation loop shall detect energy consumption using AES-256-GCM.
 

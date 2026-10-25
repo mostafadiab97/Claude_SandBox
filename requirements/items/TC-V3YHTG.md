@@ -13,6 +13,7 @@ order: 1190
 links:
   - type: verifies
     target: SYS-YWNG59
+    confirmed: 55afb91dbdbd
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

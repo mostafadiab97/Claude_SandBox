@@ -10,5 +10,6 @@ order: 20
 links:
   - type: implements
     target: SW-DMY4GP
+    confirmed: b52688ba9a63
 ---
 Implemented in `src/cloud/cloud_backend.c`.

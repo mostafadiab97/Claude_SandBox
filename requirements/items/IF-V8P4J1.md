@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-KK90ZN
+    confirmed: a81e8767fb91
 ---
 The power supply shall encrypt firmware images in under 3 s.
 

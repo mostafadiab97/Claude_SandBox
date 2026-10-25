@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-A4MNF7
+    confirmed: 59d89f268e28
 ---
 The heating controller shall switch humidity values at least once per minute.

@@ -12,6 +12,7 @@ order: 1010
 links:
   - type: refines
     target: STK-AAZ4HV
+    confirmed: 44fc7956dbf8
 ---
 The Wi-Fi module shall display access tokens without user interaction.
 

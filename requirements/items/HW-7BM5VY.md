@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-VG4CAX
+    confirmed: a7c55f8eb200
 ---
 The main PCB shall limit sensor readings when the network is unavailable.

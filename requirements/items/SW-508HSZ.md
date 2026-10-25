@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-6VZFH1
+    confirmed: 2c2479704519
 ---
 The zone valve shall limit audit records when the network is unavailable.
 

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-X57709
+    confirmed: 8f0b9de9eefc
 ---
 The Zigbee radio shall measure energy consumption when the network is unavailable.
 

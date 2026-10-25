@@ -12,6 +12,7 @@ order: 1820
 links:
   - type: refines
     target: STK-Q9RBYT
+    confirmed: a67c8b718d88
 ---
 The Wi-Fi module shall restore the connection state when the network is unavailable.
 

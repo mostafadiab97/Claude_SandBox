@@ -13,8 +13,10 @@ order: 1200
 links:
   - type: verifies
     target: SYS-BKCGFY
+    confirmed: cca1fb8df9ed
   - type: verifies
     target: SW-81JA41
+    confirmed: 48092e93f8af
 ---
 **Objective:** verify that the schedule editor behaves as specified.
 

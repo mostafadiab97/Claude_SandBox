@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-PX6WZT
+    confirmed: f32411f63461
 ---
 The Bluetooth LE link shall log firmware images with an accuracy of ±0.5 °C.
 

@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-2G95V5
+    confirmed: c56996de7c48
 ---
 The relay board shall log the connection state in under 3 s.
 

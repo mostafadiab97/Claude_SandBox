@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-CN2X9H
+    confirmed: b42a2a6ba4b9
 ---
 Implemented in `src/safe/watchdog.c`.

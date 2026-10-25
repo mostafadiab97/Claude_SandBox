@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: IF-4JWARG
+    confirmed: c24a24feb487
 ---
 The schedule editor shall log schedule entries in all supported languages.

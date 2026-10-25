@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-2YMSVA
+    confirmed: 116e639b268d
 ---
 Implemented in `src/ui/backlight.c`.

@@ -13,6 +13,7 @@ order: 1040
 links:
   - type: verifies
     target: SYS-JZGGVQ
+    confirmed: 2a9e2d07c950
 ---
 **Objective:** verify that the user account service behaves as specified.
 

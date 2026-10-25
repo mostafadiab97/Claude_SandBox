@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-CQBB7Y
+    confirmed: 96aa1de698de
 ---
 The heat pump driver shall log energy consumption within 200 ms.
 

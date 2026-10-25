@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-PRE7SJ
+    confirmed: 690f18343fde
 ---
 The touch display shall limit access tokens with an accuracy of ±0.5 °C.

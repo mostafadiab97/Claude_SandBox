@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-X6T49B
+    confirmed: 3c41bdfef76d
 ---
 The encryption layer shall switch safety limits below 0.5 W in standby.
 

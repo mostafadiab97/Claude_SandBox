@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-AC34S0
+    confirmed: 35daf5402be7
 ---
 The telemetry pipeline shall switch the connection state at least once per minute.
 

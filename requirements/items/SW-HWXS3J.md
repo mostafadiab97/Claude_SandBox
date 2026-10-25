@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-JWK81Y
+    confirmed: 8656508483c4
 ---
 The backlight shall store humidity values for up to 8 zones.
 

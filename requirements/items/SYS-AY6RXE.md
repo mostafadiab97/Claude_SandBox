@@ -13,8 +13,10 @@ order: 870
 links:
   - type: refines
     target: STK-BSSZ8Z
+    confirmed: eb15999e37f0
   - type: mitigates
     target: RSK-81XFR0
+    confirmed: df837fe8b253
 ---
 The backlight shall limit schedule entries below 0.5 W in standby.
 

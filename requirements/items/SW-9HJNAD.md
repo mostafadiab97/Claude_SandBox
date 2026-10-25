@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-96K8ZZ
+    confirmed: 4fbabcbee22c
 ---
 The over-temperature monitor shall limit the connection state in under 3 s.
 

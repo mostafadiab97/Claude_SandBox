@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-5RDA7K
+    confirmed: 0b455862f511
 ---
 The tamper detection shall validate sensor readings with an accuracy of ±0.5 °C.
 

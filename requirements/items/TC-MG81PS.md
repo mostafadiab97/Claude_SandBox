@@ -13,6 +13,7 @@ order: 590
 links:
   - type: verifies
     target: SYS-1NBRAQ
+    confirmed: e3d201ead13c
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

@@ -11,6 +11,7 @@ order: 790
 links:
   - type: refines
     target: STK-EFJRJ9
+    confirmed: fc922ec1a72e
 ---
 The zone valve shall switch relay events in under 3 s.
 

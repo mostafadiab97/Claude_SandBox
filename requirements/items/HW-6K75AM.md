@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-199SHX
+    confirmed: b4acf2556165
 ---
 The power supply shall notify safety limits in all supported languages.
 

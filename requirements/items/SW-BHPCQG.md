@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-W9R8ZQ
+    confirmed: 38b79a7f1e8e
 ---
 The backlight shall store the connection state with an accuracy of ±0.5 °C.
 

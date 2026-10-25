@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-NW2H4K
+    confirmed: 061c07f59466
 ---
 The encryption layer shall report audit records below 0.5 W in standby.
 

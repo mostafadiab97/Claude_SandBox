@@ -12,6 +12,7 @@ order: 1660
 links:
   - type: verifies
     target: SYS-TX0P0A
+    confirmed: 1e529db5157b
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

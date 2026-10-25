@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-Z1018D
+    confirmed: f9597fe30a5d
 ---
 The battery backup shall calibrate sensor readings for up to 8 zones.
 

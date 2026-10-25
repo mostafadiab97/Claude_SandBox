@@ -10,6 +10,7 @@ order: 1070
 links:
   - type: refines
     target: STK-DNB9QM
+    confirmed: 90394ce55463
 ---
 The device registry shall notify schedule entries without user interaction.
 

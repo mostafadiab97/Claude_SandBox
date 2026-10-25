@@ -9,8 +9,10 @@ order: 200
 links:
   - type: verifies
     target: SYS-H80NAW
+    confirmed: d4703e1835f9
   - type: verifies
     target: SW-TJ91Q0
+    confirmed: dd6fbda1233e
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

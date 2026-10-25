@@ -13,6 +13,7 @@ order: 160
 links:
   - type: relates-to
     target: STK-W8N48B
+    confirmed: 00c32cea6ea5
 ---
 **Actor:** home owner
 

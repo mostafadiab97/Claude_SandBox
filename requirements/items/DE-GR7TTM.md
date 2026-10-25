@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-V13P5P
+    confirmed: b48482533616
 ---
 Implemented in `src/ui/menu_system.c`.

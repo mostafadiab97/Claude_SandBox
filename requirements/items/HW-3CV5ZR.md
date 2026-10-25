@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-H82ZTG
+    confirmed: f99414faf3d8
 ---
 The mobile app shall encrypt access tokens using AES-256-GCM.
 

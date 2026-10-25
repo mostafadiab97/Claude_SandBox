@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SW-4Y5KKR
+    confirmed: da530757de05
 ---
 The user account service shall synchronise the operating mode at least once per minute.

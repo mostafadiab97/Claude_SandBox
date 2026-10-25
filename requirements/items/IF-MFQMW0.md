@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-EDRZBM
+    confirmed: 0f03b8a1d1a2
 ---
 The main PCB shall synchronise relay events within 200 ms.
 

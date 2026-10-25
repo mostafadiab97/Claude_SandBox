@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-4DP5C1
+    confirmed: c489a3ad366f
 ---
 The zone valve shall log the connection state at least once per minute.
 

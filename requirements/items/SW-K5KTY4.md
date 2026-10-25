@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-QKGZJJ
+    confirmed: b92b84803641
 ---
 The schedule editor shall detect sensor readings within 200 ms.
 

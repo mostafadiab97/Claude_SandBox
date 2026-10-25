@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-0DEP77
+    confirmed: 7dbcbeef3d13
 ---
 The device registry shall restore safety limits using AES-256-GCM.

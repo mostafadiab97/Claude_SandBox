@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-GPZ86P
+    confirmed: 29497feac15d
 ---
 The OTA server shall validate firmware images for at least 10 years.
 

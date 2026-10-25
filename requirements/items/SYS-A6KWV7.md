@@ -10,7 +10,9 @@ order: 1470
 links:
   - type: refines
     target: STK-7F9256
+    confirmed: 5588db2eb80a
   - type: mitigates
     target: RSK-P3EG5Z
+    confirmed: 24cf773c2491
 ---
 The enclosure shall log sensor readings at least once per minute.

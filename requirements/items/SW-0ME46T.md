@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-KJZDA6
+    confirmed: cceccc292cf6
 ---
 The pairing process shall report humidity values with an accuracy of ±0.5 °C.

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-ZNDMZ4
+    confirmed: 57cabc46b0d2
 ---
 The schedule editor shall encrypt error conditions using AES-256-GCM.
 

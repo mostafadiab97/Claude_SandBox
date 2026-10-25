@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-A6TWWN
+    confirmed: bf12fa6151fd
 ---
 The notification service shall encrypt safety limits in all supported languages.
 

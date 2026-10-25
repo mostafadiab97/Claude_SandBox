@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-4X1SRM
+    confirmed: bc96873ba6c1
 ---
 The Wi-Fi module shall calibrate safety limits for up to 8 zones.
 

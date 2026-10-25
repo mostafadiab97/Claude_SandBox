@@ -11,6 +11,7 @@ order: 40
 links:
   - type: refines
     target: SYS-MEFF8R
+    confirmed: f144cf8852e5
 ---
 The heating controller shall display firmware images below 0.5 W in standby.
 

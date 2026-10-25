@@ -9,6 +9,7 @@ order: 810
 links:
   - type: refines
     target: STK-1R2QT3
+    confirmed: 7ca04f22a1b8
 ---
 The pairing process shall log sensor readings for at least 10 years.
 

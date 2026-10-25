@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-RWSWX9
+    confirmed: b91655295cc4
 ---
 Implemented in `src/cloud/OTA_server.c`.

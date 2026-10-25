@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-E287Z5
+    confirmed: 75c4df8a465f
 ---
 The rotary knob shall report relay events without user interaction.
 

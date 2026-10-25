@@ -11,6 +11,7 @@ order: 520
 links:
   - type: verifies
     target: SYS-Y57EAP
+    confirmed: 6b2c6923c4ae
 ---
 **Objective:** verify that the cloud backend behaves as specified.
 

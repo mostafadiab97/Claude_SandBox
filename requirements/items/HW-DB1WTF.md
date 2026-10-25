@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-2V6AQ6
+    confirmed: 2d2dda43be88
 ---
 The heating controller shall log humidity values after a power loss.
 

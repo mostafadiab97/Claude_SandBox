@@ -14,8 +14,10 @@ order: 1120
 links:
   - type: verifies
     target: SYS-E3TBDW
+    confirmed: c0e6f0c26e10
   - type: verifies
     target: SW-HKP9YP
+    confirmed: 9ce59d80eec7
 ---
 **Objective:** verify that the local API behaves as specified.
 

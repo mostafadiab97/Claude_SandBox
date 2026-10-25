@@ -14,6 +14,7 @@ order: 2020
 links:
   - type: refines
     target: STK-M7S0HJ
+    confirmed: 000356d5d38b
 ---
 The heat pump driver shall measure humidity values for at least 10 years.
 

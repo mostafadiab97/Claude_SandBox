@@ -13,6 +13,7 @@ order: 500
 links:
   - type: verifies
     target: SYS-VN8P2R
+    confirmed: 09343cc43a29
 ---
 **Objective:** verify that the status LED behaves as specified.
 

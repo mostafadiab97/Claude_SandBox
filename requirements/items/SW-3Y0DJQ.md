@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-EB0Q7V
+    confirmed: 7707b9c36b9c
 ---
 The home dashboard shall synchronise user preferences within 200 ms.
 

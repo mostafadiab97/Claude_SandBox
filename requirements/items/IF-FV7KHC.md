@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-XB639B
+    confirmed: 8dfde35f83b1
 ---
 The regulation loop shall store relay events in under 3 s.

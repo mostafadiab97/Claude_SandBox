@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: IF-K74E0X
+    confirmed: 4998c0291bcb
 ---
 The boiler interface shall log error conditions after a power loss.

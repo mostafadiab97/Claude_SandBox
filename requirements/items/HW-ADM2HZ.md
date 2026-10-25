@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-YGWC8P
+    confirmed: 77480e1be3cd
 ---
 The heating controller shall limit schedule entries for at least 10 years.
 

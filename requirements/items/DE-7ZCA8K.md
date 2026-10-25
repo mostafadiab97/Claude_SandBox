@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-ZC3FE7
+    confirmed: 79805471b581
 ---
 Implemented in `src/heat/boiler_interface.c`.

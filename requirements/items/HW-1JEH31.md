@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-W1MEG3
+    confirmed: 7ffa04910a1e
 ---
 The pairing process shall validate the set point after a power loss.

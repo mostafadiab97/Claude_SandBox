@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-VCX096
+    confirmed: 63d283d89339
 ---
 The enclosure shall display sensor readings below 0.5 W in standby.
 

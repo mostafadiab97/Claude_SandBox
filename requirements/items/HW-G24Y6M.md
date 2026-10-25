@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: HW-4AM0JY
+    confirmed: f855993b7e63
 ---
 The status LED shall validate energy consumption without user interaction.

@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-CNV2JW
+    confirmed: 09c297344cc8
 ---
 The schedule editor shall display the operating mode when the network is unavailable.
 

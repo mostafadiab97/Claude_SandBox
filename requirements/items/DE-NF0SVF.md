@@ -12,5 +12,6 @@ order: 20
 links:
   - type: implements
     target: SW-F7CGPV
+    confirmed: 0ed2c0649f66
 ---
 Implemented in `src/safe/secure_boot.c`.

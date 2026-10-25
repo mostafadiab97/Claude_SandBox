@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-2JYQS6
+    confirmed: ecfbe5ff7471
 ---
 The battery backup shall display the operating mode when the network is unavailable.
 

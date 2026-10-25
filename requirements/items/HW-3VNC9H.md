@@ -14,5 +14,6 @@ order: 30
 links:
   - type: refines
     target: SYS-FN0RX8
+    confirmed: 30d123440a38
 ---
 The cloud backend shall synchronise access tokens below 0.5 W in standby.

@@ -10,8 +10,10 @@ order: 1030
 links:
   - type: verifies
     target: SYS-TPWEFS
+    confirmed: dcd525a7f6f5
   - type: verifies
     target: SW-J6CQWH
+    confirmed: 265a041c5665
 ---
 **Objective:** verify that the menu system behaves as specified.
 

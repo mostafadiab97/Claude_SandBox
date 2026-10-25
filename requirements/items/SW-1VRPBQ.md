@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-21HNZD
+    confirmed: a99c46ec97b8
 ---
 The touch display shall encrypt firmware images when the network is unavailable.
 

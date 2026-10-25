@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-E8YWD2
+    confirmed: 5ab6d3697437
 ---
 The menu system shall authenticate schedule entries within 200 ms.
 

@@ -10,6 +10,7 @@ order: 660
 links:
   - type: refines
     target: STK-35QR7F
+    confirmed: bc1aebb7918d
 ---
 The touch display shall encrypt energy consumption within 200 ms.
 

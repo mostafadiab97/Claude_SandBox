@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-8YEDPY
+    confirmed: e644a201b177
 ---
 The menu system shall restore schedule entries in all supported languages.
 

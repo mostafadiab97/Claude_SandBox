@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-BJ0Q20
+    confirmed: 5bd6f55bad83
 ---
 The Bluetooth LE link shall limit access tokens for at least 10 years.
 

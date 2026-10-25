@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-3311SY
+    confirmed: 73000130eecf
 ---
 The zone valve shall detect user preferences after a power loss.
 

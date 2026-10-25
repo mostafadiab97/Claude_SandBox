@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-7XYG17
+    confirmed: b02cb0cbf227
 ---
 The battery backup shall store audit records for at least 10 years.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-FP6P6A
+    confirmed: fa24f6ea73fa
 ---
 The telemetry pipeline shall log safety limits without user interaction.
 

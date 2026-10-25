@@ -14,6 +14,7 @@ order: 570
 links:
   - type: verifies
     target: SYS-KE3ZCS
+    confirmed: "131852556952"
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

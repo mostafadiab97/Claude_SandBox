@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-AWQ3YN
+    confirmed: f3aedc76f0ed
 ---
 The user account service shall detect the room temperature for at least 10 years.
 

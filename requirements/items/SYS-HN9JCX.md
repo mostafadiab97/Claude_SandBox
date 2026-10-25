@@ -12,6 +12,7 @@ order: 1110
 links:
   - type: refines
     target: STK-2STGXE
+    confirmed: c77fe61daf4b
 ---
 The enclosure shall measure safety limits below 0.5 W in standby.
 

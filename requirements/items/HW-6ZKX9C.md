@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SYS-6SJ3GD
+    confirmed: af53245ff967
 ---
 The boiler interface shall encrypt humidity values below 0.5 W in standby.

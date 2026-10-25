@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-W2WVAG
+    confirmed: 2e87eec370fa
 ---
 The mobile app shall authenticate the connection state below 0.5 W in standby.
 

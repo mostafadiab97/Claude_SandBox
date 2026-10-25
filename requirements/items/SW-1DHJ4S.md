@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-BWNQZY
+    confirmed: 98507f0dce8a
 ---
 The watchdog shall report relay events within 200 ms.
 

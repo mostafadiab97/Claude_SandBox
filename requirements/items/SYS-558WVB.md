@@ -9,6 +9,7 @@ order: 500
 links:
   - type: refines
     target: STK-F7D2QS
+    confirmed: bd8a3050a12b
 ---
 The pairing process shall switch humidity values when the network is unavailable.
 

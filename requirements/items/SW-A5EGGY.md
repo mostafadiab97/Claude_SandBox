@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-C6SNN2
+    confirmed: 20d5c99b3fa6
 ---
 The regulation loop shall authenticate user preferences after a power loss.
 

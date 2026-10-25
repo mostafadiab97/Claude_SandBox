@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-KBEPSC
+    confirmed: be1f80f82e4f
 ---
 Implemented in `src/heat/zone_valve.c`.

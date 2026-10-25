@@ -9,6 +9,7 @@ order: 1450
 links:
   - type: verifies
     target: SYS-00WQH9
+    confirmed: 5df07efae901
 ---
 **Objective:** verify that the menu system behaves as specified.
 

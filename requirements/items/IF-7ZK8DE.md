@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-5BZJ6Y
+    confirmed: 4f8713624f57
 ---
 The over-temperature monitor shall detect energy consumption for at least 10 years.

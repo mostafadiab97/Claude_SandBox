@@ -13,6 +13,7 @@ order: 550
 links:
   - type: verifies
     target: SYS-HB4GM5
+    confirmed: 2cd9efe1d517
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

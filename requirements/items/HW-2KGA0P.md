@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-391421
+    confirmed: 4a1f14a81457
 ---
 The heat pump driver shall detect sensor readings for at least 10 years.

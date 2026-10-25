@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-WNQGR6
+    confirmed: 1dc3d7c9d30a
 ---
 The Bluetooth LE link shall authenticate schedule entries when the network is unavailable.
 

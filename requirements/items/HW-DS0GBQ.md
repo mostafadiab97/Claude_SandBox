@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-WRCCVQ
+    confirmed: 22615937890b
 ---
 The enclosure shall validate relay events at least once per minute.

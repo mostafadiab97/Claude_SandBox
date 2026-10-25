@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-QHMT67
+    confirmed: 77747505e6c0
 ---
 The login screen shall log user preferences with an accuracy of ±0.5 °C.
 

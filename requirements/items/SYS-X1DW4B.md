@@ -13,5 +13,6 @@ order: 970
 links:
   - type: refines
     target: STK-GMCKMF
+    confirmed: f47328374a2b
 ---
 The pairing process shall display error conditions after a power loss.

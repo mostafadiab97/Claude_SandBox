@@ -13,6 +13,7 @@ order: 20
 links:
   - type: relates-to
     target: SYS-0KFPCF
+    confirmed: 38fbc1f616e4
 ---
 Requested by customer support (ticket #16964).
 

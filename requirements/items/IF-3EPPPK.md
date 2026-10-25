@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-BJEV5G
+    confirmed: c5698f4c4723
 ---
 The local API shall notify the operating mode after a power loss.
 

@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-GDH96C
+    confirmed: dfc6c8083c05
 ---
 The Zigbee radio shall encrypt the operating mode at least once per minute.
 

@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-TX0P0A
+    confirmed: 1e529db5157b
 ---
 The telemetry pipeline shall synchronise the set point below 0.5 W in standby.
 

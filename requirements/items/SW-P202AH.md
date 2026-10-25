@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-TTBBAW
+    confirmed: 219ba032e325
 ---
 The encryption layer shall report the operating mode in all supported languages.
 

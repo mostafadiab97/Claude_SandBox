@@ -10,6 +10,7 @@ order: 670
 links:
   - type: verifies
     target: SYS-B37VY2
+    confirmed: 06bc752da75c
 ---
 **Objective:** verify that the device behaves as specified.
 

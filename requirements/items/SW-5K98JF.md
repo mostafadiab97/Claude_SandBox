@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-M54D82
+    confirmed: b1928a8fb2d4
 ---
 The local API shall calibrate audit records in all supported languages.
 

@@ -12,6 +12,7 @@ order: 70
 links:
   - type: refines
     target: STK-XSQC89
+    confirmed: 66c246d6b1dc
 ---
 The watchdog shall restore the operating mode using AES-256-GCM.
 

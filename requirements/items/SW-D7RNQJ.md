@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-4AZ7BD
+    confirmed: cd9c225e18ad
 ---
 The tamper detection shall display relay events with an accuracy of ±0.5 °C.
 

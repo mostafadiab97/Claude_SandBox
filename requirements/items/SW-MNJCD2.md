@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-W5JDZ7
+    confirmed: dfc5779236a6
 ---
 The encryption layer shall limit firmware images in under 3 s.

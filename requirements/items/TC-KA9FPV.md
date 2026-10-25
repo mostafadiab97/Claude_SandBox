@@ -9,6 +9,7 @@ order: 390
 links:
   - type: verifies
     target: SYS-G2YZ1M
+    confirmed: ea46b375483c
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

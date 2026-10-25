@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-VE84XB
+    confirmed: cf1861036509
 ---
 Implemented in `src/app/login_screen.c`.

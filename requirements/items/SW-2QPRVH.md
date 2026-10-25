@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-TV1J1J
+    confirmed: 4dad1a572bf6
 ---
 The status LED shall switch schedule entries with an accuracy of ±0.5 °C.
 

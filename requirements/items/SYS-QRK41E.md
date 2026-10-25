@@ -13,6 +13,7 @@ order: 1290
 links:
   - type: refines
     target: STK-SM9B7Z
+    confirmed: 44235e2789f0
 ---
 The encryption layer shall display access tokens for up to 8 zones.
 

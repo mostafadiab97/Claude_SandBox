@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-3BJR5R
+    confirmed: f353734bb488
 ---
 The heating controller shall limit safety limits using AES-256-GCM.
 

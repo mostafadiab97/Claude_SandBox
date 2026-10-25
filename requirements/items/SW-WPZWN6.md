@@ -11,5 +11,6 @@ order: 40
 links:
   - type: refines
     target: SYS-4AZ7BD
+    confirmed: cd9c225e18ad
 ---
 The tamper detection shall switch firmware images after a power loss.

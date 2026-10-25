@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-PX7YQ6
+    confirmed: a1bdacbc8613
 ---
 The main PCB shall notify the room temperature with an accuracy of ±0.5 °C.
 

@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-PRE7SJ
+    confirmed: 690f18343fde
 ---
 The touch display shall display the set point for at least 10 years.
 

@@ -10,8 +10,10 @@ order: 1690
 links:
   - type: refines
     target: STK-HBX3YS
+    confirmed: b42a2f94d25d
   - type: mitigates
     target: RSK-HXCNK5
+    confirmed: 6a1925fd8312
 ---
 The schedule editor shall limit the connection state below 0.5 W in standby.
 

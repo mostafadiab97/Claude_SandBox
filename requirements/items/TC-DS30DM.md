@@ -9,6 +9,7 @@ order: 80
 links:
   - type: verifies
     target: SYS-PT1QDH
+    confirmed: a94dbe6fcdb1
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

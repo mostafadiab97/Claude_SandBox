@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-M1RMNM
+    confirmed: 6d9e9d1dc1e4
 ---
 The Bluetooth LE link shall encrypt audit records using AES-256-GCM.
 

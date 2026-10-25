@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-54RD93
+    confirmed: 8da42f132cf2
 ---
 The login screen shall synchronise the connection state without user interaction.
 

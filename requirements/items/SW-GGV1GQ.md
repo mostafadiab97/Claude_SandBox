@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-GXDBGP
+    confirmed: 1634ca869b10
 ---
 The over-temperature monitor shall log humidity values without user interaction.
 

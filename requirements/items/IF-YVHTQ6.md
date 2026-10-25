@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-02QRPZ
+    confirmed: 82506165b903
 ---
 The local API shall log sensor readings after a power loss.

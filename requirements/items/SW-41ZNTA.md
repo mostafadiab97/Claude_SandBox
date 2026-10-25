@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-XDJVKC
+    confirmed: 80942e0b2984
 ---
 The secure boot shall validate the room temperature for up to 8 zones.
 

@@ -12,5 +12,6 @@ order: 1000
 links:
   - type: refines
     target: STK-HBX3YS
+    confirmed: b42a2f94d25d
 ---
 The schedule editor shall authenticate the operating mode for at least 10 years.

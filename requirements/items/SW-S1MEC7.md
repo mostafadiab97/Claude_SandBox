@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-JF6ZTH
+    confirmed: 75977e61ed0b
 ---
 The local API shall log user preferences below 0.5 W in standby.
 

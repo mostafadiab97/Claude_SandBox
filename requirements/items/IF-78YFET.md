@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-R8S84Y
+    confirmed: 1adc29377b0d
 ---
 The power supply shall store error conditions with an accuracy of ±0.5 °C.
 

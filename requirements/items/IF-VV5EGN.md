@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-FD82WN
+    confirmed: f55a56f18a08
 ---
 The local API shall notify user preferences for at least 10 years.
 

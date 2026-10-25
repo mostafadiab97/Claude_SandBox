@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-F2DJDC
+    confirmed: 2d379fb34255
 ---
 The watchdog shall display access tokens without user interaction.
 

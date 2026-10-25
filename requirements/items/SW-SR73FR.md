@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-M2DDZ3
+    confirmed: 1fa4e7b531b5
 ---
 The mobile app shall notify access tokens below 0.5 W in standby.

@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-RZKYW5
+    confirmed: 7688feffffa3
 ---
 The mobile app shall switch user preferences within 200 ms.

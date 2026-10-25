@@ -12,6 +12,7 @@ order: 1660
 links:
   - type: refines
     target: STK-4NGQJ5
+    confirmed: 96640a7e340d
 ---
 The main PCB shall store relay events after a power loss.
 

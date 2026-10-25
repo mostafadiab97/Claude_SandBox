@@ -9,6 +9,7 @@ order: 1880
 links:
   - type: refines
     target: STK-1CAAXP
+    confirmed: a853df6f0866
 ---
 The device registry shall limit schedule entries for at least 10 years.
 

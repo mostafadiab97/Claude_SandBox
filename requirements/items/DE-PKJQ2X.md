@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-HE1CMM
+    confirmed: 65457afc04c9
 ---
 Implemented in `src/conn/Wi-Fi_module.c`.

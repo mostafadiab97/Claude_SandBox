@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-TNE9RX
+    confirmed: d2e84a822cf8
 ---
 Implemented in `src/heat/boiler_interface.c`.

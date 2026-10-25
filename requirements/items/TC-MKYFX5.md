@@ -9,6 +9,7 @@ order: 890
 links:
   - type: verifies
     target: SYS-ZQSPB3
+    confirmed: c8c012d7096b
 ---
 **Objective:** verify that the device behaves as specified.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-KZKWS7
+    confirmed: 26159a32a0f8
 ---
 The backlight shall authenticate energy consumption after a power loss.
 

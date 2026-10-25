@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: HW-P30V3J
+    confirmed: e59fb55633ea
 ---
 The notification service shall switch firmware images for up to 8 zones.

@@ -13,6 +13,7 @@ order: 1300
 links:
   - type: verifies
     target: SYS-04ZGE8
+    confirmed: 10dcdf47ad95
 ---
 **Objective:** verify that the zone valve behaves as specified.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-SK1ZFN
+    confirmed: 65625f74ff05
 ---
 The zone valve shall display the set point in all supported languages.
 

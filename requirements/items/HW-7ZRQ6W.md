@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-RAHT6W
+    confirmed: 3ed84532df89
 ---
 The main PCB shall limit energy consumption in all supported languages.
 

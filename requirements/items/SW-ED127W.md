@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-4W2WJ0
+    confirmed: 78b75dc46152
 ---
 The watchdog shall switch relay events for up to 8 zones.
 

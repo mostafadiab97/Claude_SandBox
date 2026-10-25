@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-K1MVD2
+    confirmed: c0539a9df56a
 ---
 The main PCB shall detect audit records in all supported languages.
 

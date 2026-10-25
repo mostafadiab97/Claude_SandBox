@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-H40ZC8
+    confirmed: a59873eb8362
 ---
 The rotary knob shall log schedule entries after a power loss.

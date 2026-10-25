@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-FCT3MK
+    confirmed: bc66988537d7
 ---
 The schedule editor shall log the set point with an accuracy of ±0.5 °C.
 

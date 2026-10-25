@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-9QXR1R
+    confirmed: c9ae9a4debf3
 ---
 The encryption layer shall calibrate firmware images without user interaction.
 

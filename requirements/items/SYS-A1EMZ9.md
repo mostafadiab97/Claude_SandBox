@@ -14,6 +14,7 @@ order: 840
 links:
   - type: refines
     target: STK-PCP268
+    confirmed: 74f66b1bb8e8
 ---
 The backlight shall limit user preferences using AES-256-GCM.
 

@@ -12,6 +12,7 @@ order: 1450
 links:
   - type: refines
     target: STK-SZWQ0A
+    confirmed: fc1f05b44684
 ---
 The secure boot shall notify the room temperature using AES-256-GCM.
 

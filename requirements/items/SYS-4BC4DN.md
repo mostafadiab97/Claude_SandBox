@@ -9,5 +9,6 @@ order: 30
 links:
   - type: blocks
     target: SYS-GWH086
+    confirmed: 65adf430bd97
 ---
 Expected: unknown link type "blocks" — shown when opened.

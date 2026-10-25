@@ -10,6 +10,7 @@ order: 60
 links:
   - type: refines
     target: STK-EWSQ9Z
+    confirmed: aa5e4143dbe7
 ---
 The zone valve shall report error conditions with an accuracy of ±0.5 °C.
 

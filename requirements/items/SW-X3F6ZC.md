@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-S7RBP0
+    confirmed: 4e24c6222487
 ---
 The backlight shall limit relay events for up to 8 zones.
 

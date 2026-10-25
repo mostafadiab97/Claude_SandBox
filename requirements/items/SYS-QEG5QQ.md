@@ -11,6 +11,7 @@ order: 800
 links:
   - type: refines
     target: STK-1TB226
+    confirmed: ea29425b18b7
 ---
 The tamper detection shall switch the operating mode below 0.5 W in standby.
 

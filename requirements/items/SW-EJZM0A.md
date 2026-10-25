@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-0J3695
+    confirmed: b9c7a1a0e56b
 ---
 The OTA server shall display the connection state at least once per minute.

@@ -12,6 +12,7 @@ order: 470
 links:
   - type: verifies
     target: SYS-MM8K93
+    confirmed: 6d2e8325363f
 ---
 **Objective:** verify that the rotary knob behaves as specified.
 

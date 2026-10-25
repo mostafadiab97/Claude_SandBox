@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-GGKGZ3
+    confirmed: a8c334c80200
 ---
 The secure boot shall authenticate sensor readings with an accuracy of ±0.5 °C.

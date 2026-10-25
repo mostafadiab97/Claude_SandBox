@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-7WAVP4
+    confirmed: 0f9434a95be4
 ---
 The enclosure shall log access tokens below 0.5 W in standby.

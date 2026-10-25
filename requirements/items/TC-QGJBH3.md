@@ -13,6 +13,7 @@ order: 980
 links:
   - type: verifies
     target: SYS-PYK237
+    confirmed: 8258f49e00ae
 ---
 **Objective:** verify that the device registry behaves as specified.
 

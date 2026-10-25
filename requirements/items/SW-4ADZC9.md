@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-FTTKBM
+    confirmed: 3389f03cd260
 ---
 The tamper detection shall authenticate user preferences within 200 ms.

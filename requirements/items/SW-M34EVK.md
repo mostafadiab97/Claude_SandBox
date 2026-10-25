@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-7THG7S
+    confirmed: c2a2db34ec62
 ---
 The zone valve shall store safety limits at least once per minute.
 

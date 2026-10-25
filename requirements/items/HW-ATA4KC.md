@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-Y5A2W4
+    confirmed: 2f4f67b6a494
 ---
 The notification service shall log schedule entries below 0.5 W in standby.

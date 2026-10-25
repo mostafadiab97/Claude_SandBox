@@ -14,5 +14,6 @@ order: 40
 links:
   - type: refines
     target: SYS-XF4596
+    confirmed: a0439b97be28
 ---
 The battery backup shall authenticate user preferences using AES-256-GCM.

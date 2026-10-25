@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-KZYDJR
+    confirmed: c4c96610c247
 ---
 The over-temperature monitor shall log humidity values at least once per minute.
 

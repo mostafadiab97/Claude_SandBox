@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-7NG4EK
+    confirmed: 9b2c415b0097
 ---
 The main PCB shall report firmware images within 200 ms.
 

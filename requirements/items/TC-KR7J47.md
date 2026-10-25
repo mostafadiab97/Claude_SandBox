@@ -14,8 +14,10 @@ order: 1520
 links:
   - type: verifies
     target: SYS-6085Y8
+    confirmed: d22ffa0b21da
   - type: verifies
     target: SW-8EV7YV
+    confirmed: f952008b8233
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

@@ -10,8 +10,10 @@ order: 440
 links:
   - type: verifies
     target: SYS-5NPG22
+    confirmed: de7334e55ef0
   - type: verifies
     target: SW-9PFE3C
+    confirmed: bbde3871e044
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.
 

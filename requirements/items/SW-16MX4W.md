@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-VEC1XC
+    confirmed: 721b80e2c3e4
 ---
 The Zigbee radio shall calibrate energy consumption with an accuracy of ±0.5 °C.

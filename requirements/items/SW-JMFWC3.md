@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-AB1WG2
+    confirmed: 70d3053751d1
 ---
 The watchdog shall restore access tokens with an accuracy of ±0.5 °C.
 

@@ -11,6 +11,7 @@ order: 1490
 links:
   - type: refines
     target: STK-5VZRF2
+    confirmed: cf78baefa376
 ---
 The home dashboard shall log relay events with an accuracy of ±0.5 °C.
 

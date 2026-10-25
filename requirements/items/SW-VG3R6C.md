@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-3PY964
+    confirmed: 3718c9e5d8ae
 ---
 The Bluetooth LE link shall switch relay events with an accuracy of ±0.5 °C.
 

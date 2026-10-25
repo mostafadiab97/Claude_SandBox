@@ -13,6 +13,7 @@ order: 830
 links:
   - type: verifies
     target: SYS-NKN3QV
+    confirmed: 2f2d653f73be
 ---
 **Objective:** verify that the user account service behaves as specified.
 

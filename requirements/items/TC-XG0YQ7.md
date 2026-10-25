@@ -12,8 +12,10 @@ order: 1420
 links:
   - type: verifies
     target: SYS-E3W7YF
+    confirmed: ff8815b3b9ff
   - type: verifies
     target: SW-DN2SKS
+    confirmed: 0ed24975e2c6
 ---
 **Objective:** verify that the notification service behaves as specified.
 

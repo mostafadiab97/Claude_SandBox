@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-TTC476
+    confirmed: fcf4c01f1afd
 ---
 The enclosure shall authenticate sensor readings below 0.5 W in standby.
 

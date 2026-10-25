@@ -14,7 +14,9 @@ order: 1390
 links:
   - type: refines
     target: STK-8PN4VS
+    confirmed: a3e83ac40678
   - type: mitigates
     target: RSK-81XFR0
+    confirmed: df837fe8b253
 ---
 The menu system shall notify energy consumption for up to 8 zones.

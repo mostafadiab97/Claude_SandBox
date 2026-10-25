@@ -11,5 +11,6 @@ order: 1870
 links:
   - type: refines
     target: STK-M28XWW
+    confirmed: bcf262f10744
 ---
 The power supply shall restore humidity values for up to 8 zones.

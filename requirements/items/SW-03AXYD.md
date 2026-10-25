@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-5GVCBE
+    confirmed: 4f9a7c40ce36
 ---
 The mobile app shall restore energy consumption when the network is unavailable.
 

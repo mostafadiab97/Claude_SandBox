@@ -10,6 +10,7 @@ order: 190
 links:
   - type: refines
     target: STK-1CAAXP
+    confirmed: a853df6f0866
 ---
 The telemetry pipeline shall detect energy consumption below 0.5 W in standby.
 

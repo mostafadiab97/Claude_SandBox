@@ -10,6 +10,7 @@ order: 1160
 links:
   - type: refines
     target: STK-M28XWW
+    confirmed: bcf262f10744
 ---
 The main PCB shall limit relay events with an accuracy of ±0.5 °C.
 

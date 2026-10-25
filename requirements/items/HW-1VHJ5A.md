@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-X6T49B
+    confirmed: 3c41bdfef76d
 ---
 The encryption layer shall authenticate the operating mode in all supported languages.
 

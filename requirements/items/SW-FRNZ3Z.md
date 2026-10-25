@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-W81PVH
+    confirmed: d352273ada77
 ---
 The Wi-Fi module shall notify the operating mode using AES-256-GCM.
 

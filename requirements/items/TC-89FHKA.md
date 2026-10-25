@@ -10,6 +10,7 @@ order: 900
 links:
   - type: verifies
     target: SYS-WF25CP
+    confirmed: 3f8b6bcfec69
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

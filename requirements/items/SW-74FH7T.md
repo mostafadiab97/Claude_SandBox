@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-58H7WQ
+    confirmed: 4ec07940ffd5
 ---
 The OTA server shall log humidity values at least once per minute.
 

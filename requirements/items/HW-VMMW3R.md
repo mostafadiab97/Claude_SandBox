@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-3W1S3B
+    confirmed: a83839a61248
 ---
 The enclosure shall authenticate the operating mode after a power loss.
 

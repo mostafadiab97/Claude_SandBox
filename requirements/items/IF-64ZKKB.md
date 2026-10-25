@@ -8,6 +8,7 @@ order: 40
 links:
   - type: refines
     target: SYS-4W6C2G
+    confirmed: 1bcb62ea4268
 ---
 The over-temperature monitor shall notify the operating mode within 200 ms.
 

@@ -10,6 +10,7 @@ order: 830
 links:
   - type: refines
     target: STK-M28XWW
+    confirmed: bcf262f10744
 ---
 The battery backup shall calibrate the room temperature within 200 ms.
 

@@ -10,6 +10,7 @@ order: 2010
 links:
   - type: refines
     target: STK-CDR1Y9
+    confirmed: d9857f8b33bf
 ---
 The battery backup shall encrypt humidity values within 200 ms.
 

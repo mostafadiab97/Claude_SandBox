@@ -13,6 +13,7 @@ order: 150
 links:
   - type: refines
     target: STK-22X165
+    confirmed: 0023c9af8e7d
 ---
 The local API shall display sensor readings when the network is unavailable.
 

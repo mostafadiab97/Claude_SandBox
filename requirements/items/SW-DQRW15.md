@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-3E0EN9
+    confirmed: 21b49bb3281b
 ---
 The menu system shall switch sensor readings within 200 ms.
 

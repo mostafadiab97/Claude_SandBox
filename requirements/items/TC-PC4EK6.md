@@ -12,6 +12,7 @@ order: 120
 links:
   - type: verifies
     target: SYS-M72RBF
+    confirmed: 9dbd45a382a2
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

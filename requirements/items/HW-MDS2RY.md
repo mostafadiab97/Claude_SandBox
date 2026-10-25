@@ -12,5 +12,6 @@ order: 40
 links:
   - type: refines
     target: SYS-JRYFKW
+    confirmed: eaf4dadef412
 ---
 The power supply shall calibrate safety limits without user interaction.

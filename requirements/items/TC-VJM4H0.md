@@ -9,6 +9,7 @@ order: 1090
 links:
   - type: verifies
     target: SYS-EK761P
+    confirmed: db6748ce1b10
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

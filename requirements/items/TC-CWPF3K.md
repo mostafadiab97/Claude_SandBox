@@ -9,6 +9,7 @@ order: 570
 links:
   - type: verifies
     target: SYS-XVVWVF
+    confirmed: f37bc3493af5
 ---
 **Objective:** verify that the device behaves as specified.
 

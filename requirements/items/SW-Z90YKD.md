@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-K5036G
+    confirmed: 028aea2d56ab
 ---
 The menu system shall switch user preferences when the network is unavailable.

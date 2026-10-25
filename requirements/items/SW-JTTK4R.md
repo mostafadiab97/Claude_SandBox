@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-W9MEGW
+    confirmed: 4a2ac3252472
 ---
 The backlight shall detect schedule entries in all supported languages.
 

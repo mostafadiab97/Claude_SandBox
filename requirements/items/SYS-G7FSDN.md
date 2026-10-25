@@ -9,6 +9,7 @@ order: 1110
 links:
   - type: refines
     target: STK-8W3602
+    confirmed: 25b39ad8cae7
 ---
 The regulation loop shall encrypt error conditions in under 3 s.
 

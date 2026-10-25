@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-19AJTE
+    confirmed: 453482be94f2
 ---
 The menu system shall notify firmware images without user interaction.
 

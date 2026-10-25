@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-BNJ0XS
+    confirmed: 1bddaa57818d
 ---
 The touch display shall detect the room temperature after a power loss.

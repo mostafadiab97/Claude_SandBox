@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-QN4W49
+    confirmed: 6a7a9fdc0288
 ---
 The boiler interface shall measure the set point in all supported languages.
 

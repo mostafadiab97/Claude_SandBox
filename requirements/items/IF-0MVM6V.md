@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-E5040S
+    confirmed: fe7113d52fd1
 ---
 The cloud backend shall report the connection state in all supported languages.

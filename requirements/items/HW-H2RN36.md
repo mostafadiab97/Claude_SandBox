@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-PR2YGA
+    confirmed: 1d0d9dad4f62
 ---
 The rotary knob shall synchronise the set point for up to 8 zones.
 

@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-GECB0Q
+    confirmed: 76c8ecd5a548
 ---
 The heat pump driver shall calibrate safety limits for at least 10 years.
 

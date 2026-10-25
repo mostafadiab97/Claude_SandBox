@@ -10,6 +10,7 @@ order: 1250
 links:
   - type: verifies
     target: SYS-2Y9FGT
+    confirmed: 4c561d45744d
 ---
 **Objective:** verify that the device behaves as specified.
 

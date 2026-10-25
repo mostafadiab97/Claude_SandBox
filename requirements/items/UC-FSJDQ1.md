@@ -13,6 +13,7 @@ order: 130
 links:
   - type: relates-to
     target: STK-Q8BNKR
+    confirmed: 6deaa78e6ab3
 ---
 **Actor:** home owner
 

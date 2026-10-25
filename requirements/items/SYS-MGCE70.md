@@ -13,6 +13,7 @@ order: 740
 links:
   - type: refines
     target: STK-B4ZH98
+    confirmed: c19c22627f21
 ---
 The tamper detection shall log firmware images below 0.5 W in standby.
 

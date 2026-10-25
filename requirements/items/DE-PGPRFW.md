@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-NENQGK
+    confirmed: 3b6689097f0d
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

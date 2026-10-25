@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-2DYZPV
+    confirmed: 37aac0e40a8d
 ---
 The Bluetooth LE link shall notify the connection state within 200 ms.
 

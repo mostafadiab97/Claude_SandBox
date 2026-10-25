@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XFHV81
+    confirmed: cd27f13dbcce
 ---
 The local API shall calibrate firmware images without user interaction.
 

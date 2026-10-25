@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-8KE9F2
+    confirmed: 046899ea1e41
 ---
 The heat pump driver shall measure safety limits with an accuracy of ±0.5 °C.

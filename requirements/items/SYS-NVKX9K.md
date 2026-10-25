@@ -10,6 +10,7 @@ order: 1170
 links:
   - type: refines
     target: STK-SM9B7Z
+    confirmed: 44235e2789f0
 ---
 The over-temperature monitor shall detect safety limits with an accuracy of ±0.5 °C.
 

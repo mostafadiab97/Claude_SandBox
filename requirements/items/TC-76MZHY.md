@@ -12,6 +12,7 @@ order: 180
 links:
   - type: verifies
     target: SYS-HN5S5X
+    confirmed: 98a2a16336ac
 ---
 **Objective:** verify that the backlight behaves as specified.
 

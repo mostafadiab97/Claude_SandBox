@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-S318HE
+    confirmed: a8739639e10d
 ---
 The menu system shall encrypt sensor readings for up to 8 zones.

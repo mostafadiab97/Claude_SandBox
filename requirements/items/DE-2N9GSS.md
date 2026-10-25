@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-NTY35T
+    confirmed: afa2f9924712
 ---
 Implemented in `src/app/home_dashboard.c`.

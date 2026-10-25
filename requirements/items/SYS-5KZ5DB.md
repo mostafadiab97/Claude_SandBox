@@ -14,6 +14,7 @@ order: 1570
 links:
   - type: refines
     target: STK-R8QH58
+    confirmed: 13d6784d2cc9
 ---
 The cloud backend shall log the room temperature after a power loss.
 

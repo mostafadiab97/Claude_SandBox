@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-BXJCFN
+    confirmed: 2cd1ed1947a5
 ---
 The mobile app shall switch energy consumption after a power loss.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: verifies
     target: SYS-EXGREK
+    confirmed: 8ef97aae583c
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

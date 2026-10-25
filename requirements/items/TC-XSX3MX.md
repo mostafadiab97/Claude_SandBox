@@ -13,6 +13,7 @@ order: 530
 links:
   - type: verifies
     target: SYS-FMC0YD
+    confirmed: de721eeebf34
 ---
 **Objective:** verify that the device behaves as specified.
 

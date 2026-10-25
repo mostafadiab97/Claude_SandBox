@@ -10,8 +10,10 @@ order: 1770
 links:
   - type: refines
     target: STK-639N9T
+    confirmed: 252da9caa62c
   - type: mitigates
     target: RSK-KX4Z8F
+    confirmed: ce36fe2999cf
 ---
 The home dashboard shall report audit records using AES-256-GCM.
 

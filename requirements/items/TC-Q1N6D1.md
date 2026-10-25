@@ -10,8 +10,10 @@ order: 300
 links:
   - type: verifies
     target: SYS-C7RCJ1
+    confirmed: 3bf493978048
   - type: verifies
     target: SW-SVBNV7
+    confirmed: e80248c95f10
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

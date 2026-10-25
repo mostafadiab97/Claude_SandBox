@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-HJM62M
+    confirmed: 1d6deddc1634
 ---
 The notification service shall measure the room temperature in all supported languages.
 

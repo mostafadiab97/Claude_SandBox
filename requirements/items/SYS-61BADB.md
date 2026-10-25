@@ -12,6 +12,7 @@ order: 1480
 links:
   - type: refines
     target: STK-CDR1Y9
+    confirmed: d9857f8b33bf
 ---
 The relay board shall switch safety limits in all supported languages.
 

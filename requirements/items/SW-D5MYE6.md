@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-T3DJD4
+    confirmed: c316125af8be
 ---
 The backlight shall report sensor readings for at least 10 years.
 

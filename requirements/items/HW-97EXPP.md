@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SYS-FG76ZF
+    confirmed: 7e8fe1606dcd
 ---
 The enclosure shall encrypt audit records when the network is unavailable.

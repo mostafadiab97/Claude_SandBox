@@ -13,6 +13,7 @@ order: 270
 links:
   - type: refines
     target: STK-G2ZBHW
+    confirmed: fee0d3303478
 ---
 The local API shall calibrate the connection state when the network is unavailable.
 

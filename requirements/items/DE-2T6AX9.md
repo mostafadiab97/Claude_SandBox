@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-MHYZ8M
+    confirmed: d5fd394ade2e
 ---
 Implemented in `src/heat/regulation_loop.c`.

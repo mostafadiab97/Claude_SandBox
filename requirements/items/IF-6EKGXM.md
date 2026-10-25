@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: IF-69H2HG
+    confirmed: c5b7fd41d009
 ---
 The touch display shall detect humidity values with an accuracy of ±0.5 °C.
 

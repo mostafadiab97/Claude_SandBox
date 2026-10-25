@@ -11,6 +11,7 @@ order: 1950
 links:
   - type: refines
     target: STK-ZJRWCQ
+    confirmed: 080168ea99ae
 ---
 The encryption layer shall measure the room temperature within 200 ms.
 

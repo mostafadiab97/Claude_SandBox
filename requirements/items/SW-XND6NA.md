@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-045KKD
+    confirmed: 1b2f3a28be4f
 ---
 The status LED shall log the connection state in under 3 s.
 

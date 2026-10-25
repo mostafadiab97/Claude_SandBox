@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-HZ4B6T
+    confirmed: 238549cadf2a
 ---
 The login screen shall report schedule entries without user interaction.
 

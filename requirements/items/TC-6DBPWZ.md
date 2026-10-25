@@ -10,6 +10,7 @@ order: 1990
 links:
   - type: verifies
     target: SYS-5M0EN6
+    confirmed: 6b2f33a2ace5
 ---
 **Objective:** verify that the device behaves as specified.
 

@@ -9,6 +9,7 @@ order: 40
 links:
   - type: refines
     target: SYS-RAD6T2
+    confirmed: 05d37b4e999b
 ---
 The pairing process shall switch access tokens using AES-256-GCM.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QRF69W
+    confirmed: 3f29c139da8b
 ---
 The enclosure shall calibrate the connection state using AES-256-GCM.
 

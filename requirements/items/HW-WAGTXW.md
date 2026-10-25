@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-5FSH1D
+    confirmed: 7162ed5d8a28
 ---
 The zone valve shall encrypt humidity values when the network is unavailable.
 

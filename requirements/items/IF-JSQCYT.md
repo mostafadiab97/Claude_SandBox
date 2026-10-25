@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-S0ZBTB
+    confirmed: 6e7d4ad625e8
 ---
 The Bluetooth LE link shall store the room temperature when the network is unavailable.

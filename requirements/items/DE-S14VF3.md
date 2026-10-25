@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-1DHCGS
+    confirmed: 7c536d464892
 ---
 Implemented in `src/cloud/telemetry_pipeline.c`.

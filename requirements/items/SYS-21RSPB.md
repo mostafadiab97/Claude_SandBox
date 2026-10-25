@@ -8,6 +8,7 @@ order: 1710
 links:
   - type: refines
     target: STK-SM9B7Z
+    confirmed: 44235e2789f0
 ---
 The watchdog shall synchronise error conditions within 200 ms.
 

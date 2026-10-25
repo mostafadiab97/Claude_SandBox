@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-AKZ1R4
+    confirmed: da5ffbb2dc98
 ---
 The Wi-Fi module shall notify energy consumption at least once per minute.
 

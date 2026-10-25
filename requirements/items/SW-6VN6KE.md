@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-9C06SC
+    confirmed: b146aebd3064
 ---
 The cloud backend shall display humidity values without user interaction.
 

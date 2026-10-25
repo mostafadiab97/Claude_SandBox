@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-5449PV
+    confirmed: 51ad9fc7ce44
 ---
 The regulation loop shall switch safety limits using AES-256-GCM.
 

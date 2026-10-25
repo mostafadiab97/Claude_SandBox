@@ -10,6 +10,7 @@ order: 240
 links:
   - type: verifies
     target: SYS-AHMEKC
+    confirmed: 5aa806091a04
 ---
 **Objective:** verify that the status LED behaves as specified.
 

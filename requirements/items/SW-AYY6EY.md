@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-PX1ABP
+    confirmed: "660039957660"
 ---
 The zone valve shall authenticate energy consumption in under 3 s.
 

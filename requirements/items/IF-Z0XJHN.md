@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XPCTNY
+    confirmed: 042eed4f2a11
 ---
 The backlight shall notify safety limits without user interaction.
 

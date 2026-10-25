@@ -12,5 +12,6 @@ order: 390
 links:
   - type: refines
     target: STK-4F6B1Y
+    confirmed: 4a1d76b1da2c
 ---
 The notification service shall validate user preferences using AES-256-GCM.

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-X3RYYN
+    confirmed: 69878305bbf6
 ---
 Implemented in `src/heat/heating_controller.c`.

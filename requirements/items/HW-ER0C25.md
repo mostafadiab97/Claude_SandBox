@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-Z6XZMX
+    confirmed: 17b58a826b61
 ---
 The battery backup shall authenticate the connection state using AES-256-GCM.
 

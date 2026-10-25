@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-VCZ9T9
+    confirmed: 3778a55d2aaf
 ---
 The rotary knob shall detect schedule entries after a power loss.
 

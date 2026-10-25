@@ -13,6 +13,7 @@ order: 590
 links:
   - type: verifies
     target: SYS-TTBHSQ
+    confirmed: ac320e4fa404
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

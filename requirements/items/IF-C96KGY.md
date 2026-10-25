@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-E3W7YF
+    confirmed: ff8815b3b9ff
 ---
 The notification service shall measure schedule entries with an accuracy of ±0.5 °C.
 

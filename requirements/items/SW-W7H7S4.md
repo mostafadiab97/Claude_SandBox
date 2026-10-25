@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-VFV0E7
+    confirmed: 846c545e5032
 ---
 The menu system shall validate user preferences when the network is unavailable.

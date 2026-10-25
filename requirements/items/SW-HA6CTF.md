@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MT91D9
+    confirmed: 4dae60ba5140
 ---
 The local API shall measure the connection state within 200 ms.
 

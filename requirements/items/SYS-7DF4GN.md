@@ -10,6 +10,7 @@ order: 860
 links:
   - type: refines
     target: STK-DJ9M3M
+    confirmed: ba30e28a130f
 ---
 The tamper detection shall synchronise relay events with an accuracy of ±0.5 °C.
 

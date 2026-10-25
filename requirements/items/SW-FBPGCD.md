@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-DFR9YD
+    confirmed: 72056f4d9703
 ---
 The heating controller shall measure relay events within 200 ms.

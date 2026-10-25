@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-4TS5VE
+    confirmed: 8de75c1b0368
 ---
 The power supply shall validate the room temperature at least once per minute.

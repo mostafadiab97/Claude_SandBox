@@ -10,6 +10,7 @@ order: 250
 links:
   - type: verifies
     target: SYS-DT8Z3K
+    confirmed: 97d4ec4541f8
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

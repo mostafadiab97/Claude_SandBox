@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-AE5DCT
+    confirmed: 5733321e8c53
 ---
 The rotary knob shall limit the operating mode using AES-256-GCM.
 

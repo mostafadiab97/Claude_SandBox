@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: SYS-5M0EN6
+    confirmed: 6b2f33a2ace5
 ---
 The regulation loop shall notify the set point within 200 ms.

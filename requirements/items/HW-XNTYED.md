@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-SA1DH7
+    confirmed: 339efbb2167c
 ---
 The battery backup shall validate the connection state for up to 8 zones.
 

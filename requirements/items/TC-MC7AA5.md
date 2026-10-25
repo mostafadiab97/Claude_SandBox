@@ -10,6 +10,7 @@ order: 790
 links:
   - type: verifies
     target: SYS-RT7J5E
+    confirmed: 179cd4fd7511
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

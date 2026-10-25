@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-Z90YKD
+    confirmed: b06648d1dbae
 ---
 The menu system shall measure error conditions with an accuracy of ±0.5 °C.
 

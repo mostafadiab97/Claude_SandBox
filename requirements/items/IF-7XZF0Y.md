@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: SYS-MJMPET
+    confirmed: db16e70cbc4d
 ---
 The login screen shall authenticate the room temperature without user interaction.

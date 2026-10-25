@@ -10,8 +10,10 @@ order: 20
 links:
   - type: verifies
     target: SYS-42GJXH
+    confirmed: a0e9ce534d79
   - type: verifies
     target: SW-DCD4TG
+    confirmed: 5e11b806d907
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

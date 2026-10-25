@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: HW-4Y34BS
+    confirmed: 65e5a26add85
 ---
 The zone valve shall display the operating mode for up to 8 zones.
 

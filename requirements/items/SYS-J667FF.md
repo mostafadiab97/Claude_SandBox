@@ -12,6 +12,7 @@ order: 2290
 links:
   - type: refines
     target: STK-KEP05J
+    confirmed: 74304e03fe52
 ---
 The enclosure shall authenticate the connection state when the network is unavailable.
 

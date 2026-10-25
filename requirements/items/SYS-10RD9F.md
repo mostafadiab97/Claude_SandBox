@@ -13,8 +13,10 @@ order: 1520
 links:
   - type: refines
     target: STK-JBY2BX
+    confirmed: bcce6e51beb4
   - type: mitigates
     target: RSK-JW7YBZ
+    confirmed: fdd2a6f94f2a
 ---
 The over-temperature monitor shall report relay events after a power loss.
 

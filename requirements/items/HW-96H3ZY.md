@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: HW-4ANBVV
+    confirmed: 116d4e271c2a
 ---
 The Wi-Fi module shall detect relay events for at least 10 years.

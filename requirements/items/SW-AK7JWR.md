@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-1S2BHB
+    confirmed: 46ab9d294f6f
 ---
 The home dashboard shall validate access tokens at least once per minute.
 

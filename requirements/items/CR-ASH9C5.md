@@ -14,6 +14,7 @@ order: 10
 links:
   - type: relates-to
     target: SYS-RW42CM
+    confirmed: 28c35d155880
 ---
 Requested by customer support (ticket #12339).
 

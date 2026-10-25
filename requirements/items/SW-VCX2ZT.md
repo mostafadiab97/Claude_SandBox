@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-TPWEFS
+    confirmed: dcd525a7f6f5
 ---
 The menu system shall restore sensor readings for at least 10 years.

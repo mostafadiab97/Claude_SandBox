@@ -12,8 +12,10 @@ order: 550
 links:
   - type: verifies
     target: SYS-FNTHY0
+    confirmed: 86355bb1c3be
   - type: verifies
     target: SW-YG9MA7
+    confirmed: 44025c9425c4
 ---
 **Objective:** verify that the status LED behaves as specified.
 

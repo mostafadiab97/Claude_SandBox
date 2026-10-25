@@ -14,8 +14,10 @@ order: 880
 links:
   - type: verifies
     target: SYS-6SJ3GD
+    confirmed: af53245ff967
   - type: verifies
     target: SW-SHA6RD
+    confirmed: 320ede9579ea
 ---
 **Objective:** verify that the boiler interface behaves as specified.
 

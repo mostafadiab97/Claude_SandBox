@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-G3188Z
+    confirmed: b7192030b585
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

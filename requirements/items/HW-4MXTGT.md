@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-NSNRJD
+    confirmed: 223c3f40a1fb
 ---
 The home dashboard shall report the set point after a power loss.
 

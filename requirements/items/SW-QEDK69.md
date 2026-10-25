@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-1X1WY6
+    confirmed: 44aa3f01197b
 ---
 The login screen shall detect the operating mode when the network is unavailable.

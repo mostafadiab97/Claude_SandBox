@@ -10,6 +10,7 @@ order: 1070
 links:
   - type: verifies
     target: SYS-SKSNMS
+    confirmed: 25a2208d5d33
 ---
 **Objective:** verify that the local API behaves as specified.
 

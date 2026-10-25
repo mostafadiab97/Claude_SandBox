@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-9QT5AW
+    confirmed: 29ca05a07a2d
 ---
 The zone valve shall validate firmware images for up to 8 zones.

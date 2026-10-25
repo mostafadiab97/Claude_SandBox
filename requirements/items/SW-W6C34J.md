@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-SNV0V5
+    confirmed: e469f30b51d1
 ---
 The encryption layer shall calibrate user preferences for up to 8 zones.
 

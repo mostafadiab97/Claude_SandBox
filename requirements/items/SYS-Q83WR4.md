@@ -14,6 +14,7 @@ order: 980
 links:
   - type: refines
     target: STK-BV5YMS
+    confirmed: 07434b0b5615
 ---
 The rotary knob shall detect energy consumption below 0.5 W in standby.
 

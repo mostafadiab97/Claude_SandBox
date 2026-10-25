@@ -13,6 +13,7 @@ order: 120
 links:
   - type: refines
     target: STK-5VZRF2
+    confirmed: cf78baefa376
 ---
 The mobile app shall log access tokens using AES-256-GCM.
 

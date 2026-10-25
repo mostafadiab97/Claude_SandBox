@@ -10,6 +10,7 @@ order: 1870
 links:
   - type: refines
     target: STK-MNQXK0
+    confirmed: d3157dcb9034
 ---
 The touch display shall report audit records when the network is unavailable.
 

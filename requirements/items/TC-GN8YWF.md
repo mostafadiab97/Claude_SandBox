@@ -12,6 +12,7 @@ order: 700
 links:
   - type: verifies
     target: SYS-0W57FW
+    confirmed: e1266f4ab489
 ---
 **Objective:** verify that the device behaves as specified.
 

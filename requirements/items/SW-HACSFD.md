@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-VNH1K0
+    confirmed: ebf4ae33f617
 ---
 The heating controller shall measure the room temperature in under 3 s.
 

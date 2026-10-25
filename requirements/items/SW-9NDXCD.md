@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-Q6QXAC
+    confirmed: e67f8d759f40
 ---
 The regulation loop shall display error conditions in all supported languages.
 

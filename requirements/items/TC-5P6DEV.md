@@ -13,8 +13,10 @@ order: 380
 links:
   - type: verifies
     target: SYS-6A5W87
+    confirmed: 739d6ec12ecc
   - type: verifies
     target: SW-1NE15M
+    confirmed: c98e92367d85
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

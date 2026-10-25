@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-A6SZV3
+    confirmed: 2cf0a5310219
 ---
 The boiler interface shall limit humidity values after a power loss.
 

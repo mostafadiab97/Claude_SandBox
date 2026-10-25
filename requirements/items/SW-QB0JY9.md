@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-GZM0K2
+    confirmed: 6d9372f63395
 ---
 The Zigbee radio shall display the set point at least once per minute.

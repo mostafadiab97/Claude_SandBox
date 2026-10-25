@@ -14,6 +14,7 @@ order: 960
 links:
   - type: refines
     target: STK-M7S0HJ
+    confirmed: 6c2381e4092e
 ---
 The heat pump driver shall switch energy consumption when the network is unavailable.
 

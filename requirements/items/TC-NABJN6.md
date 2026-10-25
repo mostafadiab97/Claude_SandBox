@@ -12,6 +12,7 @@ order: 80
 links:
   - type: verifies
     target: SYS-4R41VA
+    confirmed: 83721f87c9d0
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

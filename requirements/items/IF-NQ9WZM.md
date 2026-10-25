@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-YFT95G
+    confirmed: b5e3926c482f
 ---
 The boiler interface shall report error conditions when the network is unavailable.
 

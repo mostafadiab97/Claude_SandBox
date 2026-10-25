@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QYMGFJ
+    confirmed: 9139027643fc
 ---
 The regulation loop shall encrypt relay events within 200 ms.
 

@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-DT8Z3K
+    confirmed: 97d4ec4541f8
 ---
 The mobile app shall synchronise schedule entries in under 3 s.

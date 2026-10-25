@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-A8AYK0
+    confirmed: 7c18672779dd
 ---
 The schedule editor shall encrypt the operating mode within 200 ms.
 

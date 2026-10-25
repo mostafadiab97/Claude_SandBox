@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-GW4A7W
+    confirmed: 81dfb0ea3083
 ---
 The enclosure shall store user preferences within 200 ms.
 

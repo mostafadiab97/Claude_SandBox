@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MN0YG6
+    confirmed: abb306df2814
 ---
 The login screen shall synchronise relay events with an accuracy of ±0.5 °C.
 

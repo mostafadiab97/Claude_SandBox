@@ -14,6 +14,7 @@ order: 1660
 links:
   - type: refines
     target: STK-ESBN30
+    confirmed: 8a56cb48b6c3
 ---
 The zone valve shall report the room temperature when the network is unavailable.
 

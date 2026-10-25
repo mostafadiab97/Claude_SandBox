@@ -12,6 +12,7 @@ order: 220
 links:
   - type: verifies
     target: SYS-6B2AFX
+    confirmed: 2f261bacbfde
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

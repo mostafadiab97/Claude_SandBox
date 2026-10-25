@@ -10,6 +10,7 @@ order: 300
 links:
   - type: verifies
     target: SYS-K6B6KX
+    confirmed: b81585ff6f2b
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-AE0NDZ
+    confirmed: 0023248a633c
 ---
 The encryption layer shall measure safety limits using AES-256-GCM.

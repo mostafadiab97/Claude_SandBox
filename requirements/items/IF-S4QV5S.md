@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-HPT8TA
+    confirmed: 55ed01be7cc1
 ---
 The schedule editor shall restore error conditions without user interaction.
 

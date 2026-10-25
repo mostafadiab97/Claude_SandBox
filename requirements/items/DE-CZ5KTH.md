@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-BWTEMA
+    confirmed: cb2efa86c363
 ---
 Implemented in `src/heat/boiler_interface.c`.

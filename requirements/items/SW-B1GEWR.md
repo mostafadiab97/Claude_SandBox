@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-GD6JM3
+    confirmed: 3ff6f348020f
 ---
 The encryption layer shall store sensor readings in under 3 s.
 

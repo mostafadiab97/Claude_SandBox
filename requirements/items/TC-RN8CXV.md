@@ -9,6 +9,7 @@ order: 170
 links:
   - type: verifies
     target: SYS-8MMGZP
+    confirmed: 2ba99c4bfc3a
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

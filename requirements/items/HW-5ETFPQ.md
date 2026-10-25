@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-FHDEXY
+    confirmed: 786acaabdb39
 ---
 The regulation loop shall store the operating mode after a power loss.
 

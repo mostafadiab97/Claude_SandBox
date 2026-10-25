@@ -12,5 +12,6 @@ order: 20
 links:
   - type: implements
     target: SW-MTX7JN
+    confirmed: 25d545243ebf
 ---
 Implemented in `src/ui/touch_display.c`.

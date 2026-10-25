@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-Y62PFM
+    confirmed: daa058155ad3
 ---
 The regulation loop shall restore the room temperature below 0.5 W in standby.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-K7JSR2
+    confirmed: f9a25a4e5366
 ---
 The power supply shall store user preferences at least once per minute.
 

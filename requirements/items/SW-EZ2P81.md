@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ERJC40
+    confirmed: f027b997b7f0
 ---
 The telemetry pipeline shall restore audit records for at least 10 years.
 

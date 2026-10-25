@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-T021M5
+    confirmed: 0c3dd50dc291
 ---
 The telemetry pipeline shall restore relay events at least once per minute.
 

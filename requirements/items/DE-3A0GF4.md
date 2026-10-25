@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-MA2H1Q
+    confirmed: cca4574d7998
 ---
 Implemented in `src/heat/boiler_interface.c`.

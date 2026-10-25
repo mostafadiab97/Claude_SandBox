@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: IF-DHSQZQ
+    confirmed: dad40b41baa4
 ---
 The login screen shall display relay events within 200 ms.
 

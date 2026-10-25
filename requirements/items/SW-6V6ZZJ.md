@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-2VZ7MW
+    confirmed: 3486a4fd350e
 ---
 The secure boot shall synchronise safety limits after a power loss.
 

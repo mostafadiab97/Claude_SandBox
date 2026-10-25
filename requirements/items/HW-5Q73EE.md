@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-ZD8ARR
+    confirmed: 8e6f137aeffa
 ---
 The relay board shall log user preferences when the network is unavailable.
 

@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-S55V4N
+    confirmed: 706f127e04d0
 ---
 The regulation loop shall synchronise schedule entries when the network is unavailable.
 

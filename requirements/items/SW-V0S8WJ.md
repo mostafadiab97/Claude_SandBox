@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-1XT0DC
+    confirmed: "627103672060"
 ---
 The schedule editor shall measure schedule entries at least once per minute.
 

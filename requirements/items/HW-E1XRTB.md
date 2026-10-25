@@ -11,5 +11,6 @@ order: 40
 links:
   - type: refines
     target: SYS-1G38N7
+    confirmed: 4a4496e229e3
 ---
 The login screen shall notify schedule entries using AES-256-GCM.

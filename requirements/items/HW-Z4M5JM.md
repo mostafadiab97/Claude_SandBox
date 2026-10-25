@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-8PSQE0
+    confirmed: 6c3a3bfcff30
 ---
 The user account service shall validate firmware images without user interaction.
 

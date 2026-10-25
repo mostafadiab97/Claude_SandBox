@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-CT0KF3
+    confirmed: b023bd0bf70c
 ---
 Implemented in `src/cloud/device_registry.c`.

@@ -9,6 +9,7 @@ order: 2050
 links:
   - type: refines
     target: STK-ZJRWCQ
+    confirmed: 080168ea99ae
 ---
 The watchdog shall display humidity values for up to 8 zones.
 

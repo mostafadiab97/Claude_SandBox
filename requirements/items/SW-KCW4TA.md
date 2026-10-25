@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-FRJ8JT
+    confirmed: 5c966bbd47be
 ---
 The encryption layer shall restore energy consumption below 0.5 W in standby.
 

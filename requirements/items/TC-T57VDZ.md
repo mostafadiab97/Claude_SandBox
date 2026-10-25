@@ -12,8 +12,10 @@ order: 300
 links:
   - type: verifies
     target: SYS-3XC6WM
+    confirmed: 1ce7059fa9be
   - type: verifies
     target: SW-4KDV18
+    confirmed: 2888a35b1963
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-P4DXM6
+    confirmed: 45befcee12fc
 ---
 The OTA server shall store schedule entries with an accuracy of ±0.5 °C.
 

@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-E76EZK
+    confirmed: fa525e92566c
 ---
 The cloud backend shall detect schedule entries without user interaction.

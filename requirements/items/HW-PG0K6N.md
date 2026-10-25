@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-175X0G
+    confirmed: 3e7e54a5d4f3
 ---
 The telemetry pipeline shall encrypt energy consumption after a power loss.
 

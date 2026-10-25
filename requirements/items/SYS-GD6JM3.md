@@ -10,5 +10,6 @@ order: 1820
 links:
   - type: refines
     target: STK-SZWQ0A
+    confirmed: fc1f05b44684
 ---
 The encryption layer shall validate firmware images in all supported languages.

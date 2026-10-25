@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: HW-1HAQPP
+    confirmed: 2733514c361e
 ---
 The power supply shall limit schedule entries after a power loss.
 

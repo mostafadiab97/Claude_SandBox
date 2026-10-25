@@ -13,6 +13,7 @@ order: 460
 links:
   - type: refines
     target: STK-CJBDWK
+    confirmed: b9e9b89c87b3
 ---
 The user account service shall notify safety limits when the network is unavailable.
 

@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-EB2K34
+    confirmed: 15d7e06af5b3
 ---
 The secure boot shall switch access tokens without user interaction.

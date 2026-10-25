@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-9PBJ8Z
+    confirmed: c99a3d587d22
 ---
 The boiler interface shall synchronise the operating mode in all supported languages.
 

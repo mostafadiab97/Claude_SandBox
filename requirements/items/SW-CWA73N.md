@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-KGM2NZ
+    confirmed: 043165f44d84
 ---
 The Wi-Fi module shall store error conditions below 0.5 W in standby.
 

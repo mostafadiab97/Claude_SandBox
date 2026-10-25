@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MASKXR
+    confirmed: c14e888575b5
 ---
 The telemetry pipeline shall measure firmware images for up to 8 zones.
 

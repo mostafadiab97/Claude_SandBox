@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-DCD4TG
+    confirmed: 5e11b806d907
 ---
 The home dashboard shall display the set point for at least 10 years.
 

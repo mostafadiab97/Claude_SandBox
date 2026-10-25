@@ -8,6 +8,7 @@ order: 10
 links:
   - type: refines
     target: SYS-3Z27AV
+    confirmed: 79a5d5b3bb44
 ---
 The relay board shall notify energy consumption without user interaction.
 

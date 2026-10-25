@@ -12,8 +12,10 @@ order: 820
 links:
   - type: refines
     target: STK-JAQHJP
+    confirmed: b0af11a5c3c2
   - type: mitigates
     target: RSK-4QT8E5
+    confirmed: 062a72678a9e
 ---
 The enclosure shall notify access tokens without user interaction.
 

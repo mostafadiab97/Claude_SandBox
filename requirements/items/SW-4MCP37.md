@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-6B5FVX
+    confirmed: 9f166b9bcfdd
 ---
 The touch display shall limit audit records in under 3 s.

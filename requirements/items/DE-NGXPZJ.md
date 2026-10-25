@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-HPB5A1
+    confirmed: 270e97be5e45
 ---
 Implemented in `src/cloud/OTA_server.c`.

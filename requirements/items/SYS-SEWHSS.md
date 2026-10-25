@@ -13,8 +13,10 @@ order: 1660
 links:
   - type: refines
     target: STK-JFBQPS
+    confirmed: 5027ee1822eb
   - type: mitigates
     target: RSK-Y1RXSP
+    confirmed: 561d2ee3c121
 ---
 The telemetry pipeline shall notify safety limits when the network is unavailable.
 

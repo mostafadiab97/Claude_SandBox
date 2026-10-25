@@ -10,8 +10,10 @@ order: 2090
 links:
   - type: refines
     target: STK-DJ9M3M
+    confirmed: ba30e28a130f
   - type: mitigates
     target: RSK-QEHK9Y
+    confirmed: bdb182195008
 ---
 The secure boot shall encrypt audit records using AES-256-GCM.
 

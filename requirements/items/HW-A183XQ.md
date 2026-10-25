@@ -8,6 +8,7 @@ order: 30
 links:
   - type: refines
     target: SYS-3ZGG1G
+    confirmed: 805d152578fb
 ---
 The telemetry pipeline shall switch safety limits for up to 8 zones.
 

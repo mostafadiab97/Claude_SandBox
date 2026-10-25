@@ -12,8 +12,10 @@ order: 600
 links:
   - type: refines
     target: STK-Q8BNKR
+    confirmed: 6deaa78e6ab3
   - type: mitigates
     target: RSK-CMYE51
+    confirmed: b0be101f1b7b
 ---
 The boiler interface shall encrypt relay events when the network is unavailable.
 

@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-KVH0QX
+    confirmed: 12318aa6eb13
 ---
 The over-temperature monitor shall restore the operating mode using AES-256-GCM.
 

@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-MRYHNM
+    confirmed: 82b2ddf90cf3
 ---
 The watchdog shall display the set point in all supported languages.
 

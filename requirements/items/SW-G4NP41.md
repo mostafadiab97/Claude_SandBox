@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QKH3DT
+    confirmed: 531d33ab57d8
 ---
 The Wi-Fi module shall limit error conditions in under 3 s.
 

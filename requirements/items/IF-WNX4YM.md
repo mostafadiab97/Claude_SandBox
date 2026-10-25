@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-EN3YXQ
+    confirmed: 1e489c983669
 ---
 The schedule editor shall log energy consumption at least once per minute.
 

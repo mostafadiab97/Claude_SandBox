@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-GV4SNR
+    confirmed: 0a48294d13c0
 ---
 The touch display shall display relay events for at least 10 years.
 

@@ -13,6 +13,7 @@ order: 830
 links:
   - type: verifies
     target: SYS-NBT9XG
+    confirmed: 61b403d3e0a5
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

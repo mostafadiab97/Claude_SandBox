@@ -11,6 +11,7 @@ order: 120
 links:
   - type: verifies
     target: SYS-2094E7
+    confirmed: a4e7c0d76393
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

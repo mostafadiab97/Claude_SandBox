@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-0E8HYM
+    confirmed: bdbee9c49117
 ---
 The encryption layer shall restore humidity values below 0.5 W in standby.
 

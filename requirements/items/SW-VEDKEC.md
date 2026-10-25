@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-K6B6KX
+    confirmed: b81585ff6f2b
 ---
 The over-temperature monitor shall log access tokens using AES-256-GCM.

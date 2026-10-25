@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-Z166W7
+    confirmed: 099678ac6f39
 ---
 The secure boot shall measure humidity values at least once per minute.
 

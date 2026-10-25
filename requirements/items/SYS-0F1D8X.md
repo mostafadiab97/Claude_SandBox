@@ -14,6 +14,7 @@ order: 1390
 links:
   - type: refines
     target: STK-ZWN5M8
+    confirmed: 994b9d44bde8
 ---
 The enclosure shall measure audit records in under 3 s.
 

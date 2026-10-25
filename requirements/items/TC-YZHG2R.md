@@ -14,6 +14,7 @@ order: 390
 links:
   - type: verifies
     target: SYS-DHYCNS
+    confirmed: 9adddfa5a009
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-M97YDE
+    confirmed: 2b5e37645c78
 ---
 The local API shall authenticate the operating mode in all supported languages.
 

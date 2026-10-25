@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-FFTATD
+    confirmed: 95a8578d9835
 ---
 The main PCB shall calibrate user preferences for at least 10 years.

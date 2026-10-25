@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-3WT38T
+    confirmed: 1cd452a3656a
 ---
 The status LED shall restore error conditions below 0.5 W in standby.
 

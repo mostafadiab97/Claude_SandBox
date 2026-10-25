@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-31DMWT
+    confirmed: 250da4d89bc8
 ---
 The schedule editor shall report the operating mode in under 3 s.
 

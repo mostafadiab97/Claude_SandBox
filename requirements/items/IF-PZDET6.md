@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-AAE3BF
+    confirmed: 18744e5f2f29
 ---
 The telemetry pipeline shall calibrate audit records after a power loss.

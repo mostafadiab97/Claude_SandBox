@@ -12,8 +12,10 @@ order: 80
 links:
   - type: verifies
     target: SYS-2RPS4X
+    confirmed: 6a90f09e6ec1
   - type: verifies
     target: SW-EJ1VD0
+    confirmed: 34b66d1bd62f
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

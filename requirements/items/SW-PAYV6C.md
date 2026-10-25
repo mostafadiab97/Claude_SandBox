@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-B7X9NT
+    confirmed: 3dbe2b5d8662
 ---
 The Bluetooth LE link shall display the operating mode for at least 10 years.
 

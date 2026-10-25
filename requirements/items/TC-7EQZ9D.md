@@ -13,6 +13,7 @@ order: 1510
 links:
   - type: verifies
     target: SYS-N863QF
+    confirmed: ec0271419f81
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

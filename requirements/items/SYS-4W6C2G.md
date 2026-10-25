@@ -9,6 +9,7 @@ order: 340
 links:
   - type: refines
     target: STK-DJ9M3M
+    confirmed: 7097b0474ac5
 ---
 The over-temperature monitor shall limit schedule entries using AES-256-GCM.
 

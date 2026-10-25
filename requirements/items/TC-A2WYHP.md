@@ -10,6 +10,7 @@ order: 1150
 links:
   - type: verifies
     target: SYS-7W8YGY
+    confirmed: aca44262add5
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

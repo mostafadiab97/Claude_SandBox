@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-7N5VV8
+    confirmed: 995bbbab086c
 ---
 The secure boot shall restore error conditions for at least 10 years.
 

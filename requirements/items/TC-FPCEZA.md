@@ -10,6 +10,7 @@ order: 710
 links:
   - type: verifies
     target: SYS-QDWM3F
+    confirmed: 6815e3fba85c
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

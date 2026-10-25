@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-HG1H9A
+    confirmed: 81f154ada763
 ---
 Implemented in `src/safe/tamper_detection.c`.

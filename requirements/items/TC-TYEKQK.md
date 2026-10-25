@@ -14,8 +14,10 @@ order: 940
 links:
   - type: verifies
     target: SYS-WTMM9P
+    confirmed: f9afa2fdb4af
   - type: verifies
     target: SW-6VNZC0
+    confirmed: 15dbe7fe8ade
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.
 

@@ -10,6 +10,7 @@ order: 700
 links:
   - type: verifies
     target: SYS-VNKX29
+    confirmed: 1e93aa64c8e1
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

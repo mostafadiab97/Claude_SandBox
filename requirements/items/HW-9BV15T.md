@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-F8240X
+    confirmed: 78f3618e6442
 ---
 The power supply shall switch the room temperature in under 3 s.
 

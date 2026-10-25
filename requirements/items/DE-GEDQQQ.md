@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-QSPAQP
+    confirmed: f83f6df3d458
 ---
 Implemented in `src/conn/local_API.c`.

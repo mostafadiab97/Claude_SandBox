@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-PMARPB
+    confirmed: 6302e68be5a0
 ---
 Implemented in `src/ui/status_LED.c`.

@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-0GKFAB
+    confirmed: b42a1b2bb89f
 ---
 The zone valve shall report the set point for at least 10 years.
 

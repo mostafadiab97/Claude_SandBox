@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-34QNYE
+    confirmed: f6e72f885951
 ---
 The Bluetooth LE link shall restore the set point for up to 8 zones.
 

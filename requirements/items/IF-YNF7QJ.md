@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-VB3RPC
+    confirmed: 524a3ca040eb
 ---
 The secure boot shall encrypt access tokens within 200 ms.
 

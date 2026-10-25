@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-CB769Y
+    confirmed: 78ff4291b8f5
 ---
 The watchdog shall encrypt humidity values using AES-256-GCM.

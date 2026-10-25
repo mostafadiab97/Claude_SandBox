@@ -9,6 +9,7 @@ order: 40
 links:
   - type: refines
     target: SYS-RGPMZF
+    confirmed: 44306853822b
 ---
 The cloud backend shall detect audit records after a power loss.
 

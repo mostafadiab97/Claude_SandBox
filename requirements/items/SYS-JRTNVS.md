@@ -10,6 +10,7 @@ order: 2220
 links:
   - type: refines
     target: STK-ZWN5M8
+    confirmed: 994b9d44bde8
 ---
 The enclosure shall calibrate humidity values in under 3 s.
 

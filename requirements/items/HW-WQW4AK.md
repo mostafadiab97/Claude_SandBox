@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-Q3NWSK
+    confirmed: 98491b75e1ce
 ---
 The power supply shall switch humidity values at least once per minute.
 

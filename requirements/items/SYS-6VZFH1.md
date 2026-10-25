@@ -12,8 +12,10 @@ order: 2140
 links:
   - type: refines
     target: STK-W8N48B
+    confirmed: 00c32cea6ea5
   - type: mitigates
     target: RSK-GP1TY2
+    confirmed: 50cb7d905eb0
 ---
 The zone valve shall restore humidity values in under 3 s.
 

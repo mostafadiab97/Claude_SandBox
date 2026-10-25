@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-YAEXW8
+    confirmed: 810f93633750
 ---
 The menu system shall display the operating mode when the network is unavailable.

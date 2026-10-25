@@ -12,6 +12,7 @@ order: 1030
 links:
   - type: verifies
     target: SYS-KRN3ZP
+    confirmed: 85ba3b9261c1
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

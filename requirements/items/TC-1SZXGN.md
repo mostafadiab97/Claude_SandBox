@@ -10,6 +10,7 @@ order: 570
 links:
   - type: verifies
     target: SYS-VR1QT6
+    confirmed: b3132101c5d6
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

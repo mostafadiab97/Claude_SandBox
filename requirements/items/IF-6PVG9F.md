@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-4000EB
+    confirmed: 34de3a2ac266
 ---
 The relay board shall encrypt sensor readings below 0.5 W in standby.
 

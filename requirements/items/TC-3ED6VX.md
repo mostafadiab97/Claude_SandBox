@@ -8,8 +8,10 @@ order: 790
 links:
   - type: verifies
     target: SYS-SD1N38
+    confirmed: 5e8b057ab780
   - type: verifies
     target: SW-677MHF
+    confirmed: 4ca724906785
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

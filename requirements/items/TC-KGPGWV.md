@@ -10,8 +10,10 @@ order: 70
 links:
   - type: verifies
     target: SYS-8Q3CHA
+    confirmed: bba9c1adc60e
   - type: verifies
     target: SW-2TBDPG
+    confirmed: a13f7b1862ac
 ---
 **Objective:** verify that the zone valve behaves as specified.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-26VKCE
+    confirmed: 5c68d7d11bea
 ---
 The menu system shall log error conditions below 0.5 W in standby.
 

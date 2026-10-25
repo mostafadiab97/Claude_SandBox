@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-64T5WP
+    confirmed: 6eadc6d38c4a
 ---
 The heat pump driver shall report schedule entries for at least 10 years.
 

@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-GGT06W
+    confirmed: 8325a5367f53
 ---
 The secure boot shall store humidity values at least once per minute.
 

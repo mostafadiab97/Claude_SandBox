@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-H3Y0RB
+    confirmed: 9c8ac7d5ce00
 ---
 The heat pump driver shall authenticate schedule entries for at least 10 years.
 

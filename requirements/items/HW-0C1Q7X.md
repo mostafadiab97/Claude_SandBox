@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-RBHXPF
+    confirmed: efa36830708b
 ---
 The backlight shall calibrate sensor readings when the network is unavailable.

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-J667FF
+    confirmed: 1d8cfb08af6f
 ---
 The enclosure shall notify relay events when the network is unavailable.
 

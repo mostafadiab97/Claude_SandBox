@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-SBQD9X
+    confirmed: b68c6c32bb30
 ---
 The regulation loop shall synchronise the set point using AES-256-GCM.
 

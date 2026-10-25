@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-7WAVP4
+    confirmed: 0f9434a95be4
 ---
 The enclosure shall detect relay events in under 3 s.

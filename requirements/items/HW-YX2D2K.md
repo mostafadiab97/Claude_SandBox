@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: HW-K32RZ8
+    confirmed: b776ab27c2dc
 ---
 The power supply shall restore user preferences at least once per minute.

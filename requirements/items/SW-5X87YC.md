@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-YZPPWS
+    confirmed: 91020cf1f7b8
 ---
 The home dashboard shall log humidity values within 200 ms.

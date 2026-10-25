@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-47V3JP
+    confirmed: a63603c2df5e
 ---
 The over-temperature monitor shall encrypt the connection state in under 3 s.
 

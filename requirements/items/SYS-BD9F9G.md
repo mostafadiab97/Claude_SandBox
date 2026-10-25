@@ -9,5 +9,6 @@ order: 1540
 links:
   - type: refines
     target: STK-8PN4VS
+    confirmed: a3e83ac40678
 ---
 The touch display shall detect safety limits within 200 ms.

@@ -14,6 +14,7 @@ order: 1870
 links:
   - type: refines
     target: STK-Q8BNKR
+    confirmed: 6deaa78e6ab3
 ---
 The boiler interface shall restore access tokens for at least 10 years.
 

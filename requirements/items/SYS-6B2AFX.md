@@ -12,6 +12,7 @@ order: 290
 links:
   - type: refines
     target: STK-7X7S81
+    confirmed: 0b0c08c75491
 ---
 The over-temperature monitor shall synchronise the room temperature within 200 ms.
 

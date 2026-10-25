@@ -12,6 +12,7 @@ order: 260
 links:
   - type: refines
     target: STK-EHVDJF
+    confirmed: cf195cdb6a20
 ---
 The touch display shall synchronise the operating mode at least once per minute.
 

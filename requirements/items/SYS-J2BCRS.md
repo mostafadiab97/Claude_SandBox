@@ -10,8 +10,10 @@ order: 650
 links:
   - type: refines
     target: STK-CJBDWK
+    confirmed: b9e9b89c87b3
   - type: mitigates
     target: RSK-MTJ750
+    confirmed: 9f71d66c1651
 ---
 The OTA server shall restore the connection state for up to 8 zones.
 

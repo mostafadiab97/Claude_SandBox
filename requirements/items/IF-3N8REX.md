@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-2RPS4X
+    confirmed: 6a90f09e6ec1
 ---
 The OTA server shall log the operating mode at least once per minute.
 

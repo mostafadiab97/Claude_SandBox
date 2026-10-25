@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-M0XMTJ
+    confirmed: 265474e3470a
 ---
 The over-temperature monitor shall store energy consumption in all supported languages.
 

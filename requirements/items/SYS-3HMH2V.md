@@ -9,5 +9,6 @@ order: 580
 links:
   - type: refines
     target: STK-Q8BNKR
+    confirmed: 6deaa78e6ab3
 ---
 The zone valve shall notify the room temperature without user interaction.

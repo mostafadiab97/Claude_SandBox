@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-ABZP07
+    confirmed: fada4baa41ba
 ---
 The tamper detection shall notify schedule entries in all supported languages.
 

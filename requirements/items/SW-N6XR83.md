@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-AB1WG2
+    confirmed: 70d3053751d1
 ---
 The watchdog shall measure the operating mode within 200 ms.
 

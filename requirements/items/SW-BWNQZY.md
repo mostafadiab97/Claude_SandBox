@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-WKCZDQ
+    confirmed: ef7ce1eb28d3
 ---
 The watchdog shall display the room temperature with an accuracy of ±0.5 °C.
 

@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-PF652Q
+    confirmed: a1604d2a8c0c
 ---
 The user account service shall notify access tokens in under 3 s.

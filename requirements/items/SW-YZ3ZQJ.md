@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-6DWMRM
+    confirmed: 62af45041e6e
 ---
 The pairing process shall report error conditions for up to 8 zones.
 

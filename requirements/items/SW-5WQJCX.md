@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-08ESXF
+    confirmed: a6d8f7b0b96b
 ---
 The touch display shall report humidity values in under 3 s.
 

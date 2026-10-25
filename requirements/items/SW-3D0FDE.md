@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-DJE020
+    confirmed: e34a209cad5c
 ---
 The rotary knob shall authenticate user preferences using AES-256-GCM.

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-BNJ0XS
+    confirmed: 1bddaa57818d
 ---
 The touch display shall authenticate safety limits within 200 ms.
 

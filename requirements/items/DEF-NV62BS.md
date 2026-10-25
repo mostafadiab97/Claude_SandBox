@@ -12,8 +12,10 @@ order: 20
 links:
   - type: relates-to
     target: TC-QB856F
+    confirmed: 4b17aa37c283
   - type: relates-to
     target: SYS-7GR1GZ
+    confirmed: b3432a56f6cd
 ---
 Found during regression testing of build 2.3.27.
 

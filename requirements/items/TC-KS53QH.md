@@ -12,6 +12,7 @@ order: 720
 links:
   - type: verifies
     target: SYS-XZE982
+    confirmed: bc880bb42e39
 ---
 **Objective:** verify that the user account service behaves as specified.
 

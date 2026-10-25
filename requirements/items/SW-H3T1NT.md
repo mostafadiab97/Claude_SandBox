@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-K70KRX
+    confirmed: 0aa34a333db0
 ---
 The telemetry pipeline shall limit sensor readings at least once per minute.
 

@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-CHKY3X
+    confirmed: 3654ea6dcd35
 ---
 The mobile app shall detect the set point below 0.5 W in standby.
 

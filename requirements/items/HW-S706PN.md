@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: HW-H1MAG6
+    confirmed: 4f0e3698d67a
 ---
 The enclosure shall switch the operating mode in all supported languages.
 

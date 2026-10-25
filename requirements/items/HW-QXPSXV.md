@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-8F73DW
+    confirmed: 13efe84ae7ac
 ---
 The regulation loop shall authenticate relay events after a power loss.
 

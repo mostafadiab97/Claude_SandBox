@@ -11,6 +11,7 @@ order: 1220
 links:
   - type: verifies
     target: SYS-XYBVJ4
+    confirmed: 7d080417271e
 ---
 **Objective:** verify that the notification service behaves as specified.
 

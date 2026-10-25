@@ -12,5 +12,6 @@ order: 920
 links:
   - type: refines
     target: STK-BR4RT9
+    confirmed: 16def0c1f947
 ---
 The login screen shall validate user preferences for up to 8 zones.

@@ -12,6 +12,7 @@ order: 1240
 links:
   - type: verifies
     target: SYS-AW0CHS
+    confirmed: "565684011683"
 ---
 **Objective:** verify that the schedule editor behaves as specified.
 

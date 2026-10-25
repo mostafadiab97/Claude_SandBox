@@ -13,6 +13,7 @@ order: 380
 links:
   - type: verifies
     target: SYS-KS8K75
+    confirmed: 6713f81a0fb0
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

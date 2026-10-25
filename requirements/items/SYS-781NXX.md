@@ -13,5 +13,6 @@ order: 2080
 links:
   - type: refines
     target: STK-55M3CZ
+    confirmed: 45f1b5fe0502
 ---
 The login screen shall authenticate the operating mode within 200 ms.

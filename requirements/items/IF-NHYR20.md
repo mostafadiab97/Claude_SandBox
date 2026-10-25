@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-467EA2
+    confirmed: 60a80a1c9e4e
 ---
 The power supply shall switch error conditions when the network is unavailable.
 

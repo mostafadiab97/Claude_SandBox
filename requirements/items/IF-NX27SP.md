@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-5FN1TB
+    confirmed: 52219f23d7ef
 ---
 The regulation loop shall display access tokens at least once per minute.
 

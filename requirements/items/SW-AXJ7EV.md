@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-RP2FET
+    confirmed: f29685558736
 ---
 The Bluetooth LE link shall store the room temperature with an accuracy of ±0.5 °C.
 

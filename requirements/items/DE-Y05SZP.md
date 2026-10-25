@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-KH465J
+    confirmed: 55fde82329df
 ---
 Implemented in `src/ui/status_LED.c`.

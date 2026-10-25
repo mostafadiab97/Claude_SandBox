@@ -14,5 +14,6 @@ order: 20
 links:
   - type: implements
     target: SW-RCX98F
+    confirmed: 821760d68a5a
 ---
 Implemented in `src/heat/heating_controller.c`.

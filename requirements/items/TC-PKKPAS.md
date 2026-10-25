@@ -13,6 +13,7 @@ order: 540
 links:
   - type: verifies
     target: SYS-GRPZ1J
+    confirmed: 5728c75e8b12
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

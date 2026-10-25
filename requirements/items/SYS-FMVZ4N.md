@@ -10,6 +10,7 @@ order: 580
 links:
   - type: refines
     target: STK-SZWQ0A
+    confirmed: f936185c4afb
 ---
 The over-temperature monitor shall encrypt audit records for at least 10 years.
 

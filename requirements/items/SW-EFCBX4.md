@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-YGWC8P
+    confirmed: 77480e1be3cd
 ---
 The heating controller shall restore the operating mode with an accuracy of ±0.5 °C.
 

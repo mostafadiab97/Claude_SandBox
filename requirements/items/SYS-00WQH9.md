@@ -9,8 +9,10 @@ order: 1970
 links:
   - type: refines
     target: STK-KPV71Q
+    confirmed: 10d9c216aea2
   - type: mitigates
     target: RSK-0929HC
+    confirmed: 2975497b38ca
 ---
 The menu system shall store schedule entries in all supported languages.
 

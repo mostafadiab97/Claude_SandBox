@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-9PJX5M
+    confirmed: ca583718977b
 ---
 The OTA server shall restore firmware images for up to 8 zones.
 

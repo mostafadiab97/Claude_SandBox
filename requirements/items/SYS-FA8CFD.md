@@ -12,7 +12,9 @@ order: 820
 links:
   - type: refines
     target: STK-5CT2VD
+    confirmed: 51ca0f7a80ed
   - type: mitigates
     target: RSK-W4Q53T
+    confirmed: d200c399f368
 ---
 The local API shall limit the connection state in all supported languages.

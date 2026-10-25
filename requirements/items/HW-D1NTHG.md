@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-82CVHQ
+    confirmed: 53eb98981ee7
 ---
 The power supply shall encrypt access tokens after a power loss.
 

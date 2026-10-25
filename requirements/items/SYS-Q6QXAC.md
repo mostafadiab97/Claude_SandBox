@@ -13,6 +13,7 @@ order: 1220
 links:
   - type: refines
     target: STK-M7S0HJ
+    confirmed: 000356d5d38b
 ---
 The regulation loop shall notify the operating mode when the network is unavailable.
 

@@ -12,6 +12,7 @@ order: 1560
 links:
   - type: refines
     target: STK-FWM06B
+    confirmed: bbd40f488fa4
 ---
 The backlight shall limit safety limits in all supported languages.
 

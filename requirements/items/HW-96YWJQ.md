@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-XKACBR
+    confirmed: aaffd1e53d20
 ---
 The Bluetooth LE link shall encrypt sensor readings below 0.5 W in standby.
 

@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-YKN19M
+    confirmed: cf6a8acfb8a2
 ---
 The heating controller shall synchronise the operating mode at least once per minute.

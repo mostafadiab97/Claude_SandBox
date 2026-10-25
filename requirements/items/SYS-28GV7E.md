@@ -13,5 +13,6 @@ order: 150
 links:
   - type: refines
     target: STK-EFJRJ9
+    confirmed: fc922ec1a72e
 ---
 The heat pump driver shall report humidity values within 200 ms.

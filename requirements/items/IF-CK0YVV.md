@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-QS9FSV
+    confirmed: 545a69781e80
 ---
 The battery backup shall limit audit records without user interaction.

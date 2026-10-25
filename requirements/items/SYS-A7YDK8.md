@@ -14,7 +14,9 @@ order: 600
 links:
   - type: refines
     target: STK-G2ZBHW
+    confirmed: fee0d3303478
   - type: mitigates
     target: RSK-RW5E05
+    confirmed: 2efae5362c64
 ---
 The pairing process shall notify relay events with an accuracy of ±0.5 °C.

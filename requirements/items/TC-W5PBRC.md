@@ -13,8 +13,10 @@ order: 400
 links:
   - type: verifies
     target: SYS-QTE64V
+    confirmed: 27661a1b1fc7
   - type: verifies
     target: SW-DK6ZZF
+    confirmed: 3b32dc108d16
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

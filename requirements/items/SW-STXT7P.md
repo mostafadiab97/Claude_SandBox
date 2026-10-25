@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-2B7SGQ
+    confirmed: 16e49588c382
 ---
 The OTA server shall validate access tokens within 200 ms.

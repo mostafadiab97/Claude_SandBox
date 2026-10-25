@@ -14,6 +14,7 @@ order: 1560
 links:
   - type: refines
     target: STK-SZWQ0A
+    confirmed: fc1f05b44684
 ---
 The encryption layer shall calibrate relay events for at least 10 years.
 

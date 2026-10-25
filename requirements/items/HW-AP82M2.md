@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-B37W64
+    confirmed: 708e0f664c1b
 ---
 The heating controller shall restore sensor readings after a power loss.

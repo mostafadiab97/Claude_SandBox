@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-AHR17G
+    confirmed: f886c26f41b1
 ---
 The tamper detection shall authenticate relay events after a power loss.
 

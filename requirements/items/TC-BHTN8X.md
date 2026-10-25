@@ -10,6 +10,7 @@ order: 800
 links:
   - type: verifies
     target: SYS-WEYZAK
+    confirmed: 7b40fcf8dbb4
 ---
 **Objective:** verify that the backlight behaves as specified.
 

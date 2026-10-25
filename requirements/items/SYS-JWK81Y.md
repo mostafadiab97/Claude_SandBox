@@ -10,5 +10,6 @@ order: 900
 links:
   - type: refines
     target: STK-MNQXK0
+    confirmed: d3157dcb9034
 ---
 The backlight shall detect user preferences within 200 ms.

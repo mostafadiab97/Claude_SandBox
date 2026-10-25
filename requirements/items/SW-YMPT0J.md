@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SW-W0W05G
+    confirmed: 37e8cd81b452
 ---
 The telemetry pipeline shall switch user preferences within 200 ms.

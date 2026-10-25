@@ -10,8 +10,10 @@ order: 1890
 links:
   - type: refines
     target: STK-75QZSA
+    confirmed: b8a4c00165fe
   - type: mitigates
     target: RSK-AA3YJ3
+    confirmed: 84e686f1bbcc
 ---
 The regulation loop shall calibrate access tokens below 0.5 W in standby.
 

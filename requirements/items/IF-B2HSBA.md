@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-SPX676
+    confirmed: c915b489dd1f
 ---
 The Zigbee radio shall limit firmware images in under 3 s.
 

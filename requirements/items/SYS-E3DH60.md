@@ -10,6 +10,7 @@ order: 880
 links:
   - type: refines
     target: STK-XZPKF8
+    confirmed: f082d5e65a7a
 ---
 The backlight shall store relay events when the network is unavailable.
 

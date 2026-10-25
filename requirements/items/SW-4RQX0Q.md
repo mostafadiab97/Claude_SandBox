@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-XF8FA2
+    confirmed: 7849317012b2
 ---
 The device registry shall notify firmware images after a power loss.
 

@@ -10,6 +10,7 @@ order: 2160
 links:
   - type: verifies
     target: SYS-6NZHN4
+    confirmed: 98fdc9e71767
 ---
 **Objective:** verify that the device behaves as specified.
 

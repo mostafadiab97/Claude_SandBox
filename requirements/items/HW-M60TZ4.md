@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-2VRJ0H
+    confirmed: 5d16b6dd3076
 ---
 The over-temperature monitor shall encrypt the room temperature without user interaction.
 

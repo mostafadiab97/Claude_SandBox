@@ -14,6 +14,7 @@ order: 600
 links:
   - type: refines
     target: STK-ZJRWCQ
+    confirmed: 080168ea99ae
 ---
 The over-temperature monitor shall restore schedule entries for at least 10 years.
 

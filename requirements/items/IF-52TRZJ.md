@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-RAD6T2
+    confirmed: 05d37b4e999b
 ---
 The pairing process shall measure sensor readings in under 3 s.

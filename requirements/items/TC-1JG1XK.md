@@ -14,6 +14,7 @@ order: 1550
 links:
   - type: verifies
     target: SYS-SBQD9X
+    confirmed: b68c6c32bb30
 ---
 **Objective:** verify that the regulation loop behaves as specified.
 

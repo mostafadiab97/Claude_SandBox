@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SW-TTRVPR
+    confirmed: 5364ac357fbe
 ---
 The mobile app shall authenticate the set point for at least 10 years.

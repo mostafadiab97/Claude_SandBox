@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-CB7E79
+    confirmed: 1e8a0199df87
 ---
 The power supply shall detect firmware images within 200 ms.
 

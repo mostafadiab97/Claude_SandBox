@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-R95DE9
+    confirmed: ed1eb0f9c553
 ---
 The heat pump driver shall detect relay events below 0.5 W in standby.
 

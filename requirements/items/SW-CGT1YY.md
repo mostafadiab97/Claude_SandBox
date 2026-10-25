@@ -8,6 +8,7 @@ order: 10
 links:
   - type: refines
     target: SW-78P294
+    confirmed: ad6dedf96cce
 ---
 The boiler interface shall switch user preferences after a power loss.
 

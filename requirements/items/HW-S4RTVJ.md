@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-F961QG
+    confirmed: f5b7f4c14067
 ---
 The enclosure shall log the set point in under 3 s.
 

@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-85P0FC
+    confirmed: 03d6e9fd5533
 ---
 The power supply shall measure the set point for up to 8 zones.
 

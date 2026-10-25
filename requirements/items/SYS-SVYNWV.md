@@ -12,6 +12,7 @@ order: 1870
 links:
   - type: refines
     target: STK-5CT2VD
+    confirmed: 51ca0f7a80ed
 ---
 The local API shall encrypt the operating mode in under 3 s.
 

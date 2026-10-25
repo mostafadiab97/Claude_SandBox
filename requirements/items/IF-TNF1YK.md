@@ -8,5 +8,6 @@ order: 30
 links:
   - type: refines
     target: SYS-DK3Y4R
+    confirmed: 85f6bb475fe2
 ---
 The relay board shall limit schedule entries without user interaction.

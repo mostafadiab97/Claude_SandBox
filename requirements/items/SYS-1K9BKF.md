@@ -14,6 +14,7 @@ order: 290
 links:
   - type: refines
     target: STK-M28XWW
+    confirmed: bcf262f10744
 ---
 The battery backup shall validate the room temperature below 0.5 W in standby.
 

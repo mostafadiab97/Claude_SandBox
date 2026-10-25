@@ -13,8 +13,10 @@ order: 1340
 links:
   - type: verifies
     target: SYS-7BE6SJ
+    confirmed: 39695d94f21a
   - type: verifies
     target: SW-GT5SKH
+    confirmed: c6c7ffc1b37f
 ---
 **Objective:** verify that the rotary knob behaves as specified.
 

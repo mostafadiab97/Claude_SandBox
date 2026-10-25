@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-9W5PJ5
+    confirmed: f35119afdb2b
 ---
 The enclosure shall synchronise schedule entries using AES-256-GCM.
 

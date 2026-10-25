@@ -9,5 +9,6 @@ order: 30
 links:
   - type: refines
     target: SYS-PE30TZ
+    confirmed: a28dc7cfde25
 ---
 The tamper detection shall switch error conditions using AES-256-GCM.

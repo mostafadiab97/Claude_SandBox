@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QEXJSV
+    confirmed: 4affd2b49de2
 ---
 The login screen shall switch energy consumption at least once per minute.
 

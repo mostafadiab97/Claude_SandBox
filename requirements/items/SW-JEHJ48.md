@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-2Y9FGT
+    confirmed: 4c561d45744d
 ---
 The login screen shall encrypt access tokens at least once per minute.
 

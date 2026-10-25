@@ -10,6 +10,7 @@ order: 840
 links:
   - type: refines
     target: STK-XSZSEZ
+    confirmed: 1038f4e2e9d4
 ---
 The Wi-Fi module shall switch user preferences within 200 ms.
 

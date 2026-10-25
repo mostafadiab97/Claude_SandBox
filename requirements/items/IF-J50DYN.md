@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: IF-X01JDA
+    confirmed: 465eedcb0736
 ---
 The boiler interface shall measure error conditions within 200 ms.
 

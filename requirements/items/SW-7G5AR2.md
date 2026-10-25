@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-10AYV7
+    confirmed: 05e0bb495f40
 ---
 The Bluetooth LE link shall validate audit records at least once per minute.
 

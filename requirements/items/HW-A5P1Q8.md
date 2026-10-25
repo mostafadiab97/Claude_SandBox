@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-S7N2J2
+    confirmed: 925e327e6609
 ---
 The enclosure shall limit firmware images below 0.5 W in standby.

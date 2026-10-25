@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-Q3CD0R
+    confirmed: 1f65b782f615
 ---
 The secure boot shall restore sensor readings for at least 10 years.
 

@@ -9,5 +9,6 @@ order: 40
 links:
   - type: refines
     target: SYS-5449PV
+    confirmed: 51ad9fc7ce44
 ---
 The regulation loop shall switch relay events at least once per minute.

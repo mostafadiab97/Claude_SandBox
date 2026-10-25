@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: SYS-YF7TFF
+    confirmed: 7c6e8f945766
 ---
 The relay board shall restore the room temperature without user interaction.

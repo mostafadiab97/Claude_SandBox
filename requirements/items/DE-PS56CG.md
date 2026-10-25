@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-DQ6372
+    confirmed: 483c453d26ac
 ---
 Implemented in `src/app/mobile_app.c`.

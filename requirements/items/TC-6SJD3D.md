@@ -10,6 +10,7 @@ order: 270
 links:
   - type: verifies
     target: SYS-SKM5Z9
+    confirmed: 832b55acc75f
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7J9J7C
+    confirmed: 0f55b6e6a72b
 ---
 The secure boot shall log firmware images with an accuracy of ±0.5 °C.
 

@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-WY2MGE
+    confirmed: cd0fa22d1fa7
 ---
 The status LED shall detect safety limits in under 3 s.

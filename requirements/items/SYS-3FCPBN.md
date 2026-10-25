@@ -11,6 +11,7 @@ order: 450
 links:
   - type: refines
     target: STK-9YF5RE
+    confirmed: 43643c03020f
 ---
 The boiler interface shall calibrate access tokens within 200 ms.
 

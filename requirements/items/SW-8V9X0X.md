@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SW-YT3B19
+    confirmed: 6797fc6704d9
 ---
 The touch display shall authenticate schedule entries within 200 ms.

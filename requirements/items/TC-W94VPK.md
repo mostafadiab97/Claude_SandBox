@@ -13,6 +13,7 @@ order: 980
 links:
   - type: verifies
     target: SYS-19PGBF
+    confirmed: ae3b18f7d74c
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

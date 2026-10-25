@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-0DEP77
+    confirmed: 7dbcbeef3d13
 ---
 The device registry shall calibrate the room temperature for at least 10 years.
 

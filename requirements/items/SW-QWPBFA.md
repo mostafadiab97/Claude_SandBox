@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-ZWGKMZ
+    confirmed: de491092c347
 ---
 The menu system shall encrypt the operating mode after a power loss.
 

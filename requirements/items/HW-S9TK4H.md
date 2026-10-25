@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-KXGXYF
+    confirmed: 9506f18a953f
 ---
 The power supply shall validate sensor readings below 0.5 W in standby.
 

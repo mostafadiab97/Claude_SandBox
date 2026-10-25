@@ -12,5 +12,6 @@ order: 20
 links:
   - type: implements
     target: SW-JPCWP5
+    confirmed: c4b55551f995
 ---
 Implemented in `src/ui/menu_system.c`.

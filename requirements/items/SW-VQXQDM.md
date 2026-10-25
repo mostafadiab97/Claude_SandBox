@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-8PHDX1
+    confirmed: 1bfc1bb5e4d7
 ---
 The menu system shall synchronise the operating mode when the network is unavailable.
 

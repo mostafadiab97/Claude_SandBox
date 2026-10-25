@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-AYSZZY
+    confirmed: 6829857dc6fd
 ---
 The power supply shall synchronise error conditions without user interaction.

@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-EJ6VGS
+    confirmed: 72a1d0da5245
 ---
 The local API shall restore humidity values for up to 8 zones.
 

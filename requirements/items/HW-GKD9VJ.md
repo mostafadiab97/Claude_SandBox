@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-RP446Q
+    confirmed: 17c94a8ac671
 ---
 The relay board shall limit energy consumption for up to 8 zones.
 

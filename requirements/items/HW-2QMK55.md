@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-6GCZ5P
+    confirmed: d0b47df35e0a
 ---
 The status LED shall log safety limits after a power loss.

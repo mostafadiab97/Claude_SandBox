@@ -12,8 +12,10 @@ order: 370
 links:
   - type: verifies
     target: SYS-5T7DGP
+    confirmed: 65eb9c0bc016
   - type: verifies
     target: SW-YDNHZ3
+    confirmed: 83002d09327b
 ---
 **Objective:** verify that the schedule editor behaves as specified.
 

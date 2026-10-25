@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-1DTP29
+    confirmed: 076f90a0ea7e
 ---
 The regulation loop shall encrypt sensor readings when the network is unavailable.
 

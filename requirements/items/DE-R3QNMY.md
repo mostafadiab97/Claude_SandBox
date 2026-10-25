@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-M2K374
+    confirmed: f8a03a354ab4
 ---
 Implemented in `src/safe/secure_boot.c`.

@@ -9,8 +9,10 @@ order: 90
 links:
   - type: relates-to
     target: TC-KG8Z7C
+    confirmed: d1b22deb6986
   - type: relates-to
     target: SYS-HPD0VD
+    confirmed: 5718299a4e75
 ---
 Found during regression testing of build 2.1.35.
 

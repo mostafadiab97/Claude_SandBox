@@ -12,6 +12,7 @@ order: 740
 links:
   - type: verifies
     target: SYS-6MTAQR
+    confirmed: 76300eb27743
 ---
 **Objective:** verify that the device registry behaves as specified.
 

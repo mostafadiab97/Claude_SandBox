@@ -12,6 +12,7 @@ order: 2370
 links:
   - type: refines
     target: STK-M28XWW
+    confirmed: bcf262f10744
 ---
 The enclosure shall notify firmware images at least once per minute.
 

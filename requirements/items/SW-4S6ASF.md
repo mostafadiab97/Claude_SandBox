@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SW-B0JQJK
+    confirmed: 9fc89005d6af
 ---
 The tamper detection shall encrypt access tokens with an accuracy of ±0.5 °C.

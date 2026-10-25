@@ -10,6 +10,7 @@ order: 1620
 links:
   - type: refines
     target: STK-FWM06B
+    confirmed: bbd40f488fa4
 ---
 The rotary knob shall validate schedule entries for at least 10 years.
 

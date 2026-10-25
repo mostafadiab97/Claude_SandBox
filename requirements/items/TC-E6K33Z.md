@@ -10,8 +10,10 @@ order: 700
 links:
   - type: verifies
     target: SYS-96CWW2
+    confirmed: e023ac8016f0
   - type: verifies
     target: SW-9338A3
+    confirmed: e7cbb10f2f38
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-F1Q0NC
+    confirmed: dba1136682fd
 ---
 The zone valve shall store schedule entries for up to 8 zones.
 

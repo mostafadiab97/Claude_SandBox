@@ -12,8 +12,10 @@ order: 420
 links:
   - type: refines
     target: STK-AKFTAC
+    confirmed: 3cca48da4b1c
   - type: mitigates
     target: RSK-QEHK9Y
+    confirmed: bdb182195008
 ---
 The over-temperature monitor shall limit firmware images after a power loss.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-GE2P45
+    confirmed: 17b26ef78c68
 ---
 The home dashboard shall display humidity values using AES-256-GCM.
 

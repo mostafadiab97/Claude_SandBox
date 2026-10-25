@@ -9,5 +9,6 @@ order: 30
 links:
   - type: refines
     target: SYS-2V6AQ6
+    confirmed: 2d2dda43be88
 ---
 The heating controller shall report the connection state for up to 8 zones.

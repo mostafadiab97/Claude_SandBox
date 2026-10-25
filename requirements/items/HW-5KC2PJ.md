@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-5WJBCW
+    confirmed: cd6c90a42873
 ---
 The watchdog shall notify the set point using AES-256-GCM.
 

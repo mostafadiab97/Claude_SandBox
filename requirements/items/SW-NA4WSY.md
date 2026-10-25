@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-T378HZ
+    confirmed: 8685bc40ef34
 ---
 The notification service shall notify the operating mode for at least 10 years.
 

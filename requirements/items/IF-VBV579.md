@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: IF-7YFE11
+    confirmed: 1cbfe6b14f58
 ---
 The power supply shall store sensor readings for up to 8 zones.

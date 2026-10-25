@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-G3D5M2
+    confirmed: b739d638789a
 ---
 The boiler interface shall synchronise the set point below 0.5 W in standby.
 

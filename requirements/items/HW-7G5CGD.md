@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: HW-X9SE1P
+    confirmed: 67008b5a0276
 ---
 The power supply shall calibrate sensor readings within 200 ms.
 

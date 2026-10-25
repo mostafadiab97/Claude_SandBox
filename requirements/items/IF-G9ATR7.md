@@ -11,5 +11,6 @@ order: 30
 links:
   - type: refines
     target: SYS-6PYBJD
+    confirmed: fd85d789dbcd
 ---
 The main PCB shall limit user preferences without user interaction.

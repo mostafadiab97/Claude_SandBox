@@ -13,6 +13,7 @@ order: 1460
 links:
   - type: refines
     target: STK-AAZ4HV
+    confirmed: 44fc7956dbf8
 ---
 The pairing process shall restore energy consumption without user interaction.
 

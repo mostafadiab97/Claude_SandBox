@@ -12,5 +12,6 @@ order: 1320
 links:
   - type: refines
     target: STK-1CAAXP
+    confirmed: a853df6f0866
 ---
 The OTA server shall limit user preferences in all supported languages.

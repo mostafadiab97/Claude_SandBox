@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XZE982
+    confirmed: bc880bb42e39
 ---
 The user account service shall authenticate relay events with an accuracy of ±0.5 °C.
 

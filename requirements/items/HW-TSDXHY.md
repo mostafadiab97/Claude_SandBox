@@ -11,5 +11,6 @@ order: 40
 links:
   - type: refines
     target: SYS-VXY593
+    confirmed: ee56b8ee15e6
 ---
 The main PCB shall encrypt sensor readings in under 3 s.

@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-GK8E6S
+    confirmed: 3497825150a9
 ---
 The telemetry pipeline shall detect error conditions in all supported languages.
 

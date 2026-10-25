@@ -14,6 +14,7 @@ order: 290
 links:
   - type: refines
     target: STK-ESBN30
+    confirmed: 8a56cb48b6c3
 ---
 The zone valve shall log error conditions with an accuracy of ±0.5 °C.
 

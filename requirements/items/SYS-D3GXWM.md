@@ -10,5 +10,6 @@ order: 240
 links:
   - type: refines
     target: STK-XSQC89
+    confirmed: 66c246d6b1dc
 ---
 The over-temperature monitor shall display the set point for at least 10 years.

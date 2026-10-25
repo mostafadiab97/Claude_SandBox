@@ -12,8 +12,10 @@ order: 1260
 links:
   - type: refines
     target: STK-2STGXE
+    confirmed: c77fe61daf4b
   - type: mitigates
     target: RSK-46TQ95
+    confirmed: d8376349dea6
 ---
 The power supply shall validate humidity values below 0.5 W in standby.
 

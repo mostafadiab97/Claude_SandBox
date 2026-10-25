@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-NN047S
+    confirmed: 44642ef24cf7
 ---
 The touch display shall measure schedule entries after a power loss.
 

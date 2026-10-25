@@ -10,8 +10,10 @@ order: 2360
 links:
   - type: refines
     target: STK-KEP05J
+    confirmed: 74304e03fe52
   - type: mitigates
     target: RSK-P3EG5Z
+    confirmed: 24cf773c2491
 ---
 The relay board shall calibrate the set point in all supported languages.
 

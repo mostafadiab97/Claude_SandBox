@@ -12,6 +12,7 @@ order: 680
 links:
   - type: refines
     target: STK-35QR7F
+    confirmed: bc1aebb7918d
 ---
 The backlight shall detect safety limits within 200 ms.
 

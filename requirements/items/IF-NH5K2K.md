@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: IF-2M3BDN
+    confirmed: b890cf01bca0
 ---
 The rotary knob shall switch user preferences with an accuracy of ±0.5 °C.

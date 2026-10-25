@@ -13,8 +13,10 @@ order: 1620
 links:
   - type: refines
     target: STK-639N9T
+    confirmed: 252da9caa62c
   - type: mitigates
     target: RSK-040M7X
+    confirmed: fdb267eb1465
 ---
 The schedule editor shall switch sensor readings for up to 8 zones.
 

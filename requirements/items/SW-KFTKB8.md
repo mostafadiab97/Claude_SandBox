@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-TPWEFS
+    confirmed: dcd525a7f6f5
 ---
 The menu system shall display energy consumption within 200 ms.
 

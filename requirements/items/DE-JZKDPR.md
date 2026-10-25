@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-GNXHG9
+    confirmed: f17b4df321fc
 ---
 Implemented in `src/conn/pairing_process.c`.

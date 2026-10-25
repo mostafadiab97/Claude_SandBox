@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-TE4YGF
+    confirmed: 7a16860169f9
 ---
 The schedule editor shall notify schedule entries within 200 ms.
 

@@ -12,6 +12,7 @@ order: 1350
 links:
   - type: refines
     target: STK-Y4WG9E
+    confirmed: 9c3c4f9c0995
 ---
 The enclosure shall detect relay events within 200 ms.
 

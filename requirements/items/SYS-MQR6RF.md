@@ -11,6 +11,7 @@ order: 1720
 links:
   - type: refines
     target: STK-KEP05J
+    confirmed: 74304e03fe52
 ---
 The relay board shall switch user preferences within 200 ms.
 

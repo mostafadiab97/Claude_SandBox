@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-F0WQVQ
+    confirmed: e5beb3d765c5
 ---
 The pairing process shall calibrate audit records at least once per minute.

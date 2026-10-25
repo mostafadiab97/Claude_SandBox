@@ -13,6 +13,7 @@ order: 640
 links:
   - type: verifies
     target: SYS-9B4YX3
+    confirmed: 7e7b28ad44d1
 ---
 **Objective:** verify that the relay board behaves as specified.
 

@@ -13,6 +13,7 @@ order: 620
 links:
   - type: verifies
     target: SYS-9QD67X
+    confirmed: c23bbc65f43c
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

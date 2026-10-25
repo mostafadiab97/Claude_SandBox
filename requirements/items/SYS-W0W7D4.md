@@ -12,6 +12,7 @@ order: 1780
 links:
   - type: refines
     target: STK-M28XWW
+    confirmed: bcf262f10744
 ---
 The power supply shall notify relay events in all supported languages.
 

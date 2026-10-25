@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-3XC6WM
+    confirmed: 1ce7059fa9be
 ---
 The heating controller shall validate user preferences after a power loss.

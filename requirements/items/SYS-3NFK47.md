@@ -12,8 +12,10 @@ order: 1930
 links:
   - type: refines
     target: STK-M7S0HJ
+    confirmed: 000356d5d38b
   - type: mitigates
     target: RSK-GP1TY2
+    confirmed: 50cb7d905eb0
 ---
 The heat pump driver shall display the operating mode when the network is unavailable.
 

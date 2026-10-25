@@ -14,6 +14,7 @@ order: 1720
 links:
   - type: refines
     target: STK-F8MTPC
+    confirmed: bbf5b4f56657
 ---
 The schedule editor shall report relay events for at least 10 years.
 

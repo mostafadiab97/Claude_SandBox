@@ -9,6 +9,7 @@ order: 40
 links:
   - type: refines
     target: SYS-NA1SC7
+    confirmed: 5bf0247d7ebd
 ---
 The encryption layer shall notify audit records for at least 10 years.
 

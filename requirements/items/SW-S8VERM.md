@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-GYB5H0
+    confirmed: 9f9b9c33c8bc
 ---
 The schedule editor shall display humidity values for at least 10 years.

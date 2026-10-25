@@ -9,6 +9,7 @@ order: 1910
 links:
   - type: refines
     target: STK-8PN4VS
+    confirmed: a3e83ac40678
 ---
 The menu system shall restore audit records at least once per minute.
 

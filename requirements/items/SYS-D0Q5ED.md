@@ -14,6 +14,7 @@ order: 2270
 links:
   - type: refines
     target: STK-ZWN5M8
+    confirmed: 994b9d44bde8
 ---
 The power supply shall switch relay events at least once per minute.
 

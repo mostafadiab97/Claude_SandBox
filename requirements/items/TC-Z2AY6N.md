@@ -13,6 +13,7 @@ order: 1930
 links:
   - type: verifies
     target: SYS-BFB7EF
+    confirmed: a7ba030d51de
 ---
 **Objective:** verify that the device behaves as specified.
 

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-MF268D
+    confirmed: 8b7169012b4e
 ---
 The backlight shall detect user preferences with an accuracy of ±0.5 °C.

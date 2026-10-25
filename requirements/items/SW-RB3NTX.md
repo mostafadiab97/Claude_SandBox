@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MRHZSS
+    confirmed: 3746d94f7720
 ---
 The notification service shall report humidity values using AES-256-GCM.
 

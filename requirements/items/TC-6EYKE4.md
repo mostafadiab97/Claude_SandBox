@@ -10,8 +10,10 @@ order: 1370
 links:
   - type: verifies
     target: SYS-FMTYXJ
+    confirmed: 51ed09f00e1d
   - type: verifies
     target: SW-TQ408P
+    confirmed: 2f356afe5198
 ---
 **Objective:** verify that the regulation loop behaves as specified.
 

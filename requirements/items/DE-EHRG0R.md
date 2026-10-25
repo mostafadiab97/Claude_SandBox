@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-KZQTY6
+    confirmed: 2d0abae3753b
 ---
 Implemented in `src/heat/boiler_interface.c`.

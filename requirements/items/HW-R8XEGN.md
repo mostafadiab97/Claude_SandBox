@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-2C788T
+    confirmed: de243e02db5e
 ---
 The battery backup shall notify the connection state below 0.5 W in standby.
 

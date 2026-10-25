@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-VY28RQ
+    confirmed: 7e13e53fd09a
 ---
 The login screen shall notify energy consumption for up to 8 zones.

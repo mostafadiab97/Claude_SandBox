@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SW-XX8006
+    confirmed: 95410177b956
 ---
 The Bluetooth LE link shall notify user preferences in under 3 s.

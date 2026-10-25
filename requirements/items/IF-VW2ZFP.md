@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-0KSYQX
+    confirmed: e389f2bf3a71
 ---
 The status LED shall encrypt schedule entries within 200 ms.
 

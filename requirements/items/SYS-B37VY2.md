@@ -11,6 +11,7 @@ order: 680
 links:
   - type: refines
     target: STK-Q8BNKR
+    confirmed: 6deaa78e6ab3
 ---
 The boiler interface shall detect audit records for up to 8 zones.
 

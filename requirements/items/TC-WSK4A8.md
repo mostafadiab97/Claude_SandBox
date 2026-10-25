@@ -10,6 +10,7 @@ order: 260
 links:
   - type: verifies
     target: SYS-R2FDWQ
+    confirmed: 08d5a1fe5a7b
 ---
 **Objective:** verify that the schedule editor behaves as specified.
 

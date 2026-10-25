@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-1WWXQV
+    confirmed: 46c684db9439
 ---
 The regulation loop shall display safety limits for up to 8 zones.
 

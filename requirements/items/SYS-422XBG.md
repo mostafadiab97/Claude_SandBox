@@ -10,5 +10,6 @@ order: 250
 links:
   - type: refines
     target: STK-4NGQJ5
+    confirmed: 96640a7e340d
 ---
 The relay board shall report the room temperature in all supported languages.

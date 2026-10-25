@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-A4N3W7
+    confirmed: c7593929dc3f
 ---
 The enclosure shall notify access tokens using AES-256-GCM.

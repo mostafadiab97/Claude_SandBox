@@ -12,6 +12,7 @@ order: 630
 links:
   - type: verifies
     target: SYS-BS5G2C
+    confirmed: 19954ae1e0af
 ---
 **Objective:** verify that the device behaves as specified.
 

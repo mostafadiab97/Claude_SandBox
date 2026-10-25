@@ -14,5 +14,6 @@ order: 30
 links:
   - type: refines
     target: SYS-F7SWPF
+    confirmed: 89bbd5dd030b
 ---
 The tamper detection shall synchronise access tokens in under 3 s.

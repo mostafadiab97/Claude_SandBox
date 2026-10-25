@@ -9,6 +9,7 @@ order: 80
 links:
   - type: verifies
     target: SYS-228KWQ
+    confirmed: 96ed9cb06525
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

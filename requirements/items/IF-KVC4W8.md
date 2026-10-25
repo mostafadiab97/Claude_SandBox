@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-G7FSDN
+    confirmed: 92674bedf3ac
 ---
 The regulation loop shall notify the set point after a power loss.
 

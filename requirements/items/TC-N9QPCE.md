@@ -14,6 +14,7 @@ order: 1160
 links:
   - type: verifies
     target: SYS-BA2G1M
+    confirmed: f603768ac45b
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

@@ -9,6 +9,7 @@ order: 1380
 links:
   - type: refines
     target: STK-8PN4VS
+    confirmed: a3e83ac40678
 ---
 The backlight shall limit the set point in all supported languages.
 

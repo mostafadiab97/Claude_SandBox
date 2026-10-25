@@ -13,6 +13,7 @@ order: 210
 links:
   - type: verifies
     target: SYS-02QRPZ
+    confirmed: 82506165b903
 ---
 **Objective:** verify that the local API behaves as specified.
 

@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-MYRVYN
+    confirmed: 13a44214a3d4
 ---
 Implemented in `src/app/home_dashboard.c`.

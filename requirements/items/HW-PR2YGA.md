@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-Q0NNG8
+    confirmed: d9d2819ed73b
 ---
 The rotary knob shall validate firmware images with an accuracy of ±0.5 °C.
 

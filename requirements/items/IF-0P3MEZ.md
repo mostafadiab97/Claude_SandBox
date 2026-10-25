@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-YKSDDE
+    confirmed: 631388ab0b1c
 ---
 The touch display shall synchronise energy consumption at least once per minute.
 

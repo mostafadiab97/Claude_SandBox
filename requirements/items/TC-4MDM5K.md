@@ -10,6 +10,7 @@ order: 760
 links:
   - type: verifies
     target: SYS-9WHVE0
+    confirmed: b19b26310755
 ---
 **Objective:** verify that the device behaves as specified.
 

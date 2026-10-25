@@ -13,5 +13,6 @@ order: 1960
 links:
   - type: refines
     target: STK-KEP05J
+    confirmed: 74304e03fe52
 ---
 The main PCB shall limit relay events after a power loss.

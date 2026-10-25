@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-V8PKW7
+    confirmed: cdcf4744a4f0
 ---
 The heat pump driver shall log access tokens without user interaction.
 

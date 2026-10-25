@@ -13,6 +13,7 @@ order: 1110
 links:
   - type: verifies
     target: SYS-2DYZPV
+    confirmed: 37aac0e40a8d
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

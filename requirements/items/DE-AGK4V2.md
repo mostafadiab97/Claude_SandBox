@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-66C7TV
+    confirmed: 8058a1953fe2
 ---
 Implemented in `src/app/mobile_app.c`.
