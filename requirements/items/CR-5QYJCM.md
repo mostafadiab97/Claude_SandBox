@@ -13,5 +13,5 @@ links:
 ---
 Requested by customer support (ticket #15886).
 
-Change: the enclosure should also restore the room temperature.
+Change: the enclosure should also restore the current room temperature.
 Impact: affects the linked requirements; estimated effort 9 person-days.
