@@ -7,7 +7,7 @@ priority: Low
 owner: R. Nabil
 tags:
   - regulatory
-parent: INFO-QHXQWK
+parent: INFO-Y8G953
 order: 140
 links:
   - type: relates-to

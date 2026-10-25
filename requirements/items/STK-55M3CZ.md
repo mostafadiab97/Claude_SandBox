@@ -9,4 +9,4 @@ tags:
 parent: INFO-QHXQWK
 order: 10
 ---
-As a home owner I want the notification service to measure the room temperature, so that my home stays comfortable.
+As a home owner I want the notification service to measure the room temperature in Celsius, so that my home stays comfortable.

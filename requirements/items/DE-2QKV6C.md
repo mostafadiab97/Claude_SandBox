@@ -10,4 +10,4 @@ links:
   - type: implements
     target: SW-43XDNQ
 ---
-Implemented in `src/safe/over-temperature_monitor.c`.
+يجب أن يقوم النظام بمراقبة ارتفاع درجات الحرارة 
