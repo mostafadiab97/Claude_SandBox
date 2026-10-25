@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-J73TGA
+    confirmed: c6ffa9bc0f1f
 ---
 The main PCB shall calibrate audit records at least once per minute.
 

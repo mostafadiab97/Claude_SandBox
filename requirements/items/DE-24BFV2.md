@@ -10,5 +10,6 @@ order: 20
 links:
   - type: implements
     target: SW-XF8FA2
+    confirmed: 7849317012b2
 ---
 Implemented in `src/cloud/device_registry.c`.

@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-QJNNZD
+    confirmed: 220d5e428bbc
 ---
 The battery backup shall calibrate firmware images within 200 ms.

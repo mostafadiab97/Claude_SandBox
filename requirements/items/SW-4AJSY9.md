@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SW-Z49V0N
+    confirmed: 360a9921a40f
 ---
 The menu system shall store user preferences with an accuracy of ±0.5 °C.
 

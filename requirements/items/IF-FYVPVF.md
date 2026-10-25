@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-XCZ8FT
+    confirmed: 4082509ac9c9
 ---
 The local API shall calibrate the connection state within 200 ms.
 

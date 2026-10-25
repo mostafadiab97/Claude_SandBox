@@ -9,6 +9,7 @@ order: 40
 links:
   - type: refines
     target: SYS-2C5AG5
+    confirmed: f015c93439ed
 ---
 The secure boot shall switch sensor readings at least once per minute.
 

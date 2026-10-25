@@ -13,6 +13,7 @@ order: 1570
 links:
   - type: refines
     target: STK-71VSKB
+    confirmed: 994ecb1eff6f
 ---
 The pairing process shall authenticate user preferences in all supported languages.
 

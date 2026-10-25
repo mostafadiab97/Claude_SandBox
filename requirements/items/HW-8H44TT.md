@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-EMNHY1
+    confirmed: 84eef3783091
 ---
 The login screen shall detect safety limits when the network is unavailable.
 

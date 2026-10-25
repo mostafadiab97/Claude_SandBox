@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-EJ6VGS
+    confirmed: 72a1d0da5245
 ---
 The local API shall authenticate safety limits after a power loss.
 

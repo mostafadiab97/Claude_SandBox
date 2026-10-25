@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-WK30J1
+    confirmed: 6e888350d66f
 ---
 The cloud backend shall validate sensor readings for up to 8 zones.
 

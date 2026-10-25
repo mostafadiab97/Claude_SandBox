@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-K5FKWP
+    confirmed: dea8dfc4c64f
 ---
 The OTA server shall synchronise humidity values for at least 10 years.
 

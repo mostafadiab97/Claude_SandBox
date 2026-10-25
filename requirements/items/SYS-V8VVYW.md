@@ -12,8 +12,10 @@ order: 1420
 links:
   - type: refines
     target: STK-35QR7F
+    confirmed: bc1aebb7918d
   - type: mitigates
     target: RSK-81XFR0
+    confirmed: df837fe8b253
 ---
 The rotary knob shall detect user preferences for up to 8 zones.
 

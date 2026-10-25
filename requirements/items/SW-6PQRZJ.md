@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-QNMZ6J
+    confirmed: 988a557fd818
 ---
 The tamper detection shall display the connection state below 0.5 W in standby.
 

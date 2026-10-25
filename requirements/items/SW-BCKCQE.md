@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-0R6VPN
+    confirmed: 1c57ac548887
 ---
 The Bluetooth LE link shall display firmware images in under 3 s.
 

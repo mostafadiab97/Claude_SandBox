@@ -9,6 +9,7 @@ order: 840
 links:
   - type: verifies
     target: SYS-NVKX9K
+    confirmed: 720362ab5cfe
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

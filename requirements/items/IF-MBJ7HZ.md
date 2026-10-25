@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: IF-QKDFHJ
+    confirmed: c99c2b9efe36
 ---
 The OTA server shall restore humidity values at least once per minute.

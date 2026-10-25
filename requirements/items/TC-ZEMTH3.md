@@ -12,6 +12,7 @@ order: 1060
 links:
   - type: verifies
     target: SYS-26ZAHT
+    confirmed: 2fc7492bf655
 ---
 **Objective:** verify that the device behaves as specified.
 

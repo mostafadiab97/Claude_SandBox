@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-KBPFCV
+    confirmed: 659b9683cc27
 ---
 The telemetry pipeline shall store the operating mode in all supported languages.

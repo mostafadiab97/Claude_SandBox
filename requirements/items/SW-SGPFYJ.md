@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-3311SY
+    confirmed: 73000130eecf
 ---
 The zone valve shall log the set point at least once per minute.

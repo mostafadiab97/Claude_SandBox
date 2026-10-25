@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-EQ67JM
+    confirmed: deb3f38239b9
 ---
 The OTA server shall synchronise safety limits within 200 ms.
 

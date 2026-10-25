@@ -12,6 +12,7 @@ order: 2000
 links:
   - type: refines
     target: STK-7X7S81
+    confirmed: 0b0c08c75491
 ---
 The over-temperature monitor shall limit the room temperature without user interaction.
 

@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-1TC8XF
+    confirmed: f8bd8f1b6b39
 ---
 The secure boot shall display humidity values after a power loss.
 

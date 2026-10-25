@@ -14,6 +14,7 @@ order: 1530
 links:
   - type: refines
     target: STK-JBY2BX
+    confirmed: bcce6e51beb4
 ---
 The watchdog shall measure the operating mode below 0.5 W in standby.
 

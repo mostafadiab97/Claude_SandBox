@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-8NFSC3
+    confirmed: eda725773cd2
 ---
 The main PCB shall encrypt relay events for at least 10 years.
 

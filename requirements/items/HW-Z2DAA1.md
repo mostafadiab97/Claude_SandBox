@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-RF310F
+    confirmed: bc4cb8d2d781
 ---
 The local API shall limit relay events below 0.5 W in standby.
 

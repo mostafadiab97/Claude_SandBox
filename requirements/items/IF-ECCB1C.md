@@ -12,5 +12,6 @@ order: 40
 links:
   - type: refines
     target: SYS-V3JY7R
+    confirmed: a0359a8db234
 ---
 The Zigbee radio shall authenticate the connection state after a power loss.

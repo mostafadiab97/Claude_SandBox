@@ -13,6 +13,7 @@ order: 140
 links:
   - type: refines
     target: STK-1R2QT3
+    confirmed: 7ca04f22a1b8
 ---
 The Bluetooth LE link shall restore audit records within 200 ms.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-GJM3H6
+    confirmed: 4f0a28e39736
 ---
 The pairing process shall notify relay events for at least 10 years.
 

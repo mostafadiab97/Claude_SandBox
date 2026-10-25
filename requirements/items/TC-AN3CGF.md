@@ -10,6 +10,7 @@ order: 230
 links:
   - type: verifies
     target: SYS-JKNRQ3
+    confirmed: 2f3dabce7169
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

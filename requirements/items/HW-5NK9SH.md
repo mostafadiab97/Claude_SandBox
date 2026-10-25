@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-108ATV
+    confirmed: 081d9a832ae5
 ---
 The over-temperature monitor shall display firmware images for at least 10 years.
 

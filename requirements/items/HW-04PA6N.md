@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-E2RJQJ
+    confirmed: 97b944008421
 ---
 The battery backup shall report the connection state for at least 10 years.
 

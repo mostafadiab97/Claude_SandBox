@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-Q7SGWR
+    confirmed: afb9458df0cc
 ---
 Implemented in `src/safe/tamper_detection.c`.

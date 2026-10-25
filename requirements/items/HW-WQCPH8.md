@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-RAHT6W
+    confirmed: 3ed84532df89
 ---
 The main PCB shall log relay events for at least 10 years.
 

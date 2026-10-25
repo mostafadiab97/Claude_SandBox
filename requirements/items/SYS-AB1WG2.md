@@ -12,6 +12,7 @@ order: 1360
 links:
   - type: refines
     target: STK-92HHJV
+    confirmed: 260bd01800c6
 ---
 The watchdog shall switch access tokens for up to 8 zones.
 

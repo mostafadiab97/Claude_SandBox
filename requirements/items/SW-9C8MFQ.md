@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-7THG7S
+    confirmed: c2a2db34ec62
 ---
 The zone valve shall store energy consumption in all supported languages.
 

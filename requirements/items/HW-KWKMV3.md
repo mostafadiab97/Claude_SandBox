@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: HW-5MYM08
+    confirmed: 9c1a62832e51
 ---
 The OTA server shall report error conditions without user interaction.

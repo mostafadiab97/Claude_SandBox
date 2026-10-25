@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-HPTWPJ
+    confirmed: 6bd5090baffa
 ---
 The power supply shall encrypt firmware images at least once per minute.
 

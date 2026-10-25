@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-9C8MFQ
+    confirmed: 6c2ce4814808
 ---
 The zone valve shall calibrate safety limits within 200 ms.
 

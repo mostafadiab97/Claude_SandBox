@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: IF-HY881D
+    confirmed: d47c5a3e2dee
 ---
 The login screen shall notify sensor readings when the network is unavailable.
 

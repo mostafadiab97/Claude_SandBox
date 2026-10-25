@@ -12,6 +12,7 @@ order: 60
 links:
   - type: verifies
     target: SYS-5RDA7K
+    confirmed: 0b455862f511
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

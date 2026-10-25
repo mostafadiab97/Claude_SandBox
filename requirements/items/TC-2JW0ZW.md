@@ -12,6 +12,7 @@ order: 1440
 links:
   - type: verifies
     target: SYS-CG6CRR
+    confirmed: 221cd3163355
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-VJF36E
+    confirmed: 54c7b8c371d8
 ---
 The power supply shall log relay events for up to 8 zones.
 

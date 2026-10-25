@@ -10,8 +10,10 @@ order: 800
 links:
   - type: refines
     target: STK-22X165
+    confirmed: 0023c9af8e7d
   - type: mitigates
     target: RSK-BXA4VK
+    confirmed: d0a719026938
 ---
 The Wi-Fi module shall switch energy consumption without user interaction.
 

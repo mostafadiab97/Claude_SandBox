@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-1SK52W
+    confirmed: 27622b3cf4f9
 ---
 The backlight shall calibrate error conditions below 0.5 W in standby.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-2XXCCW
+    confirmed: 8a24cf881fb1
 ---
 The encryption layer shall detect user preferences when the network is unavailable.
 

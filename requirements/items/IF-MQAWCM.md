@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-V7ZK4B
+    confirmed: d3ae0a8a942d
 ---
 The watchdog shall display schedule entries within 200 ms.

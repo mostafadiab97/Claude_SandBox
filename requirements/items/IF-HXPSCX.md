@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: IF-XCRKCM
+    confirmed: bc0b40d8b7c4
 ---
 The power supply shall calibrate the room temperature for up to 8 zones.
 

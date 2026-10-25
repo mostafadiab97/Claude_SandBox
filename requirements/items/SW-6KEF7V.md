@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-WNF4KZ
+    confirmed: 7e6ec97a0ef2
 ---
 The heating controller shall restore energy consumption below 0.5 W in standby.
 

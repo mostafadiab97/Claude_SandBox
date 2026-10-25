@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-1BABK1
+    confirmed: 2abcea762c88
 ---
 The pairing process shall notify relay events for at least 10 years.

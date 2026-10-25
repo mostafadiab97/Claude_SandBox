@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-86M86S
+    confirmed: 23c501ae6063
 ---
 Implemented in `src/safe/over-temperature_monitor.c`.

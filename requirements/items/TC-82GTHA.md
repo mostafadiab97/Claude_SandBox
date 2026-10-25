@@ -12,8 +12,10 @@ order: 1500
 links:
   - type: verifies
     target: SYS-TGB5BV
+    confirmed: efddaa3f87b9
   - type: verifies
     target: SW-W77SFQ
+    confirmed: 8731c78398b2
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

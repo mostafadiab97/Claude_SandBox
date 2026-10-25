@@ -12,6 +12,7 @@ order: 1220
 links:
   - type: refines
     target: STK-JFBQPS
+    confirmed: 5027ee1822eb
 ---
 The user account service shall log the connection state when the network is unavailable.
 

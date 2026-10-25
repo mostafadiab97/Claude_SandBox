@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-0W57FW
+    confirmed: e1266f4ab489
 ---
 The Wi-Fi module shall encrypt access tokens using AES-256-GCM.
 

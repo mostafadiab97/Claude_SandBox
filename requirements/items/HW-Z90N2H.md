@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: HW-PKHA8W
+    confirmed: f7cf557f4076
 ---
 The user account service shall store the connection state in all supported languages.

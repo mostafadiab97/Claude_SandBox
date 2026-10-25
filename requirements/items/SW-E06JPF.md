@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-5P6H4R
+    confirmed: db65368aad26
 ---
 The schedule editor shall switch access tokens for up to 8 zones.
 

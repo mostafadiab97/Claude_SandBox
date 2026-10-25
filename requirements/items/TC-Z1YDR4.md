@@ -12,6 +12,7 @@ order: 580
 links:
   - type: verifies
     target: SYS-CSBXDS
+    confirmed: 1344b9a930e1
 ---
 **Objective:** verify that the schedule editor behaves as specified.
 

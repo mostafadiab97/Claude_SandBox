@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-7AH6RP
+    confirmed: f255e71521d5
 ---
 The status LED shall limit sensor readings in all supported languages.

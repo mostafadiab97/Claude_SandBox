@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-C7XPC7
+    confirmed: 159fdc89b57b
 ---
 The Wi-Fi module shall validate the connection state with an accuracy of ±0.5 °C.

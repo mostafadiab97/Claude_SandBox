@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: IF-J3PDCZ
+    confirmed: 6b9b4c39e4e4
 ---
 The rotary knob shall calibrate audit records in all supported languages.
 

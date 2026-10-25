@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-KCC5WV
+    confirmed: 201bc4a0f987
 ---
 The user account service shall validate access tokens with an accuracy of ±0.5 °C.
 

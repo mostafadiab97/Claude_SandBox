@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-HGM9BS
+    confirmed: e9e572deb541
 ---
 The device registry shall display schedule entries at least once per minute.

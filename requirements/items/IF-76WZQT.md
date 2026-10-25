@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-5CXE8W
+    confirmed: 36aae11cfefa
 ---
 The telemetry pipeline shall synchronise relay events for at least 10 years.
 

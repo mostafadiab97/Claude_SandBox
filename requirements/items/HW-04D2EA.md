@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-CEFJX7
+    confirmed: fadbb8266e08
 ---
 The relay board shall synchronise schedule entries when the network is unavailable.
 

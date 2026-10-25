@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-2GYDBD
+    confirmed: 16a1100da795
 ---
 The Wi-Fi module shall measure audit records when the network is unavailable.
 

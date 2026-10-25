@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-749A38
+    confirmed: a8274ea6218e
 ---
 The Wi-Fi module shall store error conditions using AES-256-GCM.
 

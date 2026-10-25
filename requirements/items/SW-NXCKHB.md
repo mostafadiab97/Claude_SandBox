@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-JKF1QX
+    confirmed: ff14b57eee23
 ---
 The encryption layer shall measure the connection state using AES-256-GCM.
 

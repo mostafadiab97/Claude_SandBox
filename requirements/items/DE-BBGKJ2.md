@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-8MTYX9
+    confirmed: fcb17ef9418b
 ---
 Implemented in `src/conn/Zigbee_radio.c`.

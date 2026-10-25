@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-MRWK2M
+    confirmed: 073ddd643d0d
 ---
 The user account service shall measure access tokens at least once per minute.
 

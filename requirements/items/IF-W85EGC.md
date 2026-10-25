@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-2DDRXN
+    confirmed: d04aca7ea491
 ---
 The relay board shall detect energy consumption in all supported languages.
 

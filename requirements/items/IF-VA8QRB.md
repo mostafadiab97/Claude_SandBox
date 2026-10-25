@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-A02XBZ
+    confirmed: a8363ba9fa7b
 ---
 The heating controller shall measure the operating mode in all supported languages.

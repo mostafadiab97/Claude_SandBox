@@ -13,6 +13,7 @@ order: 1130
 links:
   - type: refines
     target: STK-HBX3YS
+    confirmed: b42a2f94d25d
 ---
 The login screen shall restore firmware images with an accuracy of ±0.5 °C.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-6CT381
+    confirmed: cb9aa6a7b060
 ---
 The heating controller shall detect error conditions with an accuracy of ±0.5 °C.
 

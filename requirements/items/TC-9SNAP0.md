@@ -13,6 +13,7 @@ order: 1210
 links:
   - type: verifies
     target: SYS-75ZSGD
+    confirmed: 58f0d670cbc1
 ---
 **Objective:** verify that the device behaves as specified.
 

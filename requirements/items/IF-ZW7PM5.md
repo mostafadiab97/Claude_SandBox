@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-12Y20P
+    confirmed: 83d1b44e122c
 ---
 The encryption layer shall display audit records using AES-256-GCM.
 

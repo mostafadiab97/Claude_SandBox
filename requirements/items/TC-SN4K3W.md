@@ -12,6 +12,7 @@ order: 1080
 links:
   - type: verifies
     target: SYS-RBHXPF
+    confirmed: efa36830708b
 ---
 **Objective:** verify that the backlight behaves as specified.
 

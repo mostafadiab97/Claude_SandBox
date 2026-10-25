@@ -9,6 +9,7 @@ order: 40
 links:
   - type: refines
     target: SYS-ZM1TJV
+    confirmed: d30e404e164e
 ---
 The mobile app shall detect access tokens below 0.5 W in standby.
 

@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-FKQRCB
+    confirmed: 52eaba4960b1
 ---
 The boiler interface shall measure the set point using AES-256-GCM.

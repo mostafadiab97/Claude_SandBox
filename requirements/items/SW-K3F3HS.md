@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-KMZ032
+    confirmed: 604e69a0125a
 ---
 The menu system shall display audit records without user interaction.
 

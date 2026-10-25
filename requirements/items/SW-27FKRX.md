@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-KCYXE8
+    confirmed: 408bfd180337
 ---
 The Bluetooth LE link shall validate the set point in under 3 s.
 

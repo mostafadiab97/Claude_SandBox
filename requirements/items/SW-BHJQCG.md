@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-DTDMRC
+    confirmed: 001ab42cb872
 ---
 The status LED shall synchronise relay events with an accuracy of ±0.5 °C.
 

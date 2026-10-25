@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-8YEDPY
+    confirmed: e644a201b177
 ---
 The menu system shall measure energy consumption in all supported languages.
 

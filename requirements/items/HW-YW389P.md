@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-90Z9AA
+    confirmed: fe1a440a5bde
 ---
 The schedule editor shall encrypt the set point after a power loss.

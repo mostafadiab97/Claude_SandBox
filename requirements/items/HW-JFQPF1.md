@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-ZM6XAB
+    confirmed: c51c3d1319da
 ---
 The pairing process shall display access tokens at least once per minute.

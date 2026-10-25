@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-F1Q0NC
+    confirmed: dba1136682fd
 ---
 The zone valve shall switch schedule entries using AES-256-GCM.
 

@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-AFXTVK
+    confirmed: f28f5499c8de
 ---
 The local API shall display schedule entries with an accuracy of ±0.5 °C.
 

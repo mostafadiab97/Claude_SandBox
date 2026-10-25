@@ -9,6 +9,7 @@ order: 680
 links:
   - type: verifies
     target: SYS-04PZ39
+    confirmed: ba731e9e2cc5
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-28RZAE
+    confirmed: 758de3e92df3
 ---
 The Zigbee radio shall log error conditions when the network is unavailable.

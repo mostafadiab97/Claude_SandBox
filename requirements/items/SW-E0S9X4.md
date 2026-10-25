@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-66NFPS
+    confirmed: c345a9cbc34b
 ---
 The pairing process shall validate schedule entries within 200 ms.
 

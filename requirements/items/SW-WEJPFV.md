@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-B8BCQN
+    confirmed: 2a3d9dbc24b6
 ---
 The menu system shall switch the set point at least once per minute.

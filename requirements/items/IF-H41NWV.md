@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-VCWYNC
+    confirmed: 331a2e47ec5b
 ---
 The enclosure shall switch relay events with an accuracy of ±0.5 °C.
 

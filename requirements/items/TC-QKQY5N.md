@@ -12,8 +12,10 @@ order: 910
 links:
   - type: verifies
     target: SYS-D5BE23
+    confirmed: 909e2792e686
   - type: verifies
     target: SW-JQFSRA
+    confirmed: 6fff5afcb2fa
 ---
 **Objective:** verify that the status LED behaves as specified.
 

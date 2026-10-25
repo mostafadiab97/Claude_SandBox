@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SW-K62ZM0
+    confirmed: adedde49ac5c
 ---
 The heat pump driver shall display the connection state after a power loss.

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-1GR7M6
+    confirmed: ccffd7b9a5e5
 ---
 The Wi-Fi module shall detect energy consumption when the network is unavailable.
 

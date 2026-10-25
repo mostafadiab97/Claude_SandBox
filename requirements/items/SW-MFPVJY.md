@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-R2FDWQ
+    confirmed: 08d5a1fe5a7b
 ---
 The schedule editor shall notify the operating mode below 0.5 W in standby.
 

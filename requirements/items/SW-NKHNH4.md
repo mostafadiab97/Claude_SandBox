@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SW-MX7TQD
+    confirmed: 22def05f9849
 ---
 The encryption layer shall report user preferences in all supported languages.

@@ -10,6 +10,7 @@ order: 880
 links:
   - type: verifies
     target: SYS-VGDQPF
+    confirmed: 3d1d8edc4849
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.
 

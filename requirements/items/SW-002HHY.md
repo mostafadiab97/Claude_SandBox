@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-2VEPK9
+    confirmed: a7e58f20b1a5
 ---
 The pairing process shall authenticate access tokens in under 3 s.
 

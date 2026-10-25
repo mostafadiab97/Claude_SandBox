@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-N3WYBE
+    confirmed: 7445dfc2f902
 ---
 The local API shall limit the room temperature after a power loss.
 

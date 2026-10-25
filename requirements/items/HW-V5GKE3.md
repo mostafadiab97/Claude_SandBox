@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-BGBCA1
+    confirmed: 9336011838ef
 ---
 The home dashboard shall synchronise the room temperature after a power loss.
 

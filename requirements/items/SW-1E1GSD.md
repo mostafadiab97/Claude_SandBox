@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-4P595V
+    confirmed: a1c29b0d37be
 ---
 The regulation loop shall authenticate energy consumption using AES-256-GCM.
 

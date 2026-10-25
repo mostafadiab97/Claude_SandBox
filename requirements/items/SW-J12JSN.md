@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-9YBZ5V
+    confirmed: 50bd568ec960
 ---
 The rotary knob shall store access tokens in all supported languages.
 

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-C3RKXE
+    confirmed: 4c2aa84ed807
 ---
 The watchdog shall switch error conditions with an accuracy of ±0.5 °C.
 

@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: HW-YDVBBM
+    confirmed: 89fde55c35e5
 ---
 The secure boot shall log firmware images with an accuracy of ±0.5 °C.
 

@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-PDF1CD
+    confirmed: ba0d0f689c55
 ---
 The home dashboard shall limit the set point using AES-256-GCM.
 

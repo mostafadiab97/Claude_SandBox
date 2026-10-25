@@ -13,5 +13,6 @@ order: 420
 links:
   - type: refines
     target: STK-XZPKF8
+    confirmed: f082d5e65a7a
 ---
 The rotary knob shall store schedule entries within 200 ms.

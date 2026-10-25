@@ -13,6 +13,7 @@ order: 950
 links:
   - type: refines
     target: STK-G2ZBHW
+    confirmed: fee0d3303478
 ---
 The pairing process shall limit audit records without user interaction.
 

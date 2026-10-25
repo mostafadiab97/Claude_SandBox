@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-PBKX7W
+    confirmed: a53b6550389e
 ---
 The Zigbee radio shall synchronise the room temperature with an accuracy of ±0.5 °C.

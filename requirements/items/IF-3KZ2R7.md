@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-NX7FXR
+    confirmed: 409a2a77cfee
 ---
 The user account service shall calibrate the connection state below 0.5 W in standby.
 

@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-29G535
+    confirmed: 68b37681cbe6
 ---
 The home dashboard shall detect user preferences below 0.5 W in standby.

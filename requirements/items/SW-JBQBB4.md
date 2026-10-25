@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-Y33EQ3
+    confirmed: 06b5de7a3ad6
 ---
 The zone valve shall notify humidity values when the network is unavailable.
 

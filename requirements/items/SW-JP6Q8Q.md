@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-8RS5SX
+    confirmed: 46ee13bca2b0
 ---
 The OTA server shall detect schedule entries for up to 8 zones.
 

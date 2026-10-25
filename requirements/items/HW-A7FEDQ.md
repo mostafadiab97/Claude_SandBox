@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-47V3JP
+    confirmed: db2ec1ff8599
 ---
 The over-temperature monitor shall limit the connection state after a power loss.
 

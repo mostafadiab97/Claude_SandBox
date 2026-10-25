@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-Z8KR4V
+    confirmed: 1c2113fd4d52
 ---
 The encryption layer shall notify firmware images in all supported languages.

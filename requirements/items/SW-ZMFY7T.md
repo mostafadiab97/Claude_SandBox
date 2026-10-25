@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XB38HS
+    confirmed: 51d064ca7d2a
 ---
 The notification service shall measure safety limits for at least 10 years.
 

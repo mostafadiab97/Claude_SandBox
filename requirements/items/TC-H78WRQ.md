@@ -14,6 +14,7 @@ order: 1050
 links:
   - type: verifies
     target: SYS-WZPXT3
+    confirmed: 758f34cfcd04
 ---
 **Objective:** verify that the schedule editor behaves as specified.
 

@@ -10,8 +10,10 @@ order: 410
 links:
   - type: verifies
     target: SYS-RDQ73V
+    confirmed: 2791d2fc7833
   - type: verifies
     target: SW-59CZVX
+    confirmed: 01bd5099102e
 ---
 **Objective:** verify that the touch display behaves as specified.
 

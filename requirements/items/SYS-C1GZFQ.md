@@ -12,6 +12,7 @@ order: 1550
 links:
   - type: refines
     target: STK-XSQC89
+    confirmed: 66c246d6b1dc
 ---
 The encryption layer shall synchronise user preferences for up to 8 zones.
 

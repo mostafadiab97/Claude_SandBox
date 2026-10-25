@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-9DX8M6
+    confirmed: f35cddf50d67
 ---
 The boiler interface shall detect energy consumption after a power loss.
 

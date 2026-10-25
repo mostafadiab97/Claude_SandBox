@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-CTHBXS
+    confirmed: 3b681104b057
 ---
 The heat pump driver shall detect energy consumption without user interaction.
 

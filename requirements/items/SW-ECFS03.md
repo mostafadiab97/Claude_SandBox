@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-970YNT
+    confirmed: dd3cd885e5b3
 ---
 The schedule editor shall log the operating mode when the network is unavailable.
 

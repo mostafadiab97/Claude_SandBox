@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-MRYHNM
+    confirmed: 82b2ddf90cf3
 ---
 The watchdog shall limit sensor readings in under 3 s.
 

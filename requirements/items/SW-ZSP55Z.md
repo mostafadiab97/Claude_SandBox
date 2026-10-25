@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-YNMS62
+    confirmed: 2d4e395bd4fc
 ---
 The home dashboard shall notify firmware images when the network is unavailable.
 

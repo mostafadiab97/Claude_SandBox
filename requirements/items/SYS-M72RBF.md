@@ -10,5 +10,6 @@ order: 150
 links:
   - type: refines
     target: STK-MC9ASH
+    confirmed: a4f2ebaecfbe
 ---
 The home dashboard shall report schedule entries below 0.5 W in standby.

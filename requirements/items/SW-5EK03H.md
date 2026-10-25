@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-FHREYK
+    confirmed: 23e20a9811b4
 ---
 The OTA server shall switch the set point using AES-256-GCM.
 

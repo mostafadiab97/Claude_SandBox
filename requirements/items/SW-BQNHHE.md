@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-YP5HHR
+    confirmed: db11b7ac541a
 ---
 The watchdog shall calibrate schedule entries using AES-256-GCM.

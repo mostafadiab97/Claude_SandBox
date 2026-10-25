@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-FMVZ4N
+    confirmed: 64d198139b67
 ---
 The over-temperature monitor shall validate audit records after a power loss.
 

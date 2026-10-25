@@ -10,6 +10,7 @@ order: 500
 links:
   - type: refines
     target: STK-BSSZ8Z
+    confirmed: eb15999e37f0
 ---
 The touch display shall synchronise audit records with an accuracy of ±0.5 °C.
 

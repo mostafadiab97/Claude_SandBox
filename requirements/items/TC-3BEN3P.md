@@ -14,6 +14,7 @@ order: 230
 links:
   - type: verifies
     target: SYS-849P26
+    confirmed: 4fcdac202dc1
 ---
 **Objective:** verify that the zone valve behaves as specified.
 

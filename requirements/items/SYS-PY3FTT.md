@@ -11,6 +11,7 @@ order: 570
 links:
   - type: refines
     target: STK-BV5YMS
+    confirmed: 07434b0b5615
 ---
 The status LED shall limit safety limits within 200 ms.
 

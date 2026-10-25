@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-Z1R41Y
+    confirmed: a9d6063a6808
 ---
 The zone valve shall report schedule entries when the network is unavailable.
 

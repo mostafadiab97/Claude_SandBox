@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-2B2EJW
+    confirmed: 78ce8d4f744f
 ---
 The menu system shall limit the connection state below 0.5 W in standby.
 

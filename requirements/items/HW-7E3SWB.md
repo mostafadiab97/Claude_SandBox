@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-J06B7Z
+    confirmed: 2ddf44dea71d
 ---
 The menu system shall notify audit records for at least 10 years.
 

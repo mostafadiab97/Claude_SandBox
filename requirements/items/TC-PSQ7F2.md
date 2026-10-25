@@ -13,6 +13,7 @@ order: 1480
 links:
   - type: verifies
     target: SYS-PG0K3E
+    confirmed: 2c023351a960
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

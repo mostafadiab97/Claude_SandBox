@@ -10,7 +10,9 @@ order: 1800
 links:
   - type: refines
     target: STK-JBY2BX
+    confirmed: bcce6e51beb4
   - type: mitigates
     target: RSK-QEHK9Y
+    confirmed: bdb182195008
 ---
 The watchdog shall report sensor readings in all supported languages.

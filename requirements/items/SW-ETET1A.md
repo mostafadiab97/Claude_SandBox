@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-J91SN0
+    confirmed: d00f5b664898
 ---
 The heating controller shall measure the set point using AES-256-GCM.

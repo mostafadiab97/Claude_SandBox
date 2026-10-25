@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-WEYZAK
+    confirmed: 7b40fcf8dbb4
 ---
 The backlight shall switch firmware images without user interaction.
 

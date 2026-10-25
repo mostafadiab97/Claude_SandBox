@@ -10,6 +10,7 @@ order: 1500
 links:
   - type: verifies
     target: SYS-3JQGM8
+    confirmed: 9748f881870f
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

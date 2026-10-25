@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-TE4YGF
+    confirmed: 7a16860169f9
 ---
 The schedule editor shall limit access tokens with an accuracy of ±0.5 °C.
 

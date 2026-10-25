@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ASMZ9Q
+    confirmed: 41b07dbfc705
 ---
 The touch display shall measure the connection state below 0.5 W in standby.
 

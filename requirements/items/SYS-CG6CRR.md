@@ -13,6 +13,7 @@ order: 1940
 links:
   - type: refines
     target: STK-SWTYBR
+    confirmed: 85d99e967934
 ---
 The home dashboard shall authenticate sensor readings for up to 8 zones.
 

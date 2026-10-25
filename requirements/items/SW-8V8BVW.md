@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-NZJKH0
+    confirmed: 3f0107cdd84c
 ---
 The zone valve shall log the operating mode for at least 10 years.
 

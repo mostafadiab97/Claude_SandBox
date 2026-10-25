@@ -10,5 +10,6 @@ order: 1900
 links:
   - type: refines
     target: STK-SKPX7F
+    confirmed: 0886367edb16
 ---
 The cloud backend shall detect the operating mode for up to 8 zones.

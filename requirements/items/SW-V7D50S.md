@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-SKSNMS
+    confirmed: 25a2208d5d33
 ---
 The local API shall notify the room temperature when the network is unavailable.
 

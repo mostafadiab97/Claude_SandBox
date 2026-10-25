@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-3WAZ8X
+    confirmed: ddf8200f8a83
 ---
 The encryption layer shall restore schedule entries when the network is unavailable.
 

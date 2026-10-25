@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-T8M3T5
+    confirmed: 6f66a4941544
 ---
 The over-temperature monitor shall synchronise sensor readings within 200 ms.
 

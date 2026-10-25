@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-TBMHFP
+    confirmed: 3fb5dcfbeb2a
 ---
 The OTA server shall notify the set point for at least 10 years.

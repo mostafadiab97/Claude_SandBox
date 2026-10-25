@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-X1DW4B
+    confirmed: ac324fd128ba
 ---
 The pairing process shall restore humidity values for up to 8 zones.
 

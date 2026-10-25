@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-RAASTZ
+    confirmed: 6b0c923b5313
 ---
 The OTA server shall authenticate the operating mode in under 3 s.
 

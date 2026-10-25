@@ -11,8 +11,10 @@ order: 1610
 links:
   - type: verifies
     target: SYS-27ZRZ6
+    confirmed: 2208a37cfcbe
   - type: verifies
     target: SW-EPA3J6
+    confirmed: 2dee49b460da
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

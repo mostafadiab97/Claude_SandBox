@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: IF-TQ9VCD
+    confirmed: 8818c2abe5e5
 ---
 The menu system shall switch energy consumption in all supported languages.

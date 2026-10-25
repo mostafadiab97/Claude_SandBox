@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-TYCMRT
+    confirmed: cd494a5f904a
 ---
 The status LED shall display relay events for at least 10 years.
 

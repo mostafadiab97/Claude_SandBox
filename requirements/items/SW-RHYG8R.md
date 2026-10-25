@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SYS-3JQGM8
+    confirmed: 9748f881870f
 ---
 The encryption layer shall restore the operating mode when the network is unavailable.

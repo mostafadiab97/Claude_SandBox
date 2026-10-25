@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-7RX5NN
+    confirmed: 076f07709938
 ---
 The schedule editor shall measure energy consumption without user interaction.
 

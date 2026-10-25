@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-HZRAQ2
+    confirmed: 67e08d743ee6
 ---
 The heating controller shall display error conditions at least once per minute.
 

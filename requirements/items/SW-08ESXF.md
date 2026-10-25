@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-S18QCP
+    confirmed: 73e58aae87f1
 ---
 The touch display shall synchronise humidity values at least once per minute.
 

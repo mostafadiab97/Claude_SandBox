@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: HW-499EP6
+    confirmed: cefd4d7fbd36
 ---
 The relay board shall limit energy consumption after a power loss.

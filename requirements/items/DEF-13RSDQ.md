@@ -10,8 +10,10 @@ order: 40
 links:
   - type: relates-to
     target: TC-78BAHG
+    confirmed: 31ad518043d5
   - type: relates-to
     target: SYS-W3VB1X
+    confirmed: 0b387183e7b1
 ---
 Found during regression testing of build 2.0.13.
 

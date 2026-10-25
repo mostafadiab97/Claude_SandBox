@@ -12,8 +12,10 @@ order: 540
 links:
   - type: refines
     target: STK-JFBQPS
+    confirmed: 5027ee1822eb
   - type: mitigates
     target: RSK-HKANA4
+    confirmed: dc7034353f37
 ---
 The OTA server shall authenticate relay events for at least 10 years.
 

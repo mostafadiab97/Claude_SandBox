@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-S0ZBTB
+    confirmed: 6e7d4ad625e8
 ---
 The Bluetooth LE link shall store relay events when the network is unavailable.
 

@@ -12,6 +12,7 @@ order: 150
 links:
   - type: verifies
     target: SYS-ZWGKMZ
+    confirmed: de491092c347
 ---
 **Objective:** verify that the menu system behaves as specified.
 

@@ -9,8 +9,10 @@ order: 1020
 links:
   - type: verifies
     target: SYS-N56168
+    confirmed: a37e51579246
   - type: verifies
     target: SW-65YC2Z
+    confirmed: a23609dd7210
 ---
 **Objective:** verify that the relay board behaves as specified.
 

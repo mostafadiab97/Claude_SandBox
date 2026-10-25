@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-B0ZR00
+    confirmed: c96720884726
 ---
 The menu system shall measure humidity values with an accuracy of ±0.5 °C.

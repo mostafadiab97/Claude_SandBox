@@ -12,6 +12,7 @@ order: 530
 links:
   - type: refines
     target: STK-G2ZBHW
+    confirmed: fee0d3303478
 ---
 The Bluetooth LE link shall detect the operating mode below 0.5 W in standby.
 

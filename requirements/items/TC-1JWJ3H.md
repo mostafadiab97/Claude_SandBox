@@ -12,6 +12,7 @@ order: 540
 links:
   - type: verifies
     target: SYS-YX6EBV
+    confirmed: d90c022122ab
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

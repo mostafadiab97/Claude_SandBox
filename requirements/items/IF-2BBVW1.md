@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-DPJW7W
+    confirmed: 011bc9e01fc2
 ---
 The encryption layer shall store safety limits within 200 ms.
 

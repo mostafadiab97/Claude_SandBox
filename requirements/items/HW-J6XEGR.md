@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-JHZTBB
+    confirmed: a18fdffef991
 ---
 The backlight shall report the operating mode for at least 10 years.
 

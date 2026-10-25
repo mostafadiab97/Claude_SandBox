@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-NVKX9K
+    confirmed: 720362ab5cfe
 ---
 The over-temperature monitor shall notify humidity values in all supported languages.
 

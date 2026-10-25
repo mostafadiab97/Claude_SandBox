@@ -12,6 +12,7 @@ order: 70
 links:
   - type: refines
     target: STK-BSSZ8Z
+    confirmed: eb15999e37f0
 ---
 The backlight shall restore the set point without user interaction.
 

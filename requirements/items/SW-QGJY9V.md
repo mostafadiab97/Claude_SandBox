@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-EN3YXQ
+    confirmed: 1e489c983669
 ---
 The schedule editor shall notify energy consumption when the network is unavailable.
 

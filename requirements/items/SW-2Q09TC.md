@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-92Z3JT
+    confirmed: ce0b3aa51799
 ---
 The notification service shall report relay events for up to 8 zones.

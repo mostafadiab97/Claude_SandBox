@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XKACBR
+    confirmed: aaffd1e53d20
 ---
 The Bluetooth LE link shall validate the operating mode for up to 8 zones.
 

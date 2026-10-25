@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-TYCMRT
+    confirmed: cd494a5f904a
 ---
 The status LED shall measure the set point for at least 10 years.
 

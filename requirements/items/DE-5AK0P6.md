@@ -10,5 +10,6 @@ order: 20
 links:
   - type: implements
     target: SW-QWPBFA
+    confirmed: 9176e64ec4e9
 ---
 Implemented in `src/ui/menu_system.c`.

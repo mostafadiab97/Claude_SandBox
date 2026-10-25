@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-37CSVM
+    confirmed: c35d42070911
 ---
 The zone valve shall detect error conditions in under 3 s.

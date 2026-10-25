@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7ECC65
+    confirmed: d20f7028dc77
 ---
 The over-temperature monitor shall measure humidity values for up to 8 zones.
 

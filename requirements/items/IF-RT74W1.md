@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-AXR87X
+    confirmed: 4959dec1f97d
 ---
 The notification service shall calibrate safety limits within 200 ms.

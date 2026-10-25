@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-RP446Q
+    confirmed: 17c94a8ac671
 ---
 The relay board shall switch access tokens without user interaction.
 

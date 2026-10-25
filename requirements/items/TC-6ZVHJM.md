@@ -9,8 +9,10 @@ order: 1120
 links:
   - type: verifies
     target: SYS-GPZ86P
+    confirmed: 29497feac15d
   - type: verifies
     target: SW-15A8A3
+    confirmed: cc248766ef79
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

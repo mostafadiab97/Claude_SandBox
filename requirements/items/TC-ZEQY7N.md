@@ -10,6 +10,7 @@ order: 1370
 links:
   - type: verifies
     target: SYS-48BXDV
+    confirmed: b17b907e6406
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

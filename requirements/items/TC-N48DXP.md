@@ -12,6 +12,7 @@ order: 940
 links:
   - type: verifies
     target: SYS-VG4CAX
+    confirmed: a7c55f8eb200
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

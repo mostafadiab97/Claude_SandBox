@@ -12,8 +12,10 @@ order: 1250
 links:
   - type: refines
     target: STK-F7D2QS
+    confirmed: bd8a3050a12b
   - type: mitigates
     target: RSK-W4Q53T
+    confirmed: d200c399f368
 ---
 The Bluetooth LE link shall log access tokens when the network is unavailable.
 

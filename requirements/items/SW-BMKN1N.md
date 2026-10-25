@@ -9,5 +9,6 @@ order: 40
 links:
   - type: refines
     target: SYS-7N5VV8
+    confirmed: 995bbbab086c
 ---
 The secure boot shall detect relay events within 200 ms.

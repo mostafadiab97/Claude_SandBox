@@ -11,6 +11,7 @@ order: 1840
 links:
   - type: refines
     target: STK-G2ZBHW
+    confirmed: 732d30096e0a
 ---
 The pairing process shall encrypt sensor readings without user interaction.
 

@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-DNKAZZ
+    confirmed: 22452286eeb7
 ---
 The local API shall calibrate humidity values without user interaction.
 

@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-4WB58V
+    confirmed: 328c59c5e6fa
 ---
 The tamper detection shall switch the set point below 0.5 W in standby.

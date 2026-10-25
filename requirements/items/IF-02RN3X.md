@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: IF-KB859S
+    confirmed: 14adbfa289aa
 ---
 The heating controller shall encrypt user preferences without user interaction.
 

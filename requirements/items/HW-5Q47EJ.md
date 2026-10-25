@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-12P0BS
+    confirmed: d8b351a5c8e8
 ---
 The cloud backend shall detect schedule entries when the network is unavailable.

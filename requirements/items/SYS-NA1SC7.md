@@ -13,6 +13,7 @@ order: 1900
 links:
   - type: refines
     target: STK-G2H1B9
+    confirmed: fce33b342585
 ---
 The encryption layer shall detect access tokens for at least 10 years.
 

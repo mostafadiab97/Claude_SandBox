@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-DT07VH
+    confirmed: 3a34a02e68b2
 ---
 The Zigbee radio shall notify safety limits when the network is unavailable.
 

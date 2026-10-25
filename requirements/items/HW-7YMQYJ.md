@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-6MTAQR
+    confirmed: 76300eb27743
 ---
 The device registry shall synchronise the operating mode with an accuracy of ±0.5 °C.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-ZH89V8
+    confirmed: 777482c845de
 ---
 The pairing process shall calibrate user preferences after a power loss.
 

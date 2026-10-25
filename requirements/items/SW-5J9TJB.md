@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-6Y9Q4D
+    confirmed: 5a23702d2e9c
 ---
 The secure boot shall switch humidity values for at least 10 years.
 

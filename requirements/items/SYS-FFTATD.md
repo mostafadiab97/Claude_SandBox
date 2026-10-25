@@ -10,6 +10,7 @@ order: 640
 links:
   - type: refines
     target: STK-JAQHJP
+    confirmed: b0af11a5c3c2
 ---
 The main PCB shall authenticate sensor readings at least once per minute.
 

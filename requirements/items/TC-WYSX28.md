@@ -13,6 +13,7 @@ order: 1340
 links:
   - type: verifies
     target: SYS-Z6XZMX
+    confirmed: 17b58a826b61
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-K8QB7W
+    confirmed: b56f90ef8f2c
 ---
 The device registry shall report firmware images below 0.5 W in standby.

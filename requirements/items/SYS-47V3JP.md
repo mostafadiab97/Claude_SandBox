@@ -12,8 +12,10 @@ order: 1750
 links:
   - type: refines
     target: STK-DJ9M3M
+    confirmed: ba30e28a130f
   - type: mitigates
     target: RSK-MJR7PZ
+    confirmed: a67337939a06
 ---
 The over-temperature monitor shall limit firmware images for at least 10 years.
 

@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-8JRVNP
+    confirmed: 947f4568b2cf
 ---
 The encryption layer shall measure the room temperature when the network is unavailable.
 

@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-BVR9MT
+    confirmed: 4ce801427d87
 ---
 The backlight shall restore the set point within 200 ms.
 

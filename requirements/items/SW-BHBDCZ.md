@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-9QD67X
+    confirmed: c23bbc65f43c
 ---
 The tamper detection shall log the operating mode without user interaction.
 

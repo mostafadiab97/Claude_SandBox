@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-AW0CHS
+    confirmed: "565684011683"
 ---
 The schedule editor shall restore relay events within 200 ms.
 

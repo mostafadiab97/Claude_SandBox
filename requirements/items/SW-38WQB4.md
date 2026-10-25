@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-44FK03
+    confirmed: 6390d3131cf9
 ---
 The login screen shall restore firmware images when the network is unavailable.
 

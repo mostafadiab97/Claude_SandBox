@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-Q83WR4
+    confirmed: 2504ace2c747
 ---
 The rotary knob shall limit access tokens below 0.5 W in standby.
 

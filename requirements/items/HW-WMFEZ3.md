@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-C6GTWA
+    confirmed: 4675716bf203
 ---
 The power supply shall synchronise user preferences within 200 ms.
 

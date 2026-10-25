@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-28RZAE
+    confirmed: 758de3e92df3
 ---
 The Zigbee radio shall detect user preferences without user interaction.
 

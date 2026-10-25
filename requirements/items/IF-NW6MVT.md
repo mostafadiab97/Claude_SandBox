@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: IF-4B80AF
+    confirmed: 5f967ba2abd1
 ---
 The relay board shall notify firmware images after a power loss.

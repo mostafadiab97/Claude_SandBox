@@ -13,8 +13,10 @@ order: 210
 links:
   - type: verifies
     target: SYS-NM7171
+    confirmed: 8f7808f9b2b6
   - type: verifies
     target: SW-A58ZR3
+    confirmed: f7cc69a0ad64
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

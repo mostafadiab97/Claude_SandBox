@@ -10,5 +10,6 @@ order: 20
 links:
   - type: implements
     target: SW-NWQESS
+    confirmed: 02be29037617
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-CN172X
+    confirmed: 59f35a975247
 ---
 The heating controller shall validate relay events for up to 8 zones.
 

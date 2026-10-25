@@ -13,7 +13,9 @@ order: 1360
 links:
   - type: refines
     target: STK-BR4RT9
+    confirmed: 16def0c1f947
   - type: mitigates
     target: RSK-HXCNK5
+    confirmed: 6a1925fd8312
 ---
 The mobile app shall measure the connection state within 200 ms.

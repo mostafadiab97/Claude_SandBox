@@ -10,6 +10,7 @@ order: 1340
 links:
   - type: verifies
     target: SYS-RAD6T2
+    confirmed: 05d37b4e999b
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

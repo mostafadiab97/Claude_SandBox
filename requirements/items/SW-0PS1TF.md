@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-E22H2H
+    confirmed: ee4438e7f317
 ---
 The cloud backend shall synchronise the operating mode within 200 ms.

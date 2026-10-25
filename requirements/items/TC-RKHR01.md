@@ -12,6 +12,7 @@ order: 100
 links:
   - type: verifies
     target: SYS-ZM6XAB
+    confirmed: c51c3d1319da
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

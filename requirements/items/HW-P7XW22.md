@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-NYK3S8
+    confirmed: 144fa7466d8d
 ---
 The battery backup shall authenticate humidity values when the network is unavailable.
 

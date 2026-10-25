@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-C66JCG
+    confirmed: 7ce4fa00052a
 ---
 The watchdog shall validate access tokens after a power loss.
 

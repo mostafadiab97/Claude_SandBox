@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-8DRF7B
+    confirmed: a06f7408ee72
 ---
 The tamper detection shall log access tokens within 200 ms.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-FD2FZ8
+    confirmed: 4dfe758a6e2c
 ---
 The tamper detection shall detect the room temperature using AES-256-GCM.
 

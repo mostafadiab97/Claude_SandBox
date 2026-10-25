@@ -11,8 +11,10 @@ order: 330
 links:
   - type: verifies
     target: SYS-YJCK64
+    confirmed: 3cd2af5ea529
   - type: verifies
     target: SW-MJ9S9Z
+    confirmed: aac22e3eea6a
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

@@ -13,6 +13,7 @@ order: 520
 links:
   - type: verifies
     target: SYS-6VF733
+    confirmed: 2270cc937a19
 ---
 **Objective:** verify that the power supply behaves as specified.
 

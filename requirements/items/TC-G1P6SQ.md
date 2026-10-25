@@ -12,6 +12,7 @@ order: 510
 links:
   - type: verifies
     target: SYS-98SWXJ
+    confirmed: 2eaf1870cc5d
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

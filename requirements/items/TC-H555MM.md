@@ -12,6 +12,7 @@ order: 1500
 links:
   - type: verifies
     target: SYS-X20Q9Q
+    confirmed: 872e82d5e322
 ---
 **Objective:** verify that the relay board behaves as specified.
 

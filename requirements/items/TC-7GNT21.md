@@ -10,6 +10,7 @@ order: 1470
 links:
   - type: verifies
     target: SYS-BCDQHB
+    confirmed: ed0bba187a94
 ---
 **Objective:** verify that the device behaves as specified.
 

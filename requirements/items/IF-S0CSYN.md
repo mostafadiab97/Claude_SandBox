@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-NYHQ10
+    confirmed: b5c30d1397fc
 ---
 The Wi-Fi module shall store firmware images within 200 ms.
 

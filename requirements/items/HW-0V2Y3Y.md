@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-6AHW2J
+    confirmed: 688f9dd4cce6
 ---
 The power supply shall synchronise the connection state below 0.5 W in standby.
 

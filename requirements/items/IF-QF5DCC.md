@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-HAHB1Q
+    confirmed: 7a23dee59b18
 ---
 The tamper detection shall report audit records when the network is unavailable.

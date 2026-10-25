@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-BGEM84
+    confirmed: 7c077fec9862
 ---
 The tamper detection shall synchronise the operating mode at least once per minute.

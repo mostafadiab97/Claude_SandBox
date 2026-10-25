@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-DVK0ST
+    confirmed: "123689018215"
 ---
 The menu system shall synchronise firmware images using AES-256-GCM.

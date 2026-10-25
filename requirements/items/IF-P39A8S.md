@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: IF-FC8RPG
+    confirmed: 465b3cccbf00
 ---
 The Wi-Fi module shall detect the room temperature in all supported languages.

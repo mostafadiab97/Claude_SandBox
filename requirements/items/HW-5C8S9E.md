@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-SHYKYB
+    confirmed: f20d7ce12304
 ---
 The battery backup shall validate the room temperature using AES-256-GCM.
 

@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-2GGEKP
+    confirmed: ff7115bba8a5
 ---
 The Zigbee radio shall notify the operating mode within 200 ms.
 

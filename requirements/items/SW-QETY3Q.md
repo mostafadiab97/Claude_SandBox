@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-NABSM9
+    confirmed: a779090583de
 ---
 The local API shall store sensor readings at least once per minute.
 

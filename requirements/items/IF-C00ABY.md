@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-59QMSN
+    confirmed: 261ae2911413
 ---
 The device registry shall report schedule entries when the network is unavailable.
 

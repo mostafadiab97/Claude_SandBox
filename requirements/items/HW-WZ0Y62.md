@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-GCSJ6X
+    confirmed: bc98a50160a3
 ---
 The regulation loop shall detect error conditions with an accuracy of ±0.5 °C.

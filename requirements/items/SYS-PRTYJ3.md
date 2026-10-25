@@ -14,8 +14,10 @@ order: 890
 links:
   - type: refines
     target: STK-AA05P4
+    confirmed: e2bec3bcd11c
   - type: mitigates
     target: RSK-14YSDS
+    confirmed: 0db3fa8291ee
 ---
 The heat pump driver shall limit energy consumption for at least 10 years.
 

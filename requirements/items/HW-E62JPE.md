@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-SPCMHW
+    confirmed: 0232f50fadbf
 ---
 The battery backup shall display the connection state at least once per minute.
 

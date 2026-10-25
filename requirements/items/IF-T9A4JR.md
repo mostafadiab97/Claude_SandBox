@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-NYS190
+    confirmed: ed22064137e9
 ---
 The main PCB shall notify safety limits below 0.5 W in standby.
 

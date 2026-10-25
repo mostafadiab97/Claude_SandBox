@@ -10,6 +10,7 @@ order: 340
 links:
   - type: verifies
     target: SYS-9BFVNF
+    confirmed: 36211779cc51
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

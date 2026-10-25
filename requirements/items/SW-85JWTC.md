@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-5WJBCW
+    confirmed: cd6c90a42873
 ---
 The watchdog shall switch access tokens below 0.5 W in standby.
 

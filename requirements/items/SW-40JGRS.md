@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-K8C5H7
+    confirmed: 968ca6703d93
 ---
 The heat pump driver shall switch schedule entries within 200 ms.
 

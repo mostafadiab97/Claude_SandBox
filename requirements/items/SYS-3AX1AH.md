@@ -12,6 +12,7 @@ order: 920
 links:
   - type: refines
     target: STK-M7S0HJ
+    confirmed: 000356d5d38b
 ---
 The zone valve shall synchronise energy consumption after a power loss.
 

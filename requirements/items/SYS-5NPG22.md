@@ -13,6 +13,7 @@ order: 670
 links:
   - type: refines
     target: STK-XSZSEZ
+    confirmed: 1038f4e2e9d4
 ---
 The Wi-Fi module shall store humidity values without user interaction.
 

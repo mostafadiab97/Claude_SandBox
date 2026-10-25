@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-B5N3CJ
+    confirmed: 4d1f182ba9a0
 ---
 The Wi-Fi module shall report sensor readings after a power loss.
 

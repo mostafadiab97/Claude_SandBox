@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-SWYEGM
+    confirmed: e13fd0c463a4
 ---
 The power supply shall log safety limits at least once per minute.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-5M0EN6
+    confirmed: 6b2f33a2ace5
 ---
 The regulation loop shall measure humidity values at least once per minute.
 

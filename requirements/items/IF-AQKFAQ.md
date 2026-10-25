@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-4K2HDJ
+    confirmed: 3febb67033c8
 ---
 The tamper detection shall restore the operating mode with an accuracy of ±0.5 °C.

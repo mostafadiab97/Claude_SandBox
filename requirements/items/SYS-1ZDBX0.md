@@ -12,6 +12,7 @@ order: 200
 links:
   - type: refines
     target: STK-2STGXE
+    confirmed: c77fe61daf4b
 ---
 The power supply shall notify energy consumption for up to 8 zones.
 

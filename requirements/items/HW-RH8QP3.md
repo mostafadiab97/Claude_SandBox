@@ -9,5 +9,6 @@ order: 40
 links:
   - type: refines
     target: SYS-BJEV5G
+    confirmed: c5698f4c4723
 ---
 The local API shall display access tokens without user interaction.

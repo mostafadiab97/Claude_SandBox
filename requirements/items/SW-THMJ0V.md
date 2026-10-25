@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-XJ8215
+    confirmed: 56e95d4cfbe7
 ---
 The watchdog shall detect relay events after a power loss.

@@ -10,6 +10,7 @@ order: 630
 links:
   - type: verifies
     target: SYS-HZ4B6T
+    confirmed: 238549cadf2a
 ---
 **Objective:** verify that the login screen behaves as specified.
 

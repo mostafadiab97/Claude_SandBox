@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-14BTQV
+    confirmed: 887219d0a50f
 ---
 The mobile app shall restore energy consumption below 0.5 W in standby.
 

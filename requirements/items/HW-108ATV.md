@@ -12,5 +12,6 @@ order: 40
 links:
   - type: refines
     target: SYS-BY1F6D
+    confirmed: 47a415e5df93
 ---
 The over-temperature monitor shall display sensor readings below 0.5 W in standby.

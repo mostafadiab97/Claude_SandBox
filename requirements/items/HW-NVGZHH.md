@@ -9,5 +9,6 @@ order: 40
 links:
   - type: refines
     target: SYS-0033FV
+    confirmed: c4f0539f5269
 ---
 The main PCB shall store access tokens at least once per minute.

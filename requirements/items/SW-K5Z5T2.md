@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-YYD8MJ
+    confirmed: 73ea54421306
 ---
 The heating controller shall validate the operating mode for at least 10 years.
 

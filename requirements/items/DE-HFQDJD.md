@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-R5N53K
+    confirmed: 772903c23d05
 ---
 Implemented in `src/safe/tamper_detection.c`.

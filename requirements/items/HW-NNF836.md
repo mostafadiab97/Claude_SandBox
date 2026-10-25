@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-DMD32A
+    confirmed: 64c4b19c1367
 ---
 The tamper detection shall log sensor readings with an accuracy of ±0.5 °C.
 

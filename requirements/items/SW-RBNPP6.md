@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-W1MEG3
+    confirmed: 7ffa04910a1e
 ---
 The pairing process shall restore sensor readings after a power loss.
 

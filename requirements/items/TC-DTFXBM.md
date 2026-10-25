@@ -14,6 +14,7 @@ order: 1180
 links:
   - type: verifies
     target: SYS-9W5PJ5
+    confirmed: f35119afdb2b
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

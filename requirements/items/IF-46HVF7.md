@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: IF-WGMX4W
+    confirmed: c6a987eff31c
 ---
 The pairing process shall detect sensor readings using AES-256-GCM.

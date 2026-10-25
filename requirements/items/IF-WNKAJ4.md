@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-3AX1AH
+    confirmed: 91599b187618
 ---
 The zone valve shall log error conditions within 200 ms.
 

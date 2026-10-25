@@ -10,6 +10,7 @@ order: 780
 links:
   - type: refines
     target: STK-XSQC89
+    confirmed: 66c246d6b1dc
 ---
 The watchdog shall restore firmware images below 0.5 W in standby.
 

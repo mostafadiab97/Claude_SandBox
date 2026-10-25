@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-HGM9BS
+    confirmed: e9e572deb541
 ---
 The device registry shall encrypt sensor readings at least once per minute.
 

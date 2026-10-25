@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-0AQ1WN
+    confirmed: 7e00d0c5709a
 ---
 The OTA server shall validate error conditions for at least 10 years.

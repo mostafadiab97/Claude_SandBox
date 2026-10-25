@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-C2GRZK
+    confirmed: 83098b4942a6
 ---
 The encryption layer shall calibrate the set point for at least 10 years.
 

@@ -13,8 +13,10 @@ order: 990
 links:
   - type: verifies
     target: SYS-37F447
+    confirmed: ab26978cce76
   - type: verifies
     target: SW-5P6W1P
+    confirmed: 97699e3cfebd
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

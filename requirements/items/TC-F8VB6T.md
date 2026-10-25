@@ -10,8 +10,10 @@ order: 1380
 links:
   - type: verifies
     target: SYS-3Z4RXV
+    confirmed: 6ca149f912b8
   - type: verifies
     target: SW-V860W7
+    confirmed: 56c1b62a6109
 ---
 **Objective:** verify that the backlight behaves as specified.
 

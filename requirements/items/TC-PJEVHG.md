@@ -13,6 +13,7 @@ order: 760
 links:
   - type: verifies
     target: SYS-GK9D83
+    confirmed: e117ad0083a4
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

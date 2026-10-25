@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-324HGW
+    confirmed: 827d08f24199
 ---
 The battery backup shall switch the operating mode using AES-256-GCM.

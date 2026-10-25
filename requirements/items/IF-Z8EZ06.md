@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: IF-J6HW83
+    confirmed: b1ddcf75c950
 ---
 The schedule editor shall limit the connection state in all supported languages.

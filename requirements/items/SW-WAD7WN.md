@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-B9WH28
+    confirmed: 4874e1dcb032
 ---
 The Bluetooth LE link shall restore the connection state in all supported languages.
 

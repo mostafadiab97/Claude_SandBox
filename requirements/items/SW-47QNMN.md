@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QNW27Q
+    confirmed: 560625c6b46e
 ---
 The zone valve shall notify the room temperature in under 3 s.
 

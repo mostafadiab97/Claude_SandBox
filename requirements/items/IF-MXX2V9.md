@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-77M8EH
+    confirmed: fd9c2898d69c
 ---
 The battery backup shall store safety limits in under 3 s.

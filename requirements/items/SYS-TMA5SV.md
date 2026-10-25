@@ -12,5 +12,6 @@ order: 1580
 links:
   - type: refines
     target: STK-ZJRWCQ
+    confirmed: 080168ea99ae
 ---
 The over-temperature monitor shall detect the set point in all supported languages.

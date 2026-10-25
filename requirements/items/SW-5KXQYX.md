@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-REMSS6
+    confirmed: eaad58b82e83
 ---
 The telemetry pipeline shall display sensor readings when the network is unavailable.
 

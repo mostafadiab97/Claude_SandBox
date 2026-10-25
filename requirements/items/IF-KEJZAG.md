@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-901PZX
+    confirmed: e93fd5180ace
 ---
 The enclosure shall display energy consumption within 200 ms.
 

@@ -13,8 +13,10 @@ order: 310
 links:
   - type: verifies
     target: SYS-QHMT67
+    confirmed: 77747505e6c0
   - type: verifies
     target: SW-69XCAR
+    confirmed: ca2b2e2e8bb1
 ---
 **Objective:** verify that the login screen behaves as specified.
 

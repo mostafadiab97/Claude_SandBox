@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-HN9JCX
+    confirmed: ed79de17940f
 ---
 The enclosure shall measure energy consumption for up to 8 zones.
 

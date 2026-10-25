@@ -10,6 +10,7 @@ order: 170
 links:
   - type: refines
     target: STK-M7S0HJ
+    confirmed: 000356d5d38b
 ---
 The regulation loop shall synchronise the room temperature for at least 10 years.
 

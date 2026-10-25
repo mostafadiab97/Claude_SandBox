@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XGYXWY
+    confirmed: fb88a89b54aa
 ---
 The heating controller shall restore the operating mode using AES-256-GCM.
 

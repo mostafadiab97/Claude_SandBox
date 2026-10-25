@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-7XM9Y3
+    confirmed: 948f514ebe9e
 ---
 The zone valve shall notify firmware images within 200 ms.
 

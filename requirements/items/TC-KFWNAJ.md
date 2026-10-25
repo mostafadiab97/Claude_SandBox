@@ -14,6 +14,7 @@ order: 1290
 links:
   - type: verifies
     target: SYS-BRW2HG
+    confirmed: 22a91377b933
 ---
 **Objective:** verify that the rotary knob behaves as specified.
 

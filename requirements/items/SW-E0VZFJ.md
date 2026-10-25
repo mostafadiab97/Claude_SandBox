@@ -14,5 +14,6 @@ order: 30
 links:
   - type: refines
     target: SYS-TFXCHW
+    confirmed: e2bb9e80b6f4
 ---
 The status LED shall report access tokens in under 3 s.

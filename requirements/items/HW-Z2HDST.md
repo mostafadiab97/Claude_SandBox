@@ -8,6 +8,7 @@ order: 10
 links:
   - type: refines
     target: SYS-R4K32S
+    confirmed: 5bdb17b664f3
 ---
 The power supply shall authenticate user preferences after a power loss.
 

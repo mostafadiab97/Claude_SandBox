@@ -9,6 +9,7 @@ order: 890
 links:
   - type: refines
     target: STK-BSSZ8Z
+    confirmed: eb15999e37f0
 ---
 The backlight shall calibrate audit records at least once per minute.
 

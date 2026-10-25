@@ -12,5 +12,6 @@ order: 20
 links:
   - type: implements
     target: SW-2JXWJW
+    confirmed: de8b2ae7c14f
 ---
 Implemented in `src/cloud/OTA_server.c`.

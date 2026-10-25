@@ -14,6 +14,7 @@ order: 1420
 links:
   - type: refines
     target: STK-F8MTPC
+    confirmed: bbf5b4f56657
 ---
 The notification service shall detect audit records after a power loss.
 

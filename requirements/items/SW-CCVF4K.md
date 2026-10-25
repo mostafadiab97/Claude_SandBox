@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-44SME3
+    confirmed: 63614b8be8da
 ---
 The Zigbee radio shall measure the room temperature below 0.5 W in standby.
 

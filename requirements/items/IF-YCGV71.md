@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-K5FKWP
+    confirmed: dea8dfc4c64f
 ---
 The OTA server shall notify relay events for at least 10 years.
 

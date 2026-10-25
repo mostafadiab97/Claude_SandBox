@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-S2CZRZ
+    confirmed: 9cc8d8fe0b96
 ---
 The enclosure shall authenticate the set point for at least 10 years.

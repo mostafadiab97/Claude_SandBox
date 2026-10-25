@@ -10,8 +10,10 @@ order: 400
 links:
   - type: refines
     target: STK-F7D2QS
+    confirmed: bd8a3050a12b
   - type: mitigates
     target: RSK-QP0EFZ
+    confirmed: b4372c636b9e
 ---
 The Wi-Fi module shall encrypt energy consumption within 200 ms.
 

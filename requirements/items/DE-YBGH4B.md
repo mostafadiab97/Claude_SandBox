@@ -12,5 +12,6 @@ order: 20
 links:
   - type: implements
     target: SW-XND6NA
+    confirmed: 3723711fe6d2
 ---
 Implemented in `src/ui/status_LED.c`.

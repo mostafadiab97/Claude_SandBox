@@ -10,5 +10,6 @@ order: 260
 links:
   - type: refines
     target: STK-AAZ4HV
+    confirmed: 44fc7956dbf8
 ---
 The Bluetooth LE link shall display sensor readings at least once per minute.

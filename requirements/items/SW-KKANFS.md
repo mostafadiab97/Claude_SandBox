@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-W4JX9Z
+    confirmed: 068564ed1fe1
 ---
 The Zigbee radio shall store the operating mode within 200 ms.

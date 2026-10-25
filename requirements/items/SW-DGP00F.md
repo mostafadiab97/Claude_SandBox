@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-0Z0CN7
+    confirmed: 08db9fc3bdee
 ---
 The Bluetooth LE link shall restore humidity values at least once per minute.

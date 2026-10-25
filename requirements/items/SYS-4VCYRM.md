@@ -13,7 +13,9 @@ order: 1900
 links:
   - type: refines
     target: STK-GMCKMF
+    confirmed: f47328374a2b
   - type: mitigates
     target: RSK-PV2FA3
+    confirmed: b0d749ed0447
 ---
 The Wi-Fi module shall validate the set point in under 3 s.

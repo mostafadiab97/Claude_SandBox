@@ -9,8 +9,10 @@ order: 1300
 links:
   - type: verifies
     target: SYS-F9GP9Y
+    confirmed: 443125a88fee
   - type: verifies
     target: SW-VG3R6C
+    confirmed: 781c13a755cb
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.
 

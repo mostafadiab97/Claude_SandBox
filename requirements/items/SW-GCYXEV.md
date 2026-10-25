@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-BCKCQE
+    confirmed: 80d00b41f61f
 ---
 The Bluetooth LE link shall log error conditions in all supported languages.
 

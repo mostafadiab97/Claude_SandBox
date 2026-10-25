@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-4W6C2G
+    confirmed: 1bcb62ea4268
 ---
 The over-temperature monitor shall measure the set point with an accuracy of ±0.5 °C.
 

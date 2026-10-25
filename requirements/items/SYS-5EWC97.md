@@ -12,7 +12,9 @@ order: 1190
 links:
   - type: refines
     target: STK-ESBN30
+    confirmed: 8a56cb48b6c3
   - type: mitigates
     target: RSK-CMYE51
+    confirmed: b0be101f1b7b
 ---
 The boiler interface shall measure the room temperature using AES-256-GCM.

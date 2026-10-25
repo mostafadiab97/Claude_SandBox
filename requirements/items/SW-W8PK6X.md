@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-3K76JB
+    confirmed: b4360e33eebd
 ---
 The touch display shall limit error conditions for at least 10 years.
 

@@ -10,6 +10,7 @@ order: 370
 links:
   - type: verifies
     target: SYS-13AJMY
+    confirmed: 3774cd655263
 ---
 **Objective:** verify that the backlight behaves as specified.
 

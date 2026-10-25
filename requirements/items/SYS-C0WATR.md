@@ -10,6 +10,7 @@ order: 400
 links:
   - type: refines
     target: STK-SM9B7Z
+    confirmed: 44235e2789f0
 ---
 The over-temperature monitor shall calibrate sensor readings using AES-256-GCM.
 

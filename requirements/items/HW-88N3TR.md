@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-D0Q5ED
+    confirmed: a25afcb373b1
 ---
 The power supply shall synchronise relay events without user interaction.
 

@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-1A7QWR
+    confirmed: 5740f6763e84
 ---
 The mobile app shall validate sensor readings in under 3 s.
 

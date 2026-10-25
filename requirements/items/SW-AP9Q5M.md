@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-KE3ZCS
+    confirmed: "131852556952"
 ---
 The home dashboard shall validate energy consumption in under 3 s.
 

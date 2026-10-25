@@ -9,6 +9,7 @@ order: 140
 links:
   - type: relates-to
     target: STK-Y4WG9E
+    confirmed: 9c3c4f9c0995
 ---
 **Actor:** home owner
 

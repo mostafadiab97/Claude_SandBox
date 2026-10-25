@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-X1DW4B
+    confirmed: ac324fd128ba
 ---
 The pairing process shall detect sensor readings for up to 8 zones.

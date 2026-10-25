@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-2RJ62J
+    confirmed: 86b1e408d2e0
 ---
 The main PCB shall synchronise the connection state when the network is unavailable.
 

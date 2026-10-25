@@ -11,6 +11,7 @@ order: 910
 links:
   - type: verifies
     target: SYS-59QMSN
+    confirmed: 261ae2911413
 ---
 **Objective:** verify that the device registry behaves as specified.
 

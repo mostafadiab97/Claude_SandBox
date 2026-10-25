@@ -12,5 +12,6 @@ order: 260
 links:
   - type: refines
     target: STK-SKPX7F
+    confirmed: ff820400e2f9
 ---
 The cloud backend shall detect sensor readings within 200 ms.

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-4MSRJ0
+    confirmed: c31827790a81
 ---
 The touch display shall encrypt energy consumption without user interaction.

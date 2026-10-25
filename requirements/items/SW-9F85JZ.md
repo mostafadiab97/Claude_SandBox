@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-WPKDG7
+    confirmed: 871bc601285c
 ---
 The watchdog shall measure the set point in under 3 s.
 

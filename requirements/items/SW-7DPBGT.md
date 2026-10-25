@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-M4G9TB
+    confirmed: 4c2a6274d73f
 ---
 The schedule editor shall encrypt safety limits within 200 ms.
 

@@ -10,6 +10,7 @@ order: 1300
 links:
   - type: refines
     target: STK-2STGXE
+    confirmed: c77fe61daf4b
 ---
 The enclosure shall synchronise sensor readings in under 3 s.
 

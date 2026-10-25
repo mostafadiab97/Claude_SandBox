@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-1YMXAH
+    confirmed: 4e76eb2ccede
 ---
 The backlight shall synchronise error conditions for at least 10 years.
 

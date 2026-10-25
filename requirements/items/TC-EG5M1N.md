@@ -11,6 +11,7 @@ order: 1840
 links:
   - type: verifies
     target: SYS-3Z27AV
+    confirmed: 79a5d5b3bb44
 ---
 **Objective:** verify that the device behaves as specified.
 

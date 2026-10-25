@@ -10,8 +10,10 @@ order: 1110
 links:
   - type: verifies
     target: SYS-6FZH1S
+    confirmed: d02bd019a00a
   - type: verifies
     target: SW-HY00X4
+    confirmed: 505e19c52e40
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

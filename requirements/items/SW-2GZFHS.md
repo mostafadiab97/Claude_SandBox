@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-J893M9
+    confirmed: 6ba2be2cebf8
 ---
 The user account service shall authenticate firmware images after a power loss.
 

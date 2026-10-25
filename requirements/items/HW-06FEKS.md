@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-JN1V9K
+    confirmed: 648ea81ae922
 ---
 The watchdog shall measure the set point when the network is unavailable.

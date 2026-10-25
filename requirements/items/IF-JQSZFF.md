@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-SJH59J
+    confirmed: 7dfb91f535ef
 ---
 The boiler interface shall report humidity values using AES-256-GCM.
 

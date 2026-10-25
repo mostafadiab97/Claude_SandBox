@@ -9,8 +9,10 @@ order: 1140
 links:
   - type: refines
     target: STK-4K2NE4
+    confirmed: 7cfb31353d89
   - type: mitigates
     target: RSK-5PJGGC
+    confirmed: 75f8fe6da08d
 ---
 The status LED shall restore the set point without user interaction.
 

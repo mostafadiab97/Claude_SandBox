@@ -13,6 +13,7 @@ order: 430
 links:
   - type: verifies
     target: SYS-ASMZ9Q
+    confirmed: 41b07dbfc705
 ---
 **Objective:** verify that the touch display behaves as specified.
 

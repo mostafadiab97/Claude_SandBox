@@ -8,5 +8,6 @@ order: 20
 links:
   - type: refines
     target: SYS-6T9DFV
+    confirmed: 0e56d083aedf
 ---
 The encryption layer shall display the room temperature within 200 ms.

@@ -10,6 +10,7 @@ order: 1510
 links:
   - type: verifies
     target: SYS-JD8TXM
+    confirmed: f81d3e3b2c08
 ---
 **Objective:** verify that the device behaves as specified.
 

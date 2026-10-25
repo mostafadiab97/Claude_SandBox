@@ -12,6 +12,7 @@ order: 1250
 links:
   - type: refines
     target: STK-8Y3SDF
+    confirmed: 2609d2cce998
 ---
 The telemetry pipeline shall validate humidity values below 0.5 W in standby.
 

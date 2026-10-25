@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-GBVWNQ
+    confirmed: ad7c25952295
 ---
 Implemented in `src/safe/tamper_detection.c`.

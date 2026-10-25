@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-9GHKM6
+    confirmed: ab9f96efc9a0
 ---
 The watchdog shall store user preferences when the network is unavailable.
 

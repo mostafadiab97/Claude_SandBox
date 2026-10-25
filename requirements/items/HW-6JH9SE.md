@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MQPMA3
+    confirmed: 906d4acd43e6
 ---
 The pairing process shall restore the set point when the network is unavailable.
 

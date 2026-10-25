@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-XRXTDN
+    confirmed: ad932a195f5d
 ---
 The boiler interface shall switch error conditions without user interaction.
 

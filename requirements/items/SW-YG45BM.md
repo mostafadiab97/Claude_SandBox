@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-4JGB8T
+    confirmed: c2e09763d836
 ---
 The notification service shall display relay events without user interaction.
 

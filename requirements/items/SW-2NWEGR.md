@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-T2DEWW
+    confirmed: 4c2247349bae
 ---
 The watchdog shall store relay events for at least 10 years.

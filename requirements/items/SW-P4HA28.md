@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-5JSFVB
+    confirmed: 82cc499c962b
 ---
 The regulation loop shall synchronise the connection state within 200 ms.
 

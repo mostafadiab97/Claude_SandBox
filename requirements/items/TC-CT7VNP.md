@@ -10,6 +10,7 @@ order: 110
 links:
   - type: verifies
     target: SYS-28GV7E
+    confirmed: c02f405b6878
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

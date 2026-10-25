@@ -9,6 +9,7 @@ order: 1110
 links:
   - type: verifies
     target: SYS-TMA5SV
+    confirmed: dbbdc041687a
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

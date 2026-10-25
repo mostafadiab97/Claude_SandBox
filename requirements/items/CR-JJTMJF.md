@@ -12,6 +12,7 @@ order: 100
 links:
   - type: relates-to
     target: SYS-ZQSPB3
+    confirmed: c8c012d7096b
 ---
 Requested by customer support (ticket #17102).
 

@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-MQY2B0
+    confirmed: ab87fdd691b9
 ---
 The telemetry pipeline shall calibrate error conditions after a power loss.

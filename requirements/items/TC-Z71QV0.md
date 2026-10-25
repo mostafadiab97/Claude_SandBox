@@ -10,6 +10,7 @@ order: 650
 links:
   - type: verifies
     target: SYS-8ZC1RT
+    confirmed: 64cf1ce65b09
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

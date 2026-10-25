@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-3C9GVX
+    confirmed: 982b55b41ef5
 ---
 The regulation loop shall store sensor readings after a power loss.
 

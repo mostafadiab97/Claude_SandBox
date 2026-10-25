@@ -13,5 +13,6 @@ order: 1540
 links:
   - type: refines
     target: STK-2STGXE
+    confirmed: c77fe61daf4b
 ---
 The main PCB shall synchronise access tokens for up to 8 zones.

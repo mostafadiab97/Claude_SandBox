@@ -13,6 +13,7 @@ order: 370
 links:
   - type: verifies
     target: SYS-A1R34W
+    confirmed: 95a4e5b7531a
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

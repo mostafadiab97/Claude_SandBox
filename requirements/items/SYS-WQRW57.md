@@ -13,6 +13,7 @@ order: 770
 links:
   - type: refines
     target: STK-G2H1B9
+    confirmed: fce33b342585
 ---
 The over-temperature monitor shall limit the connection state in all supported languages.
 

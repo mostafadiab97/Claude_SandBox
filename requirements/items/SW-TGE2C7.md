@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-S55V4N
+    confirmed: 706f127e04d0
 ---
 The regulation loop shall measure audit records in under 3 s.
 

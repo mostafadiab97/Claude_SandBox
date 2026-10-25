@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: IF-V7Z88C
+    confirmed: e65731bb68a6
 ---
 The Bluetooth LE link shall encrypt humidity values after a power loss.
 

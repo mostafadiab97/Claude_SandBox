@@ -10,8 +10,10 @@ order: 500
 links:
   - type: verifies
     target: SYS-KJZDA6
+    confirmed: cceccc292cf6
   - type: verifies
     target: SW-V7TB34
+    confirmed: bf196a7be830
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

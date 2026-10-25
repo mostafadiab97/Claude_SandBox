@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-G1WQ30
+    confirmed: 6324bbe48da8
 ---
 The menu system shall validate the set point for at least 10 years.
 

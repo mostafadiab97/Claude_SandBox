@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-QEG5QQ
+    confirmed: 312c76ebed64
 ---
 The tamper detection shall display relay events without user interaction.

@@ -13,6 +13,7 @@ order: 1330
 links:
   - type: refines
     target: STK-CDR1Y9
+    confirmed: d9857f8b33bf
 ---
 The enclosure shall display humidity values after a power loss.
 

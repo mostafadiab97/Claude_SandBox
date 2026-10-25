@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-YZPPWS
+    confirmed: 91020cf1f7b8
 ---
 The home dashboard shall switch firmware images in under 3 s.

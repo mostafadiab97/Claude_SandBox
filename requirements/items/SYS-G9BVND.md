@@ -9,5 +9,6 @@ order: 2120
 links:
   - type: refines
     target: STK-XSQC89
+    confirmed: 66c246d6b1dc
 ---
 The secure boot shall authenticate the room temperature in under 3 s.

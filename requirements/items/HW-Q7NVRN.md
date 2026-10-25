@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-323774
+    confirmed: 37d7aaee7050
 ---
 The boiler interface shall restore relay events for at least 10 years.
 

@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MTM77X
+    confirmed: 9fccf544d618
 ---
 The schedule editor shall notify the room temperature for at least 10 years.
 

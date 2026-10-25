@@ -11,6 +11,7 @@ order: 40
 links:
   - type: refines
     target: SYS-1A7QWR
+    confirmed: 5740f6763e84
 ---
 The mobile app shall report schedule entries in all supported languages.
 

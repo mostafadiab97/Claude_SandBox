@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-EPA3J6
+    confirmed: a826614f2a3f
 ---
 Implemented in `src/heat/zone_valve.c`.

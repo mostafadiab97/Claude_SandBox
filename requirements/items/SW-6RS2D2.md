@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-WHR27K
+    confirmed: a2de404f9c89
 ---
 The heating controller shall limit sensor readings when the network is unavailable.
 

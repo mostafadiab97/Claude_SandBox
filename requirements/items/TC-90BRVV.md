@@ -13,6 +13,7 @@ order: 1480
 links:
   - type: verifies
     target: SYS-186VAA
+    confirmed: 8c9ff96ed042
 ---
 **Objective:** verify that the rotary knob behaves as specified.
 

@@ -10,6 +10,7 @@ order: 2050
 links:
   - type: verifies
     target: SYS-S1BVE9
+    confirmed: 7041e83377a5
 ---
 **Objective:** verify that the device behaves as specified.
 

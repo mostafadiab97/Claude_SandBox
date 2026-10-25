@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-J3QEM9
+    confirmed: 78aeb447b6ae
 ---
 The relay board shall measure the room temperature within 200 ms.
 

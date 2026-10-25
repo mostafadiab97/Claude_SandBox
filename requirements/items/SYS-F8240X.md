@@ -13,6 +13,7 @@ order: 1010
 links:
   - type: refines
     target: STK-KEP05J
+    confirmed: 74304e03fe52
 ---
 The power supply shall report humidity values after a power loss.
 

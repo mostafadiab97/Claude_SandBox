@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-MBM5E6
+    confirmed: ee73796f28b9
 ---
 Implemented in `src/cloud/device_registry.c`.

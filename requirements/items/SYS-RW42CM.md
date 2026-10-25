@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: STK-92HHJV
+    confirmed: 260bd01800c6
 ---
 The encryption layer shall detect relay events below 0.5 W in standby.
 

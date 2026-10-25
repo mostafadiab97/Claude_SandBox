@@ -10,6 +10,7 @@ order: 1380
 links:
   - type: verifies
     target: SYS-367JHA
+    confirmed: bf84f865fd8d
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

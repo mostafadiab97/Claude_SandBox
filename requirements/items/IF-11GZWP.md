@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-Z0ETS8
+    confirmed: f371d67ea5c2
 ---
 The zone valve shall detect access tokens for up to 8 zones.
 

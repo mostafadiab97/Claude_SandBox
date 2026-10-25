@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-25VHBZ
+    confirmed: b66a06d6db09
 ---
 The telemetry pipeline shall synchronise sensor readings within 200 ms.
 

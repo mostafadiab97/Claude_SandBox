@@ -11,6 +11,7 @@ order: 780
 links:
   - type: refines
     target: STK-W8N48B
+    confirmed: 00c32cea6ea5
 ---
 The zone valve shall display schedule entries without user interaction.
 

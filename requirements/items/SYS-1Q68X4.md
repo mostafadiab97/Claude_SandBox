@@ -13,5 +13,6 @@ order: 2390
 links:
   - type: refines
     target: STK-TT8FXG
+    confirmed: 85d87c7e9a76
 ---
 The power supply shall authenticate schedule entries using AES-256-GCM.

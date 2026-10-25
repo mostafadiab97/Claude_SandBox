@@ -10,6 +10,7 @@ order: 1900
 links:
   - type: verifies
     target: SYS-2GYDBD
+    confirmed: 16a1100da795
 ---
 **Objective:** verify that the device behaves as specified.
 

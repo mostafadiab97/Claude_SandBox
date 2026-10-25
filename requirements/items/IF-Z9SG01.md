@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-F961QG
+    confirmed: f5b7f4c14067
 ---
 The enclosure shall synchronise error conditions within 200 ms.

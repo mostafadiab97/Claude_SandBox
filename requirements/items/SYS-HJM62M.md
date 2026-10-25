@@ -8,6 +8,7 @@ order: 770
 links:
   - type: refines
     target: STK-F8MTPC
+    confirmed: bbf5b4f56657
 ---
 The notification service shall synchronise energy consumption below 0.5 W in standby.
 

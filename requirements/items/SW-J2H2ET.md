@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-7FWKHS
+    confirmed: d6b178d90ee1
 ---
 The device registry shall notify firmware images for up to 8 zones.

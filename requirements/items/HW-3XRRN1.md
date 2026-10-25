@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-G1EY1S
+    confirmed: 0765f686e186
 ---
 The menu system shall log access tokens using AES-256-GCM.
 

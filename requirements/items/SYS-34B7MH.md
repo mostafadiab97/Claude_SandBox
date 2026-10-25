@@ -11,8 +11,10 @@ order: 50
 links:
   - type: refines
     target: STK-4K2NE4
+    confirmed: 7cfb31353d89
   - type: mitigates
     target: RSK-W1W7WX
+    confirmed: 902c1cbc8514
 ---
 The menu system shall log firmware images for at least 10 years.
 

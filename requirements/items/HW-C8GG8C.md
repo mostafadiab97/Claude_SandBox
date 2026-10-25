@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-387701
+    confirmed: 0b7909b67648
 ---
 The enclosure shall restore relay events below 0.5 W in standby.
 

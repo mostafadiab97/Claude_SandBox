@@ -10,6 +10,7 @@ order: 1440
 links:
   - type: refines
     target: STK-4F6B1Y
+    confirmed: 4a1d76b1da2c
 ---
 The home dashboard shall store relay events at least once per minute.
 

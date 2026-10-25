@@ -13,6 +13,7 @@ order: 1050
 links:
   - type: verifies
     target: SYS-7VF1VB
+    confirmed: cd08b02dec95
 ---
 **Objective:** verify that the boiler interface behaves as specified.
 

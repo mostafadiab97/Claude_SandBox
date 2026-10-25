@@ -12,6 +12,7 @@ order: 130
 links:
   - type: refines
     target: STK-922G3A
+    confirmed: ea4a6a665922
 ---
 The enclosure shall validate the connection state for up to 8 zones.
 

@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-GECB0Q
+    confirmed: 76c8ecd5a548
 ---
 The heat pump driver shall restore error conditions without user interaction.
 

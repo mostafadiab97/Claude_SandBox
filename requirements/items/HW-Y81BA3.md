@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-TXEBBE
+    confirmed: bede7e2af322
 ---
 The power supply shall authenticate the operating mode in under 3 s.
 

@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-ES5VBN
+    confirmed: 3dc557b39f04
 ---
 Implemented in `src/conn/pairing_process.c`.

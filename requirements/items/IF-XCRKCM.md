@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-7X9ABB
+    confirmed: eca07da94791
 ---
 The power supply shall calibrate sensor readings below 0.5 W in standby.

@@ -13,6 +13,7 @@ order: 1110
 links:
   - type: verifies
     target: SYS-J893M9
+    confirmed: 6ba2be2cebf8
 ---
 **Objective:** verify that the user account service behaves as specified.
 

@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-4X1SRM
+    confirmed: bc96873ba6c1
 ---
 The Wi-Fi module shall limit access tokens using AES-256-GCM.
 

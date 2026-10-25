@@ -11,6 +11,7 @@ order: 2090
 links:
   - type: verifies
     target: SYS-7MF8BM
+    confirmed: df19f5a8810f
 ---
 **Objective:** verify that the device behaves as specified.
 

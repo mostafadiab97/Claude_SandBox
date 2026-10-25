@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-H7XP2M
+    confirmed: 7b8641948b25
 ---
 The relay board shall encrypt safety limits within 200 ms.

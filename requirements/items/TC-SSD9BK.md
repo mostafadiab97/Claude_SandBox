@@ -12,8 +12,10 @@ order: 50
 links:
   - type: verifies
     target: SYS-P0EP0R
+    confirmed: 4c75da355236
   - type: verifies
     target: SW-08XFNX
+    confirmed: 61e860ae008f
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: STK-92HHJV
+    confirmed: 260bd01800c6
 ---
 The watchdog shall log the connection state at least once per minute.
 

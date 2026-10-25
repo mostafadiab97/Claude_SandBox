@@ -11,6 +11,7 @@ order: 130
 links:
   - type: refines
     target: STK-1TB226
+    confirmed: ea29425b18b7
 ---
 The secure boot shall switch the operating mode with an accuracy of ±0.5 °C.
 

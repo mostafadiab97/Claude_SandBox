@@ -9,6 +9,7 @@ order: 890
 links:
   - type: refines
     target: STK-BR4RT9
+    confirmed: 16def0c1f947
 ---
 The notification service shall store humidity values when the network is unavailable.
 

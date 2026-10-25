@@ -14,5 +14,6 @@ order: 30
 links:
   - type: refines
     target: SYS-378XSW
+    confirmed: 5031ebc6a924
 ---
 The status LED shall detect user preferences with an accuracy of ±0.5 °C.

@@ -9,5 +9,6 @@ order: 1270
 links:
   - type: refines
     target: STK-1TB226
+    confirmed: ea29425b18b7
 ---
 The secure boot shall encrypt the operating mode for up to 8 zones.

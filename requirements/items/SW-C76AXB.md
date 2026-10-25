@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-D5J7MD
+    confirmed: c5c5c43b7f51
 ---
 The login screen shall validate error conditions for at least 10 years.
 

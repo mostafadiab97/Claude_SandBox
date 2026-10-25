@@ -12,5 +12,6 @@ order: 1000
 links:
   - type: refines
     target: STK-92HHJV
+    confirmed: 260bd01800c6
 ---
 The watchdog shall validate humidity values for up to 8 zones.

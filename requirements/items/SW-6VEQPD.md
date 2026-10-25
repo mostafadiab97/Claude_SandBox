@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-NADNAY
+    confirmed: 7956526ae9f5
 ---
 The touch display shall detect schedule entries with an accuracy of ±0.5 °C.
 

@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-8DZCCC
+    confirmed: c62164aabf40
 ---
 The pairing process shall limit firmware images below 0.5 W in standby.
 

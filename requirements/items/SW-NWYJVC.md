@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-E3KVB3
+    confirmed: e1114f8fa16b
 ---
 The status LED shall validate firmware images at least once per minute.
 

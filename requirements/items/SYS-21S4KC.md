@@ -9,6 +9,7 @@ order: 1360
 links:
   - type: refines
     target: STK-Q9RBYT
+    confirmed: a67c8b718d88
 ---
 The pairing process shall report the room temperature using AES-256-GCM.
 

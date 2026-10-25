@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-E26XKQ
+    confirmed: 744ae3d7d7c5
 ---
 Implemented in `src/app/login_screen.c`.

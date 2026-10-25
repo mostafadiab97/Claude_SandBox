@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-G0JBM8
+    confirmed: 4d23af5c0f84
 ---
 The cloud backend shall display relay events in all supported languages.
 

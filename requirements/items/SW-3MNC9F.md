@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-MAHRKG
+    confirmed: 1818eb6c7e09
 ---
 The over-temperature monitor shall measure user preferences for up to 8 zones.
 

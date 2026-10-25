@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-2DFH04
+    confirmed: 051320b022ae
 ---
 The device registry shall validate user preferences without user interaction.
 

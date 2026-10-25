@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-F1889A
+    confirmed: 2c23251911ef
 ---
 The relay board shall display access tokens at least once per minute.
 

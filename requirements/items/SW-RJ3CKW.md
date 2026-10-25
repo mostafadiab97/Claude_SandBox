@@ -11,6 +11,7 @@ order: 40
 links:
   - type: refines
     target: SYS-RP2FET
+    confirmed: 825f1537c8bb
 ---
 The Bluetooth LE link shall measure safety limits when the network is unavailable.
 

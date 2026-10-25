@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: HW-7SVDBB
+    confirmed: 8ba7f0374afb
 ---
 The notification service shall restore energy consumption at least once per minute.
 

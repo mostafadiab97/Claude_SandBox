@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-X39PY1
+    confirmed: faeb181df037
 ---
 The heating controller shall report user preferences below 0.5 W in standby.
 

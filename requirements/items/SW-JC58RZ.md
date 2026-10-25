@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-KZZ8FA
+    confirmed: 9e31366a3703
 ---
 The watchdog shall synchronise user preferences for at least 10 years.
 

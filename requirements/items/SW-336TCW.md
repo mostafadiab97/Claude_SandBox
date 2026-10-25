@@ -9,5 +9,6 @@ order: 30
 links:
   - type: refines
     target: SYS-PPY5Z1
+    confirmed: 0c11557d1e86
 ---
 The regulation loop shall encrypt access tokens in all supported languages.

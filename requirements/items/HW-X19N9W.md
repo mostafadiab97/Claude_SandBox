@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-K4NJEM
+    confirmed: caa88f61d9bd
 ---
 The enclosure shall authenticate firmware images for up to 8 zones.
 

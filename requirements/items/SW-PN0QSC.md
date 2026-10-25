@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MVY23C
+    confirmed: c547c82cf252
 ---
 The backlight shall display audit records below 0.5 W in standby.
 

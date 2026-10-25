@@ -10,6 +10,7 @@ order: 430
 links:
   - type: refines
     target: STK-VT1KVD
+    confirmed: fbcfb8475f32
 ---
 The user account service shall store humidity values for up to 8 zones.
 

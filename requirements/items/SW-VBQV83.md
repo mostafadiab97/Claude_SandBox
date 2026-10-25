@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MK13B0
+    confirmed: 37b1ff049bc6
 ---
 The over-temperature monitor shall limit firmware images using AES-256-GCM.
 

@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-QKZP7T
+    confirmed: a1c30d626e9c
 ---
 The status LED shall calibrate humidity values for up to 8 zones.
 

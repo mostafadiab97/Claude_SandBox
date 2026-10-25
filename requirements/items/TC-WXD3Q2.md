@@ -14,8 +14,10 @@ order: 1410
 links:
   - type: verifies
     target: SYS-T098Z1
+    confirmed: 8bf9018cb7b2
   - type: verifies
     target: SW-B03YJ8
+    confirmed: 588f622701dc
 ---
 **Objective:** verify that the menu system behaves as specified.
 

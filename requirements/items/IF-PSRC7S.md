@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-A103QP
+    confirmed: ebe6b95c0f3d
 ---
 The OTA server shall restore the operating mode after a power loss.
 

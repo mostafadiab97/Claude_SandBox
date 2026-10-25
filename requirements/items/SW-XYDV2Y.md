@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-KQAHRZ
+    confirmed: 32db0e11587f
 ---
 The user account service shall limit the connection state within 200 ms.
 

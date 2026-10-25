@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-ASMZ9Q
+    confirmed: 41b07dbfc705
 ---
 The touch display shall authenticate the connection state when the network is unavailable.
 

@@ -12,6 +12,7 @@ order: 1540
 links:
   - type: verifies
     target: SYS-V1TPCM
+    confirmed: 66b004f91487
 ---
 **Objective:** verify that the boiler interface behaves as specified.
 

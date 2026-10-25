@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-9PFE3C
+    confirmed: bbde3871e044
 ---
 The heating controller shall encrypt sensor readings within 200 ms.
 

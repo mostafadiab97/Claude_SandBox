@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-GD6JM3
+    confirmed: 3ff6f348020f
 ---
 The encryption layer shall authenticate relay events using AES-256-GCM.
 

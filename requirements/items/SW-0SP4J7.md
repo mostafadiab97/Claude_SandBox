@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-3PY964
+    confirmed: 3718c9e5d8ae
 ---
 The Bluetooth LE link shall validate the room temperature in all supported languages.
 

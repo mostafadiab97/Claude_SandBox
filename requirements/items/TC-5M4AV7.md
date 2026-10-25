@@ -14,8 +14,10 @@ order: 870
 links:
   - type: verifies
     target: SYS-2SXPK4
+    confirmed: a35d491379ed
   - type: verifies
     target: SW-54RD93
+    confirmed: 8da42f132cf2
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

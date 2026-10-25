@@ -10,8 +10,10 @@ order: 170
 links:
   - type: verifies
     target: SYS-B9WH28
+    confirmed: e4a2c3843dd6
   - type: verifies
     target: SW-737HC5
+    confirmed: 50a966ab45a5
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

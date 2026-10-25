@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-TETJ5F
+    confirmed: c924d6e8986e
 ---
 The notification service shall measure audit records in all supported languages.
 

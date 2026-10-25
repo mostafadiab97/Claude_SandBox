@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-VFV0E7
+    confirmed: 846c545e5032
 ---
 The menu system shall detect access tokens after a power loss.
 

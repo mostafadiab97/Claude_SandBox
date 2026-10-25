@@ -12,8 +12,10 @@ order: 1470
 links:
   - type: verifies
     target: SYS-3NA7W8
+    confirmed: 303f8590e242
   - type: verifies
     target: SW-F7EPJP
+    confirmed: feab156e1a57
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

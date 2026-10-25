@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-0C344V
+    confirmed: 2edabd3093b3
 ---
 The local API shall switch safety limits using AES-256-GCM.
 

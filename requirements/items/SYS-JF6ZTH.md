@@ -10,6 +10,7 @@ order: 120
 links:
   - type: refines
     target: STK-F7D2QS
+    confirmed: bd8a3050a12b
 ---
 The local API shall detect the set point for up to 8 zones.
 

@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-7Q4FYP
+    confirmed: af798c8aaa0c
 ---
 The backlight shall limit audit records without user interaction.
 

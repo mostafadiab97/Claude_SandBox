@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: IF-6TA6YN
+    confirmed: 98adeaafc5b2
 ---
 The encryption layer shall switch user preferences using AES-256-GCM.

@@ -12,6 +12,7 @@ order: 1200
 links:
   - type: verifies
     target: SYS-86C690
+    confirmed: 69daa9458ae7
 ---
 **Objective:** verify that the device behaves as specified.
 

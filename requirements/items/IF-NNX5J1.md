@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-5FN1TB
+    confirmed: 52219f23d7ef
 ---
 The regulation loop shall store firmware images using AES-256-GCM.

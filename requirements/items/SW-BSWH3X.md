@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-JKDR8H
+    confirmed: 85d240523d89
 ---
 The backlight shall measure user preferences at least once per minute.

@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-MB5B23
+    confirmed: 7dee66be9e03
 ---
 The main PCB shall calibrate audit records after a power loss.
 

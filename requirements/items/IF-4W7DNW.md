@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-7CKEJ4
+    confirmed: 2b39d3d81642
 ---
 The enclosure shall detect the connection state without user interaction.

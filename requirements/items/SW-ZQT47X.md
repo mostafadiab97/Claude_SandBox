@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-NSNRJD
+    confirmed: 223c3f40a1fb
 ---
 The home dashboard shall calibrate relay events for up to 8 zones.

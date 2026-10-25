@@ -12,8 +12,10 @@ order: 730
 links:
   - type: verifies
     target: SYS-A4N3W7
+    confirmed: c7593929dc3f
   - type: verifies
     target: SW-T021M5
+    confirmed: 0c3dd50dc291
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

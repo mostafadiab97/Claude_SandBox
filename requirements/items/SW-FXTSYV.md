@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-3FB1DA
+    confirmed: e3f29c8362d3
 ---
 The telemetry pipeline shall detect error conditions without user interaction.
 

@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-3W6SE7
+    confirmed: 8855b7704191
 ---
 The secure boot shall log energy consumption below 0.5 W in standby.
 

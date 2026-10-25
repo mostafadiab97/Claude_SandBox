@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-7J9J7C
+    confirmed: 0f55b6e6a72b
 ---
 The secure boot shall log safety limits at least once per minute.
 

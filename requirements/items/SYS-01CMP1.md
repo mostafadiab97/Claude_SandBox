@@ -10,6 +10,7 @@ order: 1660
 links:
   - type: refines
     target: STK-XSQC89
+    confirmed: 66c246d6b1dc
 ---
 The secure boot shall calibrate audit records after a power loss.
 

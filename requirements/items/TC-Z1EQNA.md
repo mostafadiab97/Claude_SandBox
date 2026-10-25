@@ -13,6 +13,7 @@ order: 870
 links:
   - type: verifies
     target: SYS-GD5QC7
+    confirmed: ec1a86cc2ebb
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

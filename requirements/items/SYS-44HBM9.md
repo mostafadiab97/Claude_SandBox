@@ -12,5 +12,6 @@ order: 860
 links:
   - type: refines
     target: STK-MNQXK0
+    confirmed: d3157dcb9034
 ---
 The backlight shall measure energy consumption with an accuracy of ±0.5 °C.

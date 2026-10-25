@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ZDTV2N
+    confirmed: 57a8c3860cec
 ---
 The watchdog shall restore energy consumption after a power loss.
 

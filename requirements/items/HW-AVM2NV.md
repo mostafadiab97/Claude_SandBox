@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-1H9HYA
+    confirmed: 696efaeb68c1
 ---
 The power supply shall switch energy consumption after a power loss.
 

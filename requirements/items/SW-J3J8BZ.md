@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-02QRPZ
+    confirmed: 82506165b903
 ---
 The local API shall encrypt the connection state at least once per minute.

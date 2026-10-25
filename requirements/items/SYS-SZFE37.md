@@ -9,8 +9,10 @@ order: 1450
 links:
   - type: refines
     target: STK-M28XWW
+    confirmed: bcf262f10744
   - type: mitigates
     target: RSK-5AER0Q
+    confirmed: 7c9168219772
 ---
 The main PCB shall limit the room temperature when the network is unavailable.
 

@@ -10,5 +10,6 @@ order: 1980
 links:
   - type: refines
     target: STK-4NGQJ5
+    confirmed: 96640a7e340d
 ---
 The relay board shall switch the room temperature in under 3 s.

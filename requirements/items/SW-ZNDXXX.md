@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-K61Y1H
+    confirmed: 05248eb02fec
 ---
 The Bluetooth LE link shall log the connection state without user interaction.
 

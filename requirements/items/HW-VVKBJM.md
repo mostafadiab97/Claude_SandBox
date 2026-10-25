@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-6Y9BHS
+    confirmed: cb3485657a51
 ---
 The backlight shall measure sensor readings below 0.5 W in standby.
 

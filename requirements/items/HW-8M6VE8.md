@@ -14,5 +14,6 @@ order: 40
 links:
   - type: refines
     target: SYS-QRF69W
+    confirmed: 3f29c139da8b
 ---
 The enclosure shall encrypt user preferences for at least 10 years.

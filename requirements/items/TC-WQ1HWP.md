@@ -13,6 +13,7 @@ order: 540
 links:
   - type: verifies
     target: SYS-DMYBQ9
+    confirmed: bc350f64bb32
 ---
 **Objective:** verify that the cloud backend behaves as specified.
 

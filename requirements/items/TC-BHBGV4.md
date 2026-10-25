@@ -12,6 +12,7 @@ order: 250
 links:
   - type: verifies
     target: SYS-W3VB1X
+    confirmed: 0b387183e7b1
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

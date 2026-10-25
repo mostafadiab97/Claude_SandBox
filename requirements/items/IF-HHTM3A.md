@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-7EMY0G
+    confirmed: c4f3af124d96
 ---
 The cloud backend shall notify the room temperature when the network is unavailable.

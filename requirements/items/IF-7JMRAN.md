@@ -9,6 +9,7 @@ order: 40
 links:
   - type: refines
     target: SYS-2G95V5
+    confirmed: c56996de7c48
 ---
 The relay board shall calibrate safety limits for up to 8 zones.
 

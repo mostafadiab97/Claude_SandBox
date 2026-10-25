@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-810TWH
+    confirmed: e5b17a7ecc70
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

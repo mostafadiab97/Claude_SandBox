@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-FHYWXP
+    confirmed: 3d63ea693d7b
 ---
 The power supply shall detect safety limits below 0.5 W in standby.

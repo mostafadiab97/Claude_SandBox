@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-9BKWE6
+    confirmed: 69aa4344ccec
 ---
 The OTA server shall measure audit records at least once per minute.
 

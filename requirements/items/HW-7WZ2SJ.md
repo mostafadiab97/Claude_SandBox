@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-AZWQYS
+    confirmed: a9dbae14cebf
 ---
 The boiler interface shall encrypt humidity values for at least 10 years.
 

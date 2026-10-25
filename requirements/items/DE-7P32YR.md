@@ -11,5 +11,6 @@ order: 10
 links:
   - type: implements
     target: SW-104J95
+    confirmed: 3e9fafe73a0e
 ---
 Implemented in `src/conn/Wi-Fi_module.c`.

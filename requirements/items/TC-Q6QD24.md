@@ -13,6 +13,7 @@ order: 1140
 links:
   - type: verifies
     target: SYS-KD220M
+    confirmed: 39ba118c88d8
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

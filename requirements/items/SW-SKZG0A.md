@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-RDQ73V
+    confirmed: 2791d2fc7833
 ---
 The touch display shall authenticate relay events using AES-256-GCM.

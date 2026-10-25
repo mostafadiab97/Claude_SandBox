@@ -12,8 +12,10 @@ order: 290
 links:
   - type: refines
     target: STK-HH6ZNR
+    confirmed: caa77fe9df1c
   - type: mitigates
     target: RSK-81XFR0
+    confirmed: df837fe8b253
 ---
 The backlight shall report energy consumption when the network is unavailable.
 

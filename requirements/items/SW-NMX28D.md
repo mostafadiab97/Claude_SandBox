@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-AE5DCT
+    confirmed: 5733321e8c53
 ---
 The rotary knob shall encrypt error conditions at least once per minute.

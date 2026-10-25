@@ -10,6 +10,7 @@ order: 890
 links:
   - type: verifies
     target: SYS-N0SS0N
+    confirmed: a340367acc67
 ---
 **Objective:** verify that the user account service behaves as specified.
 

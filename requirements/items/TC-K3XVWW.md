@@ -14,8 +14,10 @@ order: 70
 links:
   - type: verifies
     target: SYS-G05WA7
+    confirmed: c37aca9c7e04
   - type: verifies
     target: SW-88HPF9
+    confirmed: 86f3854ab240
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

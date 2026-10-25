@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-JF3REC
+    confirmed: c2bec4a69526
 ---
 The pairing process shall report error conditions for at least 10 years.
 

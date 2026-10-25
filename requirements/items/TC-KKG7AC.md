@@ -10,6 +10,7 @@ order: 1630
 links:
   - type: verifies
     target: SYS-G85CT4
+    confirmed: 278fe2b83855
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

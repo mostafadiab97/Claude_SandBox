@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-YW7JJY
+    confirmed: 33def9a60775
 ---
 The schedule editor shall limit the set point after a power loss.
 

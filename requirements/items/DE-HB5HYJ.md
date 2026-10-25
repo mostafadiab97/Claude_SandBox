@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-4C6BH6
+    confirmed: 08d749a8875b
 ---
 Implemented in `src/cloud/OTA_server.c`.

@@ -9,5 +9,6 @@ order: 1420
 links:
   - type: refines
     target: STK-CJBDWK
+    confirmed: b9e9b89c87b3
 ---
 The cloud backend shall synchronise firmware images without user interaction.

@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-069B79
+    confirmed: b68bfd68f8d5
 ---
 The heat pump driver shall store the connection state in all supported languages.
 

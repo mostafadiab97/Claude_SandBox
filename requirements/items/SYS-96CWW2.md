@@ -10,5 +10,6 @@ order: 990
 links:
   - type: refines
     target: STK-GMCKMF
+    confirmed: f47328374a2b
 ---
 The pairing process shall synchronise the operating mode using AES-256-GCM.

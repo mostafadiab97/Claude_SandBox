@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-7XVG76
+    confirmed: 0e9c8f128aaa
 ---
 The tamper detection shall store the room temperature with an accuracy of ±0.5 °C.
 

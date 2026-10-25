@@ -12,5 +12,6 @@ order: 2030
 links:
   - type: refines
     target: STK-CJBDWK
+    confirmed: b9e9b89c87b3
 ---
 The device registry shall calibrate the room temperature in all supported languages.

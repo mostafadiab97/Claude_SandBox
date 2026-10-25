@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-P05AE4
+    confirmed: 53c0872f8a94
 ---
 The login screen shall synchronise the connection state for at least 10 years.
 

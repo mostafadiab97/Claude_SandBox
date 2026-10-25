@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-MTM77X
+    confirmed: 9fccf544d618
 ---
 The schedule editor shall report schedule entries using AES-256-GCM.
 

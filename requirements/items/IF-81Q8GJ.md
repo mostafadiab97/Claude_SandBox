@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-WM6GTH
+    confirmed: f1e98774112c
 ---
 The rotary knob shall store humidity values below 0.5 W in standby.
 

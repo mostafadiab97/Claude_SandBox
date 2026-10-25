@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-WF1GZZ
+    confirmed: abee984b43ba
 ---
 Implemented in `src/app/notification_service.c`.

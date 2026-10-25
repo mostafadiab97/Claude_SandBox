@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-XPCTNY
+    confirmed: 042eed4f2a11
 ---
 The backlight shall synchronise the connection state for up to 8 zones.
 

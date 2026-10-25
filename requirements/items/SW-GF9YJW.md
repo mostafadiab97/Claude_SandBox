@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-338WGX
+    confirmed: ba9b4f21444e
 ---
 The heating controller shall report relay events within 200 ms.
 

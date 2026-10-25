@@ -10,6 +10,7 @@ order: 710
 links:
   - type: verifies
     target: SYS-HF856T
+    confirmed: 96551a11c8e9
 ---
 **Objective:** verify that the device behaves as specified.
 

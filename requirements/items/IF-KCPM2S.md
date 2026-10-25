@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-946J73
+    confirmed: 4221a4e34c0d
 ---
 The enclosure shall restore energy consumption without user interaction.

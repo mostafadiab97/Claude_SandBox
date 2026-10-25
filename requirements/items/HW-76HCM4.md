@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-8HC07S
+    confirmed: edacad3b5f35
 ---
 The Bluetooth LE link shall validate user preferences below 0.5 W in standby.
 

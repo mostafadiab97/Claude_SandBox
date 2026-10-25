@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-1TC8XF
+    confirmed: f8bd8f1b6b39
 ---
 The secure boot shall validate the room temperature at least once per minute.
 

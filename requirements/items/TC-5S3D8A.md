@@ -14,8 +14,10 @@ order: 670
 links:
   - type: verifies
     target: SYS-2NPFB8
+    confirmed: 5220caa76f4b
   - type: verifies
     target: SW-SV5WNT
+    confirmed: 3601ce92e4e2
 ---
 **Objective:** verify that the user account service behaves as specified.
 

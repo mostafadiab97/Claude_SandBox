@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-RF310F
+    confirmed: bc4cb8d2d781
 ---
 The local API shall synchronise user preferences for up to 8 zones.
 

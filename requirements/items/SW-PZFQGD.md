@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-SDM6X9
+    confirmed: 7f15286cc504
 ---
 The heating controller shall calibrate the set point in under 3 s.

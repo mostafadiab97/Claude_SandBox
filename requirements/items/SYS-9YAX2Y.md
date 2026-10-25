@@ -13,6 +13,7 @@ order: 250
 links:
   - type: refines
     target: STK-35QR7F
+    confirmed: bc1aebb7918d
 ---
 The menu system shall notify the room temperature without user interaction.
 

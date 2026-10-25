@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-JKNRQ3
+    confirmed: 2f3dabce7169
 ---
 The pairing process shall authenticate access tokens with an accuracy of ±0.5 °C.
 

@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-19PGBF
+    confirmed: ae3b18f7d74c
 ---
 The heating controller shall encrypt schedule entries at least once per minute.
 

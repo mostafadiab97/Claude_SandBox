@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-RENNQZ
+    confirmed: e51e1d391f33
 ---
 Implemented in `src/safe/over-temperature_monitor.c`.

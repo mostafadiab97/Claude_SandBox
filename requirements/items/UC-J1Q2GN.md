@@ -13,6 +13,7 @@ order: 140
 links:
   - type: relates-to
     target: STK-FWM06B
+    confirmed: bbd40f488fa4
 ---
 **Actor:** home owner
 

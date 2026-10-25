@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-C331FN
+    confirmed: dbad8e7adb28
 ---
 The telemetry pipeline shall display the set point using AES-256-GCM.
 

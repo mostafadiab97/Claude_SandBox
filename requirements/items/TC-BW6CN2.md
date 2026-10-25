@@ -13,6 +13,7 @@ order: 320
 links:
   - type: verifies
     target: SYS-MJ3RPH
+    confirmed: 1ebca403ec7b
 ---
 **Objective:** verify that the rotary knob behaves as specified.
 

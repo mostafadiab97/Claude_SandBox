@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-VH6JH8
+    confirmed: 1e4273ef3726
 ---
 The pairing process shall detect safety limits within 200 ms.
 

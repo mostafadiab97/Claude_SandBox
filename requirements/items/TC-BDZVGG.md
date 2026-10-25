@@ -9,6 +9,7 @@ order: 130
 links:
   - type: verifies
     target: SYS-MBT5B7
+    confirmed: 558c60af173b
 ---
 **Objective:** verify that the local API behaves as specified.
 

@@ -10,8 +10,10 @@ order: 840
 links:
   - type: verifies
     target: SYS-KACHNP
+    confirmed: 6d9bc192ec13
   - type: verifies
     target: SW-TNE9RX
+    confirmed: d2e84a822cf8
 ---
 **Objective:** verify that the cloud backend behaves as specified.
 

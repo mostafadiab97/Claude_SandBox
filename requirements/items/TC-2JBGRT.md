@@ -8,6 +8,7 @@ order: 550
 links:
   - type: verifies
     target: SYS-0C2S4D
+    confirmed: 306846e9f601
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.
 

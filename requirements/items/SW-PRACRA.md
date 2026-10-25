@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-J8E1WK
+    confirmed: e3e45dbe823d
 ---
 The cloud backend shall synchronise relay events in under 3 s.
 

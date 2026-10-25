@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-F5RTF4
+    confirmed: 72eb3d42eaa8
 ---
 The heating controller shall switch user preferences when the network is unavailable.

@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-QDWM3F
+    confirmed: 6815e3fba85c
 ---
 The home dashboard shall store relay events without user interaction.
 

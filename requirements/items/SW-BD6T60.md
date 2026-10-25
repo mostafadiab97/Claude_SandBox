@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-PH3PWA
+    confirmed: 2363be236978
 ---
 The OTA server shall limit schedule entries for up to 8 zones.

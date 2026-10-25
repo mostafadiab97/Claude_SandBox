@@ -10,6 +10,7 @@ order: 1110
 links:
   - type: verifies
     target: SYS-CR4P8R
+    confirmed: 4c3ba50b83be
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

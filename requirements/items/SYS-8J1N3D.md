@@ -10,6 +10,7 @@ order: 120
 links:
   - type: refines
     target: STK-KPV71Q
+    confirmed: 10d9c216aea2
 ---
 The menu system shall notify sensor readings within 200 ms.
 

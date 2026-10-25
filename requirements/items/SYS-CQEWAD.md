@@ -10,5 +10,6 @@ order: 990
 links:
   - type: refines
     target: STK-EHVDJF
+    confirmed: cf195cdb6a20
 ---
 The rotary knob shall restore the set point when the network is unavailable.

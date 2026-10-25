@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-TGSTPQ
+    confirmed: 6debd30440a7
 ---
 The enclosure shall restore the connection state for up to 8 zones.
 

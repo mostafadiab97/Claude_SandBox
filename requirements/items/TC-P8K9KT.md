@@ -13,6 +13,7 @@ order: 780
 links:
   - type: verifies
     target: SYS-0847E1
+    confirmed: d8c0c127c7a5
 ---
 **Objective:** verify that the notification service behaves as specified.
 

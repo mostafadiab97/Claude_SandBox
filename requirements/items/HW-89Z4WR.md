@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-BK9269
+    confirmed: 03a5e57cdda8
 ---
 The regulation loop shall log energy consumption for up to 8 zones.
 

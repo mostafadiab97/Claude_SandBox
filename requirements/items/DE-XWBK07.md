@@ -11,5 +11,6 @@ order: 10
 links:
   - type: implements
     target: SW-EY9314
+    confirmed: 094babe0592b
 ---
 Implemented in `src/cloud/device_registry.c`.

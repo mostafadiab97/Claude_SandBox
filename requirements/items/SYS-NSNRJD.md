@@ -10,6 +10,7 @@ order: 1700
 links:
   - type: refines
     target: STK-55M3CZ
+    confirmed: 45f1b5fe0502
 ---
 The home dashboard shall log sensor readings when the network is unavailable.
 

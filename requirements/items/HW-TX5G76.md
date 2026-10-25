@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-7X9ABB
+    confirmed: eca07da94791
 ---
 The power supply shall notify firmware images when the network is unavailable.
 

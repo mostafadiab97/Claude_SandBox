@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7RX5NN
+    confirmed: 076f07709938
 ---
 The schedule editor shall limit user preferences when the network is unavailable.
 

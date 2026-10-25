@@ -13,6 +13,7 @@ order: 1460
 links:
   - type: verifies
     target: SYS-DVK0ST
+    confirmed: "123689018215"
 ---
 **Objective:** verify that the menu system behaves as specified.
 

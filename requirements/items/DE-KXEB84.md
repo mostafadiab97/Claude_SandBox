@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-6431BN
+    confirmed: e22642543114
 ---
 Implemented in `src/safe/over-temperature_monitor.c`.

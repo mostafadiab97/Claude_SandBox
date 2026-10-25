@@ -13,5 +13,6 @@ order: 690
 links:
   - type: refines
     target: STK-XSZSEZ
+    confirmed: 1038f4e2e9d4
 ---
 The pairing process shall synchronise the operating mode below 0.5 W in standby.

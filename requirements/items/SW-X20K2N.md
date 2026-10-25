@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QEG5QQ
+    confirmed: 312c76ebed64
 ---
 The tamper detection shall switch humidity values using AES-256-GCM.
 

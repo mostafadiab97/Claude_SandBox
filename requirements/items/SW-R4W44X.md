@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MW6N7P
+    confirmed: 1f77718986ec
 ---
 The home dashboard shall encrypt schedule entries when the network is unavailable.
 

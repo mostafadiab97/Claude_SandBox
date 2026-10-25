@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-AE5DCT
+    confirmed: 5733321e8c53
 ---
 The rotary knob shall validate sensor readings for up to 8 zones.
 

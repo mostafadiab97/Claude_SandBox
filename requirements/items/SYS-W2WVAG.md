@@ -13,6 +13,7 @@ order: 1250
 links:
   - type: refines
     target: STK-B9Y7CM
+    confirmed: 2e83dea5db22
 ---
 The mobile app shall authenticate user preferences within 200 ms.
 

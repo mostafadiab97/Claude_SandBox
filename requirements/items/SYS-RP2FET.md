@@ -13,5 +13,6 @@ order: 2020
 links:
   - type: refines
     target: STK-5CT2VD
+    confirmed: 51ca0f7a80ed
 ---
 The Bluetooth LE link shall synchronise sensor readings in under 3 s.

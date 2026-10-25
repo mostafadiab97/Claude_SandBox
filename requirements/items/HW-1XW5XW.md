@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-REMSS6
+    confirmed: eaad58b82e83
 ---
 The telemetry pipeline shall validate firmware images at least once per minute.
 

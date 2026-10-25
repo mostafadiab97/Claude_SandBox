@@ -13,6 +13,7 @@ order: 180
 links:
   - type: verifies
     target: SYS-D3GXWM
+    confirmed: 837c0d0a7912
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

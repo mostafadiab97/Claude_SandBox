@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-64QHS8
+    confirmed: 16f3ad7fdfaa
 ---
 The mobile app shall switch schedule entries without user interaction.
 

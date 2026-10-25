@@ -11,6 +11,7 @@ order: 170
 links:
   - type: relates-to
     target: STK-W18EQ4
+    confirmed: aeec35e06317
 ---
 **Actor:** home owner
 

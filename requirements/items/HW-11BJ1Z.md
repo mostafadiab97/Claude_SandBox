@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-3V07ZT
+    confirmed: bd35bc218b6c
 ---
 The relay board shall report the room temperature for up to 8 zones.
 

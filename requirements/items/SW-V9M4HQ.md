@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-12P0BS
+    confirmed: d8b351a5c8e8
 ---
 The cloud backend shall log the room temperature at least once per minute.

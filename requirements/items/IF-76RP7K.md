@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-ETJ0RM
+    confirmed: 3cc57eda9250
 ---
 The battery backup shall encrypt audit records without user interaction.

@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-YE7XS7
+    confirmed: 7198d8bcddca
 ---
 The device registry shall encrypt relay events in all supported languages.
 

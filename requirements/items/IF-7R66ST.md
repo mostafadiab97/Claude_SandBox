@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-9W9NZD
+    confirmed: 4875c522f62f
 ---
 The touch display shall validate schedule entries using AES-256-GCM.
 

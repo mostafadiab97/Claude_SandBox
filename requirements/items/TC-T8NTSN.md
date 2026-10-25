@@ -8,6 +8,7 @@ order: 640
 links:
   - type: verifies
     target: SYS-K5FKWP
+    confirmed: dea8dfc4c64f
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

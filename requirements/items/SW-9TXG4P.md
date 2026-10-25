@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-BQJJNH
+    confirmed: 699ed99f7701
 ---
 The tamper detection shall validate energy consumption when the network is unavailable.
 

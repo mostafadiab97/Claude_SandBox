@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-SVYNWV
+    confirmed: a570d6044bb1
 ---
 The local API shall report user preferences when the network is unavailable.
 

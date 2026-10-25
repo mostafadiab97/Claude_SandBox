@@ -10,8 +10,10 @@ order: 1270
 links:
   - type: verifies
     target: SYS-6DWMRM
+    confirmed: 62af45041e6e
   - type: verifies
     target: SW-J3EKW6
+    confirmed: 7e4eee25d689
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: HW-AZDNFC
+    confirmed: 61b9a64d7e7b
 ---
 The battery backup shall switch user preferences without user interaction.
 

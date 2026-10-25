@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-SAV1GY
+    confirmed: 01ce30983654
 ---
 The tamper detection shall detect the operating mode at least once per minute.

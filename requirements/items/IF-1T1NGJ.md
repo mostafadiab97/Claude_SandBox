@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-ZS700Y
+    confirmed: 3e1573548eed
 ---
 The encryption layer shall switch relay events when the network is unavailable.
 

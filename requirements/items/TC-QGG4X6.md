@@ -14,8 +14,10 @@ order: 520
 links:
   - type: verifies
     target: SYS-CE57ME
+    confirmed: 4e23886933b6
   - type: verifies
     target: SW-NWS6XP
+    confirmed: 5f492f9366b1
 ---
 **Objective:** verify that the boiler interface behaves as specified.
 

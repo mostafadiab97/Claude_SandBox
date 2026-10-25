@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-T6WXDY
+    confirmed: e7cb857d34f0
 ---
 The regulation loop shall synchronise humidity values for at least 10 years.

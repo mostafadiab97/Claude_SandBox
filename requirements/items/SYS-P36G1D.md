@@ -12,5 +12,6 @@ order: 1000
 links:
   - type: refines
     target: STK-F7D2QS
+    confirmed: bd8a3050a12b
 ---
 The pairing process shall encrypt safety limits for up to 8 zones.

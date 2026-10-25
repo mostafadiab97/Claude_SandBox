@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-JWK81Y
+    confirmed: 8656508483c4
 ---
 The backlight shall report schedule entries using AES-256-GCM.
 

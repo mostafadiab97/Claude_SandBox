@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-DAW84D
+    confirmed: d28364cb190d
 ---
 The enclosure shall validate sensor readings with an accuracy of ±0.5 °C.

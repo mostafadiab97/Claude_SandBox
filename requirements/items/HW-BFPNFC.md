@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-9J39GS
+    confirmed: 59241a6dbb43
 ---
 The battery backup shall log the room temperature when the network is unavailable.
 

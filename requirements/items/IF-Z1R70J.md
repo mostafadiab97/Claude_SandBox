@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-N54KFA
+    confirmed: 09253c52493b
 ---
 The backlight shall log audit records when the network is unavailable.
 

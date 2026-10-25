@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: IF-80NQ2F
+    confirmed: 5fbfe1e894bd
 ---
 The telemetry pipeline shall log safety limits with an accuracy of ±0.5 °C.
 

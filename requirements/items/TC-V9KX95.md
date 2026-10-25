@@ -10,6 +10,7 @@ order: 1470
 links:
   - type: verifies
     target: SYS-EMNHY1
+    confirmed: 84eef3783091
 ---
 **Objective:** verify that the login screen behaves as specified.
 

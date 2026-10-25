@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-CNV2JW
+    confirmed: 09c297344cc8
 ---
 The schedule editor shall encrypt the set point at least once per minute.
 

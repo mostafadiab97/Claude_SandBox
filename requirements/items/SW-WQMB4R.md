@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-AB1WG2
+    confirmed: 70d3053751d1
 ---
 The watchdog shall limit safety limits after a power loss.
 

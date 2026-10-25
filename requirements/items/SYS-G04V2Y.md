@@ -10,5 +10,6 @@ order: 140
 links:
   - type: refines
     target: STK-55M3CZ
+    confirmed: 45f1b5fe0502
 ---
 The schedule editor shall validate sensor readings within 200 ms.

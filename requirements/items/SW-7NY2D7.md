@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-H265S4
+    confirmed: 5141db685619
 ---
 The menu system shall switch firmware images without user interaction.

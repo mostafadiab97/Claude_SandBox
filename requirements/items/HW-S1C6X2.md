@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-FMVZ4N
+    confirmed: 64d198139b67
 ---
 The over-temperature monitor shall limit the connection state when the network is unavailable.
 

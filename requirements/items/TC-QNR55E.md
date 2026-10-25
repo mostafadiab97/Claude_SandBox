@@ -9,6 +9,7 @@ order: 1100
 links:
   - type: verifies
     target: SYS-66NFPS
+    confirmed: c345a9cbc34b
 ---
 **Objective:** verify that the device behaves as specified.
 

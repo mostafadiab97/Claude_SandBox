@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-VSN7NY
+    confirmed: a16069c9ebaf
 ---
 The touch display shall display safety limits after a power loss.
 

@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SW-M34EVK
+    confirmed: 46347eb5a05a
 ---
 The zone valve shall switch sensor readings using AES-256-GCM.

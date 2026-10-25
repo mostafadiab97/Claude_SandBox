@@ -13,6 +13,7 @@ order: 1300
 links:
   - type: verifies
     target: SYS-NQ8RXH
+    confirmed: 372b9844dfa7
 ---
 **Objective:** verify that the device behaves as specified.
 

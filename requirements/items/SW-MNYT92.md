@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-5N9QWY
+    confirmed: d6dd62a6b8eb
 ---
 The login screen shall synchronise access tokens when the network is unavailable.

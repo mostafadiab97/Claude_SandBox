@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-2NPFB8
+    confirmed: 5220caa76f4b
 ---
 The user account service shall switch access tokens without user interaction.

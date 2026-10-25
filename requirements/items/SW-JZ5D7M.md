@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-3KEBNW
+    confirmed: 79d2c72aebd1
 ---
 The home dashboard shall authenticate the room temperature in all supported languages.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-RK543Q
+    confirmed: fe331aa72f1d
 ---
 The main PCB shall encrypt user preferences after a power loss.
 

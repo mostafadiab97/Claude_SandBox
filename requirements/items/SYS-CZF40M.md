@@ -10,6 +10,7 @@ order: 1590
 links:
   - type: refines
     target: STK-MC9ASH
+    confirmed: a4f2ebaecfbe
 ---
 The mobile app shall validate humidity values when the network is unavailable.
 

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-S1NHF1
+    confirmed: e13937f669fb
 ---
 The watchdog shall report sensor readings in all supported languages.

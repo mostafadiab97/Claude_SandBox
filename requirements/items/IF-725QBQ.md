@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-EC5N2Y
+    confirmed: 450d9078b1b0
 ---
 The regulation loop shall validate safety limits in all supported languages.
 

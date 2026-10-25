@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-CZFHR4
+    confirmed: b242da2e0a56
 ---
 The main PCB shall validate the set point when the network is unavailable.
 

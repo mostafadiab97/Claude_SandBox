@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ZJDSAF
+    confirmed: 039687c494cb
 ---
 The zone valve shall measure humidity values at least once per minute.
 

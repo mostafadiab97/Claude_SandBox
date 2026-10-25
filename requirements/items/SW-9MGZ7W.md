@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-MTXK34
+    confirmed: 4c707dcaf3d3
 ---
 The regulation loop shall restore audit records within 200 ms.
 

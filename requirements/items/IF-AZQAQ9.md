@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-B19CRP
+    confirmed: 9dc800f53108
 ---
 The status LED shall calibrate access tokens when the network is unavailable.
 

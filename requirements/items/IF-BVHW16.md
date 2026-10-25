@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-7XZF0Y
+    confirmed: 8363985482a5
 ---
 The login screen shall validate humidity values in under 3 s.
 

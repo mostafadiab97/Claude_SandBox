@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QS89W9
+    confirmed: 257707a82d4d
 ---
 The enclosure shall store firmware images within 200 ms.
 

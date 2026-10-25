@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-DKB6WA
+    confirmed: 8665d5a94c43
 ---
 The main PCB shall notify access tokens for up to 8 zones.
 

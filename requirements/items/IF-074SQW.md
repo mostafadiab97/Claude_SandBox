@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-AT7SG8
+    confirmed: c483239675ae
 ---
 The over-temperature monitor shall encrypt access tokens after a power loss.
 

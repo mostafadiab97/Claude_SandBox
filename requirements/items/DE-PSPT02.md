@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-NEABXN
+    confirmed: 842f84d43d93
 ---
 Implemented in `src/cloud/OTA_server.c`.

@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-EVBYJ7
+    confirmed: 11120bfddd2b
 ---
 The login screen shall validate the operating mode for up to 8 zones.
 

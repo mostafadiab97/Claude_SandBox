@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-ZDSZYH
+    confirmed: ad76d3ee3383
 ---
 The boiler interface shall authenticate the room temperature in under 3 s.
 

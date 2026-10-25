@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-2QHPNW
+    confirmed: 579c82632c6d
 ---
 The Wi-Fi module shall calibrate humidity values for up to 8 zones.

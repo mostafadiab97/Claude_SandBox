@@ -13,6 +13,7 @@ order: 100
 links:
   - type: relates-to
     target: SYS-APGJQA
+    confirmed: "45019195e843"
 ---
 Requested by customer support (ticket #14056).
 

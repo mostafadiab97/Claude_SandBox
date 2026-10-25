@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-9YAX2Y
+    confirmed: b8ba4474f101
 ---
 The menu system shall calibrate energy consumption within 200 ms.
 

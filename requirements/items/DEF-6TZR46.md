@@ -13,8 +13,10 @@ order: 100
 links:
   - type: relates-to
     target: TC-MHSX1M
+    confirmed: 333c21ea50a2
   - type: relates-to
     target: SYS-FJTSEK
+    confirmed: 0ff5a626958c
 ---
 Found during regression testing of build 2.7.4.
 

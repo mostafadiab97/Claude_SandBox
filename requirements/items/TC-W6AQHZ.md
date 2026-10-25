@@ -14,6 +14,7 @@ order: 1390
 links:
   - type: verifies
     target: SYS-V5VS4J
+    confirmed: 147eefc8e2dc
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

@@ -10,6 +10,7 @@ order: 1230
 links:
   - type: refines
     target: STK-DJ9M3M
+    confirmed: ba30e28a130f
 ---
 The tamper detection shall measure schedule entries without user interaction.
 

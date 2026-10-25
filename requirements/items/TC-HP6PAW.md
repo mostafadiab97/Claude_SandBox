@@ -12,6 +12,7 @@ order: 1710
 links:
   - type: verifies
     target: SYS-10B2S4
+    confirmed: b19977729874
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

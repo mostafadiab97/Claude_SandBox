@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SW-TK44GG
+    confirmed: 01fb2b134bcf
 ---
 The rotary knob shall limit safety limits below 0.5 W in standby.
 

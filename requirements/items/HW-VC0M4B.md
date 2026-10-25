@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-R8S84Y
+    confirmed: 1adc29377b0d
 ---
 The power supply shall report sensor readings below 0.5 W in standby.
 

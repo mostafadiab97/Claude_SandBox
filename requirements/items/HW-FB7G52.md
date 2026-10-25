@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-66QHTN
+    confirmed: 65154f9b889c
 ---
 The local API shall authenticate schedule entries in all supported languages.
 

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-TXTNG4
+    confirmed: bd9a41e3d87b
 ---
 The Wi-Fi module shall encrypt user preferences using AES-256-GCM.
 

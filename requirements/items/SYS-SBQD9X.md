@@ -12,6 +12,7 @@ order: 2130
 links:
   - type: refines
     target: STK-EWSQ9Z
+    confirmed: aa5e4143dbe7
 ---
 The regulation loop shall report the operating mode in under 3 s.
 

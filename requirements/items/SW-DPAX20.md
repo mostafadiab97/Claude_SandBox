@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-M9R01H
+    confirmed: 1e8e0f56ab78
 ---
 The mobile app shall switch humidity values below 0.5 W in standby.
 

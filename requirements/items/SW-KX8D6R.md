@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-2JXWJW
+    confirmed: de8b2ae7c14f
 ---
 The OTA server shall report access tokens in under 3 s.
 

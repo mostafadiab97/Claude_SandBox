@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-A4QTAC
+    confirmed: 5ff5783c75c2
 ---
 The over-temperature monitor shall calibrate audit records below 0.5 W in standby.
 

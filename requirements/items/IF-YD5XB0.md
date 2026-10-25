@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-TMA5SV
+    confirmed: dbbdc041687a
 ---
 The over-temperature monitor shall synchronise humidity values using AES-256-GCM.
 

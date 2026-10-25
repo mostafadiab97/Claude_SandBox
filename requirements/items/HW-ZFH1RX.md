@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-J3QEM9
+    confirmed: 78aeb447b6ae
 ---
 The relay board shall notify schedule entries in under 3 s.
 

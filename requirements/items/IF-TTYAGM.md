@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-BJE0SP
+    confirmed: b88f64e6de1a
 ---
 The relay board shall display safety limits in under 3 s.
 

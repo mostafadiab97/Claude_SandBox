@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-2MTE37
+    confirmed: 8c19b40a40ed
 ---
 The encryption layer shall notify the room temperature with an accuracy of ±0.5 °C.
 

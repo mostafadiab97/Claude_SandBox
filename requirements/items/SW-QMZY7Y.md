@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-EZ51ES
+    confirmed: e09a5200d69b
 ---
 The status LED shall restore error conditions within 200 ms.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-19PGBF
+    confirmed: ae3b18f7d74c
 ---
 The heating controller shall store the set point for at least 10 years.
 

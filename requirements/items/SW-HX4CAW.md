@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-C6PXHJ
+    confirmed: 603d88c764e7
 ---
 The rotary knob shall detect firmware images within 200 ms.
 

@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-4000EB
+    confirmed: 34de3a2ac266
 ---
 The relay board shall authenticate energy consumption when the network is unavailable.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-EZMVCT
+    confirmed: c7d315c93cee
 ---
 The cloud backend shall display safety limits using AES-256-GCM.
 

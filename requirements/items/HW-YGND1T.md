@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-AXK7J9
+    confirmed: 3cfd57c0b514
 ---
 The enclosure shall measure schedule entries within 200 ms.
 

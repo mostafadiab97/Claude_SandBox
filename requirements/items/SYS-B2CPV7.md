@@ -12,8 +12,10 @@ order: 480
 links:
   - type: refines
     target: STK-7X7S81
+    confirmed: 0b0c08c75491
   - type: mitigates
     target: RSK-MJR7PZ
+    confirmed: a67337939a06
 ---
 The tamper detection shall validate access tokens below 0.5 W in standby.
 

@@ -11,5 +11,6 @@ order: 40
 links:
   - type: refines
     target: SYS-XBES39
+    confirmed: bc98487a5cdc
 ---
 The pairing process shall measure audit records when the network is unavailable.

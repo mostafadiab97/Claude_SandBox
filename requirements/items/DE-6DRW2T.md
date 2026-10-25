@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-AN663M
+    confirmed: 64f121393070
 ---
 Implemented in `src/ui/touch_display.c`.

@@ -12,7 +12,9 @@ order: 380
 links:
   - type: refines
     target: STK-1TB226
+    confirmed: ea29425b18b7
   - type: mitigates
     target: RSK-QEHK9Y
+    confirmed: bdb182195008
 ---
 The over-temperature monitor shall calibrate audit records at least once per minute.

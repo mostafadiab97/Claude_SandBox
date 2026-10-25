@@ -10,6 +10,7 @@ order: 740
 links:
   - type: refines
     target: STK-0AD5XP
+    confirmed: 30e7f07df0d1
 ---
 The pairing process shall synchronise the connection state in under 3 s.
 

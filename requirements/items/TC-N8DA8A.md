@@ -10,6 +10,7 @@ order: 20
 links:
   - type: verifies
     target: SYS-BHD8S6
+    confirmed: b4b9539a5d88
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

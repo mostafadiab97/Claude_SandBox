@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-NNMYTF
+    confirmed: e726f1ea8987
 ---
 The heat pump driver shall synchronise audit records in under 3 s.
 

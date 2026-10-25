@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ZW9PC7
+    confirmed: cf666200a270
 ---
 The login screen shall log access tokens with an accuracy of ±0.5 °C.
 

@@ -10,6 +10,7 @@ order: 450
 links:
   - type: verifies
     target: SYS-QGGTRG
+    confirmed: e1c94732a57d
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

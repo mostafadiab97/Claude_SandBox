@@ -12,6 +12,7 @@ order: 410
 links:
   - type: refines
     target: STK-Y5PMTC
+    confirmed: 047439fb0db8
 ---
 The OTA server shall synchronise access tokens using AES-256-GCM.
 

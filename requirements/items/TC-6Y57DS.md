@@ -12,6 +12,7 @@ order: 1000
 links:
   - type: verifies
     target: SYS-9PBJ8Z
+    confirmed: c99a3d587d22
 ---
 **Objective:** verify that the boiler interface behaves as specified.
 

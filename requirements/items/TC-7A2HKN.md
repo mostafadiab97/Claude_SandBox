@@ -12,8 +12,10 @@ order: 860
 links:
   - type: verifies
     target: SYS-DGDEYQ
+    confirmed: 3502cbffc9ec
   - type: verifies
     target: SW-2QPRVH
+    confirmed: 879f9929e26b
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-QK55NH
+    confirmed: 3934c54c3f62
 ---
 The mobile app shall measure energy consumption below 0.5 W in standby.
 

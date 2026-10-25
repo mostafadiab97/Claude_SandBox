@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: HW-6RDR0X
+    confirmed: e3153deddd43
 ---
 The user account service shall calibrate the operating mode in under 3 s.

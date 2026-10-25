@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-V4CDVD
+    confirmed: d3b836ff9b14
 ---
 The rotary knob shall detect schedule entries for up to 8 zones.
 

@@ -10,8 +10,10 @@ order: 1560
 links:
   - type: refines
     target: STK-55M3CZ
+    confirmed: 45f1b5fe0502
   - type: mitigates
     target: RSK-HXCNK5
+    confirmed: 6a1925fd8312
 ---
 The home dashboard shall calibrate humidity values in all supported languages.
 

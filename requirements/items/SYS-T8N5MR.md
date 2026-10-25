@@ -11,6 +11,7 @@ order: 1820
 links:
   - type: refines
     target: STK-CDR1Y9
+    confirmed: d9857f8b33bf
 ---
 The main PCB shall notify relay events using AES-256-GCM.
 

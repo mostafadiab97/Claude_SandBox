@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-2TCHQB
+    confirmed: d50f8cfb5fb0
 ---
 The tamper detection shall synchronise safety limits after a power loss.
 

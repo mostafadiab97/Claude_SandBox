@@ -10,6 +10,7 @@ order: 570
 links:
   - type: verifies
     target: SYS-47FSG3
+    confirmed: 50f3571b1236
 ---
 **Objective:** verify that the relay board behaves as specified.
 

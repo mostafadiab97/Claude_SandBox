@@ -28,7 +28,7 @@ so it can be recreated at any time.
 | Heading / Information | 48 |
 | Change Request | 43 |
 | Use Case | 35 |
-| **Links** | **9,989** (all six link types) |
+| **Links** | **9,989** (all six link types; 175 suspect) |
 
 **Structure.** A title page with glossary and revision history, then one chapter per product area — Heating
 Control, Mobile App, Cloud Service, Device Display & Controls, Power & Hardware, Connectivity, Safety & Security.
@@ -38,6 +38,9 @@ requirements beneath each system requirement (some chains go several levels deep
 
 **Fields.** All statuses (Draft, Review, Approved, Obsolete), priorities including empty ones, 12 owners
 (including Arabic, German, French and Japanese names) and 14 tags.
+
+**Links.** Every link records the state of the item it points to when the link was confirmed. 175 links are
+*suspect* — their target was (as if) edited afterwards — so ReqMan marks them ⚠ until someone confirms them.
 
 **Texts.** One-line "shall" statements, rationale, acceptance-criteria lists, Markdown tables, numbered test
 steps, code blocks, Arabic right-to-left text.
@@ -50,6 +53,7 @@ steps, code blocks, Arabic right-to-left text.
 | Wide section: 650 children (tree shows 500, then "Show more") | Chapter 8 → "Wide section with 650 children" |
 | One requirement verified by 40 test cases | Chapter 8 → "Hub requirement linked by many test cases" |
 | An item with links of all six types | Chapter 8 → "Requirement with links of every type" |
+| Suspect links: a requirement reworded after 12 of its 40 test cases were confirmed | Chapter 8 → "Hub requirement linked by many test cases" (or filter **Links: With suspect links**) |
 | Quotes, colon and # in a title | Chapter 8 |
 | 200+ character title | Chapter 8 |
 | Unicode, emoji and Arabic text | Chapter 8 |

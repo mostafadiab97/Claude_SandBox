@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: IF-BW3X78
+    confirmed: 12312a10774b
 ---
 The power supply shall report relay events after a power loss.
 

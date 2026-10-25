@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SW-9JBTA8
+    confirmed: 6e566e3ac796
 ---
 The device registry shall display the room temperature for up to 8 zones.
 

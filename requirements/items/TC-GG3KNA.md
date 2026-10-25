@@ -12,6 +12,7 @@ order: 1440
 links:
   - type: verifies
     target: SYS-81C7XG
+    confirmed: b58b7666ff81
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

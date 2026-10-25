@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-97KT0W
+    confirmed: 26b3fcad096f
 ---
 The touch display shall restore energy consumption in under 3 s.
 

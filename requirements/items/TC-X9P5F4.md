@@ -9,6 +9,7 @@ order: 1460
 links:
   - type: verifies
     target: SYS-SPX676
+    confirmed: c915b489dd1f
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.
 

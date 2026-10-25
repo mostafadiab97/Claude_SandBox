@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-VA9RN1
+    confirmed: 93a4d8e298aa
 ---
 The notification service shall measure error conditions with an accuracy of ±0.5 °C.
 

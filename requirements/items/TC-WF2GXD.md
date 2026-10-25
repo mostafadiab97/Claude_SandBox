@@ -9,6 +9,7 @@ order: 1860
 links:
   - type: verifies
     target: SYS-59MM6H
+    confirmed: 45d68bfca0bb
 ---
 **Objective:** verify that the device behaves as specified.
 

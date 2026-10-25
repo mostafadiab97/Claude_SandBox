@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-WRCCVQ
+    confirmed: 22615937890b
 ---
 The enclosure shall synchronise the connection state after a power loss.
 

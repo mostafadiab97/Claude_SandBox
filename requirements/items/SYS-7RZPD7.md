@@ -10,6 +10,7 @@ order: 870
 links:
   - type: refines
     target: STK-5CT2VD
+    confirmed: 51ca0f7a80ed
 ---
 The Bluetooth LE link shall authenticate firmware images using AES-256-GCM.
 

@@ -9,6 +9,7 @@ order: 200
 links:
   - type: verifies
     target: SYS-CZQB2K
+    confirmed: 3322889d2361
 ---
 **Objective:** verify that the user account service behaves as specified.
 

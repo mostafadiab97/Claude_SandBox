@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: IF-BXVFWK
+    confirmed: 22e60abc9f8b
 ---
 The OTA server shall synchronise energy consumption without user interaction.
 

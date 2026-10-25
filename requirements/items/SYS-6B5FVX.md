@@ -12,6 +12,7 @@ order: 1590
 links:
   - type: refines
     target: STK-EHVDJF
+    confirmed: cf195cdb6a20
 ---
 The touch display shall validate the room temperature with an accuracy of ±0.5 °C.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-0AA75P
+    confirmed: 70487a7cf864
 ---
 The enclosure shall authenticate energy consumption for at least 10 years.
 

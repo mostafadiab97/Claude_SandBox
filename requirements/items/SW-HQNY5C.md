@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-69PVAQ
+    confirmed: 4743caaf44a6
 ---
 The mobile app shall limit firmware images without user interaction.

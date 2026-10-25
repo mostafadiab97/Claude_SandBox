@@ -11,5 +11,6 @@ order: 30
 links:
   - type: refines
     target: SYS-Y4YCS0
+    confirmed: a080ef16fc5e
 ---
 The menu system shall log audit records for up to 8 zones.

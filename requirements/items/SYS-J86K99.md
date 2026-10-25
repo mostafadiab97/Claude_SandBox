@@ -9,6 +9,7 @@ order: 1380
 links:
   - type: refines
     target: STK-Y5PMTC
+    confirmed: 047439fb0db8
 ---
 The device registry shall limit humidity values for at least 10 years.
 

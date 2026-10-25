@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-WM6GTH
+    confirmed: f1e98774112c
 ---
 The rotary knob shall calibrate access tokens within 200 ms.
 

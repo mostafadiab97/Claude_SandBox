@@ -9,6 +9,7 @@ order: 1680
 links:
   - type: refines
     target: STK-VT1KVD
+    confirmed: fbcfb8475f32
 ---
 The telemetry pipeline shall measure safety limits at least once per minute.
 

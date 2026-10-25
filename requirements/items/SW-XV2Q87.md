@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-S4CRQY
+    confirmed: 665acc28f34d
 ---
 The boiler interface shall restore safety limits at least once per minute.
 

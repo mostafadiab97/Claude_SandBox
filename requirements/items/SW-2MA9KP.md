@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-YM8WV2
+    confirmed: 7d17fc612096
 ---
 The encryption layer shall restore firmware images without user interaction.
 

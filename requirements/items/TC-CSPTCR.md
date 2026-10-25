@@ -14,6 +14,7 @@ order: 1220
 links:
   - type: verifies
     target: SYS-ZG2A7P
+    confirmed: dd3e6f066e4e
 ---
 **Objective:** verify that the cloud backend behaves as specified.
 

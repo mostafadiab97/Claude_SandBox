@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: IF-MZ4YHN
+    confirmed: 48be94d2f5fe
 ---
 The rotary knob shall limit the connection state below 0.5 W in standby.

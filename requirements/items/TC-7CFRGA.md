@@ -14,6 +14,7 @@ order: 1610
 links:
   - type: verifies
     target: SYS-61H36K
+    confirmed: c34ac0cd30f1
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

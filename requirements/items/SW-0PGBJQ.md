@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-244X2N
+    confirmed: fa8561abaa1a
 ---
 The Bluetooth LE link shall measure the operating mode for up to 8 zones.
 

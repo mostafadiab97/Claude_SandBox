@@ -10,6 +10,7 @@ order: 650
 links:
   - type: verifies
     target: SYS-0YN9CR
+    confirmed: fd79ba8f2af2
 ---
 **Objective:** verify that the login screen behaves as specified.
 

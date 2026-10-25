@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-N5W9W0
+    confirmed: 87fdc793b541
 ---
 The cloud backend shall switch the operating mode for up to 8 zones.
 

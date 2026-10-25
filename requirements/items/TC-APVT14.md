@@ -13,6 +13,7 @@ order: 950
 links:
   - type: verifies
     target: SYS-5NPG22
+    confirmed: de7334e55ef0
 ---
 **Objective:** verify that the device behaves as specified.
 

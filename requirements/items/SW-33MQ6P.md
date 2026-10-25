@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-XW4JM5
+    confirmed: be5919c1ecf0
 ---
 The regulation loop shall calibrate schedule entries below 0.5 W in standby.

@@ -13,8 +13,10 @@ order: 420
 links:
   - type: refines
     target: STK-SKPX7F
+    confirmed: ff820400e2f9
   - type: mitigates
     target: RSK-HKANA4
+    confirmed: dc7034353f37
 ---
 The device registry shall calibrate firmware images at least once per minute.
 

@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-MN0YG6
+    confirmed: abb306df2814
 ---
 The login screen shall detect the operating mode in all supported languages.
 

@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-8YT9NF
+    confirmed: 89f10c1dd66e
 ---
 The home dashboard shall log the connection state using AES-256-GCM.

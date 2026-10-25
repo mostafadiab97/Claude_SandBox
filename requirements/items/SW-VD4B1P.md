@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-HYQA89
+    confirmed: 02764287a3b2
 ---
 The user account service shall detect access tokens without user interaction.
 

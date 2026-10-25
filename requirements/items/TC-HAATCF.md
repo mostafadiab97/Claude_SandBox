@@ -9,8 +9,10 @@ order: 530
 links:
   - type: verifies
     target: SYS-FA8CFD
+    confirmed: 7868d91ae4aa
   - type: verifies
     target: SW-J9XSE6
+    confirmed: 2a159346ffb0
 ---
 **Objective:** verify that the local API behaves as specified.
 

@@ -13,6 +13,7 @@ order: 1500
 links:
   - type: verifies
     target: SYS-D4W333
+    confirmed: 11ac230159e7
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: STK-Q8BNKR
+    confirmed: 6deaa78e6ab3
 ---
 The heating controller shall measure the connection state with an accuracy of ±0.5 °C.

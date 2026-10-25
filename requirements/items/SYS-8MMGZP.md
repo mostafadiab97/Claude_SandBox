@@ -11,6 +11,7 @@ order: 230
 links:
   - type: refines
     target: STK-SM9B7Z
+    confirmed: 44235e2789f0
 ---
 The watchdog shall display humidity values below 0.5 W in standby.
 

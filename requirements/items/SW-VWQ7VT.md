@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MRHZSS
+    confirmed: 3746d94f7720
 ---
 The notification service shall synchronise safety limits using AES-256-GCM.
 

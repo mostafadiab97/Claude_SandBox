@@ -12,6 +12,7 @@ order: 1090
 links:
   - type: refines
     target: STK-4NGQJ5
+    confirmed: 96640a7e340d
 ---
 The power supply shall synchronise schedule entries after a power loss.
 

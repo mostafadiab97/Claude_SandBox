@@ -13,8 +13,10 @@ order: 1510
 links:
   - type: verifies
     target: SYS-9Y8YJ7
+    confirmed: 1548dd90610f
   - type: verifies
     target: SW-CD64BA
+    confirmed: f7be308643e4
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

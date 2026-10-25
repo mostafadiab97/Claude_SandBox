@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-MSYB7C
+    confirmed: a4224df30283
 ---
 The rotary knob shall authenticate audit records after a power loss.

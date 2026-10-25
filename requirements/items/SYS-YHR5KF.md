@@ -13,6 +13,7 @@ order: 110
 links:
   - type: refines
     target: STK-1TB226
+    confirmed: ea29425b18b7
 ---
 The over-temperature monitor shall display the operating mode at least once per minute.
 

@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-HPNQHQ
+    confirmed: 4fe382f87558
 ---
 The login screen shall store energy consumption after a power loss.
 

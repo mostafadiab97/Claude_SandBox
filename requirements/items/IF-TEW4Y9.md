@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-SEWHSS
+    confirmed: aa9171cf3c4c
 ---
 The telemetry pipeline shall restore error conditions after a power loss.

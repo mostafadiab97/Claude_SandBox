@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SW-FM4SMD
+    confirmed: e433c3217e25
 ---
 The heat pump driver shall notify the room temperature using AES-256-GCM.

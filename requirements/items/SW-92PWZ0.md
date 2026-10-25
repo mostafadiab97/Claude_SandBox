@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-CFWA46
+    confirmed: 13df4104599e
 ---
 The watchdog shall switch the connection state with an accuracy of ±0.5 °C.

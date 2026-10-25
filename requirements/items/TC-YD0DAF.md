@@ -9,6 +9,7 @@ order: 740
 links:
   - type: verifies
     target: SYS-1KYW4V
+    confirmed: b5edec3ba8f3
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.
 

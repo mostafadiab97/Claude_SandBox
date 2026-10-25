@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-P36G1D
+    confirmed: 7608061a10c1
 ---
 The pairing process shall report safety limits without user interaction.
 

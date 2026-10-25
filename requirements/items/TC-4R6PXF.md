@@ -14,6 +14,7 @@ order: 970
 links:
   - type: verifies
     target: SYS-3QBDZ4
+    confirmed: 1ebb264cb27c
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

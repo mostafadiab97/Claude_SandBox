@@ -10,5 +10,6 @@ order: 970
 links:
   - type: refines
     target: STK-ND3D08
+    confirmed: df91c673f737
 ---
 The mobile app shall synchronise access tokens with an accuracy of ±0.5 °C.

@@ -12,6 +12,7 @@ order: 440
 links:
   - type: refines
     target: STK-BR4RT9
+    confirmed: 16def0c1f947
 ---
 The notification service shall store the set point without user interaction.
 

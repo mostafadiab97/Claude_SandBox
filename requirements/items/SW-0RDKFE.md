@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-Z1XA6B
+    confirmed: 728d60341efa
 ---
 The home dashboard shall synchronise humidity values in all supported languages.
 

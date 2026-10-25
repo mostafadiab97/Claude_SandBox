@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-EK761P
+    confirmed: db6748ce1b10
 ---
 The OTA server shall store schedule entries within 200 ms.
 

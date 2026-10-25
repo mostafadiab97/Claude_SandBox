@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-92Z3JT
+    confirmed: ce0b3aa51799
 ---
 The notification service shall store humidity values using AES-256-GCM.
 

@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-4JQMJS
+    confirmed: 5acdb7574d9f
 ---
 The heating controller shall switch humidity values when the network is unavailable.

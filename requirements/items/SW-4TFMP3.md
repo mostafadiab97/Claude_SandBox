@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-GR1195
+    confirmed: 3faf6fa03816
 ---
 The pairing process shall display the connection state when the network is unavailable.
 

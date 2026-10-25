@@ -10,6 +10,7 @@ order: 1220
 links:
   - type: refines
     target: STK-KPV71Q
+    confirmed: 10d9c216aea2
 ---
 The status LED shall notify humidity values at least once per minute.
 

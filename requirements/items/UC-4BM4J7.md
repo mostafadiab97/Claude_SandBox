@@ -13,6 +13,7 @@ order: 130
 links:
   - type: relates-to
     target: STK-DNB9QM
+    confirmed: 90394ce55463
 ---
 **Actor:** home owner
 

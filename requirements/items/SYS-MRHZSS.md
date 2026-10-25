@@ -12,5 +12,6 @@ order: 1730
 links:
   - type: refines
     target: STK-BR4RT9
+    confirmed: 16def0c1f947
 ---
 The notification service shall limit audit records without user interaction.

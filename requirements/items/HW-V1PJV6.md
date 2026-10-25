@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-NAZA59
+    confirmed: 0b0c80c7d5cf
 ---
 The cloud backend shall notify the set point in all supported languages.
 

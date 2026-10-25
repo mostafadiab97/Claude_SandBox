@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-FBBSBY
+    confirmed: 5c24a7d6abf6
 ---
 Implemented in `src/ui/touch_display.c`.

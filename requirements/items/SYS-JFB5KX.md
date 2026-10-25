@@ -13,6 +13,7 @@ order: 160
 links:
   - type: refines
     target: STK-W8N48B
+    confirmed: 00c32cea6ea5
 ---
 The heat pump driver shall store audit records after a power loss.
 

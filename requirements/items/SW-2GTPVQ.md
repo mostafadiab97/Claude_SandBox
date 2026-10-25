@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-5GVCBE
+    confirmed: 4f9a7c40ce36
 ---
 The mobile app shall measure relay events in under 3 s.
 

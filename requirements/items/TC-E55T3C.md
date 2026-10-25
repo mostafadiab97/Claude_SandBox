@@ -10,6 +10,7 @@ order: 790
 links:
   - type: verifies
     target: SYS-3V07ZT
+    confirmed: bd35bc218b6c
 ---
 **Objective:** verify that the relay board behaves as specified.
 

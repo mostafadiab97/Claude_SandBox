@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-VW03TF
+    confirmed: 820dbe358ffe
 ---
 The Wi-Fi module shall notify safety limits at least once per minute.
 

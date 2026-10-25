@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-2Z6C9V
+    confirmed: 58fbfc45ce54
 ---
 The user account service shall encrypt user preferences using AES-256-GCM.
 

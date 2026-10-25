@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SW-MZZN7D
+    confirmed: 1cea8a79c651
 ---
 The regulation loop shall restore access tokens without user interaction.
 

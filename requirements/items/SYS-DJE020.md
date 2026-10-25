@@ -13,5 +13,6 @@ order: 1750
 links:
   - type: refines
     target: STK-35QR7F
+    confirmed: bc1aebb7918d
 ---
 The rotary knob shall restore humidity values within 200 ms.

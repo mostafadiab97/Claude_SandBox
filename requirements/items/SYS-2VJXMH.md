@@ -11,6 +11,7 @@ order: 230
 links:
   - type: refines
     target: STK-AA05P4
+    confirmed: e2bec3bcd11c
 ---
 The zone valve shall calibrate humidity values in all supported languages.
 

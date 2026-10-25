@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: HW-JDDX05
+    confirmed: c7efefd63c01
 ---
 The battery backup shall notify access tokens below 0.5 W in standby.

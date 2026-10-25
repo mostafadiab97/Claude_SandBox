@@ -12,6 +12,7 @@ order: 660
 links:
   - type: refines
     target: STK-5VZRF2
+    confirmed: cf78baefa376
 ---
 The login screen shall log humidity values without user interaction.
 

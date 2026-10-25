@@ -10,6 +10,7 @@ order: 1730
 links:
   - type: verifies
     target: SYS-K4NJEM
+    confirmed: caa88f61d9bd
 ---
 **Objective:** verify that the device behaves as specified.
 

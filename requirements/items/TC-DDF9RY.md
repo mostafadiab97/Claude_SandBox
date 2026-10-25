@@ -13,6 +13,7 @@ order: 650
 links:
   - type: verifies
     target: SYS-MK2A6C
+    confirmed: f66b9f28edb5
 ---
 **Objective:** verify that the device behaves as specified.
 

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-6WGPXQ
+    confirmed: 43c54a753927
 ---
 The pairing process shall measure humidity values at least once per minute.
 

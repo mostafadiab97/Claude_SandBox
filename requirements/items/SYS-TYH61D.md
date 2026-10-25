@@ -12,6 +12,7 @@ order: 1000
 links:
   - type: refines
     target: STK-HH6ZNR
+    confirmed: caa77fe9df1c
 ---
 The touch display shall detect schedule entries at least once per minute.
 

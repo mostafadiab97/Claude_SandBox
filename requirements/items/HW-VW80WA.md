@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-0C67M1
+    confirmed: bc43b8bf2879
 ---
 The battery backup shall log firmware images using AES-256-GCM.
 

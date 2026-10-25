@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-34QNYE
+    confirmed: f6e72f885951
 ---
 The Bluetooth LE link shall notify error conditions in under 3 s.
 

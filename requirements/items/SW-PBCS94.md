@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-87EW4E
+    confirmed: 2c0f1742743a
 ---
 The encryption layer shall report access tokens when the network is unavailable.
 

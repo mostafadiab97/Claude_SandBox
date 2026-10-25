@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-HZ4B6T
+    confirmed: 238549cadf2a
 ---
 The login screen shall synchronise the operating mode below 0.5 W in standby.
 

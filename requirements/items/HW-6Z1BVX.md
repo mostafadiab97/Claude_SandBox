@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-RAD6T2
+    confirmed: 05d37b4e999b
 ---
 The pairing process shall report error conditions below 0.5 W in standby.
 

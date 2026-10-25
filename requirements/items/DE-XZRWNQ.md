@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-D5MYE6
+    confirmed: fb3b812a3494
 ---
 Implemented in `src/ui/backlight.c`.

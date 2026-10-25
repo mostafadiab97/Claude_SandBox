@@ -10,8 +10,10 @@ order: 10
 links:
   - type: relates-to
     target: TC-V2NG4D
+    confirmed: c39a9dbf1641
   - type: relates-to
     target: SYS-S0DBYP
+    confirmed: edb84b967ce3
 ---
 Found during regression testing of build 2.5.35.
 

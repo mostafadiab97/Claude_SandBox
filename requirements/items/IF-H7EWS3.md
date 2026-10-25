@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-V0NAHN
+    confirmed: ec8c0357bfe4
 ---
 The main PCB shall validate energy consumption when the network is unavailable.
 

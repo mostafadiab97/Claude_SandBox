@@ -12,7 +12,9 @@ order: 1770
 links:
   - type: refines
     target: STK-JBY2BX
+    confirmed: bcce6e51beb4
   - type: mitigates
     target: RSK-MJR7PZ
+    confirmed: a67337939a06
 ---
 The over-temperature monitor shall detect firmware images below 0.5 W in standby.

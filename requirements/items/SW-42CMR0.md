@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-3ZGG1G
+    confirmed: 805d152578fb
 ---
 The telemetry pipeline shall calibrate energy consumption in under 3 s.
 

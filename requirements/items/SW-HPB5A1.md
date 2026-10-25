@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-58H7WQ
+    confirmed: 4ec07940ffd5
 ---
 The OTA server shall limit humidity values using AES-256-GCM.

@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-ERGMGJ
+    confirmed: 4e0d29ca2f08
 ---
 The Zigbee radio shall report safety limits after a power loss.

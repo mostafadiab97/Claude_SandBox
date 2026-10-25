@@ -12,6 +12,7 @@ order: 1140
 links:
   - type: verifies
     target: SYS-5FN1TB
+    confirmed: 52219f23d7ef
 ---
 **Objective:** verify that the device behaves as specified.
 

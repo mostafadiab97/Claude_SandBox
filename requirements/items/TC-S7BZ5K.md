@@ -12,8 +12,10 @@ order: 800
 links:
   - type: verifies
     target: SYS-Y8Q9XD
+    confirmed: dfd0a878dd51
   - type: verifies
     target: SW-B45075
+    confirmed: 44b6eb114f52
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

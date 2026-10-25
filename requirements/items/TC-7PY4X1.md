@@ -12,6 +12,7 @@ order: 1090
 links:
   - type: verifies
     target: SYS-26VKCE
+    confirmed: 5c68d7d11bea
 ---
 **Objective:** verify that the menu system behaves as specified.
 

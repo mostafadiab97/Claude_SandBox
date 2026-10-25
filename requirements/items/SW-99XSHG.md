@@ -14,5 +14,6 @@ order: 30
 links:
   - type: refines
     target: SYS-4W17YE
+    confirmed: 91763bba0bd6
 ---
 The notification service shall display the set point within 200 ms.

@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-0AQ1WN
+    confirmed: 7e00d0c5709a
 ---
 The OTA server shall validate error conditions without user interaction.
 

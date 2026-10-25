@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-5XB7KH
+    confirmed: ce31b91ce201
 ---
 The Bluetooth LE link shall limit the connection state when the network is unavailable.
 

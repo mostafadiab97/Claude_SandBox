@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MQR6RF
+    confirmed: d9d4b12d67de
 ---
 The relay board shall encrypt the room temperature without user interaction.
 

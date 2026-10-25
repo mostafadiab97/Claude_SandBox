@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-HY185S
+    confirmed: 4f41eab5e96a
 ---
 The pairing process shall display sensor readings when the network is unavailable.

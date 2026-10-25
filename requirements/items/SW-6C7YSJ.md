@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-FRBAX4
+    confirmed: a6ca038853e0
 ---
 The tamper detection shall synchronise humidity values after a power loss.
 

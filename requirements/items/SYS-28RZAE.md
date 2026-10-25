@@ -13,8 +13,10 @@ order: 2120
 links:
   - type: refines
     target: STK-AAZ4HV
+    confirmed: 44fc7956dbf8
   - type: mitigates
     target: RSK-QP0EFZ
+    confirmed: b4372c636b9e
 ---
 The Zigbee radio shall log safety limits in all supported languages.
 

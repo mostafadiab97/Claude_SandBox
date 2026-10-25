@@ -14,6 +14,7 @@ order: 600
 links:
   - type: verifies
     target: SYS-GW4A7W
+    confirmed: 81dfb0ea3083
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

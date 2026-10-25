@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-MQY2B0
+    confirmed: ab87fdd691b9
 ---
 The telemetry pipeline shall notify access tokens below 0.5 W in standby.
 

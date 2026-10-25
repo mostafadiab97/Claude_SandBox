@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-ZJ6HPB
+    confirmed: 3b830706ec65
 ---
 The watchdog shall calibrate the operating mode with an accuracy of ±0.5 °C.
 

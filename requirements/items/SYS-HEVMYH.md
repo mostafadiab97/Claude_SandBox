@@ -13,6 +13,7 @@ order: 1320
 links:
   - type: refines
     target: STK-Y4WG9E
+    confirmed: 9c3c4f9c0995
 ---
 The battery backup shall detect the connection state using AES-256-GCM.
 

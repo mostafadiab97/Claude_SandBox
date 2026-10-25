@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-ZD6MAN
+    confirmed: b57421988eae
 ---
 The schedule editor shall encrypt safety limits without user interaction.
 

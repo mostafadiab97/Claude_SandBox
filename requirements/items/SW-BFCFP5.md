@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-C6SNN2
+    confirmed: 20d5c99b3fa6
 ---
 The regulation loop shall encrypt humidity values when the network is unavailable.
 

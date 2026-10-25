@@ -12,6 +12,7 @@ order: 1500
 links:
   - type: verifies
     target: SYS-G1WQ30
+    confirmed: 6324bbe48da8
 ---
 **Objective:** verify that the menu system behaves as specified.
 

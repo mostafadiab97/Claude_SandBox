@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-4GWP6Y
+    confirmed: e32a95a0afeb
 ---
 The OTA server shall synchronise the room temperature for up to 8 zones.
 

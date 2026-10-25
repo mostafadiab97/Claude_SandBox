@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-K5A3V7
+    confirmed: bf565e4503ad
 ---
 The touch display shall synchronise firmware images at least once per minute.

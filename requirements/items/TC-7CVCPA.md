@@ -13,6 +13,7 @@ order: 1450
 links:
   - type: verifies
     target: SYS-KFPJKE
+    confirmed: bd64fc054017
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

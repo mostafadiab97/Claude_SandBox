@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-1EGDCA
+    confirmed: 04f972a6cfd9
 ---
 The Bluetooth LE link shall measure user preferences below 0.5 W in standby.
 

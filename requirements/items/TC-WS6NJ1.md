@@ -13,6 +13,7 @@ order: 780
 links:
   - type: verifies
     target: SYS-9YBZ5V
+    confirmed: 50bd568ec960
 ---
 **Objective:** verify that the rotary knob behaves as specified.
 

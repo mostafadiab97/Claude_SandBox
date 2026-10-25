@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-0VMFCD
+    confirmed: 3996412c5183
 ---
 The notification service shall authenticate schedule entries after a power loss.
 

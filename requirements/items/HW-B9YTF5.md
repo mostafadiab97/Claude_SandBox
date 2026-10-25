@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-5N0YKT
+    confirmed: 08567b44affd
 ---
 The OTA server shall synchronise audit records when the network is unavailable.
 

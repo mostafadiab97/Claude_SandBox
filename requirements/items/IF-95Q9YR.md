@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-0P0DNN
+    confirmed: fb01b79aacb5
 ---
 The boiler interface shall report humidity values below 0.5 W in standby.
 

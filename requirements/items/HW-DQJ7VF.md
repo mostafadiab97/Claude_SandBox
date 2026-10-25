@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-E79TSB
+    confirmed: dbeab1b468f4
 ---
 The relay board shall measure the room temperature when the network is unavailable.
 

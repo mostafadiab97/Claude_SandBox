@@ -12,8 +12,10 @@ order: 940
 links:
   - type: verifies
     target: SYS-J17HQ6
+    confirmed: e0be285eec93
   - type: verifies
     target: SW-WRPYK6
+    confirmed: 54253c7ea624
 ---
 **Objective:** verify that the login screen behaves as specified.
 

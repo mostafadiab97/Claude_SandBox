@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SW-6X1FZN
+    confirmed: c07dd802b4bc
 ---
 The home dashboard shall store the connection state for up to 8 zones.

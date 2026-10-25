@@ -8,6 +8,7 @@ order: 1970
 links:
   - type: verifies
     target: SYS-QHMT67
+    confirmed: 77747505e6c0
 ---
 **Objective:** verify that the device behaves as specified.
 

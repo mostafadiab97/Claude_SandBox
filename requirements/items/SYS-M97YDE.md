@@ -14,6 +14,7 @@ order: 1320
 links:
   - type: refines
     target: STK-0AD5XP
+    confirmed: 30e7f07df0d1
 ---
 The local API shall store relay events within 200 ms.
 

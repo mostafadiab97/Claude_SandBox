@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-KT5254
+    confirmed: 609b39c5ecd0
 ---
 The enclosure shall report error conditions without user interaction.
 

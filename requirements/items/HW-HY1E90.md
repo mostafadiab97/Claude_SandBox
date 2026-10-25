@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-9W0KTX
+    confirmed: a4802eb2b834
 ---
 The Bluetooth LE link shall detect the set point after a power loss.
 

@@ -9,8 +9,10 @@ order: 910
 links:
   - type: verifies
     target: SYS-4JV7MY
+    confirmed: 199fce62923b
   - type: verifies
     target: SW-C4TQ7V
+    confirmed: 71eb8e44b2b0
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

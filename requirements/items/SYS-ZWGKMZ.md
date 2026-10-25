@@ -12,6 +12,7 @@ order: 190
 links:
   - type: refines
     target: STK-8PN4VS
+    confirmed: a3e83ac40678
 ---
 The menu system shall switch energy consumption in under 3 s.
 

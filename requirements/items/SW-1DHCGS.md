@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-2QZKSN
+    confirmed: c4664feed0e6
 ---
 The telemetry pipeline shall restore the room temperature within 200 ms.
 

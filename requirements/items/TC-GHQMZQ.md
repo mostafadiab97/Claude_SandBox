@@ -14,6 +14,7 @@ order: 380
 links:
   - type: verifies
     target: SYS-Q1NDZA
+    confirmed: 1aaab302f129
 ---
 **Objective:** verify that the power supply behaves as specified.
 

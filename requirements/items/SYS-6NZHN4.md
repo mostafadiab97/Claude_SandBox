@@ -11,6 +11,7 @@ order: 200
 links:
   - type: refines
     target: STK-AA05P4
+    confirmed: e2bec3bcd11c
 ---
 The zone valve shall display firmware images in under 3 s.
 

@@ -13,6 +13,7 @@ order: 440
 links:
   - type: refines
     target: STK-QN5QGR
+    confirmed: ae0f58e089a1
 ---
 The telemetry pipeline shall measure energy consumption at least once per minute.
 

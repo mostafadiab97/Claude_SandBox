@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-9KQ0S9
+    confirmed: bc8207c9b248
 ---
 The watchdog shall detect error conditions without user interaction.
 

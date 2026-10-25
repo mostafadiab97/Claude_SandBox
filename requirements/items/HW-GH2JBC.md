@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-K4NJEM
+    confirmed: caa88f61d9bd
 ---
 The enclosure shall encrypt safety limits in all supported languages.
 

@@ -9,8 +9,10 @@ order: 10
 links:
   - type: relates-to
     target: TC-AD54Z2
+    confirmed: b9b240fbc5f9
   - type: relates-to
     target: SYS-KBPFCV
+    confirmed: 659b9683cc27
 ---
 Found during regression testing of build 2.2.38.
 

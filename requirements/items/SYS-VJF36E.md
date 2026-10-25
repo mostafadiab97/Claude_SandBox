@@ -11,5 +11,6 @@ order: 380
 links:
   - type: refines
     target: STK-CDR1Y9
+    confirmed: d9857f8b33bf
 ---
 The power supply shall notify the room temperature at least once per minute.

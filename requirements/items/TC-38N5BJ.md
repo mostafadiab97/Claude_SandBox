@@ -11,8 +11,10 @@ order: 700
 links:
   - type: verifies
     target: SYS-5EDMMX
+    confirmed: 6f6f1dc47197
   - type: verifies
     target: SW-8T7BET
+    confirmed: 62a7da2a6c53
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

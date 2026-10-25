@@ -14,6 +14,7 @@ order: 1450
 links:
   - type: refines
     target: STK-W1SAZ0
+    confirmed: f0954f8ba0a2
 ---
 The zone valve shall measure access tokens with an accuracy of ±0.5 °C.
 

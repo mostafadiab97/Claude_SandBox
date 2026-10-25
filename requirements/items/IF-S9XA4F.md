@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-498SK9
+    confirmed: 86d80fd5cb72
 ---
 The device registry shall calibrate access tokens using AES-256-GCM.
 

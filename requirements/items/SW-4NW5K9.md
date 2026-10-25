@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-77PVXT
+    confirmed: 33b1a201b47a
 ---
 The telemetry pipeline shall display safety limits for at least 10 years.

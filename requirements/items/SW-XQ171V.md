@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-XF6HRT
+    confirmed: 8fa995f67a12
 ---
 The notification service shall validate safety limits at least once per minute.
 

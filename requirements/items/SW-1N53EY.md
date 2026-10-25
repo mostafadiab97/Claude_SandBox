@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-95649D
+    confirmed: 1d3bba17b129
 ---
 The tamper detection shall display schedule entries in under 3 s.

@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-Z2TFC8
+    confirmed: 985116655f53
 ---
 The telemetry pipeline shall restore access tokens within 200 ms.

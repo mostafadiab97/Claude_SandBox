@@ -11,6 +11,7 @@ order: 1650
 links:
   - type: verifies
     target: SYS-ZNDMZ4
+    confirmed: 57cabc46b0d2
 ---
 **Objective:** verify that the device behaves as specified.
 

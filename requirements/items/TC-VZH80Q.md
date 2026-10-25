@@ -9,6 +9,7 @@ order: 270
 links:
   - type: verifies
     target: SYS-VJF36E
+    confirmed: 54c7b8c371d8
 ---
 **Objective:** verify that the power supply behaves as specified.
 

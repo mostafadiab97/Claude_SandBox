@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-9Y8YJ7
+    confirmed: 1548dd90610f
 ---
 The heating controller shall restore relay events within 200 ms.
 

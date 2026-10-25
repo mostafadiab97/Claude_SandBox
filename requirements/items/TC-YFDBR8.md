@@ -9,6 +9,7 @@ order: 310
 links:
   - type: verifies
     target: SYS-SGE8R7
+    confirmed: f0923cc9ca25
 ---
 **Objective:** verify that the power supply behaves as specified.
 

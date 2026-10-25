@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-82PKWA
+    confirmed: c920ab97ee7b
 ---
 The home dashboard shall report energy consumption in all supported languages.

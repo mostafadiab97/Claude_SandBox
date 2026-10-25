@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-XFVPHY
+    confirmed: 7476eaa71d9e
 ---
 The tamper detection shall store sensor readings for up to 8 zones.
 

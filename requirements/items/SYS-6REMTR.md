@@ -11,8 +11,10 @@ order: 30
 links:
   - type: refines
     target: STK-ND3D08
+    confirmed: df91c673f737
   - type: mitigates
     target: RSK-8FFR90
+    confirmed: 63c04ae06813
 ---
 The login screen shall validate humidity values after a power loss.
 

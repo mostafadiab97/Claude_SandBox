@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-M5K19A
+    confirmed: d493bfcbb1ae
 ---
 Implemented in `src/heat/zone_valve.c`.

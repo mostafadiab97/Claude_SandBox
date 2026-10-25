@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: HW-9Y39CX
+    confirmed: 75ad818553c9
 ---
 The Zigbee radio shall log the connection state with an accuracy of ±0.5 °C.
 

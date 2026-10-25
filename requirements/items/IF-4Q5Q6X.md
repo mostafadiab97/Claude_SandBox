@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-0PC3VY
+    confirmed: 2cdc7bcf19db
 ---
 The enclosure shall encrypt relay events when the network is unavailable.
 

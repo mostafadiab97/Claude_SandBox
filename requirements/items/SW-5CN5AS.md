@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-K8NQFV
+    confirmed: 85b34b755d1e
 ---
 The zone valve shall synchronise firmware images within 200 ms.
 

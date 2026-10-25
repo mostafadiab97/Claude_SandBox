@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-9EEFDN
+    confirmed: 94ba9510fda2
 ---
 The notification service shall limit relay events for at least 10 years.
 

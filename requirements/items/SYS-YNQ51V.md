@@ -13,8 +13,10 @@ order: 1610
 links:
   - type: refines
     target: STK-HH6ZNR
+    confirmed: caa77fe9df1c
   - type: mitigates
     target: RSK-H5P7DK
+    confirmed: 071ef93a7be9
 ---
 The menu system shall restore sensor readings when the network is unavailable.
 

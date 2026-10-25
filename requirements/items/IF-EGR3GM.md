@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-RZ204B
+    confirmed: a414dd799ef0
 ---
 The secure boot shall validate access tokens for up to 8 zones.
 

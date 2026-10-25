@@ -12,6 +12,7 @@ order: 170
 links:
   - type: refines
     target: STK-DZ9P6K
+    confirmed: 35469390951d
 ---
 The Wi-Fi module shall report the room temperature below 0.5 W in standby.
 

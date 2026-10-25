@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-SR6XFH
+    confirmed: 69647231783e
 ---
 The status LED shall notify firmware images without user interaction.
 

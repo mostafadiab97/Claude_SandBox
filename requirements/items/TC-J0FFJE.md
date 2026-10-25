@@ -11,6 +11,7 @@ order: 30
 links:
   - type: verifies
     target: SYS-2KGJFW
+    confirmed: 33b6774f671a
 ---
 **Objective:** verify that the status LED behaves as specified.
 

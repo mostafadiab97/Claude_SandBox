@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-E1XEK0
+    confirmed: 74460965be9f
 ---
 The secure boot shall restore sensor readings below 0.5 W in standby.

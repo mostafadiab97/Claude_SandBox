@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-0R8DVR
+    confirmed: 008c7842cee7
 ---
 The notification service shall restore user preferences for at least 10 years.
 

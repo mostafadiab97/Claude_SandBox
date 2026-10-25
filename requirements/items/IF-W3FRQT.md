@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MEFF8R
+    confirmed: f144cf8852e5
 ---
 The heating controller shall detect safety limits after a power loss.
 

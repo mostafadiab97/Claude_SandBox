@@ -12,8 +12,10 @@ order: 430
 links:
   - type: verifies
     target: SYS-KR7GHB
+    confirmed: 8050d4028450
   - type: verifies
     target: SW-TW2DF9
+    confirmed: 914d7cae9637
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

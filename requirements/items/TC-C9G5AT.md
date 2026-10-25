@@ -10,8 +10,10 @@ order: 1130
 links:
   - type: verifies
     target: SYS-S4CRQY
+    confirmed: 665acc28f34d
   - type: verifies
     target: SW-GEQD7V
+    confirmed: b4c2cec05ff8
 ---
 **Objective:** verify that the boiler interface behaves as specified.
 

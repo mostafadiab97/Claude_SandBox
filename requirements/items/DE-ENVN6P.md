@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-95QS75
+    confirmed: 81a7bc4043b2
 ---
 Implemented in `src/ui/menu_system.c`.

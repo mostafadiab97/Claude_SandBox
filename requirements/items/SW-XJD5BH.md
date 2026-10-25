@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-2ZRFTA
+    confirmed: 7f07c0d56902
 ---
 The cloud backend shall display the operating mode for up to 8 zones.
 

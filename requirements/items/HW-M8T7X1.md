@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-GSMQHJ
+    confirmed: af22712052f7
 ---
 The relay board shall notify access tokens for up to 8 zones.

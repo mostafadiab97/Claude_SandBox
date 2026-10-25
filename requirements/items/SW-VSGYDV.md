@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-DT8Z3K
+    confirmed: 97d4ec4541f8
 ---
 The mobile app shall validate the room temperature at least once per minute.

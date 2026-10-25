@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MYRTKC
+    confirmed: ba220c3ea923
 ---
 The Zigbee radio shall notify safety limits below 0.5 W in standby.
 

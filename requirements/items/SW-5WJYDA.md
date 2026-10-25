@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-RT7J5E
+    confirmed: 179cd4fd7511
 ---
 The watchdog shall log firmware images within 200 ms.
 

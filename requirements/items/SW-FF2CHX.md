@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-JF6ZTH
+    confirmed: 75977e61ed0b
 ---
 The local API shall log relay events for at least 10 years.
 

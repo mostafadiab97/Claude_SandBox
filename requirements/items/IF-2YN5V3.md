@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-Q1NDZA
+    confirmed: 1aaab302f129
 ---
 The power supply shall encrypt the room temperature at least once per minute.
 

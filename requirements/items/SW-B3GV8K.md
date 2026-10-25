@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-D7FGDK
+    confirmed: bf329a941699
 ---
 The telemetry pipeline shall report the set point without user interaction.
 

@@ -13,7 +13,9 @@ order: 510
 links:
   - type: refines
     target: STK-FWM06B
+    confirmed: bbd40f488fa4
   - type: mitigates
     target: RSK-W1W7WX
+    confirmed: 902c1cbc8514
 ---
 The backlight shall display schedule entries with an accuracy of ±0.5 °C.

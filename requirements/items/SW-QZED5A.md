@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-VRC80Y
+    confirmed: 9e303efe85be
 ---
 The schedule editor shall authenticate audit records for at least 10 years.
 

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-MBT5B7
+    confirmed: 558c60af173b
 ---
 The local API shall switch access tokens without user interaction.

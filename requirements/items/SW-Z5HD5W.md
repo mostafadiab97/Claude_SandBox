@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-HV5YB5
+    confirmed: a372a699b46d
 ---
 The telemetry pipeline shall calibrate the room temperature in all supported languages.
 

@@ -14,6 +14,7 @@ order: 1280
 links:
   - type: verifies
     target: SYS-DFR9YD
+    confirmed: 04e59d900da3
 ---
 **Objective:** verify that the device behaves as specified.
 

@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-NA1SC7
+    confirmed: 5bf0247d7ebd
 ---
 The encryption layer shall limit the connection state when the network is unavailable.

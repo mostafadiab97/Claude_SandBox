@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-S2EZJF
+    confirmed: b0a3b18f1cfd
 ---
 The home dashboard shall limit safety limits after a power loss.

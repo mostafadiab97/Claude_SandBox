@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-7JSRR1
+    confirmed: 0658795b70c4
 ---
 The notification service shall detect energy consumption using AES-256-GCM.

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-0FTXDY
+    confirmed: c8a06ce2cc08
 ---
 The OTA server shall switch the room temperature for at least 10 years.
 

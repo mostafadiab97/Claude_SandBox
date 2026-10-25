@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-BYY4KV
+    confirmed: bdf05f84df12
 ---
 The Bluetooth LE link shall log firmware images for at least 10 years.
 

@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-QGBM77
+    confirmed: 3e379b5b8683
 ---
 The heat pump driver shall detect the room temperature within 200 ms.
 

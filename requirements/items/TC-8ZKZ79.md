@@ -10,6 +10,7 @@ order: 910
 links:
   - type: verifies
     target: SYS-1TC8XF
+    confirmed: f8bd8f1b6b39
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

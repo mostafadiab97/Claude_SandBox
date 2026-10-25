@@ -9,6 +9,7 @@ order: 580
 links:
   - type: verifies
     target: SYS-9J39GS
+    confirmed: 59241a6dbb43
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

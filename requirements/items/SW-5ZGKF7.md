@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-QHMT67
+    confirmed: 77747505e6c0
 ---
 The login screen shall notify relay events in all supported languages.

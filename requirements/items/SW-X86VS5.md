@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-RGCFDP
+    confirmed: 703711cfcecf
 ---
 The watchdog shall log humidity values below 0.5 W in standby.
 

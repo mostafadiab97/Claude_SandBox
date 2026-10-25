@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-3HMH2V
+    confirmed: a44672610aca
 ---
 The zone valve shall measure humidity values below 0.5 W in standby.

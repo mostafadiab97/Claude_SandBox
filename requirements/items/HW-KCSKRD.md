@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-A4N3W7
+    confirmed: c7593929dc3f
 ---
 The enclosure shall detect the connection state using AES-256-GCM.
 

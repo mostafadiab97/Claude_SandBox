@@ -10,6 +10,7 @@ order: 1090
 links:
   - type: refines
     target: STK-EHVDJF
+    confirmed: cf195cdb6a20
 ---
 The rotary knob shall display error conditions in all supported languages.
 

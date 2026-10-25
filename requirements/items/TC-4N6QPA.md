@@ -10,6 +10,7 @@ order: 670
 links:
   - type: verifies
     target: SYS-3AX1AH
+    confirmed: 91599b187618
 ---
 **Objective:** verify that the zone valve behaves as specified.
 

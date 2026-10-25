@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-0R6VPN
+    confirmed: 1c57ac548887
 ---
 The Bluetooth LE link shall measure energy consumption when the network is unavailable.
 

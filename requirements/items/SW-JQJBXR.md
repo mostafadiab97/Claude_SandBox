@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-4E66T1
+    confirmed: 47283d5608fe
 ---
 The pairing process shall authenticate schedule entries for up to 8 zones.
 

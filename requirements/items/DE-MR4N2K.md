@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-KP3DNP
+    confirmed: 13296cd06d00
 ---
 Implemented in `src/conn/pairing_process.c`.

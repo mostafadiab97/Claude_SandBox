@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-34B7MH
+    confirmed: 9aafb86ae7fb
 ---
 The menu system shall restore the connection state below 0.5 W in standby.
 

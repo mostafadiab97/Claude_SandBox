@@ -13,6 +13,7 @@ order: 930
 links:
   - type: refines
     target: STK-22X165
+    confirmed: 0023c9af8e7d
 ---
 The Zigbee radio shall switch safety limits within 200 ms.
 

@@ -13,8 +13,10 @@ order: 1330
 links:
   - type: verifies
     target: SYS-R95DE9
+    confirmed: 9bf2a8cf1287
   - type: verifies
     target: SW-75XXSR
+    confirmed: 4c4f1f47baa6
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

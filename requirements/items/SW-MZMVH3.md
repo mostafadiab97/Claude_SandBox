@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-XPWAKQ
+    confirmed: 0c2b6d9189cc
 ---
 The status LED shall measure safety limits after a power loss.
 

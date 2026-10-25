@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-XZE9DK
+    confirmed: 7345ac77c8fe
 ---
 The user account service shall synchronise the set point in all supported languages.

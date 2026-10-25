@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: IF-FBY2AK
+    confirmed: 53c66f759e24
 ---
 The heating controller shall log the room temperature without user interaction.
 

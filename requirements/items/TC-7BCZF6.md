@@ -13,8 +13,10 @@ order: 560
 links:
   - type: verifies
     target: SYS-MGCE70
+    confirmed: 8713b2c65e08
   - type: verifies
     target: SW-59VNQ4
+    confirmed: acab0722957c
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

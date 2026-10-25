@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-4KAGMA
+    confirmed: dc7b573eec5d
 ---
 The regulation loop shall measure user preferences at least once per minute.
 

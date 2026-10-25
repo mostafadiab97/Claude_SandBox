@@ -14,5 +14,6 @@ order: 2090
 links:
   - type: refines
     target: STK-922G3A
+    confirmed: ea4a6a665922
 ---
 The enclosure shall switch safety limits at least once per minute.

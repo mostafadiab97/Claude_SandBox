@@ -13,8 +13,10 @@ order: 750
 links:
   - type: refines
     target: STK-VT1KVD
+    confirmed: fbcfb8475f32
   - type: mitigates
     target: RSK-M50SEK
+    confirmed: e28fa3964498
 ---
 The OTA server shall calibrate the connection state for up to 8 zones.
 

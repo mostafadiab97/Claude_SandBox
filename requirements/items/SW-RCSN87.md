@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-BMNNFF
+    confirmed: e59e68c0f6b6
 ---
 The OTA server shall validate safety limits without user interaction.
 

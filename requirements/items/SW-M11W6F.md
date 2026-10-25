@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-FRBAX4
+    confirmed: a6ca038853e0
 ---
 The tamper detection shall restore the connection state below 0.5 W in standby.

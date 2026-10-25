@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-6G50E9
+    confirmed: b8ffba322301
 ---
 The Zigbee radio shall authenticate the set point in all supported languages.

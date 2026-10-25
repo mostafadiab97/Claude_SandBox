@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-8FK5CW
+    confirmed: a4a8351402a3
 ---
 The encryption layer shall switch the room temperature with an accuracy of ±0.5 °C.
 

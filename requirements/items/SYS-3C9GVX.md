@@ -12,6 +12,7 @@ order: 870
 links:
   - type: refines
     target: STK-Q8BNKR
+    confirmed: 6deaa78e6ab3
 ---
 The regulation loop shall calibrate audit records within 200 ms.
 

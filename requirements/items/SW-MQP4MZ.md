@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-E60WCX
+    confirmed: 52a4389d660e
 ---
 The device registry shall restore safety limits at least once per minute.
 

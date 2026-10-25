@@ -10,6 +10,7 @@ order: 270
 links:
   - type: refines
     target: STK-R8QH58
+    confirmed: 13d6784d2cc9
 ---
 The user account service shall validate firmware images for at least 10 years.
 

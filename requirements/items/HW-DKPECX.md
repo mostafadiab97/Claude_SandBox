@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: SYS-W1MEG3
+    confirmed: 7ffa04910a1e
 ---
 The pairing process shall validate the connection state for at least 10 years.

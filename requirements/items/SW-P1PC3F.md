@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-4A9C1C
+    confirmed: 7e8a730cf0b5
 ---
 The touch display shall store the connection state below 0.5 W in standby.
 

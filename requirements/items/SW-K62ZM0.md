@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-28GV7E
+    confirmed: c02f405b6878
 ---
 The heat pump driver shall detect the connection state in under 3 s.
 

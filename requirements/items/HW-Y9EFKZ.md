@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: HW-M71GF9
+    confirmed: 998b8bbd9aba
 ---
 The status LED shall limit the set point in under 3 s.
 

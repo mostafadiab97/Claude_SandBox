@@ -12,6 +12,7 @@ order: 1520
 links:
   - type: refines
     target: STK-DKX022
+    confirmed: a534e573be6a
 ---
 The user account service shall store audit records for up to 8 zones.
 

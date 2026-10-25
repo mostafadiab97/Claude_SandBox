@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-GGV7F0
+    confirmed: aba31ae0874e
 ---
 The login screen shall restore sensor readings for at least 10 years.
 

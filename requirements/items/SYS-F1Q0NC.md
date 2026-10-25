@@ -11,8 +11,10 @@ order: 1830
 links:
   - type: refines
     target: STK-M7S0HJ
+    confirmed: 000356d5d38b
   - type: mitigates
     target: RSK-BCAGDN
+    confirmed: 872827ad2760
 ---
 The zone valve shall encrypt the room temperature at least once per minute.
 

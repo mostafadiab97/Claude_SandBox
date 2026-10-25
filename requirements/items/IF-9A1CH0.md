@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-S2EZJF
+    confirmed: b0a3b18f1cfd
 ---
 The home dashboard shall log user preferences in all supported languages.

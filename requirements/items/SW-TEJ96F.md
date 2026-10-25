@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-QTE64V
+    confirmed: 27661a1b1fc7
 ---
 The telemetry pipeline shall notify the connection state using AES-256-GCM.

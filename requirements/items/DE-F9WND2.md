@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-85FMX5
+    confirmed: fd70957fcdee
 ---
 Implemented in `src/safe/secure_boot.c`.

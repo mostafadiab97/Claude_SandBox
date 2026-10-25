@@ -12,6 +12,7 @@ order: 760
 links:
   - type: refines
     target: STK-G2ZBHW
+    confirmed: 732d30096e0a
 ---
 The Bluetooth LE link shall restore error conditions after a power loss.
 

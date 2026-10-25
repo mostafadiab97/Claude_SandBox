@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-E3W0C4
+    confirmed: 6069f1d540ab
 ---
 The enclosure shall notify the set point for up to 8 zones.

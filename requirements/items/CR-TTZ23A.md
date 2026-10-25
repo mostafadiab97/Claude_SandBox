@@ -11,6 +11,7 @@ order: 50
 links:
   - type: relates-to
     target: SYS-KCC5WV
+    confirmed: 201bc4a0f987
 ---
 Requested by customer support (ticket #16294).
 

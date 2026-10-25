@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-08S85A
+    confirmed: df8a61c21e99
 ---
 The device registry shall log error conditions with an accuracy of ±0.5 °C.

@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: HW-EA29A3
+    confirmed: acb43e96ee9a
 ---
 The relay board shall display access tokens without user interaction.
 

@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-0J3695
+    confirmed: b9c7a1a0e56b
 ---
 The OTA server shall calibrate error conditions in under 3 s.
 

@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-PPY5Z1
+    confirmed: 0c11557d1e86
 ---
 The regulation loop shall log the operating mode for up to 8 zones.
 

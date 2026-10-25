@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: IF-4216X0
+    confirmed: ac15962e17dd
 ---
 The backlight shall store sensor readings for up to 8 zones.

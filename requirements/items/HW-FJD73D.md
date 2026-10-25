@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-9BFVNF
+    confirmed: 36211779cc51
 ---
 The main PCB shall calibrate error conditions for up to 8 zones.
 

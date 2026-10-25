@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-MV4PNS
+    confirmed: 1a518ac6e066
 ---
 The heat pump driver shall encrypt the connection state within 200 ms.
 

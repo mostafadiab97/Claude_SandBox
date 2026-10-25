@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-69YRBY
+    confirmed: bd2c182255a2
 ---
 Implemented in `src/conn/Zigbee_radio.c`.

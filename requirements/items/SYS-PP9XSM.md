@@ -13,5 +13,6 @@ order: 770
 links:
   - type: refines
     target: STK-DZ9P6K
+    confirmed: 35469390951d
 ---
 The local API shall display the room temperature using AES-256-GCM.

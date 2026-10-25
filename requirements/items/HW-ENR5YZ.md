@@ -14,5 +14,6 @@ order: 30
 links:
   - type: refines
     target: SYS-8BB6P4
+    confirmed: 6499795c1519
 ---
 The Zigbee radio shall store sensor readings when the network is unavailable.

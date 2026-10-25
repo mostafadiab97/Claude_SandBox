@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-WRCCVQ
+    confirmed: 22615937890b
 ---
 The enclosure shall switch schedule entries without user interaction.
 

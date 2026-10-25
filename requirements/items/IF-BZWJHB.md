@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-TB9F0A
+    confirmed: cfce1cacc944
 ---
 The touch display shall display the operating mode within 200 ms.

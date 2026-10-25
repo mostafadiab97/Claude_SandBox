@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-SA1DH7
+    confirmed: 339efbb2167c
 ---
 The battery backup shall restore safety limits for at least 10 years.
 

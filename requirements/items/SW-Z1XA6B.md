@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-1S2BHB
+    confirmed: 46ab9d294f6f
 ---
 The home dashboard shall validate access tokens after a power loss.
 

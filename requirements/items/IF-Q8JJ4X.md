@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MM8K93
+    confirmed: ab187d05c5fd
 ---
 The rotary knob shall encrypt firmware images after a power loss.
 

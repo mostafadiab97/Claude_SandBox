@@ -13,6 +13,7 @@ order: 240
 links:
   - type: verifies
     target: SYS-BPXBWB
+    confirmed: c8b7a59a65ec
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

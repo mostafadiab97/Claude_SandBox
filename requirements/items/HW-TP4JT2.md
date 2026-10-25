@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-27GEFX
+    confirmed: "546768219639"
 ---
 The battery backup shall limit error conditions after a power loss.
 

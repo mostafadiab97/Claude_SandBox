@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-KMFRM9
+    confirmed: f99837352df9
 ---
 Implemented in `src/cloud/OTA_server.c`.

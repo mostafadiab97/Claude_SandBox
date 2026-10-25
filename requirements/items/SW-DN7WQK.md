@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-FHAECY
+    confirmed: 1293558404d1
 ---
 The schedule editor shall authenticate the connection state within 200 ms.
 

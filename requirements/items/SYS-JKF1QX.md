@@ -11,8 +11,10 @@ order: 620
 links:
   - type: refines
     target: STK-DJ9M3M
+    confirmed: ba30e28a130f
   - type: mitigates
     target: RSK-4K4PV0
+    confirmed: a3307c1a9b06
 ---
 The encryption layer shall authenticate safety limits with an accuracy of ±0.5 °C.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-B2CPV7
+    confirmed: f3e9ccc7a316
 ---
 The tamper detection shall log schedule entries in all supported languages.
 

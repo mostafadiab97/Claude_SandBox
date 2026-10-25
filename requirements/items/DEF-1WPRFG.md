@@ -10,8 +10,10 @@ order: 80
 links:
   - type: relates-to
     target: TC-TDBPB8
+    confirmed: 9787acfe034a
   - type: relates-to
     target: SYS-BT3DXG
+    confirmed: 762491a5f95a
 ---
 Found during regression testing of build 2.7.25.
 

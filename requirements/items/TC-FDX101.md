@@ -9,6 +9,7 @@ order: 760
 links:
   - type: verifies
     target: SYS-8YT9NF
+    confirmed: 89f10c1dd66e
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

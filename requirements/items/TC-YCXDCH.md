@@ -14,6 +14,7 @@ order: 390
 links:
   - type: verifies
     target: SYS-FVC51X
+    confirmed: 11ed96679d8d
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

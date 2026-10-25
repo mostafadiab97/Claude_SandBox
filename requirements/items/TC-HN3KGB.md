@@ -9,6 +9,7 @@ order: 1310
 links:
   - type: verifies
     target: SYS-08Q79Y
+    confirmed: 8a374fcf4b3a
 ---
 **Objective:** verify that the status LED behaves as specified.
 

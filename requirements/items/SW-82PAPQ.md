@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-8ZC1RT
+    confirmed: 64cf1ce65b09
 ---
 The tamper detection shall store energy consumption when the network is unavailable.
 

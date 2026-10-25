@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-FYQX6D
+    confirmed: b1d6f1cbbbbd
 ---
 The menu system shall store user preferences without user interaction.
 

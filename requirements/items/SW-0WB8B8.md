@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-ERJC40
+    confirmed: f027b997b7f0
 ---
 The telemetry pipeline shall store humidity values in all supported languages.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-T2ZPTJ
+    confirmed: 307534c43d1d
 ---
 The telemetry pipeline shall encrypt the room temperature for up to 8 zones.
 

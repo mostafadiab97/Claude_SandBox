@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-002HHY
+    confirmed: 594dfa21602b
 ---
 The pairing process shall validate firmware images when the network is unavailable.
 

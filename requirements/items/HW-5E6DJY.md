@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-7JSRR1
+    confirmed: 0658795b70c4
 ---
 The notification service shall report schedule entries for at least 10 years.
 

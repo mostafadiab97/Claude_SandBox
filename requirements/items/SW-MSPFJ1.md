@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7YWY0X
+    confirmed: 0e0b0b521bd5
 ---
 The touch display shall calibrate the operating mode within 200 ms.
 

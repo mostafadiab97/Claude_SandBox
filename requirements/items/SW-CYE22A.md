@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-378XSW
+    confirmed: 5031ebc6a924
 ---
 The status LED shall calibrate user preferences without user interaction.
 

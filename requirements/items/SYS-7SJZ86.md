@@ -13,6 +13,7 @@ order: 1470
 links:
   - type: refines
     target: STK-5CT2VD
+    confirmed: 51ca0f7a80ed
 ---
 The local API shall log schedule entries with an accuracy of ±0.5 °C.
 

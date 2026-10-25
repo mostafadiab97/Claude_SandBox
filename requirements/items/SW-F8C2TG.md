@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ZK10Z4
+    confirmed: 0f09ad7fec21
 ---
 The notification service shall store relay events for at least 10 years.
 

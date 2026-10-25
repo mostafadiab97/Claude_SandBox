@@ -13,5 +13,6 @@ order: 830
 links:
   - type: refines
     target: STK-1R2QT3
+    confirmed: 7ca04f22a1b8
 ---
 The Zigbee radio shall restore user preferences using AES-256-GCM.

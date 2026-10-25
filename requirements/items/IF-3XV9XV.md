@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-T689CT
+    confirmed: ab4c99fb5003
 ---
 The status LED shall calibrate error conditions in under 3 s.
 

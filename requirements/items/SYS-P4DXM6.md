@@ -14,6 +14,7 @@ order: 1770
 links:
   - type: refines
     target: STK-DKX022
+    confirmed: a534e573be6a
 ---
 The OTA server shall log the connection state in under 3 s.
 

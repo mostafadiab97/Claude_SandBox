@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: SYS-CQBB7Y
+    confirmed: 96aa1de698de
 ---
 The heat pump driver shall limit error conditions using AES-256-GCM.

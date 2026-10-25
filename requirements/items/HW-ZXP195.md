@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-CN7FHD
+    confirmed: 5f0cd41f8d2d
 ---
 The relay board shall validate the set point when the network is unavailable.
 

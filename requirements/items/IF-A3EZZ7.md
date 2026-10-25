@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-DH9YV1
+    confirmed: f434ce225b84
 ---
 The OTA server shall switch firmware images with an accuracy of ±0.5 °C.
 

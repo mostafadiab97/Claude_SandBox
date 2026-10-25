@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-YKSFPK
+    confirmed: 732f483b90c6
 ---
 The backlight shall restore sensor readings in all supported languages.
 

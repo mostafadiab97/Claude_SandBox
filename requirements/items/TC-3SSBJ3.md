@@ -13,8 +13,10 @@ order: 190
 links:
   - type: verifies
     target: SYS-C6SNN2
+    confirmed: 20d5c99b3fa6
   - type: verifies
     target: SW-ZPE457
+    confirmed: fc898a0b5b8e
 ---
 **Objective:** verify that the regulation loop behaves as specified.
 

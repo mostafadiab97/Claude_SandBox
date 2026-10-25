@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-GQMSWY
+    confirmed: 25ed5bb60995
 ---
 The schedule editor shall limit the connection state for up to 8 zones.
 

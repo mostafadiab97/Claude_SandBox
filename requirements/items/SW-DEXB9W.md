@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-H10MBQ
+    confirmed: 1c06138d71e9
 ---
 The touch display shall notify error conditions at least once per minute.
 

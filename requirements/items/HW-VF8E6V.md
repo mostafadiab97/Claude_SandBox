@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-0847E1
+    confirmed: d8c0c127c7a5
 ---
 The notification service shall detect firmware images for at least 10 years.
 

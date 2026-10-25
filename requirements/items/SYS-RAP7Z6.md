@@ -9,6 +9,7 @@ order: 720
 links:
   - type: refines
     target: STK-AA05P4
+    confirmed: e2bec3bcd11c
 ---
 The heating controller shall switch user preferences when the network is unavailable.
 

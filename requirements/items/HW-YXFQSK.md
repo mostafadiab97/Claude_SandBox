@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-AH20RG
+    confirmed: 3223ff118368
 ---
 The pairing process shall validate the connection state after a power loss.

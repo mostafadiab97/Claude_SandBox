@@ -14,6 +14,7 @@ order: 50
 links:
   - type: verifies
     target: SYS-P05AE4
+    confirmed: 551fdad1c494
 ---
 **Objective:** verify that the login screen behaves as specified.
 

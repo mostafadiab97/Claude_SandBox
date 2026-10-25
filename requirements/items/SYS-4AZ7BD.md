@@ -12,5 +12,6 @@ order: 560
 links:
   - type: refines
     target: STK-G2H1B9
+    confirmed: fce33b342585
 ---
 The tamper detection shall validate user preferences without user interaction.

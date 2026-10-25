@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-GGKGZ3
+    confirmed: a8c334c80200
 ---
 The secure boot shall limit firmware images at least once per minute.
 

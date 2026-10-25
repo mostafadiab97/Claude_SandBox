@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-Y096JN
+    confirmed: 3622c05b8ec0
 ---
 The status LED shall synchronise the room temperature after a power loss.
 

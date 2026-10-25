@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-498SK9
+    confirmed: 86d80fd5cb72
 ---
 The device registry shall calibrate the set point with an accuracy of ±0.5 °C.

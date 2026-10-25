@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-S0CSYN
+    confirmed: 401917873b7a
 ---
 The Wi-Fi module shall measure the operating mode in all supported languages.
 

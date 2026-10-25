@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-AM74GS
+    confirmed: 17970884cc59
 ---
 The Zigbee radio shall restore humidity values at least once per minute.

@@ -12,6 +12,7 @@ order: 610
 links:
   - type: verifies
     target: SYS-ZJDSAF
+    confirmed: 039687c494cb
 ---
 **Objective:** verify that the zone valve behaves as specified.
 

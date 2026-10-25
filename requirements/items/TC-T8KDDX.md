@@ -12,8 +12,10 @@ order: 860
 links:
   - type: verifies
     target: SYS-ZD8ARR
+    confirmed: 8e6f137aeffa
   - type: verifies
     target: SW-YWTE94
+    confirmed: 6cae84c7c9a0
 ---
 **Objective:** verify that the relay board behaves as specified.
 

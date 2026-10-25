@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: HW-AYM3PQ
+    confirmed: 994f1c23b11c
 ---
 The schedule editor shall synchronise safety limits at least once per minute.

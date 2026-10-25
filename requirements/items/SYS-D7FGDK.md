@@ -10,6 +10,7 @@ order: 1450
 links:
   - type: refines
     target: STK-VT1KVD
+    confirmed: fbcfb8475f32
 ---
 The telemetry pipeline shall limit sensor readings after a power loss.
 

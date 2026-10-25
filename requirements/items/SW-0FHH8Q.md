@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-0KFPCF
+    confirmed: 38fbc1f616e4
 ---
 The boiler interface shall measure firmware images when the network is unavailable.
 

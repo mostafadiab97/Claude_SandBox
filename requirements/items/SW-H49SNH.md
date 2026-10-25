@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-F8C2TG
+    confirmed: 75dacdfdd4f4
 ---
 The notification service shall notify access tokens within 200 ms.
 

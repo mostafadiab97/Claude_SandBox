@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-ZAKESV
+    confirmed: 7c9a523b23e5
 ---
 The backlight shall encrypt the set point within 200 ms.
 

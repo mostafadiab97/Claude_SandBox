@@ -12,5 +12,6 @@ order: 470
 links:
   - type: refines
     target: STK-EHVDJF
+    confirmed: 0591f3b5f88b
 ---
 The backlight shall validate energy consumption for at least 10 years.

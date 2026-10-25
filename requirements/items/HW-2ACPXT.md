@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-47FSG3
+    confirmed: 50f3571b1236
 ---
 The relay board shall validate error conditions in under 3 s.
 

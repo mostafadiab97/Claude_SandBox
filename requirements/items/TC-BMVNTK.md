@@ -12,8 +12,10 @@ order: 1700
 links:
   - type: verifies
     target: SYS-1Q68X4
+    confirmed: 01eaedbf5ab3
   - type: verifies
     target: SW-XV2Q87
+    confirmed: 43bc4b090bf3
 ---
 **Objective:** verify that the power supply behaves as specified.
 

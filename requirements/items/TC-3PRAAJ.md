@@ -10,6 +10,7 @@ order: 860
 links:
   - type: verifies
     target: SYS-1SK52W
+    confirmed: 27622b3cf4f9
 ---
 **Objective:** verify that the backlight behaves as specified.
 

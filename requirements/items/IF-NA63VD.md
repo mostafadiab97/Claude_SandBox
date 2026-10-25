@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-391421
+    confirmed: 4a1f14a81457
 ---
 The heat pump driver shall authenticate the connection state using AES-256-GCM.
 

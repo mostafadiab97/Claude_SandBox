@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-6CT381
+    confirmed: cb9aa6a7b060
 ---
 The heating controller shall log user preferences after a power loss.
 

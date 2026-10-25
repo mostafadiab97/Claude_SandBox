@@ -14,6 +14,7 @@ order: 2050
 links:
   - type: refines
     target: STK-QN5QGR
+    confirmed: ae0f58e089a1
 ---
 The telemetry pipeline shall authenticate the operating mode in under 3 s.
 

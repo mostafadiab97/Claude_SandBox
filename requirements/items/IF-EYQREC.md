@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-DCDDTY
+    confirmed: 5b47c2ab88c1
 ---
 The watchdog shall restore the room temperature for at least 10 years.
 

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-63GREP
+    confirmed: b483aeef9b3f
 ---
 The backlight shall switch user preferences after a power loss.
 

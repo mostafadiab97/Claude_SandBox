@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-G2WJ4Z
+    confirmed: 24c104aab763
 ---
 The login screen shall store firmware images in all supported languages.
 

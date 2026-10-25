@@ -10,6 +10,7 @@ order: 870
 links:
   - type: verifies
     target: SYS-QW4301
+    confirmed: 93308f2aad9b
 ---
 **Objective:** verify that the device registry behaves as specified.
 

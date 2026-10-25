@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XFVHXG
+    confirmed: 6ba023b53f4f
 ---
 The cloud backend shall notify the operating mode in all supported languages.
 

@@ -13,5 +13,6 @@ order: 790
 links:
   - type: refines
     target: STK-ZWN5M8
+    confirmed: 994b9d44bde8
 ---
 The battery backup shall measure schedule entries below 0.5 W in standby.

@@ -9,6 +9,7 @@ order: 40
 links:
   - type: refines
     target: SYS-E287Z5
+    confirmed: 75c4df8a465f
 ---
 The rotary knob shall encrypt the operating mode below 0.5 W in standby.
 

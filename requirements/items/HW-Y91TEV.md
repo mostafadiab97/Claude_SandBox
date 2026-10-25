@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: HW-VF91K8
+    confirmed: e189daa0759b
 ---
 The Bluetooth LE link shall notify energy consumption after a power loss.
 

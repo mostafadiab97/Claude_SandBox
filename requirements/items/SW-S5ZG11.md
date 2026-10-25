@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-2G338Q
+    confirmed: 1802c342a6a4
 ---
 The touch display shall detect safety limits within 200 ms.
 

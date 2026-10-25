@@ -14,6 +14,7 @@ order: 1460
 links:
   - type: refines
     target: STK-4NCGP6
+    confirmed: 34735dce772b
 ---
 The user account service shall notify schedule entries with an accuracy of ±0.5 °C.
 

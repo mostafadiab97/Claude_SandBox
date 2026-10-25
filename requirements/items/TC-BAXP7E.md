@@ -10,6 +10,7 @@ order: 1230
 links:
   - type: verifies
     target: SYS-FVC51X
+    confirmed: 11ed96679d8d
 ---
 **Objective:** verify that the device behaves as specified.
 

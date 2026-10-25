@@ -13,6 +13,7 @@ order: 570
 links:
   - type: refines
     target: STK-CDR1Y9
+    confirmed: d9857f8b33bf
 ---
 The enclosure shall report the operating mode within 200 ms.
 

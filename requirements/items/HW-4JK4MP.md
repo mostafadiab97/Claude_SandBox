@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-TC3P2N
+    confirmed: 1d53a29eb7a7
 ---
 The local API shall restore the operating mode in all supported languages.
 

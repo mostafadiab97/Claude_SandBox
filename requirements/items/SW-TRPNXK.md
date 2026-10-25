@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-8V8BVW
+    confirmed: 191ff66890ae
 ---
 The zone valve shall synchronise user preferences in under 3 s.

@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-BPXBWB
+    confirmed: c8b7a59a65ec
 ---
 The over-temperature monitor shall store error conditions after a power loss.

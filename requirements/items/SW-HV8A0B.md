@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-D06R0N
+    confirmed: c565d039e2cb
 ---
 The regulation loop shall notify sensor readings for up to 8 zones.
 

@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-9QT5AW
+    confirmed: 29ca05a07a2d
 ---
 The zone valve shall synchronise the connection state using AES-256-GCM.

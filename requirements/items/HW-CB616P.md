@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-FN6K6C
+    confirmed: de635490bacc
 ---
 The enclosure shall report access tokens with an accuracy of ±0.5 °C.
 

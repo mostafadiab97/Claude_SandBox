@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-CB8WR8
+    confirmed: 1bfe1399ef4f
 ---
 The regulation loop shall encrypt safety limits within 200 ms.
 

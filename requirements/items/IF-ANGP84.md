@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-VEFG9D
+    confirmed: f2ed11769dc3
 ---
 The OTA server shall log error conditions in under 3 s.
 

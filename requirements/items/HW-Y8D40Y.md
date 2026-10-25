@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-JRYFKW
+    confirmed: eaf4dadef412
 ---
 The power supply shall detect the room temperature using AES-256-GCM.
 

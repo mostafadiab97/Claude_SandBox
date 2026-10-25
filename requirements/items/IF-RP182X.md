@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-JKDR8H
+    confirmed: 85d240523d89
 ---
 The backlight shall authenticate sensor readings with an accuracy of ±0.5 °C.
 

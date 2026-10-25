@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-Z2HZNM
+    confirmed: f7fe8182d612
 ---
 The user account service shall validate safety limits below 0.5 W in standby.

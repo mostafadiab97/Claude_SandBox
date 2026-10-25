@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: IF-G22K9Q
+    confirmed: 7fdc99e93695
 ---
 The battery backup shall limit sensor readings when the network is unavailable.

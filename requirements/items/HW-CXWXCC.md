@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: HW-MQB1D9
+    confirmed: 8de67d9d5ec9
 ---
 The backlight shall detect the set point within 200 ms.

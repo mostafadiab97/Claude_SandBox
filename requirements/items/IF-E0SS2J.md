@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-RSH3MX
+    confirmed: 8368f1dea4f1
 ---
 The tamper detection shall authenticate error conditions for up to 8 zones.
 

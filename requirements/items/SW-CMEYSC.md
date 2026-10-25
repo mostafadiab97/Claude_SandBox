@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-V9TTZK
+    confirmed: 19606134e5ee
 ---
 The telemetry pipeline shall limit firmware images in all supported languages.
 

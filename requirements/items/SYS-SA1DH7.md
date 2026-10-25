@@ -13,8 +13,10 @@ order: 2160
 links:
   - type: refines
     target: STK-W18EQ4
+    confirmed: aeec35e06317
   - type: mitigates
     target: RSK-07S1SA
+    confirmed: 750339751af7
 ---
 The battery backup shall calibrate the connection state in under 3 s.
 

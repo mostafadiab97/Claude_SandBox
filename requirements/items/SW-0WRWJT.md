@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-WKCZDQ
+    confirmed: ef7ce1eb28d3
 ---
 The watchdog shall validate the connection state in all supported languages.
 

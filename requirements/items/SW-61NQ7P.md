@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-J8A4BW
+    confirmed: b28f6844e565
 ---
 The secure boot shall calibrate the connection state for up to 8 zones.
 

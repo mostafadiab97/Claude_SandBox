@@ -12,8 +12,10 @@ order: 20
 links:
   - type: verifies
     target: SYS-60DWBJ
+    confirmed: 6642ffcbd2f7
   - type: verifies
     target: SW-H4CSN6
+    confirmed: 8e369ea30295
 ---
 **Objective:** verify that the touch display behaves as specified.
 

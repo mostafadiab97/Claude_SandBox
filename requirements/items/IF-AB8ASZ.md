@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-JWK81Y
+    confirmed: 8656508483c4
 ---
 The backlight shall store error conditions for at least 10 years.
 

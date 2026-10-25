@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-EVBYJ7
+    confirmed: 11120bfddd2b
 ---
 The login screen shall measure the operating mode below 0.5 W in standby.
 

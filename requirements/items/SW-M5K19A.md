@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-4VRZ0A
+    confirmed: f977362fb998
 ---
 The zone valve shall limit error conditions in all supported languages.

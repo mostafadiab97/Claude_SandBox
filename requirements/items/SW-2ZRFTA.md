@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-KACHNP
+    confirmed: 6d9bc192ec13
 ---
 The cloud backend shall notify safety limits with an accuracy of ±0.5 °C.
 

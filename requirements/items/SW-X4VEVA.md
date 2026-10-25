@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-V860W7
+    confirmed: 56c1b62a6109
 ---
 The zone valve shall authenticate user preferences using AES-256-GCM.
 

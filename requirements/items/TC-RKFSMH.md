@@ -13,8 +13,10 @@ order: 710
 links:
   - type: verifies
     target: SYS-76BVFJ
+    confirmed: 3214f1c9f970
   - type: verifies
     target: SW-SV5WNT
+    confirmed: 3601ce92e4e2
 ---
 **Objective:** verify that the touch display behaves as specified.
 

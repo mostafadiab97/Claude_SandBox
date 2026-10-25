@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-B19CRP
+    confirmed: 9dc800f53108
 ---
 The status LED shall authenticate firmware images in all supported languages.
 

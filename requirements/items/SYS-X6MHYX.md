@@ -14,6 +14,7 @@ order: 1480
 links:
   - type: refines
     target: STK-7X7S81
+    confirmed: 0b0c08c75491
 ---
 The watchdog shall report schedule entries in under 3 s.
 

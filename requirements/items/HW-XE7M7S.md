@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-BD00HF
+    confirmed: c1fda425d923
 ---
 The relay board shall log relay events using AES-256-GCM.

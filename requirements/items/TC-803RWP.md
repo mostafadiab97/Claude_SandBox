@@ -10,8 +10,10 @@ order: 260
 links:
   - type: verifies
     target: SYS-K2NWME
+    confirmed: e03e8a7a7686
   - type: verifies
     target: SW-SV5WNT
+    confirmed: 3601ce92e4e2
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

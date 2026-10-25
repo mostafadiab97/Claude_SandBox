@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-6FSERM
+    confirmed: "633397687564"
 ---
 The cloud backend shall authenticate the room temperature below 0.5 W in standby.
 

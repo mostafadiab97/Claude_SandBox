@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-ZG2A7P
+    confirmed: dd3e6f066e4e
 ---
 The cloud backend shall measure the connection state for up to 8 zones.
 

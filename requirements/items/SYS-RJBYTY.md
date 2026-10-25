@@ -10,6 +10,7 @@ order: 760
 links:
   - type: refines
     target: STK-HH6ZNR
+    confirmed: caa77fe9df1c
 ---
 The touch display shall restore access tokens in all supported languages.
 

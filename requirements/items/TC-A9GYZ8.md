@@ -12,8 +12,10 @@ order: 890
 links:
   - type: verifies
     target: SYS-4K2HDJ
+    confirmed: 3febb67033c8
   - type: verifies
     target: SW-HGBJZZ
+    confirmed: 899ddd8c2261
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

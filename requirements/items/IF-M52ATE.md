@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-E70SS0
+    confirmed: 230b3d3629fc
 ---
 The heat pump driver shall notify humidity values after a power loss.
 

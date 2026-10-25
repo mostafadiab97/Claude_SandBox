@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-SVF5G6
+    confirmed: 622f0502ddbb
 ---
 The tamper detection shall log safety limits with an accuracy of ±0.5 °C.
 

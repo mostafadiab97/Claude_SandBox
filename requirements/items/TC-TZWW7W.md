@@ -10,6 +10,7 @@ order: 1030
 links:
   - type: verifies
     target: SYS-QKGZJJ
+    confirmed: b92b84803641
 ---
 **Objective:** verify that the device behaves as specified.
 

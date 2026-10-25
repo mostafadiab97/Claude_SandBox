@@ -13,8 +13,10 @@ order: 1010
 links:
   - type: verifies
     target: SYS-RJDTZ9
+    confirmed: e76b1fb2127a
   - type: verifies
     target: SW-SZZCD2
+    confirmed: 87a5a0a3990a
 ---
 **Objective:** verify that the menu system behaves as specified.
 

@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-Y62PFM
+    confirmed: daa058155ad3
 ---
 The regulation loop shall store humidity values in under 3 s.
 

@@ -10,6 +10,7 @@ order: 1310
 links:
   - type: verifies
     target: SYS-569DVN
+    confirmed: 9f9a37d9b20d
 ---
 **Objective:** verify that the device registry behaves as specified.
 

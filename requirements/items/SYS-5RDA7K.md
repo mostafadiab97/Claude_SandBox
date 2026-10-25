@@ -13,6 +13,7 @@ order: 80
 links:
   - type: refines
     target: STK-JBY2BX
+    confirmed: bcce6e51beb4
 ---
 The tamper detection shall encrypt access tokens for up to 8 zones.
 

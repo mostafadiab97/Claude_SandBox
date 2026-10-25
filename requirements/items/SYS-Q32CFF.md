@@ -12,6 +12,7 @@ order: 1920
 links:
   - type: refines
     target: STK-HH6ZNR
+    confirmed: caa77fe9df1c
 ---
 The touch display shall restore sensor readings in under 3 s.
 

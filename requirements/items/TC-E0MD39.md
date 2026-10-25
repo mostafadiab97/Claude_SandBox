@@ -13,6 +13,7 @@ order: 960
 links:
   - type: verifies
     target: SYS-WY2MGE
+    confirmed: cd0fa22d1fa7
 ---
 **Objective:** verify that the status LED behaves as specified.
 

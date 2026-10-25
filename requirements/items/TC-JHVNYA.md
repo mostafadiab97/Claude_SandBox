@@ -10,6 +10,7 @@ order: 1520
 links:
   - type: verifies
     target: SYS-BBX6H4
+    confirmed: eea34ba9a0b3
 ---
 **Objective:** verify that the device behaves as specified.
 

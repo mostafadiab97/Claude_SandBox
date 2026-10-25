@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-7C3GR4
+    confirmed: d6385afd3348
 ---
 The backlight shall display schedule entries using AES-256-GCM.
 

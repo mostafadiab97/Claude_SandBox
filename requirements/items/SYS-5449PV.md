@@ -9,6 +9,7 @@ order: 1700
 links:
   - type: refines
     target: STK-M7S0HJ
+    confirmed: 000356d5d38b
 ---
 The regulation loop shall validate firmware images in all supported languages.
 

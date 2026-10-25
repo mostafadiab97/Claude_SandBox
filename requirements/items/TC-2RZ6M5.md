@@ -10,6 +10,7 @@ order: 1440
 links:
   - type: verifies
     target: SYS-FFTATD
+    confirmed: 95a8578d9835
 ---
 **Objective:** verify that the device behaves as specified.
 

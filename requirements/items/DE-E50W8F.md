@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-XPH80H
+    confirmed: 744b91b6cb97
 ---
 Implemented in `src/app/mobile_app.c`.

@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-C9V44A
+    confirmed: 884859b61c66
 ---
 The relay board shall authenticate audit records for up to 8 zones.
 

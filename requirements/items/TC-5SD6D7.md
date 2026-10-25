@@ -13,6 +13,7 @@ order: 40
 links:
   - type: verifies
     target: SYS-80ZJ33
+    confirmed: 7a5b090e57ac
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

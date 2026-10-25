@@ -13,6 +13,7 @@ order: 1680
 links:
   - type: verifies
     target: SYS-9P1HDM
+    confirmed: d55d9bf1fce6
 ---
 **Objective:** verify that the user account service behaves as specified.
 

@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-GYKHZH
+    confirmed: 315e5e474525
 ---
 The mobile app shall display the room temperature with an accuracy of ±0.5 °C.

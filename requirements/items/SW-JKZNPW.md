@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-QFCX4V
+    confirmed: 0a633adec0ec
 ---
 The touch display shall report humidity values below 0.5 W in standby.

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-VNKX29
+    confirmed: 1e93aa64c8e1
 ---
 The heat pump driver shall switch humidity values below 0.5 W in standby.
 

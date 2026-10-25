@@ -12,5 +12,6 @@ order: 40
 links:
   - type: refines
     target: SYS-CM44AM
+    confirmed: 2a3acc022feb
 ---
 The pairing process shall log humidity values with an accuracy of ±0.5 °C.

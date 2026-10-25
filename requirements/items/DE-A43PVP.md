@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-T6K42M
+    confirmed: baa32ece9812
 ---
 Implemented in `src/app/notification_service.c`.

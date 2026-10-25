@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-ZM6EM1
+    confirmed: bc2cbad41247
 ---
 The enclosure shall calibrate energy consumption in all supported languages.

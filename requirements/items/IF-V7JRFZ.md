@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-5EDMMX
+    confirmed: 6f6f1dc47197
 ---
 The home dashboard shall limit energy consumption using AES-256-GCM.

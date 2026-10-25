@@ -12,8 +12,10 @@ order: 1280
 links:
   - type: verifies
     target: SYS-K8NQFV
+    confirmed: 85b34b755d1e
   - type: verifies
     target: SW-DN2SKS
+    confirmed: 0ed24975e2c6
 ---
 **Objective:** verify that the zone valve behaves as specified.
 

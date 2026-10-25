@@ -12,5 +12,6 @@ order: 1700
 links:
   - type: refines
     target: STK-ZJRWCQ
+    confirmed: 080168ea99ae
 ---
 The secure boot shall restore the set point within 200 ms.

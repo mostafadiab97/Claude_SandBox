@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-27ZRZ6
+    confirmed: 2208a37cfcbe
 ---
 The telemetry pipeline shall switch error conditions in under 3 s.
 

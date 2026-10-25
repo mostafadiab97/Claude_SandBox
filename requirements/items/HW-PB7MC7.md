@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-7WAVP4
+    confirmed: 0f9434a95be4
 ---
 The enclosure shall restore the room temperature using AES-256-GCM.
 

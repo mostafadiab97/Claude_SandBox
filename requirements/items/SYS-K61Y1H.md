@@ -10,6 +10,7 @@ order: 410
 links:
   - type: refines
     target: STK-Q9RBYT
+    confirmed: a67c8b718d88
 ---
 The Bluetooth LE link shall store relay events below 0.5 W in standby.
 

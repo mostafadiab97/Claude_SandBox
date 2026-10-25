@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-HPASBC
+    confirmed: ed268b438cd4
 ---
 Implemented in `src/conn/Zigbee_radio.c`.

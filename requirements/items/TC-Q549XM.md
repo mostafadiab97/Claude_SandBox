@@ -11,6 +11,7 @@ order: 1320
 links:
   - type: verifies
     target: SYS-DJE020
+    confirmed: e34a209cad5c
 ---
 **Objective:** verify that the rotary knob behaves as specified.
 

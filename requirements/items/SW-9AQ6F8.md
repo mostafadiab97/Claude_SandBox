@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-TYH61D
+    confirmed: be2e7216bf63
 ---
 The touch display shall measure sensor readings below 0.5 W in standby.
 

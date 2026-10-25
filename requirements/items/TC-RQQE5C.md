@@ -12,8 +12,10 @@ order: 1620
 links:
   - type: verifies
     target: SYS-D0Q5ED
+    confirmed: a25afcb373b1
   - type: verifies
     target: SW-6MVV07
+    confirmed: 58b332ca4f54
 ---
 **Objective:** verify that the power supply behaves as specified.
 

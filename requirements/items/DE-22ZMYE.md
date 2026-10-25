@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-Y9SATP
+    confirmed: 707be61b086b
 ---
 Implemented in `src/heat/heating_controller.c`.

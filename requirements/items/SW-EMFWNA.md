@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-F7CGPV
+    confirmed: 0ed2c0649f66
 ---
 The secure boot shall store humidity values for at least 10 years.
 

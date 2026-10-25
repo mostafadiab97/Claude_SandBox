@@ -11,6 +11,7 @@ order: 950
 links:
   - type: verifies
     target: SYS-GC1TCM
+    confirmed: 5e111d233bc7
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

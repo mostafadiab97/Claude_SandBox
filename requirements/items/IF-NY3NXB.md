@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-80ZJ33
+    confirmed: 7a5b090e57ac
 ---
 The main PCB shall encrypt audit records when the network is unavailable.

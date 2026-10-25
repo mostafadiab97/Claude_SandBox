@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-7F4FY9
+    confirmed: a9c0f51b3815
 ---
 The local API shall restore the room temperature within 200 ms.
 

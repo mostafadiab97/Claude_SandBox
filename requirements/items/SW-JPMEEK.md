@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-8ZC1RT
+    confirmed: 64cf1ce65b09
 ---
 The tamper detection shall validate error conditions within 200 ms.

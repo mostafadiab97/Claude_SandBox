@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-CJV9ZN
+    confirmed: 4ce4e1f3ce2e
 ---
 The heat pump driver shall display energy consumption without user interaction.
 

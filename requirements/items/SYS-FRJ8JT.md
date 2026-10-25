@@ -12,6 +12,7 @@ order: 680
 links:
   - type: refines
     target: STK-JBY2BX
+    confirmed: bcce6e51beb4
 ---
 The encryption layer shall restore firmware images in under 3 s.
 

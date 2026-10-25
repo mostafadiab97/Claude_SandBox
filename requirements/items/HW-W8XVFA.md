@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-8T3EWK
+    confirmed: 6237143aa404
 ---
 The secure boot shall log sensor readings for at least 10 years.
 

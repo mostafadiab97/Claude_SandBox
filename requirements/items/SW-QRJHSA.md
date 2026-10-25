@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-0K19ZT
+    confirmed: 46a84c8b4189
 ---
 The OTA server shall synchronise the connection state without user interaction.
 

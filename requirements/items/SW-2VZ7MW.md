@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-XHYQN4
+    confirmed: 3a60145a886a
 ---
 The secure boot shall authenticate error conditions in all supported languages.
 

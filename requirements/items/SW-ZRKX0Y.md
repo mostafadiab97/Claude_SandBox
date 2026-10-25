@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-GQPR80
+    confirmed: d2b331597a33
 ---
 The mobile app shall validate access tokens for at least 10 years.

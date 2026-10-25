@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-F1Q8MF
+    confirmed: 5e3368f0cb5a
 ---
 Implemented in `src/safe/over-temperature_monitor.c`.

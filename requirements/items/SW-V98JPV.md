@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-RZQXR0
+    confirmed: 12216b2c0a19
 ---
 The secure boot shall restore the set point for up to 8 zones.

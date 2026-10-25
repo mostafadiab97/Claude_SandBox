@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-1NZZTE
+    confirmed: 4435a2612fc4
 ---
 The encryption layer shall report energy consumption when the network is unavailable.

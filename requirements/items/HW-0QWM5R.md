@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-FDZDPZ
+    confirmed: 6777c9b563e8
 ---
 The power supply shall limit energy consumption below 0.5 W in standby.
 

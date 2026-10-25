@@ -12,6 +12,7 @@ order: 810
 links:
   - type: verifies
     target: SYS-PX7YQ6
+    confirmed: a1bdacbc8613
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

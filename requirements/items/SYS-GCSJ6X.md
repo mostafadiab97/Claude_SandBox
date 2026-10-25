@@ -12,6 +12,7 @@ order: 860
 links:
   - type: refines
     target: STK-75QZSA
+    confirmed: b8a4c00165fe
 ---
 The regulation loop shall authenticate user preferences below 0.5 W in standby.
 

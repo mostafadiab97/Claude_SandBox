@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-6QFCF2
+    confirmed: d9f6d0d7d66b
 ---
 The OTA server shall switch user preferences when the network is unavailable.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-HEVMYH
+    confirmed: 5cd34b16673e
 ---
 The battery backup shall limit schedule entries in all supported languages.
 

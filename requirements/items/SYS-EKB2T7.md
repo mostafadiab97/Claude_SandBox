@@ -14,6 +14,7 @@ order: 1800
 links:
   - type: refines
     target: STK-VT1KVD
+    confirmed: fbcfb8475f32
 ---
 The cloud backend shall validate humidity values using AES-256-GCM.
 

@@ -9,5 +9,6 @@ order: 40
 links:
   - type: refines
     target: SYS-72TJ12
+    confirmed: f925a1940bd6
 ---
 The login screen shall encrypt user preferences in under 3 s.

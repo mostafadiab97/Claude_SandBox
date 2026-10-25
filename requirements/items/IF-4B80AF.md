@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7XJ749
+    confirmed: d23cf0faaaaf
 ---
 The relay board shall authenticate error conditions for at least 10 years.
 

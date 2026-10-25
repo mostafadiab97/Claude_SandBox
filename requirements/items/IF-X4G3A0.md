@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-HYQA89
+    confirmed: 02764287a3b2
 ---
 The user account service shall store schedule entries in all supported languages.
 

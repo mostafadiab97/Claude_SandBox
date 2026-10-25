@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: STK-G2H1B9
+    confirmed: fce33b342585
 ---
 The tamper detection shall authenticate firmware images when the network is unavailable.
 

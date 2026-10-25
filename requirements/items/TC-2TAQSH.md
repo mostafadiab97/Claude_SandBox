@@ -10,6 +10,7 @@ order: 730
 links:
   - type: verifies
     target: SYS-HH08PK
+    confirmed: "8228102962e4"
 ---
 **Objective:** verify that the local API behaves as specified.
 

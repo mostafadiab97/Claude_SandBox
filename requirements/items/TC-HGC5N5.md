@@ -14,8 +14,10 @@ order: 670
 links:
   - type: verifies
     target: SYS-BKCVJB
+    confirmed: 7750ef7b4cd4
   - type: verifies
     target: SW-NSH5XV
+    confirmed: fbc7895c16c0
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

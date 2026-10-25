@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-GCCF7H
+    confirmed: fce7af1ab815
 ---
 The user account service shall switch the room temperature with an accuracy of ±0.5 °C.
 

@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-S2YMP1
+    confirmed: 3a9bf0c65e19
 ---
 Implemented in `src/cloud/device_registry.c`.

@@ -13,6 +13,7 @@ order: 140
 links:
   - type: refines
     target: STK-JAQHJP
+    confirmed: b0af11a5c3c2
 ---
 The main PCB shall encrypt sensor readings for at least 10 years.
 

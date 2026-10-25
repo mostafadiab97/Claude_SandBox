@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-6DWMRM
+    confirmed: 62af45041e6e
 ---
 The pairing process shall restore sensor readings within 200 ms.

@@ -13,6 +13,7 @@ order: 990
 links:
   - type: verifies
     target: SYS-NY5DFZ
+    confirmed: aa8559f49f1f
 ---
 **Objective:** verify that the rotary knob behaves as specified.
 

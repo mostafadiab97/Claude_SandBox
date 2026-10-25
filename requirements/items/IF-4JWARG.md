@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-C7F4NR
+    confirmed: 4dbda585baa8
 ---
 The schedule editor shall encrypt schedule entries for at least 10 years.
 

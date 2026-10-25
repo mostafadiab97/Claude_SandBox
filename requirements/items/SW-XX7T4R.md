@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-531285
+    confirmed: 27ad17bc6596
 ---
 The encryption layer shall store the connection state with an accuracy of ±0.5 °C.
 

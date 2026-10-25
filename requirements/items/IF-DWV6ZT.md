@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-Q1ETKX
+    confirmed: b0be1ee04270
 ---
 The pairing process shall encrypt error conditions when the network is unavailable.
 

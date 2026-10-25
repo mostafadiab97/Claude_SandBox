@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-00WQH9
+    confirmed: 5df07efae901
 ---
 The menu system shall detect the connection state within 200 ms.
 

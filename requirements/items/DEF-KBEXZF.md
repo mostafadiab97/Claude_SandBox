@@ -11,8 +11,10 @@ order: 70
 links:
   - type: relates-to
     target: TC-9Q2PAR
+    confirmed: 6fac3707ae93
   - type: relates-to
     target: SYS-63GREP
+    confirmed: b483aeef9b3f
 ---
 Found during regression testing of build 2.6.8.
 

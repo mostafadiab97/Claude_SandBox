@@ -12,8 +12,10 @@ order: 730
 links:
   - type: refines
     target: STK-ESBN30
+    confirmed: 8a56cb48b6c3
   - type: mitigates
     target: RSK-14YSDS
+    confirmed: 0db3fa8291ee
 ---
 The boiler interface shall calibrate the set point with an accuracy of ±0.5 °C.
 

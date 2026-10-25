@@ -10,8 +10,10 @@ order: 1400
 links:
   - type: verifies
     target: SYS-FMGH3F
+    confirmed: 3b65dd538b13
   - type: verifies
     target: SW-CD64BA
+    confirmed: f7be308643e4
 ---
 **Objective:** verify that the zone valve behaves as specified.
 

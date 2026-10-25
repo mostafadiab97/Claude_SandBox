@@ -14,6 +14,7 @@ order: 780
 links:
   - type: verifies
     target: SYS-YN2K60
+    confirmed: 2659248bd16e
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

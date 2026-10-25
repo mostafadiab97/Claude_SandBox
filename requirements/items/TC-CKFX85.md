@@ -9,8 +9,10 @@ order: 60
 links:
   - type: verifies
     target: SYS-B7MWJ2
+    confirmed: cfcb93c868dc
   - type: verifies
     target: SW-G9KYJY
+    confirmed: 230daeb78b52
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.
 

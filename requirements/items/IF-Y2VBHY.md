@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-JDST6C
+    confirmed: 7ea47e8c8d56
 ---
 The Bluetooth LE link shall store sensor readings at least once per minute.
 

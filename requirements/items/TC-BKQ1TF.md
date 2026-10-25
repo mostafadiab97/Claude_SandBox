@@ -12,8 +12,10 @@ order: 1000
 links:
   - type: verifies
     target: SYS-JHK0D7
+    confirmed: a8c42ffc28bc
   - type: verifies
     target: SW-XM6CSF
+    confirmed: a824afd3c2ab
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-0J8RA9
+    confirmed: e16a16e4a8ad
 ---
 The Zigbee radio shall limit sensor readings when the network is unavailable.
 

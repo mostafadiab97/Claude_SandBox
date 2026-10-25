@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-PY3FTT
+    confirmed: 028b4e4661e2
 ---
 The status LED shall synchronise audit records within 200 ms.
 

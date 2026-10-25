@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-XB38HS
+    confirmed: 51d064ca7d2a
 ---
 The notification service shall store safety limits at least once per minute.

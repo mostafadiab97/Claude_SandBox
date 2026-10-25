@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-BH16P1
+    confirmed: cf8c12387bbb
 ---
 The OTA server shall display the connection state when the network is unavailable.
 

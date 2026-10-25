@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-VB3BED
+    confirmed: 7ba2d9f9c3fd
 ---
 The backlight shall measure schedule entries in all supported languages.
 

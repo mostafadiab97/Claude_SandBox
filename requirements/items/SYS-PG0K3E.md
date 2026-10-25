@@ -9,6 +9,7 @@ order: 2060
 links:
   - type: refines
     target: STK-SM9B7Z
+    confirmed: 44235e2789f0
 ---
 The secure boot shall calibrate sensor readings within 200 ms.
 

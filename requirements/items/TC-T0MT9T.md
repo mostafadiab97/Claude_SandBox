@@ -13,8 +13,10 @@ order: 290
 links:
   - type: verifies
     target: SYS-S17F3W
+    confirmed: 02e3c6ed2cec
   - type: verifies
     target: SW-8S81RT
+    confirmed: 789b723216ac
 ---
 **Objective:** verify that the menu system behaves as specified.
 

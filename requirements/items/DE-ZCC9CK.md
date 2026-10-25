@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-WFXGPP
+    confirmed: add7f253a7ea
 ---
 Implemented in `src/ui/menu_system.c`.

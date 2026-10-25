@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-Q1ETKX
+    confirmed: b0be1ee04270
 ---
 The pairing process shall notify sensor readings below 0.5 W in standby.
 

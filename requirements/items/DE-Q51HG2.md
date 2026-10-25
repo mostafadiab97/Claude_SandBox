@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-C2S50G
+    confirmed: bdb56ef1b363
 ---
 Implemented in `src/heat/boiler_interface.c`.

@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: SYS-ZQYMN8
+    confirmed: a257d6fd1501
 ---
 The watchdog shall authenticate energy consumption for at least 10 years.

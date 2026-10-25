@@ -12,6 +12,7 @@ order: 570
 links:
   - type: refines
     target: STK-W8N48B
+    confirmed: 00c32cea6ea5
 ---
 The boiler interface shall store firmware images for at least 10 years.
 

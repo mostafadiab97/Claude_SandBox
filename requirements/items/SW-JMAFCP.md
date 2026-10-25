@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-5GY8XM
+    confirmed: f78a2269928e
 ---
 The zone valve shall display the room temperature using AES-256-GCM.
 

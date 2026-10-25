@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-01CMP1
+    confirmed: 86791af43201
 ---
 The secure boot shall switch audit records in under 3 s.
 

@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-J3QEM9
+    confirmed: 78aeb447b6ae
 ---
 The relay board shall validate firmware images in all supported languages.
 

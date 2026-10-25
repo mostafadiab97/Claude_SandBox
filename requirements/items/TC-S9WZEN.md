@@ -12,6 +12,7 @@ order: 770
 links:
   - type: verifies
     target: SYS-QNW27Q
+    confirmed: cd250a20af9f
 ---
 **Objective:** verify that the zone valve behaves as specified.
 

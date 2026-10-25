@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-S99H5C
+    confirmed: d3381a0ebfda
 ---
 Implemented in `src/heat/regulation_loop.c`.

@@ -10,5 +10,6 @@ order: 560
 links:
   - type: refines
     target: STK-35QR7F
+    confirmed: bc1aebb7918d
 ---
 The status LED shall synchronise error conditions after a power loss.

@@ -11,6 +11,7 @@ order: 1370
 links:
   - type: verifies
     target: SYS-9C32EE
+    confirmed: 3b09685c237a
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

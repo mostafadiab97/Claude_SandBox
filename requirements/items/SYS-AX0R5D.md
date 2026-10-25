@@ -11,5 +11,6 @@ order: 1270
 links:
   - type: refines
     target: STK-M7S0HJ
+    confirmed: 000356d5d38b
 ---
 The boiler interface shall switch relay events in all supported languages.

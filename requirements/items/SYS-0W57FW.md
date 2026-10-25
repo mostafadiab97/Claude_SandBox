@@ -12,5 +12,6 @@ order: 560
 links:
   - type: refines
     target: STK-Q9RBYT
+    confirmed: a67c8b718d88
 ---
 The Wi-Fi module shall authenticate safety limits in all supported languages.

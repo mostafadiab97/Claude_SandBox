@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-S6YZKX
+    confirmed: c3dda1afbbb5
 ---
 The over-temperature monitor shall encrypt user preferences for at least 10 years.
 

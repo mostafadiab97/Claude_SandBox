@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-BS5G2C
+    confirmed: 19954ae1e0af
 ---
 The notification service shall notify relay events without user interaction.
 

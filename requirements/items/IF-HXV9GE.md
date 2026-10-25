@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-H3Y0RB
+    confirmed: 9c8ac7d5ce00
 ---
 The heat pump driver shall authenticate firmware images in under 3 s.
 

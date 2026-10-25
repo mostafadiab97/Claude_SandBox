@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-2B7SGQ
+    confirmed: 16e49588c382
 ---
 The OTA server shall detect user preferences when the network is unavailable.
 

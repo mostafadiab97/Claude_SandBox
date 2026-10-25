@@ -10,6 +10,7 @@ order: 1070
 links:
   - type: refines
     target: STK-ESBN30
+    confirmed: 8a56cb48b6c3
 ---
 The heating controller shall detect user preferences when the network is unavailable.
 

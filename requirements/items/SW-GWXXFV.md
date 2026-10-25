@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-EZ51ES
+    confirmed: e09a5200d69b
 ---
 The status LED shall report safety limits when the network is unavailable.

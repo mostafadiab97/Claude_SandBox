@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-HS7YMC
+    confirmed: 0b69395daa11
 ---
 The heating controller shall log schedule entries when the network is unavailable.

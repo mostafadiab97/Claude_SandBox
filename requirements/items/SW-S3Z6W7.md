@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-QKH3DT
+    confirmed: 531d33ab57d8
 ---
 The Wi-Fi module shall encrypt error conditions without user interaction.
 

@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-XTSYX5
+    confirmed: dc17ae1784ef
 ---
 The home dashboard shall notify relay events in all supported languages.
 

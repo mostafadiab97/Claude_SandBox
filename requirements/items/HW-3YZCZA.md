@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-AX0YF1
+    confirmed: 8815ccfb397d
 ---
 The menu system shall limit the connection state in under 3 s.
 

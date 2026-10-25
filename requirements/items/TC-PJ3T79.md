@@ -13,8 +13,10 @@ order: 1020
 links:
   - type: verifies
     target: SYS-J7BTY7
+    confirmed: 407923e760c5
   - type: verifies
     target: SW-VTZYV6
+    confirmed: 1fc331627e58
 ---
 **Objective:** verify that the status LED behaves as specified.
 

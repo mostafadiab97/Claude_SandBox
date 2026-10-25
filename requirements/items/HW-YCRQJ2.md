@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-HSBZEM
+    confirmed: 22cdb66e683a
 ---
 The OTA server shall limit humidity values with an accuracy of ±0.5 °C.
 

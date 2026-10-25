@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-13AJMY
+    confirmed: 3774cd655263
 ---
 The backlight shall restore the connection state in all supported languages.
 

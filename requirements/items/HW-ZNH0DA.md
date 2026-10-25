@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-TB9F0A
+    confirmed: cfce1cacc944
 ---
 The touch display shall log the room temperature in all supported languages.
 

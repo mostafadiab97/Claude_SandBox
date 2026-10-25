@@ -10,8 +10,10 @@ order: 610
 links:
   - type: verifies
     target: SYS-VCX096
+    confirmed: 63d283d89339
   - type: verifies
     target: SW-D8ZPBJ
+    confirmed: 108303a36b9c
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

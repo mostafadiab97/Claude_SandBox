@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-H2ZXTG
+    confirmed: b7cf40825d4f
 ---
 The rotary knob shall switch safety limits at least once per minute.

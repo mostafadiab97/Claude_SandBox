@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-QHMFA6
+    confirmed: 9375eb52bc71
 ---
 The mobile app shall report sensor readings when the network is unavailable.

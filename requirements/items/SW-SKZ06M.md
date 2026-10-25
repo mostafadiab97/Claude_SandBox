@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-FPCR9J
+    confirmed: 2f25b4f796b8
 ---
 The boiler interface shall encrypt error conditions in under 3 s.
 

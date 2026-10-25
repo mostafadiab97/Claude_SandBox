@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MJMPET
+    confirmed: db16e70cbc4d
 ---
 The login screen shall report the operating mode using AES-256-GCM.
 

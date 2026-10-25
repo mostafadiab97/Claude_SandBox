@@ -13,6 +13,7 @@ order: 1590
 links:
   - type: refines
     target: STK-7X7S81
+    confirmed: 0b0c08c75491
 ---
 The encryption layer shall report sensor readings in all supported languages.
 

@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-6QFCF2
+    confirmed: d9f6d0d7d66b
 ---
 The OTA server shall notify access tokens without user interaction.

@@ -10,6 +10,7 @@ order: 180
 links:
   - type: refines
     target: STK-MC9ASH
+    confirmed: a4f2ebaecfbe
 ---
 The login screen shall log sensor readings at least once per minute.
 

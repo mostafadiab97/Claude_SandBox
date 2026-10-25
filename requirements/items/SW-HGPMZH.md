@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-TXF8EG
+    confirmed: 941441170ff9
 ---
 The regulation loop shall log humidity values within 200 ms.
 

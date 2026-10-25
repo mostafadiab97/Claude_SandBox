@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-WFQYSE
+    confirmed: 5a5dbeacc343
 ---
 The relay board shall store humidity values after a power loss.

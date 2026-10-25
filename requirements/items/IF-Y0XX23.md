@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: SYS-2094E7
+    confirmed: a4e7c0d76393
 ---
 The main PCB shall validate schedule entries below 0.5 W in standby.

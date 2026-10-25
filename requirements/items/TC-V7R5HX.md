@@ -10,6 +10,7 @@ order: 700
 links:
   - type: verifies
     target: SYS-2DFH04
+    confirmed: 051320b022ae
 ---
 **Objective:** verify that the device registry behaves as specified.
 

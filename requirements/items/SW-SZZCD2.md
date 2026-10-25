@@ -9,6 +9,7 @@ order: 40
 links:
   - type: refines
     target: SYS-2B2EJW
+    confirmed: 78ce8d4f744f
 ---
 The menu system shall limit safety limits within 200 ms.
 

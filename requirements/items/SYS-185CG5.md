@@ -10,6 +10,7 @@ order: 320
 links:
   - type: refines
     target: STK-Q8BNKR
+    confirmed: 6deaa78e6ab3
 ---
 The zone valve shall encrypt user preferences at least once per minute.
 

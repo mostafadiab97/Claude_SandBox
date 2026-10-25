@@ -10,6 +10,7 @@ order: 540
 links:
   - type: refines
     target: STK-Y4WG9E
+    confirmed: 9c3c4f9c0995
 ---
 The power supply shall measure humidity values using AES-256-GCM.
 

@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-2JYQS6
+    confirmed: ecfbe5ff7471
 ---
 The battery backup shall validate firmware images with an accuracy of ±0.5 °C.

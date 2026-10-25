@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-3Z4RXV
+    confirmed: 6ca149f912b8
 ---
 The backlight shall measure error conditions in all supported languages.

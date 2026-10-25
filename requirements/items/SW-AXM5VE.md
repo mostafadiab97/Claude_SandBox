@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-069B79
+    confirmed: b68bfd68f8d5
 ---
 The heat pump driver shall report the operating mode within 200 ms.
 

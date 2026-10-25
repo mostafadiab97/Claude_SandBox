@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-19PSY9
+    confirmed: 6a61bda8a792
 ---
 The touch display shall log the operating mode when the network is unavailable.
 

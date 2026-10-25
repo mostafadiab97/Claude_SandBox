@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-77PVXT
+    confirmed: 33b1a201b47a
 ---
 The telemetry pipeline shall limit the connection state at least once per minute.
 

@@ -11,6 +11,7 @@ order: 40
 links:
   - type: refines
     target: SYS-SASG4P
+    confirmed: 00a1e26f4144
 ---
 The device registry shall notify the operating mode at least once per minute.
 

@@ -11,5 +11,6 @@ order: 1460
 links:
   - type: refines
     target: STK-8W3602
+    confirmed: 25b39ad8cae7
 ---
 The regulation loop shall calibrate sensor readings in all supported languages.

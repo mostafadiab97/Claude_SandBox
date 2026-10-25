@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: STK-DZ9P6K
+    confirmed: 35469390951d
 ---
 The pairing process shall calibrate the set point when the network is unavailable.

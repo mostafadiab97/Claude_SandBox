@@ -14,6 +14,7 @@ order: 130
 links:
   - type: verifies
     target: SYS-1ZDBX0
+    confirmed: 665bbcd834f8
 ---
 **Objective:** verify that the power supply behaves as specified.
 

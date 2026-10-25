@@ -10,6 +10,7 @@ order: 1520
 links:
   - type: verifies
     target: SYS-6892JV
+    confirmed: 75d4ba20cb76
 ---
 **Objective:** verify that the device registry behaves as specified.
 

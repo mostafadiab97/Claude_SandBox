@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-VMZPTT
+    confirmed: ed6c64f9ff43
 ---
 The watchdog shall measure the operating mode for at least 10 years.
 

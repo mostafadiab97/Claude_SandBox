@@ -10,6 +10,7 @@ order: 1570
 links:
   - type: verifies
     target: SYS-JWK81Y
+    confirmed: 8656508483c4
 ---
 **Objective:** verify that the device behaves as specified.
 

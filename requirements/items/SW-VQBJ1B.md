@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-B1HVNJ
+    confirmed: f6423235fdb8
 ---
 The watchdog shall switch the operating mode in all supported languages.

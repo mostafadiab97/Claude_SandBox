@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-80ZJ33
+    confirmed: 7a5b090e57ac
 ---
 The main PCB shall store user preferences below 0.5 W in standby.

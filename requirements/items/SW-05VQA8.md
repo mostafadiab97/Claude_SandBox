@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-VD4B1P
+    confirmed: 096be4adc8a2
 ---
 The user account service shall measure error conditions for up to 8 zones.
 

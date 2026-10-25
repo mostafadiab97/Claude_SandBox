@@ -10,8 +10,10 @@ order: 1130
 links:
   - type: verifies
     target: SYS-T58ZF0
+    confirmed: 5e996d12a800
   - type: verifies
     target: SW-TPAM5F
+    confirmed: 93d7e93dc0c5
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.
 

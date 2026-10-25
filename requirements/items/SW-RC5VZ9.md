@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-3W83V6
+    confirmed: ae495b06e801
 ---
 The login screen shall synchronise the connection state within 200 ms.
 

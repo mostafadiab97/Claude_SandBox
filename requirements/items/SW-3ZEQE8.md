@@ -11,5 +11,6 @@ order: 40
 links:
   - type: refines
     target: SYS-YGWC8P
+    confirmed: 77480e1be3cd
 ---
 The heating controller shall measure schedule entries when the network is unavailable.

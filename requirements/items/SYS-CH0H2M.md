@@ -9,6 +9,7 @@ order: 200
 links:
   - type: refines
     target: STK-8PN4VS
+    confirmed: a3e83ac40678
 ---
 The status LED shall restore sensor readings when the network is unavailable.
 

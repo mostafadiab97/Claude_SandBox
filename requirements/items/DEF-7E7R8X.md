@@ -14,8 +14,10 @@ order: 80
 links:
   - type: relates-to
     target: TC-HP4Q0C
+    confirmed: 667d311c484c
   - type: relates-to
     target: SYS-EYJ94S
+    confirmed: 68e2cd729db2
 ---
 Found during regression testing of build 2.2.12.
 

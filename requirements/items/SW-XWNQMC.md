@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XRXTDN
+    confirmed: ad932a195f5d
 ---
 The boiler interface shall switch schedule entries when the network is unavailable.
 

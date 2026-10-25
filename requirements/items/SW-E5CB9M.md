@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-X6MHYX
+    confirmed: b63cacdcb2d3
 ---
 The watchdog shall store firmware images in all supported languages.
 

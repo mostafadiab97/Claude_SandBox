@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: SYS-3AX1AH
+    confirmed: 91599b187618
 ---
 The zone valve shall log the set point after a power loss.

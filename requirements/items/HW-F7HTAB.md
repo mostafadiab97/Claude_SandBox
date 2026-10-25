@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-4FGA1C
+    confirmed: 134792ba177b
 ---
 The heat pump driver shall store humidity values using AES-256-GCM.
 

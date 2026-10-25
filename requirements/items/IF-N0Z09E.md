@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-G1PHXX
+    confirmed: bf662a260349
 ---
 The boiler interface shall restore schedule entries in under 3 s.
 

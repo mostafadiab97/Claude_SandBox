@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MASKXR
+    confirmed: c14e888575b5
 ---
 The telemetry pipeline shall detect safety limits with an accuracy of ±0.5 °C.
 

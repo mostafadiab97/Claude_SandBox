@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-7T162W
+    confirmed: c3b62ffd68f1
 ---
 The over-temperature monitor shall synchronise user preferences with an accuracy of ±0.5 °C.
 

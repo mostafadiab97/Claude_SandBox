@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-G8P704
+    confirmed: ac1f313d67a2
 ---
 The menu system shall measure schedule entries below 0.5 W in standby.
 

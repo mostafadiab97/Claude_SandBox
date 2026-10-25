@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-T9M88W
+    confirmed: d3225946a824
 ---
 The enclosure shall authenticate humidity values for up to 8 zones.
 

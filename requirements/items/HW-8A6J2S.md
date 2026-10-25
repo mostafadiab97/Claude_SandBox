@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-1NBRAQ
+    confirmed: e3d201ead13c
 ---
 The main PCB shall encrypt sensor readings using AES-256-GCM.

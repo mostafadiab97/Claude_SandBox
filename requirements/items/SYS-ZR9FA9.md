@@ -10,8 +10,10 @@ order: 490
 links:
   - type: refines
     target: STK-PCP268
+    confirmed: 74f66b1bb8e8
   - type: mitigates
     target: RSK-81XFR0
+    confirmed: df837fe8b253
 ---
 The backlight shall validate audit records within 200 ms.
 

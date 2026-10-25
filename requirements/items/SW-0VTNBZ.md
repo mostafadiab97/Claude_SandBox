@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-EBK5B5
+    confirmed: d60faf52179b
 ---
 The encryption layer shall display error conditions after a power loss.
 

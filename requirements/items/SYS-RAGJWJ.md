@@ -13,6 +13,7 @@ order: 1490
 links:
   - type: refines
     target: STK-AKFTAC
+    confirmed: ba740bd0ae86
 ---
 The over-temperature monitor shall limit relay events with an accuracy of ±0.5 °C.
 

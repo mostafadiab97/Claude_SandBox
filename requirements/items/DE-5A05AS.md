@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-AQWW32
+    confirmed: 27a7d9cb301f
 ---
 Implemented in `src/safe/secure_boot.c`.

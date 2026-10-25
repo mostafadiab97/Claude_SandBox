@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-NY5DFZ
+    confirmed: aa8559f49f1f
 ---
 The rotary knob shall store the connection state after a power loss.
 

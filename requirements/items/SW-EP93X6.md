@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-6DAVQX
+    confirmed: 7edaaaba42b0
 ---
 The Bluetooth LE link shall synchronise error conditions for up to 8 zones.
 

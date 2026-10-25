@@ -13,5 +13,6 @@ order: 20
 links:
   - type: implements
     target: SW-RFFCF6
+    confirmed: e55ee221dfd4
 ---
 Implemented in `src/app/mobile_app.c`.

@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-XFVHXG
+    confirmed: 6ba023b53f4f
 ---
 The cloud backend shall synchronise the room temperature at least once per minute.

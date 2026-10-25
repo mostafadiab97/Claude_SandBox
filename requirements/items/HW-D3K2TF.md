@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-GRPZ1J
+    confirmed: 5728c75e8b12
 ---
 The battery backup shall restore the operating mode using AES-256-GCM.
 

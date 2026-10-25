@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-H1Z00Y
+    confirmed: 36bbc40bd419
 ---
 The Zigbee radio shall synchronise safety limits below 0.5 W in standby.
 

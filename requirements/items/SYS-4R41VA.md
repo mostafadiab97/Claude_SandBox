@@ -13,6 +13,7 @@ order: 130
 links:
   - type: refines
     target: STK-22X165
+    confirmed: 0023c9af8e7d
 ---
 The pairing process shall report user preferences when the network is unavailable.
 

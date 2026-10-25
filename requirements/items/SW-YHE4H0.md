@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-F2DJDC
+    confirmed: 2d379fb34255
 ---
 The watchdog shall restore relay events for up to 8 zones.

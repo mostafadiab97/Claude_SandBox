@@ -13,6 +13,7 @@ order: 1220
 links:
   - type: refines
     target: STK-1TB226
+    confirmed: ea29425b18b7
 ---
 The encryption layer shall restore relay events for up to 8 zones.
 

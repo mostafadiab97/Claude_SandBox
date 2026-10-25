@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-039DNV
+    confirmed: ac5ee03c6faa
 ---
 The power supply shall log user preferences in under 3 s.
 

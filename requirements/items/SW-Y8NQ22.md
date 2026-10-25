@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-5EDM7V
+    confirmed: 50e6801cc264
 ---
 The mobile app shall switch access tokens for at least 10 years.
 

@@ -12,6 +12,7 @@ order: 720
 links:
   - type: verifies
     target: SYS-7DMMJ1
+    confirmed: 25d533559e9b
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

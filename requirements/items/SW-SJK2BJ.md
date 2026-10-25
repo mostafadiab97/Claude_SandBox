@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-3CAV4T
+    confirmed: e3cc68adfaa3
 ---
 The user account service shall switch the room temperature in under 3 s.
 

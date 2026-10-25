@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-96CWW2
+    confirmed: e023ac8016f0
 ---
 The pairing process shall encrypt sensor readings using AES-256-GCM.

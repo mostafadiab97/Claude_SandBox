@@ -12,6 +12,7 @@ order: 880
 links:
   - type: refines
     target: STK-ZWN5M8
+    confirmed: 994b9d44bde8
 ---
 The power supply shall log firmware images without user interaction.
 

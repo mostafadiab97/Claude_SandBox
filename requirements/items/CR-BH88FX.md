@@ -10,6 +10,7 @@ order: 50
 links:
   - type: relates-to
     target: SYS-M23G4X
+    confirmed: 3da3ac6dee1c
 ---
 Requested by customer support (ticket #10718).
 

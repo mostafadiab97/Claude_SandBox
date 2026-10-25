@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-6SJ3GD
+    confirmed: af53245ff967
 ---
 The boiler interface shall display user preferences in under 3 s.
 

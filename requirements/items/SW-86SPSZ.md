@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-KJZDA6
+    confirmed: cceccc292cf6
 ---
 The pairing process shall limit sensor readings below 0.5 W in standby.
 

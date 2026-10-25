@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: IF-7KANMN
+    confirmed: 17e861d648f2
 ---
 The OTA server shall store sensor readings without user interaction.
 

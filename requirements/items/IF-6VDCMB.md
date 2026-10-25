@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: IF-64ZKKB
+    confirmed: dd6f55c2011e
 ---
 The over-temperature monitor shall switch the room temperature for at least 10 years.

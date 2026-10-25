@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-KVWKZF
+    confirmed: 9148889bdd96
 ---
 The boiler interface shall authenticate energy consumption within 200 ms.
 

@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-BHPCQG
+    confirmed: c426ced4f4b7
 ---
 Implemented in `src/ui/backlight.c`.

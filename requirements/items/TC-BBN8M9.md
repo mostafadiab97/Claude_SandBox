@@ -10,8 +10,10 @@ order: 750
 links:
   - type: verifies
     target: SYS-9RTKP2
+    confirmed: 3379698ed305
   - type: verifies
     target: SW-VSSHW5
+    confirmed: 00f068d4e6d7
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-T9M88W
+    confirmed: d3225946a824
 ---
 The enclosure shall restore access tokens for at least 10 years.

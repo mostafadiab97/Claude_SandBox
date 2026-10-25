@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-JQAD8A
+    confirmed: afb586cb94d6
 ---
 The notification service shall display schedule entries at least once per minute.
 

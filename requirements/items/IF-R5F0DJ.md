@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-WER09P
+    confirmed: e5aed0f95da6
 ---
 The device registry shall report the operating mode in under 3 s.
 

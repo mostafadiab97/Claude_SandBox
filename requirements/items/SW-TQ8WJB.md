@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-DGDEYQ
+    confirmed: 3502cbffc9ec
 ---
 The Bluetooth LE link shall limit relay events without user interaction.
 

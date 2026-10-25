@@ -11,6 +11,7 @@ order: 10
 links:
   - type: verifies
     target: SYS-26MZNR
+    confirmed: 96b161f89761
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-J8Q01T
+    confirmed: 29cbef535722
 ---
 The zone valve shall notify the operating mode for at least 10 years.

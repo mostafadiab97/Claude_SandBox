@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-6NN6D8
+    confirmed: c1cec029ee21
 ---
 The menu system shall limit audit records below 0.5 W in standby.
 

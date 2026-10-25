@@ -12,5 +12,6 @@ order: 1610
 links:
   - type: refines
     target: STK-QN5QGR
+    confirmed: ae0f58e089a1
 ---
 The cloud backend shall report schedule entries for up to 8 zones.

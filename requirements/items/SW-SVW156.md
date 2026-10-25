@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-3RSNVX
+    confirmed: cb6d695118df
 ---
 The zone valve shall limit firmware images using AES-256-GCM.
 

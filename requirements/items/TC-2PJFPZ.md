@@ -9,8 +9,10 @@ order: 1310
 links:
   - type: verifies
     target: SYS-3W1S3B
+    confirmed: a83839a61248
   - type: verifies
     target: SW-MMKFXA
+    confirmed: 4e72756bdfca
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

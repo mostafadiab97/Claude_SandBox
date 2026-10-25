@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-PV76TW
+    confirmed: b6baf2d57c8f
 ---
 The login screen shall authenticate firmware images at least once per minute.

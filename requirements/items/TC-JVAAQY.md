@@ -10,8 +10,10 @@ order: 510
 links:
   - type: verifies
     target: SYS-RAP7Z6
+    confirmed: 8158ead818f6
   - type: verifies
     target: SW-GEQD7V
+    confirmed: b4c2cec05ff8
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

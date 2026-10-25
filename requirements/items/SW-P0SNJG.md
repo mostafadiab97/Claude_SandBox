@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SW-JYMB1Z
+    confirmed: 39f8408c7a89
 ---
 The watchdog shall detect sensor readings at least once per minute.

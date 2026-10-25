@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XTEFPC
+    confirmed: d422e1c60e4c
 ---
 The schedule editor shall report the connection state in all supported languages.
 

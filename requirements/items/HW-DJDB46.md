@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-HN9JCX
+    confirmed: ed79de17940f
 ---
 The enclosure shall calibrate humidity values after a power loss.
 

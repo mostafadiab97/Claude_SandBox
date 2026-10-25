@@ -13,6 +13,7 @@ order: 1420
 links:
   - type: verifies
     target: SYS-FPCM4D
+    confirmed: 2cecb0d5058b
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

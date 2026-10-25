@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-XNZMY7
+    confirmed: 1e674699e206
 ---
 The backlight shall limit user preferences below 0.5 W in standby.

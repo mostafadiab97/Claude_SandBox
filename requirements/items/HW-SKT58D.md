@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-NSQBT9
+    confirmed: a72d25c263cd
 ---
 The enclosure shall authenticate the operating mode in all supported languages.
 

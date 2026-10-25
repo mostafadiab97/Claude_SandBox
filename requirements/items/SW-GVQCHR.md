@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-CHKY3X
+    confirmed: 3654ea6dcd35
 ---
 The mobile app shall notify firmware images at least once per minute.
 

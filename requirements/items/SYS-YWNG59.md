@@ -14,7 +14,9 @@ order: 1680
 links:
   - type: refines
     target: STK-Y4WG9E
+    confirmed: 9c3c4f9c0995
   - type: mitigates
     target: RSK-07S1SA
+    confirmed: 750339751af7
 ---
 The main PCB shall calibrate the connection state below 0.5 W in standby.

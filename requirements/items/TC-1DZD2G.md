@@ -12,6 +12,7 @@ order: 1210
 links:
   - type: verifies
     target: SYS-N54KFA
+    confirmed: 09253c52493b
 ---
 **Objective:** verify that the backlight behaves as specified.
 

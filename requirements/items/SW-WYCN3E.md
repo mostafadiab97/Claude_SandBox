@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-PYK237
+    confirmed: 8258f49e00ae
 ---
 The device registry shall encrypt firmware images for up to 8 zones.
 

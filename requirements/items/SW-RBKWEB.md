@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-X57709
+    confirmed: 8f0b9de9eefc
 ---
 The Zigbee radio shall encrypt relay events without user interaction.

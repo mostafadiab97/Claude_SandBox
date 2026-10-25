@@ -13,8 +13,10 @@ order: 180
 links:
   - type: relates-to
     target: TC-STZQDD
+    confirmed: d5de4e6a038f
   - type: relates-to
     target: SYS-PPY5Z1
+    confirmed: 0c11557d1e86
 ---
 Found during regression testing of build 2.6.4.
 

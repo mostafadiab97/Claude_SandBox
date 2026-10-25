@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-10RD9F
+    confirmed: c65b58fe967d
 ---
 The over-temperature monitor shall log sensor readings in under 3 s.
 

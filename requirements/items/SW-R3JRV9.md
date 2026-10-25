@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-CH0H2M
+    confirmed: dcde66db1e30
 ---
 The status LED shall notify the connection state at least once per minute.
 

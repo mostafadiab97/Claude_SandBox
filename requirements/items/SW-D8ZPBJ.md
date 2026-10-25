@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MT7DNQ
+    confirmed: f4fac07cb110
 ---
 The login screen shall notify the room temperature within 200 ms.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-SS4F7X
+    confirmed: 072a30500dc2
 ---
 The touch display shall store user preferences after a power loss.
 

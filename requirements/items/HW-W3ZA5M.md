@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-3VNC9H
+    confirmed: 03718c2aa121
 ---
 The cloud backend shall notify the set point after a power loss.
 

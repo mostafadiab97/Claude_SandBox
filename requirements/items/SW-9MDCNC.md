@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-6FR4B0
+    confirmed: 9be2c87fb0e4
 ---
 The Zigbee radio shall display safety limits at least once per minute.
 

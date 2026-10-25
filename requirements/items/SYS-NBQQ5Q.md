@@ -9,6 +9,7 @@ order: 1700
 links:
   - type: refines
     target: STK-GMCKMF
+    confirmed: f47328374a2b
 ---
 The local API shall limit the set point with an accuracy of ±0.5 °C.
 

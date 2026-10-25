@@ -12,8 +12,10 @@ order: 1350
 links:
   - type: verifies
     target: SYS-CPG2EW
+    confirmed: e993ebab475d
   - type: verifies
     target: SW-3Y0DJQ
+    confirmed: 18bfa3ee379d
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

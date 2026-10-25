@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-263BJQ
+    confirmed: 545c48596828
 ---
 The mobile app shall calibrate the operating mode below 0.5 W in standby.
 

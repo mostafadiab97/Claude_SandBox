@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-71EHW5
+    confirmed: 79a9807170d2
 ---
 The device registry shall measure sensor readings after a power loss.

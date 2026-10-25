@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-F9GP9Y
+    confirmed: 443125a88fee
 ---
 The Wi-Fi module shall synchronise access tokens when the network is unavailable.

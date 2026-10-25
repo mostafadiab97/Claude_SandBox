@@ -13,5 +13,6 @@ order: 1520
 links:
   - type: refines
     target: STK-ND3D08
+    confirmed: df91c673f737
 ---
 The schedule editor shall notify the room temperature after a power loss.

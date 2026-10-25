@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-CWTAQN
+    confirmed: 095aebabf828
 ---
 Implemented in `src/safe/encryption_layer.c`.

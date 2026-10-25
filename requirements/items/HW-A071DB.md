@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-H3HYYW
+    confirmed: f61629f66ce3
 ---
 The enclosure shall detect the connection state within 200 ms.
 

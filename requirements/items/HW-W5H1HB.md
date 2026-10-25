@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-V45C6C
+    confirmed: b1d54a1f5b15
 ---
 The power supply shall limit humidity values with an accuracy of ±0.5 °C.
 

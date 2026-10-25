@@ -14,8 +14,10 @@ order: 690
 links:
   - type: verifies
     target: SYS-DQWVMQ
+    confirmed: 7c9cac507365
   - type: verifies
     target: SW-E9VX7X
+    confirmed: 08754fdc2692
 ---
 **Objective:** verify that the user account service behaves as specified.
 

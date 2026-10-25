@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-WY2MGE
+    confirmed: cd0fa22d1fa7
 ---
 The status LED shall notify the set point with an accuracy of ±0.5 °C.
 

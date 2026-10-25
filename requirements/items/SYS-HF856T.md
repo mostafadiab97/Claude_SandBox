@@ -10,6 +10,7 @@ order: 1310
 links:
   - type: refines
     target: STK-G2H1B9
+    confirmed: fce33b342585
 ---
 The secure boot shall calibrate the room temperature using AES-256-GCM.
 

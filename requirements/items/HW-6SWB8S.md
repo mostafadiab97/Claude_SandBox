@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-98SWXJ
+    confirmed: 2eaf1870cc5d
 ---
 The main PCB shall store sensor readings with an accuracy of ±0.5 °C.
 

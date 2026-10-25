@@ -13,5 +13,6 @@ order: 730
 links:
   - type: refines
     target: STK-XZPKF8
+    confirmed: f082d5e65a7a
 ---
 The status LED shall restore the operating mode for up to 8 zones.

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-WFZVWZ
+    confirmed: 66917eb2d4db
 ---
 The battery backup shall restore energy consumption at least once per minute.
 

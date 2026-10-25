@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-J8EBT2
+    confirmed: df11fb8e9e39
 ---
 The telemetry pipeline shall calibrate the operating mode for at least 10 years.
 

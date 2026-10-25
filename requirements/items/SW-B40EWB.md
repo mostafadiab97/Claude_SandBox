@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-FP2QK1
+    confirmed: c97badc87373
 ---
 The secure boot shall restore relay events without user interaction.
 

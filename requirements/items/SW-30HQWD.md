@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-APGJQA
+    confirmed: "45019195e843"
 ---
 The login screen shall log energy consumption for up to 8 zones.
 

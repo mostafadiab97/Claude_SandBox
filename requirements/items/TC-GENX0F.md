@@ -10,6 +10,7 @@ order: 950
 links:
   - type: verifies
     target: SYS-J6PC66
+    confirmed: b91cd2a500bd
 ---
 **Objective:** verify that the menu system behaves as specified.
 

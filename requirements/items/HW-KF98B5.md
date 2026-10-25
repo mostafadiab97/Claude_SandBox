@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-1HXVG6
+    confirmed: 6d0d839ebdb4
 ---
 The battery backup shall detect user preferences at least once per minute.
 

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-RWYDHZ
+    confirmed: 11de28b7d99d
 ---
 The enclosure shall display safety limits using AES-256-GCM.
 

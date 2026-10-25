@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-FHDEXY
+    confirmed: 786acaabdb39
 ---
 The regulation loop shall notify the room temperature at least once per minute.

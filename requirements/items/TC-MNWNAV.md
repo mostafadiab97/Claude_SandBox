@@ -10,6 +10,7 @@ order: 1520
 links:
   - type: verifies
     target: SYS-7JZD7P
+    confirmed: 3d215316f1d7
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

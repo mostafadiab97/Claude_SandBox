@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-6HD5PY
+    confirmed: c27b6629ca65
 ---
 The home dashboard shall limit the set point with an accuracy of ±0.5 °C.

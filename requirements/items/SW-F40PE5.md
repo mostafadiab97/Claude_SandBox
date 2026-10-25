@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-44HBM9
+    confirmed: ebc73cf4101f
 ---
 The backlight shall restore error conditions after a power loss.

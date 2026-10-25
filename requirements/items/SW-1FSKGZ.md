@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-THVK2Q
+    confirmed: cae20cf103a5
 ---
 The user account service shall log humidity values after a power loss.
 

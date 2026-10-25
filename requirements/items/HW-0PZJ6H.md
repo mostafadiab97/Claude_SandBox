@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-VMW9A5
+    confirmed: b407b79e1420
 ---
 The battery backup shall measure relay events using AES-256-GCM.
 

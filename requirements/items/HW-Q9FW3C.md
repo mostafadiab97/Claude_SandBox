@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-RZG5Z7
+    confirmed: 75e860ade9bd
 ---
 The enclosure shall restore energy consumption for at least 10 years.
 

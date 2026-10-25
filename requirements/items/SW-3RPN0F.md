@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-927AKR
+    confirmed: a7bb3114a08e
 ---
 The menu system shall synchronise user preferences for up to 8 zones.
 

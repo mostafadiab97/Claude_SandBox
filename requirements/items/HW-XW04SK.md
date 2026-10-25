@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-N8A6YS
+    confirmed: d0b8c4d6001b
 ---
 The zone valve shall calibrate the room temperature with an accuracy of ±0.5 °C.
 

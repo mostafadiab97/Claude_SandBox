@@ -12,6 +12,7 @@ order: 140
 links:
   - type: relates-to
     target: STK-F8MTPC
+    confirmed: bbf5b4f56657
 ---
 **Actor:** home owner
 

@@ -11,8 +11,10 @@ order: 920
 links:
   - type: refines
     target: STK-M28XWW
+    confirmed: bcf262f10744
   - type: mitigates
     target: RSK-P3EG5Z
+    confirmed: 24cf773c2491
 ---
 The relay board shall restore the connection state after a power loss.
 

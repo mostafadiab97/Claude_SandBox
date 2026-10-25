@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-W2WVAG
+    confirmed: 2e87eec370fa
 ---
 The mobile app shall encrypt safety limits when the network is unavailable.

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-KR83ET
+    confirmed: e81112c0de6f
 ---
 The relay board shall encrypt sensor readings within 200 ms.
 

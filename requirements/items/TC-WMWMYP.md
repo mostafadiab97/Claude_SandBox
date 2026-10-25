@@ -12,8 +12,10 @@ order: 1600
 links:
   - type: verifies
     target: SYS-S1NYQA
+    confirmed: 1b9d0d62784e
   - type: verifies
     target: SW-WN4TB1
+    confirmed: d6c726def79d
 ---
 **Objective:** verify that the relay board behaves as specified.
 

@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-M866DW
+    confirmed: ca116b04f822
 ---
 The cloud backend shall store access tokens using AES-256-GCM.

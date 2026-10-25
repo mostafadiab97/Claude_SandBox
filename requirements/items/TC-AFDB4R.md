@@ -12,8 +12,10 @@ order: 1040
 links:
   - type: verifies
     target: SYS-QKZP7T
+    confirmed: a1c30d626e9c
   - type: verifies
     target: SW-EG7512
+    confirmed: 83c09e51223e
 ---
 **Objective:** verify that the status LED behaves as specified.
 

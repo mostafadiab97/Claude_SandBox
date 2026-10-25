@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-4TS5VE
+    confirmed: 8de75c1b0368
 ---
 The power supply shall store the room temperature for at least 10 years.
 

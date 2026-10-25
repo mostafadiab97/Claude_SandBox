@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XF4596
+    confirmed: a0439b97be28
 ---
 The battery backup shall switch user preferences after a power loss.
 

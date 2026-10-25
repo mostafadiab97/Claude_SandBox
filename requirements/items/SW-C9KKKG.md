@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-EKB2T7
+    confirmed: 08d1945fa1d9
 ---
 The cloud backend shall calibrate audit records with an accuracy of ±0.5 °C.
 

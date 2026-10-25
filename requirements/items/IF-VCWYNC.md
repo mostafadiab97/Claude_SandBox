@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-48BXDV
+    confirmed: b17b907e6406
 ---
 The enclosure shall store the room temperature in under 3 s.
 

@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-ZM6EM1
+    confirmed: bc2cbad41247
 ---
 The enclosure shall report the set point within 200 ms.

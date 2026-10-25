@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-ZD8ARR
+    confirmed: 8e6f137aeffa
 ---
 The relay board shall synchronise user preferences with an accuracy of ±0.5 °C.

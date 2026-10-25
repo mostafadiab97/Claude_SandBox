@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7BRVTY
+    confirmed: f003d27313f2
 ---
 The home dashboard shall restore sensor readings after a power loss.
 

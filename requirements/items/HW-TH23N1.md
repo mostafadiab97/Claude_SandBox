@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-Y096JN
+    confirmed: 3622c05b8ec0
 ---
 The status LED shall calibrate firmware images at least once per minute.
 

@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-1BYGW7
+    confirmed: aaf2829fd5ea
 ---
 The status LED shall detect the room temperature at least once per minute.
 

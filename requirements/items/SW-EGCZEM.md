@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-4A8MB5
+    confirmed: d346149918c1
 ---
 The home dashboard shall encrypt safety limits at least once per minute.
 

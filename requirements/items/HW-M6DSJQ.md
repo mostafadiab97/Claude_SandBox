@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-G05WA7
+    confirmed: c37aca9c7e04
 ---
 The battery backup shall notify energy consumption after a power loss.
 

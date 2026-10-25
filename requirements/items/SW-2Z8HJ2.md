@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-2T9P1T
+    confirmed: 67011a28308d
 ---
 The Zigbee radio shall detect schedule entries without user interaction.
 

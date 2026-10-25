@@ -10,6 +10,7 @@ order: 1310
 links:
   - type: refines
     target: STK-ND3D08
+    confirmed: df91c673f737
 ---
 The home dashboard shall restore audit records with an accuracy of ±0.5 °C.
 

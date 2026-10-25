@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-4QH9R0
+    confirmed: 723f7d1c807e
 ---
 The heating controller shall synchronise the set point for up to 8 zones.
 

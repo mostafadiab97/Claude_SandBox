@@ -13,6 +13,7 @@ order: 2140
 links:
   - type: verifies
     target: SYS-KK90ZN
+    confirmed: a81e8767fb91
 ---
 **Objective:** verify that the device behaves as specified.
 

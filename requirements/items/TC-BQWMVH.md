@@ -12,8 +12,10 @@ order: 1300
 links:
   - type: verifies
     target: SYS-XNZMY7
+    confirmed: 1e674699e206
   - type: verifies
     target: SW-5AHKSR
+    confirmed: e2079d0acc83
 ---
 **Objective:** verify that the backlight behaves as specified.
 

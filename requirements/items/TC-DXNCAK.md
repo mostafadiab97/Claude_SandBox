@@ -10,6 +10,7 @@ order: 2040
 links:
   - type: verifies
     target: SYS-0MK9ZW
+    confirmed: 5727fec8b08d
 ---
 **Objective:** verify that the device behaves as specified.
 

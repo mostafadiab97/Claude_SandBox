@@ -10,8 +10,10 @@ order: 620
 links:
   - type: verifies
     target: SYS-CP5K95
+    confirmed: 278409ef24f8
   - type: verifies
     target: SW-4P595V
+    confirmed: a1c29b0d37be
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

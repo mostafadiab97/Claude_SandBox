@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-ARV5WS
+    confirmed: 9caa840cd9f5
 ---
 The status LED shall notify the room temperature without user interaction.
 

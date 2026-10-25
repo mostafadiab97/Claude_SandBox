@@ -8,8 +8,10 @@ order: 30
 links:
   - type: verifies
     target: SYS-J73TGA
+    confirmed: c6ffa9bc0f1f
   - type: verifies
     target: SW-YV9696
+    confirmed: c7f9f81fe33d
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

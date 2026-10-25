@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-MR5CRK
+    confirmed: ff67b7696602
 ---
 The tamper detection shall notify energy consumption after a power loss.

@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-3QBDZ4
+    confirmed: 1ebb264cb27c
 ---
 The enclosure shall validate error conditions for up to 8 zones.
 

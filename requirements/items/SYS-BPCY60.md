@@ -10,6 +10,7 @@ order: 70
 links:
   - type: refines
     target: STK-71VSKB
+    confirmed: 994ecb1eff6f
 ---
 The Zigbee radio shall authenticate relay events with an accuracy of ±0.5 °C.
 

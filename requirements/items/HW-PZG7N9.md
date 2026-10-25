@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-2VEPK9
+    confirmed: a7e58f20b1a5
 ---
 The pairing process shall authenticate the connection state using AES-256-GCM.
 

@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-0N6C2D
+    confirmed: 50615d725109
 ---
 The login screen shall encrypt access tokens when the network is unavailable.
 

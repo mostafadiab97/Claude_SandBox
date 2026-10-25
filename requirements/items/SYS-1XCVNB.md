@@ -9,6 +9,7 @@ order: 1330
 links:
   - type: refines
     target: STK-ND3D08
+    confirmed: df91c673f737
 ---
 The mobile app shall calibrate user preferences after a power loss.
 

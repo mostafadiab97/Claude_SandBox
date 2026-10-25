@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ZFAGA9
+    confirmed: 088ced33b5bc
 ---
 The schedule editor shall notify energy consumption when the network is unavailable.
 

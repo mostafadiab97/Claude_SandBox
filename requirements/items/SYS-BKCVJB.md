@@ -12,6 +12,7 @@ order: 870
 links:
   - type: refines
     target: STK-SZWQ0A
+    confirmed: fc1f05b44684
 ---
 The watchdog shall authenticate the set point below 0.5 W in standby.
 

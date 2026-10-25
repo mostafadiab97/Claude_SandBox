@@ -13,6 +13,7 @@ order: 1390
 links:
   - type: verifies
     target: SYS-MQPMA3
+    confirmed: 906d4acd43e6
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

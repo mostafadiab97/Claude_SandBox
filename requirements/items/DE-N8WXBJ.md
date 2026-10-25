@@ -11,5 +11,6 @@ order: 10
 links:
   - type: implements
     target: SW-WPZWN6
+    confirmed: 04a0bf820b60
 ---
 Implemented in `src/safe/tamper_detection.c`.

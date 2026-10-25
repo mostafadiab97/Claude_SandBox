@@ -10,6 +10,7 @@ order: 1220
 links:
   - type: verifies
     target: SYS-JR1SW0
+    confirmed: 509dfc30f5e8
 ---
 **Objective:** verify that the relay board behaves as specified.
 

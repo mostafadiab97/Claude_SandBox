@@ -10,6 +10,7 @@ order: 1750
 links:
   - type: refines
     target: STK-EFJRJ9
+    confirmed: fc922ec1a72e
 ---
 The heat pump driver shall validate user preferences below 0.5 W in standby.
 

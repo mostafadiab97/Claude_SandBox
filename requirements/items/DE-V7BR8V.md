@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-NVEM04
+    confirmed: 8ab54d191ba0
 ---
 Implemented in `src/safe/encryption_layer.c`.

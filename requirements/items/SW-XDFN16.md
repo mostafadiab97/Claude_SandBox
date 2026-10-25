@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-QEG5QQ
+    confirmed: 312c76ebed64
 ---
 The tamper detection shall synchronise access tokens when the network is unavailable.
 

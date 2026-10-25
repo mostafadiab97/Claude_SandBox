@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-HSBZEM
+    confirmed: 22cdb66e683a
 ---
 The OTA server shall calibrate the connection state when the network is unavailable.
 

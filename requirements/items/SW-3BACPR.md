@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-YFQ7J9
+    confirmed: 879d2491ed8f
 ---
 The Wi-Fi module shall log access tokens in all supported languages.
 

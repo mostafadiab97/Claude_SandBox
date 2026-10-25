@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-2NNT9F
+    confirmed: 34d488ad75d2
 ---
 The status LED shall measure the operating mode below 0.5 W in standby.
 

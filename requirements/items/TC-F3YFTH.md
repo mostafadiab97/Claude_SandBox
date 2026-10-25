@@ -14,8 +14,10 @@ order: 1190
 links:
   - type: verifies
     target: SYS-XF6HRT
+    confirmed: 8fa995f67a12
   - type: verifies
     target: SW-4P595V
+    confirmed: a1c29b0d37be
 ---
 **Objective:** verify that the notification service behaves as specified.
 

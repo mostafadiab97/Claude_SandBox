@@ -13,6 +13,7 @@ order: 940
 links:
   - type: verifies
     target: SYS-2N03B4
+    confirmed: 9597e83a664b
 ---
 **Objective:** verify that the device behaves as specified.
 

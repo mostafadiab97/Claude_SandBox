@@ -13,6 +13,7 @@ order: 860
 links:
   - type: verifies
     target: SYS-HGM9BS
+    confirmed: e9e572deb541
 ---
 **Objective:** verify that the device registry behaves as specified.
 

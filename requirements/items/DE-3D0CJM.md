@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-3BACPR
+    confirmed: 1f6d28989a54
 ---
 Implemented in `src/conn/Wi-Fi_module.c`.

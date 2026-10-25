@@ -9,6 +9,7 @@ order: 1040
 links:
   - type: refines
     target: STK-M7S0HJ
+    confirmed: 000356d5d38b
 ---
 The heating controller shall notify access tokens within 200 ms.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-TKG0RV
+    confirmed: e777aa6cb619
 ---
 The backlight shall switch error conditions within 200 ms.
 

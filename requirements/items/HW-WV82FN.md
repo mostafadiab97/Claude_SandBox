@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-8Q3CHA
+    confirmed: bba9c1adc60e
 ---
 The zone valve shall notify relay events after a power loss.

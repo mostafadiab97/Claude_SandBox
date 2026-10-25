@@ -12,6 +12,7 @@ order: 960
 links:
   - type: verifies
     target: SYS-HS7YMC
+    confirmed: 0b69395daa11
 ---
 **Objective:** verify that the device behaves as specified.
 

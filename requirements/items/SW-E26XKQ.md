@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-EMNHY1
+    confirmed: 84eef3783091
 ---
 The login screen shall notify the room temperature at least once per minute.
 

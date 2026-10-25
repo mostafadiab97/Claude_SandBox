@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-XP4ZAH
+    confirmed: b8b57a2c487b
 ---
 The regulation loop shall limit access tokens below 0.5 W in standby.
 

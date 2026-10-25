@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-8SP07G
+    confirmed: 3e9f0b15772c
 ---
 The boiler interface shall detect user preferences for at least 10 years.
 

@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-7GK72R
+    confirmed: b5dc324db8d2
 ---
 The pairing process shall display the operating mode below 0.5 W in standby.
 

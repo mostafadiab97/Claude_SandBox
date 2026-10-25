@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-4PDJXS
+    confirmed: d110956fb0b7
 ---
 The Bluetooth LE link shall calibrate relay events in under 3 s.
 

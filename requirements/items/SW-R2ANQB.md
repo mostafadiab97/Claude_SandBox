@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-BG5HSX
+    confirmed: ca78fcddf889
 ---
 The home dashboard shall report the set point at least once per minute.
 

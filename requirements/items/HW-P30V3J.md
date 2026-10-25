@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-EC81QP
+    confirmed: 1189223f2096
 ---
 The notification service shall validate relay events after a power loss.
 

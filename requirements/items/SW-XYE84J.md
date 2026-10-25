@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-KEMB29
+    confirmed: d9a584e6b704
 ---
 The encryption layer shall log schedule entries for at least 10 years.
 

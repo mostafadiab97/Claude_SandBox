@@ -13,8 +13,10 @@ order: 510
 links:
   - type: refines
     target: STK-SM9B7Z
+    confirmed: 44235e2789f0
   - type: mitigates
     target: RSK-RV8KBD
+    confirmed: 637ec5e39d53
 ---
 The tamper detection shall switch firmware images when the network is unavailable.
 

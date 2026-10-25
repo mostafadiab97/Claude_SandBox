@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-TGB5BV
+    confirmed: efddaa3f87b9
 ---
 The Bluetooth LE link shall restore firmware images within 200 ms.
 

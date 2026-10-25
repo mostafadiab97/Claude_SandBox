@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MAHRKG
+    confirmed: 1818eb6c7e09
 ---
 The over-temperature monitor shall store user preferences below 0.5 W in standby.
 

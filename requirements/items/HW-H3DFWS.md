@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-SGGFKV
+    confirmed: 04cafacc256c
 ---
 The main PCB shall encrypt humidity values without user interaction.
 

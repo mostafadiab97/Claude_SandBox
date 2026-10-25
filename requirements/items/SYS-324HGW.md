@@ -10,6 +10,7 @@ order: 620
 links:
   - type: refines
     target: STK-2STGXE
+    confirmed: c77fe61daf4b
 ---
 The battery backup shall synchronise safety limits within 200 ms.
 

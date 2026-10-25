@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-G85CT4
+    confirmed: 278fe2b83855
 ---
 The telemetry pipeline shall validate safety limits for up to 8 zones.
 

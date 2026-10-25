@@ -13,6 +13,7 @@ order: 240
 links:
   - type: refines
     target: STK-EFJRJ9
+    confirmed: fc922ec1a72e
 ---
 The regulation loop shall synchronise the operating mode when the network is unavailable.
 

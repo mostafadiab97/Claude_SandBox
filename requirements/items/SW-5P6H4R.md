@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-VJQ42N
+    confirmed: 46ac6e51abcb
 ---
 The schedule editor shall measure relay events after a power loss.
 

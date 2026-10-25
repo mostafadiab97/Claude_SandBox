@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-D8F6N6
+    confirmed: 9cdbb3a331ff
 ---
 The local API shall encrypt the operating mode in all supported languages.
 

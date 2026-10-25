@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-SD7PRX
+    confirmed: 998fce46e3b0
 ---
 Implemented in `src/conn/pairing_process.c`.

@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-96K8ZZ
+    confirmed: 4fbabcbee22c
 ---
 The over-temperature monitor shall restore energy consumption within 200 ms.
 

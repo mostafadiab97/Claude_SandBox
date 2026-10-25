@@ -12,8 +12,10 @@ order: 1040
 links:
   - type: verifies
     target: SYS-CMNCSV
+    confirmed: c22e3af7bfc8
   - type: verifies
     target: SW-ABMEWH
+    confirmed: ff58105578cc
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

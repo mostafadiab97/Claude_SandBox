@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-7N5VV8
+    confirmed: 995bbbab086c
 ---
 The secure boot shall display sensor readings after a power loss.

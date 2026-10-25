@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-9PZN49
+    confirmed: 10b09742ae8a
 ---
 The login screen shall synchronise safety limits after a power loss.
 

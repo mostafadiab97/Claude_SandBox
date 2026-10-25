@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-7YWY0X
+    confirmed: 0e0b0b521bd5
 ---
 The touch display shall limit error conditions in all supported languages.
 

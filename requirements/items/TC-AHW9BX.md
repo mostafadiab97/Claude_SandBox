@@ -14,8 +14,10 @@ order: 40
 links:
   - type: verifies
     target: SYS-5CGTBY
+    confirmed: a16febe00c06
   - type: verifies
     target: SW-0ZHFRT
+    confirmed: ccc7bd38a02a
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.
 

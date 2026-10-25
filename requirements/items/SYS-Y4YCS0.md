@@ -14,8 +14,10 @@ order: 1830
 links:
   - type: refines
     target: STK-HH6ZNR
+    confirmed: caa77fe9df1c
   - type: mitigates
     target: RSK-S88NZ1
+    confirmed: 257f5def6363
 ---
 The menu system shall synchronise audit records at least once per minute.
 

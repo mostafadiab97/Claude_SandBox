@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-J6W17Y
+    confirmed: 3b97bd54aabd
 ---
 The Wi-Fi module shall detect audit records within 200 ms.
 

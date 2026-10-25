@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-3PT4BJ
+    confirmed: 0a43238dc6c3
 ---
 The touch display shall display error conditions when the network is unavailable.
 

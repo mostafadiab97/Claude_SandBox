@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QTE64V
+    confirmed: 27661a1b1fc7
 ---
 The telemetry pipeline shall report the set point at least once per minute.
 

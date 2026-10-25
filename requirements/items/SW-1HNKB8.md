@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-FJTSEK
+    confirmed: 0ff5a626958c
 ---
 The user account service shall log sensor readings without user interaction.

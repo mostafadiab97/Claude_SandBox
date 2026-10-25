@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-RAP7Z6
+    confirmed: 8158ead818f6
 ---
 The heating controller shall switch sensor readings without user interaction.
 

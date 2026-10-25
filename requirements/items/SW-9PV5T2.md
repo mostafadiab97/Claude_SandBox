@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-TYJV0J
+    confirmed: 7db491bbadea
 ---
 The OTA server shall store the room temperature in under 3 s.

@@ -11,8 +11,10 @@ order: 420
 links:
   - type: verifies
     target: SYS-8YJPVN
+    confirmed: 98030a3341f7
   - type: verifies
     target: SW-D7ZWTD
+    confirmed: 71a1736b67f4
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

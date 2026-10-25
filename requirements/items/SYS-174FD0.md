@@ -12,6 +12,7 @@ order: 430
 links:
   - type: refines
     target: STK-W1SAZ0
+    confirmed: aae65e115238
 ---
 The boiler interface shall store user preferences after a power loss.
 

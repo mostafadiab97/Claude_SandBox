@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-2537HM
+    confirmed: 757b06263a13
 ---
 The device registry shall switch the room temperature after a power loss.
 

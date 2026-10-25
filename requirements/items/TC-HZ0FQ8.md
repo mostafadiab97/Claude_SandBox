@@ -13,6 +13,7 @@ order: 2110
 links:
   - type: verifies
     target: SYS-8J1N3D
+    confirmed: b357a6a8ec1a
 ---
 **Objective:** verify that the device behaves as specified.
 

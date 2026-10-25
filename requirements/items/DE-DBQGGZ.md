@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-24AZ5W
+    confirmed: ceb880c31caf
 ---
 Implemented in `src/ui/rotary_knob.c`.

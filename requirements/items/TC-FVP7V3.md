@@ -12,6 +12,7 @@ order: 800
 links:
   - type: verifies
     target: SYS-JAAEVD
+    confirmed: 9e43edd3ff39
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

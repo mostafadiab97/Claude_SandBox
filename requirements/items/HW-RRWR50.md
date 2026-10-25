@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-1T01KA
+    confirmed: b90824328e7a
 ---
 The schedule editor shall limit audit records after a power loss.

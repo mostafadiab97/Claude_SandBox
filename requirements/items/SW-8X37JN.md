@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-0Z0CN7
+    confirmed: 08db9fc3bdee
 ---
 The Bluetooth LE link shall limit schedule entries with an accuracy of ±0.5 °C.
 

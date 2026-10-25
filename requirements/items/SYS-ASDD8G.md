@@ -14,5 +14,6 @@ order: 850
 links:
   - type: refines
     target: STK-8PN4VS
+    confirmed: a3e83ac40678
 ---
 The status LED shall switch the connection state without user interaction.

@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-KC9B1E
+    confirmed: 3ee066e79e6d
 ---
 The Wi-Fi module shall store energy consumption below 0.5 W in standby.
 

@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: IF-P39A8S
+    confirmed: 5aa52536da5d
 ---
 The Wi-Fi module shall encrypt humidity values in all supported languages.

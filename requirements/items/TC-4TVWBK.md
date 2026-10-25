@@ -12,8 +12,10 @@ order: 1350
 links:
   - type: verifies
     target: SYS-E66142
+    confirmed: 02e2558f5021
   - type: verifies
     target: SW-WF85KZ
+    confirmed: 76bbdf417470
 ---
 **Objective:** verify that the status LED behaves as specified.
 

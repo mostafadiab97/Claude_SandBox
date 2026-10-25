@@ -13,8 +13,10 @@ order: 960
 links:
   - type: verifies
     target: SYS-WRCCVQ
+    confirmed: 22615937890b
   - type: verifies
     target: SW-0CA54W
+    confirmed: c33a35847fa5
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

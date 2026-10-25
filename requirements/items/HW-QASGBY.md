@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-2XRBY7
+    confirmed: 7b1130aac0e9
 ---
 The power supply shall switch energy consumption after a power loss.

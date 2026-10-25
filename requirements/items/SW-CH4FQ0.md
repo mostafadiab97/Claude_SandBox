@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-KBN3PB
+    confirmed: "329451810423"
 ---
 The login screen shall measure humidity values below 0.5 W in standby.
 

@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: HW-P5TT8Q
+    confirmed: d234913d6e80
 ---
 The enclosure shall display relay events using AES-256-GCM.

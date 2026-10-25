@@ -11,6 +11,7 @@ order: 620
 links:
   - type: verifies
     target: SYS-AY6RXE
+    confirmed: 7ff5c17c87ed
 ---
 **Objective:** verify that the backlight behaves as specified.
 

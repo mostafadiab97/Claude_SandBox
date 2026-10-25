@@ -12,5 +12,6 @@ order: 1410
 links:
   - type: refines
     target: STK-EWSQ9Z
+    confirmed: aa5e4143dbe7
 ---
 The boiler interface shall store the connection state within 200 ms.

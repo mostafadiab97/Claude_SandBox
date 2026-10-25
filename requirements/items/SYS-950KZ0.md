@@ -12,8 +12,10 @@ order: 1780
 links:
   - type: refines
     target: STK-5CT2VD
+    confirmed: 51ca0f7a80ed
   - type: mitigates
     target: RSK-6H3D9M
+    confirmed: c7f45fccd8d0
 ---
 The Bluetooth LE link shall authenticate the connection state in all supported languages.
 

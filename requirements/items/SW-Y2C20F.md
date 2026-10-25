@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-TNP510
+    confirmed: 342a56df9a48
 ---
 The notification service shall calibrate schedule entries in all supported languages.
 

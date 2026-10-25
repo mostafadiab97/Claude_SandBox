@@ -12,8 +12,10 @@ order: 140
 links:
   - type: relates-to
     target: TC-P345X4
+    confirmed: cd6557aedc8f
   - type: relates-to
     target: SYS-8DZCCC
+    confirmed: bfb76bd67963
 ---
 Found during regression testing of build 2.4.1.
 

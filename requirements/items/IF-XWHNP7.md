@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-SA1DH7
+    confirmed: 339efbb2167c
 ---
 The battery backup shall display access tokens without user interaction.
 

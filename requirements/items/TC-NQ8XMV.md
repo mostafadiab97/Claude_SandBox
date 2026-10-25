@@ -13,6 +13,7 @@ order: 680
 links:
   - type: verifies
     target: SYS-X1DW4B
+    confirmed: ac324fd128ba
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

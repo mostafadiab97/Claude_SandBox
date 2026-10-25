@@ -13,8 +13,10 @@ order: 290
 links:
   - type: verifies
     target: SYS-QEFT7B
+    confirmed: aafd3f4bb931
   - type: verifies
     target: SW-B5J7X8
+    confirmed: 367a6b674b14
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

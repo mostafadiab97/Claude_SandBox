@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MK2A6C
+    confirmed: f66b9f28edb5
 ---
 The telemetry pipeline shall display firmware images with an accuracy of ±0.5 °C.
 

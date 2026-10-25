@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-D7FGDK
+    confirmed: bf329a941699
 ---
 The telemetry pipeline shall synchronise audit records in all supported languages.
 

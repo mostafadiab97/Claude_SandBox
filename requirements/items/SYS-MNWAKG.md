@@ -10,6 +10,7 @@ order: 360
 links:
   - type: refines
     target: STK-DKX022
+    confirmed: a534e573be6a
 ---
 The OTA server shall limit relay events for up to 8 zones.
 

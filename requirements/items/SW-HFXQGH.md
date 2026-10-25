@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-KCC5WV
+    confirmed: 201bc4a0f987
 ---
 The user account service shall store audit records when the network is unavailable.
 

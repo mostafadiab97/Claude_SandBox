@@ -12,8 +12,10 @@ order: 810
 links:
   - type: refines
     target: STK-JBY2BX
+    confirmed: bcce6e51beb4
   - type: mitigates
     target: RSK-MJR7PZ
+    confirmed: a67337939a06
 ---
 The tamper detection shall calibrate energy consumption below 0.5 W in standby.
 

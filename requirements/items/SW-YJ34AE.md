@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-6QAARD
+    confirmed: ecd7ff8ad13d
 ---
 The zone valve shall synchronise the operating mode for up to 8 zones.
 

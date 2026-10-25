@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-HN5S5X
+    confirmed: 98a2a16336ac
 ---
 The backlight shall display the operating mode for at least 10 years.
 

@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-933SE3
+    confirmed: 87639e58a5eb
 ---
 The status LED shall encrypt the connection state using AES-256-GCM.
 

@@ -13,6 +13,7 @@ order: 1320
 links:
   - type: verifies
     target: SYS-4VCYRM
+    confirmed: d32333e735ba
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.
 

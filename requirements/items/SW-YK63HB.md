@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-V9VR90
+    confirmed: a13f663c17a2
 ---
 The pairing process shall measure relay events for up to 8 zones.
 

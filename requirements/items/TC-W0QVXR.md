@@ -12,6 +12,7 @@ order: 810
 links:
   - type: verifies
     target: SYS-35QZ1B
+    confirmed: eaceeabf6305
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

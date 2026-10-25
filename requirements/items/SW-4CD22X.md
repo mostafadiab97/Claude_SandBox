@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-7C9J06
+    confirmed: cd6745f84064
 ---
 The backlight shall encrypt the operating mode with an accuracy of ±0.5 °C.
 

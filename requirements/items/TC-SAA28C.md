@@ -10,6 +10,7 @@ order: 50
 links:
   - type: verifies
     target: SYS-7C3GR4
+    confirmed: d6385afd3348
 ---
 **Objective:** verify that the backlight behaves as specified.
 

@@ -14,5 +14,6 @@ order: 30
 links:
   - type: refines
     target: SYS-3FCPBN
+    confirmed: 53e5304c7666
 ---
 The boiler interface shall store the set point within 200 ms.

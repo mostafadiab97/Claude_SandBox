@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-D4W333
+    confirmed: 11ac230159e7
 ---
 The telemetry pipeline shall log relay events within 200 ms.

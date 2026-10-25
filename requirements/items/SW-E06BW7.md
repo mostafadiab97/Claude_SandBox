@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SW-720QYN
+    confirmed: e0f62860c276
 ---
 The Zigbee radio shall calibrate the operating mode for up to 8 zones.

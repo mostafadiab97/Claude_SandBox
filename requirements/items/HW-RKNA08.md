@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-J8E1WK
+    confirmed: e3e45dbe823d
 ---
 The cloud backend shall report humidity values below 0.5 W in standby.
 

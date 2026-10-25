@@ -13,5 +13,6 @@ order: 60
 links:
   - type: refines
     target: STK-F7D2QS
+    confirmed: bd8a3050a12b
 ---
 The Zigbee radio shall measure schedule entries after a power loss.

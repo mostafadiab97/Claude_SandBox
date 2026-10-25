@@ -13,5 +13,6 @@ order: 1620
 links:
   - type: refines
     target: STK-ZWN5M8
+    confirmed: 994b9d44bde8
 ---
 The main PCB shall limit access tokens in all supported languages.

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-D6GVJP
+    confirmed: b9e85779752f
 ---
 The zone valve shall validate access tokens at least once per minute.

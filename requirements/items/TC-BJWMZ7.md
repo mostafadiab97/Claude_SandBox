@@ -13,6 +13,7 @@ order: 840
 links:
   - type: verifies
     target: SYS-5EWC97
+    confirmed: 112d894849fe
 ---
 **Objective:** verify that the boiler interface behaves as specified.
 

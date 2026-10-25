@@ -13,6 +13,7 @@ order: 940
 links:
   - type: verifies
     target: SYS-8PSQE0
+    confirmed: 6c3a3bfcff30
 ---
 **Objective:** verify that the user account service behaves as specified.
 

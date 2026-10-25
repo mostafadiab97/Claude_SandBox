@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-2R43RR
+    confirmed: 33f28ad21794
 ---
 The secure boot shall authenticate energy consumption within 200 ms.
 

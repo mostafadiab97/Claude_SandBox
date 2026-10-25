@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-9BKWE6
+    confirmed: 69aa4344ccec
 ---
 The OTA server shall switch the connection state below 0.5 W in standby.

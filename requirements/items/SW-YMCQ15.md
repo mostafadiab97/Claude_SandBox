@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-QFCX4V
+    confirmed: 0a633adec0ec
 ---
 The touch display shall store user preferences with an accuracy of ±0.5 °C.
 

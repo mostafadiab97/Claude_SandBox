@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-57VCJF
+    confirmed: 16d828a121d5
 ---
 The device registry shall notify access tokens when the network is unavailable.
 

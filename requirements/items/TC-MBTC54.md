@@ -12,6 +12,7 @@ order: 810
 links:
   - type: verifies
     target: SYS-5XB7KH
+    confirmed: ce31b91ce201
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

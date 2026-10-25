@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-PBKX7W
+    confirmed: 7803506bfd31
 ---
 The Zigbee radio shall log schedule entries at least once per minute.
 

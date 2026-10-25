@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-E2APKT
+    confirmed: cac0677efc4c
 ---
 The over-temperature monitor shall synchronise firmware images for at least 10 years.
 

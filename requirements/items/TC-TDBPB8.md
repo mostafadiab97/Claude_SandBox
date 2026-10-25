@@ -10,8 +10,10 @@ order: 1270
 links:
   - type: verifies
     target: SYS-745K9S
+    confirmed: b4b17cd08794
   - type: verifies
     target: SW-V4SAZB
+    confirmed: 05dae165bad7
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-7WCAWK
+    confirmed: 872381f1db9b
 ---
 The battery backup shall measure safety limits in all supported languages.
 

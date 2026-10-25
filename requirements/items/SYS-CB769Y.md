@@ -10,6 +10,7 @@ order: 1190
 links:
   - type: refines
     target: STK-DJ9M3M
+    confirmed: ba30e28a130f
 ---
 The watchdog shall restore the set point in all supported languages.
 

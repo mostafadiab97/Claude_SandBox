@@ -10,8 +10,10 @@ order: 510
 links:
   - type: verifies
     target: SYS-HV5YB5
+    confirmed: a372a699b46d
   - type: verifies
     target: SW-GP4XWS
+    confirmed: 36dbca0b21ec
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

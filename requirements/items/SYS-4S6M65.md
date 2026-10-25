@@ -12,6 +12,7 @@ order: 1160
 links:
   - type: refines
     target: STK-4K2NE4
+    confirmed: 7cfb31353d89
 ---
 The touch display shall validate safety limits at least once per minute.
 

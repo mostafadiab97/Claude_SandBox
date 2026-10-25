@@ -9,6 +9,7 @@ order: 1280
 links:
   - type: verifies
     target: SYS-S318HE
+    confirmed: a8739639e10d
 ---
 **Objective:** verify that the menu system behaves as specified.
 

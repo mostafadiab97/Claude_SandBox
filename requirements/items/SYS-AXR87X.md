@@ -12,8 +12,10 @@ order: 950
 links:
   - type: refines
     target: STK-MC9ASH
+    confirmed: a4f2ebaecfbe
   - type: mitigates
     target: RSK-BZRBDX
+    confirmed: be3df4abc265
 ---
 The notification service shall restore error conditions for at least 10 years.
 

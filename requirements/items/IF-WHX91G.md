@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-N0SS0N
+    confirmed: a340367acc67
 ---
 The user account service shall validate schedule entries within 200 ms.
 

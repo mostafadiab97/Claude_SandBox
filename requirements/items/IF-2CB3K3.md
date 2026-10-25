@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-XVVWVF
+    confirmed: f37bc3493af5
 ---
 The OTA server shall display the operating mode with an accuracy of ±0.5 °C.
 

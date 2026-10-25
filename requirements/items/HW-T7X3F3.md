@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-0C344V
+    confirmed: 2edabd3093b3
 ---
 The local API shall validate the connection state for at least 10 years.
 

@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-S17F3W
+    confirmed: 02e3c6ed2cec
 ---
 The menu system shall calibrate relay events using AES-256-GCM.
 

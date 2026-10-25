@@ -12,5 +12,6 @@ order: 20
 links:
   - type: implements
     target: SW-7NKEQE
+    confirmed: "639618831434"
 ---
 Implemented in `src/conn/Zigbee_radio.c`.

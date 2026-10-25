@@ -13,6 +13,7 @@ order: 1330
 links:
   - type: refines
     target: STK-VT1KVD
+    confirmed: fbcfb8475f32
 ---
 The cloud backend shall measure humidity values in under 3 s.
 

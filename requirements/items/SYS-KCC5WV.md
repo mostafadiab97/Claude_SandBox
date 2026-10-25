@@ -14,6 +14,7 @@ order: 700
 links:
   - type: refines
     target: STK-1CAAXP
+    confirmed: a853df6f0866
 ---
 The user account service shall switch safety limits for at least 10 years.
 

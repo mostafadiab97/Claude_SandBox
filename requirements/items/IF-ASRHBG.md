@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-CQBB7Y
+    confirmed: 96aa1de698de
 ---
 The heat pump driver shall notify sensor readings using AES-256-GCM.
 

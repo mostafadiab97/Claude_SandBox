@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-WQRW57
+    confirmed: a077b95b29b8
 ---
 The over-temperature monitor shall store the connection state after a power loss.
 

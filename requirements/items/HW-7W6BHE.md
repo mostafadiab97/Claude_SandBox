@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-SQC74W
+    confirmed: 705a530b1b5d
 ---
 The heat pump driver shall limit the connection state in under 3 s.

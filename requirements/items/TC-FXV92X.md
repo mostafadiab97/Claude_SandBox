@@ -10,6 +10,7 @@ order: 840
 links:
   - type: verifies
     target: SYS-ZCATXC
+    confirmed: b58d7a4ac260
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.
 

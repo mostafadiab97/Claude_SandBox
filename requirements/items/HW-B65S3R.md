@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-5YM37Q
+    confirmed: ccb715f06c33
 ---
 The power supply shall display the operating mode using AES-256-GCM.
 

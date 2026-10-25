@@ -9,6 +9,7 @@ order: 720
 links:
   - type: verifies
     target: SYS-PCB26E
+    confirmed: 1f9a2a50a4bc
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-Z0ETS8
+    confirmed: f371d67ea5c2
 ---
 The zone valve shall store the room temperature at least once per minute.

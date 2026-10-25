@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-B2837M
+    confirmed: 53bb399bd946
 ---
 The local API shall switch access tokens for up to 8 zones.

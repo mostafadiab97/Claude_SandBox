@@ -13,6 +13,7 @@ order: 90
 links:
   - type: refines
     target: STK-92HHJV
+    confirmed: 260bd01800c6
 ---
 The over-temperature monitor shall detect safety limits after a power loss.
 

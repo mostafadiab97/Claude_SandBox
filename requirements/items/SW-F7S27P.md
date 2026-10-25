@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-JQFSRA
+    confirmed: 6fff5afcb2fa
 ---
 The login screen shall authenticate safety limits after a power loss.
 

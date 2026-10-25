@@ -10,6 +10,7 @@ order: 1170
 links:
   - type: refines
     target: STK-JFBQPS
+    confirmed: 5027ee1822eb
 ---
 The telemetry pipeline shall log relay events within 200 ms.
 

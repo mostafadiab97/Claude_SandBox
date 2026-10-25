@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-X491FT
+    confirmed: 8674f6feb478
 ---
 The telemetry pipeline shall validate user preferences using AES-256-GCM.
 

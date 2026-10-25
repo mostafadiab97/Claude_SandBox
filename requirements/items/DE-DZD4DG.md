@@ -11,5 +11,6 @@ order: 10
 links:
   - type: implements
     target: SW-JKZNPW
+    confirmed: 253e62c16292
 ---
 Implemented in `src/ui/touch_display.c`.

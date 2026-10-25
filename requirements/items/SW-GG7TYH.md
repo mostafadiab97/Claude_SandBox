@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-B8BCQN
+    confirmed: 2a3d9dbc24b6
 ---
 The menu system shall limit audit records within 200 ms.

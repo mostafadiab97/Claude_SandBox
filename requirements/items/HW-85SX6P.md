@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-48BXDV
+    confirmed: b17b907e6406
 ---
 The enclosure shall limit relay events without user interaction.
 

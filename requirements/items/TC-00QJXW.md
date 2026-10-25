@@ -12,6 +12,7 @@ order: 1430
 links:
   - type: verifies
     target: SYS-BK9269
+    confirmed: 03a5e57cdda8
 ---
 **Objective:** verify that the device behaves as specified.
 

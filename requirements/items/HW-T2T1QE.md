@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-9NXWHJ
+    confirmed: 538154ab2be8
 ---
 The secure boot shall log error conditions without user interaction.
 

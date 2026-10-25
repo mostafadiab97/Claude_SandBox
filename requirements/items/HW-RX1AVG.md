@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-Y8RNAD
+    confirmed: e21c897550a0
 ---
 The Zigbee radio shall synchronise the operating mode using AES-256-GCM.
 

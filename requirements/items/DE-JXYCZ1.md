@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-MQZFWN
+    confirmed: 5372abbdf9c9
 ---
 Implemented in `src/conn/pairing_process.c`.

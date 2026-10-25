@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-SQC74W
+    confirmed: 705a530b1b5d
 ---
 The heat pump driver shall switch relay events after a power loss.

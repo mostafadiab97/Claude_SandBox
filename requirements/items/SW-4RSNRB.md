@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-Y5CVYC
+    confirmed: a553ea66b4a2
 ---
 The cloud backend shall detect the room temperature after a power loss.
 

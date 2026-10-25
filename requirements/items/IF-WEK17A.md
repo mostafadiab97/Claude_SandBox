@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: IF-01PJPE
+    confirmed: 35d8dc4eddc5
 ---
 The pairing process shall synchronise relay events with an accuracy of ±0.5 °C.

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-3ZGG1G
+    confirmed: 805d152578fb
 ---
 The telemetry pipeline shall synchronise the room temperature below 0.5 W in standby.

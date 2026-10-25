@@ -12,6 +12,7 @@ order: 1000
 links:
   - type: verifies
     target: SYS-5EDM7V
+    confirmed: 50e6801cc264
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

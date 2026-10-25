@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-W7QYYZ
+    confirmed: a8bc160ac28c
 ---
 The login screen shall log the connection state for at least 10 years.
 

@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-A4MNF7
+    confirmed: 59d89f268e28
 ---
 The heating controller shall switch the operating mode for up to 8 zones.
 

@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-FP6P6A
+    confirmed: 499135c7c771
 ---
 The telemetry pipeline shall detect the set point in under 3 s.
 

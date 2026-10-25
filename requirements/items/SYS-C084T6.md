@@ -11,6 +11,7 @@ order: 1130
 links:
   - type: refines
     target: STK-QN5QGR
+    confirmed: ae0f58e089a1
 ---
 The cloud backend shall detect the connection state using AES-256-GCM.
 

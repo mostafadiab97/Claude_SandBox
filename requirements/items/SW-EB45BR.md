@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-WNF4KZ
+    confirmed: 7e6ec97a0ef2
 ---
 The heating controller shall notify audit records at least once per minute.

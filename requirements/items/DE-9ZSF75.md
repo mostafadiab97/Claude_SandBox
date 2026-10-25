@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-KDMQZE
+    confirmed: 1bae33046337
 ---
 Implemented in `src/app/mobile_app.c`.

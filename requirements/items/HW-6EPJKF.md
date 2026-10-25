@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-JKNRQ3
+    confirmed: 2f3dabce7169
 ---
 The pairing process shall synchronise error conditions for up to 8 zones.
 

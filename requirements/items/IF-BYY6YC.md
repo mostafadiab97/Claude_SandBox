@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-3RSNVX
+    confirmed: cb6d695118df
 ---
 The zone valve shall detect humidity values after a power loss.
 

@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: HW-DQJ7VF
+    confirmed: c465e8c562be
 ---
 The relay board shall switch the operating mode for at least 10 years.

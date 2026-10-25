@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-ABZP07
+    confirmed: fada4baa41ba
 ---
 The tamper detection shall measure user preferences after a power loss.
 

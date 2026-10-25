@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-YVNHRY
+    confirmed: 586d305ca699
 ---
 The menu system shall display sensor readings below 0.5 W in standby.
 

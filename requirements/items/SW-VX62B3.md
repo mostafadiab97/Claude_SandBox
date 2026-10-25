@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-MY3DCX
+    confirmed: ace85c596789
 ---
 The Bluetooth LE link shall log sensor readings for up to 8 zones.
 

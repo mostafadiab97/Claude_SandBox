@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-XWNGQ6
+    confirmed: 63430edab993
 ---
 The cloud backend shall detect schedule entries for up to 8 zones.

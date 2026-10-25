@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-82PKWA
+    confirmed: c920ab97ee7b
 ---
 The home dashboard shall limit safety limits with an accuracy of ±0.5 °C.
 

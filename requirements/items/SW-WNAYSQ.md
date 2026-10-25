@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-HT1YEZ
+    confirmed: 55deeba83d7e
 ---
 The zone valve shall calibrate user preferences without user interaction.
 

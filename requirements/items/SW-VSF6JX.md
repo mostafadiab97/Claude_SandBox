@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QW4301
+    confirmed: 93308f2aad9b
 ---
 The device registry shall restore the room temperature below 0.5 W in standby.
 

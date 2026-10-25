@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-YNQ51V
+    confirmed: d66b7da9d253
 ---
 The menu system shall detect relay events for up to 8 zones.
 

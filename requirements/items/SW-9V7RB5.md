@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-6892JV
+    confirmed: 75d4ba20cb76
 ---
 The device registry shall limit safety limits without user interaction.
 

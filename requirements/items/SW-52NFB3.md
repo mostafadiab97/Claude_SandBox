@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-9YAX2Y
+    confirmed: b8ba4474f101
 ---
 The menu system shall log access tokens at least once per minute.
 

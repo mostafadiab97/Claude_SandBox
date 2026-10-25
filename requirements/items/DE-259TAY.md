@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-XP397S
+    confirmed: 9014314d84cc
 ---
 Implemented in `src/conn/local_API.c`.

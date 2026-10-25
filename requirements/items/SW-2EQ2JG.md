@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-TGB5BV
+    confirmed: efddaa3f87b9
 ---
 The Bluetooth LE link shall switch humidity values for at least 10 years.

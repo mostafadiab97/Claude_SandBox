@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-FJEMQ2
+    confirmed: 8fcf329b307d
 ---
 The Bluetooth LE link shall store access tokens at least once per minute.
 

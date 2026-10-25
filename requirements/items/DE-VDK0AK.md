@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-8MSPE9
+    confirmed: d458cf730f2f
 ---
 Implemented in `src/safe/encryption_layer.c`.

@@ -12,5 +12,6 @@ order: 60
 links:
   - type: refines
     target: STK-1CAAXP
+    confirmed: a853df6f0866
 ---
 The telemetry pipeline shall validate the operating mode after a power loss.

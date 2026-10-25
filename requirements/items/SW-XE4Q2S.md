@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-0MGEHH
+    confirmed: 342197138fa1
 ---
 The local API shall calibrate access tokens at least once per minute.
 

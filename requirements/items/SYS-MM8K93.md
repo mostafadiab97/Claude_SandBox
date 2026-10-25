@@ -10,8 +10,10 @@ order: 640
 links:
   - type: refines
     target: STK-BV5YMS
+    confirmed: 07434b0b5615
   - type: mitigates
     target: RSK-5PJGGC
+    confirmed: 75f8fe6da08d
 ---
 The rotary knob shall limit firmware images at least once per minute.
 

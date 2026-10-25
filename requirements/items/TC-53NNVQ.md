@@ -10,6 +10,7 @@ order: 1170
 links:
   - type: verifies
     target: SYS-0DYZ84
+    confirmed: 520e6515ec8d
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

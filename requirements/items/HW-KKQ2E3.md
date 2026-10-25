@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-V0NAHN
+    confirmed: ec8c0357bfe4
 ---
 The main PCB shall switch relay events using AES-256-GCM.
 

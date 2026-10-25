@@ -12,6 +12,7 @@ order: 1030
 links:
   - type: verifies
     target: SYS-C4HEZ6
+    confirmed: d7ecad5f2748
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

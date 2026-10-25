@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MV4PNS
+    confirmed: 1a518ac6e066
 ---
 The heat pump driver shall switch safety limits in all supported languages.
 

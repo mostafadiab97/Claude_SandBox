@@ -14,8 +14,10 @@ order: 1370
 links:
   - type: refines
     target: STK-4NCGP6
+    confirmed: 34735dce772b
   - type: mitigates
     target: RSK-M50SEK
+    confirmed: 2cdadc33fb4f
 ---
 The telemetry pipeline shall report audit records for up to 8 zones.
 

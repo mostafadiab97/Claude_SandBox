@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-47FSG3
+    confirmed: 50f3571b1236
 ---
 The relay board shall limit the set point for at least 10 years.

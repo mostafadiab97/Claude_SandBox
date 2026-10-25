@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-4C80WR
+    confirmed: 275db0e47bff
 ---
 The heat pump driver shall store sensor readings after a power loss.
 

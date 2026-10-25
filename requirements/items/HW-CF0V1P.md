@@ -9,5 +9,6 @@ order: 30
 links:
   - type: refines
     target: SYS-CN7FHD
+    confirmed: 5f0cd41f8d2d
 ---
 The relay board shall validate humidity values at least once per minute.

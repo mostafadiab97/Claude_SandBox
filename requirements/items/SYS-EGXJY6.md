@@ -10,8 +10,10 @@ order: 1760
 links:
   - type: refines
     target: STK-JFBQPS
+    confirmed: 5027ee1822eb
   - type: mitigates
     target: RSK-9BAEZR
+    confirmed: 09af4dd83b7f
 ---
 The user account service shall synchronise the operating mode for at least 10 years.
 

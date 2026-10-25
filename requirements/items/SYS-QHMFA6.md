@@ -12,6 +12,7 @@ order: 2070
 links:
   - type: refines
     target: STK-F8MTPC
+    confirmed: bbf5b4f56657
 ---
 The mobile app shall measure energy consumption for up to 8 zones.
 

@@ -13,6 +13,7 @@ order: 1390
 links:
   - type: refines
     target: STK-G2ZBHW
+    confirmed: fee0d3303478
 ---
 The Bluetooth LE link shall authenticate user preferences with an accuracy of ±0.5 °C.
 

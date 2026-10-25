@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-AE0NDZ
+    confirmed: 0023248a633c
 ---
 The encryption layer shall switch schedule entries when the network is unavailable.

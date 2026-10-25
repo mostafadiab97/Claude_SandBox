@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-5PV5FX
+    confirmed: b948ad16ad2c
 ---
 The menu system shall detect user preferences at least once per minute.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-AM7QH0
+    confirmed: 51ae89d2a48f
 ---
 The heat pump driver shall authenticate the connection state for at least 10 years.
 

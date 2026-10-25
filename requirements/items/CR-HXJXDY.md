@@ -11,6 +11,7 @@ order: 80
 links:
   - type: relates-to
     target: SYS-FN0RX8
+    confirmed: 30d123440a38
 ---
 Requested by customer support (ticket #11231).
 

@@ -12,6 +12,7 @@ order: 980
 links:
   - type: verifies
     target: SYS-HB35Z8
+    confirmed: ff97b22b6617
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

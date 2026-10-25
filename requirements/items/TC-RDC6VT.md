@@ -10,8 +10,10 @@ order: 170
 links:
   - type: verifies
     target: SYS-422XBG
+    confirmed: 5a6b1faa9b43
   - type: verifies
     target: SW-QQWQ93
+    confirmed: 901c1d122bd5
 ---
 **Objective:** verify that the relay board behaves as specified.
 

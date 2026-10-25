@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-VHT6PY
+    confirmed: 29db99e265ff
 ---
 The main PCB shall store sensor readings at least once per minute.
 

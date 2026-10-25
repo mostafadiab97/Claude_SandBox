@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-JEXCH8
+    confirmed: e32c152d4abb
 ---
 The menu system shall encrypt the room temperature without user interaction.
 

@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-85P0FC
+    confirmed: 03d6e9fd5533
 ---
 The power supply shall validate sensor readings with an accuracy of ±0.5 °C.
 

@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-8J1N3D
+    confirmed: a3b0d4233e0c
 ---
 The menu system shall limit the operating mode when the network is unavailable.

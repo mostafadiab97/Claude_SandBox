@@ -10,6 +10,7 @@ order: 1990
 links:
   - type: refines
     target: STK-4NGQJ5
+    confirmed: 96640a7e340d
 ---
 The power supply shall detect the connection state using AES-256-GCM.
 

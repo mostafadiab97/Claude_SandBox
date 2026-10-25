@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-NSNRJD
+    confirmed: 223c3f40a1fb
 ---
 The home dashboard shall detect safety limits with an accuracy of ±0.5 °C.
 

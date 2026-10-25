@@ -12,8 +12,10 @@ order: 2010
 links:
   - type: refines
     target: STK-22X165
+    confirmed: 0023c9af8e7d
   - type: mitigates
     target: RSK-6H3D9M
+    confirmed: c7f45fccd8d0
 ---
 The Zigbee radio shall report humidity values without user interaction.
 

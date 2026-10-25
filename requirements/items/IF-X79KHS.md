@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: IF-B9A0C0
+    confirmed: 132a1a7e5904
 ---
 The secure boot shall display relay events for up to 8 zones.
 

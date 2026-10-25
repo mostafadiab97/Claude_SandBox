@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-VDRW9V
+    confirmed: 0ac53f80c216
 ---
 The relay board shall limit error conditions for up to 8 zones.
 

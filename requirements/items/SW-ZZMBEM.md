@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-186VAA
+    confirmed: 8c9ff96ed042
 ---
 The rotary knob shall limit humidity values with an accuracy of ±0.5 °C.
 

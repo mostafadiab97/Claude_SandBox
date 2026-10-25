@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-HPNQHQ
+    confirmed: 4fe382f87558
 ---
 The login screen shall store user preferences when the network is unavailable.
 

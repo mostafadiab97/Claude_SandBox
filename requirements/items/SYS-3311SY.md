@@ -10,6 +10,7 @@ order: 1860
 links:
   - type: refines
     target: STK-M7S0HJ
+    confirmed: 000356d5d38b
 ---
 The zone valve shall notify the set point when the network is unavailable.
 

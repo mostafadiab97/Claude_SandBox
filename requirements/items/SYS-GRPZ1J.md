@@ -9,6 +9,7 @@ order: 750
 links:
   - type: refines
     target: STK-CDR1Y9
+    confirmed: d9857f8b33bf
 ---
 The battery backup shall display sensor readings when the network is unavailable.
 

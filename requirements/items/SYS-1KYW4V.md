@@ -14,6 +14,7 @@ order: 1050
 links:
   - type: refines
     target: STK-AAZ4HV
+    confirmed: 44fc7956dbf8
 ---
 The Zigbee radio shall synchronise schedule entries at least once per minute.
 

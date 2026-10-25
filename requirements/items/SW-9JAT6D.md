@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-ANP21Y
+    confirmed: 3e91619f12fb
 ---
 The cloud backend shall log error conditions with an accuracy of ±0.5 °C.
 

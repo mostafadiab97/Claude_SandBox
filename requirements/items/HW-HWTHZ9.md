@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-CZFHR4
+    confirmed: b242da2e0a56
 ---
 The main PCB shall measure the set point in under 3 s.
 

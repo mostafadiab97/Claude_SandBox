@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SW-JPCWP5
+    confirmed: c4b55551f995
 ---
 The menu system shall authenticate the room temperature using AES-256-GCM.

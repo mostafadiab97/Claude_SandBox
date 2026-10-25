@@ -10,6 +10,7 @@ order: 1050
 links:
   - type: refines
     target: STK-35QR7F
+    confirmed: bc1aebb7918d
 ---
 The rotary knob shall switch the operating mode for at least 10 years.
 

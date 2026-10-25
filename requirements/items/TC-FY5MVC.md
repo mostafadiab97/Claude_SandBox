@@ -12,8 +12,10 @@ order: 270
 links:
   - type: verifies
     target: SYS-Y62PFM
+    confirmed: daa058155ad3
   - type: verifies
     target: SW-GF9YJW
+    confirmed: f757c2d54080
 ---
 **Objective:** verify that the regulation loop behaves as specified.
 

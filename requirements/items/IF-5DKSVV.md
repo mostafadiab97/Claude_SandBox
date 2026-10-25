@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-RW8T89
+    confirmed: 60bb88437f79
 ---
 The battery backup shall report access tokens after a power loss.
 

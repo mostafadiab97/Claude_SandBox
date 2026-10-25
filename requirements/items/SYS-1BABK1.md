@@ -11,8 +11,10 @@ order: 1920
 links:
   - type: refines
     target: STK-71VSKB
+    confirmed: 994ecb1eff6f
   - type: mitigates
     target: RSK-CG120Q
+    confirmed: b1e721e6fa40
 ---
 The pairing process shall synchronise relay events for at least 10 years.
 

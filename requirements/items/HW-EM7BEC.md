@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-422XBG
+    confirmed: 5a6b1faa9b43
 ---
 The relay board shall switch access tokens using AES-256-GCM.
 

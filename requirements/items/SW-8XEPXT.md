@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-HYQA89
+    confirmed: 02764287a3b2
 ---
 The user account service shall authenticate the room temperature for at least 10 years.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-2X1F3V
+    confirmed: 2c4d5f93b13d
 ---
 The regulation loop shall store error conditions for up to 8 zones.
 

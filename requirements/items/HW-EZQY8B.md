@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: HW-03807K
+    confirmed: 1088597c2ffb
 ---
 The touch display shall report safety limits in all supported languages.
 

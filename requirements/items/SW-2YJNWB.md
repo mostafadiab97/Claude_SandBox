@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-V9TTZK
+    confirmed: 19606134e5ee
 ---
 The telemetry pipeline shall detect the set point for at least 10 years.
 

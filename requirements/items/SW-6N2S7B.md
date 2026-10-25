@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-1WWXQV
+    confirmed: 46c684db9439
 ---
 The regulation loop shall measure the operating mode at least once per minute.
 

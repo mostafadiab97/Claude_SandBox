@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-2N03B4
+    confirmed: 9597e83a664b
 ---
 The Bluetooth LE link shall measure the operating mode after a power loss.

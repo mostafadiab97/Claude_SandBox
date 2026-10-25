@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-V7TB34
+    confirmed: bf196a7be830
 ---
 The heat pump driver shall authenticate schedule entries after a power loss.
 

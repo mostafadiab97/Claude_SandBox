@@ -12,5 +12,6 @@ order: 40
 links:
   - type: refines
     target: SYS-7XRVPP
+    confirmed: d90eb5aab73d
 ---
 The home dashboard shall encrypt the room temperature within 200 ms.

@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-PS392D
+    confirmed: 07104209359b
 ---
 The boiler interface shall switch the connection state when the network is unavailable.

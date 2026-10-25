@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-P1TFZ1
+    confirmed: 73c087b26e54
 ---
 Implemented in `src/conn/local_API.c`.

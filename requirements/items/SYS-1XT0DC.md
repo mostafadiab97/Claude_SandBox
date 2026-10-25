@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: STK-SWTYBR
+    confirmed: 85d99e967934
 ---
 The schedule editor shall detect humidity values with an accuracy of ±0.5 °C.
 

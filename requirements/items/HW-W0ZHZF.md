@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-6DKMVB
+    confirmed: 5ee18259fea5
 ---
 The secure boot shall switch user preferences in under 3 s.
 

@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-WFZVWZ
+    confirmed: 66917eb2d4db
 ---
 The battery backup shall validate safety limits when the network is unavailable.
 

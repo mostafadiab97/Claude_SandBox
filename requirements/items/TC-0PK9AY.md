@@ -10,6 +10,7 @@ order: 970
 links:
   - type: verifies
     target: SYS-KMZ032
+    confirmed: 604e69a0125a
 ---
 **Objective:** verify that the menu system behaves as specified.
 

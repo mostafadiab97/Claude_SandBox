@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-QNW27Q
+    confirmed: 560625c6b46e
 ---
 The zone valve shall log access tokens at least once per minute.

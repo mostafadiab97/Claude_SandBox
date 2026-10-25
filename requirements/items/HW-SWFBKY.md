@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-F1Q0NC
+    confirmed: dba1136682fd
 ---
 The zone valve shall validate user preferences in under 3 s.
 

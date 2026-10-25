@@ -10,6 +10,7 @@ order: 1900
 links:
   - type: refines
     target: STK-8W3602
+    confirmed: 25b39ad8cae7
 ---
 The zone valve shall validate the connection state in under 3 s.
 

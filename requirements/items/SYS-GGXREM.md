@@ -10,6 +10,7 @@ order: 1140
 links:
   - type: refines
     target: STK-AAZ4HV
+    confirmed: 44fc7956dbf8
 ---
 The Zigbee radio shall notify schedule entries in all supported languages.
 

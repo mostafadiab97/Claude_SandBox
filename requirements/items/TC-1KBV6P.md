@@ -12,6 +12,7 @@ order: 1550
 links:
   - type: verifies
     target: SYS-7WAVP4
+    confirmed: 0f9434a95be4
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

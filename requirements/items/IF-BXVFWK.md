@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-NM7171
+    confirmed: 8f7808f9b2b6
 ---
 The OTA server shall restore energy consumption within 200 ms.
 

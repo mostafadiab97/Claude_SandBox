@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QKGZJJ
+    confirmed: 846402a4433f
 ---
 The schedule editor shall restore the operating mode within 200 ms.
 

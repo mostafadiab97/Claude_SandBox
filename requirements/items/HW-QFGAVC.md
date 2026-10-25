@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-SA1DH7
+    confirmed: 339efbb2167c
 ---
 The battery backup shall detect energy consumption below 0.5 W in standby.

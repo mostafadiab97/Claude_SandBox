@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-M422RM
+    confirmed: 0cf5caff4f25
 ---
 Implemented in `src/heat/boiler_interface.c`.

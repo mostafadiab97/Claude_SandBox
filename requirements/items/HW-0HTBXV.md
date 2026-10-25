@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-JHK0D7
+    confirmed: a8c42ffc28bc
 ---
 The main PCB shall switch access tokens with an accuracy of ±0.5 °C.
 

@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-9QXR1R
+    confirmed: c9ae9a4debf3
 ---
 The encryption layer shall notify firmware images within 200 ms.

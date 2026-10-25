@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-FDZDPZ
+    confirmed: 6777c9b563e8
 ---
 The power supply shall encrypt sensor readings in under 3 s.
 

@@ -10,5 +10,6 @@ order: 330
 links:
   - type: refines
     target: STK-5VZRF2
+    confirmed: cf78baefa376
 ---
 The home dashboard shall synchronise firmware images when the network is unavailable.

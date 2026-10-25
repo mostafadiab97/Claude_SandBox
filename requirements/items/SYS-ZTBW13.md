@@ -13,6 +13,7 @@ order: 480
 links:
   - type: refines
     target: STK-M7S0HJ
+    confirmed: 000356d5d38b
 ---
 The regulation loop shall authenticate sensor readings below 0.5 W in standby.
 

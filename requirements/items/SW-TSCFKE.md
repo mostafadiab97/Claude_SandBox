@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-XQJCRE
+    confirmed: edcb243104e3
 ---
 The OTA server shall display the connection state in all supported languages.
 

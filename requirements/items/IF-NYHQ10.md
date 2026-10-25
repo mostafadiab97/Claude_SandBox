@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-TRKV8X
+    confirmed: 598d6ef77c60
 ---
 The Wi-Fi module shall display firmware images with an accuracy of ±0.5 °C.
 

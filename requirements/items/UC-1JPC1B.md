@@ -10,6 +10,7 @@ order: 150
 links:
   - type: relates-to
     target: STK-JBY2BX
+    confirmed: bcce6e51beb4
 ---
 **Actor:** home owner
 

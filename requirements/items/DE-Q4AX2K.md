@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-MT742Q
+    confirmed: 6cd2c053bab7
 ---
 Implemented in `src/heat/regulation_loop.c`.

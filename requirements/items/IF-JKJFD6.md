@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-4ZV4DE
+    confirmed: 67b9d1fd1831
 ---
 The heat pump driver shall authenticate relay events in all supported languages.
 

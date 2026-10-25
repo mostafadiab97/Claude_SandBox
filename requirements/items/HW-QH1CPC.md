@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-8HSDWQ
+    confirmed: 410ee1c6bb84
 ---
 The mobile app shall synchronise the operating mode within 200 ms.

@@ -13,6 +13,7 @@ order: 400
 links:
   - type: refines
     target: STK-MC9ASH
+    confirmed: a4f2ebaecfbe
 ---
 The login screen shall validate error conditions after a power loss.
 

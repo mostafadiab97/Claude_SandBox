@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-NW9FV6
+    confirmed: 024d5054444b
 ---
 The Bluetooth LE link shall detect error conditions in under 3 s.
 

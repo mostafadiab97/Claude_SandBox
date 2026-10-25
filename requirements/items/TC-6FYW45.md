@@ -14,6 +14,7 @@ order: 810
 links:
   - type: verifies
     target: SYS-A10V0R
+    confirmed: ff47382f2bba
 ---
 **Objective:** verify that the user account service behaves as specified.
 

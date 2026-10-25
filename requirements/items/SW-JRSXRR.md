@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-CABT71
+    confirmed: de618562979c
 ---
 The rotary knob shall store energy consumption below 0.5 W in standby.
 

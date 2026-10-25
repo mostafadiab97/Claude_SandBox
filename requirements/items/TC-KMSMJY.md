@@ -12,8 +12,10 @@ order: 1200
 links:
   - type: verifies
     target: SYS-21RSPB
+    confirmed: 6d6c12313a2b
   - type: verifies
     target: SW-YDB75D
+    confirmed: 63cf0f5701dc
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

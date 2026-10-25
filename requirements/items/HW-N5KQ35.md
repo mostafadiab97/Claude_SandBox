@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-SJH59J
+    confirmed: 7dfb91f535ef
 ---
 The boiler interface shall validate firmware images in all supported languages.

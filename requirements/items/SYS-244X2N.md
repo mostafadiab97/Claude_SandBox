@@ -9,6 +9,7 @@ order: 2050
 links:
   - type: refines
     target: STK-22X165
+    confirmed: 0023c9af8e7d
 ---
 The Bluetooth LE link shall synchronise the room temperature using AES-256-GCM.
 

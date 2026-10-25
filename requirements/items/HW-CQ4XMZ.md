@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-61AT7T
+    confirmed: 3112309b1698
 ---
 The login screen shall synchronise the set point in all supported languages.

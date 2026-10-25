@@ -12,6 +12,7 @@ order: 910
 links:
   - type: refines
     target: STK-F8MTPC
+    confirmed: bbf5b4f56657
 ---
 The schedule editor shall display relay events using AES-256-GCM.
 

@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-FXSC63
+    confirmed: c0c686516288
 ---
 The local API shall store the room temperature in all supported languages.
 

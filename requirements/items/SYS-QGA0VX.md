@@ -10,6 +10,7 @@ order: 270
 links:
   - type: refines
     target: STK-9YF5RE
+    confirmed: 43643c03020f
 ---
 The heat pump driver shall switch the operating mode without user interaction.
 

@@ -12,8 +12,10 @@ order: 140
 links:
   - type: verifies
     target: SYS-7BCVCV
+    confirmed: 9b16ba8d6617
   - type: verifies
     target: SW-DB7P83
+    confirmed: e42463f58435
 ---
 **Objective:** verify that the login screen behaves as specified.
 

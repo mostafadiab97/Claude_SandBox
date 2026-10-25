@@ -12,6 +12,7 @@ order: 620
 links:
   - type: verifies
     target: SYS-BQ9NSH
+    confirmed: e9c956142786
 ---
 **Objective:** verify that the device registry behaves as specified.
 

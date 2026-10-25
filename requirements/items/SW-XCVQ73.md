@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-BRW2HG
+    confirmed: 22a91377b933
 ---
 The rotary knob shall notify access tokens for up to 8 zones.

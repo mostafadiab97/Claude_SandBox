@@ -13,6 +13,7 @@ order: 260
 links:
   - type: verifies
     target: SYS-26ZAHT
+    confirmed: 2fc7492bf655
 ---
 **Objective:** verify that the user account service behaves as specified.
 

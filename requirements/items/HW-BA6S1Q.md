@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-6REMTR
+    confirmed: e73f40f41cec
 ---
 The login screen shall synchronise schedule entries after a power loss.

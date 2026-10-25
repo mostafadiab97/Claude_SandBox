@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-DVDRV2
+    confirmed: 1dc89c6de993
 ---
 The pairing process shall store the operating mode for at least 10 years.
 

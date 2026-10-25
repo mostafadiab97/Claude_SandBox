@@ -11,8 +11,10 @@ order: 460
 links:
   - type: verifies
     target: SYS-2NNT9F
+    confirmed: 34d488ad75d2
   - type: verifies
     target: SW-EGMPBV
+    confirmed: aab0bb8098cb
 ---
 **Objective:** verify that the status LED behaves as specified.
 

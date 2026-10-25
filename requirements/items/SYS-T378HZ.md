@@ -10,6 +10,7 @@ order: 370
 links:
   - type: refines
     target: STK-5VZRF2
+    confirmed: cf78baefa376
 ---
 The notification service shall limit user preferences with an accuracy of ±0.5 °C.
 

@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-HH08PK
+    confirmed: "8228102962e4"
 ---
 The local API shall switch energy consumption in under 3 s.
 

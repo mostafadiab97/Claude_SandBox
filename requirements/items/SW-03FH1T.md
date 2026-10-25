@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-SD1N38
+    confirmed: 5e8b057ab780
 ---
 The mobile app shall display user preferences without user interaction.
 

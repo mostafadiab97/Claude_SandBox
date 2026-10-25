@@ -8,5 +8,6 @@ order: 10
 links:
   - type: refines
     target: HW-39RQME
+    confirmed: c3382084f8cc
 ---
 The local API shall switch error conditions using AES-256-GCM.

@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-S3062C
+    confirmed: 49922f7cdb85
 ---
 Implemented in `src/ui/backlight.c`.

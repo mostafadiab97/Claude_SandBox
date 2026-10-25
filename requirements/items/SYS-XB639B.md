@@ -9,5 +9,6 @@ order: 1330
 links:
   - type: refines
     target: STK-75QZSA
+    confirmed: b8a4c00165fe
 ---
 The regulation loop shall notify the connection state when the network is unavailable.

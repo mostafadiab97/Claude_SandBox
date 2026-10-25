@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-BD00HF
+    confirmed: c1fda425d923
 ---
 The relay board shall measure energy consumption with an accuracy of ±0.5 °C.
 

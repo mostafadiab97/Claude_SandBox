@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-57R6RZ
+    confirmed: b6638439213e
 ---
 The login screen shall limit the operating mode at least once per minute.
 

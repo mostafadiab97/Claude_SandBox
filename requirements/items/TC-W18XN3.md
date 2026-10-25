@@ -9,6 +9,7 @@ order: 1090
 links:
   - type: verifies
     target: SYS-MTM77X
+    confirmed: 9fccf544d618
 ---
 **Objective:** verify that the schedule editor behaves as specified.
 

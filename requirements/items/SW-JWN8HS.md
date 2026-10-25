@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-HAHB1Q
+    confirmed: 7a23dee59b18
 ---
 The tamper detection shall detect the set point at least once per minute.
 

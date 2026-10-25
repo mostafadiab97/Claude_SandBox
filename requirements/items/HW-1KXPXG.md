@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-EC99RK
+    confirmed: efe95468b71a
 ---
 The enclosure shall notify energy consumption with an accuracy of ±0.5 °C.
 

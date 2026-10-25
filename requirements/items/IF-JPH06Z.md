@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: IF-T0P93K
+    confirmed: 2fabc95ae5d2
 ---
 The tamper detection shall restore error conditions for at least 10 years.

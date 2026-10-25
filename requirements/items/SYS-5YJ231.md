@@ -10,5 +10,6 @@ order: 1300
 links:
   - type: refines
     target: STK-Q9RBYT
+    confirmed: a67c8b718d88
 ---
 The Wi-Fi module shall log error conditions in under 3 s.

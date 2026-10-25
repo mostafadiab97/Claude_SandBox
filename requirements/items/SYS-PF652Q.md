@@ -10,8 +10,10 @@ order: 880
 links:
   - type: refines
     target: STK-VT1KVD
+    confirmed: fbcfb8475f32
   - type: mitigates
     target: RSK-Y8NNRK
+    confirmed: 6f2b17958ae9
 ---
 The user account service shall display humidity values in under 3 s.
 

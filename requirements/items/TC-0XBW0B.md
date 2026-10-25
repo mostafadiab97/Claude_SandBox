@@ -13,6 +13,7 @@ order: 980
 links:
   - type: verifies
     target: SYS-HEVMYH
+    confirmed: 5cd34b16673e
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

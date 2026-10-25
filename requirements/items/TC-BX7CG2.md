@@ -14,8 +14,10 @@ order: 1450
 links:
   - type: verifies
     target: SYS-P4DXM6
+    confirmed: 45befcee12fc
   - type: verifies
     target: SW-6T1MBB
+    confirmed: e4527fa2a61d
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

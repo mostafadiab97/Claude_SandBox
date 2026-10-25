@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-322R8M
+    confirmed: 1d6119b63fd8
 ---
 The Zigbee radio shall report energy consumption in all supported languages.
 

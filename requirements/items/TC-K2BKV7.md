@@ -12,6 +12,7 @@ order: 1230
 links:
   - type: verifies
     target: SYS-RGCFDP
+    confirmed: 703711cfcecf
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-R6BCVX
+    confirmed: 22f4af60b62c
 ---
 The power supply shall authenticate user preferences without user interaction.

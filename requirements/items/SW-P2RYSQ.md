@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-9AYNBP
+    confirmed: f3e0173269c9
 ---
 The schedule editor shall limit the set point when the network is unavailable.

@@ -13,6 +13,7 @@ order: 1780
 links:
   - type: verifies
     target: SYS-C9BFKW
+    confirmed: 0dcc5954ae38
 ---
 **Objective:** verify that the device behaves as specified.
 

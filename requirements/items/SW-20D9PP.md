@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-XQJCRE
+    confirmed: edcb243104e3
 ---
 The OTA server shall validate schedule entries when the network is unavailable.

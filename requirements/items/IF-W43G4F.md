@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-D4MGRN
+    confirmed: b3e25b1d60cb
 ---
 The user account service shall calibrate the room temperature below 0.5 W in standby.

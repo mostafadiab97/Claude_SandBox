@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-1EZ0H1
+    confirmed: cb86cdc33269
 ---
 The local API shall measure safety limits in under 3 s.
 

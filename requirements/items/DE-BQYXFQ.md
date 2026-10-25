@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-HKGFJX
+    confirmed: bd0a94fd0cd8
 ---
 Implemented in `src/ui/touch_display.c`.

@@ -14,6 +14,7 @@ order: 1530
 links:
   - type: verifies
     target: SYS-PT1QDH
+    confirmed: a94dbe6fcdb1
 ---
 **Objective:** verify that the device behaves as specified.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-X6MHYX
+    confirmed: b63cacdcb2d3
 ---
 The watchdog shall detect firmware images without user interaction.
 

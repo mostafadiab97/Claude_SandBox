@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-EXGREK
+    confirmed: 8ef97aae583c
 ---
 The Bluetooth LE link shall switch the set point within 200 ms.
 

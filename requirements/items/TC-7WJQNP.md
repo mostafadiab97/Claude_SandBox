@@ -10,8 +10,10 @@ order: 1260
 links:
   - type: verifies
     target: SYS-T9M88W
+    confirmed: d3225946a824
   - type: verifies
     target: SW-YZSBP4
+    confirmed: 77cb9f1654aa
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

@@ -13,6 +13,7 @@ order: 450
 links:
   - type: refines
     target: STK-22X165
+    confirmed: 0023c9af8e7d
 ---
 The pairing process shall encrypt error conditions in all supported languages.
 

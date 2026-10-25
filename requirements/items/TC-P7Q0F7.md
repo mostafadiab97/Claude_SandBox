@@ -9,6 +9,7 @@ order: 760
 links:
   - type: verifies
     target: SYS-DFR9YD
+    confirmed: 72056f4d9703
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

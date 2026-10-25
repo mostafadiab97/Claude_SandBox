@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-KGMJR6
+    confirmed: 173f8dfb735a
 ---
 The watchdog shall notify error conditions for at least 10 years.

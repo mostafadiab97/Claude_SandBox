@@ -10,6 +10,7 @@ order: 1820
 links:
   - type: refines
     target: STK-35QR7F
+    confirmed: bc1aebb7918d
 ---
 The touch display shall report the set point at least once per minute.
 

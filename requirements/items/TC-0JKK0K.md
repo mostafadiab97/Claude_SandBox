@@ -12,6 +12,7 @@ order: 900
 links:
   - type: verifies
     target: SYS-ZMJ6E1
+    confirmed: 4932bfcc9ac4
 ---
 **Objective:** verify that the device behaves as specified.
 

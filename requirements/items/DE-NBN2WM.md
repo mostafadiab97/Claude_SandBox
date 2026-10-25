@@ -10,5 +10,6 @@ order: 20
 links:
   - type: implements
     target: SW-6ZNEMR
+    confirmed: 8cdaa51b3615
 ---
 Implemented in `src/heat/regulation_loop.c`.

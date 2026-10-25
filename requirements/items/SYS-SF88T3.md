@@ -12,8 +12,10 @@ order: 370
 links:
   - type: refines
     target: STK-BV5YMS
+    confirmed: 07434b0b5615
   - type: mitigates
     target: RSK-81XFR0
+    confirmed: df837fe8b253
 ---
 The rotary knob shall display the set point for up to 8 zones.
 

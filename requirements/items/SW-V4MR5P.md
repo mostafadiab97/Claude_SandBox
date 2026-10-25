@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-F6VRWH
+    confirmed: abf71e4c34db
 ---
 The Zigbee radio shall limit the set point without user interaction.

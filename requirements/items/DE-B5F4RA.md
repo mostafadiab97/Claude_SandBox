@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-RWGTKN
+    confirmed: 87f559bd8496
 ---
 Implemented in `src/safe/tamper_detection.c`.

@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-T0Z7E3
+    confirmed: 912bd055e38d
 ---
 The heating controller shall synchronise the operating mode for at least 10 years.
 

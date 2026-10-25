@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-WX29CV
+    confirmed: 3669d0dbf013
 ---
 The relay board shall notify access tokens below 0.5 W in standby.
 

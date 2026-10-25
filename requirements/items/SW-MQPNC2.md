@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-YWZ4G6
+    confirmed: af8070b2a3c3
 ---
 The OTA server shall validate humidity values after a power loss.
 

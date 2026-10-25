@@ -10,8 +10,10 @@ order: 140
 links:
   - type: relates-to
     target: TC-95M7JW
+    confirmed: ac91d772d1f9
   - type: relates-to
     target: SYS-AB1WG2
+    confirmed: 70d3053751d1
 ---
 Found during regression testing of build 2.8.25.
 

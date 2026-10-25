@@ -9,8 +9,10 @@ order: 1650
 links:
   - type: verifies
     target: SYS-7V2N1W
+    confirmed: 595fd0fcde8d
   - type: verifies
     target: SW-2JRDMJ
+    confirmed: 37b64617ffc6
 ---
 **Objective:** verify that the device registry behaves as specified.
 

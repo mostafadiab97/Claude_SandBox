@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-4R41VA
+    confirmed: 83721f87c9d0
 ---
 The pairing process shall log energy consumption within 200 ms.
 

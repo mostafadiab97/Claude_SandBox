@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-A1EMZ9
+    confirmed: a04194db67ef
 ---
 The backlight shall display energy consumption at least once per minute.

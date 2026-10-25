@@ -8,6 +8,7 @@ order: 1110
 links:
   - type: verifies
     target: SYS-ZFAGA9
+    confirmed: 088ced33b5bc
 ---
 **Objective:** verify that the device behaves as specified.
 

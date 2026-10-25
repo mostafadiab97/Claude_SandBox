@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-ZM6EM1
+    confirmed: bc2cbad41247
 ---
 The enclosure shall validate relay events within 200 ms.
 

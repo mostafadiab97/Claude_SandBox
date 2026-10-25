@@ -10,8 +10,10 @@ order: 920
 links:
   - type: verifies
     target: SYS-QRK41E
+    confirmed: ffc44ca06ebf
   - type: verifies
     target: SW-9NWPV9
+    confirmed: f0638928913d
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

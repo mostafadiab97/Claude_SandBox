@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-1Q68X4
+    confirmed: 01eaedbf5ab3
 ---
 The power supply shall store humidity values without user interaction.
 

@@ -14,6 +14,7 @@ order: 2050
 links:
   - type: refines
     target: STK-M28XWW
+    confirmed: bcf262f10744
 ---
 The main PCB shall validate access tokens using AES-256-GCM.
 

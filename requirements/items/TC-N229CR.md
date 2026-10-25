@@ -11,6 +11,7 @@ order: 180
 links:
   - type: verifies
     target: SYS-4T8ANS
+    confirmed: 400a2ed062a9
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

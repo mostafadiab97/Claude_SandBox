@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-PT4B21
+    confirmed: 57a805a211f1
 ---
 Implemented in `src/safe/tamper_detection.c`.

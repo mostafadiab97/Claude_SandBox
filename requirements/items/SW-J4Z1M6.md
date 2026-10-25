@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MDEDXA
+    confirmed: 1956ae8aa0df
 ---
 The telemetry pipeline shall switch the room temperature for up to 8 zones.
 

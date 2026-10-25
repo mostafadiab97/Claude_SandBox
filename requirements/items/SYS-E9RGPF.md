@@ -10,5 +10,6 @@ order: 2020
 links:
   - type: refines
     target: STK-B9Y7CM
+    confirmed: 2e83dea5db22
 ---
 The login screen shall switch safety limits for up to 8 zones.

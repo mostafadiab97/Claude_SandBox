@@ -14,6 +14,7 @@ order: 1400
 links:
   - type: verifies
     target: SYS-B19CRP
+    confirmed: 9dc800f53108
 ---
 **Objective:** verify that the status LED behaves as specified.
 

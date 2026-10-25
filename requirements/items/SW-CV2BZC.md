@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-N6E1NE
+    confirmed: 64bccdc6172c
 ---
 The Bluetooth LE link shall restore energy consumption for up to 8 zones.
 

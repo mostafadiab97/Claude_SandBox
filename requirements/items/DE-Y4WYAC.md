@@ -9,5 +9,6 @@ order: 20
 links:
   - type: implements
     target: SW-Z8KR4V
+    confirmed: 1c2113fd4d52
 ---
 Implemented in `src/safe/encryption_layer.c`.

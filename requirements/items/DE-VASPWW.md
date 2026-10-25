@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-H6KK0F
+    confirmed: e94aaaa10742
 ---
 Implemented in `src/cloud/device_registry.c`.

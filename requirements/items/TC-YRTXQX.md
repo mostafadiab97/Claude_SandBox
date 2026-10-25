@@ -10,6 +10,7 @@ order: 660
 links:
   - type: verifies
     target: SYS-PRTYJ3
+    confirmed: 93824c965ccd
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

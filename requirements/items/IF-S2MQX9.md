@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: IF-5DKSVV
+    confirmed: be709569423a
 ---
 The battery backup shall display firmware images with an accuracy of ±0.5 °C.

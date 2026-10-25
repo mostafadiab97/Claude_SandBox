@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-65T3V9
+    confirmed: ccd727c8c684
 ---
 The status LED shall measure user preferences within 200 ms.

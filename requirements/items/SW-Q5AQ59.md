@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-YTTXB8
+    confirmed: c0d19b7ef2ea
 ---
 The telemetry pipeline shall detect safety limits with an accuracy of ±0.5 °C.

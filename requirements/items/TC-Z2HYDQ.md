@@ -12,8 +12,10 @@ order: 1580
 links:
   - type: verifies
     target: SYS-SQM30D
+    confirmed: 61b33a5fb3c5
   - type: verifies
     target: SW-RKA76Z
+    confirmed: f76ca26e4df8
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

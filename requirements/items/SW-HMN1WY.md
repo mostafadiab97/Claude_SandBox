@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-EC81QP
+    confirmed: 1189223f2096
 ---
 The notification service shall authenticate schedule entries for up to 8 zones.
 

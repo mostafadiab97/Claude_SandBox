@@ -10,5 +10,6 @@ order: 310
 links:
   - type: refines
     target: STK-71VSKB
+    confirmed: 994ecb1eff6f
 ---
 The pairing process shall encrypt humidity values without user interaction.

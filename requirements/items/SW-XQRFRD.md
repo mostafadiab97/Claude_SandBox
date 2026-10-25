@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-2G338Q
+    confirmed: 1802c342a6a4
 ---
 The touch display shall synchronise sensor readings for up to 8 zones.
 

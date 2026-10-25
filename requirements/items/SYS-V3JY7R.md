@@ -10,6 +10,7 @@ order: 1760
 links:
   - type: refines
     target: STK-5CT2VD
+    confirmed: 51ca0f7a80ed
 ---
 The Zigbee radio shall validate energy consumption using AES-256-GCM.
 

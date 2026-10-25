@@ -14,5 +14,6 @@ order: 30
 links:
   - type: refines
     target: SYS-NYK3S8
+    confirmed: 144fa7466d8d
 ---
 The battery backup shall authenticate humidity values for at least 10 years.

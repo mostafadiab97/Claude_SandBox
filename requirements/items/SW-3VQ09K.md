@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-JFER03
+    confirmed: c2da831ef44e
 ---
 The notification service shall authenticate safety limits for up to 8 zones.

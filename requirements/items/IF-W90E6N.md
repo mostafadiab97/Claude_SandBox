@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MYRTKC
+    confirmed: ba220c3ea923
 ---
 The Zigbee radio shall measure humidity values when the network is unavailable.
 

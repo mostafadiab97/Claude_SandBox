@@ -12,6 +12,7 @@ order: 700
 links:
   - type: refines
     target: STK-0AD5XP
+    confirmed: 30e7f07df0d1
 ---
 The Wi-Fi module shall authenticate humidity values within 200 ms.
 

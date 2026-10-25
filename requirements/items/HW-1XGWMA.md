@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-A47H7R
+    confirmed: fd7d82b6415e
 ---
 The battery backup shall measure the operating mode using AES-256-GCM.
 

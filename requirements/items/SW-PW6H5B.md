@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-2V6AQ6
+    confirmed: 2d2dda43be88
 ---
 The heating controller shall restore energy consumption after a power loss.

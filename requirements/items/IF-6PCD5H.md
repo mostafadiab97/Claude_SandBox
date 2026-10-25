@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-0WG96F
+    confirmed: 8d2c7b567b1e
 ---
 The battery backup shall encrypt the connection state when the network is unavailable.
 

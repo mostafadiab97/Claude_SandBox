@@ -12,6 +12,7 @@ order: 470
 links:
   - type: verifies
     target: SYS-QJNNZD
+    confirmed: 220d5e428bbc
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

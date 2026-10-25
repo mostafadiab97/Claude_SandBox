@@ -10,8 +10,10 @@ order: 590
 links:
   - type: verifies
     target: SYS-A1EMZ9
+    confirmed: a04194db67ef
   - type: verifies
     target: SW-TZCS9C
+    confirmed: d8fdea0c8e00
 ---
 **Objective:** verify that the backlight behaves as specified.
 

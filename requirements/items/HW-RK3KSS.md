@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-9BFVNF
+    confirmed: 36211779cc51
 ---
 The main PCB shall detect the set point within 200 ms.
 

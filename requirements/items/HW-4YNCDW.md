@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-MASKXR
+    confirmed: c14e888575b5
 ---
 The telemetry pipeline shall store user preferences for up to 8 zones.
 

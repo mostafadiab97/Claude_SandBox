@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-79KQKX
+    confirmed: 4a5dbc61d1c6
 ---
 The mobile app shall validate access tokens for up to 8 zones.
 

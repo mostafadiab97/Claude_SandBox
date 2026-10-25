@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SW-J1F7RJ
+    confirmed: e359424549f7
 ---
 The over-temperature monitor shall validate relay events below 0.5 W in standby.

@@ -10,6 +10,7 @@ order: 1170
 links:
   - type: verifies
     target: SYS-WYF7D8
+    confirmed: 40dbdbb8a1de
 ---
 **Objective:** verify that the local API behaves as specified.
 

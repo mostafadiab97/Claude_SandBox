@@ -14,5 +14,6 @@ order: 1850
 links:
   - type: refines
     target: STK-BV5YMS
+    confirmed: 07434b0b5615
 ---
 The backlight shall report access tokens using AES-256-GCM.

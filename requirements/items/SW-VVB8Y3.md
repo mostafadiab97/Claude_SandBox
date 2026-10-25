@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7THG7S
+    confirmed: c2a2db34ec62
 ---
 The zone valve shall measure safety limits when the network is unavailable.
 

@@ -10,8 +10,10 @@ order: 700
 links:
   - type: refines
     target: STK-1TB226
+    confirmed: ea29425b18b7
   - type: mitigates
     target: RSK-VHBQ7T
+    confirmed: d6a0082673fd
 ---
 The over-temperature monitor shall log user preferences in all supported languages.
 

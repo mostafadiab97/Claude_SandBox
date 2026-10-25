@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-PG0K3E
+    confirmed: 2c023351a960
 ---
 The secure boot shall notify access tokens for at least 10 years.
 

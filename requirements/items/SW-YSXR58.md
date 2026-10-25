@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-NWQESS
+    confirmed: 02be29037617
 ---
 The heat pump driver shall restore audit records when the network is unavailable.
 

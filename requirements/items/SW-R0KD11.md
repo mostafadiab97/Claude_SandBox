@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-T3DJD4
+    confirmed: c316125af8be
 ---
 The backlight shall limit the connection state for up to 8 zones.

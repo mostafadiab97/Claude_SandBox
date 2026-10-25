@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MA37SF
+    confirmed: 95dd5bc85d61
 ---
 The device registry shall validate the operating mode after a power loss.
 

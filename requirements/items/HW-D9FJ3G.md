@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-GRPZ1J
+    confirmed: 5728c75e8b12
 ---
 The battery backup shall authenticate schedule entries after a power loss.

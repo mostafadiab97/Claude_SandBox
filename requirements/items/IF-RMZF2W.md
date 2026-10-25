@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-E7QPGB
+    confirmed: 07d5643ef6c8
 ---
 The over-temperature monitor shall log access tokens in under 3 s.

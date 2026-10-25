@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-14YX19
+    confirmed: 06f883a1c81b
 ---
 The touch display shall report access tokens in under 3 s.
 

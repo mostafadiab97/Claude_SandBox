@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-E6XBN0
+    confirmed: 7e3fcc9cce70
 ---
 The boiler interface shall restore error conditions in all supported languages.
 

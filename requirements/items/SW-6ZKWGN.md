@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-KF7ZE3
+    confirmed: 3dd7a8ccfac1
 ---
 The secure boot shall notify audit records when the network is unavailable.
 

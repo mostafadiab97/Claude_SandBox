@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-06G288
+    confirmed: 3805c8343c55
 ---
 The device registry shall encrypt sensor readings after a power loss.
 

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ATYYP2
+    confirmed: 560200c70caf
 ---
 The menu system shall notify relay events when the network is unavailable.
 

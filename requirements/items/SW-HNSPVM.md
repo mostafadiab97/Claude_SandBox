@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ECD1HY
+    confirmed: 7483f5483c58
 ---
 The touch display shall store the room temperature for up to 8 zones.
 

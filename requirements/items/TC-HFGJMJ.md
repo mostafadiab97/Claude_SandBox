@@ -14,6 +14,7 @@ order: 360
 links:
   - type: verifies
     target: SYS-JD8TXM
+    confirmed: f81d3e3b2c08
 ---
 **Objective:** verify that the login screen behaves as specified.
 

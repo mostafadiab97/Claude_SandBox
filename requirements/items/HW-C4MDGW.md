@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-W0W7D4
+    confirmed: 4d7252a936d8
 ---
 The power supply shall restore access tokens at least once per minute.

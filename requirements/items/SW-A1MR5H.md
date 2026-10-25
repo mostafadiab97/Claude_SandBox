@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-QDWM3F
+    confirmed: 6815e3fba85c
 ---
 The home dashboard shall store user preferences for up to 8 zones.
 

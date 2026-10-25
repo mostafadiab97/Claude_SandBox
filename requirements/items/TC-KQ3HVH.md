@@ -14,6 +14,7 @@ order: 1270
 links:
   - type: verifies
     target: SYS-3V1R9W
+    confirmed: 36b7913e764d
 ---
 **Objective:** verify that the schedule editor behaves as specified.
 

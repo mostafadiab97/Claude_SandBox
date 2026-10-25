@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: SYS-MV4PNS
+    confirmed: 1a518ac6e066
 ---
 The heat pump driver shall calibrate relay events for at least 10 years.

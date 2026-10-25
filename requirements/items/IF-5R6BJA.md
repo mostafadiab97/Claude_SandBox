@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-V9VR90
+    confirmed: a13f663c17a2
 ---
 The pairing process shall restore error conditions using AES-256-GCM.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-P934M9
+    confirmed: dd9a2dec3b73
 ---
 The Bluetooth LE link shall encrypt error conditions below 0.5 W in standby.
 

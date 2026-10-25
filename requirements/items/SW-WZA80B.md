@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-1Q5XEP
+    confirmed: 7b9122e3918c
 ---
 The OTA server shall synchronise audit records in under 3 s.
 

@@ -10,8 +10,10 @@ order: 20
 links:
   - type: refines
     target: STK-4K2NE4
+    confirmed: 7cfb31353d89
   - type: mitigates
     target: RSK-81XFR0
+    confirmed: df837fe8b253
 ---
 The touch display shall log access tokens in all supported languages.
 

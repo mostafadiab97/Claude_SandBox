@@ -13,6 +13,7 @@ order: 1380
 links:
   - type: verifies
     target: SYS-EQ4ME8
+    confirmed: 00f1fdeebe62
 ---
 **Objective:** verify that the device behaves as specified.
 

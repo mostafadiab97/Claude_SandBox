@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-CZQB2K
+    confirmed: 3322889d2361
 ---
 The user account service shall log audit records with an accuracy of ±0.5 °C.

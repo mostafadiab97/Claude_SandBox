@@ -12,8 +12,10 @@ order: 60
 links:
   - type: relates-to
     target: TC-PAPJK4
+    confirmed: c4ff7a1d709c
   - type: relates-to
     target: SYS-KE3ZCS
+    confirmed: "131852556952"
 ---
 Found during regression testing of build 2.6.7.
 

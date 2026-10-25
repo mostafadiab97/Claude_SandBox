@@ -12,6 +12,7 @@ order: 800
 links:
   - type: verifies
     target: SYS-DH9YV1
+    confirmed: f434ce225b84
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

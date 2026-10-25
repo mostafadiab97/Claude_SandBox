@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-DZWWWA
+    confirmed: 0999a3b2ce99
 ---
 The pairing process shall encrypt access tokens at least once per minute.
 

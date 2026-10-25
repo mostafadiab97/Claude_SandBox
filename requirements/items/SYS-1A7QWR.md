@@ -10,6 +10,7 @@ order: 1370
 links:
   - type: refines
     target: STK-F8MTPC
+    confirmed: bbf5b4f56657
 ---
 The mobile app shall switch sensor readings when the network is unavailable.
 

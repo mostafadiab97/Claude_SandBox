@@ -13,5 +13,6 @@ order: 320
 links:
   - type: refines
     target: STK-ZWN5M8
+    confirmed: 552a4d1ee958
 ---
 The power supply shall limit the set point for up to 8 zones.

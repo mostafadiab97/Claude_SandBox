@@ -13,6 +13,7 @@ order: 1270
 links:
   - type: verifies
     target: SYS-H9YARC
+    confirmed: 65250d626484
 ---
 **Objective:** verify that the device behaves as specified.
 

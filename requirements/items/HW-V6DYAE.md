@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: HW-WESN49
+    confirmed: 50f6887991f9
 ---
 The battery backup shall synchronise sensor readings below 0.5 W in standby.
 

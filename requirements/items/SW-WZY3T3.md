@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-EQ4ME8
+    confirmed: 00f1fdeebe62
 ---
 The mobile app shall notify energy consumption at least once per minute.
 

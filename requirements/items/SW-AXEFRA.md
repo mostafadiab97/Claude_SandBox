@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-TTPGPJ
+    confirmed: 717c2b2335c7
 ---
 The regulation loop shall display the connection state in all supported languages.

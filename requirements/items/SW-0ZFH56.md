@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-7560Q0
+    confirmed: 9d3e4fe37fb5
 ---
 The cloud backend shall calibrate relay events without user interaction.
 

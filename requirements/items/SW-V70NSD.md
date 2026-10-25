@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-XF6HRT
+    confirmed: 8fa995f67a12
 ---
 The notification service shall calibrate the room temperature within 200 ms.

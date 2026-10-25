@@ -10,6 +10,7 @@ order: 1890
 links:
   - type: refines
     target: STK-JFBQPS
+    confirmed: 5027ee1822eb
 ---
 The user account service shall display the set point with an accuracy of ±0.5 °C.
 

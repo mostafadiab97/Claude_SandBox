@@ -13,6 +13,7 @@ order: 520
 links:
   - type: verifies
     target: SYS-FRJ8JT
+    confirmed: 5c966bbd47be
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

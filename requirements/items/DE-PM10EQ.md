@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-JRD4TG
+    confirmed: 0b28677acd48
 ---
 Implemented in `src/conn/Wi-Fi_module.c`.

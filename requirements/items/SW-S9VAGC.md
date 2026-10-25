@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-ZTBW13
+    confirmed: 32ef0f0cf1f9
 ---
 The regulation loop shall encrypt the room temperature below 0.5 W in standby.
 

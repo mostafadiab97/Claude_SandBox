@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-F5DVP4
+    confirmed: fd7bc4fcdfea
 ---
 The cloud backend shall measure the connection state in under 3 s.

@@ -11,6 +11,7 @@ order: 160
 links:
   - type: relates-to
     target: STK-922G3A
+    confirmed: ea4a6a665922
 ---
 **Actor:** home owner
 

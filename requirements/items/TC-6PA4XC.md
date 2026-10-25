@@ -14,6 +14,7 @@ order: 1070
 links:
   - type: verifies
     target: SYS-G8P704
+    confirmed: ac1f313d67a2
 ---
 **Objective:** verify that the menu system behaves as specified.
 

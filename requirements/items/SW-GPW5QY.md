@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-DWAS20
+    confirmed: 2472579f0203
 ---
 The touch display shall switch sensor readings without user interaction.
 

@@ -13,6 +13,7 @@ order: 1230
 links:
   - type: verifies
     target: SYS-DVDRV2
+    confirmed: 1dc89c6de993
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

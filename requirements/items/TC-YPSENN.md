@@ -9,6 +9,7 @@ order: 1630
 links:
   - type: verifies
     target: SYS-ESNRC9
+    confirmed: 72173e46587d
 ---
 **Objective:** verify that the relay board behaves as specified.
 

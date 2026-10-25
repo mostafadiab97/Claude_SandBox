@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SW-H30WA3
+    confirmed: 97341235fe0e
 ---
 The menu system shall store energy consumption within 200 ms.

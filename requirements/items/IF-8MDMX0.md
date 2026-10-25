@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: IF-ZNQAJX
+    confirmed: 22b29fa08012
 ---
 The home dashboard shall detect the operating mode within 200 ms.

@@ -13,6 +13,7 @@ order: 1190
 links:
   - type: refines
     target: STK-CJBDWK
+    confirmed: b9e9b89c87b3
 ---
 The OTA server shall notify relay events for up to 8 zones.
 

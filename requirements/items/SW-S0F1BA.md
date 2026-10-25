@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-66QHTN
+    confirmed: 65154f9b889c
 ---
 The local API shall switch energy consumption in under 3 s.
 

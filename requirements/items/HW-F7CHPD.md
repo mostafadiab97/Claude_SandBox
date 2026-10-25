@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-AQ211W
+    confirmed: 17e9d0952657
 ---
 The notification service shall notify sensor readings after a power loss.
 

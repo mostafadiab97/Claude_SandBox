@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-CZF40M
+    confirmed: 463cc60a6f2f
 ---
 The mobile app shall synchronise the connection state below 0.5 W in standby.

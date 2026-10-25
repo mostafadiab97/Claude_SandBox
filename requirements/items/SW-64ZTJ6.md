@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-9V5P8B
+    confirmed: a4b7cbbff72f
 ---
 The boiler interface shall authenticate firmware images using AES-256-GCM.

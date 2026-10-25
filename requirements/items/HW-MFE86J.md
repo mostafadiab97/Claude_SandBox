@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-R6T7X1
+    confirmed: 03767e5db5f8
 ---
 The battery backup shall report safety limits in all supported languages.
 

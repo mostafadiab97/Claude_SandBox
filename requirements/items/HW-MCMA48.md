@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-BP947W
+    confirmed: f8fcab8bd387
 ---
 The power supply shall report access tokens with an accuracy of ±0.5 °C.
 

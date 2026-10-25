@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-K5A3V7
+    confirmed: bf565e4503ad
 ---
 The touch display shall restore sensor readings for at least 10 years.
 

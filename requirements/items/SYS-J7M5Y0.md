@@ -13,7 +13,9 @@ order: 1660
 links:
   - type: refines
     target: STK-35QR7F
+    confirmed: bc1aebb7918d
   - type: mitigates
     target: RSK-ZJD18Y
+    confirmed: 94e509946a5c
 ---
 The touch display shall display energy consumption below 0.5 W in standby.

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-Q0NNG8
+    confirmed: d9d2819ed73b
 ---
 The rotary knob shall restore the connection state after a power loss.
 

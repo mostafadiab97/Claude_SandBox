@@ -13,6 +13,7 @@ order: 130
 links:
   - type: verifies
     target: SYS-S55V4N
+    confirmed: 706f127e04d0
 ---
 **Objective:** verify that the regulation loop behaves as specified.
 

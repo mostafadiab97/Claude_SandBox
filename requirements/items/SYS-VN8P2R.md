@@ -9,6 +9,7 @@ order: 690
 links:
   - type: refines
     target: STK-KPV71Q
+    confirmed: 10d9c216aea2
 ---
 The status LED shall notify the set point using AES-256-GCM.
 

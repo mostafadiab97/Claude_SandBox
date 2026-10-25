@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-M0XMTJ
+    confirmed: 265474e3470a
 ---
 The over-temperature monitor shall switch the operating mode at least once per minute.
 

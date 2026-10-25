@@ -10,6 +10,7 @@ order: 440
 links:
   - type: refines
     target: STK-1TB226
+    confirmed: ea29425b18b7
 ---
 The watchdog shall measure firmware images in under 3 s.
 

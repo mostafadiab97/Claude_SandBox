@@ -14,6 +14,7 @@ order: 110
 links:
   - type: refines
     target: STK-JAQHJP
+    confirmed: b0af11a5c3c2
 ---
 The battery backup shall switch relay events when the network is unavailable.
 

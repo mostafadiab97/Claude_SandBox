@@ -13,5 +13,6 @@ order: 20
 links:
   - type: implements
     target: SW-A1BMDT
+    confirmed: a5a789639dde
 ---
 Implemented in `src/cloud/telemetry_pipeline.c`.

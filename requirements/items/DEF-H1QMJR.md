@@ -13,8 +13,10 @@ order: 90
 links:
   - type: relates-to
     target: TC-Q6QD24
+    confirmed: 01121f023aa6
   - type: relates-to
     target: SYS-FBM4B7
+    confirmed: c2dee4a6831a
 ---
 Found during regression testing of build 2.4.2.
 

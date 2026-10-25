@@ -9,6 +9,7 @@ order: 370
 links:
   - type: verifies
     target: SYS-HBCT8J
+    confirmed: "735188e33202"
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

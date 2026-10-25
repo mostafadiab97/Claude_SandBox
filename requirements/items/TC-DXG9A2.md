@@ -13,6 +13,7 @@ order: 1080
 links:
   - type: verifies
     target: SYS-7560Q0
+    confirmed: 9d3e4fe37fb5
 ---
 **Objective:** verify that the cloud backend behaves as specified.
 

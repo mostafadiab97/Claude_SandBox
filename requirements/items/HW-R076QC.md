@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-PT1QDH
+    confirmed: a94dbe6fcdb1
 ---
 The battery backup shall report safety limits using AES-256-GCM.

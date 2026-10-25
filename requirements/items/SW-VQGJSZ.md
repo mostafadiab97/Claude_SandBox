@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-HH08PK
+    confirmed: "8228102962e4"
 ---
 The local API shall log schedule entries in under 3 s.
 

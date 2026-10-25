@@ -10,8 +10,10 @@ order: 200
 links:
   - type: relates-to
     target: TC-GHYMVV
+    confirmed: 47c3223eeb60
   - type: relates-to
     target: SYS-0P0DNN
+    confirmed: fb01b79aacb5
 ---
 Found during regression testing of build 2.8.38.
 

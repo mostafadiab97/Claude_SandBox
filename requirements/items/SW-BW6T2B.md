@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SW-V5DFP3
+    confirmed: 2d1ab7113341
 ---
 The Zigbee radio shall display audit records for up to 8 zones.
 

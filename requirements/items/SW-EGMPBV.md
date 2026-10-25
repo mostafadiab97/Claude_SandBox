@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-EX11HN
+    confirmed: 1e076df8d628
 ---
 The telemetry pipeline shall notify access tokens in all supported languages.
 

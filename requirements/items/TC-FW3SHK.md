@@ -10,8 +10,10 @@ order: 50
 links:
   - type: verifies
     target: SYS-EPQX5G
+    confirmed: 839c3250cb67
   - type: verifies
     target: SW-DGDM8Z
+    confirmed: 073b39b4eae5
 ---
 **Objective:** verify that the zone valve behaves as specified.
 

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: IF-JR9TQE
+    confirmed: bd5c96175bd4
 ---
 The mobile app shall synchronise access tokens when the network is unavailable.

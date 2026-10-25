@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-HN9JCX
+    confirmed: ed79de17940f
 ---
 The enclosure shall log user preferences for at least 10 years.

@@ -12,8 +12,10 @@ order: 630
 links:
   - type: refines
     target: STK-JFBQPS
+    confirmed: 5027ee1822eb
   - type: mitigates
     target: RSK-MTJ750
+    confirmed: 9f71d66c1651
 ---
 The telemetry pipeline shall display firmware images below 0.5 W in standby.
 

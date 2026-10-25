@@ -9,6 +9,7 @@ order: 1160
 links:
   - type: refines
     target: STK-DZ9P6K
+    confirmed: 35469390951d
 ---
 The Zigbee radio shall synchronise sensor readings for up to 8 zones.
 

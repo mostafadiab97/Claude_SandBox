@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-CP5K95
+    confirmed: 278409ef24f8
 ---
 The home dashboard shall calibrate safety limits in under 3 s.

@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-QDWM3F
+    confirmed: 6815e3fba85c
 ---
 The home dashboard shall encrypt sensor readings for up to 8 zones.
 

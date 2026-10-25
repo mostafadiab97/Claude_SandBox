@@ -12,6 +12,7 @@ order: 80
 links:
   - type: verifies
     target: SYS-8FP865
+    confirmed: c59e7f0fde76
 ---
 **Objective:** verify that the backlight behaves as specified.
 

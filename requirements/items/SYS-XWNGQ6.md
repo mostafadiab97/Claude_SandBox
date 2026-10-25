@@ -13,7 +13,9 @@ order: 1090
 links:
   - type: refines
     target: STK-DKX022
+    confirmed: a534e573be6a
   - type: mitigates
     target: RSK-9BAEZR
+    confirmed: 09af4dd83b7f
 ---
 The cloud backend shall limit the connection state in all supported languages.

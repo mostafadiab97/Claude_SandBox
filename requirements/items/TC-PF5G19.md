@@ -14,8 +14,10 @@ order: 970
 links:
   - type: verifies
     target: SYS-6T9DFV
+    confirmed: 0e56d083aedf
   - type: verifies
     target: SW-XK9HVN
+    confirmed: bab2c9f18398
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-7TGW7V
+    confirmed: 5c07b577ecff
 ---
 The enclosure shall restore user preferences with an accuracy of ±0.5 °C.

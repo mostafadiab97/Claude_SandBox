@@ -11,6 +11,7 @@ order: 840
 links:
   - type: refines
     target: STK-DKX022
+    confirmed: a534e573be6a
 ---
 The cloud backend shall switch access tokens when the network is unavailable.
 

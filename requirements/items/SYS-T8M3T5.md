@@ -10,5 +10,6 @@ order: 1810
 links:
   - type: refines
     target: STK-1TB226
+    confirmed: ea29425b18b7
 ---
 The over-temperature monitor shall authenticate the room temperature when the network is unavailable.

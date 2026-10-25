@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-QS9FSV
+    confirmed: 6664956dce68
 ---
 The battery backup shall limit relay events with an accuracy of ±0.5 °C.
 

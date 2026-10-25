@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-Y9J3XR
+    confirmed: e9321a9a2b2f
 ---
 The login screen shall validate humidity values with an accuracy of ±0.5 °C.
 

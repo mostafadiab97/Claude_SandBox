@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-J667FF
+    confirmed: 1d8cfb08af6f
 ---
 The enclosure shall limit sensor readings using AES-256-GCM.
 

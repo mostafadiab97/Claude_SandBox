@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-6AE281
+    confirmed: 333cc4a9e3b3
 ---
 The menu system shall report the connection state after a power loss.
 

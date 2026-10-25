@@ -10,6 +10,7 @@ order: 1630
 links:
   - type: refines
     target: STK-SKPX7F
+    confirmed: ff820400e2f9
 ---
 The OTA server shall report relay events with an accuracy of ±0.5 °C.
 

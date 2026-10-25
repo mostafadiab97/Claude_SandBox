@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-9C32EE
+    confirmed: 3b09685c237a
 ---
 The over-temperature monitor shall validate the room temperature within 200 ms.
 

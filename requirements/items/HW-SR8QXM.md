@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-NKN3QV
+    confirmed: 2f2d653f73be
 ---
 The user account service shall authenticate audit records at least once per minute.
 

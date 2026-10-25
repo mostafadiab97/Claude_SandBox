@@ -14,5 +14,6 @@ order: 500
 links:
   - type: refines
     target: STK-92HHJV
+    confirmed: 260bd01800c6
 ---
 The tamper detection shall display relay events with an accuracy of ±0.5 °C.

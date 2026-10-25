@@ -12,6 +12,7 @@ order: 20
 links:
   - type: relates-to
     target: SYS-PRE7SJ
+    confirmed: 690f18343fde
 ---
 Requested by customer support (ticket #15333).
 

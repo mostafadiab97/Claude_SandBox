@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-VATTV2
+    confirmed: ab1257e48aec
 ---
 The relay board shall notify the room temperature with an accuracy of ±0.5 °C.
 

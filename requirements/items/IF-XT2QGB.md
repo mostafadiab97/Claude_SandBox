@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-9DPF6C
+    confirmed: 33deda97a847
 ---
 The power supply shall authenticate error conditions in all supported languages.
 

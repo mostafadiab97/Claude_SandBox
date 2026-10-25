@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-C9BFKW
+    confirmed: 0dcc5954ae38
 ---
 The power supply shall switch relay events when the network is unavailable.
 

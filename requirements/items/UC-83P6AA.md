@@ -14,6 +14,7 @@ order: 150
 links:
   - type: relates-to
     target: STK-HBX3YS
+    confirmed: b42a2f94d25d
 ---
 **Actor:** home owner
 

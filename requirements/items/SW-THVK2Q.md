@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-XZE9DK
+    confirmed: 7345ac77c8fe
 ---
 The user account service shall switch relay events below 0.5 W in standby.
 

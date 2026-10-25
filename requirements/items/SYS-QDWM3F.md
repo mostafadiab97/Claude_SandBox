@@ -10,8 +10,10 @@ order: 940
 links:
   - type: refines
     target: STK-MC9ASH
+    confirmed: a4f2ebaecfbe
   - type: mitigates
     target: RSK-HTQ195
+    confirmed: feaa24748b2b
 ---
 The home dashboard shall calibrate relay events in all supported languages.
 

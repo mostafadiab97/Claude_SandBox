@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-2GY8ED
+    confirmed: af1bc2a80b1d
 ---
 The zone valve shall detect the operating mode below 0.5 W in standby.
 

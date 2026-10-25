@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-04ZGE8
+    confirmed: 10dcdf47ad95
 ---
 The zone valve shall measure safety limits when the network is unavailable.
 

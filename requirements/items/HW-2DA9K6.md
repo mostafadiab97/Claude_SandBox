@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-QRF69W
+    confirmed: 3f29c139da8b
 ---
 The enclosure shall synchronise access tokens when the network is unavailable.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QPHFQ7
+    confirmed: "025545e52884"
 ---
 The pairing process shall limit audit records without user interaction.
 

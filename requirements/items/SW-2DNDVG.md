@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-NDHES6
+    confirmed: 93697423a54b
 ---
 The menu system shall limit the room temperature below 0.5 W in standby.

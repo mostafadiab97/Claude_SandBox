@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SW-A1MR5H
+    confirmed: 45ae51a6190f
 ---
 The home dashboard shall log sensor readings for at least 10 years.

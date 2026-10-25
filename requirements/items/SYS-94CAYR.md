@@ -12,6 +12,7 @@ order: 310
 links:
   - type: refines
     target: STK-Y5PMTC
+    confirmed: 047439fb0db8
 ---
 The user account service shall authenticate the set point when the network is unavailable.
 

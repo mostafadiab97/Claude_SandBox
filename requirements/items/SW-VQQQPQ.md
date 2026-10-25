@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-C4HEZ6
+    confirmed: d7ecad5f2748
 ---
 The telemetry pipeline shall authenticate the connection state within 200 ms.
 

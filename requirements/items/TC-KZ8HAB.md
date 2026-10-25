@@ -14,6 +14,7 @@ order: 1390
 links:
   - type: verifies
     target: SYS-VRC80Y
+    confirmed: 9e303efe85be
 ---
 **Objective:** verify that the schedule editor behaves as specified.
 

@@ -9,6 +9,7 @@ order: 1060
 links:
   - type: refines
     target: STK-HH6ZNR
+    confirmed: caa77fe9df1c
 ---
 The menu system shall restore relay events at least once per minute.
 

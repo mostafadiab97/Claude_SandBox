@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-35NR1X
+    confirmed: ce0c7ab3d25e
 ---
 The telemetry pipeline shall notify the room temperature in under 3 s.
 

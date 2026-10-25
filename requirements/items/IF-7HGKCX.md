@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: IF-2C5CPR
+    confirmed: d17d551b86ad
 ---
 The login screen shall encrypt the room temperature within 200 ms.

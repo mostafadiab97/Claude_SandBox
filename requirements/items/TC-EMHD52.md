@@ -14,8 +14,10 @@ order: 1060
 links:
   - type: verifies
     target: SYS-10RD9F
+    confirmed: c65b58fe967d
   - type: verifies
     target: SW-7ZZBED
+    confirmed: 91cf5b7270df
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

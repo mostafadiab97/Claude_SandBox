@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-B7MWJ2
+    confirmed: cfcb93c868dc
 ---
 The Zigbee radio shall validate the operating mode in all supported languages.
 

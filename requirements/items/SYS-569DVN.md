@@ -9,6 +9,7 @@ order: 1530
 links:
   - type: refines
     target: STK-DNB9QM
+    confirmed: 90394ce55463
 ---
 The device registry shall encrypt relay events at least once per minute.
 

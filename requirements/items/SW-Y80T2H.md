@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-616CH6
+    confirmed: 3666376b13b0
 ---
 The menu system shall notify safety limits in all supported languages.
 

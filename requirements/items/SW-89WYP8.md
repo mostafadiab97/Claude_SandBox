@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-82PKWA
+    confirmed: c920ab97ee7b
 ---
 The home dashboard shall authenticate access tokens with an accuracy of ±0.5 °C.

@@ -9,6 +9,7 @@ order: 250
 links:
   - type: verifies
     target: SYS-DTN5PG
+    confirmed: acb9d7ae9cd5
 ---
 **Objective:** verify that the rotary knob behaves as specified.
 

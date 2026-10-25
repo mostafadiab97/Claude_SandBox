@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-BF1ZYT
+    confirmed: a41f5627def3
 ---
 The status LED shall measure the room temperature for up to 8 zones.

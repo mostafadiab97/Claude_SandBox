@@ -13,8 +13,10 @@ order: 160
 links:
   - type: relates-to
     target: TC-SJEY8T
+    confirmed: e3c9ed4962ad
   - type: relates-to
     target: SYS-BS5G2C
+    confirmed: 19954ae1e0af
 ---
 Found during regression testing of build 2.2.21.
 

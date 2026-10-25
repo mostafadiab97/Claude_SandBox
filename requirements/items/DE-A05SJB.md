@@ -10,5 +10,6 @@ order: 20
 links:
   - type: implements
     target: SW-FT9SM6
+    confirmed: 023162502ec1
 ---
 Implemented in `src/ui/menu_system.c`.

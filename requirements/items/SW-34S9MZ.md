@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-M63JNN
+    confirmed: 5a464a8782e6
 ---
 The mobile app shall encrypt the set point after a power loss.
 

@@ -10,6 +10,7 @@ order: 1400
 links:
   - type: verifies
     target: SYS-EX11HN
+    confirmed: 1e076df8d628
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

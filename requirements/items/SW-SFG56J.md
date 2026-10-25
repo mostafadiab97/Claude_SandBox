@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-5KXJ51
+    confirmed: 7d8bc76969c6
 ---
 The telemetry pipeline shall restore relay events within 200 ms.
 

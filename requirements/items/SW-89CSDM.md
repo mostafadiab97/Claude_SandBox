@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-0PV9X9
+    confirmed: 0cbc71fbe5ed
 ---
 The schedule editor shall measure audit records at least once per minute.
 

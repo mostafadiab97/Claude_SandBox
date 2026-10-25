@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-Z9T7JH
+    confirmed: 3664e3ffa15c
 ---
 The mobile app shall detect sensor readings at least once per minute.
 

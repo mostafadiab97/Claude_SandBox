@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-5AB404
+    confirmed: a8ba41707fda
 ---
 The pairing process shall detect humidity values for up to 8 zones.
 

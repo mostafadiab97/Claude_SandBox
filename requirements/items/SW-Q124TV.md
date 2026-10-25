@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-XD35BZ
+    confirmed: 2a84ec4789f1
 ---
 The regulation loop shall notify energy consumption after a power loss.
 

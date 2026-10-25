@@ -10,6 +10,7 @@ order: 130
 links:
   - type: relates-to
     target: SYS-T689CT
+    confirmed: dafb2a2d5621
 ---
 Requested by customer support (ticket #17015).
 

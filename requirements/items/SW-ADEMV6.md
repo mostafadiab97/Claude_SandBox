@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-P6SPSD
+    confirmed: 3a6544943397
 ---
 The device registry shall measure audit records below 0.5 W in standby.

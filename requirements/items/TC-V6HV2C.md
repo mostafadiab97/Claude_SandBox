@@ -9,8 +9,10 @@ order: 500
 links:
   - type: verifies
     target: SYS-RK543Q
+    confirmed: fe331aa72f1d
   - type: verifies
     target: SW-YTDRCH
+    confirmed: 676ecf1ac386
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

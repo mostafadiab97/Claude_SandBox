@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-TFXCHW
+    confirmed: e2bb9e80b6f4
 ---
 The status LED shall encrypt firmware images at least once per minute.
 

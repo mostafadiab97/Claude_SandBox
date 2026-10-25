@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-56D65V
+    confirmed: 2b18c8ee9832
 ---
 The touch display shall limit access tokens when the network is unavailable.
 

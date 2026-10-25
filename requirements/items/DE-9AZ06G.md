@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-BG63HZ
+    confirmed: 9cf9faa7e5a4
 ---
 Implemented in `src/heat/zone_valve.c`.

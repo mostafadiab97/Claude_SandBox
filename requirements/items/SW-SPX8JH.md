@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MM8K93
+    confirmed: 6d2e8325363f
 ---
 The rotary knob shall switch audit records with an accuracy of ±0.5 °C.
 

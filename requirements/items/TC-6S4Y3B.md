@@ -13,8 +13,10 @@ order: 1120
 links:
   - type: verifies
     target: SYS-PN5J1K
+    confirmed: 3969f39acf44
   - type: verifies
     target: SW-336TCW
+    confirmed: eb669076665a
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

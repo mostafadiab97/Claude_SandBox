@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-FPCM4D
+    confirmed: 2cecb0d5058b
 ---
 The battery backup shall detect audit records at least once per minute.
 

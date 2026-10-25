@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-SSBZ7T
+    confirmed: 4a88e60caee9
 ---
 The rotary knob shall authenticate the operating mode with an accuracy of ±0.5 °C.
 

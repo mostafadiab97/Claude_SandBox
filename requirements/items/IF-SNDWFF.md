@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-7XRVPP
+    confirmed: d90eb5aab73d
 ---
 The home dashboard shall limit user preferences for up to 8 zones.

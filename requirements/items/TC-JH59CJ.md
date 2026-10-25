@@ -14,6 +14,7 @@ order: 1420
 links:
   - type: verifies
     target: SYS-86C3Z1
+    confirmed: 9813f1ce92fd
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

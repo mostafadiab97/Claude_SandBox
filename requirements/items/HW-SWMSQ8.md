@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SYS-BG5HSX
+    confirmed: ca78fcddf889
 ---
 The home dashboard shall calibrate user preferences when the network is unavailable.

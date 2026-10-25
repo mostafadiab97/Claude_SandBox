@@ -12,6 +12,7 @@ order: 230
 links:
   - type: verifies
     target: SYS-6Y9BHS
+    confirmed: cb3485657a51
 ---
 **Objective:** verify that the backlight behaves as specified.
 

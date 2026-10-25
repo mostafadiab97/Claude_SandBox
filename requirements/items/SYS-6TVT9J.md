@@ -11,5 +11,6 @@ order: 260
 links:
   - type: refines
     target: STK-75QZSA
+    confirmed: b8a4c00165fe
 ---
 The regulation loop shall calibrate safety limits at least once per minute.

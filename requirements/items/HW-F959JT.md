@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7XRVPP
+    confirmed: d90eb5aab73d
 ---
 The home dashboard shall notify firmware images when the network is unavailable.
 

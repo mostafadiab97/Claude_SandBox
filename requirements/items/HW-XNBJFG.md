@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-A47H7R
+    confirmed: fd7d82b6415e
 ---
 The battery backup shall log access tokens for up to 8 zones.
 

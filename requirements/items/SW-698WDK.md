@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-G0JBM8
+    confirmed: 4d23af5c0f84
 ---
 The cloud backend shall measure sensor readings below 0.5 W in standby.
 

@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-DFR9YD
+    confirmed: 72056f4d9703
 ---
 The heating controller shall limit the connection state with an accuracy of ±0.5 °C.

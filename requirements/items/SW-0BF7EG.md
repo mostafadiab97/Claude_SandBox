@@ -14,5 +14,6 @@ order: 30
 links:
   - type: refines
     target: SYS-MASKXR
+    confirmed: c14e888575b5
 ---
 The telemetry pipeline shall notify energy consumption in under 3 s.

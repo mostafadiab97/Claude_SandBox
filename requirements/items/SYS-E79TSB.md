@@ -10,8 +10,10 @@ order: 1340
 links:
   - type: refines
     target: STK-7F9256
+    confirmed: 5588db2eb80a
   - type: mitigates
     target: RSK-4NE1NJ
+    confirmed: 56f6781ca0d3
 ---
 The relay board shall notify error conditions below 0.5 W in standby.
 

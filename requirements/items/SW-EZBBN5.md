@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MSYB7C
+    confirmed: a4224df30283
 ---
 The rotary knob shall notify schedule entries below 0.5 W in standby.
 

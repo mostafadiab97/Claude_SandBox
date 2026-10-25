@@ -13,5 +13,6 @@ order: 2110
 links:
   - type: refines
     target: STK-EFJRJ9
+    confirmed: fc922ec1a72e
 ---
 The boiler interface shall log schedule entries for at least 10 years.

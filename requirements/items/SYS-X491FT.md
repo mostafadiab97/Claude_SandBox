@@ -10,6 +10,7 @@ order: 290
 links:
   - type: refines
     target: STK-DKX022
+    confirmed: a534e573be6a
 ---
 The telemetry pipeline shall notify energy consumption in under 3 s.
 

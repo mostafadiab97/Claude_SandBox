@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-VD95TW
+    confirmed: 9bff03016b87
 ---
 The Bluetooth LE link shall display humidity values at least once per minute.
 

@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-MHZ1B7
+    confirmed: 30591fb6a6e6
 ---
 Implemented in `src/app/mobile_app.c`.

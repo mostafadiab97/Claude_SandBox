@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-AG7C1J
+    confirmed: cee47aab4775
 ---
 The Zigbee radio shall notify the connection state in all supported languages.
 

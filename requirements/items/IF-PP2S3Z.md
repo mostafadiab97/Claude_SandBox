@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-KE3ZCS
+    confirmed: "131852556952"
 ---
 The home dashboard shall display the set point below 0.5 W in standby.

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-KQAHRZ
+    confirmed: 32db0e11587f
 ---
 The user account service shall log access tokens in under 3 s.
 

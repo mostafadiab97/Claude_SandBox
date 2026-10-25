@@ -9,5 +9,6 @@ order: 30
 links:
   - type: refines
     target: SYS-E79TSB
+    confirmed: dbeab1b468f4
 ---
 The relay board shall log the operating mode at least once per minute.

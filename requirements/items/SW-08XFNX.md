@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-1G38N7
+    confirmed: 4a4496e229e3
 ---
 The login screen shall authenticate access tokens for at least 10 years.
 

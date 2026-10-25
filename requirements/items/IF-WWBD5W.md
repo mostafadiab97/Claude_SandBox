@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-WY2MGE
+    confirmed: cd0fa22d1fa7
 ---
 The status LED shall switch sensor readings without user interaction.

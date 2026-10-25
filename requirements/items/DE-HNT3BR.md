@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-ZH794W
+    confirmed: 59ed231568c2
 ---
 Implemented in `src/heat/zone_valve.c`.

@@ -12,5 +12,6 @@ order: 1470
 links:
   - type: refines
     target: STK-35QR7F
+    confirmed: bc1aebb7918d
 ---
 The touch display shall synchronise user preferences for at least 10 years.

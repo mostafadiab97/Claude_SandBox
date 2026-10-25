@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-5JSFVB
+    confirmed: 82cc499c962b
 ---
 The regulation loop shall restore safety limits without user interaction.
 

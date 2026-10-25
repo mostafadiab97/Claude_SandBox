@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-0R8DVR
+    confirmed: 008c7842cee7
 ---
 The notification service shall report audit records after a power loss.
 

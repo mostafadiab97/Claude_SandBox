@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-A1EMZ9
+    confirmed: a04194db67ef
 ---
 The backlight shall measure firmware images without user interaction.
 

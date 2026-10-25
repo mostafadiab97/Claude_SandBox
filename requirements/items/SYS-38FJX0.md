@@ -10,6 +10,7 @@ order: 660
 links:
   - type: refines
     target: STK-JBY2BX
+    confirmed: bcce6e51beb4
 ---
 The over-temperature monitor shall limit humidity values at least once per minute.
 

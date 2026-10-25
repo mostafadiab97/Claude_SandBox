@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-JKF1QX
+    confirmed: ff14b57eee23
 ---
 The encryption layer shall display schedule entries at least once per minute.
 

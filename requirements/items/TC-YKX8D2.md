@@ -12,6 +12,7 @@ order: 1030
 links:
   - type: verifies
     target: SYS-72TJ12
+    confirmed: f925a1940bd6
 ---
 **Objective:** verify that the login screen behaves as specified.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-9F9H3G
+    confirmed: c16d63b44dea
 ---
 The schedule editor shall detect the room temperature within 200 ms.
 

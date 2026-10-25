@@ -13,8 +13,10 @@ order: 290
 links:
   - type: verifies
     target: SYS-BJZPAW
+    confirmed: 118d961f538b
   - type: verifies
     target: SW-G47V38
+    confirmed: 3319aa3f8a2a
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

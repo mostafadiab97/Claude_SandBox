@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-S1NYQA
+    confirmed: 1b9d0d62784e
 ---
 The relay board shall calibrate humidity values when the network is unavailable.
 

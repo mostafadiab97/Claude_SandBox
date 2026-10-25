@@ -10,6 +10,7 @@ order: 1880
 links:
   - type: refines
     target: STK-FWM06B
+    confirmed: bbd40f488fa4
 ---
 The backlight shall log audit records when the network is unavailable.
 

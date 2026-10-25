@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-6MTAQR
+    confirmed: 76300eb27743
 ---
 The device registry shall store sensor readings within 200 ms.
 

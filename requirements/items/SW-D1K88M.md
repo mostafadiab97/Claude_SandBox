@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-RBHXPF
+    confirmed: efa36830708b
 ---
 The backlight shall calibrate safety limits after a power loss.
 

@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ZSDCZJ
+    confirmed: 5cf55da3656a
 ---
 The battery backup shall notify firmware images using AES-256-GCM.
 

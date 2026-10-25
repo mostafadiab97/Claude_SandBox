@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-1J12CH
+    confirmed: c24b64c289fa
 ---
 Implemented in `src/conn/pairing_process.c`.

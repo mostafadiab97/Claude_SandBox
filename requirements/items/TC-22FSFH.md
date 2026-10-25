@@ -12,6 +12,7 @@ order: 1290
 links:
   - type: verifies
     target: SYS-TE4YGF
+    confirmed: 7a16860169f9
 ---
 **Objective:** verify that the schedule editor behaves as specified.
 

@@ -9,6 +9,7 @@ order: 1240
 links:
   - type: verifies
     target: SYS-TYCMRT
+    confirmed: cd494a5f904a
 ---
 **Objective:** verify that the status LED behaves as specified.
 

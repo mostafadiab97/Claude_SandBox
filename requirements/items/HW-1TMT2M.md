@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-749A38
+    confirmed: a8274ea6218e
 ---
 The Wi-Fi module shall limit audit records below 0.5 W in standby.
 

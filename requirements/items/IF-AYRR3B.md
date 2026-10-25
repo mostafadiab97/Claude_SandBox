@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-8E7NKM
+    confirmed: 88fb23507b4f
 ---
 The OTA server shall display safety limits below 0.5 W in standby.
 

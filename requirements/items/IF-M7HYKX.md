@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-XHYQN4
+    confirmed: 3a60145a886a
 ---
 The secure boot shall authenticate energy consumption for up to 8 zones.
 

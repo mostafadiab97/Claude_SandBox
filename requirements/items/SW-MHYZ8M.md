@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-FHDEXY
+    confirmed: 786acaabdb39
 ---
 The regulation loop shall display firmware images after a power loss.
 

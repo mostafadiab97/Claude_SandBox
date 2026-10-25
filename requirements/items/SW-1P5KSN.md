@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-38JJJT
+    confirmed: 86898fe01bec
 ---
 The over-temperature monitor shall restore error conditions in under 3 s.
 

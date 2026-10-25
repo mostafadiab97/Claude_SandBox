@@ -12,8 +12,10 @@ order: 1090
 links:
   - type: verifies
     target: SYS-C1GZFQ
+    confirmed: 4a1b95f28b03
   - type: verifies
     target: SW-GR1195
+    confirmed: 3faf6fa03816
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

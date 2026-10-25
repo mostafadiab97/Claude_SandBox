@@ -9,5 +9,6 @@ order: 20
 links:
   - type: implements
     target: SW-M34EVK
+    confirmed: 46347eb5a05a
 ---
 Implemented in `src/heat/zone_valve.c`.

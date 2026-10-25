@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-VFV0E7
+    confirmed: 846c545e5032
 ---
 The menu system shall log humidity values when the network is unavailable.
 

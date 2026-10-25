@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-RP2FET
+    confirmed: f29685558736
 ---
 The Bluetooth LE link shall notify relay events for at least 10 years.
 

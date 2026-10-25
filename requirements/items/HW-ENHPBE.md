@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: HW-M0MDB3
+    confirmed: 7a92c3121ebf
 ---
 The power supply shall store safety limits for at least 10 years.

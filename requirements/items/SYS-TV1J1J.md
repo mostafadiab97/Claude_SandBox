@@ -12,5 +12,6 @@ order: 400
 links:
   - type: refines
     target: STK-4K2NE4
+    confirmed: 7cfb31353d89
 ---
 The status LED shall calibrate safety limits for up to 8 zones.

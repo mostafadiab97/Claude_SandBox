@@ -10,5 +10,6 @@ order: 1920
 links:
   - type: refines
     target: STK-JFBQPS
+    confirmed: 5027ee1822eb
 ---
 The cloud backend shall limit the connection state for up to 8 zones.

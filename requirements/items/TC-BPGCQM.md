@@ -12,8 +12,10 @@ order: 830
 links:
   - type: verifies
     target: SYS-A45TJB
+    confirmed: 6163aa570a7a
   - type: verifies
     target: SW-VXT0WC
+    confirmed: 5c7155c7a225
 ---
 **Objective:** verify that the login screen behaves as specified.
 

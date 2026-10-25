@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-RG9GAY
+    confirmed: 9687363c0226
 ---
 The heating controller shall validate sensor readings within 200 ms.
 

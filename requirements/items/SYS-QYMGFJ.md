@@ -9,6 +9,7 @@ order: 630
 links:
   - type: refines
     target: STK-NTBW06
+    confirmed: d92faafa8cce
 ---
 The regulation loop shall notify schedule entries without user interaction.
 

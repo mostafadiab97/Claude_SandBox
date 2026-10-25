@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-26ZAHT
+    confirmed: 2fc7492bf655
 ---
 The user account service shall notify the room temperature with an accuracy of ±0.5 °C.
 

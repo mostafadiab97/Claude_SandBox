@@ -13,6 +13,7 @@ order: 2250
 links:
   - type: refines
     target: STK-4NGQJ5
+    confirmed: 96640a7e340d
 ---
 The relay board shall authenticate humidity values with an accuracy of ±0.5 °C.
 

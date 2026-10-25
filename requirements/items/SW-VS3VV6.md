@@ -14,5 +14,6 @@ order: 40
 links:
   - type: refines
     target: SYS-YD6GC1
+    confirmed: 0aa6a57c35e5
 ---
 The telemetry pipeline shall report the connection state for at least 10 years.

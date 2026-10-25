@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-HPNQHQ
+    confirmed: 4fe382f87558
 ---
 The login screen shall report relay events in all supported languages.
 

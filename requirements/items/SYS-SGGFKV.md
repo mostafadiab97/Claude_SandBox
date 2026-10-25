@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: STK-TT8FXG
+    confirmed: 85d87c7e9a76
 ---
 The main PCB shall log access tokens below 0.5 W in standby.

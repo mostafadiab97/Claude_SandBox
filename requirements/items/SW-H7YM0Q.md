@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-C849TP
+    confirmed: 0e79beed01a7
 ---
 The cloud backend shall encrypt energy consumption within 200 ms.

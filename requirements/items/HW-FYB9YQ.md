@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MS4565
+    confirmed: f5a4a18a634c
 ---
 The status LED shall validate the set point with an accuracy of ±0.5 °C.
 

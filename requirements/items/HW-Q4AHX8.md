@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: HW-7NPZNG
+    confirmed: 0717dba025a3
 ---
 The telemetry pipeline shall report sensor readings for at least 10 years.

@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-VH6JH8
+    confirmed: 1e4273ef3726
 ---
 The pairing process shall report error conditions in all supported languages.
 

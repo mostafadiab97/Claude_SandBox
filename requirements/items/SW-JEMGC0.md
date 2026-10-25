@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-B40EWB
+    confirmed: ed06aa4da27a
 ---
 The secure boot shall limit energy consumption for up to 8 zones.
 

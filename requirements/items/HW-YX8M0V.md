@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-DS9BCD
+    confirmed: 71372d39e051
 ---
 The battery backup shall encrypt energy consumption for up to 8 zones.

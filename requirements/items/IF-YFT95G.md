@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-Q6G2TQ
+    confirmed: 2157601a4542
 ---
 The boiler interface shall notify humidity values when the network is unavailable.
 

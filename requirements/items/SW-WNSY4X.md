@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-FNDSGK
+    confirmed: cc35bc1c9bb3
 ---
 The regulation loop shall encrypt energy consumption without user interaction.
 

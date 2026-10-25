@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-3ASG6E
+    confirmed: f902b30888e5
 ---
 Implemented in `src/conn/local_API.c`.

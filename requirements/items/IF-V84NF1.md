@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-RGCFDP
+    confirmed: 703711cfcecf
 ---
 The watchdog shall store the set point without user interaction.

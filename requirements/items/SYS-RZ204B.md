@@ -10,6 +10,7 @@ order: 830
 links:
   - type: refines
     target: STK-92HHJV
+    confirmed: 260bd01800c6
 ---
 The secure boot shall display user preferences after a power loss.
 

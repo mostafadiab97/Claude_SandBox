@@ -12,6 +12,7 @@ links:
     target: STK-H87WHA
   - type: mitigates
     target: RSK-8FFR90
+    confirmed: 63c04ae06813
 ---
 The login screen shall limit audit records for up to 8 zones.
 

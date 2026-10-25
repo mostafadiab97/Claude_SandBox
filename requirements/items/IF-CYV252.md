@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-5XB7KH
+    confirmed: ce31b91ce201
 ---
 The Bluetooth LE link shall report the connection state within 200 ms.
 

@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: HW-X80M8P
+    confirmed: b1eb78b64499
 ---
 The device registry shall log the connection state below 0.5 W in standby.

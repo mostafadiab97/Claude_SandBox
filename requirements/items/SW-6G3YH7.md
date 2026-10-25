@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-AFWWZ5
+    confirmed: 67e16f182216
 ---
 The local API shall switch the set point within 200 ms.
 

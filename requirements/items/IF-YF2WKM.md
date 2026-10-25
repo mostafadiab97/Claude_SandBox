@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-XG1A05
+    confirmed: 3d6bd0f5636f
 ---
 The heat pump driver shall log access tokens without user interaction.
 

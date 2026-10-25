@@ -10,6 +10,7 @@ order: 910
 links:
   - type: refines
     target: STK-AA05P4
+    confirmed: e2bec3bcd11c
 ---
 The regulation loop shall authenticate energy consumption with an accuracy of ±0.5 °C.
 

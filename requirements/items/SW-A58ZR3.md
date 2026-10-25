@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-4W17YE
+    confirmed: 91763bba0bd6
 ---
 The notification service shall synchronise error conditions with an accuracy of ±0.5 °C.
 

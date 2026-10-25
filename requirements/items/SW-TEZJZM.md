@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-0MK9ZW
+    confirmed: 5727fec8b08d
 ---
 The home dashboard shall encrypt schedule entries without user interaction.

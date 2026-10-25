@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-B99DV1
+    confirmed: 4cbe1396d101
 ---
 The local API shall report humidity values after a power loss.

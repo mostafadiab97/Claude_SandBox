@@ -12,6 +12,7 @@ order: 300
 links:
   - type: verifies
     target: SYS-B8BCQN
+    confirmed: 2a3d9dbc24b6
 ---
 **Objective:** verify that the menu system behaves as specified.
 

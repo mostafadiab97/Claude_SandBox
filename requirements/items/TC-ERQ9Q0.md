@@ -10,6 +10,7 @@ order: 580
 links:
   - type: verifies
     target: SYS-DWKSH2
+    confirmed: 3f3b61efc945
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

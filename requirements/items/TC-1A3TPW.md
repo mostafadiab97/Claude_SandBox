@@ -14,6 +14,7 @@ order: 1070
 links:
   - type: verifies
     target: SYS-A6KWV7
+    confirmed: 4488148b69d2
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

@@ -11,7 +11,9 @@ order: 1780
 links:
   - type: refines
     target: STK-ZJRWCQ
+    confirmed: 080168ea99ae
   - type: mitigates
     target: RSK-RV8KBD
+    confirmed: 637ec5e39d53
 ---
 The over-temperature monitor shall display energy consumption for up to 8 zones.

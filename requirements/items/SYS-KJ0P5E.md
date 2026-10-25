@@ -11,6 +11,7 @@ order: 190
 links:
   - type: refines
     target: STK-ZJRWCQ
+    confirmed: 080168ea99ae
 ---
 The over-temperature monitor shall synchronise safety limits using AES-256-GCM.
 

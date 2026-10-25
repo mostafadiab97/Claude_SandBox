@@ -13,8 +13,10 @@ order: 530
 links:
   - type: refines
     target: STK-EWSQ9Z
+    confirmed: aa5e4143dbe7
   - type: mitigates
     target: RSK-G8ARKV
+    confirmed: dd1f8627cbb6
 ---
 The heat pump driver shall log humidity values in all supported languages.
 

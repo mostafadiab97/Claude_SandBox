@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-S2CZRZ
+    confirmed: 9cc8d8fe0b96
 ---
 The enclosure shall synchronise the set point at least once per minute.
 

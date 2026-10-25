@@ -14,6 +14,7 @@ order: 1110
 links:
   - type: verifies
     target: SYS-YVNHRY
+    confirmed: 586d305ca699
 ---
 **Objective:** verify that the menu system behaves as specified.
 

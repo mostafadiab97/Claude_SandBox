@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-H53211
+    confirmed: af6e93d43894
 ---
 The rotary knob shall encrypt the room temperature when the network is unavailable.
 

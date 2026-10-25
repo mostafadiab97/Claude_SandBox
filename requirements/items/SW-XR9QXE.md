@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-SNV0V5
+    confirmed: e469f30b51d1
 ---
 The encryption layer shall limit the room temperature using AES-256-GCM.
 

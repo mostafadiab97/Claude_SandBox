@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-9GHKM6
+    confirmed: ab9f96efc9a0
 ---
 The watchdog shall store the set point at least once per minute.
 

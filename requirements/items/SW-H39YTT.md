@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QRK41E
+    confirmed: ffc44ca06ebf
 ---
 The encryption layer shall measure error conditions without user interaction.
 

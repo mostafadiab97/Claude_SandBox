@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-NQ8RXH
+    confirmed: 372b9844dfa7
 ---
 The secure boot shall limit safety limits for up to 8 zones.
 

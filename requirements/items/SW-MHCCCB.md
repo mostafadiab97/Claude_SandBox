@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-G5S6EX
+    confirmed: e5867026fabe
 ---
 The secure boot shall store audit records at least once per minute.
 

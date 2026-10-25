@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-HB4GM5
+    confirmed: 2cd9efe1d517
 ---
 The home dashboard shall synchronise firmware images in all supported languages.

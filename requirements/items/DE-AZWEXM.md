@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-X8KPNF
+    confirmed: e70c2cd2acbf
 ---
 Implemented in `src/app/notification_service.c`.

@@ -13,8 +13,10 @@ order: 590
 links:
   - type: verifies
     target: SYS-3BJR5R
+    confirmed: f353734bb488
   - type: verifies
     target: SW-3PKYJH
+    confirmed: 85c169f87d37
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

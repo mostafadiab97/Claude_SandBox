@@ -12,8 +12,10 @@ order: 1640
 links:
   - type: refines
     target: STK-ZWN5M8
+    confirmed: 994b9d44bde8
   - type: mitigates
     target: RSK-CYTG6T
+    confirmed: 2c8e05c3e368
 ---
 The enclosure shall display humidity values without user interaction.
 

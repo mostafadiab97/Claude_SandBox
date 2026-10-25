@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-NSQBT9
+    confirmed: a72d25c263cd
 ---
 The enclosure shall notify the set point using AES-256-GCM.
 

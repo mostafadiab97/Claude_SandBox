@@ -9,6 +9,7 @@ order: 1740
 links:
   - type: refines
     target: STK-92HHJV
+    confirmed: 260bd01800c6
 ---
 The watchdog shall synchronise audit records using AES-256-GCM.
 

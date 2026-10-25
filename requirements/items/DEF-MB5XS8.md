@@ -13,8 +13,10 @@ order: 110
 links:
   - type: relates-to
     target: TC-71Q4M2
+    confirmed: 5e1632b66215
   - type: relates-to
     target: SYS-XW4JM5
+    confirmed: ed6d4a00a62b
 ---
 Found during regression testing of build 2.0.35.
 

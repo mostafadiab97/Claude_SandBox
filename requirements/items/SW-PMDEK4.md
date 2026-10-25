@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-9FTG47
+    confirmed: 6b7150a5bc62
 ---
 The secure boot shall report user preferences with an accuracy of ±0.5 °C.
 

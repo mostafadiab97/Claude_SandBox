@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-FMTYXJ
+    confirmed: 51ed09f00e1d
 ---
 The regulation loop shall store the connection state after a power loss.

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-B03YJ8
+    confirmed: 588f622701dc
 ---
 The rotary knob shall validate the set point in under 3 s.
 

@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-N24H14
+    confirmed: 8a82d9b4ca06
 ---
 Implemented in `src/ui/menu_system.c`.

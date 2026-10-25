@@ -12,6 +12,7 @@ order: 650
 links:
   - type: refines
     target: STK-DJ9M3M
+    confirmed: ba30e28a130f
 ---
 The watchdog shall limit sensor readings for at least 10 years.
 

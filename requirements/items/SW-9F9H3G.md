@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-90Z9AA
+    confirmed: fe1a440a5bde
 ---
 The schedule editor shall authenticate audit records below 0.5 W in standby.
 

@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-RAGJWJ
+    confirmed: 8fefcc6bf8d8
 ---
 The over-temperature monitor shall log schedule entries in all supported languages.
 

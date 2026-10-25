@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SYS-EDRZBM
+    confirmed: 248750d69b90
 ---
 The main PCB shall detect user preferences for at least 10 years.

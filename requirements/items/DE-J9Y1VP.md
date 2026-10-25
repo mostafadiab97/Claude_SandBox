@@ -10,5 +10,6 @@ order: 20
 links:
   - type: implements
     target: SW-FHMAYW
+    confirmed: bc7c21d025c0
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

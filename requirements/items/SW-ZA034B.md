@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-G8M4SE
+    confirmed: df8c85150795
 ---
 The device registry shall switch energy consumption with an accuracy of ±0.5 °C.
 

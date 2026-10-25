@@ -9,8 +9,10 @@ order: 1560
 links:
   - type: verifies
     target: SYS-XRP95E
+    confirmed: c526dc6b205d
   - type: verifies
     target: SW-H767RS
+    confirmed: ddd704c50367
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

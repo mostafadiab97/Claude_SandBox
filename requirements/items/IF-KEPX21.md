@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MSYB7C
+    confirmed: a4224df30283
 ---
 The rotary knob shall measure firmware images within 200 ms.
 

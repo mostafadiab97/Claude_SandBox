@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-568D4J
+    confirmed: 57968fcc7d39
 ---
 The pairing process shall display safety limits below 0.5 W in standby.
 

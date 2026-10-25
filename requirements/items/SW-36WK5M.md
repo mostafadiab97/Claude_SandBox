@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-BM27EB
+    confirmed: 044815c5b2d6
 ---
 The watchdog shall validate audit records below 0.5 W in standby.

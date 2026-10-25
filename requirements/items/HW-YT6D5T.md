@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-BP947W
+    confirmed: f8fcab8bd387
 ---
 The power supply shall limit humidity values in all supported languages.
 

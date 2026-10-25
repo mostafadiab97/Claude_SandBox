@@ -12,6 +12,7 @@ order: 970
 links:
   - type: verifies
     target: SYS-5T7DGP
+    confirmed: 65eb9c0bc016
 ---
 **Objective:** verify that the device behaves as specified.
 

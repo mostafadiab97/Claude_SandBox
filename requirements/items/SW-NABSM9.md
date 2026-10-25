@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-7NJ840
+    confirmed: 598e15ccb9d4
 ---
 The local API shall notify user preferences using AES-256-GCM.

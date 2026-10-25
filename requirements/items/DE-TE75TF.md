@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-0ME46T
+    confirmed: a90fa9c45702
 ---
 Implemented in `src/conn/pairing_process.c`.

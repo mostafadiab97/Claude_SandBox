@@ -9,5 +9,6 @@ order: 30
 links:
   - type: refines
     target: SYS-3KEBNW
+    confirmed: 79d2c72aebd1
 ---
 The home dashboard shall encrypt energy consumption at least once per minute.

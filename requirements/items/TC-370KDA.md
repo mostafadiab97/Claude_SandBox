@@ -13,6 +13,7 @@ order: 300
 links:
   - type: verifies
     target: SYS-T44M5X
+    confirmed: b93a511f8f0f
 ---
 **Objective:** verify that the notification service behaves as specified.
 

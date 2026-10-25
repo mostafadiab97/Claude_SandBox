@@ -10,5 +10,6 @@ order: 20
 links:
   - type: implements
     target: SW-08ESXF
+    confirmed: a6d8f7b0b96b
 ---
 Implemented in `src/ui/touch_display.c`.

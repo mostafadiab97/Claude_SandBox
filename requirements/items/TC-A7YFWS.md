@@ -10,8 +10,10 @@ order: 950
 links:
   - type: verifies
     target: SYS-CB7E79
+    confirmed: 1e8a0199df87
   - type: verifies
     target: SW-2JRDMJ
+    confirmed: 37b64617ffc6
 ---
 **Objective:** verify that the power supply behaves as specified.
 

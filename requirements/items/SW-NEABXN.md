@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-YWZ4G6
+    confirmed: af8070b2a3c3
 ---
 The OTA server shall display the set point without user interaction.
 

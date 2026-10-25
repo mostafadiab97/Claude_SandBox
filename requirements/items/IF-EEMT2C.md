@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-90Z9AA
+    confirmed: fe1a440a5bde
 ---
 The schedule editor shall detect safety limits in all supported languages.
 

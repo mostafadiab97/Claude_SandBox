@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-WPECSA
+    confirmed: ab3d2239f5b0
 ---
 Implemented in `src/cloud/OTA_server.c`.

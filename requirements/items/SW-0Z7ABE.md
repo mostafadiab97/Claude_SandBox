@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-1F54XW
+    confirmed: 63e961a2987d
 ---
 The cloud backend shall authenticate the set point for up to 8 zones.
 

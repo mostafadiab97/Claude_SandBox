@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-DK3Y4R
+    confirmed: 85f6bb475fe2
 ---
 The relay board shall synchronise the set point in under 3 s.
 

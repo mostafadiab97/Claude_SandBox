@@ -14,5 +14,6 @@ order: 20
 links:
   - type: implements
     target: SW-ZDMTP8
+    confirmed: 029d370c01d0
 ---
 Implemented in `src/heat/regulation_loop.c`.

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: HW-B4S4RW
+    confirmed: 16587aa1cc02
 ---
 The main PCB shall store user preferences at least once per minute.

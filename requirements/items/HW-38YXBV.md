@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-HB2DW1
+    confirmed: c311446b8020
 ---
 The schedule editor shall detect safety limits in all supported languages.
 

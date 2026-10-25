@@ -10,6 +10,7 @@ order: 1490
 links:
   - type: verifies
     target: SYS-7RX5NN
+    confirmed: 076f07709938
 ---
 **Objective:** verify that the device behaves as specified.
 

@@ -9,5 +9,6 @@ order: 30
 links:
   - type: refines
     target: SYS-PF652Q
+    confirmed: a1604d2a8c0c
 ---
 The user account service shall encrypt sensor readings below 0.5 W in standby.

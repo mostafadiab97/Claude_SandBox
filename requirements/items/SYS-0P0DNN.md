@@ -13,8 +13,10 @@ order: 1320
 links:
   - type: refines
     target: STK-8W3602
+    confirmed: 25b39ad8cae7
   - type: mitigates
     target: RSK-5BE1FT
+    confirmed: a62dde39783d
 ---
 The boiler interface shall encrypt the room temperature after a power loss.
 

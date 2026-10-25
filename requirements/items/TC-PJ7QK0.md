@@ -13,8 +13,10 @@ order: 1160
 links:
   - type: verifies
     target: SYS-3JPXMD
+    confirmed: 429b4766228a
   - type: verifies
     target: SW-HVF1F0
+    confirmed: 7564939a0f77
 ---
 **Objective:** verify that the schedule editor behaves as specified.
 

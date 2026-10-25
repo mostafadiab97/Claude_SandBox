@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-PG0K3E
+    confirmed: 2c023351a960
 ---
 The secure boot shall limit access tokens for at least 10 years.
 

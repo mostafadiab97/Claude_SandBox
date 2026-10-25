@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-322R8M
+    confirmed: 1d6119b63fd8
 ---
 The Zigbee radio shall restore schedule entries in under 3 s.
 

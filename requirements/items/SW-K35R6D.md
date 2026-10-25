@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-RCK4NZ
+    confirmed: 32fb1eff344d
 ---
 The device registry shall store humidity values at least once per minute.
 

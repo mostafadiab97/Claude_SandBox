@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-ZHJT86
+    confirmed: d2ebf70532a7
 ---
 The power supply shall store energy consumption when the network is unavailable.

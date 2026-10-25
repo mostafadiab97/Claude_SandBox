@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-PZFQGD
+    confirmed: 691fb7a4cd9f
 ---
 Implemented in `src/heat/heating_controller.c`.

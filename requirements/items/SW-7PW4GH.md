@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-BGBCA1
+    confirmed: 8c6a289aca43
 ---
 The home dashboard shall report relay events within 200 ms.
 

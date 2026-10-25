@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-8P54CP
+    confirmed: 83be93bab647
 ---
 The login screen shall store the connection state at least once per minute.
 

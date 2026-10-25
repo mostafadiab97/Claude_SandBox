@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-27ZRZ6
+    confirmed: 2208a37cfcbe
 ---
 The telemetry pipeline shall measure humidity values in under 3 s.
 

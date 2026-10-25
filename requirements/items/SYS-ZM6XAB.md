@@ -9,6 +9,7 @@ order: 160
 links:
   - type: refines
     target: STK-Q9RBYT
+    confirmed: a67c8b718d88
 ---
 The pairing process shall restore the room temperature within 200 ms.
 

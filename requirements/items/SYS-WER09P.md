@@ -13,6 +13,7 @@ order: 1810
 links:
   - type: refines
     target: STK-1CAAXP
+    confirmed: a853df6f0866
 ---
 The device registry shall store relay events without user interaction.
 

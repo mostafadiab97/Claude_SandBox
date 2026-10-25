@@ -12,5 +12,6 @@ order: 1600
 links:
   - type: refines
     target: STK-71VSKB
+    confirmed: 994ecb1eff6f
 ---
 The local API shall switch schedule entries within 200 ms.

@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-VZBJ86
+    confirmed: 0ca132a1cacb
 ---
 Implemented in `src/conn/Zigbee_radio.c`.

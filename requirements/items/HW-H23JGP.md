@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-E2APKT
+    confirmed: cac0677efc4c
 ---
 The over-temperature monitor shall encrypt sensor readings within 200 ms.

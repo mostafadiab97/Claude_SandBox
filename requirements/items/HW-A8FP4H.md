@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-V3KNC0
+    confirmed: c71efbcdb7bc
 ---
 The battery backup shall restore audit records at least once per minute.
 

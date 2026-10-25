@@ -8,6 +8,7 @@ order: 10
 links:
   - type: refines
     target: SW-54JE3M
+    confirmed: 48914f25607c
 ---
 The Bluetooth LE link shall display the set point without user interaction.
 

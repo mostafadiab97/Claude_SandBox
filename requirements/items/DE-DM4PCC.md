@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-ZZJS5P
+    confirmed: 6a763e763f11
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

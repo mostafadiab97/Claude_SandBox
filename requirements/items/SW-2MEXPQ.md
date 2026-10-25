@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-9PZN49
+    confirmed: 62fe12aea17c
 ---
 The login screen shall display the room temperature below 0.5 W in standby.
 

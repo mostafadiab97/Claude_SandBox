@@ -8,5 +8,6 @@ order: 910
 links:
   - type: refines
     target: STK-2STGXE
+    confirmed: c77fe61daf4b
 ---
 The power supply shall validate humidity values with an accuracy of ±0.5 °C.

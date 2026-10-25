@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-KKM3DB
+    confirmed: cbda6c746ea4
 ---
 The zone valve shall detect humidity values at least once per minute.

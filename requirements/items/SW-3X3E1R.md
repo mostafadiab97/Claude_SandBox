@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-2TKSSR
+    confirmed: 7b7bf03ff065
 ---
 The Wi-Fi module shall store the set point when the network is unavailable.

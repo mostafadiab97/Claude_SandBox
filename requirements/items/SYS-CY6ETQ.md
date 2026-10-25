@@ -9,6 +9,7 @@ order: 460
 links:
   - type: refines
     target: STK-G2ZBHW
+    confirmed: fee0d3303478
 ---
 The Bluetooth LE link shall detect access tokens at least once per minute.
 

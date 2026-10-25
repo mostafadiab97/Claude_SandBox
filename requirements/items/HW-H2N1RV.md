@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-PX7YQ6
+    confirmed: a1bdacbc8613
 ---
 The main PCB shall validate safety limits without user interaction.
 

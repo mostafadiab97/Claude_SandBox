@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-TH9M3M
+    confirmed: 7680e45d2dea
 ---
 Implemented in `src/conn/local_API.c`.

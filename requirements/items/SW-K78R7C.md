@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-TV9K0C
+    confirmed: c6e463034bf8
 ---
 The telemetry pipeline shall limit firmware images with an accuracy of ±0.5 °C.
 

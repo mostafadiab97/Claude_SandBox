@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-7BE6SJ
+    confirmed: 39695d94f21a
 ---
 The rotary knob shall limit the connection state after a power loss.
 

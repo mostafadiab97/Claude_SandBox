@@ -10,6 +10,7 @@ order: 790
 links:
   - type: verifies
     target: SYS-2N03B4
+    confirmed: 9597e83a664b
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

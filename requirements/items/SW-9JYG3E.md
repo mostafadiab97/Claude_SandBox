@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-AMSJGT
+    confirmed: 05b4b00427a0
 ---
 The Zigbee radio shall detect energy consumption without user interaction.
 

@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-CY6ETQ
+    confirmed: fca3f3673c34
 ---
 The Bluetooth LE link shall measure the room temperature below 0.5 W in standby.
 

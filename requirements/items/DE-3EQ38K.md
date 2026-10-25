@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-6VNZC0
+    confirmed: 15dbe7fe8ade
 ---
 Implemented in `src/conn/Zigbee_radio.c`.

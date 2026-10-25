@@ -13,6 +13,7 @@ order: 2120
 links:
   - type: refines
     target: STK-4NGQJ5
+    confirmed: 96640a7e340d
 ---
 The battery backup shall detect the room temperature within 200 ms.
 

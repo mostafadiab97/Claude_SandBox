@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-3XC6WM
+    confirmed: 1ce7059fa9be
 ---
 The heating controller shall authenticate humidity values after a power loss.
 

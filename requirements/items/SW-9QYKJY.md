@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-0C2S4D
+    confirmed: 306846e9f601
 ---
 The Wi-Fi module shall encrypt relay events with an accuracy of ±0.5 °C.
 

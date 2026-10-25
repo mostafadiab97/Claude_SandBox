@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-7TGW7V
+    confirmed: 5c07b577ecff
 ---
 The enclosure shall authenticate audit records for at least 10 years.
 

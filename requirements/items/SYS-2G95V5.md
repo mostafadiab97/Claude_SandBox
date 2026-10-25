@@ -12,6 +12,7 @@ order: 1030
 links:
   - type: refines
     target: STK-M28XWW
+    confirmed: bcf262f10744
 ---
 The relay board shall report safety limits below 0.5 W in standby.
 

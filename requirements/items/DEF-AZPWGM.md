@@ -12,8 +12,10 @@ order: 60
 links:
   - type: relates-to
     target: TC-1Q70E6
+    confirmed: 1dc21fb619a5
   - type: relates-to
     target: SYS-TTBHSQ
+    confirmed: ac320e4fa404
 ---
 Found during regression testing of build 2.2.7.
 

@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-TYCMRT
+    confirmed: cd494a5f904a
 ---
 The status LED shall encrypt safety limits within 200 ms.
 

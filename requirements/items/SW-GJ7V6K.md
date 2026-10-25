@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-KEKD2W
+    confirmed: dce36b139246
 ---
 The mobile app shall encrypt the connection state using AES-256-GCM.

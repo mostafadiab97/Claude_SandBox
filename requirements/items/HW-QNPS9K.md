@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-FPCM4D
+    confirmed: 2cecb0d5058b
 ---
 The battery backup shall report relay events for up to 8 zones.

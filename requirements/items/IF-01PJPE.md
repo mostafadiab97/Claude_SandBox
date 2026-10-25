@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-1BABK1
+    confirmed: 2abcea762c88
 ---
 The pairing process shall switch error conditions in under 3 s.
 

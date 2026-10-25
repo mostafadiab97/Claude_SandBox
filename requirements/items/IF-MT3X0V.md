@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-KC8K49
+    confirmed: d331f9bc5a8a
 ---
 The OTA server shall store energy consumption without user interaction.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QHMT67
+    confirmed: 77747505e6c0
 ---
 The login screen shall store user preferences after a power loss.
 

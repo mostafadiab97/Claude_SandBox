@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-E7QPGB
+    confirmed: 07d5643ef6c8
 ---
 The over-temperature monitor shall notify humidity values for at least 10 years.
 

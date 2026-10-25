@@ -13,6 +13,7 @@ order: 1440
 links:
   - type: verifies
     target: SYS-EGXJY6
+    confirmed: 3e6744bf9b31
 ---
 **Objective:** verify that the user account service behaves as specified.
 

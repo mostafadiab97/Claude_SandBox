@@ -10,6 +10,7 @@ order: 790
 links:
   - type: verifies
     target: SYS-8ZNJBE
+    confirmed: d6a67816b8b6
 ---
 **Objective:** verify that the menu system behaves as specified.
 

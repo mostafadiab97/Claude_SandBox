@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-NQ8RXH
+    confirmed: 372b9844dfa7
 ---
 The secure boot shall measure safety limits within 200 ms.
 

@@ -14,5 +14,6 @@ order: 30
 links:
   - type: refines
     target: SYS-RGPMZF
+    confirmed: 44306853822b
 ---
 The cloud backend shall store firmware images when the network is unavailable.

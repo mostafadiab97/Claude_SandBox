@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-RF310F
+    confirmed: bc4cb8d2d781
 ---
 The local API shall switch the room temperature when the network is unavailable.
 

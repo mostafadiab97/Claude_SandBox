@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-PP9XSM
+    confirmed: f6b12bd52bbe
 ---
 The local API shall display the room temperature for up to 8 zones.

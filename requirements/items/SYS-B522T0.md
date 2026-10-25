@@ -10,6 +10,7 @@ order: 890
 links:
   - type: refines
     target: STK-KEP05J
+    confirmed: 74304e03fe52
 ---
 The battery backup shall synchronise the connection state with an accuracy of ±0.5 °C.
 

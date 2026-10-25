@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-6FPGAZ
+    confirmed: 839828246f65
 ---
 The mobile app shall switch the operating mode in all supported languages.
 

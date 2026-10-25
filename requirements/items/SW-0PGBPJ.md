@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-7BCVCV
+    confirmed: 9b16ba8d6617
 ---
 The login screen shall log safety limits within 200 ms.
 

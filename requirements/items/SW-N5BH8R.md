@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-EVBYJ7
+    confirmed: 11120bfddd2b
 ---
 The login screen shall detect energy consumption in all supported languages.

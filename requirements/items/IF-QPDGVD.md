@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-Y6AMBA
+    confirmed: 9d1ea6b10234
 ---
 The tamper detection shall notify the operating mode below 0.5 W in standby.
 

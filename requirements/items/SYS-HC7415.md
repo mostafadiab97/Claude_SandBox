@@ -13,5 +13,6 @@ order: 200
 links:
   - type: refines
     target: STK-SWTYBR
+    confirmed: 85d99e967934
 ---
 The login screen shall log relay events with an accuracy of ±0.5 °C.

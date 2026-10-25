@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-TFRKP8
+    confirmed: a5b572b56ae3
 ---
 The rotary knob shall switch sensor readings when the network is unavailable.
 

@@ -13,8 +13,10 @@ order: 350
 links:
   - type: verifies
     target: SYS-F7SWPF
+    confirmed: 89bbd5dd030b
   - type: verifies
     target: SW-SKZG0A
+    confirmed: ea742fa40ce3
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

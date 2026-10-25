@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-Y2RP9E
+    confirmed: e9c58e7ee304
 ---
 The notification service shall limit sensor readings with an accuracy of ±0.5 °C.

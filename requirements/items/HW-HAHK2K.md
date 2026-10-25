@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-VA9RN1
+    confirmed: 93a4d8e298aa
 ---
 The notification service shall notify safety limits without user interaction.
 

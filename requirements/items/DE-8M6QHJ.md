@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-WAYVMZ
+    confirmed: c55b6078c0e4
 ---
 Implemented in `src/ui/touch_display.c`.

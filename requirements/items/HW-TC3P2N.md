@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-N9J3YN
+    confirmed: ef7af70b0629
 ---
 The local API shall synchronise user preferences within 200 ms.
 

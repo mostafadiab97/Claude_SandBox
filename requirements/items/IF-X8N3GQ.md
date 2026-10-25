@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-CBQBV0
+    confirmed: 99b89b8fe048
 ---
 The main PCB shall notify safety limits at least once per minute.

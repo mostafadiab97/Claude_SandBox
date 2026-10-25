@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-EFJFCR
+    confirmed: b46684aa0799
 ---
 The touch display shall switch the room temperature using AES-256-GCM.
 

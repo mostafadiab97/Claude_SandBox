@@ -12,5 +12,6 @@ order: 470
 links:
   - type: refines
     target: STK-2STGXE
+    confirmed: c77fe61daf4b
 ---
 The main PCB shall detect the room temperature after a power loss.

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-HWXS3J
+    confirmed: cbc211e398ee
 ---
 Implemented in `src/ui/backlight.c`.

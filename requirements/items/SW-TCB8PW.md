@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-V6YEW7
+    confirmed: 82cb35726de3
 ---
 The backlight shall validate humidity values at least once per minute.
 

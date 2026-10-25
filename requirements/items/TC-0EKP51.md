@@ -10,8 +10,10 @@ order: 1520
 links:
   - type: verifies
     target: SYS-5XEZ64
+    confirmed: 6b7714cc0542
   - type: verifies
     target: SW-Z1XA6B
+    confirmed: 728d60341efa
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

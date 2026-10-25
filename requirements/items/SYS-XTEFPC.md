@@ -9,6 +9,7 @@ order: 600
 links:
   - type: refines
     target: STK-639N9T
+    confirmed: 252da9caa62c
 ---
 The schedule editor shall limit sensor readings at least once per minute.
 

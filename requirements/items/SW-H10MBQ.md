@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-RJBYTY
+    confirmed: 8b795ddb3eaf
 ---
 The touch display shall detect energy consumption using AES-256-GCM.
 

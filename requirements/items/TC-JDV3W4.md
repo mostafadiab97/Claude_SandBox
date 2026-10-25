@@ -9,8 +9,10 @@ order: 440
 links:
   - type: verifies
     target: SYS-A8QJ0D
+    confirmed: 6b0808956296
   - type: verifies
     target: SW-VHWR9A
+    confirmed: 30640f17db1d
 ---
 **Objective:** verify that the touch display behaves as specified.
 

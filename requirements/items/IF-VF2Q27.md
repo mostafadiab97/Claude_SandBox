@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-E60WCX
+    confirmed: 52a4389d660e
 ---
 The device registry shall authenticate the connection state without user interaction.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-DVDRV2
+    confirmed: 1dc89c6de993
 ---
 The pairing process shall calibrate audit records with an accuracy of ±0.5 °C.
 

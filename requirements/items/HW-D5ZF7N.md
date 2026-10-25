@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-N6Z4DM
+    confirmed: 6691c4349401
 ---
 The enclosure shall calibrate the operating mode in under 3 s.

@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-EFJFCR
+    confirmed: b46684aa0799
 ---
 The touch display shall display the set point when the network is unavailable.

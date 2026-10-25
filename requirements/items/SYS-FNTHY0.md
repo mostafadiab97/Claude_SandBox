@@ -13,6 +13,7 @@ order: 770
 links:
   - type: refines
     target: STK-EHVDJF
+    confirmed: cf195cdb6a20
 ---
 The status LED shall synchronise error conditions within 200 ms.
 

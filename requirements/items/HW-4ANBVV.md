@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-0536MA
+    confirmed: c760f3df8901
 ---
 The Wi-Fi module shall limit humidity values in all supported languages.

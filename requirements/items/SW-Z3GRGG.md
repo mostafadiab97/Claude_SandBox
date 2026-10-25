@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-JYEJXF
+    confirmed: 4340b120fb96
 ---
 The schedule editor shall display relay events with an accuracy of ±0.5 °C.
 

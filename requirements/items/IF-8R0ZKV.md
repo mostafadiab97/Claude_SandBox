@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: IF-50M0VY
+    confirmed: 79677c3d9e7d
 ---
 The local API shall switch sensor readings in under 3 s.

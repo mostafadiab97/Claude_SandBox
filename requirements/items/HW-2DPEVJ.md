@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-RGXH2B
+    confirmed: a7182b2229b0
 ---
 The relay board shall detect access tokens below 0.5 W in standby.

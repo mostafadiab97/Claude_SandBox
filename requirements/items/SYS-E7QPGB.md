@@ -11,5 +11,6 @@ order: 250
 links:
   - type: refines
     target: STK-XSQC89
+    confirmed: 66c246d6b1dc
 ---
 The over-temperature monitor shall store the set point below 0.5 W in standby.

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-JEHJ48
+    confirmed: a9ad8edc6a5a
 ---
 The login screen shall detect the set point below 0.5 W in standby.
 

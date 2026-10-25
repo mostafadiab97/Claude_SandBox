@@ -13,6 +13,7 @@ order: 990
 links:
   - type: verifies
     target: SYS-RBD8MR
+    confirmed: fce90764ac1a
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

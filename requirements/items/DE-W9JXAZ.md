@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-0GR1P0
+    confirmed: 532980948f18
 ---
 Implemented in `src/conn/Wi-Fi_module.c`.

@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-VEFG9D
+    confirmed: f2ed11769dc3
 ---
 The OTA server shall log the operating mode in under 3 s.
 

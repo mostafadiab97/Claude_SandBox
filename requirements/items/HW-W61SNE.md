@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-3KJS7N
+    confirmed: acb7a16884c1
 ---
 The regulation loop shall authenticate the operating mode for at least 10 years.
 

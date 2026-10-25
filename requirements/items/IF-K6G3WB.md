@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-A7YDK8
+    confirmed: 7e2bc805b2de
 ---
 The pairing process shall measure relay events in all supported languages.
 

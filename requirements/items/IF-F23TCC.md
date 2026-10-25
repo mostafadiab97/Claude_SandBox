@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: SYS-SZGAP0
+    confirmed: a7b5b694318d
 ---
 The menu system shall measure the room temperature for at least 10 years.

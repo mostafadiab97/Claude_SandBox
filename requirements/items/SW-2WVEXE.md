@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-MQPMA3
+    confirmed: 906d4acd43e6
 ---
 The pairing process shall synchronise the set point with an accuracy of ±0.5 °C.

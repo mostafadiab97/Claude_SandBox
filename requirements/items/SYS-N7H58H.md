@@ -14,5 +14,6 @@ order: 150
 links:
   - type: refines
     target: STK-G2H1B9
+    confirmed: fce33b342585
 ---
 The watchdog shall report the room temperature below 0.5 W in standby.

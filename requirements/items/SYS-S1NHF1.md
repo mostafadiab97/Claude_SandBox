@@ -10,8 +10,10 @@ order: 1690
 links:
   - type: refines
     target: STK-DJ9M3M
+    confirmed: ba30e28a130f
   - type: mitigates
     target: RSK-RV8KBD
+    confirmed: 637ec5e39d53
 ---
 The watchdog shall encrypt the set point for up to 8 zones.
 

@@ -10,5 +10,6 @@ order: 20
 links:
   - type: implements
     target: SW-BYV6KE
+    confirmed: a241069de6f9
 ---
 Implemented in `src/cloud/device_registry.c`.

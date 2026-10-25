@@ -12,8 +12,10 @@ order: 120
 links:
   - type: verifies
     target: SYS-7ECC65
+    confirmed: d20f7028dc77
   - type: verifies
     target: SW-0CA54W
+    confirmed: c33a35847fa5
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

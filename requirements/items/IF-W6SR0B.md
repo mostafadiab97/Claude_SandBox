@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-SAV1GY
+    confirmed: 01ce30983654
 ---
 The tamper detection shall calibrate schedule entries in all supported languages.
 

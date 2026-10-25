@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-5KZ5DB
+    confirmed: cd9a0ffd7c50
 ---
 The cloud backend shall calibrate access tokens below 0.5 W in standby.
 

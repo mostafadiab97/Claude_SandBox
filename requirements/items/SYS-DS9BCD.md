@@ -13,5 +13,6 @@ order: 1740
 links:
   - type: refines
     target: STK-2STGXE
+    confirmed: c77fe61daf4b
 ---
 The battery backup shall switch humidity values when the network is unavailable.

@@ -9,5 +9,6 @@ order: 40
 links:
   - type: refines
     target: SYS-49FF9M
+    confirmed: de1a22bc8031
 ---
 The tamper detection shall notify relay events after a power loss.

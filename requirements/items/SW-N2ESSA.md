@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-AY6RXE
+    confirmed: 7ff5c17c87ed
 ---
 The backlight shall detect error conditions using AES-256-GCM.
 

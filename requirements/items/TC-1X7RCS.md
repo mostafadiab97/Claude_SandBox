@@ -9,6 +9,7 @@ order: 1130
 links:
   - type: verifies
     target: SYS-X09T8H
+    confirmed: 1d9be0f6bc96
 ---
 **Objective:** verify that the cloud backend behaves as specified.
 

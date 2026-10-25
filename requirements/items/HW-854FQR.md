@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-7YT92H
+    confirmed: aaa2c391bc60
 ---
 The relay board shall report audit records below 0.5 W in standby.
 

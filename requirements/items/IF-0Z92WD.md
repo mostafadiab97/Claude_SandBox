@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-NSN681
+    confirmed: 4075da8daf4c
 ---
 The backlight shall validate schedule entries using AES-256-GCM.
 

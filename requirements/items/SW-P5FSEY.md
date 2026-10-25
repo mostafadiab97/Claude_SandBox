@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-4VCYRM
+    confirmed: d32333e735ba
 ---
 The Wi-Fi module shall measure safety limits below 0.5 W in standby.

@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-TXTNG4
+    confirmed: bd9a41e3d87b
 ---
 The Wi-Fi module shall display user preferences within 200 ms.

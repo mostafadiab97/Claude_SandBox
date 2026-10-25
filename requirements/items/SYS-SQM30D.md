@@ -10,6 +10,7 @@ order: 1950
 links:
   - type: refines
     target: STK-JFBQPS
+    confirmed: 5027ee1822eb
 ---
 The telemetry pipeline shall synchronise sensor readings after a power loss.
 

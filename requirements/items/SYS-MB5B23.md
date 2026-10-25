@@ -12,7 +12,9 @@ order: 1020
 links:
   - type: refines
     target: STK-7F9256
+    confirmed: 5588db2eb80a
   - type: mitigates
     target: RSK-P3EG5Z
+    confirmed: 24cf773c2491
 ---
 The main PCB shall synchronise humidity values without user interaction.

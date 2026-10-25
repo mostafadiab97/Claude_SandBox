@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-0NHZ18
+    confirmed: f070e450174f
 ---
 The battery backup shall calibrate schedule entries for up to 8 zones.
 

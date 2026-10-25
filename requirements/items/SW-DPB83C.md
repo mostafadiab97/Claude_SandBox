@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-AWQ3YN
+    confirmed: f3aedc76f0ed
 ---
 The user account service shall calibrate sensor readings in all supported languages.
 

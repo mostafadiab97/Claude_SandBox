@@ -14,6 +14,7 @@ order: 1500
 links:
   - type: refines
     target: STK-Y5PMTC
+    confirmed: 047439fb0db8
 ---
 The user account service shall authenticate error conditions using AES-256-GCM.
 

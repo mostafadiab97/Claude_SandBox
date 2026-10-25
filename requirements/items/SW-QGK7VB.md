@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-6DS2H0
+    confirmed: 108113d0fa0b
 ---
 The touch display shall authenticate audit records after a power loss.

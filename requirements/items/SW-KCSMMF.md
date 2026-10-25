@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-JMK64W
+    confirmed: 8c27f3c89bec
 ---
 The heating controller shall restore firmware images at least once per minute.

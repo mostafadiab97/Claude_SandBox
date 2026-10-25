@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-TNP510
+    confirmed: 342a56df9a48
 ---
 The notification service shall synchronise relay events when the network is unavailable.
 

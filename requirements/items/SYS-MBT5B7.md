@@ -12,6 +12,7 @@ order: 200
 links:
   - type: refines
     target: STK-71VSKB
+    confirmed: 994ecb1eff6f
 ---
 The local API shall validate the set point after a power loss.
 

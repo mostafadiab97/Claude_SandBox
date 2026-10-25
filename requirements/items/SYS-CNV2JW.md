@@ -12,5 +12,6 @@ order: 1410
 links:
   - type: refines
     target: STK-BR4RT9
+    confirmed: 16def0c1f947
 ---
 The schedule editor shall detect firmware images with an accuracy of ±0.5 °C.

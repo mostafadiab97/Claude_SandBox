@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-RXWF3R
+    confirmed: f3d27e3d9880
 ---
 The backlight shall log firmware images using AES-256-GCM.
 

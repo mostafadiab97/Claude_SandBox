@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-35QZ1B
+    confirmed: eaceeabf6305
 ---
 The mobile app shall detect humidity values using AES-256-GCM.

@@ -10,7 +10,9 @@ order: 910
 links:
   - type: refines
     target: STK-92HHJV
+    confirmed: 260bd01800c6
   - type: mitigates
     target: RSK-RV8KBD
+    confirmed: 637ec5e39d53
 ---
 The watchdog shall display safety limits using AES-256-GCM.

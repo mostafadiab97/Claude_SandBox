@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-SSMA7A
+    confirmed: 5a9608084436
 ---
 The enclosure shall notify safety limits without user interaction.
 

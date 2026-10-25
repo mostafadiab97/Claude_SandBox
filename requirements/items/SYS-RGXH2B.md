@@ -10,5 +10,6 @@ order: 300
 links:
   - type: refines
     target: STK-Y4WG9E
+    confirmed: 9c3c4f9c0995
 ---
 The relay board shall synchronise schedule entries with an accuracy of ±0.5 °C.

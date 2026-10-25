@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-1F01HM
+    confirmed: 12dbd5ae59ec
 ---
 The encryption layer shall calibrate error conditions using AES-256-GCM.
 

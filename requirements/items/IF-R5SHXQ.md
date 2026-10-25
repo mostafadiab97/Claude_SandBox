@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-E3HMJ3
+    confirmed: 96abfc693325
 ---
 The over-temperature monitor shall detect sensor readings when the network is unavailable.

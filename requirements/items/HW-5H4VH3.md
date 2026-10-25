@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-08S85A
+    confirmed: df8a61c21e99
 ---
 The device registry shall store energy consumption for at least 10 years.
 

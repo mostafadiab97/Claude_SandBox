@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-7VF1VB
+    confirmed: cd08b02dec95
 ---
 The boiler interface shall authenticate energy consumption in all supported languages.
 

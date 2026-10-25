@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-0J8RA9
+    confirmed: e16a16e4a8ad
 ---
 The Zigbee radio shall synchronise user preferences with an accuracy of ±0.5 °C.
 

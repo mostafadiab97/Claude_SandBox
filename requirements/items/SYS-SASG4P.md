@@ -12,6 +12,7 @@ order: 1910
 links:
   - type: refines
     target: STK-JFBQPS
+    confirmed: 5027ee1822eb
 ---
 The device registry shall switch firmware images for at least 10 years.
 

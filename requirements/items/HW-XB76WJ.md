@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-2RJ62J
+    confirmed: 86b1e408d2e0
 ---
 The main PCB shall log user preferences with an accuracy of ±0.5 °C.

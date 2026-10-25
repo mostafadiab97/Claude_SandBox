@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-F961QG
+    confirmed: f5b7f4c14067
 ---
 The enclosure shall notify schedule entries below 0.5 W in standby.

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-DGP00F
+    confirmed: a66a55402e6a
 ---
 The Bluetooth LE link shall limit relay events when the network is unavailable.
 

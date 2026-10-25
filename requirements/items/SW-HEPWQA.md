@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-DGDEYQ
+    confirmed: 3502cbffc9ec
 ---
 The Bluetooth LE link shall report the room temperature within 200 ms.
 

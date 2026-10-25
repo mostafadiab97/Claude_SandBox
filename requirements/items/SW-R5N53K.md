@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-WF25CP
+    confirmed: 3f8b6bcfec69
 ---
 The tamper detection shall authenticate safety limits for up to 8 zones.
 

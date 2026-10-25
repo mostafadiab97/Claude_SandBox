@@ -14,6 +14,7 @@ order: 100
 links:
   - type: relates-to
     target: SYS-FD82WN
+    confirmed: f55a56f18a08
 ---
 Requested by customer support (ticket #15474).
 

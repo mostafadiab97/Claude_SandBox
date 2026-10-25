@@ -12,6 +12,7 @@ order: 600
 links:
   - type: verifies
     target: SYS-Y9J3XR
+    confirmed: e9321a9a2b2f
 ---
 **Objective:** verify that the login screen behaves as specified.
 

@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-KVWKZF
+    confirmed: 9148889bdd96
 ---
 The boiler interface shall switch the room temperature at least once per minute.
 

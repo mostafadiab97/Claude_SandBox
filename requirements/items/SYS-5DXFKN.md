@@ -10,8 +10,10 @@ order: 2030
 links:
   - type: refines
     target: STK-AA05P4
+    confirmed: e2bec3bcd11c
   - type: mitigates
     target: RSK-GP1TY2
+    confirmed: 50cb7d905eb0
 ---
 The heating controller shall limit relay events without user interaction.
 

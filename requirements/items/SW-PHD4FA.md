@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-2WVEXE
+    confirmed: 766907d83f4a
 ---
 The pairing process shall switch audit records at least once per minute.
 

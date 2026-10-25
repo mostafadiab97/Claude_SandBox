@@ -12,5 +12,6 @@ order: 610
 links:
   - type: refines
     target: STK-SKPX7F
+    confirmed: ff820400e2f9
 ---
 The device registry shall measure sensor readings without user interaction.

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-3ZPQJB
+    confirmed: b533d709a662
 ---
 The schedule editor shall store user preferences when the network is unavailable.
 

@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-63GREP
+    confirmed: b483aeef9b3f
 ---
 The backlight shall limit humidity values within 200 ms.
 

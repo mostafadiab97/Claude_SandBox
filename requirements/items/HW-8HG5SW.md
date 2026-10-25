@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-JFB5KX
+    confirmed: 270d776a5c32
 ---
 The heat pump driver shall notify sensor readings below 0.5 W in standby.
 

@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-8CD6G0
+    confirmed: f67bd1f03438
 ---
 The backlight shall notify user preferences below 0.5 W in standby.
 

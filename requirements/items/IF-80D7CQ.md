@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-1Q68X4
+    confirmed: 01eaedbf5ab3
 ---
 The power supply shall display energy consumption in all supported languages.
 

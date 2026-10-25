@@ -9,6 +9,7 @@ order: 1950
 links:
   - type: refines
     target: STK-AA05P4
+    confirmed: e2bec3bcd11c
 ---
 The heating controller shall validate audit records for up to 8 zones.
 

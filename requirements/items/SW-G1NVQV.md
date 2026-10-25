@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-HGM9BS
+    confirmed: e9e572deb541
 ---
 The device registry shall limit user preferences with an accuracy of ±0.5 °C.
 

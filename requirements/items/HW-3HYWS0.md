@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: HW-ZCYJDF
+    confirmed: a27110202fca
 ---
 The regulation loop shall detect firmware images using AES-256-GCM.
 

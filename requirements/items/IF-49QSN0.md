@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: IF-YVHTQ6
+    confirmed: 8849b958bf45
 ---
 The local API shall authenticate error conditions at least once per minute.
 

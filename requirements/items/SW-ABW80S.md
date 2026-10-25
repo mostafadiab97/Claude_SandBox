@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-PBA89X
+    confirmed: be94f152bddf
 ---
 The rotary knob shall display error conditions for up to 8 zones.
 

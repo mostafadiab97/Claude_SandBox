@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-5JP4T4
+    confirmed: 8b6fa0928d20
 ---
 The encryption layer shall switch energy consumption using AES-256-GCM.
 

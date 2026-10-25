@@ -12,6 +12,7 @@ order: 1510
 links:
   - type: verifies
     target: SYS-7AH6RP
+    confirmed: f255e71521d5
 ---
 **Objective:** verify that the status LED behaves as specified.
 

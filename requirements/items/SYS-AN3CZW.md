@@ -10,5 +10,6 @@ order: 430
 links:
   - type: refines
     target: STK-SZWQ0A
+    confirmed: fc1f05b44684
 ---
 The tamper detection shall display the room temperature when the network is unavailable.

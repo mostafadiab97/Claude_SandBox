@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-1T0TAM
+    confirmed: 834d1bdeda5b
 ---
 The battery backup shall notify energy consumption with an accuracy of ±0.5 °C.

@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-HPT8TA
+    confirmed: 55ed01be7cc1
 ---
 The schedule editor shall restore the operating mode using AES-256-GCM.
 

@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-VY28RQ
+    confirmed: 7e13e53fd09a
 ---
 The login screen shall report user preferences within 200 ms.

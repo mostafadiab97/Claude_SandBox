@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-FA8CFD
+    confirmed: 7868d91ae4aa
 ---
 The local API shall report sensor readings below 0.5 W in standby.
 

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-2B2EJW
+    confirmed: 78ce8d4f744f
 ---
 The menu system shall display energy consumption without user interaction.
 

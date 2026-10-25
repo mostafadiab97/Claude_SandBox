@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-EC99RK
+    confirmed: efe95468b71a
 ---
 The enclosure shall authenticate the connection state in all supported languages.
 

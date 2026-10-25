@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-5CS16H
+    confirmed: 102f993e7ea3
 ---
 The power supply shall limit error conditions using AES-256-GCM.
 

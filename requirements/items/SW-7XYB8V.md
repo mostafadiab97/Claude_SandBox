@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-H53211
+    confirmed: af6e93d43894
 ---
 The rotary knob shall restore the set point for up to 8 zones.
 

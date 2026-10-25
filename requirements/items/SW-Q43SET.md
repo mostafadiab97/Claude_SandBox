@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-H7YM0Q
+    confirmed: a4b13a848b33
 ---
 The cloud backend shall synchronise schedule entries below 0.5 W in standby.
 

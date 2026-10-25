@@ -10,5 +10,6 @@ order: 20
 links:
   - type: implements
     target: SW-857E25
+    confirmed: 22719db22bc1
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-1F45WK
+    confirmed: 25dd1b843598
 ---
 The notification service shall encrypt the set point in under 3 s.
 

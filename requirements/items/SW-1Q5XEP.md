@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-2RPS4X
+    confirmed: 6a90f09e6ec1
 ---
 The OTA server shall synchronise relay events with an accuracy of ±0.5 °C.
 

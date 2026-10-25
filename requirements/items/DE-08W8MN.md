@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-KHSKAE
+    confirmed: 74875304b55d
 ---
 Implemented in `src/conn/Wi-Fi_module.c`.

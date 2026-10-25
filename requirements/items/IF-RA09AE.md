@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-4MWCBY
+    confirmed: 12c71184dbf6
 ---
 The secure boot shall detect audit records with an accuracy of ±0.5 °C.
 

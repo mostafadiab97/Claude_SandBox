@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-SJVQBM
+    confirmed: 16f087762a47
 ---
 The tamper detection shall encrypt the room temperature at least once per minute.
 

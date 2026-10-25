@@ -13,5 +13,6 @@ order: 1220
 links:
   - type: refines
     target: STK-55M3CZ
+    confirmed: 45f1b5fe0502
 ---
 The login screen shall log user preferences below 0.5 W in standby.

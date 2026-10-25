@@ -10,6 +10,7 @@ order: 1490
 links:
   - type: verifies
     target: SYS-E9RGPF
+    confirmed: f695ac56bd99
 ---
 **Objective:** verify that the login screen behaves as specified.
 

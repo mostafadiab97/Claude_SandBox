@@ -10,6 +10,7 @@ order: 670
 links:
   - type: refines
     target: STK-ND3D08
+    confirmed: df91c673f737
 ---
 The notification service shall store access tokens for up to 8 zones.
 

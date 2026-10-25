@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-61H36K
+    confirmed: c34ac0cd30f1
 ---
 The main PCB shall restore error conditions with an accuracy of ±0.5 °C.
 

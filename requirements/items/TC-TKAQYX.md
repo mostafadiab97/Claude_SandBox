@@ -13,6 +13,7 @@ order: 1390
 links:
   - type: verifies
     target: SYS-3NFK47
+    confirmed: a62ecfbf4557
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

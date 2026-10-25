@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-MAV0K7
+    confirmed: 8ccfd4812467
 ---
 The pairing process shall switch firmware images in all supported languages.
 

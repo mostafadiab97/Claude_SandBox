@@ -12,5 +12,6 @@ order: 40
 links:
   - type: refines
     target: SYS-FKQRCB
+    confirmed: 52eaba4960b1
 ---
 The boiler interface shall calibrate access tokens for up to 8 zones.

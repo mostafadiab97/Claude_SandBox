@@ -10,8 +10,10 @@ order: 630
 links:
   - type: verifies
     target: SYS-GCSJ6X
+    confirmed: bc98a50160a3
   - type: verifies
     target: SW-MGBSAX
+    confirmed: bb0b38fdb7a5
 ---
 **Objective:** verify that the regulation loop behaves as specified.
 

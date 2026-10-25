@@ -9,8 +9,10 @@ order: 900
 links:
   - type: verifies
     target: SYS-3EMBKZ
+    confirmed: 75ba8fea4f5c
   - type: verifies
     target: SW-9PZ49R
+    confirmed: 926f921a05b5
 ---
 **Objective:** verify that the status LED behaves as specified.
 

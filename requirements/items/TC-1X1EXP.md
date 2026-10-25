@@ -14,8 +14,10 @@ order: 1220
 links:
   - type: verifies
     target: SYS-YNQ51V
+    confirmed: d66b7da9d253
   - type: verifies
     target: SW-5WXPK8
+    confirmed: 48d10bbe2632
 ---
 **Objective:** verify that the menu system behaves as specified.
 

@@ -13,5 +13,6 @@ order: 1590
 links:
   - type: refines
     target: STK-VT1KVD
+    confirmed: fbcfb8475f32
 ---
 The telemetry pipeline shall measure audit records in under 3 s.

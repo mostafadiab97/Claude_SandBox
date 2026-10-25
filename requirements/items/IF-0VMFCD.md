@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: IF-4CHEM8
+    confirmed: e928263d3a3d
 ---
 The notification service shall limit error conditions when the network is unavailable.
 

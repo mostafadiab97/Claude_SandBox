@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-C9BFKW
+    confirmed: 0dcc5954ae38
 ---
 The power supply shall measure firmware images at least once per minute.

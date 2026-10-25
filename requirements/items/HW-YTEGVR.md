@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: HW-TD5R2Y
+    confirmed: eea34b15e18e
 ---
 The power supply shall measure schedule entries at least once per minute.

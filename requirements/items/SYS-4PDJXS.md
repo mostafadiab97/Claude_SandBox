@@ -10,8 +10,10 @@ order: 1610
 links:
   - type: refines
     target: STK-G2ZBHW
+    confirmed: fee0d3303478
   - type: mitigates
     target: RSK-QXX2QH
+    confirmed: ec933cdd5217
 ---
 The Bluetooth LE link shall report error conditions within 200 ms.
 

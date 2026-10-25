@@ -10,6 +10,7 @@ order: 230
 links:
   - type: verifies
     target: SYS-90Z9AA
+    confirmed: fe1a440a5bde
 ---
 **Objective:** verify that the schedule editor behaves as specified.
 

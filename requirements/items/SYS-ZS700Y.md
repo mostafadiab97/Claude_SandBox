@@ -13,6 +13,7 @@ order: 960
 links:
   - type: refines
     target: STK-B4ZH98
+    confirmed: c19c22627f21
 ---
 The encryption layer shall encrypt error conditions when the network is unavailable.
 

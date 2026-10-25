@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-5T7DGP
+    confirmed: 65eb9c0bc016
 ---
 The schedule editor shall detect user preferences without user interaction.

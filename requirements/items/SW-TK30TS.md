@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-F4HTNV
+    confirmed: f5977efaa651
 ---
 The Wi-Fi module shall switch error conditions after a power loss.
 

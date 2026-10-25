@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: SYS-3KJS7N
+    confirmed: acb7a16884c1
 ---
 The regulation loop shall measure sensor readings with an accuracy of ±0.5 °C.

@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-2MEXPQ
+    confirmed: 1e20ac0f135d
 ---
 The login screen shall synchronise safety limits within 200 ms.
 

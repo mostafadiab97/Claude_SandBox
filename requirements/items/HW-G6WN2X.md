@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-AT7SG8
+    confirmed: c483239675ae
 ---
 The over-temperature monitor shall authenticate the connection state when the network is unavailable.
 

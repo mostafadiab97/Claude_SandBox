@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-86C690
+    confirmed: 69daa9458ae7
 ---
 The OTA server shall display schedule entries when the network is unavailable.
 

@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: IF-S4QV5S
+    confirmed: 82efd6c4495d
 ---
 The schedule editor shall notify the set point using AES-256-GCM.

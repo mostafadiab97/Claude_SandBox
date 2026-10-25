@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MB5B23
+    confirmed: 7dee66be9e03
 ---
 The main PCB shall authenticate sensor readings at least once per minute.
 

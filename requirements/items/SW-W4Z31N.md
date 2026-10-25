@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-P4DXM6
+    confirmed: 45befcee12fc
 ---
 The OTA server shall detect the set point without user interaction.
 

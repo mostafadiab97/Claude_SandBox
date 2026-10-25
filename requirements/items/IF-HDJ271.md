@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-8E6705
+    confirmed: 335aeeadad41
 ---
 The tamper detection shall measure relay events without user interaction.
 

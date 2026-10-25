@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-5D666J
+    confirmed: cfe3f145e294
 ---
 The encryption layer shall restore the connection state using AES-256-GCM.
 

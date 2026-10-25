@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-H824VB
+    confirmed: c1cdb8e3bdac
 ---
 The watchdog shall switch audit records in all supported languages.
 

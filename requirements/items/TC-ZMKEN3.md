@@ -11,6 +11,7 @@ order: 1400
 links:
   - type: verifies
     target: SYS-V0E8NK
+    confirmed: 8b83909c9c36
 ---
 **Objective:** verify that the device behaves as specified.
 

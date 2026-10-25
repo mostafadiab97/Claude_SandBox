@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-2SRDVE
+    confirmed: dc06b146776f
 ---
 Implemented in `src/app/mobile_app.c`.

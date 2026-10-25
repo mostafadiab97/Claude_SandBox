@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-946J73
+    confirmed: 4221a4e34c0d
 ---
 The enclosure shall log safety limits for at least 10 years.

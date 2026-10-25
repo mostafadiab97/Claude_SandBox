@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-B37VY2
+    confirmed: 06bc752da75c
 ---
 The boiler interface shall encrypt sensor readings without user interaction.

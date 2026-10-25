@@ -10,6 +10,7 @@ order: 90
 links:
   - type: refines
     target: STK-35QR7F
+    confirmed: bc1aebb7918d
 ---
 The menu system shall authenticate schedule entries for up to 8 zones.
 

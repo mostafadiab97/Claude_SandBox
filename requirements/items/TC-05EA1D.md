@@ -10,6 +10,7 @@ order: 60
 links:
   - type: verifies
     target: SYS-BD00HF
+    confirmed: c1fda425d923
 ---
 **Objective:** verify that the relay board behaves as specified.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-82XYZM
+    confirmed: 7f8ed4700350
 ---
 The secure boot shall display relay events at least once per minute.
 

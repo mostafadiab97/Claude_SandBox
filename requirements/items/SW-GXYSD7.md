@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-0A3NTE
+    confirmed: 60af0d3cc8d3
 ---
 The pairing process shall calibrate humidity values using AES-256-GCM.

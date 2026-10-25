@@ -10,8 +10,10 @@ order: 10
 links:
   - type: relates-to
     target: TC-R3XJAW
+    confirmed: 80872881cabf
   - type: relates-to
     target: SYS-DZWWWA
+    confirmed: 0999a3b2ce99
 ---
 Found during regression testing of build 2.6.29.
 

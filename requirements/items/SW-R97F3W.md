@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-WF25CP
+    confirmed: 3f8b6bcfec69
 ---
 The tamper detection shall report schedule entries using AES-256-GCM.
 

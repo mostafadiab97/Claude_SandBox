@@ -14,6 +14,7 @@ order: 240
 links:
   - type: verifies
     target: SYS-YW8M7A
+    confirmed: 8a991d854752
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

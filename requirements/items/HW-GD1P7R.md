@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-28RZAE
+    confirmed: 758de3e92df3
 ---
 The Zigbee radio shall calibrate sensor readings at least once per minute.
 

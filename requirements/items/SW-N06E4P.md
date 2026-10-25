@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-PX6WZT
+    confirmed: 922ee7acccc0
 ---
 The Bluetooth LE link shall calibrate energy consumption within 200 ms.
 

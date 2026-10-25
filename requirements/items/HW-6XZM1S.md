@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-1NZZTE
+    confirmed: 4435a2612fc4
 ---
 The encryption layer shall calibrate relay events for at least 10 years.
 

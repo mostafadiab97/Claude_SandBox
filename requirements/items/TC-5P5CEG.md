@@ -12,8 +12,10 @@ order: 1410
 links:
   - type: verifies
     target: SYS-6YK5CA
+    confirmed: 2507133e13d3
   - type: verifies
     target: SW-DTX806
+    confirmed: 9183eb0e79f7
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

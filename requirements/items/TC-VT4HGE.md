@@ -10,6 +10,7 @@ order: 1430
 links:
   - type: verifies
     target: SYS-244X2N
+    confirmed: fa8561abaa1a
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

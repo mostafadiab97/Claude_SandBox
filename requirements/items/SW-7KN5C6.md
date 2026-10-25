@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-8RS5SX
+    confirmed: 46ee13bca2b0
 ---
 The OTA server shall limit safety limits without user interaction.
 

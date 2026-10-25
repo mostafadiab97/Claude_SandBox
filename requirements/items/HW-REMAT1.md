@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-RGPMZF
+    confirmed: 44306853822b
 ---
 The cloud backend shall limit firmware images for up to 8 zones.
 

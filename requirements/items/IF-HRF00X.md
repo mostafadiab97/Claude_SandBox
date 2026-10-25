@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-WTN381
+    confirmed: 0039c77a1442
 ---
 The backlight shall display schedule entries at least once per minute.
 

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: HW-KFH2NB
+    confirmed: 526b011130e8
 ---
 The power supply shall validate audit records in under 3 s.

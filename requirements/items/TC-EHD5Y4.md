@@ -10,6 +10,7 @@ order: 130
 links:
   - type: verifies
     target: SYS-95649D
+    confirmed: 1d3bba17b129
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

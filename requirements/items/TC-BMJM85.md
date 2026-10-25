@@ -13,6 +13,7 @@ order: 1110
 links:
   - type: verifies
     target: SYS-JP14AF
+    confirmed: 0398140de13d
 ---
 **Objective:** verify that the regulation loop behaves as specified.
 

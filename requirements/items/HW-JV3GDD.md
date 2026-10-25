@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-5S3EBH
+    confirmed: f3466e61aac9
 ---
 The heat pump driver shall report relay events within 200 ms.
 

@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-1XT0DC
+    confirmed: "627103672060"
 ---
 The schedule editor shall report humidity values with an accuracy of ±0.5 °C.
 

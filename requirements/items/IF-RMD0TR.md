@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-A6N02X
+    confirmed: 9b22f6a5087a
 ---
 The main PCB shall calibrate the operating mode for up to 8 zones.
 

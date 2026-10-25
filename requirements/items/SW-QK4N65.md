@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-66NFPS
+    confirmed: c345a9cbc34b
 ---
 The pairing process shall switch access tokens at least once per minute.
 

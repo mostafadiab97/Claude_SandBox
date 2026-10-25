@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-X6MHYX
+    confirmed: b63cacdcb2d3
 ---
 The watchdog shall validate error conditions in under 3 s.
 

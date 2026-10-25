@@ -13,8 +13,10 @@ order: 1140
 links:
   - type: refines
     target: STK-W18EQ4
+    confirmed: aeec35e06317
   - type: mitigates
     target: RSK-4NE1NJ
+    confirmed: 56f6781ca0d3
 ---
 The relay board shall validate schedule entries after a power loss.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-X19N9W
+    confirmed: b7baf2aca436
 ---
 The enclosure shall restore energy consumption without user interaction.
 

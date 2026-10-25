@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-4W6C2G
+    confirmed: 1bcb62ea4268
 ---
 The over-temperature monitor shall synchronise error conditions in all supported languages.
 

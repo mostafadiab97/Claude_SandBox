@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-ESNRC9
+    confirmed: 72173e46587d
 ---
 The relay board shall log access tokens when the network is unavailable.
 

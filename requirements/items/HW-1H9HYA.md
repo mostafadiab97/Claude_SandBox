@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-72QJ2X
+    confirmed: b36914a527ec
 ---
 The power supply shall encrypt user preferences with an accuracy of ±0.5 °C.
 

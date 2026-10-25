@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-ZTHS0F
+    confirmed: 1917153ef15c
 ---
 The Zigbee radio shall limit energy consumption without user interaction.

@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-2ZWKRN
+    confirmed: da49b7d4a05b
 ---
 The over-temperature monitor shall display error conditions within 200 ms.

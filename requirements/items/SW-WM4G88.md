@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-HWK1PW
+    confirmed: bad2945b8b35
 ---
 The zone valve shall synchronise safety limits in all supported languages.
 

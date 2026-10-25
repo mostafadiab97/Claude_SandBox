@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: HW-QB4KB1
+    confirmed: 31a4b19bd68c
 ---
 The regulation loop shall measure audit records below 0.5 W in standby.
 

@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-ZVPM29
+    confirmed: 74f2cdf0b355
 ---
 The tamper detection shall store audit records in all supported languages.

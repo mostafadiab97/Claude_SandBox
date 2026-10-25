@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-AFXTVK
+    confirmed: f28f5499c8de
 ---
 The local API shall calibrate firmware images for up to 8 zones.
 

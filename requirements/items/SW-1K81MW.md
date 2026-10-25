@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MVY23C
+    confirmed: c547c82cf252
 ---
 The backlight shall log user preferences within 200 ms.
 

@@ -13,6 +13,7 @@ order: 740
 links:
   - type: verifies
     target: SYS-0NHZ18
+    confirmed: f070e450174f
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

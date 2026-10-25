@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-B1T54X
+    confirmed: 084830601dd3
 ---
 The enclosure shall authenticate safety limits within 200 ms.
 

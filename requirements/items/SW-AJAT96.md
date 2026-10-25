@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-2YMQND
+    confirmed: 67ab8d9cf91b
 ---
 The watchdog shall display the connection state for at least 10 years.
 

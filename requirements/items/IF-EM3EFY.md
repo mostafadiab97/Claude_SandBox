@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-WER09P
+    confirmed: cc0a86c8c57b
 ---
 The device registry shall detect schedule entries in under 3 s.
 

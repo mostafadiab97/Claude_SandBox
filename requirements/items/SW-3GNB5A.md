@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-3FB1DA
+    confirmed: e3f29c8362d3
 ---
 The telemetry pipeline shall encrypt the set point without user interaction.
 

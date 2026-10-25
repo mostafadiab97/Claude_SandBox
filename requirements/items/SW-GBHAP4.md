@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-ZNDXXX
+    confirmed: 666c8dd8694e
 ---
 The Bluetooth LE link shall calibrate sensor readings in under 3 s.
 

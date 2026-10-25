@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-XAMQJ8
+    confirmed: 52164cbbe6fc
 ---
 Implemented in `src/ui/menu_system.c`.

@@ -13,6 +13,7 @@ order: 1950
 links:
   - type: refines
     target: STK-F8MTPC
+    confirmed: bbf5b4f56657
 ---
 The mobile app shall switch access tokens with an accuracy of ±0.5 °C.
 

@@ -12,8 +12,10 @@ order: 1250
 links:
   - type: refines
     target: STK-SZWQ0A
+    confirmed: fc1f05b44684
   - type: mitigates
     target: RSK-VHBQ7T
+    confirmed: d6a0082673fd
 ---
 The secure boot shall measure user preferences below 0.5 W in standby.
 

@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-JAAEVD
+    confirmed: 9e43edd3ff39
 ---
 The heat pump driver shall measure energy consumption for up to 8 zones.

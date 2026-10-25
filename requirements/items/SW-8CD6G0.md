@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-13AJMY
+    confirmed: 3774cd655263
 ---
 The backlight shall calibrate relay events for up to 8 zones.
 

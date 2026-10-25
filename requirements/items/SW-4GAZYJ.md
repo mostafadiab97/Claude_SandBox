@@ -11,6 +11,7 @@ order: 40
 links:
   - type: refines
     target: SYS-Y4YCS0
+    confirmed: a080ef16fc5e
 ---
 The menu system shall log safety limits below 0.5 W in standby.
 

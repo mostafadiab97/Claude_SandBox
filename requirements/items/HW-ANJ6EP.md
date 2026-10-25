@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-AHMEKC
+    confirmed: 5aa806091a04
 ---
 The status LED shall synchronise humidity values in all supported languages.

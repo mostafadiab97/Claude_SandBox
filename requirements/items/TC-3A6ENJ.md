@@ -14,6 +14,7 @@ order: 880
 links:
   - type: verifies
     target: SYS-CCEYVZ
+    confirmed: 0da0bb7a7e52
 ---
 **Objective:** verify that the cloud backend behaves as specified.
 

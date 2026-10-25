@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-ZW9PC7
+    confirmed: cf666200a270
 ---
 The login screen shall encrypt the connection state at least once per minute.
 

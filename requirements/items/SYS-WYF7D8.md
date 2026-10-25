@@ -10,5 +10,6 @@ order: 1690
 links:
   - type: refines
     target: STK-GMCKMF
+    confirmed: f47328374a2b
 ---
 The local API shall authenticate the set point in under 3 s.

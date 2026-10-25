@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-E7QPGB
+    confirmed: 07d5643ef6c8
 ---
 The over-temperature monitor shall validate the room temperature after a power loss.

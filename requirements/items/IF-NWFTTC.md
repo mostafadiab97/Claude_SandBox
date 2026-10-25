@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-4Z8T25
+    confirmed: e616b98cfa05
 ---
 The enclosure shall calibrate schedule entries using AES-256-GCM.
 

@@ -14,6 +14,7 @@ order: 1630
 links:
   - type: refines
     target: STK-71VSKB
+    confirmed: 994ecb1eff6f
 ---
 The Zigbee radio shall restore user preferences without user interaction.
 

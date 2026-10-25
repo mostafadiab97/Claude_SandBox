@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-0YN9CR
+    confirmed: fd79ba8f2af2
 ---
 The login screen shall measure access tokens using AES-256-GCM.

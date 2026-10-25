@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-5KZ5DB
+    confirmed: cd9a0ffd7c50
 ---
 The cloud backend shall synchronise schedule entries in all supported languages.
 

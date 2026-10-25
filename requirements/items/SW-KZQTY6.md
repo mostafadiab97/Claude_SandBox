@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-RD9A4G
+    confirmed: 9168a6edb813
 ---
 The boiler interface shall switch the set point in all supported languages.
 

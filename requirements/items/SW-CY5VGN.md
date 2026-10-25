@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-E3W7YF
+    confirmed: ff8815b3b9ff
 ---
 The notification service shall calibrate humidity values using AES-256-GCM.
 

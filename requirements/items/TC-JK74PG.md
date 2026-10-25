@@ -12,8 +12,10 @@ order: 840
 links:
   - type: verifies
     target: SYS-GSMQHJ
+    confirmed: af22712052f7
   - type: verifies
     target: SW-MMRF0V
+    confirmed: 4246796f63fe
 ---
 **Objective:** verify that the relay board behaves as specified.
 

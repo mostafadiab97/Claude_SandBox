@@ -12,8 +12,10 @@ order: 1080
 links:
   - type: refines
     target: STK-CDR1Y9
+    confirmed: d9857f8b33bf
   - type: mitigates
     target: RSK-P3EG5Z
+    confirmed: 24cf773c2491
 ---
 The main PCB shall detect relay events within 200 ms.
 

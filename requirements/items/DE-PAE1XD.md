@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-CBSX5J
+    confirmed: 5c2f265bf82a
 ---
 Implemented in `src/heat/regulation_loop.c`.

@@ -12,6 +12,7 @@ order: 780
 links:
   - type: refines
     target: STK-B9Y7CM
+    confirmed: 2e83dea5db22
 ---
 The login screen shall restore the connection state below 0.5 W in standby.
 

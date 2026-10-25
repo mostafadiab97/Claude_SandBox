@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-QTE64V
+    confirmed: 27661a1b1fc7
 ---
 The telemetry pipeline shall validate the set point for up to 8 zones.
 

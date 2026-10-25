@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-7Y9J5P
+    confirmed: 8394341da33d
 ---
 The mobile app shall switch relay events with an accuracy of ±0.5 °C.
 

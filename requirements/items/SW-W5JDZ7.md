@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SW-3HHEEC
+    confirmed: 9afbfdfb0b97
 ---
 The encryption layer shall measure access tokens using AES-256-GCM.
 

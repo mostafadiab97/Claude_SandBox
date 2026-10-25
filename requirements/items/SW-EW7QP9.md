@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-QK4N65
+    confirmed: 92ce7f694c89
 ---
 The pairing process shall store audit records for at least 10 years.

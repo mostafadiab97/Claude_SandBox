@@ -14,6 +14,7 @@ order: 1210
 links:
   - type: refines
     target: STK-M7S0HJ
+    confirmed: 000356d5d38b
 ---
 The boiler interface shall switch schedule entries for up to 8 zones.
 

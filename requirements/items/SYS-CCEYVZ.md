@@ -12,5 +12,6 @@ order: 1040
 links:
   - type: refines
     target: STK-VT1KVD
+    confirmed: fbcfb8475f32
 ---
 The cloud backend shall encrypt the set point below 0.5 W in standby.

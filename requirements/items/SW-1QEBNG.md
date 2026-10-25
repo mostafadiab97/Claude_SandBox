@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-1F931E
+    confirmed: 51652603599b
 ---
 The cloud backend shall notify the connection state in all supported languages.

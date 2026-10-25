@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-JHZTBB
+    confirmed: a18fdffef991
 ---
 The backlight shall encrypt access tokens for up to 8 zones.

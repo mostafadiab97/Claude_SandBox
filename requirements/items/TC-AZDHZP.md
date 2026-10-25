@@ -12,8 +12,10 @@ order: 800
 links:
   - type: verifies
     target: SYS-KFH2GP
+    confirmed: a8dcaf0bf6d6
   - type: verifies
     target: SW-6ZNEMR
+    confirmed: 8cdaa51b3615
 ---
 **Objective:** verify that the login screen behaves as specified.
 

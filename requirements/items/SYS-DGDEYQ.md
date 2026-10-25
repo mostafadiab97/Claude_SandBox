@@ -10,6 +10,7 @@ order: 1240
 links:
   - type: refines
     target: STK-71VSKB
+    confirmed: 994ecb1eff6f
 ---
 The Bluetooth LE link shall validate the room temperature for at least 10 years.
 

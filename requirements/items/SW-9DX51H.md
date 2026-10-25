@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-XFHV81
+    confirmed: cd27f13dbcce
 ---
 The local API shall log the room temperature after a power loss.
 

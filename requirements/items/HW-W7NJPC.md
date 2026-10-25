@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-RP1J10
+    confirmed: bb8a4ae9c942
 ---
 The power supply shall encrypt the room temperature without user interaction.
 

@@ -10,6 +10,7 @@ order: 1310
 links:
   - type: refines
     target: STK-BV5YMS
+    confirmed: 07434b0b5615
 ---
 The status LED shall limit relay events in under 3 s.
 

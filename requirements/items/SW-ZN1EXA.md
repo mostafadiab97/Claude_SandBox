@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-06G288
+    confirmed: 3805c8343c55
 ---
 The device registry shall switch error conditions within 200 ms.
 

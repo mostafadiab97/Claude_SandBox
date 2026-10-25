@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-CZQB2K
+    confirmed: 3322889d2361
 ---
 The user account service shall switch relay events in all supported languages.
 

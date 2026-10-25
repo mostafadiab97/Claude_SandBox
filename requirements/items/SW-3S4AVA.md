@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-FDJDP9
+    confirmed: 3facea10cce7
 ---
 The secure boot shall measure error conditions for at least 10 years.
 

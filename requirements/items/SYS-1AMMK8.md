@@ -13,6 +13,7 @@ order: 1070
 links:
   - type: refines
     target: STK-AAZ4HV
+    confirmed: 44fc7956dbf8
 ---
 The local API shall encrypt error conditions in under 3 s.
 

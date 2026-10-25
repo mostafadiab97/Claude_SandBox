@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-TTBHSQ
+    confirmed: ac320e4fa404
 ---
 The telemetry pipeline shall store the room temperature in under 3 s.
 

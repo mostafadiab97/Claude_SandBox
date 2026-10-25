@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-JGSYAF
+    confirmed: 68f515bb8ed8
 ---
 The cloud backend shall measure humidity values using AES-256-GCM.
 

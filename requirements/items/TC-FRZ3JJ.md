@@ -14,8 +14,10 @@ order: 430
 links:
   - type: verifies
     target: SYS-ZM1TJV
+    confirmed: d30e404e164e
   - type: verifies
     target: SW-3Z17MT
+    confirmed: 9c00155f291a
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-B2837M
+    confirmed: 53bb399bd946
 ---
 The local API shall notify the set point for up to 8 zones.
 

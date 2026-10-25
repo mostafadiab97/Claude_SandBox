@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SW-3VQ09K
+    confirmed: 6cdc1359cb76
 ---
 The notification service shall calibrate access tokens at least once per minute.

@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-WNE3D0
+    confirmed: c41d4d2660da
 ---
 The over-temperature monitor shall calibrate error conditions using AES-256-GCM.
 

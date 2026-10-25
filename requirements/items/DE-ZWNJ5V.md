@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-485GTB
+    confirmed: "194297256902"
 ---
 Implemented in `src/cloud/cloud_backend.c`.

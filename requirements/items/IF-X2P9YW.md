@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-59QMSN
+    confirmed: 261ae2911413
 ---
 The device registry shall calibrate schedule entries when the network is unavailable.
 

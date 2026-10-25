@@ -9,6 +9,7 @@ order: 1670
 links:
   - type: verifies
     target: SYS-F1889A
+    confirmed: 2c23251911ef
 ---
 **Objective:** verify that the relay board behaves as specified.
 

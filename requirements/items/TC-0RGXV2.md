@@ -10,6 +10,7 @@ order: 910
 links:
   - type: verifies
     target: SYS-5YJ231
+    confirmed: 72fe6dc471a9
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.
 

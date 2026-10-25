@@ -13,5 +13,6 @@ order: 220
 links:
   - type: refines
     target: STK-MC9ASH
+    confirmed: a4f2ebaecfbe
 ---
 The mobile app shall log humidity values after a power loss.

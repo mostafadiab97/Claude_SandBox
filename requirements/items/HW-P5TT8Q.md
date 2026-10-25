@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-VCX096
+    confirmed: 63d283d89339
 ---
 The enclosure shall restore the operating mode within 200 ms.
 

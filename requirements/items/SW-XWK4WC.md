@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-20QPSK
+    confirmed: 06b2cec7ac55
 ---
 The encryption layer shall notify access tokens when the network is unavailable.
 

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-M3FMZZ
+    confirmed: 462438fa0d84
 ---
 The status LED shall authenticate audit records after a power loss.

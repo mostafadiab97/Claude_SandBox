@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-TS4REE
+    confirmed: 2fe469d1aec2
 ---
 The enclosure shall report humidity values with an accuracy of ±0.5 °C.
 

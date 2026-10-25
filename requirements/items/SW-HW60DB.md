@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-GGV7F0
+    confirmed: aba31ae0874e
 ---
 The login screen shall store the set point after a power loss.
 

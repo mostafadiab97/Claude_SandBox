@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-933SE3
+    confirmed: 87639e58a5eb
 ---
 The status LED shall switch schedule entries in under 3 s.
 

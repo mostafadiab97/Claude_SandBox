@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-7ME2MH
+    confirmed: 212fa2a7c66a
 ---
 The heat pump driver shall authenticate relay events after a power loss.
 

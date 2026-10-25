@@ -13,6 +13,7 @@ order: 170
 links:
   - type: refines
     target: STK-QN5QGR
+    confirmed: ae0f58e089a1
 ---
 The user account service shall switch relay events after a power loss.
 

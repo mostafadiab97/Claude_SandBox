@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-ZDTV2N
+    confirmed: 57a8c3860cec
 ---
 The watchdog shall report error conditions after a power loss.

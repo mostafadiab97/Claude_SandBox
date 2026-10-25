@@ -10,6 +10,7 @@ order: 1640
 links:
   - type: refines
     target: STK-AAZ4HV
+    confirmed: 44fc7956dbf8
 ---
 The local API shall calibrate safety limits for up to 8 zones.
 

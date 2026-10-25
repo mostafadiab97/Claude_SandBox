@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-YW7JJY
+    confirmed: eb4dd1b8dfac
 ---
 The schedule editor shall encrypt the operating mode without user interaction.
 

@@ -12,6 +12,7 @@ order: 1240
 links:
   - type: verifies
     target: SYS-XRXTDN
+    confirmed: ad932a195f5d
 ---
 **Objective:** verify that the boiler interface behaves as specified.
 

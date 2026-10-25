@@ -10,6 +10,7 @@ order: 1240
 links:
   - type: verifies
     target: SYS-W0W7D4
+    confirmed: 4d7252a936d8
 ---
 **Objective:** verify that the power supply behaves as specified.
 

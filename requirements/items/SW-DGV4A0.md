@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-AG7C1J
+    confirmed: cee47aab4775
 ---
 The Zigbee radio shall log safety limits below 0.5 W in standby.

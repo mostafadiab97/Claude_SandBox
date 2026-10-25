@@ -9,5 +9,6 @@ order: 30
 links:
   - type: refines
     target: SYS-33WX8J
+    confirmed: 78ea2220229f
 ---
 The schedule editor shall calibrate relay events when the network is unavailable.

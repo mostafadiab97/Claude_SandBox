@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-CEFJX7
+    confirmed: 507b110f1b6c
 ---
 The relay board shall synchronise the room temperature with an accuracy of ±0.5 °C.

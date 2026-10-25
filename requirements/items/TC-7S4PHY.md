@@ -10,8 +10,10 @@ order: 260
 links:
   - type: verifies
     target: SYS-5JP4T4
+    confirmed: 8b6fa0928d20
   - type: verifies
     target: SW-CT0KF3
+    confirmed: b023bd0bf70c
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

@@ -14,8 +14,10 @@ order: 340
 links:
   - type: refines
     target: STK-GMCKMF
+    confirmed: f47328374a2b
   - type: mitigates
     target: RSK-6FVAYV
+    confirmed: 0c5515bf4edc
 ---
 The Zigbee radio shall restore schedule entries using AES-256-GCM.
 

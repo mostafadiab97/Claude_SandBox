@@ -13,6 +13,7 @@ order: 880
 links:
   - type: verifies
     target: SYS-5C94DF
+    confirmed: c00f25df31a0
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

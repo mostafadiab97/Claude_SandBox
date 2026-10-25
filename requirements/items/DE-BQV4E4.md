@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-DK6ZZF
+    confirmed: 3b32dc108d16
 ---
 Implemented in `src/heat/boiler_interface.c`.

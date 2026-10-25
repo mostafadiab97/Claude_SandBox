@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-6B5FVX
+    confirmed: 9f166b9bcfdd
 ---
 The touch display shall log safety limits at least once per minute.
 

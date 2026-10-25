@@ -12,6 +12,7 @@ order: 1420
 links:
   - type: verifies
     target: SYS-WNQGR6
+    confirmed: 1dc3d7c9d30a
 ---
 **Objective:** verify that the device behaves as specified.
 

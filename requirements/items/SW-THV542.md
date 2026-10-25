@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-B92MZT
+    confirmed: 4ea3d699c52a
 ---
 The tamper detection shall log safety limits in under 3 s.
 

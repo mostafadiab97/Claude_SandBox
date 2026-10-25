@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-2QZKSN
+    confirmed: c4664feed0e6
 ---
 The telemetry pipeline shall validate schedule entries for up to 8 zones.
 

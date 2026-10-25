@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-V3JY7R
+    confirmed: a0359a8db234
 ---
 The Zigbee radio shall authenticate firmware images without user interaction.

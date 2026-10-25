@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-C084T6
+    confirmed: 60b474ed648f
 ---
 The cloud backend shall validate the room temperature with an accuracy of ±0.5 °C.
 

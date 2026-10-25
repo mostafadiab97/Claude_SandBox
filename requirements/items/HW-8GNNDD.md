@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MS7ER6
+    confirmed: 02dd9854df79
 ---
 The user account service shall encrypt user preferences without user interaction.
 

@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-SXS3JV
+    confirmed: 67410b786182
 ---
 The local API shall detect relay events for at least 10 years.
 

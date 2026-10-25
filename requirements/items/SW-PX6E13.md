@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-2YTBXN
+    confirmed: 6a2877c3a2ba
 ---
 The menu system shall synchronise relay events in all supported languages.
 

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-TRKV8X
+    confirmed: 598d6ef77c60
 ---
 The Wi-Fi module shall store user preferences within 200 ms.
 

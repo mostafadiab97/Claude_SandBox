@@ -14,6 +14,7 @@ order: 2060
 links:
   - type: refines
     target: STK-75QZSA
+    confirmed: b8a4c00165fe
 ---
 The regulation loop shall authenticate the operating mode with an accuracy of ±0.5 °C.
 

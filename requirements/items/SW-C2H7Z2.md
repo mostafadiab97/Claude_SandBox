@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-34QNYE
+    confirmed: f6e72f885951
 ---
 The Bluetooth LE link shall limit user preferences with an accuracy of ±0.5 °C.
 

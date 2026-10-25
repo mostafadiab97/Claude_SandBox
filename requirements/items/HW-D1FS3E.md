@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-2T9P1T
+    confirmed: 67011a28308d
 ---
 The Zigbee radio shall display the connection state at least once per minute.
 

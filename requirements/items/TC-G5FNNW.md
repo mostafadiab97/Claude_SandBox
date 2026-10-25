@@ -13,6 +13,7 @@ order: 660
 links:
   - type: verifies
     target: SYS-2VEPK9
+    confirmed: a7e58f20b1a5
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

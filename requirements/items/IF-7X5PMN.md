@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-J8A4BW
+    confirmed: b28f6844e565
 ---
 The secure boot shall authenticate safety limits after a power loss.
 

@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-YAEXW8
+    confirmed: c99fc14e0172
 ---
 The menu system shall calibrate energy consumption without user interaction.

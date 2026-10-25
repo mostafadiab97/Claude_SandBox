@@ -13,6 +13,7 @@ order: 520
 links:
   - type: refines
     target: STK-HH6ZNR
+    confirmed: 8a0ce5d354df
 ---
 The menu system shall notify firmware images after a power loss.
 

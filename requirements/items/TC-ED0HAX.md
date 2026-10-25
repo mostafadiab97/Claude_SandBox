@@ -10,6 +10,7 @@ order: 460
 links:
   - type: verifies
     target: SYS-JF3REC
+    confirmed: c2bec4a69526
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

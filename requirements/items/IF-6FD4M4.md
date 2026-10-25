@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-XQFY1R
+    confirmed: 3779f800690e
 ---
 The login screen shall report sensor readings without user interaction.

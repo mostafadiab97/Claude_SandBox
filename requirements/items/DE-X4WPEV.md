@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-R97F3W
+    confirmed: 7d709fe8da73
 ---
 Implemented in `src/safe/tamper_detection.c`.

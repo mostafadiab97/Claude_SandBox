@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-E89BE2
+    confirmed: b9d5c9b75672
 ---
 The menu system shall log access tokens for up to 8 zones.
 

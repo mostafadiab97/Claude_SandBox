@@ -10,8 +10,10 @@ order: 260
 links:
   - type: verifies
     target: SYS-M3FMZZ
+    confirmed: 462438fa0d84
   - type: verifies
     target: SW-5HV8ZB
+    confirmed: 3d295cfeb105
 ---
 **Objective:** verify that the status LED behaves as specified.
 

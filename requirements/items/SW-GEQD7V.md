@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-174FD0
+    confirmed: 7e0f1c68e430
 ---
 The boiler interface shall measure the connection state with an accuracy of ±0.5 °C.
 

@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-GYKHZH
+    confirmed: 315e5e474525
 ---
 The mobile app shall notify the room temperature in all supported languages.

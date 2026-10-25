@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-CB7E79
+    confirmed: 1e8a0199df87
 ---
 The power supply shall limit access tokens for at least 10 years.
 

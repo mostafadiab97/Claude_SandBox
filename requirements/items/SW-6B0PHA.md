@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-72TJ12
+    confirmed: f925a1940bd6
 ---
 The login screen shall calibrate the connection state in all supported languages.
 

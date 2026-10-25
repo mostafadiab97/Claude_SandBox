@@ -10,6 +10,7 @@ order: 210
 links:
   - type: verifies
     target: SYS-CABT71
+    confirmed: de618562979c
 ---
 **Objective:** verify that the rotary knob behaves as specified.
 

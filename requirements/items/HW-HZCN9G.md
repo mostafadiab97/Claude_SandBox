@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-RX90D9
+    confirmed: b0d94cbcb216
 ---
 The tamper detection shall synchronise firmware images at least once per minute.
 

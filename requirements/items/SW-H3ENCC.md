@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-Z5QJ0Z
+    confirmed: 17bd9b95aa62
 ---
 The mobile app shall restore the connection state when the network is unavailable.
 

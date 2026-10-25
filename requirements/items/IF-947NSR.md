@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-Y0VFQW
+    confirmed: ac4f9fc85c01
 ---
 The heating controller shall log the set point without user interaction.
 

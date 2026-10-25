@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-G8M4SE
+    confirmed: df8c85150795
 ---
 The device registry shall calibrate energy consumption without user interaction.
 

@@ -14,8 +14,10 @@ order: 140
 links:
   - type: verifies
     target: SYS-KBPFCV
+    confirmed: 659b9683cc27
   - type: verifies
     target: SW-QGJY9V
+    confirmed: 503c8c1c1a7f
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

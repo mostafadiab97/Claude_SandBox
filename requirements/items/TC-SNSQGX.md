@@ -13,6 +13,7 @@ order: 1060
 links:
   - type: verifies
     target: SYS-4A9C1C
+    confirmed: 7e8a730cf0b5
 ---
 **Objective:** verify that the touch display behaves as specified.
 

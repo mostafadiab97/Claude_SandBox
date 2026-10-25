@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: SYS-RAHT6W
+    confirmed: 3ed84532df89
 ---
 The main PCB shall detect sensor readings for at least 10 years.

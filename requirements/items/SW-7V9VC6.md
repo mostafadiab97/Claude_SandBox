@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-3PT4BJ
+    confirmed: 0a43238dc6c3
 ---
 The touch display shall display the set point in under 3 s.
 

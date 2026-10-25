@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-BHD8S6
+    confirmed: b4b9539a5d88
 ---
 The encryption layer shall log the operating mode with an accuracy of ±0.5 °C.
 

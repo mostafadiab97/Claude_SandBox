@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-EVBYJ7
+    confirmed: 11120bfddd2b
 ---
 The login screen shall synchronise the set point in under 3 s.
 

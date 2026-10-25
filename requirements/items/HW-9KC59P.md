@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-ZHJT86
+    confirmed: d2ebf70532a7
 ---
 The power supply shall notify the room temperature within 200 ms.
 

@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-E22H2H
+    confirmed: ee4438e7f317
 ---
 The cloud backend shall restore the room temperature within 200 ms.
 

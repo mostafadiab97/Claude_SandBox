@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-JAKPTT
+    confirmed: c8ec22696e3b
 ---
 The device registry shall authenticate access tokens within 200 ms.
 

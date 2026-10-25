@@ -12,6 +12,7 @@ order: 570
 links:
   - type: verifies
     target: SYS-2TKSSR
+    confirmed: 7b7bf03ff065
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.
 

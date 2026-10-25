@@ -14,5 +14,6 @@ order: 30
 links:
   - type: refines
     target: SYS-F5RTF4
+    confirmed: 72eb3d42eaa8
 ---
 The heating controller shall log firmware images using AES-256-GCM.

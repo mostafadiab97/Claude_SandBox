@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7AKQK2
+    confirmed: 0a4c44bfead6
 ---
 The boiler interface shall restore access tokens for up to 8 zones.
 

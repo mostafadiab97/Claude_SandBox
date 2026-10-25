@@ -14,6 +14,7 @@ order: 1470
 links:
   - type: refines
     target: STK-VT1KVD
+    confirmed: fbcfb8475f32
 ---
 The cloud backend shall store the room temperature at least once per minute.
 

@@ -13,7 +13,9 @@ order: 60
 links:
   - type: refines
     target: STK-2STGXE
+    confirmed: c77fe61daf4b
   - type: mitigates
     target: RSK-5AER0Q
+    confirmed: 7c9168219772
 ---
 The relay board shall switch the operating mode below 0.5 W in standby.

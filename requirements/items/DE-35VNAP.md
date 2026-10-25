@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-2WMVD4
+    confirmed: 921a430d29d9
 ---
 Implemented in `src/heat/heating_controller.c`.

@@ -11,6 +11,7 @@ order: 950
 links:
   - type: verifies
     target: SYS-XZE9DK
+    confirmed: 7345ac77c8fe
 ---
 **Objective:** verify that the user account service behaves as specified.
 

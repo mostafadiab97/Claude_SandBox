@@ -10,6 +10,7 @@ order: 1840
 links:
   - type: refines
     target: STK-1CAAXP
+    confirmed: a853df6f0866
 ---
 The telemetry pipeline shall notify relay events for up to 8 zones.
 

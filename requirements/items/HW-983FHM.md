@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-0HAZNH
+    confirmed: 8fef3f917b7b
 ---
 The cloud backend shall report sensor readings using AES-256-GCM.
 

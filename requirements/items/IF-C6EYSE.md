@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-JWQ89P
+    confirmed: 8d8f328abb5c
 ---
 The Bluetooth LE link shall detect safety limits in all supported languages.

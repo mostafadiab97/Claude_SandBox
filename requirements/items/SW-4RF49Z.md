@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-M0XMTJ
+    confirmed: 265474e3470a
 ---
 The over-temperature monitor shall restore audit records in all supported languages.
 

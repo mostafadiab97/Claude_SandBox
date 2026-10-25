@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-EBZFGS
+    confirmed: 9502014b4219
 ---
 The regulation loop shall display error conditions without user interaction.
 

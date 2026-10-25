@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-Q3NWSK
+    confirmed: 98491b75e1ce
 ---
 The power supply shall display the room temperature with an accuracy of ±0.5 °C.
 

@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-JR1SW0
+    confirmed: 509dfc30f5e8
 ---
 The relay board shall log access tokens below 0.5 W in standby.

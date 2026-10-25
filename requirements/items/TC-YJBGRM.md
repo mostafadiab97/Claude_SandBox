@@ -10,6 +10,7 @@ order: 620
 links:
   - type: verifies
     target: SYS-7AKQK2
+    confirmed: 0a4c44bfead6
 ---
 **Objective:** verify that the boiler interface behaves as specified.
 

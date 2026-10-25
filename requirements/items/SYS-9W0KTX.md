@@ -10,6 +10,7 @@ order: 230
 links:
   - type: refines
     target: STK-22X165
+    confirmed: 0023c9af8e7d
 ---
 The Bluetooth LE link shall validate relay events within 200 ms.
 

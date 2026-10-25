@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-DVK0ST
+    confirmed: "123689018215"
 ---
 The menu system shall restore the room temperature at least once per minute.

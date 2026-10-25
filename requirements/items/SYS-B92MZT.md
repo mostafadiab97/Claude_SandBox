@@ -12,6 +12,7 @@ order: 1840
 links:
   - type: refines
     target: STK-G2H1B9
+    confirmed: fce33b342585
 ---
 The tamper detection shall encrypt humidity values for up to 8 zones.
 

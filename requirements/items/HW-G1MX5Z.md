@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-JRYFKW
+    confirmed: eaf4dadef412
 ---
 The power supply shall synchronise the room temperature below 0.5 W in standby.

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-BPXBWB
+    confirmed: c8b7a59a65ec
 ---
 The over-temperature monitor shall restore safety limits in all supported languages.
 

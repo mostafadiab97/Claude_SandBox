@@ -10,8 +10,10 @@ order: 1170
 links:
   - type: verifies
     target: SYS-CZF40M
+    confirmed: 463cc60a6f2f
   - type: verifies
     target: SW-NENQGK
+    confirmed: 3b6689097f0d
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

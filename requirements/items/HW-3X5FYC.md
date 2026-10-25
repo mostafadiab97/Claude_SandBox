@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: HW-5H4VH3
+    confirmed: 2d399e40b7d7
 ---
 The device registry shall report sensor readings after a power loss.
 

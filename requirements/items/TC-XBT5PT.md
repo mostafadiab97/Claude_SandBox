@@ -10,8 +10,10 @@ order: 380
 links:
   - type: verifies
     target: SYS-9WHVE0
+    confirmed: b19b26310755
   - type: verifies
     target: SW-KBEPSC
+    confirmed: be1f80f82e4f
 ---
 **Objective:** verify that the notification service behaves as specified.
 

@@ -14,5 +14,6 @@ order: 640
 links:
   - type: refines
     target: STK-SM9B7Z
+    confirmed: 44235e2789f0
 ---
 The secure boot shall detect the connection state at least once per minute.

@@ -13,6 +13,7 @@ order: 1460
 links:
   - type: refines
     target: STK-ND3D08
+    confirmed: df91c673f737
 ---
 The login screen shall calibrate user preferences in under 3 s.
 

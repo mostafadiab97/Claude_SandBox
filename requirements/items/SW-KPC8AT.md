@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-KMXB94
+    confirmed: ef5919f87358
 ---
 The pairing process shall measure energy consumption with an accuracy of ±0.5 °C.

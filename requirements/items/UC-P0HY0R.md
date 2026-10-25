@@ -12,6 +12,7 @@ order: 170
 links:
   - type: relates-to
     target: STK-KPV71Q
+    confirmed: 10d9c216aea2
 ---
 **Actor:** home owner
 

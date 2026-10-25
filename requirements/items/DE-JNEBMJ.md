@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-AE508V
+    confirmed: b2e9d897dea3
 ---
 Implemented in `src/conn/pairing_process.c`.

@@ -13,6 +13,7 @@ order: 40
 links:
   - type: verifies
     target: SYS-8HSDWQ
+    confirmed: 410ee1c6bb84
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

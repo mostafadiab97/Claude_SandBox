@@ -10,6 +10,7 @@ order: 900
 links:
   - type: refines
     target: STK-GMCKMF
+    confirmed: f47328374a2b
 ---
 The Zigbee radio shall validate safety limits in under 3 s.
 

@@ -10,6 +10,7 @@ order: 1160
 links:
   - type: verifies
     target: SYS-BJ0Q20
+    confirmed: 5bd6f55bad83
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

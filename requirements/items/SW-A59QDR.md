@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-SZZCD2
+    confirmed: 87a5a0a3990a
 ---
 The menu system shall validate the set point with an accuracy of ±0.5 °C.

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-WQRW57
+    confirmed: a077b95b29b8
 ---
 The over-temperature monitor shall restore the room temperature for up to 8 zones.
 

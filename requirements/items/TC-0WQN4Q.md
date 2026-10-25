@@ -14,6 +14,7 @@ order: 1180
 links:
   - type: verifies
     target: SYS-SSBZ7T
+    confirmed: 4a88e60caee9
 ---
 **Objective:** verify that the rotary knob behaves as specified.
 

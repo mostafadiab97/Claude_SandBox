@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-HYQA89
+    confirmed: 02764287a3b2
 ---
 The user account service shall limit the connection state for at least 10 years.
 

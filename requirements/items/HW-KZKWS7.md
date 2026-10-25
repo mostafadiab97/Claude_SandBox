@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-TKG0RV
+    confirmed: e777aa6cb619
 ---
 The backlight shall detect safety limits after a power loss.

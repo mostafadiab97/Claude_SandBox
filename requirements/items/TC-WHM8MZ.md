@@ -10,6 +10,7 @@ order: 160
 links:
   - type: verifies
     target: SYS-79RQTT
+    confirmed: 3ba90f93afa0
 ---
 **Objective:** verify that the schedule editor behaves as specified.
 

@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-JF6ZTH
+    confirmed: 75977e61ed0b
 ---
 The local API shall display relay events at least once per minute.
 

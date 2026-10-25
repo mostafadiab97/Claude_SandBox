@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-G9BVND
+    confirmed: 1ecbcf641074
 ---
 The secure boot shall display the room temperature without user interaction.
 

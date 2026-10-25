@@ -10,6 +10,7 @@ order: 1240
 links:
   - type: verifies
     target: SYS-D7FGDK
+    confirmed: bf329a941699
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

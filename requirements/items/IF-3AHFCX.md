@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-9BFVNF
+    confirmed: 36211779cc51
 ---
 The main PCB shall validate the connection state with an accuracy of ±0.5 °C.
 

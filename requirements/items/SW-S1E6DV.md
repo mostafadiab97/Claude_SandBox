@@ -9,6 +9,7 @@ order: 40
 links:
   - type: refines
     target: SYS-J8Q01T
+    confirmed: d85270700def
 ---
 The zone valve shall store the connection state with an accuracy of ±0.5 °C.
 

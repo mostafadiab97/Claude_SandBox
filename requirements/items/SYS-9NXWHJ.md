@@ -10,7 +10,9 @@ order: 360
 links:
   - type: refines
     target: STK-XSQC89
+    confirmed: 66c246d6b1dc
   - type: mitigates
     target: RSK-WMRVBA
+    confirmed: fb726ed12a32
 ---
 The secure boot shall calibrate firmware images with an accuracy of ±0.5 °C.

@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-F5DVP4
+    confirmed: fd7bc4fcdfea
 ---
 The cloud backend shall notify audit records for at least 10 years.
 

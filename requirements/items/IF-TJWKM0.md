@@ -11,5 +11,6 @@ order: 30
 links:
   - type: refines
     target: SYS-34B7MH
+    confirmed: 9aafb86ae7fb
 ---
 The menu system shall display access tokens with an accuracy of ±0.5 °C.

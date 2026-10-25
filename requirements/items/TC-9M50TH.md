@@ -10,6 +10,7 @@ order: 1710
 links:
   - type: verifies
     target: SYS-JZGGVQ
+    confirmed: 2a9e2d07c950
 ---
 **Objective:** verify that the device behaves as specified.
 

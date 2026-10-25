@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-8SP07G
+    confirmed: 3e9f0b15772c
 ---
 The boiler interface shall report the connection state after a power loss.
 

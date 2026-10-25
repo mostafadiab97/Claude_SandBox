@@ -11,6 +11,7 @@ order: 40
 links:
   - type: refines
     target: SYS-DVK0ST
+    confirmed: "123689018215"
 ---
 The menu system shall validate error conditions with an accuracy of ±0.5 °C.
 

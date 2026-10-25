@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: IF-F24DG4
+    confirmed: 30138f872102
 ---
 The local API shall synchronise user preferences within 200 ms.

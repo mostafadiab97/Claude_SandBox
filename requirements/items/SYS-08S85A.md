@@ -10,8 +10,10 @@ order: 2020
 links:
   - type: refines
     target: STK-Y5PMTC
+    confirmed: 047439fb0db8
   - type: mitigates
     target: RSK-Y8NNRK
+    confirmed: 6f2b17958ae9
 ---
 The device registry shall measure sensor readings after a power loss.
 

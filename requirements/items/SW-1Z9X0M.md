@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-CNV2JW
+    confirmed: 09c297344cc8
 ---
 The schedule editor shall store the operating mode for up to 8 zones.
 

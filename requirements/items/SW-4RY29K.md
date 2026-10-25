@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-PERCNX
+    confirmed: 6bc9ba229103
 ---
 The login screen shall log the operating mode in under 3 s.

@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-FHYWXP
+    confirmed: dcc67b1f884c
 ---
 The power supply shall calibrate the connection state without user interaction.
 

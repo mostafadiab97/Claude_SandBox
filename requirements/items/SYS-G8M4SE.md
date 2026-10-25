@@ -9,6 +9,7 @@ order: 670
 links:
   - type: refines
     target: STK-QN5QGR
+    confirmed: ae0f58e089a1
 ---
 The device registry shall calibrate humidity values at least once per minute.
 

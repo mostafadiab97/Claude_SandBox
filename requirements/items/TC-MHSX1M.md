@@ -13,8 +13,10 @@ order: 990
 links:
   - type: verifies
     target: SYS-C1KANF
+    confirmed: c1311b4a3390
   - type: verifies
     target: SW-KBQ6EC
+    confirmed: 1aed1bac3759
 ---
 **Objective:** verify that the regulation loop behaves as specified.
 

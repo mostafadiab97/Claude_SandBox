@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-66QHTN
+    confirmed: 65154f9b889c
 ---
 The local API shall report sensor readings without user interaction.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-ZR83VT
+    confirmed: b75e89306ac1
 ---
 The zone valve shall synchronise safety limits for at least 10 years.
 

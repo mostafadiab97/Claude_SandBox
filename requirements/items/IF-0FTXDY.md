@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MNWAKG
+    confirmed: 979db4a6f2e3
 ---
 The OTA server shall encrypt the set point at least once per minute.
 

@@ -10,6 +10,7 @@ order: 1420
 links:
   - type: verifies
     target: SYS-JSEPSH
+    confirmed: 07bbcfe4ef37
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

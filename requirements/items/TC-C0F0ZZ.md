@@ -10,6 +10,7 @@ order: 1410
 links:
   - type: verifies
     target: SYS-AZWQYS
+    confirmed: 00d3546fe417
 ---
 **Objective:** verify that the device behaves as specified.
 

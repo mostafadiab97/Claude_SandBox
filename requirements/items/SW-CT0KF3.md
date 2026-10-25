@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-71EHW5
+    confirmed: 79a9807170d2
 ---
 The device registry shall synchronise the operating mode after a power loss.
 

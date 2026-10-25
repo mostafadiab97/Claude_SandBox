@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-S18QCP
+    confirmed: 73e58aae87f1
 ---
 The touch display shall store audit records with an accuracy of ±0.5 °C.

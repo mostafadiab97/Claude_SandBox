@@ -10,6 +10,7 @@ order: 40
 links:
   - type: verifies
     target: SYS-2B13NX
+    confirmed: 5fda8f4cc9f5
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

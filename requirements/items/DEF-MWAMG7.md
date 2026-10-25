@@ -10,8 +10,10 @@ order: 40
 links:
   - type: relates-to
     target: TC-VJM4H0
+    confirmed: 1c92eef6b4af
   - type: relates-to
     target: SYS-1NBRAQ
+    confirmed: e3d201ead13c
 ---
 Found during regression testing of build 2.5.18.
 

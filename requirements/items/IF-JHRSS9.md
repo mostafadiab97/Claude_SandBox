@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-1EZV5G
+    confirmed: 3dec0cd02007
 ---
 The boiler interface shall report sensor readings at least once per minute.
 

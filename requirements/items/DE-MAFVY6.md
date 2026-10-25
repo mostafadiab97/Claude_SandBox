@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-FYZE13
+    confirmed: 7158a3ea78f4
 ---
 Implemented in `src/heat/regulation_loop.c`.

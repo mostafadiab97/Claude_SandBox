@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-20KKJR
+    confirmed: 054a822ae85d
 ---
 Implemented in `src/cloud/device_registry.c`.

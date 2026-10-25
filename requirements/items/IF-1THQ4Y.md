@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SYS-BGEM84
+    confirmed: 7c077fec9862
 ---
 The tamper detection shall report the set point when the network is unavailable.

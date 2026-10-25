@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-JDST6C
+    confirmed: 7ea47e8c8d56
 ---
 The Bluetooth LE link shall limit the operating mode using AES-256-GCM.

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-A7YDK8
+    confirmed: 7e2bc805b2de
 ---
 The pairing process shall synchronise humidity values using AES-256-GCM.

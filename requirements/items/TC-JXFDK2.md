@@ -10,6 +10,7 @@ order: 740
 links:
   - type: verifies
     target: SYS-558WVB
+    confirmed: 244554b45f3a
 ---
 **Objective:** verify that the device behaves as specified.
 

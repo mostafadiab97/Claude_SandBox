@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XZE9DK
+    confirmed: 7345ac77c8fe
 ---
 The user account service shall limit sensor readings at least once per minute.
 

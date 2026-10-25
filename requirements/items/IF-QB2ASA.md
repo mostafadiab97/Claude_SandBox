@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-G4A80V
+    confirmed: e78d00f3afd9
 ---
 The schedule editor shall limit firmware images using AES-256-GCM.
 

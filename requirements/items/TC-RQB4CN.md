@@ -9,6 +9,7 @@ order: 80
 links:
   - type: verifies
     target: SYS-YHR5KF
+    confirmed: 660a8488c508
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

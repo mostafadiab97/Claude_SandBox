@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-XBES39
+    confirmed: bc98487a5cdc
 ---
 The pairing process shall encrypt access tokens when the network is unavailable.

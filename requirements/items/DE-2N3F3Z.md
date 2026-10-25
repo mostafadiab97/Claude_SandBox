@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-G8JVAK
+    confirmed: 069c0638481f
 ---
 Implemented in `src/ui/touch_display.c`.

@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ZG2A7P
+    confirmed: dd3e6f066e4e
 ---
 The cloud backend shall log schedule entries within 200 ms.
 

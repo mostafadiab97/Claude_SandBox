@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-NW9FV6
+    confirmed: 024d5054444b
 ---
 The Bluetooth LE link shall store audit records when the network is unavailable.
 

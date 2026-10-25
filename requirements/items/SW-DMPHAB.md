@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-AC34S0
+    confirmed: 35daf5402be7
 ---
 The telemetry pipeline shall store energy consumption at least once per minute.
 

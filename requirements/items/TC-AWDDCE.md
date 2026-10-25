@@ -13,6 +13,7 @@ order: 860
 links:
   - type: verifies
     target: SYS-XKACBR
+    confirmed: aaffd1e53d20
 ---
 **Objective:** verify that the device behaves as specified.
 

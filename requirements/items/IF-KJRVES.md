@@ -8,6 +8,7 @@ order: 40
 links:
   - type: refines
     target: SYS-7Q4FYP
+    confirmed: af798c8aaa0c
 ---
 The backlight shall notify schedule entries within 200 ms.
 

@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-T6WXDY
+    confirmed: e7cb857d34f0
 ---
 The regulation loop shall detect user preferences in all supported languages.

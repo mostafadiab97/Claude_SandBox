@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-X39PY1
+    confirmed: faeb181df037
 ---
 The heating controller shall limit the operating mode at least once per minute.
 

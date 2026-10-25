@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-V06HGN
+    confirmed: 4d613392a0ae
 ---
 The notification service shall switch schedule entries with an accuracy of ±0.5 °C.
 

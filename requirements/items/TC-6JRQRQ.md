@@ -12,6 +12,7 @@ order: 930
 links:
   - type: verifies
     target: SYS-4X1SRM
+    confirmed: bc96873ba6c1
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.
 

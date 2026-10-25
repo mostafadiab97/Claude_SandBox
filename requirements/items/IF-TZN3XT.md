@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-47V3JP
+    confirmed: db2ec1ff8599
 ---
 The over-temperature monitor shall detect user preferences when the network is unavailable.

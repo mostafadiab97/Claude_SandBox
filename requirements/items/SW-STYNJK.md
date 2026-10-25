@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-568D4J
+    confirmed: 57968fcc7d39
 ---
 The pairing process shall calibrate firmware images below 0.5 W in standby.
 

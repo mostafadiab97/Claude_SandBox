@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-3W1S3B
+    confirmed: a83839a61248
 ---
 The enclosure shall authenticate access tokens below 0.5 W in standby.
 

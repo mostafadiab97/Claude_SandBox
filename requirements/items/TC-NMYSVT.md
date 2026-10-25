@@ -12,6 +12,7 @@ order: 1450
 links:
   - type: verifies
     target: SYS-2RJ62J
+    confirmed: 86b1e408d2e0
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-H265S4
+    confirmed: 35dc6bc96bb9
 ---
 The menu system shall log schedule entries using AES-256-GCM.
 

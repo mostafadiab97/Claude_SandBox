@@ -10,6 +10,7 @@ order: 2070
 links:
   - type: verifies
     target: SYS-WFQYSE
+    confirmed: 5a5dbeacc343
 ---
 **Objective:** verify that the device behaves as specified.
 

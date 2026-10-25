@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-N2ESSA
+    confirmed: ef2d3be43b21
 ---
 Implemented in `src/ui/backlight.c`.

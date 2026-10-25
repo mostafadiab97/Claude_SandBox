@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QK55NH
+    confirmed: 3934c54c3f62
 ---
 The mobile app shall switch firmware images when the network is unavailable.
 

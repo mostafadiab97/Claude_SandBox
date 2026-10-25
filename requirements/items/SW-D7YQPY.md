@@ -11,5 +11,6 @@ order: 30
 links:
   - type: refines
     target: SYS-S2EZJF
+    confirmed: b0a3b18f1cfd
 ---
 The home dashboard shall calibrate energy consumption within 200 ms.

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-KRN3ZP
+    confirmed: 85ba3b9261c1
 ---
 The over-temperature monitor shall synchronise the room temperature after a power loss.

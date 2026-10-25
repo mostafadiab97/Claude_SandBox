@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-QKYFPZ
+    confirmed: 091562fbb4ff
 ---
 The main PCB shall encrypt the set point after a power loss.
 

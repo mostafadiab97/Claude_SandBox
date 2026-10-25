@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-M72RBF
+    confirmed: 9dbd45a382a2
 ---
 The home dashboard shall authenticate user preferences when the network is unavailable.
 

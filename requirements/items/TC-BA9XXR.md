@@ -10,8 +10,10 @@ order: 750
 links:
   - type: verifies
     target: SYS-C2GRZK
+    confirmed: 83098b4942a6
   - type: verifies
     target: SW-XP397S
+    confirmed: 9014314d84cc
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

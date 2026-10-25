@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-J86K99
+    confirmed: cd639bbeedd1
 ---
 The device registry shall encrypt the connection state using AES-256-GCM.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-FFTATD
+    confirmed: 95a8578d9835
 ---
 The main PCB shall switch access tokens after a power loss.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-XSBP92
+    confirmed: 5a40204d8004
 ---
 The power supply shall display safety limits in all supported languages.
 

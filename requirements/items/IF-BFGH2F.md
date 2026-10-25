@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-X1DW4B
+    confirmed: ac324fd128ba
 ---
 The pairing process shall restore the room temperature for at least 10 years.
 

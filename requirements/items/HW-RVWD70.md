@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-3PN7YS
+    confirmed: 54565cf8f7c8
 ---
 The main PCB shall encrypt relay events below 0.5 W in standby.

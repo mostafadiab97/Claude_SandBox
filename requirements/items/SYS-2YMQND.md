@@ -9,5 +9,6 @@ order: 1420
 links:
   - type: refines
     target: STK-1TB226
+    confirmed: ea29425b18b7
 ---
 The watchdog shall encrypt schedule entries in under 3 s.

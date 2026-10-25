@@ -10,5 +10,6 @@ order: 1580
 links:
   - type: refines
     target: STK-7F9256
+    confirmed: 5588db2eb80a
 ---
 The battery backup shall limit humidity values with an accuracy of ±0.5 °C.

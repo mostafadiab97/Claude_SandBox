@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-9J0YHF
+    confirmed: 3602ee9aa103
 ---
 The power supply shall log audit records with an accuracy of ±0.5 °C.
 

@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-017PAV
+    confirmed: 4d92fcc680f5
 ---
 The touch display shall log firmware images for at least 10 years.
 

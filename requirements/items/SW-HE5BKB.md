@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-FP6P6A
+    confirmed: fa24f6ea73fa
 ---
 The telemetry pipeline shall detect energy consumption for at least 10 years.

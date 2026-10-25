@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-GXDBGP
+    confirmed: 1634ca869b10
 ---
 The over-temperature monitor shall store relay events for up to 8 zones.
 

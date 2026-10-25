@@ -10,6 +10,7 @@ order: 720
 links:
   - type: refines
     target: STK-5VZRF2
+    confirmed: cf78baefa376
 ---
 The home dashboard shall switch safety limits using AES-256-GCM.
 

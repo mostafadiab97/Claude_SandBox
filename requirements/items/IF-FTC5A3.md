@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-VDRW9V
+    confirmed: 0ac53f80c216
 ---
 The relay board shall encrypt user preferences without user interaction.
 

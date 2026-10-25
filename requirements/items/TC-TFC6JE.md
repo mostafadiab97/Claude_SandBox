@@ -10,6 +10,7 @@ order: 610
 links:
   - type: verifies
     target: SYS-7FWKHS
+    confirmed: d6b178d90ee1
 ---
 **Objective:** verify that the device registry behaves as specified.
 

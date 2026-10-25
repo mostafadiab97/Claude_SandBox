@@ -12,6 +12,7 @@ order: 980
 links:
   - type: verifies
     target: SYS-ZK10Z4
+    confirmed: 0f09ad7fec21
 ---
 **Objective:** verify that the device behaves as specified.
 

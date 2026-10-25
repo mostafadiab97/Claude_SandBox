@@ -12,6 +12,7 @@ order: 1020
 links:
   - type: verifies
     target: SYS-2GY8ED
+    confirmed: af1bc2a80b1d
 ---
 **Objective:** verify that the zone valve behaves as specified.
 

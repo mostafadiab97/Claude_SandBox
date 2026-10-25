@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MXKR6Y
+    confirmed: 93ee1defe30a
 ---
 The zone valve shall switch sensor readings using AES-256-GCM.
 

@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-6Y9BHS
+    confirmed: cb3485657a51
 ---
 The backlight shall encrypt the connection state in all supported languages.
 

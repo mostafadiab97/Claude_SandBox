@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-K1MTS3
+    confirmed: 1fdf729d50c7
 ---
 The encryption layer shall limit error conditions with an accuracy of ±0.5 °C.
 

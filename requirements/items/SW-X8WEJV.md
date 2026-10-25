@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-NNMYTF
+    confirmed: e726f1ea8987
 ---
 The heat pump driver shall display user preferences for at least 10 years.
 

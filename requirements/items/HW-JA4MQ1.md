@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-BPCY60
+    confirmed: a39478942b51
 ---
 The Zigbee radio shall validate energy consumption without user interaction.
 

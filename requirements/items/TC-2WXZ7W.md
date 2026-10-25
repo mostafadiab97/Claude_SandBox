@@ -13,8 +13,10 @@ order: 10
 links:
   - type: verifies
     target: SYS-SGGFKV
+    confirmed: 04cafacc256c
   - type: verifies
     target: SW-HTZ4P2
+    confirmed: f22ec30444a4
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

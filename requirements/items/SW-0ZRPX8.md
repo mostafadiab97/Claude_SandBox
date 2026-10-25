@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-WPKDG7
+    confirmed: 871bc601285c
 ---
 The watchdog shall measure relay events after a power loss.
 

@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XVVWVF
+    confirmed: f37bc3493af5
 ---
 The OTA server shall notify the set point in under 3 s.
 

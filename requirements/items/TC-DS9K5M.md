@@ -10,6 +10,7 @@ order: 790
 links:
   - type: verifies
     target: SYS-AH9G64
+    confirmed: e3199b24d9a9
 ---
 **Objective:** verify that the cloud backend behaves as specified.
 

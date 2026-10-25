@@ -14,5 +14,6 @@ order: 1140
 links:
   - type: refines
     target: STK-ND3D08
+    confirmed: df91c673f737
 ---
 The login screen shall synchronise audit records after a power loss.

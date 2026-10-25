@@ -13,6 +13,7 @@ order: 570
 links:
   - type: verifies
     target: SYS-YTTXB8
+    confirmed: c0d19b7ef2ea
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

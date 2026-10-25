@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-C7XPC7
+    confirmed: 159fdc89b57b
 ---
 The Wi-Fi module shall authenticate energy consumption in under 3 s.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-W136XR
+    confirmed: bf1bf1ec0d4e
 ---
 The enclosure shall detect user preferences within 200 ms.
 

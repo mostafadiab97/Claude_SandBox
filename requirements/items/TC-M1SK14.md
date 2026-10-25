@@ -12,8 +12,10 @@ order: 1510
 links:
   - type: verifies
     target: SYS-GBTGV5
+    confirmed: 3f594322748c
   - type: verifies
     target: SW-EM8YM4
+    confirmed: 38ca4bb40969
 ---
 **Objective:** verify that the device registry behaves as specified.
 

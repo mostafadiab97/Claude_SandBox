@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-R37EHX
+    confirmed: eb5591255a1d
 ---
 Implemented in `src/ui/status_LED.c`.

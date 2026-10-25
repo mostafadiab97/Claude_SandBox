@@ -13,6 +13,7 @@ order: 2020
 links:
   - type: refines
     target: STK-SZWQ0A
+    confirmed: fc1f05b44684
 ---
 The watchdog shall store the room temperature in under 3 s.
 

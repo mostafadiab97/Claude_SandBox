@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: IF-WA7D43
+    confirmed: "784008091413"
 ---
 The telemetry pipeline shall restore user preferences at least once per minute.

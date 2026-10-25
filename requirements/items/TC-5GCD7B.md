@@ -9,8 +9,10 @@ order: 1620
 links:
   - type: verifies
     target: SYS-A103QP
+    confirmed: ebe6b95c0f3d
   - type: verifies
     target: SW-MWKQRR
+    confirmed: 68ee84cc7ff2
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

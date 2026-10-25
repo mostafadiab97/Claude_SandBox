@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-NZJKH0
+    confirmed: 3f0107cdd84c
 ---
 The zone valve shall authenticate user preferences within 200 ms.
 

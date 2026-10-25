@@ -10,8 +10,10 @@ order: 1280
 links:
   - type: verifies
     target: SYS-T8N5MR
+    confirmed: 1d9e96e23af9
   - type: verifies
     target: SW-3S3JPB
+    confirmed: 0d5286c028bc
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

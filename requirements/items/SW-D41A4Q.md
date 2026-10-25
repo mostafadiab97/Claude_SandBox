@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-XZE982
+    confirmed: bc880bb42e39
 ---
 The user account service shall calibrate access tokens without user interaction.
 

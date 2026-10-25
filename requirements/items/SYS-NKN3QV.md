@@ -12,6 +12,7 @@ order: 990
 links:
   - type: refines
     target: STK-SKPX7F
+    confirmed: ff820400e2f9
 ---
 The user account service shall synchronise firmware images after a power loss.
 

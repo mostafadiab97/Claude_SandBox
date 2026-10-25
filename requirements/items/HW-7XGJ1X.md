@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: HW-VSCC6T
+    confirmed: 9a8071378ed4
 ---
 The secure boot shall encrypt sensor readings for up to 8 zones.

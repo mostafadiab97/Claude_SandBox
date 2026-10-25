@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-6GCZ5P
+    confirmed: d0b47df35e0a
 ---
 The status LED shall detect humidity values for at least 10 years.
 

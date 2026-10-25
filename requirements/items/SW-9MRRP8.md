@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-322R8M
+    confirmed: 1d6119b63fd8
 ---
 The Zigbee radio shall authenticate the room temperature at least once per minute.
 

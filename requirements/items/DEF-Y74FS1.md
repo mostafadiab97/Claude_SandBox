@@ -14,8 +14,10 @@ order: 90
 links:
   - type: relates-to
     target: TC-571QHG
+    confirmed: 06b665964e59
   - type: relates-to
     target: SYS-C6GTWA
+    confirmed: 4675716bf203
 ---
 Found during regression testing of build 2.3.14.
 

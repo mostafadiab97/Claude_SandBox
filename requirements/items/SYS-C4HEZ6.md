@@ -8,6 +8,7 @@ order: 1210
 links:
   - type: refines
     target: STK-CJBDWK
+    confirmed: b9e9b89c87b3
 ---
 The telemetry pipeline shall switch safety limits when the network is unavailable.
 

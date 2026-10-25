@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-M2XSWT
+    confirmed: 7cea7475afdc
 ---
 Implemented in `src/conn/local_API.c`.

@@ -10,5 +10,6 @@ order: 280
 links:
   - type: refines
     target: STK-KPV71Q
+    confirmed: 10d9c216aea2
 ---
 The rotary knob shall encrypt safety limits when the network is unavailable.

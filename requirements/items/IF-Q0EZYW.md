@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-0AQ1WN
+    confirmed: 7e00d0c5709a
 ---
 The OTA server shall report the connection state using AES-256-GCM.
 

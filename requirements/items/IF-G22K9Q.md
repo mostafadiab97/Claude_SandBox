@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-CR4P8R
+    confirmed: 4c3ba50b83be
 ---
 The battery backup shall notify firmware images in under 3 s.
 

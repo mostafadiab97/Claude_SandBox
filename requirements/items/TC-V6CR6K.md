@@ -12,6 +12,7 @@ order: 40
 links:
   - type: verifies
     target: SYS-8PHDX1
+    confirmed: 1bfc1bb5e4d7
 ---
 **Objective:** verify that the menu system behaves as specified.
 

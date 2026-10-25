@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-CH0H2M
+    confirmed: dcde66db1e30
 ---
 The status LED shall notify sensor readings at least once per minute.
 

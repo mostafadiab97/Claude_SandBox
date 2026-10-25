@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: IF-KEQJ3Y
+    confirmed: 7e0294f6121c
 ---
 The cloud backend shall validate sensor readings for up to 8 zones.
 

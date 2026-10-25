@@ -9,5 +9,6 @@ order: 1520
 links:
   - type: refines
     target: STK-W18EQ4
+    confirmed: aeec35e06317
 ---
 The main PCB shall authenticate audit records without user interaction.

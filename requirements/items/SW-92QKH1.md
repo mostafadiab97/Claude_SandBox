@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-9C32EE
+    confirmed: 3b09685c237a
 ---
 The over-temperature monitor shall report the connection state for up to 8 zones.
 

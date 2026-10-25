@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-A3STJH
+    confirmed: 01e4f44d3a9c
 ---
 The Wi-Fi module shall authenticate humidity values below 0.5 W in standby.
 

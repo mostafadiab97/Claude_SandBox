@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-WNPN9B
+    confirmed: eec99757911e
 ---
 Implemented in `src/safe/watchdog.c`.

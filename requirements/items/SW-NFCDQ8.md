@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-ERKXNF
+    confirmed: 61c4ac39cbd8
 ---
 The Zigbee radio shall detect access tokens within 200 ms.
 

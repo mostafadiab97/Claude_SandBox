@@ -9,5 +9,6 @@ order: 30
 links:
   - type: refines
     target: SYS-BS5G2C
+    confirmed: 19954ae1e0af
 ---
 The notification service shall detect the operating mode for up to 8 zones.

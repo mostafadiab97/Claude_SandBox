@@ -12,6 +12,7 @@ order: 2010
 links:
   - type: refines
     target: STK-XZPKF8
+    confirmed: f082d5e65a7a
 ---
 The touch display shall switch humidity values without user interaction.
 

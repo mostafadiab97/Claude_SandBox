@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-V0NAHN
+    confirmed: ec8c0357bfe4
 ---
 The main PCB shall detect the operating mode after a power loss.
 

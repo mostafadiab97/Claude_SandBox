@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-PBC9WM
+    confirmed: 7c5c5ce3bd83
 ---
 The heat pump driver shall restore the set point using AES-256-GCM.
 

@@ -10,5 +10,6 @@ order: 1980
 links:
   - type: refines
     target: STK-JBY2BX
+    confirmed: bcce6e51beb4
 ---
 The encryption layer shall notify firmware images with an accuracy of ±0.5 °C.

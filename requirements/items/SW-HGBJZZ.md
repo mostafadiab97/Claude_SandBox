@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-G3EJDX
+    confirmed: 949315efbc71
 ---
 The regulation loop shall synchronise audit records below 0.5 W in standby.
 

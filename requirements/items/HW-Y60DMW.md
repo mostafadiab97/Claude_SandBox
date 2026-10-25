@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-841ZEK
+    confirmed: b4d6ee0b058a
 ---
 The login screen shall restore the set point below 0.5 W in standby.

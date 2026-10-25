@@ -14,5 +14,6 @@ order: 1600
 links:
   - type: refines
     target: STK-1TB226
+    confirmed: ea29425b18b7
 ---
 The tamper detection shall limit the room temperature without user interaction.

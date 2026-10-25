@@ -9,8 +9,10 @@ order: 490
 links:
   - type: refines
     target: STK-G2ZBHW
+    confirmed: fee0d3303478
   - type: mitigates
     target: RSK-6H3D9M
+    confirmed: c7f45fccd8d0
 ---
 The Zigbee radio shall measure the room temperature in all supported languages.
 

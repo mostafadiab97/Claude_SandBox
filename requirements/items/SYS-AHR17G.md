@@ -13,5 +13,6 @@ order: 1540
 links:
   - type: refines
     target: STK-SZWQ0A
+    confirmed: fc1f05b44684
 ---
 The tamper detection shall authenticate the connection state in all supported languages.

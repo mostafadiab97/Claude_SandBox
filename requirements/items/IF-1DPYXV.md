@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-95649D
+    confirmed: 1d3bba17b129
 ---
 The tamper detection shall switch the connection state within 200 ms.
 

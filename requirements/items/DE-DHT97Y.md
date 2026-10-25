@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-R9FW76
+    confirmed: 4a784bcd2cf6
 ---
 Implemented in `src/heat/boiler_interface.c`.

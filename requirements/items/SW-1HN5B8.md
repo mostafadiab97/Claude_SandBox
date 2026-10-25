@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-TN3XDX
+    confirmed: 30bdbc141ab6
 ---
 The zone valve shall notify user preferences within 200 ms.

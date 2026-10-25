@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-XGRV2A
+    confirmed: 2e61fb952f1f
 ---
 The schedule editor shall notify the connection state in all supported languages.
 

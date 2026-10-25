@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-N4973J
+    confirmed: 8d1bab1da881
 ---
 The menu system shall switch firmware images for at least 10 years.
 

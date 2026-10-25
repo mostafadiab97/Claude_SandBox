@@ -12,6 +12,7 @@ order: 220
 links:
   - type: relates-to
     target: SYS-Q32CFF
+    confirmed: 178903f1a8f4
 ---
 Requested by customer support (ticket #10738).
 

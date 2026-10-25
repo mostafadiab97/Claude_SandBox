@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-Z3C3F8
+    confirmed: 0af14c27b0f7
 ---
 The user account service shall encrypt user preferences for up to 8 zones.

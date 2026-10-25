@@ -10,8 +10,10 @@ order: 1930
 links:
   - type: refines
     target: STK-F8MTPC
+    confirmed: bbf5b4f56657
   - type: mitigates
     target: RSK-8FFR90
+    confirmed: 63c04ae06813
 ---
 The login screen shall detect firmware images within 200 ms.
 

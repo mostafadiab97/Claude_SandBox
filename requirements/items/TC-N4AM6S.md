@@ -13,8 +13,10 @@ order: 1510
 links:
   - type: verifies
     target: SYS-J8A4BW
+    confirmed: b28f6844e565
   - type: verifies
     target: SW-QZT0Y7
+    confirmed: 92e32f70136c
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

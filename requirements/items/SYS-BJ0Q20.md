@@ -12,8 +12,10 @@ order: 1680
 links:
   - type: refines
     target: STK-71VSKB
+    confirmed: 994ecb1eff6f
   - type: mitigates
     target: RSK-PV2FA3
+    confirmed: b0d749ed0447
 ---
 The Bluetooth LE link shall display schedule entries for at least 10 years.
 

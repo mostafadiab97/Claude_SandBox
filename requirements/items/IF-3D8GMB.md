@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: IF-CPHP56
+    confirmed: 35e103c9a9e6
 ---
 The notification service shall notify the operating mode when the network is unavailable.

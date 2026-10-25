@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-HV5YB5
+    confirmed: a372a699b46d
 ---
 The telemetry pipeline shall display the room temperature without user interaction.
 

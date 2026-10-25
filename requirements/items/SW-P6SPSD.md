@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7V2N1W
+    confirmed: 595fd0fcde8d
 ---
 The device registry shall detect humidity values when the network is unavailable.
 

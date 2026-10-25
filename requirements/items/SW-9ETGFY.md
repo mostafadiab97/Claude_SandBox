@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-A19YDT
+    confirmed: 102a3545c778
 ---
 The secure boot shall switch audit records in all supported languages.

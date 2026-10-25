@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-WTMBDQ
+    confirmed: 58aa56d32867
 ---
 The Bluetooth LE link shall display firmware images without user interaction.
 

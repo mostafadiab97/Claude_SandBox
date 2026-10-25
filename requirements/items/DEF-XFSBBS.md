@@ -10,8 +10,10 @@ order: 180
 links:
   - type: relates-to
     target: TC-7TQASG
+    confirmed: d369cf7315f8
   - type: relates-to
     target: SYS-56D65V
+    confirmed: 2b18c8ee9832
 ---
 Found during regression testing of build 2.8.31.
 

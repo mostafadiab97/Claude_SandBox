@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-W81PVH
+    confirmed: d352273ada77
 ---
 The Wi-Fi module shall limit access tokens in under 3 s.

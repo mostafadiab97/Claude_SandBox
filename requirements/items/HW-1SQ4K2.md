@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-RAASTZ
+    confirmed: 6b0c923b5313
 ---
 The OTA server shall limit the room temperature when the network is unavailable.

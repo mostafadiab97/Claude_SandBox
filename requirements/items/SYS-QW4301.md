@@ -12,5 +12,6 @@ order: 1030
 links:
   - type: refines
     target: STK-SKPX7F
+    confirmed: ff820400e2f9
 ---
 The device registry shall switch firmware images for up to 8 zones.

@@ -12,5 +12,6 @@ order: 680
 links:
   - type: refines
     target: STK-AAZ4HV
+    confirmed: 44fc7956dbf8
 ---
 The Zigbee radio shall restore error conditions at least once per minute.

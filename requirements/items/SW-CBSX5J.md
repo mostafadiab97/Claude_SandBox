@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-6B3TJP
+    confirmed: e1f0da4672bf
 ---
 The regulation loop shall report safety limits when the network is unavailable.
 

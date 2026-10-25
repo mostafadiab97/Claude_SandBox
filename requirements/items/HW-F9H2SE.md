@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: HW-BEYK4C
+    confirmed: 928aae57b97e
 ---
 The main PCB shall calibrate the room temperature in all supported languages.

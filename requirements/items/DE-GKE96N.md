@@ -10,5 +10,6 @@ order: 20
 links:
   - type: implements
     target: SW-Y142P2
+    confirmed: 34d60bcbd96b
 ---
 Implemented in `src/conn/Bluetooth_LE_link.c`.

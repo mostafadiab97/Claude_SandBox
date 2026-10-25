@@ -12,6 +12,7 @@ order: 1390
 links:
   - type: verifies
     target: SYS-KH549P
+    confirmed: 7b84e6500217
 ---
 **Objective:** verify that the device behaves as specified.
 

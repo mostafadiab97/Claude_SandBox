@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-R4K32S
+    confirmed: 5bdb17b664f3
 ---
 The power supply shall measure the room temperature at least once per minute.
 

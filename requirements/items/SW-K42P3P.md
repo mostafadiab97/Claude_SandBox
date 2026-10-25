@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7C9J06
+    confirmed: cd6745f84064
 ---
 The backlight shall synchronise relay events after a power loss.
 

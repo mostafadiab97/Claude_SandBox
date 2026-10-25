@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-YFQ7J9
+    confirmed: 879d2491ed8f
 ---
 The Wi-Fi module shall display schedule entries after a power loss.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-CF769Y
+    confirmed: 00e78e1422c4
 ---
 The relay board shall log humidity values when the network is unavailable.
 

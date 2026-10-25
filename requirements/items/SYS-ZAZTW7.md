@@ -10,8 +10,10 @@ order: 920
 links:
   - type: refines
     target: STK-XSQC89
+    confirmed: 66c246d6b1dc
   - type: mitigates
     target: RSK-VHBQ7T
+    confirmed: d6a0082673fd
 ---
 The secure boot shall measure the room temperature when the network is unavailable.
 

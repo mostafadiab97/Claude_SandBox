@@ -14,6 +14,7 @@ order: 1410
 links:
   - type: verifies
     target: SYS-A4MNF7
+    confirmed: 59d89f268e28
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

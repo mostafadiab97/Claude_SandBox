@@ -13,5 +13,6 @@ order: 150
 links:
   - type: refines
     target: STK-M28XWW
+    confirmed: bcf262f10744
 ---
 The relay board shall validate schedule entries without user interaction.

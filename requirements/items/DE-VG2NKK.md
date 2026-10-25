@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-NGQA9V
+    confirmed: d328b62a19f1
 ---
 Implemented in `src/conn/Wi-Fi_module.c`.

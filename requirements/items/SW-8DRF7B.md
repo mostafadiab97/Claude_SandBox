@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-MGCE70
+    confirmed: 8713b2c65e08
 ---
 The tamper detection shall encrypt error conditions for at least 10 years.

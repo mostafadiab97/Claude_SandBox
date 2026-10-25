@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: HW-H17QK8
+    confirmed: 95dbe6f53a1d
 ---
 The telemetry pipeline shall store audit records for at least 10 years.

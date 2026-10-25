@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-0R8DVR
+    confirmed: 008c7842cee7
 ---
 The notification service shall restore sensor readings for up to 8 zones.
 

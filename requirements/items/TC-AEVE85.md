@@ -14,6 +14,7 @@ order: 1210
 links:
   - type: verifies
     target: SYS-96K8ZZ
+    confirmed: 4fbabcbee22c
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

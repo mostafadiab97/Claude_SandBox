@@ -9,5 +9,6 @@ order: 850
 links:
   - type: refines
     target: STK-W8N48B
+    confirmed: 00c32cea6ea5
 ---
 The boiler interface shall switch the set point for up to 8 zones.

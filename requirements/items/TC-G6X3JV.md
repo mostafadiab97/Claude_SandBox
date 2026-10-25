@@ -13,6 +13,7 @@ order: 1790
 links:
   - type: verifies
     target: SYS-3RSNVX
+    confirmed: cb6d695118df
 ---
 **Objective:** verify that the device behaves as specified.
 

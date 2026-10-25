@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-W04AXK
+    confirmed: 3219ec23a59c
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

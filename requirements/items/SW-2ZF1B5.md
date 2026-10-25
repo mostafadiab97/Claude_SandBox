@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-2XXCCW
+    confirmed: 8a24cf881fb1
 ---
 The encryption layer shall encrypt the connection state when the network is unavailable.
 

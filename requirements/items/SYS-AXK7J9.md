@@ -14,6 +14,7 @@ order: 2240
 links:
   - type: refines
     target: STK-JAQHJP
+    confirmed: b0af11a5c3c2
 ---
 The enclosure shall authenticate schedule entries at least once per minute.
 

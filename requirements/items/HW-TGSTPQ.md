@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-3QBDZ4
+    confirmed: 1ebb264cb27c
 ---
 The enclosure shall display sensor readings for up to 8 zones.

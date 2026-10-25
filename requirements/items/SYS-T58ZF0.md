@@ -10,6 +10,7 @@ order: 1650
 links:
   - type: refines
     target: STK-F7D2QS
+    confirmed: bd8a3050a12b
 ---
 The Wi-Fi module shall display audit records when the network is unavailable.
 

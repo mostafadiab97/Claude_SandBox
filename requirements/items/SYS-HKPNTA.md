@@ -13,6 +13,7 @@ order: 1470
 links:
   - type: refines
     target: STK-AKFTAC
+    confirmed: 3cca48da4b1c
 ---
 The over-temperature monitor shall notify schedule entries when the network is unavailable.
 

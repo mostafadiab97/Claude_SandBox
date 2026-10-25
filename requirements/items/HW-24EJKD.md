@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-35NR1X
+    confirmed: ce0c7ab3d25e
 ---
 The telemetry pipeline shall switch audit records in all supported languages.
 

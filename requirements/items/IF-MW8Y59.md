@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-ZQYMN8
+    confirmed: a257d6fd1501
 ---
 The watchdog shall detect sensor readings for up to 8 zones.
 

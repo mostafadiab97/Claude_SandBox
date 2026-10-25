@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-Q32CFF
+    confirmed: 178903f1a8f4
 ---
 The touch display shall synchronise energy consumption for at least 10 years.
 

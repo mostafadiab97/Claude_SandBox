@@ -11,6 +11,7 @@ order: 40
 links:
   - type: refines
     target: SYS-59MM6H
+    confirmed: 45d68bfca0bb
 ---
 The OTA server shall encrypt error conditions for at least 10 years.
 

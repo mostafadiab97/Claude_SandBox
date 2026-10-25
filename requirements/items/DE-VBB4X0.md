@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-HGPMZH
+    confirmed: 005143d67064
 ---
 Implemented in `src/heat/regulation_loop.c`.

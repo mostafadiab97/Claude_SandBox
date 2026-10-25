@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-PG0K3E
+    confirmed: 2c023351a960
 ---
 The secure boot shall measure relay events with an accuracy of ±0.5 °C.
 

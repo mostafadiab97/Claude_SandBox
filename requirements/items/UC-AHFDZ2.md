@@ -11,6 +11,7 @@ order: 140
 links:
   - type: relates-to
     target: STK-1TB226
+    confirmed: ea29425b18b7
 ---
 **Actor:** home owner
 

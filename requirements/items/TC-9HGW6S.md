@@ -12,6 +12,7 @@ order: 680
 links:
   - type: verifies
     target: SYS-NX7FXR
+    confirmed: 409a2a77cfee
 ---
 **Objective:** verify that the user account service behaves as specified.
 

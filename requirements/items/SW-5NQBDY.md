@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-HJ5ZZW
+    confirmed: 8e0d5aa97221
 ---
 The user account service shall switch firmware images when the network is unavailable.
 

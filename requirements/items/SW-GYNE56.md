@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-A8AYK0
+    confirmed: 7c18672779dd
 ---
 The schedule editor shall measure energy consumption when the network is unavailable.
 

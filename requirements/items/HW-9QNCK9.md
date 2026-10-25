@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-DKB6WA
+    confirmed: 8665d5a94c43
 ---
 The main PCB shall log schedule entries for at least 10 years.
 

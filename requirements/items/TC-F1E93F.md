@@ -12,6 +12,7 @@ order: 790
 links:
   - type: verifies
     target: SYS-WKJRPW
+    confirmed: d8654a6b0ca3
 ---
 **Objective:** verify that the device behaves as specified.
 

@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-91G81P
+    confirmed: d22c28429399
 ---
 The mobile app shall limit firmware images when the network is unavailable.
 

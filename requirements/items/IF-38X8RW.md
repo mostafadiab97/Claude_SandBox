@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-YWNG59
+    confirmed: 55afb91dbdbd
 ---
 The main PCB shall log user preferences using AES-256-GCM.
 

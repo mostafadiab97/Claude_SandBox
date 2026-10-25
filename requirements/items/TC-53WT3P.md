@@ -13,6 +13,7 @@ order: 2020
 links:
   - type: verifies
     target: SYS-K8C5H7
+    confirmed: f2f1228e62f7
 ---
 **Objective:** verify that the device behaves as specified.
 

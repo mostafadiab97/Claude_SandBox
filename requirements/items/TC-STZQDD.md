@@ -13,6 +13,7 @@ order: 340
 links:
   - type: verifies
     target: SYS-6QAARD
+    confirmed: ecd7ff8ad13d
 ---
 **Objective:** verify that the zone valve behaves as specified.
 

@@ -12,6 +12,7 @@ order: 1180
 links:
   - type: verifies
     target: SYS-CGJPSG
+    confirmed: 4edc21a3fb0f
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

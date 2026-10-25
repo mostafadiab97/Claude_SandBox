@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-W77D8P
+    confirmed: 939eef8c8900
 ---
 The secure boot shall authenticate humidity values for at least 10 years.

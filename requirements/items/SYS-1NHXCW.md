@@ -10,6 +10,7 @@ order: 850
 links:
   - type: refines
     target: STK-71VSKB
+    confirmed: 994ecb1eff6f
 ---
 The Wi-Fi module shall authenticate firmware images for up to 8 zones.
 

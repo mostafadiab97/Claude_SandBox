@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: HW-SZ75P4
+    confirmed: a1b714057643
 ---
 The power supply shall encrypt schedule entries at least once per minute.
 

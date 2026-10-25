@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-7C9J06
+    confirmed: cd6745f84064
 ---
 The backlight shall authenticate energy consumption below 0.5 W in standby.
 

@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-1F931E
+    confirmed: 51652603599b
 ---
 The cloud backend shall detect sensor readings for at least 10 years.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-569DVN
+    confirmed: 9f9a37d9b20d
 ---
 The device registry shall detect safety limits using AES-256-GCM.
 

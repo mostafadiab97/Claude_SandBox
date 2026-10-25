@@ -12,8 +12,10 @@ order: 30
 links:
   - type: relates-to
     target: TC-Z1EV5P
+    confirmed: fa9fa55b5270
   - type: relates-to
     target: SYS-8BT9A5
+    confirmed: 768828fca553
 ---
 Found during regression testing of build 2.6.21.
 

@@ -13,5 +13,6 @@ order: 1230
 links:
   - type: refines
     target: STK-SWTYBR
+    confirmed: 85d99e967934
 ---
 The schedule editor shall limit audit records after a power loss.

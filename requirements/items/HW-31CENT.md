@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-GCSJ6X
+    confirmed: bc98a50160a3
 ---
 The regulation loop shall measure audit records in all supported languages.
 

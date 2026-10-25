@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-CBQBV0
+    confirmed: 99b89b8fe048
 ---
 The main PCB shall measure the set point below 0.5 W in standby.
 

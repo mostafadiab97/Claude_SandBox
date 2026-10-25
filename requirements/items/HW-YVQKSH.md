@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-B1T54X
+    confirmed: 084830601dd3
 ---
 The enclosure shall notify user preferences at least once per minute.
 

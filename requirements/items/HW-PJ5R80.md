@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-NDYE2C
+    confirmed: 843e71f7ca47
 ---
 The enclosure shall switch sensor readings without user interaction.

@@ -10,6 +10,7 @@ order: 1830
 links:
   - type: refines
     target: STK-DJ9M3M
+    confirmed: ba30e28a130f
 ---
 The watchdog shall store the set point for up to 8 zones.
 

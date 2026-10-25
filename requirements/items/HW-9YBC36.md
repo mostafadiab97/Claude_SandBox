@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-1YMXAH
+    confirmed: 4e76eb2ccede
 ---
 The backlight shall notify the room temperature below 0.5 W in standby.
 

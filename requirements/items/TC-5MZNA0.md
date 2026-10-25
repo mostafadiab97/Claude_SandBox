@@ -14,6 +14,7 @@ order: 1600
 links:
   - type: verifies
     target: SYS-E60WCX
+    confirmed: 52a4389d660e
 ---
 **Objective:** verify that the device registry behaves as specified.
 

@@ -9,5 +9,6 @@ order: 20
 links:
   - type: implements
     target: SW-P6SPSD
+    confirmed: 3a6544943397
 ---
 Implemented in `src/cloud/device_registry.c`.

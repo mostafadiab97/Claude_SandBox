@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-H82ZTG
+    confirmed: f99414faf3d8
 ---
 The mobile app shall synchronise the connection state at least once per minute.
 

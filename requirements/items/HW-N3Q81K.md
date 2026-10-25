@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-V0NAHN
+    confirmed: ec8c0357bfe4
 ---
 The main PCB shall log sensor readings using AES-256-GCM.

@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-XJA19E
+    confirmed: 907af0c1b352
 ---
 The over-temperature monitor shall validate energy consumption without user interaction.
 

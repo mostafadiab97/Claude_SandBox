@@ -10,5 +10,6 @@ order: 1910
 links:
   - type: refines
     target: STK-1TB226
+    confirmed: ea29425b18b7
 ---
 The watchdog shall restore firmware images using AES-256-GCM.

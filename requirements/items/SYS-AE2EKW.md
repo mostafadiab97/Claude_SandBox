@@ -13,6 +13,7 @@ order: 940
 links:
   - type: refines
     target: STK-22X165
+    confirmed: 0023c9af8e7d
 ---
 The Zigbee radio shall log safety limits at least once per minute.
 

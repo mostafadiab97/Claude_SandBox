@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-85TG9V
+    confirmed: 05ca47f38d94
 ---
 The menu system shall calibrate user preferences within 200 ms.
 

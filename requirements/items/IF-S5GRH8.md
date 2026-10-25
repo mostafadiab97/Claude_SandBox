@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-7FWKHS
+    confirmed: d6b178d90ee1
 ---
 The device registry shall authenticate sensor readings with an accuracy of ±0.5 °C.
 

@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-F28JAH
+    confirmed: d2f3c3322d09
 ---
 The menu system shall report safety limits in all supported languages.

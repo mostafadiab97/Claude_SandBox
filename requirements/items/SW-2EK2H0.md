@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-CGJPSG
+    confirmed: 4edc21a3fb0f
 ---
 The heat pump driver shall validate humidity values for up to 8 zones.
 

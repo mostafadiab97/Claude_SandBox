@@ -12,8 +12,10 @@ order: 660
 links:
   - type: verifies
     target: SYS-ATYYP2
+    confirmed: 560200c70caf
   - type: verifies
     target: SW-ZMFY7T
+    confirmed: 1be6be8dc44f
 ---
 **Objective:** verify that the menu system behaves as specified.
 

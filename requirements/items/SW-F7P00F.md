@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: SYS-GE17MH
+    confirmed: 5554d2a236be
 ---
 The boiler interface shall synchronise user preferences when the network is unavailable.

@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-KACHNP
+    confirmed: 6d9bc192ec13
 ---
 The cloud backend shall restore user preferences for at least 10 years.
 

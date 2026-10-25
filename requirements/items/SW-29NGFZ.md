@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-3RSNVX
+    confirmed: cb6d695118df
 ---
 The zone valve shall display user preferences when the network is unavailable.
 

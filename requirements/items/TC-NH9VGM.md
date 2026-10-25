@@ -9,8 +9,10 @@ order: 610
 links:
   - type: verifies
     target: SYS-44HBM9
+    confirmed: ebc73cf4101f
   - type: verifies
     target: SW-J9HHJH
+    confirmed: 509de5a29715
 ---
 **Objective:** verify that the backlight behaves as specified.
 

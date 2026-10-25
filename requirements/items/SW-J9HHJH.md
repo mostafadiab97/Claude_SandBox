@@ -9,5 +9,6 @@ order: 30
 links:
   - type: refines
     target: SYS-CRRCSR
+    confirmed: e29ae9264b3a
 ---
 The mobile app shall synchronise the connection state with an accuracy of ±0.5 °C.

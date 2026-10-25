@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-G1EY1S
+    confirmed: 0765f686e186
 ---
 The menu system shall calibrate safety limits below 0.5 W in standby.
 

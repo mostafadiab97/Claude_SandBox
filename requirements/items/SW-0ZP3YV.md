@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-G3S57K
+    confirmed: a572263089a0
 ---
 The backlight shall store firmware images using AES-256-GCM.
 

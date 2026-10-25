@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7RZPD7
+    confirmed: ff918beefe64
 ---
 The Bluetooth LE link shall notify firmware images for at least 10 years.
 

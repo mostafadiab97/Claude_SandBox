@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-5DA537
+    confirmed: b3506b846105
 ---
 The boiler interface shall display user preferences for at least 10 years.

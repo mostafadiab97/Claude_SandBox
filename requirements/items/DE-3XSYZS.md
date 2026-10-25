@@ -11,5 +11,6 @@ order: 20
 links:
   - type: implements
     target: SW-WJPZMR
+    confirmed: 15b12041082c
 ---
 Implemented in `src/ui/status_LED.c`.

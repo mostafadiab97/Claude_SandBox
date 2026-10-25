@@ -12,5 +12,6 @@ order: 40
 links:
   - type: refines
     target: SYS-A02XBZ
+    confirmed: a8363ba9fa7b
 ---
 The heating controller shall store audit records within 200 ms.

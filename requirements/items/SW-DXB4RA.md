@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-86XNBT
+    confirmed: 5ada5a0584cb
 ---
 The OTA server shall calibrate the set point when the network is unavailable.

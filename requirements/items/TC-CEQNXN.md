@@ -10,6 +10,7 @@ order: 900
 links:
   - type: verifies
     target: SYS-J8Q01T
+    confirmed: d85270700def
 ---
 **Objective:** verify that the zone valve behaves as specified.
 

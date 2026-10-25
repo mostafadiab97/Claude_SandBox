@@ -14,6 +14,7 @@ order: 150
 links:
   - type: relates-to
     target: STK-KEP05J
+    confirmed: 74304e03fe52
 ---
 **Actor:** home owner
 

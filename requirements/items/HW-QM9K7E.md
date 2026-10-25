@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-W3XFTX
+    confirmed: 211cc4a9e5f3
 ---
 The menu system shall report error conditions without user interaction.
 

@@ -12,6 +12,7 @@ order: 2040
 links:
   - type: refines
     target: STK-35QR7F
+    confirmed: bc1aebb7918d
 ---
 The status LED shall authenticate user preferences at least once per minute.
 

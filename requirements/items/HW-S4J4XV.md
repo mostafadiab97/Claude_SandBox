@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-ZSV25Q
+    confirmed: 38f82e6633cd
 ---
 The main PCB shall measure audit records after a power loss.
 

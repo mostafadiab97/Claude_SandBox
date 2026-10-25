@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-901PZX
+    confirmed: e93fd5180ace
 ---
 The enclosure shall restore firmware images without user interaction.
 

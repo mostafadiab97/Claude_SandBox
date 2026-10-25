@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-GK8E6S
+    confirmed: 3497825150a9
 ---
 The telemetry pipeline shall store audit records using AES-256-GCM.
 

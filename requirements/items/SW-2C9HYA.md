@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-SQC74W
+    confirmed: 705a530b1b5d
 ---
 The heat pump driver shall authenticate the connection state below 0.5 W in standby.
 

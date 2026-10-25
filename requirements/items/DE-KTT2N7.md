@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-F935NG
+    confirmed: cac5fd077d7d
 ---
 Implemented in `src/app/home_dashboard.c`.

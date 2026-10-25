@@ -11,6 +11,7 @@ order: 1570
 links:
   - type: refines
     target: STK-W8N48B
+    confirmed: 00c32cea6ea5
 ---
 The heating controller shall authenticate humidity values within 200 ms.
 

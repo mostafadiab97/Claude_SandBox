@@ -12,6 +12,7 @@ order: 490
 links:
   - type: verifies
     target: SYS-FJEMQ2
+    confirmed: 8fcf329b307d
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

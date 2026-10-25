@@ -12,7 +12,9 @@ order: 910
 links:
   - type: refines
     target: STK-DNB9QM
+    confirmed: 90394ce55463
   - type: mitigates
     target: RSK-8PEBF8
+    confirmed: be2e33598f0d
 ---
 The OTA server shall display access tokens without user interaction.

@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-YHR5KF
+    confirmed: 660a8488c508
 ---
 The over-temperature monitor shall limit audit records when the network is unavailable.
 

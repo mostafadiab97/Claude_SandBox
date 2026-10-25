@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-MXKR6Y
+    confirmed: 93ee1defe30a
 ---
 The zone valve shall measure energy consumption for at least 10 years.
 

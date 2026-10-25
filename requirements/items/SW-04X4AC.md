@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-YGBHGP
+    confirmed: 694685d3f8af
 ---
 The zone valve shall notify error conditions for up to 8 zones.
 

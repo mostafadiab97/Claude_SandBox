@@ -9,5 +9,6 @@ order: 40
 links:
   - type: refines
     target: SYS-9PZN49
+    confirmed: 62fe12aea17c
 ---
 The login screen shall calibrate schedule entries in under 3 s.

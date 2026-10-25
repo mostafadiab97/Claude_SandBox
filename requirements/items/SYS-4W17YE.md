@@ -12,6 +12,7 @@ order: 900
 links:
   - type: refines
     target: STK-55M3CZ
+    confirmed: 45f1b5fe0502
 ---
 The notification service shall encrypt user preferences without user interaction.
 

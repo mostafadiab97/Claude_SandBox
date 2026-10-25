@@ -14,8 +14,10 @@ order: 1360
 links:
   - type: verifies
     target: SYS-WTMBDQ
+    confirmed: 58aa56d32867
   - type: verifies
     target: SW-BY3NBC
+    confirmed: 9d2010ef976d
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.
 

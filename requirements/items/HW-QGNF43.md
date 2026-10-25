@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-QJNNZD
+    confirmed: 220d5e428bbc
 ---
 The battery backup shall validate humidity values with an accuracy of ±0.5 °C.

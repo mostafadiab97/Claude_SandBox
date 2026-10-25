@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-AFWWZ5
+    confirmed: 67e16f182216
 ---
 The local API shall synchronise user preferences at least once per minute.
 

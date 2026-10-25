@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-VNH1K0
+    confirmed: ebf4ae33f617
 ---
 The heating controller shall report user preferences for up to 8 zones.
 

@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-NSQBT9
+    confirmed: a72d25c263cd
 ---
 The enclosure shall limit the operating mode within 200 ms.

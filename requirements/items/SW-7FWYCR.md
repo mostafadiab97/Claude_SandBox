@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-00WQH9
+    confirmed: 5df07efae901
 ---
 The menu system shall display sensor readings in all supported languages.
 

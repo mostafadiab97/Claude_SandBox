@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: HW-WQW4AK
+    confirmed: 1dcb9ea49c67
 ---
 The power supply shall synchronise user preferences without user interaction.

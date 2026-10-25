@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-Y0EG7Y
+    confirmed: b7fb987c4397
 ---
 The over-temperature monitor shall calibrate safety limits after a power loss.
 

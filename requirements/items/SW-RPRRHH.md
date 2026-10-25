@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-T689CT
+    confirmed: dafb2a2d5621
 ---
 The status LED shall authenticate safety limits below 0.5 W in standby.
 

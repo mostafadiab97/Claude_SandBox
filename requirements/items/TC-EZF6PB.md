@@ -9,8 +9,10 @@ order: 250
 links:
   - type: verifies
     target: SYS-X491FT
+    confirmed: 8674f6feb478
   - type: verifies
     target: SW-V8G75G
+    confirmed: 9bbfacd2c8bc
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

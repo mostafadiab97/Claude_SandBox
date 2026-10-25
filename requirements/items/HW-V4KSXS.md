@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-6TVT9J
+    confirmed: 0af48dc95869
 ---
 The regulation loop shall synchronise schedule entries for at least 10 years.
 

@@ -14,8 +14,10 @@ order: 2000
 links:
   - type: refines
     target: STK-ND3D08
+    confirmed: df91c673f737
   - type: mitigates
     target: RSK-KX4Z8F
+    confirmed: ce36fe2999cf
 ---
 The login screen shall measure the room temperature for up to 8 zones.
 

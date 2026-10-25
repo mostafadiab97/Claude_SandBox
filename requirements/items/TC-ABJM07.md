@@ -10,8 +10,10 @@ order: 220
 links:
   - type: verifies
     target: SYS-61AT7T
+    confirmed: 3112309b1698
   - type: verifies
     target: SW-A11K9R
+    confirmed: 24ff723bc647
 ---
 **Objective:** verify that the login screen behaves as specified.
 

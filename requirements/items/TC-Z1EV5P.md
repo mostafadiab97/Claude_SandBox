@@ -10,6 +10,7 @@ order: 1090
 links:
   - type: verifies
     target: SYS-7XYG17
+    confirmed: b02cb0cbf227
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

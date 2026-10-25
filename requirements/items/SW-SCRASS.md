@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-YJBS7Z
+    confirmed: 75b98d046d10
 ---
 The telemetry pipeline shall synchronise the connection state at least once per minute.

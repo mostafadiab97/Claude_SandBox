@@ -12,7 +12,9 @@ order: 930
 links:
   - type: refines
     target: STK-XZPKF8
+    confirmed: f082d5e65a7a
   - type: mitigates
     target: RSK-3GS5TS
+    confirmed: 3f273dfb311b
 ---
 The status LED shall log the operating mode after a power loss.

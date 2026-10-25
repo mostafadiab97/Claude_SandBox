@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-WKJRPW
+    confirmed: d7195114397a
 ---
 The pairing process shall switch the operating mode in all supported languages.

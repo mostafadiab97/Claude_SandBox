@@ -9,5 +9,6 @@ order: 30
 links:
   - type: refines
     target: SYS-ACFDCK
+    confirmed: 2867a35b0ea7
 ---
 The Wi-Fi module shall validate energy consumption within 200 ms.

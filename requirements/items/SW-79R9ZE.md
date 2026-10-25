@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-5CXE8W
+    confirmed: 36aae11cfefa
 ---
 The telemetry pipeline shall validate access tokens in under 3 s.
 

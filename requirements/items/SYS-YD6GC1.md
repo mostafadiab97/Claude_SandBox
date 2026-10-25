@@ -11,6 +11,7 @@ order: 140
 links:
   - type: refines
     target: STK-R8QH58
+    confirmed: 13d6784d2cc9
 ---
 The telemetry pipeline shall measure relay events in all supported languages.
 

@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-RV3J4H
+    confirmed: c844415dcddc
 ---
 The mobile app shall synchronise error conditions for at least 10 years.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-GGT06W
+    confirmed: 8325a5367f53
 ---
 The secure boot shall validate audit records in all supported languages.
 

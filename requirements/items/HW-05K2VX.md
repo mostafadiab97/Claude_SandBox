@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-ES2T78
+    confirmed: 96c465893601
 ---
 The enclosure shall calibrate sensor readings when the network is unavailable.

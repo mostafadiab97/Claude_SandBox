@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-DXQ6WK
+    confirmed: c10fd23a93b0
 ---
 The user account service shall authenticate audit records below 0.5 W in standby.
 

@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-TGB5BV
+    confirmed: efddaa3f87b9
 ---
 The Bluetooth LE link shall log energy consumption below 0.5 W in standby.
 

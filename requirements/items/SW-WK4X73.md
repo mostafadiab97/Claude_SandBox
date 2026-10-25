@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-GVQ2KE
+    confirmed: 87167ec45d26
 ---
 The pairing process shall switch sensor readings below 0.5 W in standby.

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-VN8P2R
+    confirmed: 3e9eaf0aecb7
 ---
 The status LED shall calibrate the operating mode when the network is unavailable.
 

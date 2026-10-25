@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-GDQ732
+    confirmed: 529789567d36
 ---
 The battery backup shall store relay events within 200 ms.
 

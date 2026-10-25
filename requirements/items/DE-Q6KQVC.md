@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-MF98G3
+    confirmed: c44972060af4
 ---
 Implemented in `src/ui/rotary_knob.c`.

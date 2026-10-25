@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-XYBVJ4
+    confirmed: 7d080417271e
 ---
 The notification service shall measure the operating mode in under 3 s.

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-38FJX0
+    confirmed: 215aef7ef123
 ---
 The over-temperature monitor shall notify firmware images when the network is unavailable.
 

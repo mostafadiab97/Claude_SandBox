@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-610ZXV
+    confirmed: 6280da70f001
 ---
 The local API shall notify the connection state for up to 8 zones.
 

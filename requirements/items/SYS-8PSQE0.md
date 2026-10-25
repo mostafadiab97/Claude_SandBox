@@ -13,6 +13,7 @@ order: 1100
 links:
   - type: refines
     target: STK-R8QH58
+    confirmed: 13d6784d2cc9
 ---
 The user account service shall log the operating mode in under 3 s.
 

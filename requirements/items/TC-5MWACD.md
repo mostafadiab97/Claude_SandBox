@@ -12,6 +12,7 @@ order: 1890
 links:
   - type: verifies
     target: SYS-MEFF8R
+    confirmed: f144cf8852e5
 ---
 **Objective:** verify that the device behaves as specified.
 

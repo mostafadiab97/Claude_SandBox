@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-BT3DXG
+    confirmed: 762491a5f95a
 ---
 The watchdog shall calibrate user preferences at least once per minute.
 

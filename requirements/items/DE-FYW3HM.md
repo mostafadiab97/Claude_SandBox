@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-B1GEWR
+    confirmed: dd5ce56a224d
 ---
 Implemented in `src/safe/encryption_layer.c`.

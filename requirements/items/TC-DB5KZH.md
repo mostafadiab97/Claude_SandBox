@@ -10,6 +10,7 @@ order: 360
 links:
   - type: verifies
     target: SYS-ZR9FA9
+    confirmed: 004d18eb33a0
 ---
 **Objective:** verify that the backlight behaves as specified.
 

@@ -12,6 +12,7 @@ order: 1670
 links:
   - type: verifies
     target: SYS-REMSS6
+    confirmed: 987d596109aa
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

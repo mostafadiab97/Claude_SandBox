@@ -13,8 +13,10 @@ order: 820
 links:
   - type: verifies
     target: SYS-BBX6H4
+    confirmed: eea34ba9a0b3
   - type: verifies
     target: SW-95QS75
+    confirmed: 81a7bc4043b2
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-8RY8RE
+    confirmed: a5bfa0077b08
 ---
 The menu system shall authenticate firmware images using AES-256-GCM.

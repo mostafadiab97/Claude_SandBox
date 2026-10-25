@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-DS9BCD
+    confirmed: 71372d39e051
 ---
 The battery backup shall synchronise access tokens with an accuracy of ±0.5 °C.

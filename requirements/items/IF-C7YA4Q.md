@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-558WVB
+    confirmed: 244554b45f3a
 ---
 The pairing process shall restore schedule entries in all supported languages.
 

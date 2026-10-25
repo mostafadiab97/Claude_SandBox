@@ -12,8 +12,10 @@ order: 170
 links:
   - type: verifies
     target: SYS-HC7415
+    confirmed: 072f7558d179
   - type: verifies
     target: SW-TSMQH4
+    confirmed: 05b6ca3c7024
 ---
 **Objective:** verify that the login screen behaves as specified.
 

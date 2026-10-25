@@ -10,6 +10,7 @@ order: 1350
 links:
   - type: verifies
     target: SYS-9BKWE6
+    confirmed: 69aa4344ccec
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

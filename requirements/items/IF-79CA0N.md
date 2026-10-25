@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-CQEWAD
+    confirmed: 2cb413be1ed1
 ---
 The rotary knob shall calibrate user preferences for at least 10 years.
 

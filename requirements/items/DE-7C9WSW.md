@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-WK4X73
+    confirmed: 5448b16ac240
 ---
 Implemented in `src/conn/pairing_process.c`.

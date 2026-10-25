@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-DRG6R3
+    confirmed: 08f38a1d34b8
 ---
 The OTA server shall encrypt the connection state in under 3 s.
 

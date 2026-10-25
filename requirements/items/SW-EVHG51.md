@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-RP2FET
+    confirmed: f29685558736
 ---
 The Bluetooth LE link shall switch sensor readings using AES-256-GCM.

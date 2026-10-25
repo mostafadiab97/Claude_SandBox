@@ -14,6 +14,7 @@ order: 1450
 links:
   - type: verifies
     target: SYS-HC7415
+    confirmed: 072f7558d179
 ---
 **Objective:** verify that the device behaves as specified.
 

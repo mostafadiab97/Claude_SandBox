@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-PDF1CD
+    confirmed: ba0d0f689c55
 ---
 The home dashboard shall detect relay events within 200 ms.
 

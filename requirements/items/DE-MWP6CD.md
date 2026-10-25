@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-677MHF
+    confirmed: 4ca724906785
 ---
 Implemented in `src/app/mobile_app.c`.

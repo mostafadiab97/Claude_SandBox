@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-N7H58H
+    confirmed: a8a06726344d
 ---
 The watchdog shall limit firmware images for up to 8 zones.
 

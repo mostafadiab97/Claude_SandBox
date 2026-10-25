@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-Y6ZJ04
+    confirmed: 771412348aff
 ---
 The pairing process shall report user preferences for at least 10 years.
 

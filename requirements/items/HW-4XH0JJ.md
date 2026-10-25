@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-10B2S4
+    confirmed: b19977729874
 ---
 The enclosure shall measure safety limits for at least 10 years.

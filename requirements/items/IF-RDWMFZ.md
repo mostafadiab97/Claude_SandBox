@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-73583X
+    confirmed: 958cee982ab2
 ---
 The mobile app shall synchronise energy consumption within 200 ms.
 

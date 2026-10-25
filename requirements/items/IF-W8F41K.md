@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-A6KWV7
+    confirmed: 4488148b69d2
 ---
 The enclosure shall validate audit records after a power loss.
 

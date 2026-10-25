@@ -9,5 +9,6 @@ order: 10
 links:
   - type: refines
     target: HW-YFWEXR
+    confirmed: d3a30bd703ab
 ---
 The menu system shall authenticate safety limits for up to 8 zones.

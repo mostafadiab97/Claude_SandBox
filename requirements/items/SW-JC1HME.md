@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-XTEFPC
+    confirmed: d422e1c60e4c
 ---
 The schedule editor shall calibrate relay events for up to 8 zones.
 

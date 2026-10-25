@@ -13,8 +13,10 @@ order: 120
 links:
   - type: relates-to
     target: TC-3BEN3P
+    confirmed: 3e2e6d21d2e8
   - type: relates-to
     target: SYS-VNKX29
+    confirmed: 1e93aa64c8e1
 ---
 Found during regression testing of build 2.6.27.
 

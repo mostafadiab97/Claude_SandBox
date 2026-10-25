@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-J2BCRS
+    confirmed: dbe3e7f88972
 ---
 The OTA server shall restore the operating mode without user interaction.

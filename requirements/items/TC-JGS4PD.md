@@ -10,8 +10,10 @@ order: 1360
 links:
   - type: verifies
     target: SYS-7GMJTA
+    confirmed: 3901ff02971d
   - type: verifies
     target: SW-52NFB3
+    confirmed: 11bb078b09cd
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

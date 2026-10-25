@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-1BYGW7
+    confirmed: aaf2829fd5ea
 ---
 The status LED shall store the connection state in under 3 s.
 

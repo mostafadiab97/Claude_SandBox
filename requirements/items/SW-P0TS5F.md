@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-K93N9B
+    confirmed: e0ece5df8764
 ---
 The telemetry pipeline shall encrypt schedule entries using AES-256-GCM.
 

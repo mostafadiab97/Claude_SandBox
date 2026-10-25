@@ -13,5 +13,6 @@ order: 460
 links:
   - type: refines
     target: STK-XSQC89
+    confirmed: 66c246d6b1dc
 ---
 The watchdog shall log audit records in all supported languages.

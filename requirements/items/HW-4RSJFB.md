@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-97KT0W
+    confirmed: 26b3fcad096f
 ---
 The touch display shall store humidity values after a power loss.
 

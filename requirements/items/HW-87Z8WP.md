@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-NYK3S8
+    confirmed: 144fa7466d8d
 ---
 The battery backup shall switch user preferences within 200 ms.
 

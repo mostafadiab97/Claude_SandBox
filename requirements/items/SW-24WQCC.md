@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-FHDEXY
+    confirmed: 786acaabdb39
 ---
 The regulation loop shall validate the connection state when the network is unavailable.
 

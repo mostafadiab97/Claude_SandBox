@@ -14,6 +14,7 @@ order: 220
 links:
   - type: refines
     target: STK-SM9B7Z
+    confirmed: 44235e2789f0
 ---
 The tamper detection shall calibrate the room temperature without user interaction.
 

@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-378XSW
+    confirmed: 5031ebc6a924
 ---
 The status LED shall notify energy consumption within 200 ms.
 

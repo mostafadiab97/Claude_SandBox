@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-BJ0Q20
+    confirmed: 5bd6f55bad83
 ---
 The Bluetooth LE link shall encrypt relay events using AES-256-GCM.
 

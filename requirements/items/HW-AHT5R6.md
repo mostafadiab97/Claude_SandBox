@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-3BJR5R
+    confirmed: f353734bb488
 ---
 The heating controller shall synchronise access tokens with an accuracy of ±0.5 °C.
 

@@ -13,7 +13,9 @@ order: 690
 links:
   - type: refines
     target: STK-9YF5RE
+    confirmed: 43643c03020f
   - type: mitigates
     target: RSK-CMYE51
+    confirmed: b0be101f1b7b
 ---
 The boiler interface shall detect access tokens when the network is unavailable.

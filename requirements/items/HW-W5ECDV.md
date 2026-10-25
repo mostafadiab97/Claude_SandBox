@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-HY185S
+    confirmed: 4f41eab5e96a
 ---
 The pairing process shall log access tokens when the network is unavailable.
 

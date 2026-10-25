@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-43XDNQ
+    confirmed: c7e04ed75e41
 ---
 يجب أن يقوم النظام بمراقبة ارتفاع درجات الحرارة 

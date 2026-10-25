@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-EQXFTE
+    confirmed: 727aa8c2620a
 ---
 Implemented in `src/safe/tamper_detection.c`.

@@ -9,6 +9,7 @@ order: 1010
 links:
   - type: verifies
     target: SYS-4DP5C1
+    confirmed: c489a3ad366f
 ---
 **Objective:** verify that the zone valve behaves as specified.
 

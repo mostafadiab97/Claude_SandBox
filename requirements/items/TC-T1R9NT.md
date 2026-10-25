@@ -12,6 +12,7 @@ order: 1400
 links:
   - type: verifies
     target: SYS-7X9ABB
+    confirmed: eca07da94791
 ---
 **Objective:** verify that the power supply behaves as specified.
 

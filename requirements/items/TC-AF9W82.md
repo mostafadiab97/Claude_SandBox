@@ -14,6 +14,7 @@ order: 990
 links:
   - type: verifies
     target: SYS-ES2T78
+    confirmed: 96c465893601
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

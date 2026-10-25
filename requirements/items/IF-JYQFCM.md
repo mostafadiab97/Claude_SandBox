@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-0VY277
+    confirmed: 14b68369c30c
 ---
 The over-temperature monitor shall restore the set point within 200 ms.
 

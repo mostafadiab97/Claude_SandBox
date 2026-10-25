@@ -12,6 +12,7 @@ order: 1180
 links:
   - type: refines
     target: STK-1TB226
+    confirmed: ea29425b18b7
 ---
 The watchdog shall authenticate relay events in under 3 s.
 

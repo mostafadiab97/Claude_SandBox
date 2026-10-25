@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-6FPHXN
+    confirmed: 13b34afb2e0e
 ---
 The login screen shall synchronise safety limits in all supported languages.
 

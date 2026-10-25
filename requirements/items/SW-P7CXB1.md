@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-D26GKZ
+    confirmed: 5ddece9ce40b
 ---
 The status LED shall log safety limits at least once per minute.
 

@@ -13,5 +13,6 @@ order: 1100
 links:
   - type: refines
     target: STK-B9Y7CM
+    confirmed: 2e83dea5db22
 ---
 The mobile app shall measure audit records when the network is unavailable.

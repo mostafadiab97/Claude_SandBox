@@ -14,8 +14,10 @@ order: 650
 links:
   - type: verifies
     target: SYS-E70SS0
+    confirmed: 230b3d3629fc
   - type: verifies
     target: SW-ZPE457
+    confirmed: fc898a0b5b8e
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

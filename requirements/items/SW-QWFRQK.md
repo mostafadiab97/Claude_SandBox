@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-BVR9MT
+    confirmed: 4ce801427d87
 ---
 The backlight shall validate the connection state at least once per minute.

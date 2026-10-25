@@ -13,6 +13,7 @@ order: 1460
 links:
   - type: refines
     target: STK-CDR1Y9
+    confirmed: d9857f8b33bf
 ---
 The power supply shall validate schedule entries using AES-256-GCM.
 

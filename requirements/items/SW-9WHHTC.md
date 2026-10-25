@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-5XEZ64
+    confirmed: 6b7714cc0542
 ---
 The watchdog shall detect firmware images in under 3 s.

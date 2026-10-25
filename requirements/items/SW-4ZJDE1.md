@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-6FSERM
+    confirmed: 963aa15de966
 ---
 The cloud backend shall validate audit records in under 3 s.

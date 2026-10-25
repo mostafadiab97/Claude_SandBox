@@ -11,6 +11,7 @@ order: 30
 links:
   - type: refines
     target: SYS-M23G4X
+    confirmed: 965e3baa407c
 ---
 The power supply shall calibrate audit records for at least 10 years.
 

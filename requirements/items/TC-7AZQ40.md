@@ -13,8 +13,10 @@ order: 850
 links:
   - type: verifies
     target: SYS-TFXCHW
+    confirmed: e2bb9e80b6f4
   - type: verifies
     target: SW-SKXKT9
+    confirmed: d9b394032de0
 ---
 **Objective:** verify that the status LED behaves as specified.
 

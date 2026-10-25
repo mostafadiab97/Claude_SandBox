@@ -13,5 +13,6 @@ order: 1850
 links:
   - type: refines
     target: STK-XSQC89
+    confirmed: 66c246d6b1dc
 ---
 The tamper detection shall switch error conditions using AES-256-GCM.

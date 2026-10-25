@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-EGCZEM
+    confirmed: c3b84376e908
 ---
 Implemented in `src/app/home_dashboard.c`.

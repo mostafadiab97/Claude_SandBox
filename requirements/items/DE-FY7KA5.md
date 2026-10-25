@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-ME792H
+    confirmed: 838d8d76f9cf
 ---
 Implemented in `src/conn/Bluetooth_LE_link.c`.

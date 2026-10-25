@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-H39NX1
+    confirmed: 440e73aa781d
 ---
 The over-temperature monitor shall detect the room temperature with an accuracy of ±0.5 °C.
 

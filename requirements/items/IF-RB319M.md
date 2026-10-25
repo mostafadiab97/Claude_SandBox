@@ -9,6 +9,7 @@ order: 40
 links:
   - type: refines
     target: SYS-KJZDA6
+    confirmed: cceccc292cf6
 ---
 The pairing process shall synchronise the connection state using AES-256-GCM.
 

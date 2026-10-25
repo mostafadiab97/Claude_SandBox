@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-BF1ZYT
+    confirmed: a41f5627def3
 ---
 The status LED shall encrypt the room temperature for at least 10 years.

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-X38ARN
+    confirmed: eb49855d4e1d
 ---
 The relay board shall restore user preferences after a power loss.
 

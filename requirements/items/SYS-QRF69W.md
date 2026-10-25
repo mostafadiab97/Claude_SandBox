@@ -9,6 +9,7 @@ order: 870
 links:
   - type: refines
     target: STK-KEP05J
+    confirmed: 74304e03fe52
 ---
 The enclosure shall report schedule entries using AES-256-GCM.
 

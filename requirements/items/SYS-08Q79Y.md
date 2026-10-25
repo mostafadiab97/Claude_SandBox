@@ -12,8 +12,10 @@ order: 1740
 links:
   - type: refines
     target: STK-EHVDJF
+    confirmed: cf195cdb6a20
   - type: mitigates
     target: RSK-H5P7DK
+    confirmed: 071ef93a7be9
 ---
 The status LED shall encrypt access tokens for up to 8 zones.
 

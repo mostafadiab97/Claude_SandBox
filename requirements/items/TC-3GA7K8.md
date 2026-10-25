@@ -10,6 +10,7 @@ order: 1150
 links:
   - type: verifies
     target: SYS-901PZX
+    confirmed: e93fd5180ace
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

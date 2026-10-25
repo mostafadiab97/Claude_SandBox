@@ -9,6 +9,7 @@ order: 40
 links:
   - type: refines
     target: SYS-MQY2B0
+    confirmed: ab87fdd691b9
 ---
 The telemetry pipeline shall restore sensor readings when the network is unavailable.
 

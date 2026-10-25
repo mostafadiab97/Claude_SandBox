@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: HW-EV4NV0
+    confirmed: 490ad1ad2251
 ---
 The power supply shall notify schedule entries below 0.5 W in standby.
 

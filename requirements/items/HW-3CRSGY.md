@@ -9,5 +9,6 @@ order: 30
 links:
   - type: refines
     target: SYS-K5036G
+    confirmed: 028aea2d56ab
 ---
 The menu system shall validate energy consumption within 200 ms.

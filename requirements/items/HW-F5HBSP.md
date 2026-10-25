@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-A6Z44C
+    confirmed: ac3474515883
 ---
 The heating controller shall switch the connection state in all supported languages.
 

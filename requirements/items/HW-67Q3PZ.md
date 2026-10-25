@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: HW-1CX35N
+    confirmed: 941962b1f5b2
 ---
 The home dashboard shall report humidity values within 200 ms.

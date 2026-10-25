@@ -13,6 +13,7 @@ order: 700
 links:
   - type: refines
     target: STK-EWSQ9Z
+    confirmed: aa5e4143dbe7
 ---
 The regulation loop shall measure user preferences at least once per minute.
 

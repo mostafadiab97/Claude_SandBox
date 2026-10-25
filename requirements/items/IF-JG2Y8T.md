@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-FBM4B7
+    confirmed: c2dee4a6831a
 ---
 The mobile app shall store firmware images when the network is unavailable.
 

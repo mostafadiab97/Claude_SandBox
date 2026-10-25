@@ -14,6 +14,7 @@ order: 70
 links:
   - type: verifies
     target: SYS-DZWWWA
+    confirmed: 0999a3b2ce99
 ---
 **Objective:** verify that the pairing process behaves as specified.
 

@@ -13,5 +13,6 @@ order: 1910
 links:
   - type: refines
     target: STK-AAZ4HV
+    confirmed: 44fc7956dbf8
 ---
 The Wi-Fi module shall log the set point for up to 8 zones.

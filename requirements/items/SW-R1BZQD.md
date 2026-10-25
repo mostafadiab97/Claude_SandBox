@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-TS8CKW
+    confirmed: ebfb06184d78
 ---
 The boiler interface shall encrypt user preferences for up to 8 zones.

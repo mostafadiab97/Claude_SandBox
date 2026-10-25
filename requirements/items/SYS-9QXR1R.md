@@ -10,5 +10,6 @@ order: 1440
 links:
   - type: refines
     target: STK-1TB226
+    confirmed: ea29425b18b7
 ---
 The encryption layer shall store safety limits in all supported languages.

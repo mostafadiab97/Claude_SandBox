@@ -10,6 +10,7 @@ order: 390
 links:
   - type: refines
     target: STK-AA05P4
+    confirmed: e2bec3bcd11c
 ---
 The heat pump driver shall notify the operating mode at least once per minute.
 

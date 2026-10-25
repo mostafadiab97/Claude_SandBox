@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-JWJ8DM
+    confirmed: a2b664a70dc8
 ---
 The enclosure shall validate firmware images when the network is unavailable.
 

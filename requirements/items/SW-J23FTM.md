@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-AP48M6
+    confirmed: 5bc25d897362
 ---
 The device registry shall restore user preferences using AES-256-GCM.
 

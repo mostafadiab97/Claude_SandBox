@@ -13,6 +13,7 @@ order: 1330
 links:
   - type: verifies
     target: SYS-SWYEGM
+    confirmed: e13fd0c463a4
 ---
 **Objective:** verify that the power supply behaves as specified.
 

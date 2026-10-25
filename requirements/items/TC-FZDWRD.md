@@ -13,6 +13,7 @@ order: 600
 links:
   - type: verifies
     target: SYS-AT7SG8
+    confirmed: c483239675ae
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

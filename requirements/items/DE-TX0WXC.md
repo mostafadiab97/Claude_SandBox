@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-TM3W53
+    confirmed: d566ea7a9b48
 ---
 Implemented in `src/conn/Wi-Fi_module.c`.

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-KG0ZN0
+    confirmed: 306126e077ff
 ---
 The OTA server shall authenticate firmware images using AES-256-GCM.

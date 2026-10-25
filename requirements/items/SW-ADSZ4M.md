@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-P05AE4
+    confirmed: 53c0872f8a94
 ---
 The login screen shall synchronise energy consumption after a power loss.
 

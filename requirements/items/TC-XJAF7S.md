@@ -14,6 +14,7 @@ order: 100
 links:
   - type: verifies
     target: SYS-KT5254
+    confirmed: 609b39c5ecd0
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

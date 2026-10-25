@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-S0F1BA
+    confirmed: 2e961ae9e721
 ---
 The local API shall display the operating mode with an accuracy of ±0.5 °C.
 

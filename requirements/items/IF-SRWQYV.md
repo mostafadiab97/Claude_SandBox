@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: IF-5AB6M7
+    confirmed: b05031cd27c5
 ---
 The battery backup shall display error conditions after a power loss.
 

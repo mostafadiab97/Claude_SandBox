@@ -10,6 +10,7 @@ order: 500
 links:
   - type: verifies
     target: SYS-WNF4KZ
+    confirmed: 7e6ec97a0ef2
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

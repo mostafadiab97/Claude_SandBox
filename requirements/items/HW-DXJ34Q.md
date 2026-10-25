@@ -9,6 +9,7 @@ order: 40
 links:
   - type: refines
     target: SYS-AH9G64
+    confirmed: e3199b24d9a9
 ---
 The cloud backend shall validate schedule entries within 200 ms.
 

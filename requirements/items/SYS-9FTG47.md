@@ -10,8 +10,10 @@ order: 490
 links:
   - type: refines
     target: STK-ZJRWCQ
+    confirmed: dc746945e71d
   - type: mitigates
     target: RSK-4SK8XQ
+    confirmed: d8a03dc18226
 ---
 The secure boot shall report sensor readings below 0.5 W in standby.
 

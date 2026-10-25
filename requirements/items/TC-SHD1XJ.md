@@ -12,6 +12,7 @@ order: 1580
 links:
   - type: verifies
     target: SYS-JRTNVS
+    confirmed: c00525d9de09
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

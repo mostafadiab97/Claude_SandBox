@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-CM44AM
+    confirmed: 2a3acc022feb
 ---
 The pairing process shall authenticate error conditions using AES-256-GCM.
 

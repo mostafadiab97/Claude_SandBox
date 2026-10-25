@@ -12,8 +12,10 @@ order: 180
 links:
   - type: relates-to
     target: TC-XPQ955
+    confirmed: f37fa41af6c6
   - type: relates-to
     target: SYS-H824VB
+    confirmed: c1cdb8e3bdac
 ---
 Found during regression testing of build 2.0.15.
 

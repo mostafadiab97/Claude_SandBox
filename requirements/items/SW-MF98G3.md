@@ -8,5 +8,6 @@ order: 10
 links:
   - type: refines
     target: SYS-NY5DFZ
+    confirmed: aa8559f49f1f
 ---
 The rotary knob shall authenticate audit records in under 3 s.

@@ -10,5 +10,6 @@ order: 1540
 links:
   - type: refines
     target: STK-71VSKB
+    confirmed: 994ecb1eff6f
 ---
 The Bluetooth LE link shall notify humidity values below 0.5 W in standby.

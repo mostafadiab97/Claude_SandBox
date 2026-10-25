@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-2QZKSN
+    confirmed: c4664feed0e6
 ---
 The telemetry pipeline shall validate the room temperature in all supported languages.
 

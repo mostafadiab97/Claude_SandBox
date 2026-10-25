@@ -13,8 +13,10 @@ order: 400
 links:
   - type: verifies
     target: SYS-BFB7EF
+    confirmed: a7ba030d51de
   - type: verifies
     target: SW-9PZ49R
+    confirmed: 926f921a05b5
 ---
 **Objective:** verify that the power supply behaves as specified.
 

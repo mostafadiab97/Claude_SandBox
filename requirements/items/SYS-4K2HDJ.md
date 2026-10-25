@@ -10,7 +10,9 @@ order: 1240
 links:
   - type: refines
     target: STK-XSQC89
+    confirmed: 66c246d6b1dc
   - type: mitigates
     target: RSK-RV8KBD
+    confirmed: 637ec5e39d53
 ---
 The tamper detection shall authenticate safety limits using AES-256-GCM.

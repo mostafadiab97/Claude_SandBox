@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-98SWXJ
+    confirmed: 2eaf1870cc5d
 ---
 The main PCB shall encrypt the operating mode below 0.5 W in standby.

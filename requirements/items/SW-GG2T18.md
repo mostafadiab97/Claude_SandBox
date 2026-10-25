@@ -11,5 +11,6 @@ order: 20
 links:
   - type: refines
     target: SYS-BGBCA1
+    confirmed: 9336011838ef
 ---
 The home dashboard shall switch the set point below 0.5 W in standby.

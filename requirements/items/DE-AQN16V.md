@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-X20K2N
+    confirmed: 3ba0ed5214d2
 ---
 Implemented in `src/safe/tamper_detection.c`.

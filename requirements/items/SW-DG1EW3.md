@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-1NHXCW
+    confirmed: e694361bd48d
 ---
 The Wi-Fi module shall encrypt firmware images at least once per minute.
 

@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-5T8QY1
+    confirmed: e938f1e76d9e
 ---
 The user account service shall synchronise the set point when the network is unavailable.
 

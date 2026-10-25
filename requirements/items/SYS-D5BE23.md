@@ -12,8 +12,10 @@ order: 1200
 links:
   - type: refines
     target: STK-MNQXK0
+    confirmed: d3157dcb9034
   - type: mitigates
     target: RSK-0929HC
+    confirmed: 2975497b38ca
 ---
 The status LED shall encrypt user preferences without user interaction.
 

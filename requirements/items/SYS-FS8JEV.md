@@ -11,6 +11,7 @@ order: 1550
 links:
   - type: refines
     target: STK-5VZRF2
+    confirmed: cf78baefa376
 ---
 The mobile app shall restore user preferences at least once per minute.
 

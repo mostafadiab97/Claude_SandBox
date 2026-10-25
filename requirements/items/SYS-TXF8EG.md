@@ -13,6 +13,7 @@ order: 1630
 links:
   - type: refines
     target: STK-9YF5RE
+    confirmed: 43643c03020f
 ---
 The regulation loop shall measure the set point when the network is unavailable.
 

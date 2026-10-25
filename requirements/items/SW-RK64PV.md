@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-YSXR58
+    confirmed: 69fb702b9419
 ---
 The heat pump driver shall limit schedule entries with an accuracy of ±0.5 °C.
 

@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-7EMY0G
+    confirmed: c4f3af124d96
 ---
 The cloud backend shall measure the connection state without user interaction.

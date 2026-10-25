@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: HW-06FEKS
+    confirmed: e4d548740c3d
 ---
 The watchdog shall log error conditions within 200 ms.
 

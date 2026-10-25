@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-VNH1K0
+    confirmed: ebf4ae33f617
 ---
 The heating controller shall authenticate audit records at least once per minute.
 

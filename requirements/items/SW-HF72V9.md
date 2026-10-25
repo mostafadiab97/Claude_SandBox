@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SW-FHMAYW
+    confirmed: bc7c21d025c0
 ---
 The heat pump driver shall encrypt the operating mode in all supported languages.
 

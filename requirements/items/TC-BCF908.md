@@ -13,8 +13,10 @@ order: 730
 links:
   - type: verifies
     target: SYS-CQEWAD
+    confirmed: 2cb413be1ed1
   - type: verifies
     target: SW-XD35BZ
+    confirmed: 2a84ec4789f1
 ---
 **Objective:** verify that the rotary knob behaves as specified.
 

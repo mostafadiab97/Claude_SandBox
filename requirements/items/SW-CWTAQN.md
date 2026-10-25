@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-0T0BYJ
+    confirmed: 0905190a23c4
 ---
 The encryption layer shall report sensor readings for at least 10 years.
 

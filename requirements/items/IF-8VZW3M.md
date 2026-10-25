@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-84WAA6
+    confirmed: 34578fd70293
 ---
 The battery backup shall synchronise user preferences for at least 10 years.
 

@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-0033FV
+    confirmed: c4f0539f5269
 ---
 The main PCB shall display audit records when the network is unavailable.
 

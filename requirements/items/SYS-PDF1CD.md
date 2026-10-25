@@ -10,6 +10,7 @@ order: 260
 links:
   - type: refines
     target: STK-4F6B1Y
+    confirmed: 4a1d76b1da2c
 ---
 The home dashboard shall validate safety limits for at least 10 years.
 

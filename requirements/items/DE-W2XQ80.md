@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-TV98HC
+    confirmed: cf57c09fe068
 ---
 Implemented in `src/safe/encryption_layer.c`.

@@ -12,6 +12,7 @@ order: 1580
 links:
   - type: refines
     target: STK-1CAAXP
+    confirmed: a853df6f0866
 ---
 The telemetry pipeline shall store the set point at least once per minute.
 

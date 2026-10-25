@@ -11,5 +11,6 @@ order: 40
 links:
   - type: refines
     target: SYS-SJH59J
+    confirmed: 7dfb91f535ef
 ---
 The boiler interface shall switch firmware images in all supported languages.

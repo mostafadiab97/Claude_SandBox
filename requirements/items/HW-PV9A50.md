@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-ZBCW95
+    confirmed: b4748e4c331f
 ---
 The regulation loop shall log energy consumption in all supported languages.
 

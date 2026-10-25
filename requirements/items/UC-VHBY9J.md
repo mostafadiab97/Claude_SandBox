@@ -10,6 +10,7 @@ order: 160
 links:
   - type: relates-to
     target: STK-4K2NE4
+    confirmed: 7cfb31353d89
 ---
 **Actor:** home owner
 

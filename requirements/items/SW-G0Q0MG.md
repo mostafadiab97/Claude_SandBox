@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-RN99C6
+    confirmed: f4a454d2a519
 ---
 The boiler interface shall display audit records in all supported languages.
 

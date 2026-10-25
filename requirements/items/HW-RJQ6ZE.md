@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-BKCGFY
+    confirmed: cca1fb8df9ed
 ---
 The schedule editor shall switch relay events below 0.5 W in standby.
 

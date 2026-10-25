@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-JMK64W
+    confirmed: 8c27f3c89bec
 ---
 The heating controller shall validate user preferences within 200 ms.
 

@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-PX6WZT
+    confirmed: f32411f63461
 ---
 The Bluetooth LE link shall limit sensor readings after a power loss.

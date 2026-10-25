@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-498SK9
+    confirmed: 86d80fd5cb72
 ---
 The device registry shall validate the operating mode using AES-256-GCM.

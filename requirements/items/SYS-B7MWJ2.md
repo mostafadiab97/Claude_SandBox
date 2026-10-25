@@ -12,6 +12,7 @@ order: 90
 links:
   - type: refines
     target: STK-GMCKMF
+    confirmed: f47328374a2b
 ---
 The Zigbee radio shall validate relay events for at least 10 years.
 

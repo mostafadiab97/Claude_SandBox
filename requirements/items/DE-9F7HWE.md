@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-ENT2S5
+    confirmed: e289aada55b5
 ---
 Implemented in `src/conn/Wi-Fi_module.c`.

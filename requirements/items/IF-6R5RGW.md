@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-JRTNVS
+    confirmed: c00525d9de09
 ---
 The enclosure shall log sensor readings without user interaction.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-RDQ73V
+    confirmed: 2791d2fc7833
 ---
 The touch display shall synchronise the connection state for at least 10 years.
 

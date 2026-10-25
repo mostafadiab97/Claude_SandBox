@@ -14,8 +14,10 @@ order: 1530
 links:
   - type: refines
     target: STK-MC9ASH
+    confirmed: a4f2ebaecfbe
   - type: mitigates
     target: RSK-0CZX1J
+    confirmed: 9a18d4435be9
 ---
 The home dashboard shall notify firmware images for at least 10 years.
 

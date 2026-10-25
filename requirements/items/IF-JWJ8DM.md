@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-JRTNVS
+    confirmed: c00525d9de09
 ---
 The enclosure shall synchronise the set point below 0.5 W in standby.
 

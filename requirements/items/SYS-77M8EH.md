@@ -10,5 +10,6 @@ order: 2380
 links:
   - type: refines
     target: STK-4NGQJ5
+    confirmed: 96640a7e340d
 ---
 The battery backup shall calibrate the operating mode for up to 8 zones.

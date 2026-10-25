@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: HW-0EXWW2
+    confirmed: 1ceb1ae63d8d
 ---
 The Bluetooth LE link shall display the operating mode below 0.5 W in standby.

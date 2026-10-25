@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-G3EJDX
+    confirmed: 949315efbc71
 ---
 The regulation loop shall calibrate sensor readings after a power loss.
 

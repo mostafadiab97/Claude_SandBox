@@ -13,6 +13,7 @@ order: 2020
 links:
   - type: refines
     target: STK-8PN4VS
+    confirmed: a3e83ac40678
 ---
 The menu system shall limit firmware images at least once per minute.
 

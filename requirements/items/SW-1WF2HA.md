@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-TKV6VE
+    confirmed: 2a2c879fe6d8
 ---
 The pairing process shall authenticate schedule entries in under 3 s.
 

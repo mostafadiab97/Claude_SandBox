@@ -12,5 +12,6 @@ order: 40
 links:
   - type: refines
     target: SYS-946J73
+    confirmed: 4221a4e34c0d
 ---
 The enclosure shall limit firmware images when the network is unavailable.

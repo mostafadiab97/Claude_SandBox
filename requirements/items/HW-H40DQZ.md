@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-9W0KTX
+    confirmed: a4802eb2b834
 ---
 The Bluetooth LE link shall limit safety limits within 200 ms.
 

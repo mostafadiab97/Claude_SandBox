@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-M9DD33
+    confirmed: c0c5efe3652f
 ---
 The menu system shall report the operating mode with an accuracy of ±0.5 °C.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-WV82FN
+    confirmed: 6c1c7bc6f30a
 ---
 The zone valve shall store schedule entries using AES-256-GCM.
 

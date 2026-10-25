@@ -13,6 +13,7 @@ order: 670
 links:
   - type: verifies
     target: SYS-DNKAZZ
+    confirmed: 22452286eeb7
 ---
 **Objective:** verify that the local API behaves as specified.
 

@@ -11,6 +11,7 @@ order: 1500
 links:
   - type: verifies
     target: SYS-DKDQXS
+    confirmed: 172d4f5ba54f
 ---
 **Objective:** verify that the device behaves as specified.
 

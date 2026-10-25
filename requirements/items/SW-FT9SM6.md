@@ -9,6 +9,7 @@ order: 40
 links:
   - type: refines
     target: SYS-KMZ032
+    confirmed: 604e69a0125a
 ---
 The menu system shall validate audit records at least once per minute.
 

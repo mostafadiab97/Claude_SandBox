@@ -14,6 +14,7 @@ order: 2060
 links:
   - type: verifies
     target: SYS-XGRV2A
+    confirmed: 99dfb3c74c30
 ---
 **Objective:** verify that the device behaves as specified.
 

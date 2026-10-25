@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-CJV9ZN
+    confirmed: e434b413fdbf
 ---
 The heat pump driver shall authenticate sensor readings in all supported languages.
 

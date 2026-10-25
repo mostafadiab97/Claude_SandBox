@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-J86K99
+    confirmed: cd639bbeedd1
 ---
 The device registry shall log the set point using AES-256-GCM.
 

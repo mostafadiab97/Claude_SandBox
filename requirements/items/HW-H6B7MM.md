@@ -12,5 +12,6 @@ order: 40
 links:
   - type: refines
     target: SYS-3C07C0
+    confirmed: 3f05968a7403
 ---
 The main PCB shall authenticate relay events within 200 ms.

@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-V1S2ND
+    confirmed: 4aae50eaee58
 ---
 The menu system shall switch user preferences at least once per minute.

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-MZ2CT7
+    confirmed: fde5746f7b5c
 ---
 The notification service shall store sensor readings in under 3 s.
 

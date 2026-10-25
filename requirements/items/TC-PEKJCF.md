@@ -9,6 +9,7 @@ order: 40
 links:
   - type: verifies
     target: SYS-S5AVVB
+    confirmed: 21ef3d7af8e5
 ---
 **Objective:** verify that the user account service behaves as specified.
 

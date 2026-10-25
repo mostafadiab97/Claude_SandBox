@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-DZWWWA
+    confirmed: 0999a3b2ce99
 ---
 The pairing process shall store the operating mode using AES-256-GCM.

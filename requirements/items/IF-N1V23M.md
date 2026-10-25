@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-S3PNKH
+    confirmed: ac310fecb043
 ---
 The heat pump driver shall display the operating mode within 200 ms.
 

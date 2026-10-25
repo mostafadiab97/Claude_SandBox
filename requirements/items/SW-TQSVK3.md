@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-3K76JB
+    confirmed: b4360e33eebd
 ---
 The touch display shall detect the set point using AES-256-GCM.
 

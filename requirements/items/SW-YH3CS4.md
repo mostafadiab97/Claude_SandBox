@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-YN2K60
+    confirmed: 2659248bd16e
 ---
 The heat pump driver shall calibrate error conditions at least once per minute.
 

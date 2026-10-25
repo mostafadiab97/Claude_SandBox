@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-HZ4B6T
+    confirmed: 238549cadf2a
 ---
 The login screen shall display humidity values with an accuracy of ±0.5 °C.
 

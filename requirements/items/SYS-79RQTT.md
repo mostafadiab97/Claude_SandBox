@@ -10,6 +10,7 @@ order: 190
 links:
   - type: refines
     target: STK-55M3CZ
+    confirmed: 45f1b5fe0502
 ---
 The schedule editor shall report humidity values in under 3 s.
 

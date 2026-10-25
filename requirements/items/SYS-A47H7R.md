@@ -10,6 +10,7 @@ order: 280
 links:
   - type: refines
     target: STK-4NGQJ5
+    confirmed: 96640a7e340d
 ---
 The battery backup shall encrypt humidity values for at least 10 years.
 

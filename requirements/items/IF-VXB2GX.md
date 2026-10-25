@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: IF-A7QGTK
+    confirmed: f39447c7f34a
 ---
 The over-temperature monitor shall authenticate user preferences within 200 ms.

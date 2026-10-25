@@ -9,5 +9,6 @@ order: 20
 links:
   - type: implements
     target: SW-0E8HYM
+    confirmed: bdbee9c49117
 ---
 Implemented in `src/safe/encryption_layer.c`.

@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-XGRV2A
+    confirmed: 2e61fb952f1f
 ---
 The schedule editor shall switch firmware images using AES-256-GCM.
 

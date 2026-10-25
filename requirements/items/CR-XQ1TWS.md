@@ -12,6 +12,7 @@ order: 160
 links:
   - type: relates-to
     target: SYS-J667FF
+    confirmed: 1d8cfb08af6f
 ---
 Requested by customer support (ticket #17935).
 

@@ -13,5 +13,6 @@ order: 120
 links:
   - type: refines
     target: STK-1CAAXP
+    confirmed: a853df6f0866
 ---
 The cloud backend shall notify the room temperature using AES-256-GCM.

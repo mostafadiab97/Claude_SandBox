@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-2DFH04
+    confirmed: 051320b022ae
 ---
 The device registry shall report the room temperature in under 3 s.

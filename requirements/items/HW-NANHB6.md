@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: HW-E6DK9N
+    confirmed: e1d43294486d
 ---
 The tamper detection shall restore energy consumption within 200 ms.
 

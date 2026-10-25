@@ -13,6 +13,7 @@ order: 980
 links:
   - type: refines
     target: STK-EWSQ9Z
+    confirmed: aa5e4143dbe7
 ---
 The heat pump driver shall display firmware images when the network is unavailable.
 

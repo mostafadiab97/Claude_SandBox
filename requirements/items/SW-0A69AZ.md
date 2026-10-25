@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-EK761P
+    confirmed: db6748ce1b10
 ---
 The OTA server shall notify access tokens within 200 ms.
 

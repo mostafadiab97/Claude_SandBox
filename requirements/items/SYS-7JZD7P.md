@@ -12,7 +12,9 @@ order: 2090
 links:
   - type: refines
     target: STK-75QZSA
+    confirmed: b8a4c00165fe
   - type: mitigates
     target: RSK-664XQZ
+    confirmed: d372fc071d5d
 ---
 The heating controller shall authenticate the connection state for up to 8 zones.

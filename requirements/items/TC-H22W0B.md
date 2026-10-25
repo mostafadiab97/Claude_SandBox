@@ -9,6 +9,7 @@ order: 250
 links:
   - type: verifies
     target: SYS-SSMA7A
+    confirmed: 5a9608084436
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

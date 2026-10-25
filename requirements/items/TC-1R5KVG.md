@@ -13,6 +13,7 @@ order: 1290
 links:
   - type: verifies
     target: SYS-X7MMJ8
+    confirmed: 0b9a1e94967b
 ---
 **Objective:** verify that the boiler interface behaves as specified.
 

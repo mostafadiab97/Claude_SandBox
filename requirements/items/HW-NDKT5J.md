@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-48BXDV
+    confirmed: b17b907e6406
 ---
 The enclosure shall validate access tokens without user interaction.
 

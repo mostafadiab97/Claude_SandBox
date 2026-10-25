@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-ZS700Y
+    confirmed: 3e1573548eed
 ---
 The encryption layer shall display audit records in under 3 s.
 

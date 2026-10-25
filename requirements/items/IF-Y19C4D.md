@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-5N9SCM
+    confirmed: "3408558e1049"
 ---
 The heat pump driver shall log the room temperature after a power loss.

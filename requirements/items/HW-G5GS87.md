@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: HW-S6JMJ6
+    confirmed: 8ab6dfc4cb16
 ---
 The relay board shall measure schedule entries in all supported languages.

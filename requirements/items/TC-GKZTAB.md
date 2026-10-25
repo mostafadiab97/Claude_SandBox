@@ -10,8 +10,10 @@ order: 420
 links:
   - type: verifies
     target: SYS-HDSJK7
+    confirmed: 051a9b0bce58
   - type: verifies
     target: SW-FM4SMD
+    confirmed: e433c3217e25
 ---
 **Objective:** verify that the boiler interface behaves as specified.
 

@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-7QNRB0
+    confirmed: a3f05325ad0a
 ---
 The notification service shall log user preferences below 0.5 W in standby.

@@ -11,6 +11,7 @@ order: 1830
 links:
   - type: refines
     target: STK-VT1KVD
+    confirmed: fbcfb8475f32
 ---
 The OTA server shall switch the connection state when the network is unavailable.
 

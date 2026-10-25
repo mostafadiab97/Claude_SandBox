@@ -13,5 +13,6 @@ order: 40
 links:
   - type: refines
     target: SYS-WZPXT3
+    confirmed: 758f34cfcd04
 ---
 The schedule editor shall calibrate humidity values without user interaction.

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-6YVE5W
+    confirmed: b6eeeafd6f52
 ---
 The home dashboard shall restore error conditions in under 3 s.
 

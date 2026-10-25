@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-8748WT
+    confirmed: 7ecbb4e96d40
 ---
 The status LED shall log relay events in all supported languages.
 

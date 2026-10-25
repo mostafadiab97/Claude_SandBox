@@ -9,8 +9,10 @@ order: 1220
 links:
   - type: verifies
     target: SYS-391421
+    confirmed: 4a1f14a81457
   - type: verifies
     target: SW-Y9SATP
+    confirmed: 707be61b086b
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

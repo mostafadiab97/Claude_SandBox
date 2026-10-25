@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-V1S2ND
+    confirmed: 4aae50eaee58
 ---
 The menu system shall store humidity values for at least 10 years.

@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-72RSQG
+    confirmed: d9f78fd2af42
 ---
 The home dashboard shall report humidity values for at least 10 years.

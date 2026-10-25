@@ -12,6 +12,7 @@ order: 1570
 links:
   - type: verifies
     target: SYS-NYS190
+    confirmed: ed22064137e9
 ---
 **Objective:** verify that the main PCB behaves as specified.
 

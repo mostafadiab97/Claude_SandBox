@@ -9,6 +9,7 @@ order: 960
 links:
   - type: refines
     target: STK-VT1KVD
+    confirmed: fbcfb8475f32
 ---
 The user account service shall calibrate safety limits with an accuracy of ±0.5 °C.
 

@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-RP1J10
+    confirmed: bb8a4ae9c942
 ---
 The power supply shall limit safety limits within 200 ms.
 

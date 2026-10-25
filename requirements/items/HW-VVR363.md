@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-PS392D
+    confirmed: 07104209359b
 ---
 The boiler interface shall store safety limits within 200 ms.
 

@@ -10,6 +10,7 @@ order: 150
 links:
   - type: relates-to
     target: STK-QN5QGR
+    confirmed: ae0f58e089a1
 ---
 **Actor:** home owner
 

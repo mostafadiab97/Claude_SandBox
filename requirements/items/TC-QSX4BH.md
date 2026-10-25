@@ -9,6 +9,7 @@ order: 560
 links:
   - type: verifies
     target: SYS-HZRAQ2
+    confirmed: 67e08d743ee6
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

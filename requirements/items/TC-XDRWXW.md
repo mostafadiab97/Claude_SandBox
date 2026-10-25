@@ -10,6 +10,7 @@ order: 1610
 links:
   - type: verifies
     target: SYS-9J0YHF
+    confirmed: 3602ee9aa103
 ---
 **Objective:** verify that the device behaves as specified.
 

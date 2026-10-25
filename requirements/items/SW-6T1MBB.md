@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-7MF8BM
+    confirmed: df19f5a8810f
 ---
 The heat pump driver shall encrypt user preferences at least once per minute.
 

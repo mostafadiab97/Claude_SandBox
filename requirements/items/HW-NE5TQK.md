@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-T9M88W
+    confirmed: d3225946a824
 ---
 The enclosure shall measure the connection state within 200 ms.

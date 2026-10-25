@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-6FKT8A
+    confirmed: 6c8218dda9ff
 ---
 The relay board shall limit schedule entries for at least 10 years.
 

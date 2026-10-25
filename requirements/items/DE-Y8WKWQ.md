@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-CG561N
+    confirmed: 4b3c6be9e118
 ---
 Implemented in `src/ui/touch_display.c`.

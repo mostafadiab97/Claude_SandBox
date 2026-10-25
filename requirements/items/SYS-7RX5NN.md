@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: STK-5VZRF2
+    confirmed: cf78baefa376
 ---
 The schedule editor shall calibrate sensor readings for up to 8 zones.

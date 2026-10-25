@@ -11,8 +11,10 @@ order: 260
 links:
   - type: verifies
     target: SYS-HS7YMC
+    confirmed: 0b69395daa11
   - type: verifies
     target: SW-XMXYED
+    confirmed: f55c6eef03e6
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

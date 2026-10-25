@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-12HMHQ
+    confirmed: ee11ddacfd4b
 ---
 The mobile app shall restore energy consumption in under 3 s.
 

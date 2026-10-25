@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-1EZV5G
+    confirmed: 3dec0cd02007
 ---
 The boiler interface shall detect access tokens after a power loss.
 

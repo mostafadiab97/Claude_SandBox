@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-4W17YE
+    confirmed: 91763bba0bd6
 ---
 The notification service shall store energy consumption for at least 10 years.
 

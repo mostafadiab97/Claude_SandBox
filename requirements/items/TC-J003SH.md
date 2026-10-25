@@ -10,8 +10,10 @@ order: 1190
 links:
   - type: verifies
     target: SYS-V9TTZK
+    confirmed: 19606134e5ee
   - type: verifies
     target: SW-MFPVJY
+    confirmed: cae59bc43b0e
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

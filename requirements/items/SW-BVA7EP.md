@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-DPJW7W
+    confirmed: 011bc9e01fc2
 ---
 The encryption layer shall validate the room temperature without user interaction.

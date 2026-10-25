@@ -12,8 +12,10 @@ order: 490
 links:
   - type: verifies
     target: SYS-CFWA46
+    confirmed: 13df4104599e
   - type: verifies
     target: SW-T6K42M
+    confirmed: baa32ece9812
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

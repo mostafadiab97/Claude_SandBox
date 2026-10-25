@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: HW-HHESAK
+    confirmed: 6b37096db50b
 ---
 The battery backup shall detect error conditions below 0.5 W in standby.

@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-64QHS8
+    confirmed: 16f3ad7fdfaa
 ---
 The mobile app shall log the room temperature below 0.5 W in standby.
 

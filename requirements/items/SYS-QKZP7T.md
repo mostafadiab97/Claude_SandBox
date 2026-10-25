@@ -13,6 +13,7 @@ order: 1350
 links:
   - type: refines
     target: STK-KPV71Q
+    confirmed: 10d9c216aea2
 ---
 The status LED shall validate schedule entries for up to 8 zones.
 

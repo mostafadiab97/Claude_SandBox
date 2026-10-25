@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-YX6EBV
+    confirmed: d90c022122ab
 ---
 The mobile app shall store error conditions after a power loss.

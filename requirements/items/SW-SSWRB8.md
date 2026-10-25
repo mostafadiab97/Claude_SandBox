@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-XQFY1R
+    confirmed: 3779f800690e
 ---
 The login screen shall report energy consumption when the network is unavailable.
 

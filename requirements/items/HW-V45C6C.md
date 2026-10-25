@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-NRW80T
+    confirmed: fe1d23af5525
 ---
 The power supply shall switch the connection state below 0.5 W in standby.
 

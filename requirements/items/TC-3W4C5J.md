@@ -10,6 +10,7 @@ order: 1620
 links:
   - type: verifies
     target: SYS-MK13B0
+    confirmed: 37b1ff049bc6
 ---
 **Objective:** verify that the device behaves as specified.
 

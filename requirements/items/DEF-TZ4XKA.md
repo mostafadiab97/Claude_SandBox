@@ -13,8 +13,10 @@ order: 150
 links:
   - type: relates-to
     target: TC-DPYGBP
+    confirmed: c8d1dbe24c12
   - type: relates-to
     target: SYS-NE90V9
+    confirmed: d34ffbeb0cc6
 ---
 Found during regression testing of build 2.7.35.
 

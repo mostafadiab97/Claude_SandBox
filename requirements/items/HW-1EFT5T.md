@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-4FGGM0
+    confirmed: 08bb9f68e463
 ---
 The cloud backend shall notify humidity values in under 3 s.

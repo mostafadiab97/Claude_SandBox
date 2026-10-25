@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-9W9NZD
+    confirmed: 4875c522f62f
 ---
 The touch display shall limit the connection state below 0.5 W in standby.

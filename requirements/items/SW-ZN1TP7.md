@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-M0N1SZ
+    confirmed: bca47f1251b2
 ---
 The backlight shall authenticate humidity values with an accuracy of ±0.5 °C.
 

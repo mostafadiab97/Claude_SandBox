@@ -10,8 +10,10 @@ order: 650
 links:
   - type: verifies
     target: SYS-JWK81Y
+    confirmed: 8656508483c4
   - type: verifies
     target: SW-GDVVE5
+    confirmed: b483650c28fc
 ---
 **Objective:** verify that the backlight behaves as specified.
 

@@ -13,6 +13,7 @@ order: 410
 links:
   - type: refines
     target: STK-HBX3YS
+    confirmed: b42a2f94d25d
 ---
 The home dashboard shall synchronise humidity values in all supported languages.
 

@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-RW42CM
+    confirmed: 28c35d155880
 ---
 The encryption layer shall store energy consumption with an accuracy of ±0.5 °C.

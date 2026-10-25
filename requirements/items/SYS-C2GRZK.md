@@ -10,8 +10,10 @@ order: 990
 links:
   - type: refines
     target: STK-ZJRWCQ
+    confirmed: 080168ea99ae
   - type: mitigates
     target: RSK-4WN2DG
+    confirmed: b41c475816a4
 ---
 The encryption layer shall validate the connection state when the network is unavailable.
 

@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-B2837M
+    confirmed: 53bb399bd946
 ---
 The local API shall switch error conditions using AES-256-GCM.
 

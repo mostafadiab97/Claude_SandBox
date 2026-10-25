@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-FT9SM6
+    confirmed: 023162502ec1
 ---
 The menu system shall measure user preferences at least once per minute.
 

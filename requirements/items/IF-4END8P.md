@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-RZG5Z7
+    confirmed: 75e860ade9bd
 ---
 The enclosure shall switch firmware images without user interaction.

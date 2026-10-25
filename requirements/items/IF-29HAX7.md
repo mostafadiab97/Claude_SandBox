@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-S7RBP0
+    confirmed: 4e24c6222487
 ---
 The backlight shall synchronise safety limits when the network is unavailable.
 

@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-N8A6YS
+    confirmed: d0b8c4d6001b
 ---
 The zone valve shall notify relay events in under 3 s.
 

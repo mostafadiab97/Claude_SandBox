@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-H2ZXTG
+    confirmed: b7cf40825d4f
 ---
 The rotary knob shall measure energy consumption at least once per minute.
 

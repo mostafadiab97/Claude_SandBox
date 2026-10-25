@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-PFQ8CS
+    confirmed: 06856c343214
 ---
 Implemented in `src/cloud/cloud_backend.c`.

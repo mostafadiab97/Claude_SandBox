@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-ERJC40
+    confirmed: f027b997b7f0
 ---
 The telemetry pipeline shall store access tokens for up to 8 zones.
 

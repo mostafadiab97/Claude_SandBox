@@ -10,6 +10,7 @@ order: 210
 links:
   - type: verifies
     target: SYS-JGTNYP
+    confirmed: 80eca18336ac
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

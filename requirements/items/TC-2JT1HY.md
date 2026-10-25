@@ -12,8 +12,10 @@ order: 900
 links:
   - type: verifies
     target: SYS-7WCAWK
+    confirmed: 872381f1db9b
   - type: verifies
     target: SW-VQGWRM
+    confirmed: 3987fa5a3edb
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

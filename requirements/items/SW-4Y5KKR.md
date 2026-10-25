@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-FJTSEK
+    confirmed: 0ff5a626958c
 ---
 The user account service shall authenticate the connection state with an accuracy of ±0.5 °C.

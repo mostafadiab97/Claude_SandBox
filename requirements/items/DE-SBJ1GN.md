@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-ZATT34
+    confirmed: dae835c8931c
 ---
 Implemented in `src/heat/heating_controller.c`.

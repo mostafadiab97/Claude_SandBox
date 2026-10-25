@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-WATCFH
+    confirmed: b64888f762a3
 ---
 The telemetry pipeline shall authenticate energy consumption for up to 8 zones.
 

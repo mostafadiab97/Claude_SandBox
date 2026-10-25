@@ -13,8 +13,10 @@ order: 590
 links:
   - type: refines
     target: STK-75QZSA
+    confirmed: b8a4c00165fe
   - type: mitigates
     target: RSK-G8ARKV
+    confirmed: dd1f8627cbb6
 ---
 The boiler interface shall log humidity values for up to 8 zones.
 

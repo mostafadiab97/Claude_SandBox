@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: IF-94WKBQ
+    confirmed: 5e1669c9f2d3
 ---
 The regulation loop shall limit audit records in all supported languages.
 

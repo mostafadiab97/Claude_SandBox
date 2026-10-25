@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-WQ0CE1
+    confirmed: 876eb172799e
 ---
 The zone valve shall detect user preferences with an accuracy of ±0.5 °C.
 

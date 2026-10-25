@@ -13,8 +13,10 @@ order: 330
 links:
   - type: refines
     target: STK-DJ9M3M
+    confirmed: ba30e28a130f
   - type: mitigates
     target: RSK-4WN2DG
+    confirmed: b41c475816a4
 ---
 The encryption layer shall authenticate schedule entries in all supported languages.
 

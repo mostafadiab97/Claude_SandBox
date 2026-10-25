@@ -14,8 +14,10 @@ order: 1400
 links:
   - type: verifies
     target: SYS-9KQ0S9
+    confirmed: bc8207c9b248
   - type: verifies
     target: SW-H71N1T
+    confirmed: 0448e6c3fca0
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

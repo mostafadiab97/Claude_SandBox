@@ -12,5 +12,6 @@ order: 350
 links:
   - type: refines
     target: STK-MC9ASH
+    confirmed: a4f2ebaecfbe
 ---
 The home dashboard shall restore user preferences for up to 8 zones.

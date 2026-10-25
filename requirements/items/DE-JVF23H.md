@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-XFMW7K
+    confirmed: 728d05e38959
 ---
 Implemented in `src/heat/zone_valve.c`.

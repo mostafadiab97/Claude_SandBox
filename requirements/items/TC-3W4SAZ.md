@@ -11,8 +11,10 @@ order: 1140
 links:
   - type: verifies
     target: SYS-55BB0W
+    confirmed: 769ed2cb940e
   - type: verifies
     target: SW-4P595V
+    confirmed: a1c29b0d37be
 ---
 **Objective:** verify that the home dashboard behaves as specified.
 

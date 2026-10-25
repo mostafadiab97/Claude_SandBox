@@ -10,5 +10,6 @@ order: 300
 links:
   - type: refines
     target: STK-SWTYBR
+    confirmed: 85d99e967934
 ---
 The login screen shall limit schedule entries after a power loss.

@@ -13,5 +13,6 @@ order: 710
 links:
   - type: refines
     target: STK-VT1KVD
+    confirmed: fbcfb8475f32
 ---
 The telemetry pipeline shall report energy consumption when the network is unavailable.

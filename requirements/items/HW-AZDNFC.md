@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-QS9FSV
+    confirmed: 545a69781e80
 ---
 The battery backup shall display user preferences at least once per minute.
 

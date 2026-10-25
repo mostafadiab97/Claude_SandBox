@@ -10,6 +10,7 @@ order: 490
 links:
   - type: verifies
     target: SYS-XF4596
+    confirmed: a0439b97be28
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: HW-Y2KS2G
+    confirmed: e18d4fb71c9c
 ---
 The status LED shall display the set point for up to 8 zones.
 

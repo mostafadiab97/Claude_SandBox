@@ -9,6 +9,7 @@ order: 1220
 links:
   - type: verifies
     target: SYS-228KWQ
+    confirmed: 96ed9cb06525
 ---
 **Objective:** verify that the device behaves as specified.
 

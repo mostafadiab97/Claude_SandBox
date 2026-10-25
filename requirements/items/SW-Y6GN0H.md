@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-0536MA
+    confirmed: c760f3df8901
 ---
 The Wi-Fi module shall synchronise energy consumption below 0.5 W in standby.
 

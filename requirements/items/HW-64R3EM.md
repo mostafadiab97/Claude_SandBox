@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-QYMGFJ
+    confirmed: 76b41175f9b8
 ---
 The regulation loop shall authenticate the room temperature with an accuracy of ±0.5 °C.
 

@@ -9,6 +9,7 @@ order: 1070
 links:
   - type: verifies
     target: SYS-3NA7W8
+    confirmed: 303f8590e242
 ---
 **Objective:** verify that the device behaves as specified.
 

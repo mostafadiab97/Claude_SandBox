@@ -13,5 +13,6 @@ order: 1670
 links:
   - type: refines
     target: STK-M7S0HJ
+    confirmed: 000356d5d38b
 ---
 The boiler interface shall switch sensor readings after a power loss.

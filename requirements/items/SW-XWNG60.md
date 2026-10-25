@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-0BXTN1
+    confirmed: 9b1a170f7c53
 ---
 The home dashboard shall encrypt error conditions for at least 10 years.
 

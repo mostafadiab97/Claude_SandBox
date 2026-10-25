@@ -9,8 +9,10 @@ order: 1550
 links:
   - type: verifies
     target: SYS-15TR5S
+    confirmed: 5313fbec9423
   - type: verifies
     target: SW-A2KNB8
+    confirmed: 36939cfa0171
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

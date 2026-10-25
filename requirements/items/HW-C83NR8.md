@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: HW-Z5G5XA
+    confirmed: f55f02f706c7
 ---
 The relay board shall authenticate user preferences using AES-256-GCM.

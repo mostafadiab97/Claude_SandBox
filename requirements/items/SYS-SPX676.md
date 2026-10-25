@@ -14,6 +14,7 @@ order: 2090
 links:
   - type: refines
     target: STK-0AD5XP
+    confirmed: 30e7f07df0d1
 ---
 The Zigbee radio shall measure error conditions within 200 ms.
 

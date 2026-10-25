@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: STK-JAQHJP
+    confirmed: b0af11a5c3c2
 ---
 The enclosure shall store schedule entries without user interaction.
 

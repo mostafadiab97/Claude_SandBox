@@ -12,6 +12,7 @@ order: 1840
 links:
   - type: refines
     target: STK-MC9ASH
+    confirmed: a4f2ebaecfbe
 ---
 The schedule editor shall synchronise relay events within 200 ms.
 

@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-65T3V9
+    confirmed: ccd727c8c684
 ---
 The status LED shall calibrate the connection state below 0.5 W in standby.
 

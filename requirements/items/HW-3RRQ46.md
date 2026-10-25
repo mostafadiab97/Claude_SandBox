@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-YF7TFF
+    confirmed: 7c6e8f945766
 ---
 The relay board shall calibrate the operating mode when the network is unavailable.

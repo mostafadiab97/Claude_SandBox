@@ -10,6 +10,7 @@ order: 590
 links:
   - type: refines
     target: STK-GMCKMF
+    confirmed: 0937b27654b1
 ---
 The Zigbee radio shall synchronise the connection state at least once per minute.
 

@@ -13,6 +13,7 @@ order: 550
 links:
   - type: refines
     target: STK-F7D2QS
+    confirmed: bd8a3050a12b
 ---
 The Bluetooth LE link shall detect the set point within 200 ms.
 

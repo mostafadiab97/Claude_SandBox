@@ -12,6 +12,7 @@ order: 860
 links:
   - type: refines
     target: STK-JAQHJP
+    confirmed: b0af11a5c3c2
 ---
 The relay board shall store the connection state for up to 8 zones.
 

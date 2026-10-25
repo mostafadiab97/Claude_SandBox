@@ -10,6 +10,7 @@ order: 520
 links:
   - type: verifies
     target: SYS-XT9RX8
+    confirmed: ba8e9786a00b
 ---
 **Objective:** verify that the local API behaves as specified.
 

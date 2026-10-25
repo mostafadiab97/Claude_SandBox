@@ -9,8 +9,10 @@ order: 70
 links:
   - type: relates-to
     target: TC-95YRV4
+    confirmed: 2c47ff4fb672
   - type: relates-to
     target: SYS-HJM62M
+    confirmed: 1d6deddc1634
 ---
 Found during regression testing of build 2.4.18.
 

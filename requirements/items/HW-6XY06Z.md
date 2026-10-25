@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-M866DW
+    confirmed: ca116b04f822
 ---
 The cloud backend shall validate energy consumption in under 3 s.

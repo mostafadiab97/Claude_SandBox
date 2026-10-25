@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-HRGRT7
+    confirmed: 6272a36b2035
 ---
 The pairing process shall log firmware images within 200 ms.
 

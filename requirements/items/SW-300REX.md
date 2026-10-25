@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-1F54XW
+    confirmed: 63e961a2987d
 ---
 The cloud backend shall store schedule entries with an accuracy of ±0.5 °C.

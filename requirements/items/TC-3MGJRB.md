@@ -14,6 +14,7 @@ order: 1130
 links:
   - type: verifies
     target: SYS-ZW9PC7
+    confirmed: cf666200a270
 ---
 **Objective:** verify that the device behaves as specified.
 

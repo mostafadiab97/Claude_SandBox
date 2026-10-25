@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-6085Y8
+    confirmed: d22ffa0b21da
 ---
 The home dashboard shall log the set point for up to 8 zones.

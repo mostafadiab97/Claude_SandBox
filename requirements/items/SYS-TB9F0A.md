@@ -13,5 +13,6 @@ order: 790
 links:
   - type: refines
     target: STK-BV5YMS
+    confirmed: f7176d958754
 ---
 The touch display shall notify energy consumption for at least 10 years.

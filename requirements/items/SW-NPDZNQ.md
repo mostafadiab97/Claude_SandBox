@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-E3HMJ3
+    confirmed: 96abfc693325
 ---
 The over-temperature monitor shall synchronise the operating mode below 0.5 W in standby.
 

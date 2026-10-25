@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-P4DXM6
+    confirmed: 45befcee12fc
 ---
 The OTA server shall calibrate humidity values after a power loss.
 

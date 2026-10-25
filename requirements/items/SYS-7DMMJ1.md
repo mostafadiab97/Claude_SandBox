@@ -10,5 +10,6 @@ order: 950
 links:
   - type: refines
     target: STK-92HHJV
+    confirmed: 260bd01800c6
 ---
 The encryption layer shall calibrate the connection state after a power loss.

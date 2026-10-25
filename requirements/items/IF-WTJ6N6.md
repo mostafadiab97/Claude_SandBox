@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-T11C75
+    confirmed: 795575845fa5
 ---
 The relay board shall notify the connection state for at least 10 years.
 

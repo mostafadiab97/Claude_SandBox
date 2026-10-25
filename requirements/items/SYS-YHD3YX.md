@@ -9,8 +9,10 @@ order: 1350
 links:
   - type: refines
     target: STK-1TB226
+    confirmed: ea29425b18b7
   - type: mitigates
     target: RSK-4WN2DG
+    confirmed: b41c475816a4
 ---
 The watchdog shall display safety limits after a power loss.
 

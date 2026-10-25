@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-228KWQ
+    confirmed: 96ed9cb06525
 ---
 The home dashboard shall switch firmware images in under 3 s.

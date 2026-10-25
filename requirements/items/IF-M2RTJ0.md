@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-4BMNYZ
+    confirmed: 46035baf3f33
 ---
 The power supply shall encrypt the operating mode when the network is unavailable.
 

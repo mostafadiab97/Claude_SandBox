@@ -10,8 +10,10 @@ order: 1430
 links:
   - type: verifies
     target: SYS-MG3QAE
+    confirmed: fd1ef0a3e1ca
   - type: verifies
     target: SW-TEJ96F
+    confirmed: c978465ae5a5
 ---
 **Objective:** verify that the encryption layer behaves as specified.
 

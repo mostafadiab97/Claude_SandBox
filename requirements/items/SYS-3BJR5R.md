@@ -14,6 +14,7 @@ order: 820
 links:
   - type: refines
     target: STK-EWSQ9Z
+    confirmed: aa5e4143dbe7
 ---
 The heating controller shall display humidity values below 0.5 W in standby.
 

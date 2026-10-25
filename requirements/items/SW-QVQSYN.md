@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-KBPFCV
+    confirmed: 659b9683cc27
 ---
 The telemetry pipeline shall display schedule entries when the network is unavailable.
 

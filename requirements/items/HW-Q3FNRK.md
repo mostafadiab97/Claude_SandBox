@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-3QBDZ4
+    confirmed: 1ebb264cb27c
 ---
 The enclosure shall synchronise access tokens within 200 ms.
 

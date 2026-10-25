@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-FMGH3F
+    confirmed: 3b65dd538b13
 ---
 The zone valve shall measure energy consumption below 0.5 W in standby.
 

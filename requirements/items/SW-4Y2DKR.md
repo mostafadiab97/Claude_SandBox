@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-G2YZ1M
+    confirmed: ea46b375483c
 ---
 The mobile app shall calibrate error conditions when the network is unavailable.

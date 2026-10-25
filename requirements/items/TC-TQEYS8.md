@@ -13,8 +13,10 @@ order: 1190
 links:
   - type: verifies
     target: SYS-8T3EWK
+    confirmed: 6237143aa404
   - type: verifies
     target: SW-G8JVAK
+    confirmed: 069c0638481f
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

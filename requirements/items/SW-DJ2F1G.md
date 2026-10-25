@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-JGZMEV
+    confirmed: 06d6346c072b
 ---
 The menu system shall log sensor readings without user interaction.
 

@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-X7TZE1
+    confirmed: bb184a855ba1
 ---
 Implemented in `src/cloud/cloud_backend.c`.

@@ -13,6 +13,7 @@ order: 600
 links:
   - type: verifies
     target: SYS-EJR3YH
+    confirmed: 7b3dac33b561
 ---
 **Objective:** verify that the device behaves as specified.
 

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-21S4KC
+    confirmed: 3c1f845c98e2
 ---
 The pairing process shall authenticate audit records within 200 ms.

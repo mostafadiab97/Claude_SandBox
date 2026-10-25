@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-MTM77X
+    confirmed: 9fccf544d618
 ---
 The schedule editor shall notify the room temperature after a power loss.
 

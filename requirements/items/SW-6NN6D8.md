@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-E8YWD2
+    confirmed: 5ab6d3697437
 ---
 The menu system shall synchronise error conditions for at least 10 years.

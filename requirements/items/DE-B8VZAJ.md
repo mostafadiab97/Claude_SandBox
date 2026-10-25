@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-ZB0DDW
+    confirmed: af5a2c06cd1b
 ---
 Implemented in `src/cloud/OTA_server.c`.

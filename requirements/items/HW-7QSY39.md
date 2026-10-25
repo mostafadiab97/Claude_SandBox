@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: SYS-6WGPXQ
+    confirmed: 43c54a753927
 ---
 The pairing process shall detect error conditions after a power loss.

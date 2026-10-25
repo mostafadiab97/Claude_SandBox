@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-59QMSN
+    confirmed: 261ae2911413
 ---
 The device registry shall log relay events with an accuracy of ±0.5 °C.

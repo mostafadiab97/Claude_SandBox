@@ -14,6 +14,7 @@ order: 460
 links:
   - type: verifies
     target: SYS-G2M4V8
+    confirmed: 404b82aa8516
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

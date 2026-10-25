@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-QHMFA6
+    confirmed: 9375eb52bc71
 ---
 The mobile app shall synchronise firmware images using AES-256-GCM.
 

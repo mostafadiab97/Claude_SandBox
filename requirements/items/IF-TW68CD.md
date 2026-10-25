@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-YWXHFA
+    confirmed: ee4bee4c5185
 ---
 The device registry shall calibrate schedule entries for up to 8 zones.
 

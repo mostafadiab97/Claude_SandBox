@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-86TVC3
+    confirmed: 8772ff9793ef
 ---
 Implemented in `src/conn/pairing_process.c`.

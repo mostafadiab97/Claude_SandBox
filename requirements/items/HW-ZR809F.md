@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-K8C5H7
+    confirmed: 968ca6703d93
 ---
 The heat pump driver shall restore firmware images for up to 8 zones.
 

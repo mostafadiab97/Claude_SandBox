@@ -12,8 +12,10 @@ order: 960
 links:
   - type: verifies
     target: SYS-ZVPM29
+    confirmed: 74f2cdf0b355
   - type: verifies
     target: SW-ZJ6HPB
+    confirmed: 3b830706ec65
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

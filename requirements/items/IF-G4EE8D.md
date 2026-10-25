@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-A10V0R
+    confirmed: ff47382f2bba
 ---
 The user account service shall limit the room temperature after a power loss.
 

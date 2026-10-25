@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: IF-83JXNJ
+    confirmed: a7628ee41db0
 ---
 The Bluetooth LE link shall notify humidity values for up to 8 zones.

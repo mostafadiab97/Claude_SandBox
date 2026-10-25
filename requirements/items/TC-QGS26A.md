@@ -12,8 +12,10 @@ order: 160
 links:
   - type: verifies
     target: SYS-N3WYBE
+    confirmed: 7445dfc2f902
   - type: verifies
     target: SW-CKV9F9
+    confirmed: fe421b8ece61
 ---
 **Objective:** verify that the local API behaves as specified.
 

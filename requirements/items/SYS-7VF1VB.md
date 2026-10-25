@@ -10,6 +10,7 @@ order: 1500
 links:
   - type: refines
     target: STK-Q8BNKR
+    confirmed: 6deaa78e6ab3
 ---
 The boiler interface shall log the operating mode below 0.5 W in standby.
 

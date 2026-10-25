@@ -14,5 +14,6 @@ order: 40
 links:
   - type: refines
     target: SYS-TGB5BV
+    confirmed: efddaa3f87b9
 ---
 The Bluetooth LE link shall measure audit records at least once per minute.

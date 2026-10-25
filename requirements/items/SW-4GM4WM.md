@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SW-03AXYD
+    confirmed: f77f3f2cbfa3
 ---
 The mobile app shall report safety limits within 200 ms.

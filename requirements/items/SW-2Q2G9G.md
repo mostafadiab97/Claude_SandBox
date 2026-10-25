@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-JPMEEK
+    confirmed: d8ff834963a5
 ---
 The tamper detection shall authenticate safety limits using AES-256-GCM.
 

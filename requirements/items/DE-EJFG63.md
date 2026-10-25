@@ -13,5 +13,6 @@ order: 20
 links:
   - type: implements
     target: SW-GR1195
+    confirmed: 3faf6fa03816
 ---
 Implemented in `src/conn/pairing_process.c`.

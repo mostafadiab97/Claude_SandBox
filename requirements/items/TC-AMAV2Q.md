@@ -13,6 +13,7 @@ order: 1480
 links:
   - type: verifies
     target: SYS-ZM6EM1
+    confirmed: bc2cbad41247
 ---
 **Objective:** verify that the enclosure behaves as specified.
 

@@ -10,6 +10,7 @@ order: 640
 links:
   - type: verifies
     target: SYS-WTN381
+    confirmed: 0039c77a1442
 ---
 **Objective:** verify that the backlight behaves as specified.
 

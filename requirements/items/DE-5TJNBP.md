@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-3SMRDT
+    confirmed: 3f1cd8597b5d
 ---
 Implemented in `src/ui/touch_display.c`.

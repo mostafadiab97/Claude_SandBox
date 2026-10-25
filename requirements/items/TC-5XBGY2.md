@@ -12,6 +12,7 @@ order: 1420
 links:
   - type: verifies
     target: SYS-XJA19E
+    confirmed: 282475b49d82
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

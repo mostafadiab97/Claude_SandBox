@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-CN5R0M
+    confirmed: 799043feacf1
 ---
 The rotary knob shall calibrate user preferences for at least 10 years.
 

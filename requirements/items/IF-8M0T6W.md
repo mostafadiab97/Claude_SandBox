@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-44HBM9
+    confirmed: ebc73cf4101f
 ---
 The backlight shall detect firmware images with an accuracy of ±0.5 °C.
 

@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-TTBHSQ
+    confirmed: ac320e4fa404
 ---
 The telemetry pipeline shall store error conditions without user interaction.
 

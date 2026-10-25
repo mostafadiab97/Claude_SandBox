@@ -10,6 +10,7 @@ order: 540
 links:
   - type: verifies
     target: SYS-FA8CFD
+    confirmed: 7868d91ae4aa
 ---
 **Objective:** verify that the device behaves as specified.
 

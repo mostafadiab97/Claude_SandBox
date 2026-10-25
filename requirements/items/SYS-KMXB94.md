@@ -10,6 +10,7 @@ order: 1560
 links:
   - type: refines
     target: STK-0AD5XP
+    confirmed: 30e7f07df0d1
 ---
 The pairing process shall detect firmware images below 0.5 W in standby.
 

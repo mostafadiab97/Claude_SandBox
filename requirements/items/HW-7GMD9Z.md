@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-SD1N38
+    confirmed: 5e8b057ab780
 ---
 The mobile app shall display firmware images for up to 8 zones.
 

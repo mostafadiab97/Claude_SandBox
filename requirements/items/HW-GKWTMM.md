@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-9FTG47
+    confirmed: 6b7150a5bc62
 ---
 The secure boot shall log safety limits below 0.5 W in standby.
 

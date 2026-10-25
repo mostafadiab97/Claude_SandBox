@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-DVVHDS
+    confirmed: 4dd9d3896181
 ---
 Implemented in `src/safe/over-temperature_monitor.c`.

@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-4TR0HS
+    confirmed: 6565df30ea92
 ---
 The menu system shall validate audit records without user interaction.
 

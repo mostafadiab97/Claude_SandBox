@@ -12,6 +12,7 @@ order: 1240
 links:
   - type: verifies
     target: SYS-C3RKXE
+    confirmed: 4c2aa84ed807
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

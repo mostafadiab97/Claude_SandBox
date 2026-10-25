@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: HW-QXT3QX
+    confirmed: 3dd668dae6ce
 ---
 The enclosure shall synchronise humidity values when the network is unavailable.
 

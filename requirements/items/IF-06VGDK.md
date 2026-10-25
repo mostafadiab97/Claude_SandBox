@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-FMVZ4N
+    confirmed: 64d198139b67
 ---
 The over-temperature monitor shall measure the room temperature for up to 8 zones.

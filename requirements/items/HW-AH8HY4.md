@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-Q8N9T6
+    confirmed: 55ff8164a05e
 ---
 The battery backup shall log relay events within 200 ms.
 

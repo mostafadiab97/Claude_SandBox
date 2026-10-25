@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XDP32K
+    confirmed: ee2b513b5faa
 ---
 The relay board shall limit audit records with an accuracy of ±0.5 °C.
 

@@ -11,6 +11,7 @@ order: 850
 links:
   - type: refines
     target: STK-2STGXE
+    confirmed: c77fe61daf4b
 ---
 The relay board shall validate the set point within 200 ms.
 

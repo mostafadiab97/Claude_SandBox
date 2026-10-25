@@ -13,6 +13,7 @@ order: 1130
 links:
   - type: refines
     target: STK-TT8FXG
+    confirmed: 85d87c7e9a76
 ---
 The relay board shall restore relay events when the network is unavailable.
 

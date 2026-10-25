@@ -11,6 +11,7 @@ order: 760
 links:
   - type: verifies
     target: SYS-7SSV4S
+    confirmed: b8e679420187
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

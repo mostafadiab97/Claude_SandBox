@@ -9,5 +9,6 @@ order: 40
 links:
   - type: refines
     target: SYS-PEWC57
+    confirmed: f5d264e731c2
 ---
 The status LED shall notify relay events when the network is unavailable.

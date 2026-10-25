@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-YTH8E5
+    confirmed: d8d0d1c6087d
 ---
 The power supply shall validate sensor readings in all supported languages.
 

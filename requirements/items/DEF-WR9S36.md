@@ -13,8 +13,10 @@ order: 110
 links:
   - type: relates-to
     target: TC-FW3SHK
+    confirmed: 37bf125acf75
   - type: relates-to
     target: SYS-3CAV4T
+    confirmed: e3cc68adfaa3
 ---
 Found during regression testing of build 2.5.28.
 

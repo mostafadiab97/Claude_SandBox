@@ -10,6 +10,7 @@ order: 1880
 links:
   - type: verifies
     target: SYS-CRRCSR
+    confirmed: e29ae9264b3a
 ---
 **Objective:** verify that the device behaves as specified.
 

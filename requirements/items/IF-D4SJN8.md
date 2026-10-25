@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-QNW27Q
+    confirmed: 560625c6b46e
 ---
 The zone valve shall report error conditions using AES-256-GCM.
 

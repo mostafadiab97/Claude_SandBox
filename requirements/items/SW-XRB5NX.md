@@ -11,6 +11,7 @@ order: 40
 links:
   - type: refines
     target: SYS-DCDDTY
+    confirmed: 5b47c2ab88c1
 ---
 The watchdog shall display access tokens when the network is unavailable.
 

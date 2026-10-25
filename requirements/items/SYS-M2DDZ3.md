@@ -14,7 +14,9 @@ order: 1320
 links:
   - type: refines
     target: STK-BR4RT9
+    confirmed: 16def0c1f947
   - type: mitigates
     target: RSK-0CZX1J
+    confirmed: 9a18d4435be9
 ---
 The mobile app shall detect audit records for at least 10 years.

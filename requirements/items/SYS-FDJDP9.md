@@ -14,6 +14,7 @@ order: 930
 links:
   - type: refines
     target: STK-SZWQ0A
+    confirmed: fc1f05b44684
 ---
 The secure boot shall display sensor readings within 200 ms.
 

@@ -14,6 +14,7 @@ order: 1050
 links:
   - type: refines
     target: STK-XSQC89
+    confirmed: 66c246d6b1dc
 ---
 The over-temperature monitor shall limit humidity values after a power loss.
 

@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-G1PHXX
+    confirmed: bf662a260349
 ---
 The boiler interface shall encrypt safety limits without user interaction.
 

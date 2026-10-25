@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-ZJ3YPK
+    confirmed: 7ec3f22748f9
 ---
 The zone valve shall measure user preferences using AES-256-GCM.
 

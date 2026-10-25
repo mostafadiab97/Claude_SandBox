@@ -10,6 +10,7 @@ order: 1800
 links:
   - type: verifies
     target: SYS-XZE9DK
+    confirmed: 7345ac77c8fe
 ---
 **Objective:** verify that the device behaves as specified.
 

@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-V3KNC0
+    confirmed: c71efbcdb7bc
 ---
 The battery backup shall validate error conditions when the network is unavailable.
 

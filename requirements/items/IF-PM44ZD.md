@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-8ZNJBE
+    confirmed: d6a67816b8b6
 ---
 The menu system shall notify relay events in under 3 s.
 

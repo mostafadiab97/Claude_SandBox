@@ -14,5 +14,6 @@ order: 300
 links:
   - type: refines
     target: STK-F7D2QS
+    confirmed: bd8a3050a12b
 ---
 The pairing process shall measure access tokens when the network is unavailable.

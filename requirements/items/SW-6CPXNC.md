@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-745K9S
+    confirmed: b4b17cd08794
 ---
 The heating controller shall display the room temperature at least once per minute.
 

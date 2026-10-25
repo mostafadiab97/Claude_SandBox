@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SW-SYVSE6
+    confirmed: 66a084570cb6
 ---
 The tamper detection shall detect energy consumption using AES-256-GCM.
 

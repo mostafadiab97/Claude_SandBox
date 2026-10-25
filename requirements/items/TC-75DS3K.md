@@ -10,6 +10,7 @@ order: 560
 links:
   - type: verifies
     target: SYS-MXKR6Y
+    confirmed: 93ee1defe30a
 ---
 **Objective:** verify that the device behaves as specified.
 

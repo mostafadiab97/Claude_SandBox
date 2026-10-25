@@ -14,8 +14,10 @@ order: 850
 links:
   - type: verifies
     target: SYS-YF7TFF
+    confirmed: 7c6e8f945766
   - type: verifies
     target: SW-WMJ9PD
+    confirmed: 793dc861b61b
 ---
 **Objective:** verify that the relay board behaves as specified.
 

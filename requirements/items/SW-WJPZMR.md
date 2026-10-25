@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-J7BTY7
+    confirmed: 407923e760c5
 ---
 The status LED shall report relay events in under 3 s.

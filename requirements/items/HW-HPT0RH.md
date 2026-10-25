@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-59MM6H
+    confirmed: 45d68bfca0bb
 ---
 The OTA server shall synchronise user preferences below 0.5 W in standby.
 

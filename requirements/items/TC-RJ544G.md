@@ -10,8 +10,10 @@ order: 920
 links:
   - type: verifies
     target: SYS-AP48M6
+    confirmed: 5bc25d897362
   - type: verifies
     target: SW-D7YQPY
+    confirmed: 9ffbd35fed34
 ---
 **Objective:** verify that the device registry behaves as specified.
 

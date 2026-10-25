@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-SASG4P
+    confirmed: 00a1e26f4144
 ---
 The device registry shall authenticate the connection state for at least 10 years.
 

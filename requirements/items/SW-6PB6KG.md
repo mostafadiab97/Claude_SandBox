@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-JB56QD
+    confirmed: 445531d1bb9c
 ---
 The regulation loop shall store the set point below 0.5 W in standby.
 

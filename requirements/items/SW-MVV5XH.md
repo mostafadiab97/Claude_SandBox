@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-6DS2H0
+    confirmed: 108113d0fa0b
 ---
 The touch display shall switch user preferences without user interaction.
 

@@ -10,8 +10,10 @@ order: 480
 links:
   - type: verifies
     target: SYS-PQPJM5
+    confirmed: 743135e74e23
   - type: verifies
     target: SW-69Q8PV
+    confirmed: 8a81734f6f33
 ---
 **Objective:** verify that the heat pump driver behaves as specified.
 

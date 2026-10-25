@@ -13,5 +13,6 @@ order: 1790
 links:
   - type: refines
     target: STK-CDR1Y9
+    confirmed: 0ced3207c14d
 ---
 The main PCB shall log the room temperature when the network is unavailable.

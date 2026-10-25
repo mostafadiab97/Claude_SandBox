@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: IF-4K0P3R
+    confirmed: 044a8b7cea87
 ---
 The home dashboard shall display access tokens after a power loss.

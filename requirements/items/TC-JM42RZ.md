@@ -10,8 +10,10 @@ order: 1270
 links:
   - type: verifies
     target: SYS-045KKD
+    confirmed: 1b2f3a28be4f
   - type: verifies
     target: SW-2HF5NK
+    confirmed: 8fd5ce6bf558
 ---
 **Objective:** verify that the status LED behaves as specified.
 

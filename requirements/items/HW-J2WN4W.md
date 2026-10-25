@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: HW-H23JGP
+    confirmed: 79ecb365b87e
 ---
 The over-temperature monitor shall report sensor readings in under 3 s.

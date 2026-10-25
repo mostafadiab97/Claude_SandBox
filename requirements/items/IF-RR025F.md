@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-K86C96
+    confirmed: ddea1423ffa8
 ---
 The status LED shall detect energy consumption below 0.5 W in standby.
 

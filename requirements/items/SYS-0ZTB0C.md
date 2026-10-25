@@ -12,5 +12,6 @@ order: 370
 links:
   - type: refines
     target: STK-71VSKB
+    confirmed: 994ecb1eff6f
 ---
 The local API shall display the connection state below 0.5 W in standby.

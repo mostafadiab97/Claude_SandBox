@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-J8KXNV
+    confirmed: 4e8f4d1951f6
 ---
 Implemented in `src/safe/tamper_detection.c`.

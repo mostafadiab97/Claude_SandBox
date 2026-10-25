@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-R6BCVX
+    confirmed: 22f4af60b62c
 ---
 The power supply shall notify relay events when the network is unavailable.
 

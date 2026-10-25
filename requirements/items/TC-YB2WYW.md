@@ -12,6 +12,7 @@ order: 1120
 links:
   - type: verifies
     target: SYS-8AGCNN
+    confirmed: 494337b838a6
 ---
 **Objective:** verify that the notification service behaves as specified.
 

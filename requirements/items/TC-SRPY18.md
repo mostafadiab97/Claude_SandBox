@@ -13,6 +13,7 @@ order: 1050
 links:
   - type: verifies
     target: SYS-A19YDT
+    confirmed: 102a3545c778
 ---
 **Objective:** verify that the secure boot behaves as specified.
 

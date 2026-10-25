@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-CABT71
+    confirmed: de618562979c
 ---
 The rotary knob shall calibrate the room temperature with an accuracy of ±0.5 °C.
 

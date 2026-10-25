@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-HF856T
+    confirmed: 96551a11c8e9
 ---
 The secure boot shall calibrate the operating mode after a power loss.

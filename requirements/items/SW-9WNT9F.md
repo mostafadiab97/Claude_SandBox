@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-2M20D2
+    confirmed: b57795c968ed
 ---
 The rotary knob shall detect safety limits at least once per minute.
 

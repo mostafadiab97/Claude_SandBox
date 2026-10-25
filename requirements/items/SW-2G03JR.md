@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-V0E8NK
+    confirmed: 8b83909c9c36
 ---
 The device registry shall authenticate audit records after a power loss.
 

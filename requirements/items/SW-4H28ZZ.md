@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-AFWWZ5
+    confirmed: 67e16f182216
 ---
 The local API shall notify the room temperature for up to 8 zones.
 

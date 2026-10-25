@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-EXGREK
+    confirmed: 8591c1eaac71
 ---
 The Bluetooth LE link shall display the operating mode without user interaction.
 

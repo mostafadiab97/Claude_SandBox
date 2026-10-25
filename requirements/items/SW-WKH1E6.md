@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-GBXCHX
+    confirmed: 0ce68205e703
 ---
 The OTA server shall switch schedule entries within 200 ms.

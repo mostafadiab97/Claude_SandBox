@@ -13,6 +13,7 @@ order: 440
 links:
   - type: refines
     target: STK-75QZSA
+    confirmed: b8a4c00165fe
 ---
 The heat pump driver shall measure error conditions when the network is unavailable.
 

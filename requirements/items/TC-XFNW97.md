@@ -13,6 +13,7 @@ order: 70
 links:
   - type: verifies
     target: SYS-KZYDJR
+    confirmed: c4c96610c247
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.
 

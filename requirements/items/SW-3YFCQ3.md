@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SW-3S3QPN
+    confirmed: 650f794940e6
 ---
 The home dashboard shall limit sensor readings when the network is unavailable.

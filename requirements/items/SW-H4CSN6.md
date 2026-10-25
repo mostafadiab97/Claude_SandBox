@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-CQBB7Y
+    confirmed: 96aa1de698de
 ---
 The heat pump driver shall encrypt audit records for up to 8 zones.

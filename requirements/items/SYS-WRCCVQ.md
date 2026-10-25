@@ -10,6 +10,7 @@ order: 1270
 links:
   - type: refines
     target: STK-M28XWW
+    confirmed: bcf262f10744
 ---
 The enclosure shall switch energy consumption for at least 10 years.
 

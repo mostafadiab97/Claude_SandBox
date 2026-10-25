@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-WTMM9P
+    confirmed: f9afa2fdb4af
 ---
 The Wi-Fi module shall validate the connection state for at least 10 years.

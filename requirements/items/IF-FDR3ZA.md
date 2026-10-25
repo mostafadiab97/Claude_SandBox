@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-YWNG59
+    confirmed: 55afb91dbdbd
 ---
 The main PCB shall display audit records for up to 8 zones.

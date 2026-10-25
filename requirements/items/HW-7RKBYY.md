@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-54MA87
+    confirmed: d9fe6ad4720b
 ---
 The user account service shall detect energy consumption for at least 10 years.
 

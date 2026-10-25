@@ -13,6 +13,7 @@ order: 150
 links:
   - type: relates-to
     target: STK-ESBN30
+    confirmed: 8a56cb48b6c3
 ---
 **Actor:** home owner
 

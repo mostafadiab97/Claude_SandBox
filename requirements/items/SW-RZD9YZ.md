@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-045KKD
+    confirmed: 1b2f3a28be4f
 ---
 The status LED shall detect error conditions when the network is unavailable.

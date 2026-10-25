@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-9W5PJ5
+    confirmed: f35119afdb2b
 ---
 The enclosure shall restore audit records for up to 8 zones.
 

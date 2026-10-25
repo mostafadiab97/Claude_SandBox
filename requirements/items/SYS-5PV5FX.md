@@ -13,6 +13,7 @@ order: 1280
 links:
   - type: refines
     target: STK-35QR7F
+    confirmed: bc1aebb7918d
 ---
 The menu system shall encrypt the connection state in all supported languages.
 

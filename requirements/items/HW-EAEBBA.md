@@ -9,5 +9,6 @@ order: 20
 links:
   - type: refines
     target: SYS-32XAX6
+    confirmed: 2378f419d8e3
 ---
 The local API shall switch user preferences after a power loss.

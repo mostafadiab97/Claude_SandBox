@@ -12,5 +12,6 @@ order: 10
 links:
   - type: implements
     target: SW-6T1MBB
+    confirmed: e4527fa2a61d
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

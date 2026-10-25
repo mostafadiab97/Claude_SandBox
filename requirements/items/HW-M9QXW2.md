@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-E3W0C4
+    confirmed: 6069f1d540ab
 ---
 The enclosure shall detect schedule entries within 200 ms.
 

@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-DZR11A
+    confirmed: f59e21414ac4
 ---
 The relay board shall report the room temperature when the network is unavailable.
 

@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-ECD1HY
+    confirmed: 7483f5483c58
 ---
 The touch display shall detect the connection state for at least 10 years.
 

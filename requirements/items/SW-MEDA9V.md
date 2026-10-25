@@ -10,5 +10,6 @@ order: 40
 links:
   - type: refines
     target: SYS-K367WR
+    confirmed: 639fddbac072
 ---
 The user account service shall switch the room temperature for up to 8 zones.

@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: IF-ECCB1C
+    confirmed: e3b7028754f0
 ---
 The Zigbee radio shall restore the set point at least once per minute.

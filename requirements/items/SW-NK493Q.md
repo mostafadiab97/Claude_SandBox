@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-VPGXCD
+    confirmed: 39dcc2afc00b
 ---
 The mobile app shall synchronise access tokens below 0.5 W in standby.
 

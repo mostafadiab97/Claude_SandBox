@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-ZTHS0F
+    confirmed: 1917153ef15c
 ---
 The Zigbee radio shall store firmware images below 0.5 W in standby.
 

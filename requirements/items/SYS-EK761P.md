@@ -10,6 +10,7 @@ order: 1290
 links:
   - type: refines
     target: STK-JFBQPS
+    confirmed: 5027ee1822eb
 ---
 The OTA server shall display energy consumption without user interaction.
 

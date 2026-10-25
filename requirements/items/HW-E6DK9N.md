@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-PE30TZ
+    confirmed: a28dc7cfde25
 ---
 The tamper detection shall switch the room temperature with an accuracy of ±0.5 °C.
 

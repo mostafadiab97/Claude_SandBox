@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-X4ZQAJ
+    confirmed: 6b28de77da9f
 ---
 The telemetry pipeline shall authenticate access tokens for up to 8 zones.
 

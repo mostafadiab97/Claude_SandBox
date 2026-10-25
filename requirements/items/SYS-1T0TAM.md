@@ -10,8 +10,10 @@ order: 1240
 links:
   - type: refines
     target: STK-KEP05J
+    confirmed: 74304e03fe52
   - type: mitigates
     target: RSK-4NE1NJ
+    confirmed: 56f6781ca0d3
 ---
 The battery backup shall log the set point after a power loss.
 

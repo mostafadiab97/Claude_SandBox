@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-H53211
+    confirmed: af6e93d43894
 ---
 The rotary knob shall display firmware images below 0.5 W in standby.
 

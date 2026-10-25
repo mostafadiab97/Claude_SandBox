@@ -10,6 +10,7 @@ order: 480
 links:
   - type: verifies
     target: SYS-K3Z0CT
+    confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.
 

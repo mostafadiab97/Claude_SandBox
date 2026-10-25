@@ -10,5 +10,6 @@ order: 760
 links:
   - type: refines
     target: STK-XSQC89
+    confirmed: 66c246d6b1dc
 ---
 The secure boot shall store the set point in under 3 s.

@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-0VY277
+    confirmed: 14b68369c30c
 ---
 The over-temperature monitor shall limit schedule entries for at least 10 years.

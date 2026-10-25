@@ -14,8 +14,10 @@ order: 650
 links:
   - type: verifies
     target: SYS-AE2EKW
+    confirmed: e00530755be8
   - type: verifies
     target: SW-ZZJS5P
+    confirmed: 6a763e763f11
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.
 

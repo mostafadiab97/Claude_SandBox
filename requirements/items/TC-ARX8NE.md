@@ -12,6 +12,7 @@ order: 1850
 links:
   - type: verifies
     target: SYS-5D666J
+    confirmed: cfe3f145e294
 ---
 **Objective:** verify that the device behaves as specified.
 

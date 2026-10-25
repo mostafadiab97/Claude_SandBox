@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-XZE982
+    confirmed: bc880bb42e39
 ---
 The user account service shall encrypt audit records in under 3 s.

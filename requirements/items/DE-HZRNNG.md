@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-NG38RS
+    confirmed: d58b86198e78
 ---
 Implemented in `src/ui/touch_display.c`.

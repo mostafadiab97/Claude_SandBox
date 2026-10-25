@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-GC1TCM
+    confirmed: 5e111d233bc7
 ---
 The home dashboard shall display audit records below 0.5 W in standby.
 

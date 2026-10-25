@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-YTTXB8
+    confirmed: c0d19b7ef2ea
 ---
 The telemetry pipeline shall log energy consumption for at least 10 years.

@@ -9,8 +9,10 @@ order: 40
 links:
   - type: relates-to
     target: TC-MG81PS
+    confirmed: 19d41a91be36
   - type: relates-to
     target: SYS-RB6KMZ
+    confirmed: 9e9699c7ff42
 ---
 Found during regression testing of build 2.1.36.
 

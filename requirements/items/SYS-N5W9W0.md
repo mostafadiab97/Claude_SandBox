@@ -12,7 +12,9 @@ order: 1720
 links:
   - type: refines
     target: STK-VT1KVD
+    confirmed: fbcfb8475f32
   - type: mitigates
     target: RSK-9BAEZR
+    confirmed: 09af4dd83b7f
 ---
 The cloud backend shall measure humidity values at least once per minute.

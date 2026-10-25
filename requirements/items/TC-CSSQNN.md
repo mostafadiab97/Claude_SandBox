@@ -13,6 +13,7 @@ order: 180
 links:
   - type: verifies
     target: SYS-RP1J10
+    confirmed: bb8a4ae9c942
 ---
 **Objective:** verify that the power supply behaves as specified.
 

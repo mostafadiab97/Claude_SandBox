@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: HW-8HGRRA
+    confirmed: 214852eb4b23
 ---
 The power supply shall restore the operating mode when the network is unavailable.
 

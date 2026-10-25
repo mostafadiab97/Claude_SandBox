@@ -10,6 +10,7 @@ order: 120
 links:
   - type: verifies
     target: SYS-PRE7SJ
+    confirmed: a718da154f60
 ---
 **Objective:** verify that the touch display behaves as specified.
 

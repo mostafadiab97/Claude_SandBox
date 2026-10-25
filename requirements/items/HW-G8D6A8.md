@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-F8240X
+    confirmed: 78f3618e6442
 ---
 The power supply shall report firmware images at least once per minute.
 

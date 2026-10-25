@@ -9,5 +9,6 @@ order: 1150
 links:
   - type: refines
     target: STK-HBX3YS
+    confirmed: b42a2f94d25d
 ---
 The home dashboard shall restore the room temperature after a power loss.

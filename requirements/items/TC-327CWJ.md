@@ -14,6 +14,7 @@ order: 160
 links:
   - type: verifies
     target: SYS-77PVXT
+    confirmed: 33b1a201b47a
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

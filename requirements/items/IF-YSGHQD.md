@@ -14,6 +14,7 @@ order: 30
 links:
   - type: refines
     target: SYS-SQM30D
+    confirmed: 61b33a5fb3c5
 ---
 The telemetry pipeline shall log humidity values when the network is unavailable.
 

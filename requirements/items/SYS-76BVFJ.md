@@ -10,6 +10,7 @@ order: 970
 links:
   - type: refines
     target: STK-FWM06B
+    confirmed: bbd40f488fa4
 ---
 The touch display shall authenticate the operating mode for up to 8 zones.
 

@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-MK13B0
+    confirmed: 37b1ff049bc6
 ---
 The over-temperature monitor shall display the operating mode in under 3 s.
 

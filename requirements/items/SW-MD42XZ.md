@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7T162W
+    confirmed: c3b62ffd68f1
 ---
 The over-temperature monitor shall detect humidity values for up to 8 zones.
 

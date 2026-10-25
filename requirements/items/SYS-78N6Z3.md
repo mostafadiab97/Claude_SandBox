@@ -13,7 +13,9 @@ order: 1660
 links:
   - type: refines
     target: STK-MC9ASH
+    confirmed: a4f2ebaecfbe
   - type: mitigates
     target: RSK-ZVS1EA
+    confirmed: 1e26236a78ff
 ---
 The mobile app shall encrypt user preferences without user interaction.

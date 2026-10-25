@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-BXDS06
+    confirmed: a79a0d1525b6
 ---
 The Zigbee radio shall synchronise access tokens without user interaction.
 

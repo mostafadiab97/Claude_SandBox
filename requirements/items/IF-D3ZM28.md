@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-7CKEJ4
+    confirmed: 63f285df51f3
 ---
 The enclosure shall synchronise access tokens for up to 8 zones.

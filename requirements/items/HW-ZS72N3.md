@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-QGGTRG
+    confirmed: e1c94732a57d
 ---
 The enclosure shall display safety limits for up to 8 zones.
 

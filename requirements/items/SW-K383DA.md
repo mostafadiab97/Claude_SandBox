@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-BQNHHE
+    confirmed: b751250b5428
 ---
 The watchdog shall limit user preferences with an accuracy of ±0.5 °C.
 

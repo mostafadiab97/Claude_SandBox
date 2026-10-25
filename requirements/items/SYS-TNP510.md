@@ -11,8 +11,10 @@ order: 1860
 links:
   - type: refines
     target: STK-F8MTPC
+    confirmed: bbf5b4f56657
   - type: mitigates
     target: RSK-8FFR90
+    confirmed: 63c04ae06813
 ---
 The notification service shall synchronise the operating mode using AES-256-GCM.
 

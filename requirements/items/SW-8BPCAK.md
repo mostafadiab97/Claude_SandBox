@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SW-4D3AV2
+    confirmed: cf9fe2dfac00
 ---
 The cloud backend shall log error conditions within 200 ms.
 

@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-RZQXR0
+    confirmed: d03472ec1c1e
 ---
 The secure boot shall notify audit records when the network is unavailable.
 

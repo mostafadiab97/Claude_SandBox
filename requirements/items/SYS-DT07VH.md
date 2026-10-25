@@ -10,6 +10,7 @@ order: 1950
 links:
   - type: refines
     target: STK-AAZ4HV
+    confirmed: 44fc7956dbf8
 ---
 The Zigbee radio shall display access tokens at least once per minute.
 

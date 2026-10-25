@@ -10,5 +10,6 @@ order: 90
 links:
   - type: refines
     target: STK-8W3602
+    confirmed: 25b39ad8cae7
 ---
 The zone valve shall synchronise firmware images for up to 8 zones.

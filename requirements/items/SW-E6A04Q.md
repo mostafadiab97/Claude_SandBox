@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-QGA0VX
+    confirmed: 773f6956359c
 ---
 The heat pump driver shall restore the set point with an accuracy of ±0.5 °C.
 

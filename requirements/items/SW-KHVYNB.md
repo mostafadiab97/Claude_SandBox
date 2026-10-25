@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-59MM6H
+    confirmed: 45d68bfca0bb
 ---
 The OTA server shall log the operating mode with an accuracy of ±0.5 °C.

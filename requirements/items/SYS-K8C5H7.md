@@ -12,6 +12,7 @@ order: 1910
 links:
   - type: refines
     target: STK-M7S0HJ
+    confirmed: 000356d5d38b
 ---
 The heat pump driver shall limit energy consumption in under 3 s.
 

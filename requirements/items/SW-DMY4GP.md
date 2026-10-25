@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-XWNGQ6
+    confirmed: 63430edab993
 ---
 The cloud backend shall switch firmware images below 0.5 W in standby.
 

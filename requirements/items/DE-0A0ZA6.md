@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-B99MEQ
+    confirmed: 942160d336b0
 ---
 Implemented in `src/conn/Bluetooth_LE_link.c`.

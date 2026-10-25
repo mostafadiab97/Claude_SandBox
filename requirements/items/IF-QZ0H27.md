@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: SYS-Z6XZMX
+    confirmed: 17b58a826b61
 ---
 The battery backup shall synchronise user preferences with an accuracy of ±0.5 °C.

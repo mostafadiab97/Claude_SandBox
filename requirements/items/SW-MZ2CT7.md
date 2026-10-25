@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-XF6HRT
+    confirmed: 8fa995f67a12
 ---
 The notification service shall report relay events with an accuracy of ±0.5 °C.
 

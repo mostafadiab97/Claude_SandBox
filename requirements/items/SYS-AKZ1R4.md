@@ -14,5 +14,6 @@ order: 1130
 links:
   - type: refines
     target: STK-AAZ4HV
+    confirmed: 44fc7956dbf8
 ---
 The Wi-Fi module shall detect error conditions with an accuracy of ±0.5 °C.

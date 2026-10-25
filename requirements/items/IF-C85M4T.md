@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-8GA9Q5
+    confirmed: d06ca41af1a5
 ---
 The tamper detection shall display the set point without user interaction.
 

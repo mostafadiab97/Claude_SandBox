@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-8MMGZP
+    confirmed: 2ba99c4bfc3a
 ---
 The watchdog shall display humidity values at least once per minute.

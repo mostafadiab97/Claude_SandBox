@@ -14,8 +14,10 @@ order: 110
 links:
   - type: relates-to
     target: TC-TQ0KN5
+    confirmed: 147d12e39b99
   - type: relates-to
     target: SYS-EFJFCR
+    confirmed: b46684aa0799
 ---
 Found during regression testing of build 2.6.1.
 

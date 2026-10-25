@@ -14,6 +14,7 @@ order: 2100
 links:
   - type: refines
     target: STK-XSQC89
+    confirmed: 66c246d6b1dc
 ---
 The secure boot shall report access tokens for at least 10 years.
 

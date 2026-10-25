@@ -9,8 +9,10 @@ order: 730
 links:
   - type: verifies
     target: SYS-B37W64
+    confirmed: 708e0f664c1b
   - type: verifies
     target: SW-N6MNJN
+    confirmed: 1a7e7967d46e
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

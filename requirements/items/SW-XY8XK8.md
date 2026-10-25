@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-KRN3ZP
+    confirmed: 85ba3b9261c1
 ---
 The over-temperature monitor shall authenticate schedule entries for up to 8 zones.
 

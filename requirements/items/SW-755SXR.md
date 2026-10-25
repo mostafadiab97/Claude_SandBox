@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-K6B6KX
+    confirmed: b81585ff6f2b
 ---
 The over-temperature monitor shall limit the connection state for at least 10 years.
 

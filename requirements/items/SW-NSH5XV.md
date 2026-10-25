@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SYS-56D65V
+    confirmed: 2b18c8ee9832
 ---
 The touch display shall authenticate the room temperature after a power loss.
 

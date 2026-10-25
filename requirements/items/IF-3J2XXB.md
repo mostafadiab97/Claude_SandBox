@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-DT8Z3K
+    confirmed: 97d4ec4541f8
 ---
 The mobile app shall store humidity values when the network is unavailable.
 

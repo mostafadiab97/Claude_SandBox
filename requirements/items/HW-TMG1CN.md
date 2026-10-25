@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-YKSDDE
+    confirmed: 631388ab0b1c
 ---
 The touch display shall validate the operating mode without user interaction.
 

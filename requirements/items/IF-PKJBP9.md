@@ -13,5 +13,6 @@ order: 30
 links:
   - type: refines
     target: SYS-Z7FHQ2
+    confirmed: c3ef2cb2745a
 ---
 The backlight shall report the connection state using AES-256-GCM.

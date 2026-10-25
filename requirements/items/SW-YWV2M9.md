@@ -8,6 +8,7 @@ order: 10
 links:
   - type: refines
     target: SYS-KMZ032
+    confirmed: 604e69a0125a
 ---
 The menu system shall store relay events within 200 ms.
 

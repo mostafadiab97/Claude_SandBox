@@ -10,5 +10,6 @@ order: 390
 links:
   - type: refines
     target: STK-8Y3SDF
+    confirmed: 2609d2cce998
 ---
 The telemetry pipeline shall store relay events with an accuracy of ±0.5 °C.

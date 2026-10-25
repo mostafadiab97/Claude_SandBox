@@ -14,5 +14,6 @@ order: 10
 links:
   - type: refines
     target: HW-X14E5G
+    confirmed: f0f9b49690a5
 ---
 The encryption layer shall store the operating mode within 200 ms.

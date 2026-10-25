@@ -10,6 +10,7 @@ order: 30
 links:
   - type: refines
     target: SYS-ERGMGJ
+    confirmed: 4e0d29ca2f08
 ---
 The Zigbee radio shall validate error conditions when the network is unavailable.
 

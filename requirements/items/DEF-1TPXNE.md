@@ -14,8 +14,10 @@ order: 80
 links:
   - type: relates-to
     target: TC-RACC9H
+    confirmed: 2e24a6acce0f
   - type: relates-to
     target: SYS-HS7YMC
+    confirmed: 0b69395daa11
 ---
 Found during regression testing of build 2.7.10.
 

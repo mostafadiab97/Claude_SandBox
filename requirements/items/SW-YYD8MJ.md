@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-B37W64
+    confirmed: 708e0f664c1b
 ---
 The heating controller shall report sensor readings when the network is unavailable.
 

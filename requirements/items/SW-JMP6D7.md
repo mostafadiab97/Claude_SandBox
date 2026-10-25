@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-X09T8H
+    confirmed: 1d9be0f6bc96
 ---
 The cloud backend shall detect sensor readings for up to 8 zones.
 

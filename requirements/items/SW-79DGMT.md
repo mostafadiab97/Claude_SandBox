@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-JZ73HV
+    confirmed: 985c6ecc37fa
 ---
 The heat pump driver shall authenticate humidity values for at least 10 years.

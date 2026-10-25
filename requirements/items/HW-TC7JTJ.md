@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: HW-JM9VP3
+    confirmed: 90c0d4156ecd
 ---
 The OTA server shall notify audit records using AES-256-GCM.
 

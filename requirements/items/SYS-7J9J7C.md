@@ -14,6 +14,7 @@ order: 1010
 links:
   - type: refines
     target: STK-92HHJV
+    confirmed: 260bd01800c6
 ---
 The secure boot shall store the room temperature in all supported languages.
 

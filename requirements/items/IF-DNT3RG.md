@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-6RXFNT
+    confirmed: 58653acb842c
 ---
 The notification service shall store safety limits when the network is unavailable.
 

@@ -9,6 +9,7 @@ order: 10
 links:
   - type: refines
     target: SYS-4JV7MY
+    confirmed: 199fce62923b
 ---
 The battery backup shall validate firmware images below 0.5 W in standby.
 

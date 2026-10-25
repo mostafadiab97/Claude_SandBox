@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-E3DH60
+    confirmed: 2a4bbbe46324
 ---
 The backlight shall display firmware images within 200 ms.

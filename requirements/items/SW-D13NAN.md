@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-FNTHY0
+    confirmed: 86355bb1c3be
 ---
 The status LED shall store the set point after a power loss.
 

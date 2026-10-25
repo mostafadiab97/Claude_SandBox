@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-3WT38T
+    confirmed: 1cd452a3656a
 ---
 The status LED shall calibrate access tokens in all supported languages.
 

@@ -12,6 +12,7 @@ order: 1020
 links:
   - type: verifies
     target: SYS-FD82WN
+    confirmed: f55a56f18a08
 ---
 **Objective:** verify that the local API behaves as specified.
 

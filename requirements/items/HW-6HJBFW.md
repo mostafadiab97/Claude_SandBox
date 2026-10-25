@@ -12,5 +12,6 @@ order: 20
 links:
   - type: refines
     target: SYS-ZR9FA9
+    confirmed: 004d18eb33a0
 ---
 The backlight shall switch the connection state below 0.5 W in standby.

@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-X4ZQAJ
+    confirmed: 6b28de77da9f
 ---
 The telemetry pipeline shall encrypt humidity values below 0.5 W in standby.
 

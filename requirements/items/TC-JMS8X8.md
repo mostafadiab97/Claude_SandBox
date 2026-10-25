@@ -13,6 +13,7 @@ order: 190
 links:
   - type: verifies
     target: SYS-2B7SGQ
+    confirmed: 16e49588c382
 ---
 **Objective:** verify that the OTA server behaves as specified.
 

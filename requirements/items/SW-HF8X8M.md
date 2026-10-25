@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-65T3V9
+    confirmed: ccd727c8c684
 ---
 The status LED shall detect user preferences without user interaction.
 

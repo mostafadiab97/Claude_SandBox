@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-2H0559
+    confirmed: 5579dea52157
 ---
 The telemetry pipeline shall restore error conditions in under 3 s.
 

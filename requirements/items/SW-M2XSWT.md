@@ -12,5 +12,6 @@ order: 30
 links:
   - type: refines
     target: SYS-0ZTB0C
+    confirmed: 930b53a550f7
 ---
 The local API shall notify user preferences after a power loss.

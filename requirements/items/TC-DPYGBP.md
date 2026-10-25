@@ -13,6 +13,7 @@ order: 60
 links:
   - type: verifies
     target: SYS-5SCN5H
+    confirmed: 94875c7db4c5
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

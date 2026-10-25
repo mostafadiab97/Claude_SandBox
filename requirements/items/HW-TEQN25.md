@@ -14,6 +14,7 @@ order: 40
 links:
   - type: refines
     target: SYS-82PKWA
+    confirmed: c920ab97ee7b
 ---
 The home dashboard shall store audit records below 0.5 W in standby.
 

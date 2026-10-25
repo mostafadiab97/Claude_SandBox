@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-Z0ETS8
+    confirmed: f371d67ea5c2
 ---
 The zone valve shall measure the set point in all supported languages.

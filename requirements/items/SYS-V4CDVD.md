@@ -14,6 +14,7 @@ order: 430
 links:
   - type: refines
     target: STK-PCP268
+    confirmed: 74f66b1bb8e8
 ---
 The rotary knob shall detect relay events with an accuracy of ±0.5 °C.
 

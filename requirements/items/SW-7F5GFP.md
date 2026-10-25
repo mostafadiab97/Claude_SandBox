@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-82XYZM
+    confirmed: 7f8ed4700350
 ---
 The secure boot shall limit sensor readings within 200 ms.
 

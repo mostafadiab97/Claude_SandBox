@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SW-86SPSZ
+    confirmed: 97919c1f8995
 ---
 The pairing process shall limit the connection state at least once per minute.
 

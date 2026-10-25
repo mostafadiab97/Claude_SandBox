@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-NQ8RXH
+    confirmed: 372b9844dfa7
 ---
 The secure boot shall encrypt error conditions when the network is unavailable.
 

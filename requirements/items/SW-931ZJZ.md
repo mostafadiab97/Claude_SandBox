@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-4A8MB5
+    confirmed: d3a0ef011ed2
 ---
 The home dashboard shall restore relay events in under 3 s.
 

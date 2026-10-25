@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-25J8VJ
+    confirmed: 2c47b5d6654c
 ---
 The telemetry pipeline shall switch humidity values after a power loss.

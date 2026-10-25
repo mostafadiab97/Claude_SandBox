@@ -10,8 +10,10 @@ order: 1180
 links:
   - type: refines
     target: STK-35QR7F
+    confirmed: bc1aebb7918d
   - type: mitigates
     target: RSK-VGP24B
+    confirmed: b764dfff3d75
 ---
 The menu system shall measure relay events in all supported languages.
 

@@ -11,5 +11,6 @@ order: 10
 links:
   - type: refines
     target: SW-8RHSPC
+    confirmed: 35cf08e99025
 ---
 The telemetry pipeline shall authenticate the room temperature at least once per minute.

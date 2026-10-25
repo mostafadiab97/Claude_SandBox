@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: IF-D595F9
+    confirmed: 08f5667580a6
 ---
 The watchdog shall report error conditions for at least 10 years.
 

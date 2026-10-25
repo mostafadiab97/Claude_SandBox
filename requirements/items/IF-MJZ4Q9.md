@@ -9,6 +9,7 @@ order: 40
 links:
   - type: refines
     target: SYS-971VHG
+    confirmed: e3ab47cee338
 ---
 The tamper detection shall log audit records in under 3 s.
 

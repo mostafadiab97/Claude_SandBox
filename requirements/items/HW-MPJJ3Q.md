@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-FMNTZ0
+    confirmed: 07a6530c6e8f
 ---
 The battery backup shall synchronise firmware images below 0.5 W in standby.
 

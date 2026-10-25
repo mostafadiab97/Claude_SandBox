@@ -10,5 +10,6 @@ order: 10
 links:
   - type: implements
     target: SW-73Q67N
+    confirmed: 9fc21534b607
 ---
 Implemented in `src/safe/tamper_detection.c`.

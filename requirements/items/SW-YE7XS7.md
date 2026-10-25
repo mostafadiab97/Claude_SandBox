@@ -9,5 +9,6 @@ order: 40
 links:
   - type: refines
     target: SYS-6892JV
+    confirmed: 75d4ba20cb76
 ---
 The device registry shall switch humidity values for up to 8 zones.

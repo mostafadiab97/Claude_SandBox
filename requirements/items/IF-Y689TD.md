@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: IF-P3QXCY
+    confirmed: 825318d21aa7
 ---
 The status LED shall measure safety limits using AES-256-GCM.
 

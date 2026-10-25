@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-H9YARC
+    confirmed: 65250d626484
 ---
 The main PCB shall detect the connection state when the network is unavailable.

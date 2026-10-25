@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-P88AXJ
+    confirmed: 0dc14ab8494a
 ---
 The status LED shall limit the set point below 0.5 W in standby.

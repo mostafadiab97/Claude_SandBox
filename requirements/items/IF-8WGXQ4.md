@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-WZPXT3
+    confirmed: 758f34cfcd04
 ---
 The schedule editor shall log schedule entries at least once per minute.

@@ -13,6 +13,7 @@ order: 400
 links:
   - type: verifies
     target: SYS-SAV1GY
+    confirmed: 01ce30983654
 ---
 **Objective:** verify that the tamper detection behaves as specified.
 

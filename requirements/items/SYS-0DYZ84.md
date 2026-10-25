@@ -9,5 +9,6 @@ order: 1640
 links:
   - type: refines
     target: STK-EWSQ9Z
+    confirmed: aa5e4143dbe7
 ---
 The heat pump driver shall authenticate relay events after a power loss.

@@ -14,5 +14,6 @@ order: 30
 links:
   - type: refines
     target: SYS-ZTJGBY
+    confirmed: bce29b6dd921
 ---
 The pairing process shall calibrate the set point without user interaction.

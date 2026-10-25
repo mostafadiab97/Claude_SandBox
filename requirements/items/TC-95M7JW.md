@@ -10,6 +10,7 @@ order: 850
 links:
   - type: verifies
     target: SYS-JN1V9K
+    confirmed: 648ea81ae922
 ---
 **Objective:** verify that the watchdog behaves as specified.
 

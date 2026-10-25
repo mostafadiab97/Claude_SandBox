@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-K61Y1H
+    confirmed: 05248eb02fec
 ---
 The Bluetooth LE link shall store schedule entries after a power loss.
 

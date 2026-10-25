@@ -11,6 +11,7 @@ order: 20
 links:
   - type: refines
     target: SYS-NA1SC7
+    confirmed: 5bf0247d7ebd
 ---
 The encryption layer shall calibrate sensor readings in all supported languages.
 

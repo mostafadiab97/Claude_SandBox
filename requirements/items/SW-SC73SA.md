@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-7DMMJ1
+    confirmed: 25d533559e9b
 ---
 The encryption layer shall switch sensor readings for at least 10 years.
 

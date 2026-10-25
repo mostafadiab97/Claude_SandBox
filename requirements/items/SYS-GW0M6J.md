@@ -12,6 +12,7 @@ order: 2110
 links:
   - type: refines
     target: STK-AAZ4HV
+    confirmed: 44fc7956dbf8
 ---
 The pairing process shall detect the connection state for up to 8 zones.
 

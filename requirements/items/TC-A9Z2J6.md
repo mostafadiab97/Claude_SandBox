@@ -13,6 +13,7 @@ order: 1330
 links:
   - type: verifies
     target: SYS-5KZ5DB
+    confirmed: cd9a0ffd7c50
 ---
 **Objective:** verify that the cloud backend behaves as specified.
 

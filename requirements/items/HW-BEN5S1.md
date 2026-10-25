@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-0MGEHH
+    confirmed: 342197138fa1
 ---
 The local API shall encrypt the room temperature for at least 10 years.
 

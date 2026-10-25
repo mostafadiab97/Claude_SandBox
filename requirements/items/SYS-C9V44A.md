@@ -10,6 +10,7 @@ order: 500
 links:
   - type: refines
     target: STK-2STGXE
+    confirmed: c77fe61daf4b
 ---
 The relay board shall log the operating mode in all supported languages.
 

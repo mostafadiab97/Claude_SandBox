@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-GXDBGP
+    confirmed: 1634ca869b10
 ---
 The over-temperature monitor shall store humidity values when the network is unavailable.
 

@@ -12,6 +12,7 @@ order: 10
 links:
   - type: refines
     target: SW-H1EKQT
+    confirmed: ef484071a9f0
 ---
 The encryption layer shall log firmware images in under 3 s.
 

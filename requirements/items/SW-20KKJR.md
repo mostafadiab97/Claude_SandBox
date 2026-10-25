@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-6MTAQR
+    confirmed: 76300eb27743
 ---
 The device registry shall report access tokens with an accuracy of ±0.5 °C.
 

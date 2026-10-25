@@ -13,6 +13,7 @@ order: 1670
 links:
   - type: refines
     target: STK-GMCKMF
+    confirmed: f47328374a2b
 ---
 The Bluetooth LE link shall restore energy consumption in all supported languages.
 

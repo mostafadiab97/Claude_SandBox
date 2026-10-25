@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-B7MWJ2
+    confirmed: cfcb93c868dc
 ---
 The Zigbee radio shall notify the room temperature with an accuracy of ±0.5 °C.
 

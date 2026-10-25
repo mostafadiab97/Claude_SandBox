@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-186VAA
+    confirmed: 8c9ff96ed042
 ---
 The rotary knob shall restore humidity values for at least 10 years.
 

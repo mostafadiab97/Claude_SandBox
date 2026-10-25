@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-6RXFNT
+    confirmed: 58653acb842c
 ---
 The notification service shall log the room temperature below 0.5 W in standby.
 

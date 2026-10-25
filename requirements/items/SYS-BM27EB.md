@@ -12,6 +12,7 @@ order: 1630
 links:
   - type: refines
     target: STK-B4ZH98
+    confirmed: c19c22627f21
 ---
 The watchdog shall store the connection state in all supported languages.
 

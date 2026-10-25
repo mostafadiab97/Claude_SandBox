@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-MSJYD9
+    confirmed: a4f989d37c98
 ---
 The zone valve shall measure the set point when the network is unavailable.
 

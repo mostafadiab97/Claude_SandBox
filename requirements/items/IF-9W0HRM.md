@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SYS-BT3DXG
+    confirmed: 762491a5f95a
 ---
 The watchdog shall validate humidity values in all supported languages.

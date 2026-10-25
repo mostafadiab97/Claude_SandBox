@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-GW0M6J
+    confirmed: 9c07e786f103
 ---
 The pairing process shall synchronise the connection state using AES-256-GCM.

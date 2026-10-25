@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: HW-V8S80Q
+    confirmed: 13fd2f862ff8
 ---
 The heating controller shall report access tokens for up to 8 zones.
 

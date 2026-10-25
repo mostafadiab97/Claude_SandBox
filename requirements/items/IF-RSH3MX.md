@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-AN3CZW
+    confirmed: 1331a264167a
 ---
 The tamper detection shall calibrate safety limits in under 3 s.

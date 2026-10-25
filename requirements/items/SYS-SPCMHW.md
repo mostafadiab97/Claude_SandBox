@@ -13,6 +13,7 @@ order: 1840
 links:
   - type: refines
     target: STK-KEP05J
+    confirmed: 74304e03fe52
 ---
 The battery backup shall encrypt the connection state using AES-256-GCM.
 

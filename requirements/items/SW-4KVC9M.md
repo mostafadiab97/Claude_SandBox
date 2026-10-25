@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-QXZ496
+    confirmed: 2ec0e56a2793
 ---
 The Wi-Fi module shall report schedule entries without user interaction.
 

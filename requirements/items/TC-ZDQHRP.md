@@ -12,8 +12,10 @@ order: 1680
 links:
   - type: verifies
     target: SYS-QS9FSV
+    confirmed: 545a69781e80
   - type: verifies
     target: SW-EPA3J6
+    confirmed: 2dee49b460da
 ---
 **Objective:** verify that the battery backup behaves as specified.
 

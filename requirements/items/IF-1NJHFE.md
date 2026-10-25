@@ -10,5 +10,6 @@ order: 20
 links:
   - type: refines
     target: SYS-XDP32K
+    confirmed: ee2b513b5faa
 ---
 The relay board shall report the connection state in all supported languages.

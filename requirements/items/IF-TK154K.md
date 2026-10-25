@@ -9,6 +9,7 @@ order: 30
 links:
   - type: refines
     target: SYS-VPGXCD
+    confirmed: 39dcc2afc00b
 ---
 The mobile app shall display access tokens at least once per minute.
 

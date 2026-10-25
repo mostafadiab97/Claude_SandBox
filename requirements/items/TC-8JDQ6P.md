@@ -12,8 +12,10 @@ order: 720
 links:
   - type: verifies
     target: SYS-FBM4B7
+    confirmed: c2dee4a6831a
   - type: verifies
     target: SW-5HV8ZB
+    confirmed: 3d295cfeb105
 ---
 **Objective:** verify that the mobile app behaves as specified.
 

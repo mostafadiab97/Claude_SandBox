@@ -9,6 +9,7 @@ order: 500
 links:
   - type: refines
     target: STK-4NCGP6
+    confirmed: 34735dce772b
 ---
 The OTA server shall calibrate sensor readings in all supported languages.
 

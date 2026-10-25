@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: HW-FYB9YQ
+    confirmed: aafaaf1751f8
 ---
 The status LED shall log the connection state in under 3 s.
 

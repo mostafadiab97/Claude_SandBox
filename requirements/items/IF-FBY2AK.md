@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-A6Z44C
+    confirmed: ac3474515883
 ---
 The heating controller shall switch error conditions after a power loss.
 

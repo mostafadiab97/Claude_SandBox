@@ -12,5 +12,6 @@ order: 530
 links:
   - type: refines
     target: STK-XSQC89
+    confirmed: 66c246d6b1dc
 ---
 The watchdog shall authenticate schedule entries at least once per minute.

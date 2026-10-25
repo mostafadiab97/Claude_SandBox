@@ -10,5 +10,6 @@ order: 30
 links:
   - type: refines
     target: SYS-EKVD3G
+    confirmed: da78120d2244
 ---
 The main PCB shall authenticate access tokens without user interaction.

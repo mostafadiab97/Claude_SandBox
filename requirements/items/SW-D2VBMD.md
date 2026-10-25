@@ -13,5 +13,6 @@ order: 10
 links:
   - type: refines
     target: SW-EKCKBF
+    confirmed: 4b309462a124
 ---
 The mobile app shall limit firmware images when the network is unavailable.

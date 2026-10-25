@@ -13,5 +13,6 @@ order: 20
 links:
   - type: refines
     target: SYS-JHZDTN
+    confirmed: a2bd8c822300
 ---
 The over-temperature monitor shall synchronise audit records for up to 8 zones.

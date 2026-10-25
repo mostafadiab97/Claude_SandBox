@@ -12,6 +12,7 @@ order: 680
 links:
   - type: verifies
     target: SYS-Y096JN
+    confirmed: 3622c05b8ec0
 ---
 **Objective:** verify that the status LED behaves as specified.
 

@@ -13,6 +13,7 @@ order: 40
 links:
   - type: refines
     target: SYS-QK55NH
+    confirmed: 3934c54c3f62
 ---
 The mobile app shall restore the operating mode below 0.5 W in standby.
 

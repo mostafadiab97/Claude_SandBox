@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: HW-4N8E0V
+    confirmed: 4c9980d2fba5
 ---
 The over-temperature monitor shall limit schedule entries at least once per minute.
 

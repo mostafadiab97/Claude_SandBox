@@ -12,6 +12,7 @@ order: 370
 links:
   - type: refines
     target: STK-92HHJV
+    confirmed: 260bd01800c6
 ---
 The secure boot shall calibrate audit records within 200 ms.
 

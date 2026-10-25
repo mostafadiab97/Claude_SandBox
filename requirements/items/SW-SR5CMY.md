@@ -14,6 +14,7 @@ order: 20
 links:
   - type: refines
     target: SYS-GBXCHX
+    confirmed: 0ce68205e703
 ---
 The OTA server shall switch error conditions for at least 10 years.
 

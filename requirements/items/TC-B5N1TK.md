@@ -12,8 +12,10 @@ order: 890
 links:
   - type: verifies
     target: SYS-PPY5Z1
+    confirmed: 0c11557d1e86
   - type: verifies
     target: SW-TR8QMF
+    confirmed: 6c24b6afc923
 ---
 **Objective:** verify that the regulation loop behaves as specified.
 

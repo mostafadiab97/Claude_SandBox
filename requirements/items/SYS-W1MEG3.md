@@ -10,6 +10,7 @@ order: 480
 links:
   - type: refines
     target: STK-G2ZBHW
+    confirmed: fee0d3303478
 ---
 The pairing process shall validate the set point in under 3 s.
 

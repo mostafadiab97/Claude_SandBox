@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-44HBM9
+    confirmed: ebc73cf4101f
 ---
 The backlight shall store audit records for up to 8 zones.
 

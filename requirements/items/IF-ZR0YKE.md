@@ -12,5 +12,6 @@ order: 10
 links:
   - type: refines
     target: SYS-RP9EW2
+    confirmed: 0ce16e7c9c10
 ---
 The pairing process shall notify access tokens below 0.5 W in standby.

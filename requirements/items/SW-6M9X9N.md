@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-X0S745
+    confirmed: 45b34f17241c
 ---
 The watchdog shall restore audit records in under 3 s.
 

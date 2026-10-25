@@ -13,8 +13,10 @@ order: 970
 links:
   - type: verifies
     target: SYS-KVWKZF
+    confirmed: 9148889bdd96
   - type: verifies
     target: SW-0B9G6V
+    confirmed: 4dd853c054a2
 ---
 **Objective:** verify that the boiler interface behaves as specified.
 

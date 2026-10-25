@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-XGYXWY
+    confirmed: fb88a89b54aa
 ---
 The heating controller shall limit audit records within 200 ms.
 

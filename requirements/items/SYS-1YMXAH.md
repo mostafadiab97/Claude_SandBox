@@ -10,5 +10,6 @@ order: 1500
 links:
   - type: refines
     target: STK-HH6ZNR
+    confirmed: caa77fe9df1c
 ---
 The backlight shall log schedule entries within 200 ms.

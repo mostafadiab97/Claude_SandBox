@@ -10,6 +10,7 @@ order: 1380
 links:
   - type: verifies
     target: SYS-25VHBZ
+    confirmed: b66a06d6db09
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.
 

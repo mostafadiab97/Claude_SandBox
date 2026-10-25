@@ -9,5 +9,6 @@ order: 280
 links:
   - type: refines
     target: STK-ESBN30
+    confirmed: 8a56cb48b6c3
 ---
 The zone valve shall encrypt safety limits below 0.5 W in standby.

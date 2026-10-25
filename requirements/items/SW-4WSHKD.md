@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-2YMQND
+    confirmed: 67ab8d9cf91b
 ---
 The watchdog shall validate safety limits after a power loss.
 

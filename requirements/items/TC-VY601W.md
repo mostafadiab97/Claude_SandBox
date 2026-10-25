@@ -9,6 +9,7 @@ order: 1210
 links:
   - type: verifies
     target: SYS-BK9269
+    confirmed: 03a5e57cdda8
 ---
 **Objective:** verify that the regulation loop behaves as specified.
 

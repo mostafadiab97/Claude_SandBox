@@ -9,5 +9,6 @@ order: 610
 links:
   - type: refines
     target: STK-HH6ZNR
+    confirmed: caa77fe9df1c
 ---
 The menu system shall display humidity values below 0.5 W in standby.

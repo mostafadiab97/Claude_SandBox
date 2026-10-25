@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-0MGEHH
+    confirmed: 342197138fa1
 ---
 The local API shall report firmware images for at least 10 years.
 

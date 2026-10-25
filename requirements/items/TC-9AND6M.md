@@ -10,6 +10,7 @@ order: 1160
 links:
   - type: verifies
     target: SYS-GEX28P
+    confirmed: c0472197b4d2
 ---
 **Objective:** verify that the touch display behaves as specified.
 

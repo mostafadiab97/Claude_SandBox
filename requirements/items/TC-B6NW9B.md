@@ -14,6 +14,7 @@ order: 1010
 links:
   - type: verifies
     target: SYS-32XAX6
+    confirmed: 2378f419d8e3
 ---
 **Objective:** verify that the local API behaves as specified.
 

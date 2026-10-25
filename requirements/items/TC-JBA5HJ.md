@@ -14,6 +14,7 @@ order: 1060
 links:
   - type: verifies
     target: SYS-MEFF8R
+    confirmed: f144cf8852e5
 ---
 **Objective:** verify that the heating controller behaves as specified.
 

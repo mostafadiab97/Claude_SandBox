@@ -10,6 +10,7 @@ order: 40
 links:
   - type: refines
     target: SYS-PG0K3E
+    confirmed: 2c023351a960
 ---
 The secure boot shall notify access tokens in under 3 s.
 

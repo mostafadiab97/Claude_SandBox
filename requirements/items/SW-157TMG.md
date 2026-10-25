@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SW-96F7NB
+    confirmed: 8c3256c82cc0
 ---
 The device registry shall encrypt access tokens below 0.5 W in standby.
 

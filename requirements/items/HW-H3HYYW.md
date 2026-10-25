@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-387701
+    confirmed: 0b7909b67648
 ---
 The enclosure shall limit the set point after a power loss.
 

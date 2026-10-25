@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-7JZD7P
+    confirmed: 3d215316f1d7
 ---
 The heating controller shall restore humidity values in under 3 s.
 

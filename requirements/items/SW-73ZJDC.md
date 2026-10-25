@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-C3RKXE
+    confirmed: 4c2aa84ed807
 ---
 The watchdog shall authenticate the operating mode for up to 8 zones.

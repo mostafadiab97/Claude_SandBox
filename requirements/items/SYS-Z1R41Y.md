@@ -14,6 +14,7 @@ order: 110
 links:
   - type: refines
     target: STK-9YF5RE
+    confirmed: 43643c03020f
 ---
 The zone valve shall notify user preferences after a power loss.
 

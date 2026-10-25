@@ -10,5 +10,6 @@ order: 10
 links:
   - type: refines
     target: SYS-X0S745
+    confirmed: 45b34f17241c
 ---
 The watchdog shall detect the room temperature when the network is unavailable.

@@ -12,6 +12,7 @@ order: 20
 links:
   - type: refines
     target: SYS-HH08PK
+    confirmed: "8228102962e4"
 ---
 The local API shall report user preferences with an accuracy of ±0.5 °C.
 

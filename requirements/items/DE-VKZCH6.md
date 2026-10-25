@@ -9,5 +9,6 @@ order: 10
 links:
   - type: implements
     target: SW-QVJZBP
+    confirmed: e7a30df3d072
 ---
 Implemented in `src/app/home_dashboard.c`.

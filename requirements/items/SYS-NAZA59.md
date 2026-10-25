@@ -10,6 +10,7 @@ order: 1260
 links:
   - type: refines
     target: STK-VT1KVD
+    confirmed: fbcfb8475f32
 ---
 The cloud backend shall limit user preferences for at least 10 years.
 

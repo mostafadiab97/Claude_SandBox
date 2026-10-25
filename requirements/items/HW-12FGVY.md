@@ -13,6 +13,7 @@ order: 30
 links:
   - type: refines
     target: SYS-H3FFZV
+    confirmed: 5a7f9180a50d
 ---
 The backlight shall limit the set point within 200 ms.
 

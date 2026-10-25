@@ -9,6 +9,7 @@ order: 2150
 links:
   - type: verifies
     target: SYS-96CWW2
+    confirmed: e023ac8016f0
 ---
 **Objective:** verify that the device behaves as specified.
 

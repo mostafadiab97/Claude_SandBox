@@ -13,6 +13,7 @@ order: 10
 links:
   - type: refines
     target: SYS-A02XBZ
+    confirmed: a8363ba9fa7b
 ---
 The heating controller shall notify energy consumption with an accuracy of ±0.5 °C.
 

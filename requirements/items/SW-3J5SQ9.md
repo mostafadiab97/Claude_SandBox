@@ -14,6 +14,7 @@ order: 10
 links:
   - type: refines
     target: SYS-Y0WZNP
+    confirmed: 2ca18a0adf4f
 ---
 The pairing process shall detect audit records below 0.5 W in standby.
 

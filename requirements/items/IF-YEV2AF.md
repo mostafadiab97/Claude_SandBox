@@ -12,6 +12,7 @@ order: 30
 links:
   - type: refines
     target: SYS-RAASTZ
+    confirmed: 6b0c923b5313
 ---
 The OTA server shall measure access tokens with an accuracy of ±0.5 °C.
 

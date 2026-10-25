@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-HBCT8J
+    confirmed: "735188e33202"
 ---
 The secure boot shall switch relay events in under 3 s.
 

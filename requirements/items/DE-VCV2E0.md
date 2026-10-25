@@ -14,5 +14,6 @@ order: 10
 links:
   - type: implements
     target: SW-QRFPC8
+    confirmed: 346fbb4510b3
 ---
 Implemented in `src/heat/zone_valve.c`.

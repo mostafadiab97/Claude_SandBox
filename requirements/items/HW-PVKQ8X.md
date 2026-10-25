@@ -11,6 +11,7 @@ order: 10
 links:
   - type: refines
     target: SYS-1K9BKF
+    confirmed: c64cd8bb0fb4
 ---
 The battery backup shall measure the connection state at least once per minute.
 

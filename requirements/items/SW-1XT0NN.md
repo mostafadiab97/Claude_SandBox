@@ -12,6 +12,7 @@ order: 40
 links:
   - type: refines
     target: SYS-7BRVTY
+    confirmed: f003d27313f2
 ---
 The home dashboard shall calibrate error conditions in all supported languages.
 

@@ -10,5 +10,6 @@ order: 20
 links:
   - type: implements
     target: SW-KZZ8FA
+    confirmed: 9e31366a3703
 ---
 Implemented in `src/safe/watchdog.c`.

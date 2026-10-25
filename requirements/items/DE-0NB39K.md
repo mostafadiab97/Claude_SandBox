@@ -13,5 +13,6 @@ order: 10
 links:
   - type: implements
     target: SW-J23FTM
+    confirmed: 059802c9377c
 ---
 Implemented in `src/cloud/device_registry.c`.

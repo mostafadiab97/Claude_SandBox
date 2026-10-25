@@ -11,6 +11,7 @@ order: 1600
 links:
   - type: refines
     target: STK-M7S0HJ
+    confirmed: 000356d5d38b
 ---
 The boiler interface shall detect error conditions in under 3 s.
 

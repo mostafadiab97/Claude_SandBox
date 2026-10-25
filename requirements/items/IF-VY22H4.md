@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-K2NWME
+    confirmed: e03e8a7a7686
 ---
 The battery backup shall validate user preferences in all supported languages.
 

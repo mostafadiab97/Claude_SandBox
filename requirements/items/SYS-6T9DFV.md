@@ -10,6 +10,7 @@ order: 1340
 links:
   - type: refines
     target: STK-XSQC89
+    confirmed: 66c246d6b1dc
 ---
 The encryption layer shall restore the operating mode without user interaction.
 

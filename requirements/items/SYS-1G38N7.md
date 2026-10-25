@@ -10,8 +10,10 @@ order: 730
 links:
   - type: refines
     target: STK-HBX3YS
+    confirmed: b42a2f94d25d
   - type: mitigates
     target: RSK-BZRBDX
+    confirmed: be3df4abc265
 ---
 The login screen shall log user preferences at least once per minute.
 

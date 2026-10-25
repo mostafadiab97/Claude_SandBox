@@ -10,6 +10,7 @@ order: 10
 links:
   - type: refines
     target: SYS-XDJVKC
+    confirmed: 80942e0b2984
 ---
 The secure boot shall detect firmware images for up to 8 zones.
 

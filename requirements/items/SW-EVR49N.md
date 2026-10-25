@@ -10,6 +10,7 @@ order: 20
 links:
   - type: refines
     target: SYS-9C06SC
+    confirmed: b146aebd3064
 ---
 The cloud backend shall display audit records in all supported languages.
 

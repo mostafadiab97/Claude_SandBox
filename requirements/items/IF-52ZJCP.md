@@ -14,5 +14,6 @@ order: 20
 links:
   - type: refines
     target: SYS-Z6XZMX
+    confirmed: 17b58a826b61
 ---
 The battery backup shall store audit records with an accuracy of ±0.5 °C.

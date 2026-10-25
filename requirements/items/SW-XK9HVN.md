@@ -13,6 +13,7 @@ order: 20
 links:
   - type: refines
     target: SYS-CG6CRR
+    confirmed: 221cd3163355
 ---
 The home dashboard shall detect firmware images using AES-256-GCM.
 

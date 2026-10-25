@@ -9,6 +9,7 @@ order: 20
 links:
   - type: refines
     target: SYS-M23G4X
+    confirmed: 3da3ac6dee1c
 ---
 The power supply shall limit audit records without user interaction.
 
