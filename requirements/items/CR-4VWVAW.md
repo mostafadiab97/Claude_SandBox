@@ -16,5 +16,5 @@ links:
 ---
 Requested by customer support (ticket #16785).
 
-Change: the touch display should also log the connection state.
+Change: the touch display shall also log the connection state.
 Impact: affects the linked requirements; estimated effort 9 person-days.
