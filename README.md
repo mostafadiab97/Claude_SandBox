@@ -73,5 +73,5 @@ ReqMan should report these, never crash on them:
 | Status "Done", not in the schema | Message when the item is opened; saving is refused until fixed |
 | Unknown link type "blocks" | Message when the item is opened |
 | A test case with an `SW-` ID | Warning when the item is opened |
-| A risk file renamed by hand to `RSK-RENAMD.md` | Opens normally (repository-wide check comes later) |
+| A risk file renamed by hand to `RSK-RENAMD.md` | Opens normally; listed as a problem with a **Fix file name** button (ReqMan 0.8.0) |
 | A file with header keys ReqMan doesn't know (`x-imported-from: DOORS`) | Not a problem: the keys must still be there after you edit and save the item |
