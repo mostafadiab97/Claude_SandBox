@@ -1,16 +1,17 @@
 ---
-id: TC-4M07CD
+id: REQ-C35ECMK
 type: test-case
 title: "Regression: Relay board stores relay events"
 status: Obsolete
 priority: High
 tags:
   - accessibility
-parent: INFO-ECHASH
-order: 1500
+former-id: TC-4M07CD
+parent: REQ-6H15AV2
+order: b1P
 links:
   - type: verifies
-    target: SYS-DKDQXS
+    target: REQ-2DVZHT2
     confirmed: 172d4f5ba54f
 ---
 **Objective:** verify that the device behaves as specified.

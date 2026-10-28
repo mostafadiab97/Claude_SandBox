@@ -1,5 +1,5 @@
 ---
-id: SYS-Y62PFM
+id: REQ-3NYYTRF
 type: system-requirement
 title: Regulation loop limits sensor readings
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: A. Hassan
 tags:
   - accessibility
-parent: INFO-6DQTKV
-order: 350
+former-id: SYS-Y62PFM
+parent: REQ-7ED7ZET
+order: aY
 links:
   - type: refines
-    target: STK-EWSQ9Z
+    target: REQ-GXKEHF3
     confirmed: aa5e4143dbe7
 ---
 The regulation loop shall calibrate humidity values in all supported languages.

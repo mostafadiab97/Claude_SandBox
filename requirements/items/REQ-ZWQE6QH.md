@@ -1,18 +1,19 @@
 ---
-id: TC-GJBCND
+id: REQ-ZWQE6QH
 type: test-case
 title: "Verify: Bluetooth LE link reports sensor readings"
 status: Review
 priority: Medium
 owner: محمد علي
-parent: INFO-F0M7VC
-order: 580
+former-id: TC-GJBCND
+parent: REQ-67RQXCK
+order: av
 links:
   - type: verifies
-    target: SYS-7RZPD7
+    target: REQ-84ZV56S
     confirmed: ff918beefe64
   - type: verifies
-    target: SW-JPCWP5
+    target: REQ-FF6HYWX
     confirmed: c4b55551f995
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

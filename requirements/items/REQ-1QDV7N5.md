@@ -1,5 +1,5 @@
 ---
-id: IF-KGWE34
+id: REQ-1QDV7N5
 type: interface-requirement
 title: Zone valve measures the room temperature
 status: Draft
@@ -7,11 +7,12 @@ owner: محمد علي
 tags:
   - customer-request
   - release-1.0
-parent: SYS-6CT381
-order: 30
+former-id: IF-KGWE34
+parent: REQ-22PQVV7
+order: a2
 links:
   - type: refines
-    target: SYS-6CT381
+    target: REQ-22PQVV7
     confirmed: cb9aa6a7b060
 ---
 The heating controller shall report safety limits with an accuracy of ±0.5 °C.

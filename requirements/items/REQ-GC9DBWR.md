@@ -1,5 +1,5 @@
 ---
-id: HW-MBES87
+id: REQ-GC9DBWR
 type: hardware-requirement
 title: Enclosure notifys access tokens
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - performance
   - accessibility
   - EMC
-parent: SYS-WFQYSE
-order: 10
+former-id: HW-MBES87
+parent: REQ-WQSDQ95
+order: a0
 links:
   - type: refines
-    target: SYS-WFQYSE
+    target: REQ-WQSDQ95
     confirmed: 5a5dbeacc343
 ---
 The relay board shall store humidity values after a power loss.

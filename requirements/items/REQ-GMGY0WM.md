@@ -1,15 +1,16 @@
 ---
-id: IF-MFQMW0
+id: REQ-GMGY0WM
 type: interface-requirement
 title: Battery backup restores audit records
 status: Review
 priority: Medium
 owner: L. Samir
-parent: SYS-EDRZBM
-order: 20
+former-id: IF-MFQMW0
+parent: REQ-DV0E664
+order: a1
 links:
   - type: refines
-    target: SYS-EDRZBM
+    target: REQ-DV0E664
     confirmed: 0f03b8a1d1a2
 ---
 The main PCB shall synchronise relay events within 200 ms.

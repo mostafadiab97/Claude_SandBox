@@ -1,5 +1,5 @@
 ---
-id: SW-EJZMAM
+id: REQ-B6FRCCG
 type: software-requirement
 title: Telemetry pipeline calibrates access tokens
 status: Review
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - performance
   - cost
-parent: SYS-GBTGV5
-order: 30
+former-id: SW-EJZMAM
+parent: REQ-5RN3ZTR
+order: a2
 links:
   - type: refines
-    target: SYS-GBTGV5
+    target: REQ-5RN3ZTR
     confirmed: 3f594322748c
 ---
 The device registry shall switch sensor readings at least once per minute.

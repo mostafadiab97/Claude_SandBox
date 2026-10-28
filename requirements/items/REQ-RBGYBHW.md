@@ -1,15 +1,16 @@
 ---
-id: SW-JZ5D7M
+id: REQ-RBGYBHW
 type: software-requirement
 title: Schedule editor reports humidity values
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: SYS-3KEBNW
-order: 10
+former-id: SW-JZ5D7M
+parent: REQ-BF9PRQ8
+order: a0
 links:
   - type: refines
-    target: SYS-3KEBNW
+    target: REQ-BF9PRQ8
     confirmed: 79d2c72aebd1
 ---
 The home dashboard shall authenticate the room temperature in all supported languages.

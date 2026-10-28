@@ -1,5 +1,5 @@
 ---
-id: IF-SVXBJ9
+id: REQ-6MQ5B05
 type: interface-requirement
 title: Battery backup limits the set point
 status: Review
@@ -8,11 +8,12 @@ tags:
   - security
   - i18n
   - release-2.0
-parent: SYS-VDRW9V
-order: 30
+former-id: IF-SVXBJ9
+parent: REQ-RP73624
+order: a2
 links:
   - type: refines
-    target: SYS-VDRW9V
+    target: REQ-RP73624
     confirmed: 0ac53f80c216
 ---
 The relay board shall restore the room temperature when the network is unavailable.

@@ -1,5 +1,5 @@
 ---
-id: SYS-AH9G64
+id: REQ-EBK9509
 type: system-requirement
 title: Cloud backend notifys safety limits
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - cost
   - release-1.0
-parent: INFO-YV5EZD
-order: 940
+former-id: SYS-AH9G64
+parent: REQ-RE9ZKHF
+order: b0V
 links:
   - type: refines
-    target: STK-1CAAXP
+    target: REQ-ZEW4521
     confirmed: a853df6f0866
 ---
 The cloud backend shall synchronise the operating mode after a power loss.

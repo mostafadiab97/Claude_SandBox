@@ -1,5 +1,5 @@
 ---
-id: SW-SNZBYM
+id: REQ-SGP2F40
 type: software-requirement
 title: Secure boot switchs humidity values
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - cost
-parent: SYS-F7SWPF
-order: 40
+former-id: SW-SNZBYM
+parent: REQ-7W5PV59
+order: a3
 links:
   - type: refines
-    target: SYS-F7SWPF
+    target: REQ-7W5PV59
     confirmed: 89bbd5dd030b
 ---
 The tamper detection shall store the room temperature below 0.5 W in standby.

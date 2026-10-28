@@ -1,15 +1,16 @@
 ---
-id: HW-Q1W4WZ
+id: REQ-PQDQ95C
 type: hardware-requirement
 title: Power supply validates energy consumption
 status: Approved
 priority: High
 owner: S. Adel
-parent: SYS-0F1D8X
-order: 20
+former-id: HW-Q1W4WZ
+parent: REQ-HQCFJ0J
+order: a1
 links:
   - type: refines
-    target: SYS-0F1D8X
+    target: REQ-HQCFJ0J
     confirmed: de3125cc19b7
 ---
 The enclosure shall restore user preferences below 0.5 W in standby.

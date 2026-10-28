@@ -1,5 +1,5 @@
 ---
-id: IF-TJSWJV
+id: REQ-AKB1VW2
 type: interface-requirement
 title: Schedule editor stores humidity values
 status: Review
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - cost
   - security
-parent: SYS-CZF40M
-order: 10
+former-id: IF-TJSWJV
+parent: REQ-7V3TPE0
+order: a0
 links:
   - type: refines
-    target: SYS-CZF40M
+    target: REQ-7V3TPE0
     confirmed: 463cc60a6f2f
 ---
 The mobile app shall calibrate the operating mode within 200 ms.

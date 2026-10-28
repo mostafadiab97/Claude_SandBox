@@ -1,5 +1,5 @@
 ---
-id: IF-FSBYRS
+id: REQ-VW3AEJE
 type: interface-requirement
 title: Enclosure logs the room temperature
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - i18n
   - release-1.0
-parent: SYS-W0W7D4
-order: 10
+former-id: IF-FSBYRS
+parent: REQ-Z08EBAB
+order: a0
 links:
   - type: refines
-    target: SYS-W0W7D4
+    target: REQ-Z08EBAB
     confirmed: 4d7252a936d8
 ---
 The power supply shall notify sensor readings within 200 ms.

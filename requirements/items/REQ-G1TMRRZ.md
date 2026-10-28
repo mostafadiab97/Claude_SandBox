@@ -1,15 +1,16 @@
 ---
-id: SW-EVR49N
+id: REQ-G1TMRRZ
 type: software-requirement
 title: OTA server synchronises the set point
 status: Draft
 priority: High
 owner: L. Samir
-parent: SYS-9C06SC
-order: 20
+former-id: SW-EVR49N
+parent: REQ-M5PBBS6
+order: a1
 links:
   - type: refines
-    target: SYS-9C06SC
+    target: REQ-M5PBBS6
     confirmed: b146aebd3064
 ---
 The cloud backend shall display audit records in all supported languages.

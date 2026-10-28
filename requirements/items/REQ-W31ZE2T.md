@@ -1,5 +1,5 @@
 ---
-id: SW-KCASCY
+id: REQ-W31ZE2T
 type: software-requirement
 title: Restore schedule entries — detail
 status: Obsolete
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - EMC
   - power
-parent: SW-YD7QZF
-order: 10
+former-id: SW-KCASCY
+parent: REQ-093ZSES
+order: a0
 links:
   - type: refines
-    target: SW-YD7QZF
+    target: REQ-093ZSES
     confirmed: 373d1317b49b
 ---
 The menu system shall synchronise user preferences without user interaction.

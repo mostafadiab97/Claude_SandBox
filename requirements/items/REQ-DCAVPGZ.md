@@ -1,5 +1,5 @@
 ---
-id: SW-3J6F0Z
+id: REQ-DCAVPGZ
 type: software-requirement
 title: Home dashboard switchs safety limits
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - performance
-parent: SYS-EVBYJ7
-order: 40
+former-id: SW-3J6F0Z
+parent: REQ-58A23KV
+order: a3
 links:
   - type: refines
-    target: SYS-EVBYJ7
+    target: REQ-58A23KV
     confirmed: 11120bfddd2b
 ---
 The login screen shall measure the operating mode below 0.5 W in standby.

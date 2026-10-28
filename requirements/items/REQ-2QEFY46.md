@@ -1,15 +1,16 @@
 ---
-id: IF-TM10NA
+id: REQ-2QEFY46
 type: interface-requirement
 title: Cloud backend measures the operating mode
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: SYS-E5040S
-order: 30
+former-id: IF-TM10NA
+parent: REQ-WDV077E
+order: a2
 links:
   - type: refines
-    target: SYS-E5040S
+    target: REQ-WDV077E
     confirmed: fe7113d52fd1
 ---
 The cloud backend shall detect energy consumption in all supported languages.

@@ -1,7 +1,8 @@
 ---
-id: INFO-MS9DAG
+id: REQ-XGWSK2K
 type: information
-title: 1.3 Verification
-parent: INFO-FBGE35
-order: 30
+title: Verification
+former-id: INFO-MS9DAG
+parent: REQ-7VTYWPY
+order: a2
 ---

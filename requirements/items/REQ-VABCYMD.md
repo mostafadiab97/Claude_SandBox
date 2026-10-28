@@ -1,16 +1,17 @@
 ---
-id: TC-V7WCVJ
+id: REQ-VABCYMD
 type: test-case
 title: "Verify: Status LED reports sensor readings"
 status: Draft
 tags:
   - cost
   - performance
-parent: INFO-HTSZ15
-order: 1230
+former-id: TC-V7WCVJ
+parent: REQ-Y9VHHKA
+order: b0y
 links:
   - type: verifies
-    target: SYS-DTDMRC
+    target: REQ-0X9SCGY
     confirmed: 001ab42cb872
 ---
 **Objective:** verify that the status LED behaves as specified.

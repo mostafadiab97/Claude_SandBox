@@ -1,17 +1,18 @@
 ---
-id: TC-E439KF
+id: REQ-KAVPPFT
 type: test-case
 title: "Verify: Secure boot stores humidity values"
 status: Approved
 priority: High
-parent: INFO-Z4TW4B
-order: 450
+former-id: TC-E439KF
+parent: REQ-K6FGAY0
+order: ai
 links:
   - type: verifies
-    target: SYS-XHYQN4
+    target: REQ-SP2XMBQ
     confirmed: 3a60145a886a
   - type: verifies
-    target: SW-RA5W6M
+    target: REQ-GMVQWKK
     confirmed: 5a5e48e6f008
 ---
 **Objective:** verify that the secure boot behaves as specified.

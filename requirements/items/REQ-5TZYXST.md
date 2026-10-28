@@ -1,15 +1,16 @@
 ---
-id: TC-0TARNC
+id: REQ-5TZYXST
 type: test-case
 title: "Regression: Login screen switchs the operating mode"
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: INFO-ECHASH
-order: 1510
+former-id: TC-0TARNC
+parent: REQ-6H15AV2
+order: b1Q
 links:
   - type: verifies
-    target: SYS-JD8TXM
+    target: REQ-670N5PW
     confirmed: f81d3e3b2c08
 ---
 **Objective:** verify that the device behaves as specified.

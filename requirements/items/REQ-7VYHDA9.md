@@ -1,5 +1,5 @@
 ---
-id: RSK-3GS5TS
+id: REQ-7VYHDA9
 type: risk
 title: "Risk: backlight fails to calibrate schedule entries"
 status: Approved
@@ -7,8 +7,9 @@ owner: R. Nabil
 tags:
   - power
   - EMC
-parent: INFO-0V9DV4
-order: 80
+former-id: RSK-3GS5TS
+parent: REQ-HHCVAFQ
+order: a7
 ---
 **Hazard:** the backlight could fail to notify schedule entries.
 

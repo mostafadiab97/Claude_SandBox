@@ -1,15 +1,16 @@
 ---
-id: TC-3SDDD5
+id: REQ-YVY4MV2
 type: test-case
 title: "Verify: Home dashboard calibrates humidity values"
 status: Approved
 priority: High
 owner: É. Laurent
-parent: INFO-J0FETE
-order: 450
+former-id: TC-3SDDD5
+parent: REQ-WR5ZJN9
+order: ai
 links:
   - type: verifies
-    target: SYS-6ES66C
+    target: REQ-3J5F3Z3
     confirmed: ec8cd1bbb3ad
 ---
 **Objective:** verify that the home dashboard behaves as specified.

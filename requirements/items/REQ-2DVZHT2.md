@@ -1,5 +1,5 @@
 ---
-id: SYS-DKDQXS
+id: REQ-2DVZHT2
 type: system-requirement
 title: Relay board stores relay events
 status: Approved
@@ -8,14 +8,15 @@ owner: S. Adel
 tags:
   - i18n
   - ux
-parent: INFO-A6P9A8
-order: 1560
+former-id: SYS-DKDQXS
+parent: REQ-CMCS31A
+order: b1V
 links:
   - type: refines
-    target: STK-CDR1Y9
+    target: REQ-QC1Z78M
     confirmed: d9857f8b33bf
   - type: mitigates
-    target: RSK-5AER0Q
+    target: REQ-PMSQJ45
     confirmed: 7c9168219772
 ---
 The relay board shall log the set point for at least 10 years.

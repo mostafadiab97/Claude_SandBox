@@ -1,5 +1,5 @@
 ---
-id: TC-CHRXKZ
+id: REQ-JDHVTE3
 type: test-case
 title: "Verify: Login screen restores the connection state"
 status: Review
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - regulatory
   - performance
-parent: INFO-J0FETE
-order: 670
+former-id: TC-CHRXKZ
+parent: REQ-WR5ZJN9
+order: b04
 links:
   - type: verifies
-    target: SYS-841ZEK
+    target: REQ-2CJCCA6
     confirmed: f5675ac44211
 ---
 **Objective:** verify that the login screen behaves as specified.

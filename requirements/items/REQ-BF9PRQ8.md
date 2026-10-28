@@ -1,5 +1,5 @@
 ---
-id: SYS-3KEBNW
+id: REQ-BF9PRQ8
 type: system-requirement
 title: Home dashboard reports error conditions
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - safety
   - ux
-parent: INFO-2XXBRS
-order: 1390
+former-id: SYS-3KEBNW
+parent: REQ-QYXGSQ4
+order: b1E
 links:
   - type: refines
-    target: STK-BR4RT9
+    target: REQ-QZME2VX
     confirmed: 16def0c1f947
 ---
 The home dashboard shall measure energy consumption at least once per minute.

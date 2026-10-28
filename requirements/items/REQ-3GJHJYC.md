@@ -1,5 +1,5 @@
 ---
-id: TC-0J1H30
+id: REQ-3GJHJYC
 type: test-case
 title: "Verify: Enclosure synchronises safety limits"
 status: Review
@@ -7,14 +7,15 @@ priority: High
 owner: S. Adel
 tags:
   - EMC
-parent: INFO-MACGC3
-order: 830
+former-id: TC-0J1H30
+parent: REQ-F9Z1FYS
+order: b0K
 links:
   - type: verifies
-    target: SYS-HN9JCX
+    target: REQ-0N8DMH3
     confirmed: ed79de17940f
   - type: verifies
-    target: SW-YDHNMQ
+    target: REQ-56210FN
     confirmed: 4ea9bf6f6ab0
 ---
 **Objective:** verify that the enclosure behaves as specified.

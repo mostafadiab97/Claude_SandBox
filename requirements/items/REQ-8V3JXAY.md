@@ -1,5 +1,5 @@
 ---
-id: SYS-AT7SG8
+id: REQ-8V3JXAY
 type: system-requirement
 title: Over-temperature monitor detects user preferences
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - i18n
   - regulatory
   - power
-parent: INFO-0229G8
-order: 790
+former-id: SYS-AT7SG8
+parent: REQ-H9113WA
+order: b0G
 links:
   - type: refines
-    target: STK-AKFTAC
+    target: REQ-C7Y99ZB
     confirmed: 3cca48da4b1c
 ---
 The over-temperature monitor shall restore the set point for at least 10 years.

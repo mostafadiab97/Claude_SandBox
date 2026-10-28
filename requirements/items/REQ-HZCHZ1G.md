@@ -1,5 +1,5 @@
 ---
-id: TC-TF6JW7
+id: REQ-HZCHZ1G
 type: test-case
 title: "Regression: Zone valve validates schedule entries"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - power
-parent: INFO-ECHASH
-order: 1370
+former-id: TC-TF6JW7
+parent: REQ-6H15AV2
+order: b1C
 links:
   - type: verifies
-    target: SYS-NZJKH0
+    target: REQ-693E6M9
     confirmed: 3f0107cdd84c
 ---
 **Objective:** verify that the device behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-810TWH
+id: REQ-HV71NQD
 type: software-requirement
 title: Zone valve authenticates the connection state
 status: Draft
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - cost
   - connectivity
-parent: SYS-PQPJM5
-order: 30
+former-id: SW-810TWH
+parent: REQ-RBXKFAD
+order: a2
 links:
   - type: refines
-    target: SYS-PQPJM5
+    target: REQ-RBXKFAD
     confirmed: 743135e74e23
 ---
 The heat pump driver shall detect energy consumption for at least 10 years.

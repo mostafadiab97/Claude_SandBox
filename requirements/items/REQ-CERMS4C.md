@@ -1,5 +1,5 @@
 ---
-id: TC-G7MBV1
+id: REQ-CERMS4C
 type: test-case
 title: "Verify: Mobile app switchs sensor readings"
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - connectivity
   - accessibility
-parent: INFO-J0FETE
-order: 190
+former-id: TC-G7MBV1
+parent: REQ-WR5ZJN9
+order: aI
 links:
   - type: verifies
-    target: SYS-64QHS8
+    target: REQ-6CNE4KJ
     confirmed: 16f3ad7fdfaa
 ---
 **Objective:** verify that the mobile app behaves as specified.

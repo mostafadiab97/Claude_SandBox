@@ -1,5 +1,5 @@
 ---
-id: TC-JAPVT9
+id: REQ-YC5ATGE
 type: test-case
 title: "Verify: Tamper detection restores sensor readings"
 status: Review
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - i18n
   - safety
-parent: INFO-Z4TW4B
-order: 610
+former-id: TC-JAPVT9
+parent: REQ-K6FGAY0
+order: ay
 links:
   - type: verifies
-    target: SYS-QEG5QQ
+    target: REQ-04ZWVW7
     confirmed: 312c76ebed64
 ---
 **Objective:** verify that the tamper detection behaves as specified.

@@ -1,16 +1,17 @@
 ---
-id: TC-YVT36A
+id: REQ-QF9GBK2
 type: test-case
 title: "Verify: Backlight restores the operating mode"
 status: Draft
 priority: Low
 tags:
   - connectivity
-parent: INFO-HTSZ15
-order: 620
+former-id: TC-YVT36A
+parent: REQ-Y9VHHKA
+order: az
 links:
   - type: verifies
-    target: SYS-AY6RXE
+    target: REQ-XF9SPTA
     confirmed: 7ff5c17c87ed
 ---
 **Objective:** verify that the backlight behaves as specified.

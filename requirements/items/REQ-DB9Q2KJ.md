@@ -1,14 +1,15 @@
 ---
-id: TC-1ST1X4
+id: REQ-DB9Q2KJ
 type: test-case
 title: "Verify: Over-temperature monitor validates audit records"
 status: Approved
 priority: Medium
-parent: INFO-Z4TW4B
-order: 950
+former-id: TC-1ST1X4
+parent: REQ-K6FGAY0
+order: b0W
 links:
   - type: verifies
-    target: SYS-5BZJ6Y
+    target: REQ-S2CYXSP
     confirmed: 4f8713624f57
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

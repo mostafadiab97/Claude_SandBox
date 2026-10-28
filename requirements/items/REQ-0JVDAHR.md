@@ -1,16 +1,17 @@
 ---
-id: TC-ZMKEN3
+id: REQ-0JVDAHR
 type: test-case
 title: "Regression: Device registry calibrates sensor readings"
 status: Approved
 priority: Low
 tags:
   - connectivity
-parent: INFO-ECHASH
-order: 1400
+former-id: TC-ZMKEN3
+parent: REQ-6H15AV2
+order: b1F
 links:
   - type: verifies
-    target: SYS-V0E8NK
+    target: REQ-3E4WE4B
     confirmed: 8b83909c9c36
 ---
 **Objective:** verify that the device behaves as specified.

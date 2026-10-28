@@ -1,5 +1,5 @@
 ---
-id: TC-1X1EXP
+id: REQ-DZRGSBG
 type: test-case
 title: "Verify: Menu system encrypts schedule entries"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - release-1.0
   - EMC
   - cost
-parent: INFO-HTSZ15
-order: 1220
+former-id: TC-1X1EXP
+parent: REQ-Y9VHHKA
+order: b0x
 links:
   - type: verifies
-    target: SYS-YNQ51V
+    target: REQ-R42X213
     confirmed: d66b7da9d253
   - type: verifies
-    target: SW-5WXPK8
+    target: REQ-7VX5WH8
     confirmed: 48d10bbe2632
 ---
 **Objective:** verify that the menu system behaves as specified.

@@ -1,18 +1,19 @@
 ---
-id: TC-A05A2T
+id: REQ-Z6RGKYA
 type: test-case
 title: "Verify: Encryption layer displays the operating mode"
 status: Draft
 priority: High
 owner: M. Farouk
-parent: INFO-Z4TW4B
-order: 920
+former-id: TC-A05A2T
+parent: REQ-K6FGAY0
+order: b0T
 links:
   - type: verifies
-    target: SYS-QRK41E
+    target: REQ-62KHJ30
     confirmed: ffc44ca06ebf
   - type: verifies
-    target: SW-9NWPV9
+    target: REQ-XF5T8Q3
     confirmed: f0638928913d
 ---
 **Objective:** verify that the encryption layer behaves as specified.

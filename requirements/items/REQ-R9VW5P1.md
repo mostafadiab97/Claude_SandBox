@@ -1,15 +1,16 @@
 ---
-id: TC-DTP8PS
+id: REQ-R9VW5P1
 type: test-case
 title: "Verify: Touch display measures the connection state"
 status: Draft
 priority: High
 owner: L. Samir
-parent: INFO-HTSZ15
-order: 1420
+former-id: TC-DTP8PS
+parent: REQ-Y9VHHKA
+order: b1H
 links:
   - type: verifies
-    target: SYS-Q32CFF
+    target: REQ-6F9V39K
     confirmed: 178903f1a8f4
 ---
 **Objective:** verify that the touch display behaves as specified.

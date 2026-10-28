@@ -1,15 +1,16 @@
 ---
-id: IF-XNEDQT
+id: REQ-KKT4M7R
 type: interface-requirement
 title: Battery backup switchs humidity values
 status: Approved
 tags:
   - safety
-parent: SYS-ZSDCZJ
-order: 30
+former-id: IF-XNEDQT
+parent: REQ-V96R8DT
+order: a2
 links:
   - type: refines
-    target: SYS-ZSDCZJ
+    target: REQ-V96R8DT
     confirmed: 5cf55da3656a
 ---
 The battery backup shall restore the set point for up to 8 zones.

@@ -1,5 +1,5 @@
 ---
-id: TC-0EAH7E
+id: REQ-ATJ2BT7
 type: test-case
 title: "Verify: Cloud backend synchronises error conditions"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - accessibility
   - cost
   - performance
-parent: INFO-7P4D8D
-order: 930
+former-id: TC-0EAH7E
+parent: REQ-8351896
+order: b0U
 links:
   - type: verifies
-    target: SYS-XWNGQ6
+    target: REQ-PNZY11B
     confirmed: 63430edab993
   - type: verifies
-    target: SW-ZG8HVV
+    target: REQ-0PJBC1T
     confirmed: 861ef57464a9
 ---
 **Objective:** verify that the cloud backend behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: IF-V6NSMC
+id: REQ-EQ50DFH
 type: interface-requirement
 title: Regulation loop authenticates humidity values
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - release-1.0
   - i18n
-parent: SYS-XGYXWY
-order: 20
+former-id: IF-V6NSMC
+parent: REQ-JTJVT7P
+order: a1
 links:
   - type: refines
-    target: SYS-XGYXWY
+    target: REQ-JTJVT7P
     confirmed: fb88a89b54aa
 ---
 The heating controller shall limit audit records within 200 ms.

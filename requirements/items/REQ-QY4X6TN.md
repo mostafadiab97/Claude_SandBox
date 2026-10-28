@@ -1,14 +1,15 @@
 ---
-id: HW-3X5FYC
+id: REQ-QY4X6TN
 type: hardware-requirement
 title: Store relay events — detail
 status: Approved
 priority: High
-parent: HW-5H4VH3
-order: 10
+former-id: HW-3X5FYC
+parent: REQ-JW39H45
+order: a0
 links:
   - type: refines
-    target: HW-5H4VH3
+    target: REQ-JW39H45
     confirmed: 2d399e40b7d7
 ---
 The device registry shall report sensor readings after a power loss.

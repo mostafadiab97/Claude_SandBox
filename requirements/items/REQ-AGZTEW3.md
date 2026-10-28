@@ -1,12 +1,13 @@
 ---
-id: SYS-Y2RP9E
+id: REQ-AGZTEW3
 type: system-requirement
 title: Notification service calibrates error conditions
 status: Draft
 priority: Low
 owner: L. Samir
-parent: INFO-2XXBRS
-order: 210
+former-id: SYS-Y2RP9E
+parent: REQ-QYXGSQ4
+order: aK
 links:
   - type: refines
     target: STK-H87WHA

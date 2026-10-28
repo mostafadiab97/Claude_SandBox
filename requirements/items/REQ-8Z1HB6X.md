@@ -1,18 +1,19 @@
 ---
-id: SYS-M0XMTJ
+id: REQ-8Z1HB6X
 type: system-requirement
 title: Over-temperature monitor synchronises sensor readings
 status: Approved
 priority: Medium
 owner: L. Samir
-parent: INFO-0229G8
-order: 700
+former-id: SYS-M0XMTJ
+parent: REQ-H9113WA
+order: b07
 links:
   - type: refines
-    target: STK-1TB226
+    target: REQ-QAY0F49
     confirmed: ea29425b18b7
   - type: mitigates
-    target: RSK-VHBQ7T
+    target: REQ-SV88AMT
     confirmed: d6a0082673fd
 ---
 The over-temperature monitor shall log user preferences in all supported languages.

@@ -1,18 +1,19 @@
 ---
-id: TC-PSEKH5
+id: REQ-CJBSXST
 type: test-case
 title: "Verify: Regulation loop stores audit records"
 status: Obsolete
 priority: High
 owner: S. Adel
-parent: INFO-MS9DAG
-order: 1230
+former-id: TC-PSEKH5
+parent: REQ-XGWSK2K
+order: b0y
 links:
   - type: verifies
-    target: SYS-5449PV
+    target: REQ-XTRE6E2
     confirmed: 51ad9fc7ce44
   - type: verifies
-    target: SW-TH8P9M
+    target: REQ-G1N7WG2
     confirmed: 16e8b8a640dc
 ---
 **Objective:** verify that the regulation loop behaves as specified.

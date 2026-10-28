@@ -1,5 +1,5 @@
 ---
-id: SW-7DXKRN
+id: REQ-AHK7P3C
 type: software-requirement
 title: OTA server measures firmware images
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - EMC
   - customer-request
   - security
-parent: SYS-JAKPTT
-order: 10
+former-id: SW-7DXKRN
+parent: REQ-HH7JK9T
+order: a0
 links:
   - type: refines
-    target: SYS-JAKPTT
+    target: REQ-HH7JK9T
     confirmed: c8ec22696e3b
 ---
 The device registry shall restore the set point below 0.5 W in standby.

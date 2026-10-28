@@ -1,5 +1,5 @@
 ---
-id: IF-0B9CJW
+id: REQ-TQCM96P
 type: interface-requirement
 title: Zigbee radio notifys audit records
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - security
   - release-2.0
-parent: SYS-QXZ496
-order: 40
+former-id: IF-0B9CJW
+parent: REQ-P4GH0CZ
+order: a3
 links:
   - type: refines
-    target: SYS-QXZ496
+    target: REQ-P4GH0CZ
     confirmed: 2ec0e56a2793
 ---
 The Wi-Fi module shall store energy consumption within 200 ms.

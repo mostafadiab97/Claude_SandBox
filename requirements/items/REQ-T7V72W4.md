@@ -1,5 +1,5 @@
 ---
-id: SYS-WX9A1X
+id: REQ-T7V72W4
 type: system-requirement
 title: Boiler interface measures the room temperature
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - power
   - release-2.0
   - accessibility
-parent: INFO-6DQTKV
-order: 1210
+former-id: SYS-WX9A1X
+parent: REQ-7ED7ZET
+order: b0w
 links:
   - type: refines
-    target: STK-M7S0HJ
+    target: REQ-219619F
     confirmed: 000356d5d38b
 ---
 The boiler interface shall switch schedule entries for up to 8 zones.

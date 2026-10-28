@@ -1,10 +1,11 @@
 ---
-id: IF-NT2X6Q
+id: REQ-XRFJW0G
 type: interface-requirement
 title: "Signal 345: audit records"
 status: Draft
 priority: Low
-parent: INFO-2TM0JP
-order: 3450
+former-id: IF-NT2X6Q
+parent: REQ-RJ0KHPT
+order: b4Y
 ---
 Interface signal number 345.

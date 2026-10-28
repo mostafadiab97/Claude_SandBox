@@ -1,5 +1,5 @@
 ---
-id: HW-A4P47J
+id: REQ-ZFEPS31
 type: hardware-requirement
 title: Measure humidity values — detail
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: É. Laurent
 tags:
   - customer-request
-parent: HW-KZKWS7
-order: 10
+former-id: HW-A4P47J
+parent: REQ-B85XS1T
+order: a0
 links:
   - type: refines
-    target: HW-KZKWS7
+    target: REQ-B85XS1T
     confirmed: 26159a32a0f8
 ---
 The backlight shall authenticate energy consumption after a power loss.

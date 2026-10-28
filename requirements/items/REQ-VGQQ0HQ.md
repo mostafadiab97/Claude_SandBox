@@ -1,14 +1,15 @@
 ---
-id: SW-9XARPM
+id: REQ-VGQQ0HQ
 type: software-requirement
 title: OTA server logs the room temperature
 status: Review
 priority: Medium
-parent: SYS-Z2TFC8
-order: 30
+former-id: SW-9XARPM
+parent: REQ-NTH5FYH
+order: a2
 links:
   - type: refines
-    target: SYS-Z2TFC8
+    target: REQ-NTH5FYH
     confirmed: 985116655f53
 ---
 The telemetry pipeline shall limit humidity values at least once per minute.

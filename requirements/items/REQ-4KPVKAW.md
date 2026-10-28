@@ -1,5 +1,5 @@
 ---
-id: SW-4KGSHC
+id: REQ-4KPVKAW
 type: software-requirement
 title: Local API calibrates schedule entries
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - EMC
   - security
   - cost
-parent: SYS-AKZ1R4
-order: 20
+former-id: SW-4KGSHC
+parent: REQ-K15JQP3
+order: a1
 links:
   - type: refines
-    target: SYS-AKZ1R4
+    target: REQ-K15JQP3
     confirmed: da5ffbb2dc98
 ---
 The Wi-Fi module shall notify energy consumption at least once per minute.

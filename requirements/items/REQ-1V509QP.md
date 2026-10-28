@@ -1,5 +1,5 @@
 ---
-id: DE-DC2DP1
+id: REQ-1V509QP
 type: design-element
 title: Module local_API_4
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: É. Laurent
 tags:
   - security
-parent: SW-P1TFZ1
-order: 10
+former-id: DE-DC2DP1
+parent: REQ-D90SSD4
+order: a0
 links:
   - type: implements
-    target: SW-P1TFZ1
+    target: REQ-D90SSD4
     confirmed: 73c087b26e54
 ---
 Implemented in `src/conn/local_API.c`.

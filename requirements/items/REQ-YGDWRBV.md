@@ -1,5 +1,5 @@
 ---
-id: HW-MRADGH
+id: REQ-YGDWRBV
 type: hardware-requirement
 title: Relay board synchronises the set point
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 tags:
   - EMC
   - regulatory
-parent: SYS-E3Z9PA
-order: 10
+former-id: HW-MRADGH
+parent: REQ-YPMJX9G
+order: a0
 links:
   - type: refines
-    target: SYS-E3Z9PA
+    target: REQ-YPMJX9G
     confirmed: 789aac36902e
 ---
 The main PCB shall report schedule entries in under 3 s.

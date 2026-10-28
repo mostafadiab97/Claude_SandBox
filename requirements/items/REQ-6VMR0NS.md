@@ -1,14 +1,15 @@
 ---
-id: IF-04XZBY
+id: REQ-6VMR0NS
 type: interface-requirement
 title: Report the set point — detail
 status: Draft
 owner: S. Adel
-parent: IF-TMX193
-order: 10
+former-id: IF-04XZBY
+parent: REQ-HJ6FD08
+order: a0
 links:
   - type: refines
-    target: IF-TMX193
+    target: REQ-HJ6FD08
     confirmed: 5c43a341c464
 ---
 The enclosure shall encrypt access tokens without user interaction.

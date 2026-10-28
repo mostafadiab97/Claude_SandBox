@@ -1,14 +1,15 @@
 ---
-id: DE-WCP5HW
+id: REQ-ZSQR3W2
 type: design-element
 title: Module login_screen_22
 status: Approved
 priority: Medium
-parent: SW-2MEXPQ
-order: 20
+former-id: DE-WCP5HW
+parent: REQ-YP61FT2
+order: a1
 links:
   - type: implements
-    target: SW-2MEXPQ
+    target: REQ-YP61FT2
     confirmed: 1e20ac0f135d
 ---
 Implemented in `src/app/login_screen.c`.

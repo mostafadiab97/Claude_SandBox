@@ -1,5 +1,5 @@
 ---
-id: SYS-Q83WR4
+id: REQ-3EX8QAF
 type: system-requirement
 title: Rotary knob validates the connection state
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - performance
   - power
-parent: INFO-PDR6FV
-order: 980
+former-id: SYS-Q83WR4
+parent: REQ-2ZA2TRZ
+order: b0Z
 links:
   - type: refines
-    target: STK-BV5YMS
+    target: REQ-XR7FDXB
     confirmed: 07434b0b5615
 ---
 The rotary knob shall detect energy consumption below 0.5 W in standby.

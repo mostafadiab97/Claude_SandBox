@@ -1,5 +1,5 @@
 ---
-id: UC-15QH03
+id: REQ-X24DNB4
 type: use-case
 title: "UC: Measure safety limits with the heating controller"
 status: Review
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - i18n
   - power
-parent: INFO-10C32K
-order: 140
+former-id: UC-15QH03
+parent: REQ-NER72N9
+order: aD
 links:
   - type: relates-to
-    target: STK-75QZSA
+    target: REQ-NKR80ET
     confirmed: fef0332ed10c
 ---
 **Actor:** home owner

@@ -1,14 +1,15 @@
 ---
-id: DE-JY59CC
+id: REQ-SEPAQVM
 type: design-element
 title: Module encryption_layer_33
 status: Approved
 owner: Y. Saber
-parent: SW-KCW4TA
-order: 10
+former-id: DE-JY59CC
+parent: REQ-1E511D8
+order: a0
 links:
   - type: implements
-    target: SW-KCW4TA
+    target: REQ-1E511D8
     confirmed: d6a4f5e3005e
 ---
 Implemented in `src/safe/encryption_layer.c`.

@@ -1,5 +1,5 @@
 ---
-id: SW-CD64BA
+id: REQ-H0SK8HJ
 type: software-requirement
 title: Zone valve limits safety limits
 status: Review
@@ -8,11 +8,12 @@ tags:
   - EMC
   - security
   - customer-request
-parent: SYS-RAP7Z6
-order: 20
+former-id: SW-CD64BA
+parent: REQ-YBS8MW9
+order: a1
 links:
   - type: refines
-    target: SYS-RAP7Z6
+    target: REQ-YBS8MW9
     confirmed: 8158ead818f6
 ---
 The heating controller shall switch sensor readings without user interaction.

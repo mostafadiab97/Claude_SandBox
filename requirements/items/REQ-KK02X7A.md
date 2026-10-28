@@ -1,5 +1,5 @@
 ---
-id: SW-HY8JBJ
+id: REQ-KK02X7A
 type: software-requirement
 title: Schedule editor displays error conditions
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: A. Hassan
 tags:
   - regulatory
-parent: SYS-TETJ5F
-order: 10
+former-id: SW-HY8JBJ
+parent: REQ-2JC31WQ
+order: a0
 links:
   - type: refines
-    target: SYS-TETJ5F
+    target: REQ-2JC31WQ
     confirmed: c924d6e8986e
 ---
 The notification service shall measure audit records in all supported languages.

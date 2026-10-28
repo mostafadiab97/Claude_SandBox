@@ -1,5 +1,5 @@
 ---
-id: IF-HFHZ9A
+id: REQ-FPFGQ86
 type: interface-requirement
 title: Telemetry pipeline authenticates user preferences
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - regulatory
   - connectivity
-parent: SYS-X491FT
-order: 20
+former-id: IF-HFHZ9A
+parent: REQ-YYB3TCA
+order: a1
 links:
   - type: refines
-    target: SYS-X491FT
+    target: REQ-YYB3TCA
     confirmed: 8674f6feb478
 ---
 The telemetry pipeline shall display humidity values in under 3 s.

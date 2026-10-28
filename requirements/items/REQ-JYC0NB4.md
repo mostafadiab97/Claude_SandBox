@@ -1,14 +1,15 @@
 ---
-id: SYS-8SN8KA
+id: REQ-JYC0NB4
 type: system-requirement
 title: Device registry restores the connection state
 status: Obsolete
 owner: H. Mostafa
-parent: INFO-YV5EZD
-order: 1790
+former-id: SYS-8SN8KA
+parent: REQ-RE9ZKHF
+order: b1s
 links:
   - type: refines
-    target: STK-CJBDWK
+    target: REQ-KR6ZHYR
     confirmed: b9e9b89c87b3
 ---
 The device registry shall display the set point with an accuracy of ±0.5 °C.

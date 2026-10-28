@@ -1,15 +1,16 @@
 ---
-id: SW-5CV531
+id: REQ-HEDYSZ6
 type: software-requirement
 title: Menu system reports the room temperature
 status: Review
 priority: Medium
 owner: L. Samir
-parent: SYS-D5BE23
-order: 10
+former-id: SW-5CV531
+parent: REQ-AYKW2SY
+order: a0
 links:
   - type: refines
-    target: SYS-D5BE23
+    target: REQ-AYKW2SY
     confirmed: 909e2792e686
 ---
 The status LED shall calibrate user preferences at least once per minute.

@@ -1,14 +1,15 @@
 ---
-id: TC-4YQ1AH
+id: REQ-4BAMNQZ
 type: test-case
 title: "Regression: Heat pump driver synchronises relay events"
 status: Approved
 priority: High
-parent: INFO-ECHASH
-order: 730
+former-id: TC-4YQ1AH
+parent: REQ-6H15AV2
+order: b0A
 links:
   - type: verifies
-    target: SYS-R95DE9
+    target: REQ-99489MT
     confirmed: 9bf2a8cf1287
 ---
 **Objective:** verify that the device behaves as specified.

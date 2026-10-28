@@ -1,5 +1,5 @@
 ---
-id: TC-E7SH0H
+id: REQ-8F5W5S9
 type: test-case
 title: "Verify: Mobile app notifys audit records"
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - power
-parent: INFO-J0FETE
-order: 100
+former-id: TC-E7SH0H
+parent: REQ-WR5ZJN9
+order: a9
 links:
   - type: verifies
-    target: SYS-12HMHQ
+    target: REQ-R2X3WD7
     confirmed: c7fe0edbb759
 ---
 **Objective:** verify that the mobile app behaves as specified.

@@ -1,16 +1,17 @@
 ---
-id: SYS-59MM6H
+id: REQ-D6CAXH8
 type: system-requirement
 title: OTA server switchs the operating mode
 status: Review
 owner: R. Nabil
 tags:
   - power
-parent: INFO-YV5EZD
-order: 1830
+former-id: SYS-59MM6H
+parent: REQ-RE9ZKHF
+order: b1w
 links:
   - type: refines
-    target: STK-VT1KVD
+    target: REQ-36Y9ND0
     confirmed: fbcfb8475f32
 ---
 The OTA server shall switch the connection state when the network is unavailable.

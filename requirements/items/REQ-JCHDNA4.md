@@ -1,5 +1,5 @@
 ---
-id: TC-NPZZJW
+id: REQ-JCHDNA4
 type: test-case
 title: "Verify: User account service measures schedule entries"
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - accessibility
   - EMC
-parent: INFO-7P4D8D
-order: 830
+former-id: TC-NPZZJW
+parent: REQ-8351896
+order: b0K
 links:
   - type: verifies
-    target: SYS-NKN3QV
+    target: REQ-4V8EY3P
     confirmed: 2f2d653f73be
 ---
 **Objective:** verify that the user account service behaves as specified.

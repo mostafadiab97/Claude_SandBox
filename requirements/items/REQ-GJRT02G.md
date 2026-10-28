@@ -1,5 +1,5 @@
 ---
-id: SW-B0JQJK
+id: REQ-GJRT02G
 type: software-requirement
 title: Tamper detection synchronises error conditions
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: A. Hassan
 tags:
   - security
-parent: SYS-4WB58V
-order: 30
+former-id: SW-B0JQJK
+parent: REQ-WMCNKJW
+order: a2
 links:
   - type: refines
-    target: SYS-4WB58V
+    target: REQ-WMCNKJW
     confirmed: 328c59c5e6fa
 ---
 The tamper detection shall report the room temperature using AES-256-GCM.

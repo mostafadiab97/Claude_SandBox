@@ -1,5 +1,5 @@
 ---
-id: TC-RW5T9Z
+id: REQ-BWF5DAE
 type: test-case
 title: "Verify: Watchdog calibrates the connection state"
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Low
 owner: H. Mostafa
 tags:
   - release-2.0
-parent: INFO-Z4TW4B
-order: 1240
+former-id: TC-RW5T9Z
+parent: REQ-K6FGAY0
+order: b0z
 links:
   - type: verifies
-    target: SYS-C3RKXE
+    target: REQ-YPG30G6
     confirmed: 4c2aa84ed807
 ---
 **Objective:** verify that the watchdog behaves as specified.

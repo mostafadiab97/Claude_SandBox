@@ -1,5 +1,5 @@
 ---
-id: SW-T6K42M
+id: REQ-8RSFWRX
 type: software-requirement
 title: Notification service measures sensor readings
 status: Review
@@ -9,11 +9,12 @@ tags:
   - performance
   - regulatory
   - customer-request
-parent: SYS-9WHVE0
-order: 10
+former-id: SW-T6K42M
+parent: REQ-WDHBVAE
+order: a0
 links:
   - type: refines
-    target: SYS-9WHVE0
+    target: REQ-WDHBVAE
     confirmed: b19b26310755
 ---
 The notification service shall display sensor readings using AES-256-GCM.

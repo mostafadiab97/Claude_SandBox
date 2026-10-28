@@ -1,5 +1,5 @@
 ---
-id: TC-BW6CN2
+id: REQ-TWK622F
 type: test-case
 title: "Verify: Rotary knob notifys the set point"
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - regulatory
   - safety
-parent: INFO-HTSZ15
-order: 320
+former-id: TC-BW6CN2
+parent: REQ-Y9VHHKA
+order: aV
 links:
   - type: verifies
-    target: SYS-MJ3RPH
+    target: REQ-KCK5CFQ
     confirmed: 1ebca403ec7b
 ---
 **Objective:** verify that the rotary knob behaves as specified.

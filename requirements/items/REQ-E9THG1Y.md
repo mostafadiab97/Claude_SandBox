@@ -1,5 +1,5 @@
 ---
-id: HW-9E64X4
+id: REQ-E9THG1Y
 type: hardware-requirement
 title: Display access tokens — detail
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: H. Mostafa
 tags:
   - cost
-parent: HW-PA5D52
-order: 10
+former-id: HW-9E64X4
+parent: REQ-BKF123B
+order: a0
 links:
   - type: refines
-    target: HW-PA5D52
+    target: REQ-BKF123B
     confirmed: 2d46d442c63f
 ---
 The Zigbee radio shall detect error conditions using AES-256-GCM.

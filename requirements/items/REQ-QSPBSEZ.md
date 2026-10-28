@@ -1,15 +1,16 @@
 ---
-id: SW-JTZD0Y
+id: REQ-QSPBSEZ
 type: software-requirement
 title: Encrypt access tokens — detail
 status: Draft
 priority: High
 owner: Y. Saber
-parent: SW-M1MR5T
-order: 10
+former-id: SW-JTZD0Y
+parent: REQ-E0W6R7G
+order: a0
 links:
   - type: refines
-    target: SW-M1MR5T
+    target: REQ-E0W6R7G
     confirmed: 5ddacb5e8dc3
 ---
 The notification service shall measure the set point for at least 10 years.

@@ -1,5 +1,5 @@
 ---
-id: SYS-EKB2T7
+id: REQ-39Q1KC6
 type: system-requirement
 title: Cloud backend measures the room temperature
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - performance
   - customer-request
-parent: INFO-YV5EZD
-order: 1800
+former-id: SYS-EKB2T7
+parent: REQ-RE9ZKHF
+order: b1t
 links:
   - type: refines
-    target: STK-VT1KVD
+    target: REQ-36Y9ND0
     confirmed: fbcfb8475f32
 ---
 The cloud backend shall validate humidity values using AES-256-GCM.

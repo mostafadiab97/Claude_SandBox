@@ -1,5 +1,5 @@
 ---
-id: TC-8BAXC7
+id: REQ-3JYDK50
 type: test-case
 title: "Verify: OTA server encrypts audit records"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - security
   - accessibility
   - release-1.0
-parent: INFO-7P4D8D
-order: 490
+former-id: TC-8BAXC7
+parent: REQ-8351896
+order: am
 links:
   - type: verifies
-    target: SYS-5N0YKT
+    target: REQ-EFBR2PC
     confirmed: 08567b44affd
   - type: verifies
-    target: SW-ZC3FE7
+    target: REQ-QMDJDSQ
     confirmed: 79805471b581
 ---
 **Objective:** verify that the OTA server behaves as specified.

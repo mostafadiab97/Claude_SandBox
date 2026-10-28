@@ -1,15 +1,16 @@
 ---
-id: HW-RHK9ST
+id: REQ-6Z62DQD
 type: hardware-requirement
 title: Enclosure authenticates safety limits
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: SYS-SHYKYB
-order: 20
+former-id: HW-RHK9ST
+parent: REQ-TT7XHMV
+order: a1
 links:
   - type: refines
-    target: SYS-SHYKYB
+    target: REQ-TT7XHMV
     confirmed: f20d7ce12304
 ---
 The battery backup shall store firmware images without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: SYS-D0Q5ED
+id: REQ-GTNV20Q
 type: system-requirement
 title: Power supply detects the room temperature
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - EMC
   - customer-request
   - i18n
-parent: INFO-A6P9A8
-order: 2270
+former-id: SYS-D0Q5ED
+parent: REQ-CMCS31A
+order: b2e
 links:
   - type: refines
-    target: STK-ZWN5M8
+    target: REQ-Z2PYD5A
     confirmed: 994b9d44bde8
 ---
 The power supply shall switch relay events at least once per minute.

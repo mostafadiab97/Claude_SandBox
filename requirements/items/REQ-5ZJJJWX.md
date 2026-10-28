@@ -1,5 +1,5 @@
 ---
-id: SYS-K5036G
+id: REQ-5ZJJJWX
 type: system-requirement
 title: Menu system detects error conditions
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - i18n
   - ux
-parent: INFO-PDR6FV
-order: 1790
+former-id: SYS-K5036G
+parent: REQ-2ZA2TRZ
+order: b1s
 links:
   - type: refines
-    target: STK-BV5YMS
+    target: REQ-XR7FDXB
     confirmed: 07434b0b5615
 ---
 The menu system shall restore the connection state when the network is unavailable.

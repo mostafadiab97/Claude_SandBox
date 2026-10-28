@@ -1,15 +1,16 @@
 ---
-id: SW-SPY8J5
+id: REQ-PP7B9AP
 type: software-requirement
 title: Pairing process calibrates safety limits
 status: Approved
 priority: High
 owner: R. Nabil
-parent: SYS-BJZPAW
-order: 10
+former-id: SW-SPY8J5
+parent: REQ-7Y5KMWX
+order: a0
 links:
   - type: refines
-    target: SYS-BJZPAW
+    target: REQ-7Y5KMWX
     confirmed: 118d961f538b
 ---
 The pairing process shall switch the set point at least once per minute.

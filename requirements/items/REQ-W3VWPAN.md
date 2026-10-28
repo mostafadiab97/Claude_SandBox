@@ -1,5 +1,5 @@
 ---
-id: HW-664VB2
+id: REQ-W3VWPAN
 type: hardware-requirement
 title: Switch user preferences — detail
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - release-2.0
-parent: HW-F2TAQ2
-order: 10
+former-id: HW-664VB2
+parent: REQ-WFDR0BS
+order: a0
 links:
   - type: refines
-    target: HW-F2TAQ2
+    target: REQ-WFDR0BS
     confirmed: c5e7eda6fa63
 ---
 The heating controller shall restore user preferences with an accuracy of ±0.5 °C.

@@ -1,15 +1,16 @@
 ---
-id: SW-SD7PRX
+id: REQ-B5QQXWJ
 type: software-requirement
 title: Local API stores schedule entries
 status: Review
 priority: Low
 owner: N. Kamal
-parent: SYS-BJZPAW
-order: 20
+former-id: SW-SD7PRX
+parent: REQ-7Y5KMWX
+order: a1
 links:
   - type: refines
-    target: SYS-BJZPAW
+    target: REQ-7Y5KMWX
     confirmed: 118d961f538b
 ---
 The pairing process shall report safety limits within 200 ms.

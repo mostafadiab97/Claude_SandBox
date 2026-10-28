@@ -1,5 +1,5 @@
 ---
-id: IF-KD02XW
+id: REQ-3R0X27V
 type: interface-requirement
 title: "Signal 070: sensor readings"
 status: Obsolete
@@ -8,7 +8,8 @@ owner: R. Nabil
 tags:
   - cost
   - i18n
-parent: INFO-2TM0JP
-order: 700
+former-id: IF-KD02XW
+parent: REQ-RJ0KHPT
+order: b07
 ---
 Interface signal number 70.

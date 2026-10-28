@@ -1,15 +1,16 @@
 ---
-id: SW-MTX7JN
+id: REQ-TMTSXX8
 type: software-requirement
 title: Rotary knob stores the set point
 status: Approved
 priority: Medium
 owner: N. Kamal
-parent: SYS-NN047S
-order: 10
+former-id: SW-MTX7JN
+parent: REQ-6Q0RGTQ
+order: a0
 links:
   - type: refines
-    target: SYS-NN047S
+    target: REQ-6Q0RGTQ
     confirmed: 44642ef24cf7
 ---
 The touch display shall measure schedule entries after a power loss.

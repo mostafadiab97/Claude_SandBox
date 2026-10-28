@@ -1,5 +1,5 @@
 ---
-id: STK-Q8BNKR
+id: REQ-FY0A6ZE
 type: stakeholder-need
 title: Heating controller must calibrate firmware images
 status: Draft
@@ -8,7 +8,8 @@ owner: S. Adel
 tags:
   - cost
   - performance
-parent: INFO-10C32K
-order: 20
+former-id: STK-Q8BNKR
+parent: REQ-NER72N9
+order: a1
 ---
 As a home owner I want the heating controller to calibrate user preferences, so that my home stays comfortable.

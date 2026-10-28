@@ -1,5 +1,5 @@
 ---
-id: SW-NABSM9
+id: REQ-5AXM3RF
 type: software-requirement
 title: Authenticate sensor readings — detail
 status: Obsolete
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - release-1.0
   - accessibility
-parent: SW-7NJ840
-order: 10
+former-id: SW-NABSM9
+parent: REQ-RZEKB35
+order: a0
 links:
   - type: refines
-    target: SW-7NJ840
+    target: REQ-RZEKB35
     confirmed: 598e15ccb9d4
 ---
 The local API shall notify user preferences using AES-256-GCM.

@@ -1,5 +1,5 @@
 ---
-id: DE-FG0QEC
+id: REQ-PS68GG9
 type: design-element
 title: Module regulation_loop_76
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - security
   - regulatory
-parent: SW-6PB6KG
-order: 10
+former-id: DE-FG0QEC
+parent: REQ-C8T6DKJ
+order: a0
 links:
   - type: implements
-    target: SW-6PB6KG
+    target: REQ-C8T6DKJ
     confirmed: 0a4b2ea82845
 ---
 Implemented in `src/heat/regulation_loop.c`.

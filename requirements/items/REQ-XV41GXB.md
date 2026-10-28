@@ -1,5 +1,5 @@
 ---
-id: SW-WKX9MA
+id: REQ-XV41GXB
 type: software-requirement
 title: Detect relay events — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: L. Samir
 tags:
   - i18n
-parent: SW-J3J8BZ
-order: 10
+former-id: SW-WKX9MA
+parent: REQ-1YMYFNM
+order: a0
 links:
   - type: refines
-    target: SW-J3J8BZ
+    target: REQ-1YMYFNM
     confirmed: d99f27aaae6a
 ---
 The local API shall restore the connection state for at least 10 years.

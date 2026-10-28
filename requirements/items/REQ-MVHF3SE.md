@@ -1,5 +1,5 @@
 ---
-id: TC-YCXDCH
+id: REQ-MVHF3SE
 type: test-case
 title: "Verify: Enclosure displays the operating mode"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - performance
   - customer-request
   - power
-parent: INFO-MACGC3
-order: 390
+former-id: TC-YCXDCH
+parent: REQ-F9Z1FYS
+order: ac
 links:
   - type: verifies
-    target: SYS-FVC51X
+    target: REQ-JQGMKTV
     confirmed: 11ed96679d8d
 ---
 **Objective:** verify that the enclosure behaves as specified.

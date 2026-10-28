@@ -1,5 +1,5 @@
 ---
-id: SYS-4MWCBY
+id: REQ-MND8W5P
 type: system-requirement
 title: Secure boot notifys the operating mode
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - i18n
   - safety
   - cost
-parent: INFO-0229G8
-order: 1060
+former-id: SYS-4MWCBY
+parent: REQ-H9113WA
+order: b0h
 links:
   - type: refines
-    target: STK-DJ9M3M
+    target: REQ-375SK1B
     confirmed: ba30e28a130f
 ---
 The secure boot shall store user preferences in under 3 s.

@@ -1,14 +1,15 @@
 ---
-id: SW-ZR2VZZ
+id: REQ-NKCV82K
 type: software-requirement
 title: OTA server authenticates schedule entries
 status: Review
 owner: Y. Saber
-parent: SYS-569DVN
-order: 20
+former-id: SW-ZR2VZZ
+parent: REQ-A5ZTQEE
+order: a1
 links:
   - type: refines
-    target: SYS-569DVN
+    target: REQ-A5ZTQEE
     confirmed: 9f9a37d9b20d
 ---
 The device registry shall switch the room temperature using AES-256-GCM.

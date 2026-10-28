@@ -1,14 +1,15 @@
 ---
-id: SYS-4W6C2G
+id: REQ-EP6BFFN
 type: system-requirement
 title: Over-temperature monitor reports schedule entries
 status: Draft
 owner: Y. Saber
-parent: INFO-0229G8
-order: 340
+former-id: SYS-4W6C2G
+parent: REQ-H9113WA
+order: aX
 links:
   - type: refines
-    target: STK-DJ9M3M
+    target: REQ-375SK1B
     confirmed: 7097b0474ac5
 ---
 The over-temperature monitor shall limit schedule entries using AES-256-GCM.

@@ -1,5 +1,5 @@
 ---
-id: IF-ZB6JSN
+id: REQ-13QNNWS
 type: interface-requirement
 title: Schedule editor displays schedule entries
 status: Review
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - EMC
   - regulatory
-parent: SYS-VRC80Y
-order: 10
+former-id: IF-ZB6JSN
+parent: REQ-WF9GYCV
+order: a0
 links:
   - type: refines
-    target: SYS-VRC80Y
+    target: REQ-WF9GYCV
     confirmed: 9e303efe85be
 ---
 The schedule editor shall store error conditions within 200 ms.

@@ -1,15 +1,16 @@
 ---
-id: IF-C96KGY
+id: REQ-DT1BBGS
 type: interface-requirement
 title: Schedule editor limits firmware images
 status: Draft
 priority: Medium
 owner: Y. Saber
-parent: SYS-E3W7YF
-order: 30
+former-id: IF-C96KGY
+parent: REQ-CP521FN
+order: a2
 links:
   - type: refines
-    target: SYS-E3W7YF
+    target: REQ-CP521FN
     confirmed: ff8815b3b9ff
 ---
 The notification service shall measure schedule entries with an accuracy of ±0.5 °C.

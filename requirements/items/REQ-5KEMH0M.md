@@ -1,14 +1,15 @@
 ---
-id: SYS-JKDR8H
+id: REQ-5KEMH0M
 type: system-requirement
 title: Backlight displays the operating mode
 status: Approved
 priority: Low
-parent: INFO-PDR6FV
-order: 1380
+former-id: SYS-JKDR8H
+parent: REQ-2ZA2TRZ
+order: b1D
 links:
   - type: refines
-    target: STK-8PN4VS
+    target: REQ-WQB5JT6
     confirmed: a3e83ac40678
 ---
 The backlight shall limit the set point in all supported languages.

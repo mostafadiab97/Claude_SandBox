@@ -1,5 +1,5 @@
 ---
-id: TC-P187F1
+id: REQ-E0TGEAD
 type: test-case
 title: "Verify: Zigbee radio switchs firmware images"
 status: Draft
@@ -8,14 +8,15 @@ owner: A. Hassan
 tags:
   - performance
   - safety
-parent: INFO-F0M7VC
-order: 400
+former-id: TC-P187F1
+parent: REQ-67RQXCK
+order: ad
 links:
   - type: verifies
-    target: SYS-Y8RNAD
+    target: REQ-H0CKF26
     confirmed: e21c897550a0
   - type: verifies
-    target: SW-GCCF7H
+    target: REQ-0D8BWEX
     confirmed: fce7af1ab815
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

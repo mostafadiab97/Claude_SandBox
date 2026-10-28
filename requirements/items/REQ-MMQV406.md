@@ -1,15 +1,16 @@
 ---
-id: DE-57719K
+id: REQ-MMQV406
 type: design-element
 title: Module menu_system_96
 status: Approved
 priority: Medium
 owner: L. Samir
-parent: SW-ADGGDX
-order: 10
+former-id: DE-57719K
+parent: REQ-JTANV0Z
+order: a0
 links:
   - type: implements
-    target: SW-ADGGDX
+    target: REQ-JTANV0Z
     confirmed: f45c1c1cc663
 ---
 Implemented in `src/ui/menu_system.c`.

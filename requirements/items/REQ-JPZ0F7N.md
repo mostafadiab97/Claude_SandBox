@@ -1,5 +1,5 @@
 ---
-id: SW-8TKPAH
+id: REQ-JPZ0F7N
 type: software-requirement
 title: Watchdog authenticates audit records
 status: Review
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - accessibility
   - regulatory
-parent: SYS-MR5CRK
-order: 10
+former-id: SW-8TKPAH
+parent: REQ-TDHYBJS
+order: a0
 links:
   - type: refines
-    target: SYS-MR5CRK
+    target: REQ-TDHYBJS
     confirmed: ff67b7696602
 ---
 The tamper detection shall notify energy consumption after a power loss.

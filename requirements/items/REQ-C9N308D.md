@@ -1,5 +1,5 @@
 ---
-id: SW-2SRDVE
+id: REQ-C9N308D
 type: software-requirement
 title: Notification service logs the room temperature
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - connectivity
   - release-2.0
-parent: SYS-78N6Z3
-order: 30
+former-id: SW-2SRDVE
+parent: REQ-83GTAJV
+order: a2
 links:
   - type: refines
-    target: SYS-78N6Z3
+    target: REQ-83GTAJV
     confirmed: f440dad16a09
 ---
 The mobile app shall validate the room temperature at least once per minute.

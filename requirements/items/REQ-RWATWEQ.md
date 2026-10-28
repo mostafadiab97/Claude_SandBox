@@ -1,5 +1,5 @@
 ---
-id: SW-6XDCKB
+id: REQ-RWATWEQ
 type: software-requirement
 title: Cloud backend authenticates the set point
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - release-2.0
   - performance
-parent: SYS-QW4301
-order: 20
+former-id: SW-6XDCKB
+parent: REQ-0BNNJSD
+order: a1
 links:
   - type: refines
-    target: SYS-QW4301
+    target: REQ-0BNNJSD
     confirmed: 93308f2aad9b
 ---
 The device registry shall encrypt sensor readings when the network is unavailable.

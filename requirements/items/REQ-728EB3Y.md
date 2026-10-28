@@ -1,15 +1,16 @@
 ---
-id: DE-F1P386
+id: REQ-728EB3Y
 type: design-element
 title: Module boiler_interface_95
 status: Obsolete
 priority: Medium
 owner: H. Mostafa
-parent: SW-SKZ06M
-order: 20
+former-id: DE-F1P386
+parent: REQ-5DEY0C3
+order: a1
 links:
   - type: implements
-    target: SW-SKZ06M
+    target: REQ-5DEY0C3
     confirmed: 1332ecc1f759
 ---
 Implemented in `src/heat/boiler_interface.c`.

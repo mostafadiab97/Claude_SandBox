@@ -1,5 +1,5 @@
 ---
-id: DE-VEE2X8
+id: REQ-MMR8Z87
 type: design-element
 title: Module rotary_knob_28
 status: Review
@@ -8,11 +8,12 @@ tags:
   - regulatory
   - ux
   - EMC
-parent: SW-3S3JPB
-order: 10
+former-id: DE-VEE2X8
+parent: REQ-1PTY36G
+order: a0
 links:
   - type: implements
-    target: SW-3S3JPB
+    target: REQ-1PTY36G
     confirmed: 0d5286c028bc
 ---
 Implemented in `src/ui/rotary_knob.c`.

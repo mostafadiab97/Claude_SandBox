@@ -1,15 +1,16 @@
 ---
-id: IF-KMVM0E
+id: REQ-JETSNCF
 type: interface-requirement
 title: Battery backup limits energy consumption
 status: Approved
 priority: High
 owner: Y. Saber
-parent: SYS-PX7YQ6
-order: 10
+former-id: IF-KMVM0E
+parent: REQ-DCMQ8A6
+order: a0
 links:
   - type: refines
-    target: SYS-PX7YQ6
+    target: REQ-DCMQ8A6
     confirmed: a1bdacbc8613
 ---
 The main PCB shall synchronise the room temperature at least once per minute.

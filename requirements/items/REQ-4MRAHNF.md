@@ -1,5 +1,5 @@
 ---
-id: SW-AE508V
+id: REQ-4MRAHNF
 type: software-requirement
 title: Wi-Fi module logs user preferences
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - regulatory
   - power
-parent: SYS-9D1YDX
-order: 20
+former-id: SW-AE508V
+parent: REQ-R3YX2BZ
+order: a1
 links:
   - type: refines
-    target: SYS-9D1YDX
+    target: REQ-R3YX2BZ
     confirmed: c9cc1c48d86c
 ---
 The pairing process shall limit audit records in under 3 s.

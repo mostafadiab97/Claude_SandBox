@@ -1,18 +1,19 @@
 ---
-id: TC-401P9V
+id: REQ-P80MZCZ
 type: test-case
 title: "Verify: Battery backup stores the room temperature"
 status: Obsolete
 priority: High
 owner: L. Samir
-parent: INFO-MACGC3
-order: 930
+former-id: TC-401P9V
+parent: REQ-F9Z1FYS
+order: b0U
 links:
   - type: verifies
-    target: SYS-1T0TAM
+    target: REQ-Z7WZKTX
     confirmed: 834d1bdeda5b
   - type: verifies
-    target: SW-KDMQZE
+    target: REQ-SF9B2DR
     confirmed: 1bae33046337
 ---
 **Objective:** verify that the battery backup behaves as specified.

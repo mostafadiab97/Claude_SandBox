@@ -1,5 +1,5 @@
 ---
-id: SYS-3KJS7N
+id: REQ-TZK9YZA
 type: system-requirement
 title: Regulation loop logs relay events
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - accessibility
-parent: INFO-6DQTKV
-order: 1920
+former-id: SYS-3KJS7N
+parent: REQ-7ED7ZET
+order: b25
 links:
   - type: refines
-    target: STK-9YF5RE
+    target: REQ-FGZGBY5
     confirmed: 43643c03020f
 ---
 The regulation loop shall restore relay events at least once per minute.

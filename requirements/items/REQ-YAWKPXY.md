@@ -1,5 +1,5 @@
 ---
-id: TC-DQQZFK
+id: REQ-YAWKPXY
 type: test-case
 title: "Verify: Schedule editor measures safety limits"
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 owner: R. Nabil
 tags:
   - EMC
-parent: INFO-J0FETE
-order: 370
+former-id: TC-DQQZFK
+parent: REQ-WR5ZJN9
+order: aa
 links:
   - type: verifies
-    target: SYS-5T7DGP
+    target: REQ-DG88HFJ
     confirmed: 65eb9c0bc016
   - type: verifies
-    target: SW-YDNHZ3
+    target: REQ-12DBSQE
     confirmed: 83002d09327b
 ---
 **Objective:** verify that the schedule editor behaves as specified.

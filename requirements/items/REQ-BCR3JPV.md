@@ -1,14 +1,15 @@
 ---
-id: TC-VJM4H0
+id: REQ-BCR3JPV
 type: test-case
 title: "Verify: OTA server displays user preferences"
 status: Draft
 owner: R. Nabil
-parent: INFO-7P4D8D
-order: 1090
+former-id: TC-VJM4H0
+parent: REQ-8351896
+order: b0k
 links:
   - type: verifies
-    target: SYS-EK761P
+    target: REQ-R53ZXDT
     confirmed: db6748ce1b10
 ---
 **Objective:** verify that the OTA server behaves as specified.

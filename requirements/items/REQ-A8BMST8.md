@@ -1,5 +1,5 @@
 ---
-id: TC-A6N327
+id: REQ-A8BMST8
 type: test-case
 title: "Verify: Relay board detects relay events"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - safety
   - cost
   - release-1.0
-parent: INFO-MACGC3
-order: 220
+former-id: TC-A6N327
+parent: REQ-F9Z1FYS
+order: aL
 links:
   - type: verifies
-    target: SYS-CEFJX7
+    target: REQ-6W1TW82
     confirmed: fadbb8266e08
 ---
 **Objective:** verify that the relay board behaves as specified.

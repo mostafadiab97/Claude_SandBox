@@ -1,5 +1,5 @@
 ---
-id: SW-WX82JQ
+id: REQ-DTRS8GM
 type: software-requirement
 title: Secure boot measures the connection state
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - power
   - performance
-parent: SYS-D3GXWM
-order: 20
+former-id: SW-WX82JQ
+parent: REQ-V9G96MX
+order: a1
 links:
   - type: refines
-    target: SYS-D3GXWM
+    target: REQ-V9G96MX
     confirmed: 837c0d0a7912
 ---
 The over-temperature monitor shall switch schedule entries at least once per minute.

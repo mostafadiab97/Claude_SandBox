@@ -1,5 +1,5 @@
 ---
-id: SYS-NSQBT9
+id: REQ-36A28XW
 type: system-requirement
 title: Enclosure authenticates relay events
 status: Review
@@ -9,11 +9,12 @@ tags:
   - security
   - customer-request
   - safety
-parent: INFO-A6P9A8
-order: 1700
+former-id: SYS-NSQBT9
+parent: REQ-CMCS31A
+order: b1j
 links:
   - type: refines
-    target: STK-W18EQ4
+    target: REQ-GPRWN7N
     confirmed: aeec35e06317
 ---
 The enclosure shall store firmware images below 0.5 W in standby.

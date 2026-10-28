@@ -1,5 +1,5 @@
 ---
-id: IF-1947BB
+id: REQ-64M1EC3
 type: interface-requirement
 title: Measure safety limits — detail
 status: Obsolete
@@ -7,11 +7,12 @@ owner: A. Hassan
 tags:
   - power
   - i18n
-parent: IF-9XP6GF
-order: 10
+former-id: IF-1947BB
+parent: REQ-RKM2GJA
+order: a0
 links:
   - type: refines
-    target: IF-9XP6GF
+    target: REQ-RKM2GJA
     confirmed: 53459503c859
 ---
 The power supply shall detect access tokens for up to 8 zones.

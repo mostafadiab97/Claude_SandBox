@@ -1,5 +1,5 @@
 ---
-id: SYS-367JHA
+id: REQ-K9JV17T
 type: system-requirement
 title: Mobile app reports safety limits
 status: Approved
@@ -7,8 +7,9 @@ priority: Medium
 tags:
   - release-2.0
   - connectivity
-parent: INFO-2XXBRS
-order: 1870
+former-id: SYS-367JHA
+parent: REQ-QYXGSQ4
+order: b20
 links:
   - type: refines
     target: STK-H87WHA

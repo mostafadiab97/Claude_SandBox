@@ -1,14 +1,15 @@
 ---
-id: SW-MTD455
+id: REQ-SDAAWTB
 type: software-requirement
 title: Schedule editor restores access tokens
 status: Approved
 owner: K. Tanaka
-parent: SYS-G2YZ1M
-order: 30
+former-id: SW-MTD455
+parent: REQ-WBPCE50
+order: a2
 links:
   - type: refines
-    target: SYS-G2YZ1M
+    target: REQ-WBPCE50
     confirmed: ea46b375483c
 ---
 The mobile app shall report safety limits below 0.5 W in standby.

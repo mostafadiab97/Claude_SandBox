@@ -1,15 +1,16 @@
 ---
-id: IF-JEXCH8
+id: REQ-SKD01PM
 type: interface-requirement
 title: Menu system switchs humidity values
 status: Draft
 priority: High
 owner: M. Farouk
-parent: SYS-9YAX2Y
-order: 30
+former-id: IF-JEXCH8
+parent: REQ-VK5ZJ33
+order: a2
 links:
   - type: refines
-    target: SYS-9YAX2Y
+    target: REQ-VK5ZJ33
     confirmed: b8ba4474f101
 ---
 The menu system shall store the connection state with an accuracy of ±0.5 °C.

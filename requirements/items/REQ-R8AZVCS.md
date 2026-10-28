@@ -1,5 +1,5 @@
 ---
-id: SW-HV4RKK
+id: REQ-R8AZVCS
 type: software-requirement
 title: Store the room temperature — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - ux
   - cost
-parent: SW-V98JPV
-order: 10
+former-id: SW-HV4RKK
+parent: REQ-S991TGD
+order: a0
 links:
   - type: refines
-    target: SW-V98JPV
+    target: REQ-S991TGD
     confirmed: 9edb50772368
 ---
 The secure boot shall validate sensor readings with an accuracy of ±0.5 °C.

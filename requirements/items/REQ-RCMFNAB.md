@@ -1,15 +1,16 @@
 ---
-id: HW-Z2DAA1
+id: REQ-RCMFNAB
 type: hardware-requirement
 title: Local API notifys energy consumption
 status: Review
 priority: Medium
 owner: Y. Saber
-parent: SYS-RF310F
-order: 10
+former-id: HW-Z2DAA1
+parent: REQ-HMAJH78
+order: a0
 links:
   - type: refines
-    target: SYS-RF310F
+    target: REQ-HMAJH78
     confirmed: bc4cb8d2d781
 ---
 The local API shall limit relay events below 0.5 W in standby.

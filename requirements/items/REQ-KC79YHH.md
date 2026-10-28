@@ -1,5 +1,5 @@
 ---
-id: IF-2NHGJ4
+id: REQ-KC79YHH
 type: interface-requirement
 title: "Signal 336: audit records"
 status: Approved
@@ -9,7 +9,8 @@ tags:
   - security
   - safety
   - release-2.0
-parent: INFO-2TM0JP
-order: 3360
+former-id: IF-2NHGJ4
+parent: REQ-RJ0KHPT
+order: b4P
 ---
 Interface signal number 336.

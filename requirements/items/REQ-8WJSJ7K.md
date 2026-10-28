@@ -1,5 +1,5 @@
 ---
-id: IF-HQSJ2D
+id: REQ-8WJSJ7K
 type: interface-requirement
 title: OTA server synchronises relay events
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - cost
   - accessibility
   - performance
-parent: SYS-RGPMZF
-order: 30
+former-id: IF-HQSJ2D
+parent: REQ-KVCQEKY
+order: a2
 links:
   - type: refines
-    target: SYS-RGPMZF
+    target: REQ-KVCQEKY
     confirmed: 44306853822b
 ---
 The cloud backend shall store firmware images when the network is unavailable.

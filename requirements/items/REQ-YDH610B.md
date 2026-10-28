@@ -1,5 +1,5 @@
 ---
-id: HW-GS6XHA
+id: REQ-YDH610B
 type: hardware-requirement
 title: Secure boot reports sensor readings
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - i18n
   - connectivity
   - EMC
-parent: SYS-ABZP07
-order: 30
+former-id: HW-GS6XHA
+parent: REQ-RB03G7X
+order: a2
 links:
   - type: refines
-    target: SYS-ABZP07
+    target: REQ-RB03G7X
     confirmed: fada4baa41ba
 ---
 The tamper detection shall measure user preferences after a power loss.

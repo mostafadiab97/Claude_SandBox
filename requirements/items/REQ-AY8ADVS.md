@@ -1,15 +1,16 @@
 ---
-id: TC-X8ZH2Y
+id: REQ-AY8ADVS
 type: test-case
 title: "Regression: Wi-Fi module authenticates the room temperature"
 status: Approved
 priority: Medium
 owner: J. Müller
-parent: INFO-ECHASH
-order: 1810
+former-id: TC-X8ZH2Y
+parent: REQ-6H15AV2
+order: b1u
 links:
   - type: verifies
-    target: SYS-749A38
+    target: REQ-GHJK43J
     confirmed: a8274ea6218e
 ---
 **Objective:** verify that the device behaves as specified.

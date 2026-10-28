@@ -1,5 +1,5 @@
 ---
-id: SW-BVYYZ7
+id: REQ-NT2NCNZ
 type: software-requirement
 title: Wi-Fi module restores sensor readings
 status: Review
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - cost
   - security
-parent: SYS-PX6WZT
-order: 10
+former-id: SW-BVYYZ7
+parent: REQ-D0AFD98
+order: a0
 links:
   - type: refines
-    target: SYS-PX6WZT
+    target: REQ-D0AFD98
     confirmed: f32411f63461
 ---
 The Bluetooth LE link shall limit sensor readings after a power loss.

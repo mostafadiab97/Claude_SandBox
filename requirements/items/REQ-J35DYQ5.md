@@ -1,14 +1,15 @@
 ---
-id: SW-BAQVJV
+id: REQ-J35DYQ5
 type: software-requirement
 title: Menu system synchronises firmware images
 status: Approved
 priority: High
-parent: SYS-ZR9FA9
-order: 30
+former-id: SW-BAQVJV
+parent: REQ-MZW0HWB
+order: a2
 links:
   - type: refines
-    target: SYS-ZR9FA9
+    target: REQ-MZW0HWB
     confirmed: 004d18eb33a0
 ---
 The backlight shall notify the room temperature with an accuracy of ±0.5 °C.

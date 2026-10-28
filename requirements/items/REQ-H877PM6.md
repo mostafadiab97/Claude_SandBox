@@ -1,16 +1,17 @@
 ---
-id: SW-PZ2QFX
+id: REQ-H877PM6
 type: software-requirement
 title: Measure energy consumption — detail
 status: Obsolete
 priority: Medium
 tags:
   - power
-parent: SW-TK44GG
-order: 10
+former-id: SW-PZ2QFX
+parent: REQ-T8K1BPQ
+order: a0
 links:
   - type: refines
-    target: SW-TK44GG
+    target: REQ-T8K1BPQ
     confirmed: 01fb2b134bcf
 ---
 The rotary knob shall limit safety limits below 0.5 W in standby.

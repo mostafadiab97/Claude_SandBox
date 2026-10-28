@@ -1,5 +1,5 @@
 ---
-id: SW-YP5HHR
+id: REQ-8FW3RQJ
 type: software-requirement
 title: Watchdog stores audit records
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - performance
   - i18n
   - customer-request
-parent: SYS-YHD3YX
-order: 30
+former-id: SW-YP5HHR
+parent: REQ-HFETZCP
+order: a2
 links:
   - type: refines
-    target: SYS-YHD3YX
+    target: REQ-HFETZCP
     confirmed: 1e38f217f022
 ---
 The watchdog shall measure energy consumption with an accuracy of ±0.5 °C.

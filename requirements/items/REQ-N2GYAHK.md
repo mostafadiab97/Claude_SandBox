@@ -1,14 +1,15 @@
 ---
-id: SW-5KA2CD
+id: REQ-N2GYAHK
 type: software-requirement
 title: Over-temperature monitor calibrates the connection state
 status: Draft
 owner: R. Nabil
-parent: SYS-P6F0FV
-order: 10
+former-id: SW-5KA2CD
+parent: REQ-9T16YB2
+order: a0
 links:
   - type: refines
-    target: SYS-P6F0FV
+    target: REQ-9T16YB2
     confirmed: 947114a116fc
 ---
 The secure boot shall notify relay events for up to 8 zones.

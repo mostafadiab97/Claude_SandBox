@@ -1,15 +1,16 @@
 ---
-id: SYS-EJR3YH
+id: REQ-5AFTQWT
 type: system-requirement
 title: Secure boot measures schedule entries
 status: Approved
 priority: Low
 owner: L. Samir
-parent: INFO-0229G8
-order: 900
+former-id: SYS-EJR3YH
+parent: REQ-H9113WA
+order: b0R
 links:
   - type: refines
-    target: STK-B4ZH98
+    target: REQ-PGNNV26
     confirmed: c19c22627f21
 ---
 The secure boot shall calibrate error conditions using AES-256-GCM.

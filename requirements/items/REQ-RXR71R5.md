@@ -1,5 +1,5 @@
 ---
-id: HW-S76SNM
+id: REQ-RXR71R5
 type: hardware-requirement
 title: Switch humidity values — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - cost
   - regulatory
-parent: HW-X80M8P
-order: 10
+former-id: HW-S76SNM
+parent: REQ-H1YYJXM
+order: a0
 links:
   - type: refines
-    target: HW-X80M8P
+    target: REQ-H1YYJXM
     confirmed: b1eb78b64499
 ---
 The device registry shall log the connection state below 0.5 W in standby.

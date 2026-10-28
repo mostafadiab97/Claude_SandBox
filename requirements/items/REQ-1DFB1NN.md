@@ -1,5 +1,5 @@
 ---
-id: DE-AENV53
+id: REQ-1DFB1NN
 type: design-element
 title: Module OTA_server_42
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - security
   - regulatory
-parent: SW-MWKQRR
-order: 10
+former-id: DE-AENV53
+parent: REQ-EVH1N33
+order: a0
 links:
   - type: implements
-    target: SW-MWKQRR
+    target: REQ-EVH1N33
     confirmed: 68ee84cc7ff2
 ---
 Implemented in `src/cloud/OTA_server.c`.

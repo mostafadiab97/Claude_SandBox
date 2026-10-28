@@ -1,5 +1,5 @@
 ---
-id: IF-HT41VP
+id: REQ-CS9W7BB
 type: interface-requirement
 title: "Signal 242: firmware images"
 status: Review
@@ -8,7 +8,8 @@ owner: K. Tanaka
 tags:
   - power
   - ux
-parent: INFO-2TM0JP
-order: 2420
+former-id: IF-HT41VP
+parent: REQ-RJ0KHPT
+order: b2t
 ---
 Interface signal number 242.

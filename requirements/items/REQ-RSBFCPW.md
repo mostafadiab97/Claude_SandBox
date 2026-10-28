@@ -1,7 +1,8 @@
 ---
-id: INFO-5BPX0K
+id: REQ-RSBFCPW
 type: information
-title: 3.4 Risks
-parent: INFO-82THGP
-order: 40
+title: Risks
+former-id: INFO-5BPX0K
+parent: REQ-MQ03W80
+order: a3
 ---

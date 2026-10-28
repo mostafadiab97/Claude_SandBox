@@ -1,5 +1,5 @@
 ---
-id: SYS-QS89W9
+id: REQ-CR8428R
 type: system-requirement
 title: Enclosure measures relay events
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: محمد علي
 tags:
   - accessibility
-parent: INFO-A6P9A8
-order: 610
+former-id: SYS-QS89W9
+parent: REQ-CMCS31A
+order: ay
 links:
   - type: refines
-    target: STK-2STGXE
+    target: REQ-67MQ0AB
     confirmed: c77fe61daf4b
 ---
 The enclosure shall switch the connection state at least once per minute.

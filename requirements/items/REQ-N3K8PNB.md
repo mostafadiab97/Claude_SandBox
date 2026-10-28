@@ -1,15 +1,16 @@
 ---
-id: SW-NXP1K7
+id: REQ-N3K8PNB
 type: software-requirement
 title: Home dashboard switchs error conditions
 status: Review
 priority: Medium
 owner: H. Mostafa
-parent: SYS-6RXFNT
-order: 30
+former-id: SW-NXP1K7
+parent: REQ-G6H7R8E
+order: a2
 links:
   - type: refines
-    target: SYS-6RXFNT
+    target: REQ-G6H7R8E
     confirmed: 58653acb842c
 ---
 The notification service shall detect firmware images without user interaction.

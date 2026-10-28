@@ -1,5 +1,5 @@
 ---
-id: SYS-YX6EBV
+id: REQ-AJNTHEY
 type: system-requirement
 title: Mobile app displays sensor readings
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - security
   - connectivity
-parent: INFO-2XXBRS
-order: 690
+former-id: SYS-YX6EBV
+parent: REQ-QYXGSQ4
+order: b06
 links:
   - type: refines
-    target: STK-HBX3YS
+    target: REQ-S86K9Q8
     confirmed: b42a2f94d25d
 ---
 The mobile app shall validate audit records with an accuracy of ±0.5 °C.

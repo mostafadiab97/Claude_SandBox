@@ -1,15 +1,16 @@
 ---
-id: SYS-Y8RNAD
+id: REQ-H0CKF26
 type: system-requirement
 title: Zigbee radio switchs firmware images
 status: Approved
 priority: High
 owner: J. Müller
-parent: INFO-NRVHA2
-order: 590
+former-id: SYS-Y8RNAD
+parent: REQ-6R94HFM
+order: aw
 links:
   - type: refines
-    target: STK-GMCKMF
+    target: REQ-5EJHVJ8
     confirmed: 0937b27654b1
 ---
 The Zigbee radio shall synchronise the connection state at least once per minute.

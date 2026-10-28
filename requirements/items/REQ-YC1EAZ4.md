@@ -1,5 +1,5 @@
 ---
-id: SW-F5FS0M
+id: REQ-YC1EAZ4
 type: software-requirement
 title: Wi-Fi module restores the set point
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - safety
   - i18n
-parent: SYS-EXGREK
-order: 40
+former-id: SW-F5FS0M
+parent: REQ-66QAKAS
+order: a3
 links:
   - type: refines
-    target: SYS-EXGREK
+    target: REQ-66QAKAS
     confirmed: 8591c1eaac71
 ---
 The Bluetooth LE link shall display the operating mode without user interaction.

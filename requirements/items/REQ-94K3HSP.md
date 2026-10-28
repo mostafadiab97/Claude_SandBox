@@ -1,15 +1,16 @@
 ---
-id: DE-EHTKRV
+id: REQ-94K3HSP
 type: design-element
 title: Module tamper_detection_3
 status: Approved
 priority: High
 owner: محمد علي
-parent: SW-RVF6ZS
-order: 10
+former-id: DE-EHTKRV
+parent: REQ-V0FXPRK
+order: a0
 links:
   - type: implements
-    target: SW-RVF6ZS
+    target: REQ-V0FXPRK
     confirmed: 08f645e8c6b0
 ---
 Implemented in `src/safe/tamper_detection.c`.

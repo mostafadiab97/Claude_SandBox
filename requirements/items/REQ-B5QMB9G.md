@@ -1,5 +1,5 @@
 ---
-id: IF-7CHX48
+id: REQ-B5QMB9G
 type: interface-requirement
 title: Bluetooth LE link stores firmware images
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - power
   - accessibility
   - safety
-parent: SYS-B9WH28
-order: 30
+former-id: IF-7CHX48
+parent: REQ-Q1BR7H4
+order: a2
 links:
   - type: refines
-    target: SYS-B9WH28
+    target: REQ-Q1BR7H4
     confirmed: e4a2c3843dd6
 ---
 The Bluetooth LE link shall report firmware images at least once per minute.

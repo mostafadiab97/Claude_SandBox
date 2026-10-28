@@ -1,5 +1,5 @@
 ---
-id: SW-HFXQGH
+id: REQ-NY6G78V
 type: software-requirement
 title: Cloud backend calibrates user preferences
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - EMC
   - regulatory
   - connectivity
-parent: SYS-KCC5WV
-order: 30
+former-id: SW-HFXQGH
+parent: REQ-PSHZ85Z
+order: a2
 links:
   - type: refines
-    target: SYS-KCC5WV
+    target: REQ-PSHZ85Z
     confirmed: 201bc4a0f987
 ---
 The user account service shall store audit records when the network is unavailable.

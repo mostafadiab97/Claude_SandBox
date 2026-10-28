@@ -1,15 +1,16 @@
 ---
-id: SW-Q4YMYC
+id: REQ-4K4P01V
 type: software-requirement
 title: Menu system limits user preferences
 status: Draft
 priority: Medium
 owner: J. Müller
-parent: SYS-JHZTBB
-order: 20
+former-id: SW-Q4YMYC
+parent: REQ-28FPB5X
+order: a1
 links:
   - type: refines
-    target: SYS-JHZTBB
+    target: REQ-28FPB5X
     confirmed: a18fdffef991
 ---
 The backlight shall encrypt access tokens for up to 8 zones.

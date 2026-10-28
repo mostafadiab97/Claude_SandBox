@@ -1,5 +1,5 @@
 ---
-id: DE-B5F4RA
+id: REQ-FC9NZ9Z
 type: design-element
 title: Module tamper_detection_74
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: محمد علي
 tags:
   - power
-parent: SW-RWGTKN
-order: 10
+former-id: DE-B5F4RA
+parent: REQ-2X7GDFZ
+order: a0
 links:
   - type: implements
-    target: SW-RWGTKN
+    target: REQ-2X7GDFZ
     confirmed: 87f559bd8496
 ---
 Implemented in `src/safe/tamper_detection.c`.

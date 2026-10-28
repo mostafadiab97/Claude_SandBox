@@ -1,5 +1,5 @@
 ---
-id: DE-CCB9S9
+id: REQ-H2AGV00
 type: design-element
 title: Module rotary_knob_60
 status: Obsolete
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - connectivity
   - i18n
-parent: SW-SEYVJP
-order: 10
+former-id: DE-CCB9S9
+parent: REQ-0H8RKGF
+order: a0
 links:
   - type: implements
-    target: SW-SEYVJP
+    target: REQ-0H8RKGF
     confirmed: f50e81cf3520
 ---
 Implemented in `src/ui/rotary_knob.c`.

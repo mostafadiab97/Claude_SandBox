@@ -1,5 +1,5 @@
 ---
-id: TC-EC1QJF
+id: REQ-0RXHNYY
 type: test-case
 title: "Verify: Encryption layer encrypts the room temperature"
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - performance
   - accessibility
-parent: INFO-Z4TW4B
-order: 1290
+former-id: TC-EC1QJF
+parent: REQ-K6FGAY0
+order: b14
 links:
   - type: verifies
-    target: SYS-GD6JM3
+    target: REQ-3YAMCMR
     confirmed: 3ff6f348020f
 ---
 **Objective:** verify that the encryption layer behaves as specified.

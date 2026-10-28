@@ -1,5 +1,5 @@
 ---
-id: SYS-946J73
+id: REQ-ERXSPD6
 type: system-requirement
 title: Enclosure limits safety limits
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: M. Farouk
 tags:
   - i18n
-parent: INFO-A6P9A8
-order: 770
+former-id: SYS-946J73
+parent: REQ-CMCS31A
+order: b0E
 links:
   - type: refines
-    target: STK-CDR1Y9
+    target: REQ-QC1Z78M
     confirmed: d9857f8b33bf
 ---
 The enclosure shall detect energy consumption in under 3 s.

@@ -1,5 +1,5 @@
 ---
-id: SYS-YW7JJY
+id: REQ-A9MQHYC
 type: system-requirement
 title: Schedule editor detects firmware images
 status: Review
@@ -9,11 +9,12 @@ tags:
   - i18n
   - regulatory
   - safety
-parent: INFO-2XXBRS
-order: 650
+former-id: SYS-YW7JJY
+parent: REQ-QYXGSQ4
+order: b02
 links:
   - type: refines
-    target: STK-55M3CZ
+    target: REQ-HTVZXH2
     confirmed: 45f1b5fe0502
 ---
 The schedule editor shall detect schedule entries with an accuracy of ±0.5 °C.

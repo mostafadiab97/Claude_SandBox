@@ -1,15 +1,16 @@
 ---
-id: SW-24WQCC
+id: REQ-8FZJ5MM
 type: software-requirement
 title: Heat pump driver authenticates error conditions
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: SYS-FHDEXY
-order: 40
+former-id: SW-24WQCC
+parent: REQ-Z4MDFXM
+order: a3
 links:
   - type: refines
-    target: SYS-FHDEXY
+    target: REQ-Z4MDFXM
     confirmed: 786acaabdb39
 ---
 The regulation loop shall validate the connection state when the network is unavailable.

@@ -1,5 +1,5 @@
 ---
-id: TC-JVT5FC
+id: REQ-GPH7Y4Q
 type: test-case
 title: "Verify: OTA server displays schedule entries"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - regulatory
   - accessibility
-parent: INFO-7P4D8D
-order: 470
+former-id: TC-JVT5FC
+parent: REQ-8351896
+order: ak
 links:
   - type: verifies
-    target: SYS-GBXCHX
+    target: REQ-0TWE1Z1
     confirmed: 0ce68205e703
 ---
 **Objective:** verify that the OTA server behaves as specified.

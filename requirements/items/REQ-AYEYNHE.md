@@ -1,5 +1,5 @@
 ---
-id: HW-1FPJKB
+id: REQ-AYEYNHE
 type: hardware-requirement
 title: Menu system validates the room temperature
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: É. Laurent
 tags:
   - connectivity
-parent: SYS-S17F3W
-order: 20
+former-id: HW-1FPJKB
+parent: REQ-B5QM2ZG
+order: a1
 links:
   - type: refines
-    target: SYS-S17F3W
+    target: REQ-B5QM2ZG
     confirmed: 02e3c6ed2cec
 ---
 The menu system shall calibrate relay events using AES-256-GCM.

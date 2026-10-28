@@ -1,15 +1,16 @@
 ---
-id: TC-89FHKA
+id: REQ-5N1ZCBT
 type: test-case
 title: "Verify: Tamper detection reports humidity values"
 status: Approved
 priority: High
 owner: S. Adel
-parent: INFO-Z4TW4B
-order: 900
+former-id: TC-89FHKA
+parent: REQ-K6FGAY0
+order: b0R
 links:
   - type: verifies
-    target: SYS-WF25CP
+    target: REQ-GFFZN3Z
     confirmed: 3f8b6bcfec69
 ---
 **Objective:** verify that the tamper detection behaves as specified.

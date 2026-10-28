@@ -1,5 +1,5 @@
 ---
-id: SW-2FPEFP
+id: REQ-1PXD4QP
 type: software-requirement
 title: Local API limits safety limits
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - release-2.0
   - connectivity
-parent: SYS-BJZPAW
-order: 40
+former-id: SW-2FPEFP
+parent: REQ-7Y5KMWX
+order: a3
 links:
   - type: refines
-    target: SYS-BJZPAW
+    target: REQ-7Y5KMWX
     confirmed: 118d961f538b
 ---
 The pairing process shall report sensor readings with an accuracy of ±0.5 °C.

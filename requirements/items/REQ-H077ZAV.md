@@ -1,15 +1,16 @@
 ---
-id: DE-24BFV2
+id: REQ-H077ZAV
 type: design-element
 title: Module device_registry_85
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: SW-XF8FA2
-order: 20
+former-id: DE-24BFV2
+parent: REQ-VX5H48J
+order: a1
 links:
   - type: implements
-    target: SW-XF8FA2
+    target: REQ-VX5H48J
     confirmed: 7849317012b2
 ---
 Implemented in `src/cloud/device_registry.c`.

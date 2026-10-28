@@ -1,5 +1,5 @@
 ---
-id: UC-400ZW0
+id: REQ-QSDVXGW
 type: use-case
 title: "UC: Validate schedule entries with the pairing process"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - release-2.0
   - security
-parent: INFO-0A0D2B
-order: 130
+former-id: UC-400ZW0
+parent: REQ-X5TXBRB
+order: aC
 links:
   - type: relates-to
-    target: STK-71VSKB
+    target: REQ-8TVXMWR
     confirmed: 994ecb1eff6f
 ---
 **Actor:** home owner

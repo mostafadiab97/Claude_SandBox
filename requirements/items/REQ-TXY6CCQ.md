@@ -1,15 +1,16 @@
 ---
-id: SW-CVB8JE
+id: REQ-TXY6CCQ
 type: software-requirement
 title: Log relay events — detail
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: SW-SR6XFH
-order: 10
+former-id: SW-CVB8JE
+parent: REQ-1YE6AKS
+order: a0
 links:
   - type: refines
-    target: SW-SR6XFH
+    target: REQ-1YE6AKS
     confirmed: 69647231783e
 ---
 The status LED shall notify firmware images without user interaction.

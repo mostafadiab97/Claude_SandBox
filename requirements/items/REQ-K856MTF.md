@@ -1,5 +1,5 @@
 ---
-id: TC-ZH1R7D
+id: REQ-K856MTF
 type: test-case
 title: "Verify: Bluetooth LE link switchs humidity values"
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - i18n
   - EMC
   - release-1.0
-parent: INFO-F0M7VC
-order: 10
+former-id: TC-ZH1R7D
+parent: REQ-67RQXCK
+order: a0
 links:
   - type: verifies
-    target: SYS-EXGREK
+    target: REQ-66QAKAS
     confirmed: 8ef97aae583c
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-BXDS06
+id: REQ-T86K2TF
 type: software-requirement
 title: Wi-Fi module restores access tokens
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: محمد علي
 tags:
   - customer-request
-parent: SYS-RB6KMZ
-order: 20
+former-id: SW-BXDS06
+parent: REQ-AKMXCSZ
+order: a1
 links:
   - type: refines
-    target: SYS-RB6KMZ
+    target: REQ-AKMXCSZ
     confirmed: 9e9699c7ff42
 ---
 The Zigbee radio shall detect the connection state in all supported languages.

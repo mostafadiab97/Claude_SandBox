@@ -1,15 +1,16 @@
 ---
-id: SW-X8KPNF
+id: REQ-8YZ8JW3
 type: software-requirement
 title: Schedule editor notifys access tokens
 status: Draft
 priority: Medium
 owner: L. Samir
-parent: SYS-XB38HS
-order: 20
+former-id: SW-X8KPNF
+parent: REQ-56N4A6M
+order: a1
 links:
   - type: refines
-    target: SYS-XB38HS
+    target: REQ-56N4A6M
     confirmed: 51d064ca7d2a
 ---
 The notification service shall store safety limits at least once per minute.

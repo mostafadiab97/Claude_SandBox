@@ -1,5 +1,5 @@
 ---
-id: DE-PKJQ2X
+id: REQ-CW3ECF1
 type: design-element
 title: Module Wi-Fi_module_44
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - power
   - release-2.0
-parent: SW-HE1CMM
-order: 10
+former-id: DE-PKJQ2X
+parent: REQ-HHQ35PM
+order: a0
 links:
   - type: implements
-    target: SW-HE1CMM
+    target: REQ-HHQ35PM
     confirmed: 65457afc04c9
 ---
 Implemented in `src/conn/Wi-Fi_module.c`.

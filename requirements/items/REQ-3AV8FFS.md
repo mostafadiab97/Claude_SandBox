@@ -1,5 +1,5 @@
 ---
-id: DEF-VDWA35
+id: REQ-3AV8FFS
 type: defect
 title: "Defect: heat pump driver does not validate firmware images"
 status: Draft
@@ -8,14 +8,15 @@ tags:
   - i18n
   - EMC
   - regulatory
-parent: INFO-ZBHTYF
-order: 130
+former-id: DEF-VDWA35
+parent: REQ-XJDN42Y
+order: aC
 links:
   - type: relates-to
-    target: TC-8E87BP
+    target: REQ-BRZTX12
     confirmed: 8210f80f4b2e
   - type: relates-to
-    target: SYS-7ME2MH
+    target: REQ-3753MVK
     confirmed: 212fa2a7c66a
 ---
 Found during regression testing of build 2.1.31.

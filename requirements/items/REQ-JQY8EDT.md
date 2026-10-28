@@ -1,15 +1,16 @@
 ---
-id: IF-1CH79A
+id: REQ-JQY8EDT
 type: interface-requirement
 title: Switch the set point — detail
 status: Review
 priority: Medium
 owner: J. Müller
-parent: IF-K1D8GR
-order: 10
+former-id: IF-1CH79A
+parent: REQ-FHYDP9D
+order: a0
 links:
   - type: refines
-    target: IF-K1D8GR
+    target: REQ-FHYDP9D
     confirmed: 8f97863c4743
 ---
 The status LED shall restore humidity values for at least 10 years.

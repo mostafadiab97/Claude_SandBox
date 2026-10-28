@@ -1,5 +1,5 @@
 ---
-id: SW-7TS4FF
+id: REQ-Y194JH4
 type: software-requirement
 title: Status LED authenticates firmware images
 status: Review
@@ -9,11 +9,12 @@ tags:
   - power
   - safety
   - ux
-parent: SYS-SSBZ7T
-order: 20
+former-id: SW-7TS4FF
+parent: REQ-AV4FMXQ
+order: a1
 links:
   - type: refines
-    target: SYS-SSBZ7T
+    target: REQ-AV4FMXQ
     confirmed: 4a88e60caee9
 ---
 The rotary knob shall switch the set point with an accuracy of ±0.5 °C.

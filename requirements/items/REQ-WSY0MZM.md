@@ -1,5 +1,5 @@
 ---
-id: SYS-MASKXR
+id: REQ-WSY0MZM
 type: system-requirement
 title: Telemetry pipeline reports user preferences
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: R. Nabil
 tags:
   - ux
-parent: INFO-YV5EZD
-order: 920
+former-id: SYS-MASKXR
+parent: REQ-RE9ZKHF
+order: b0T
 links:
   - type: refines
-    target: STK-4NCGP6
+    target: REQ-6WXSS37
     confirmed: 34735dce772b
 ---
 The telemetry pipeline shall calibrate energy consumption for at least 10 years.

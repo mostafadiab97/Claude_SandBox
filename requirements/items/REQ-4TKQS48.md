@@ -1,5 +1,5 @@
 ---
-id: SYS-92Z3JT
+id: REQ-4TKQS48
 type: system-requirement
 title: Notification service detects safety limits
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: محمد علي
 tags:
   - EMC
-parent: INFO-2XXBRS
-order: 1430
+former-id: SYS-92Z3JT
+parent: REQ-QYXGSQ4
+order: b1I
 links:
   - type: refines
-    target: STK-55M3CZ
+    target: REQ-HTVZXH2
     confirmed: 45f1b5fe0502
 ---
 The notification service shall report firmware images for at least 10 years.

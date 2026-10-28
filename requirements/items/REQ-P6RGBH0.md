@@ -1,17 +1,18 @@
 ---
-id: TC-7EQW1C
+id: REQ-P6RGBH0
 type: test-case
 title: "Verify: Encryption layer measures access tokens"
 status: Draft
 owner: A. Hassan
-parent: INFO-Z4TW4B
-order: 1550
+former-id: TC-7EQW1C
+parent: REQ-K6FGAY0
+order: b1U
 links:
   - type: verifies
-    target: SYS-15TR5S
+    target: REQ-H1QRFBB
     confirmed: 5313fbec9423
   - type: verifies
-    target: SW-A2KNB8
+    target: REQ-VM55RT5
     confirmed: 36939cfa0171
 ---
 **Objective:** verify that the encryption layer behaves as specified.

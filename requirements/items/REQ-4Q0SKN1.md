@@ -1,14 +1,15 @@
 ---
-id: SW-BMKN1N
+id: REQ-4Q0SKN1
 type: software-requirement
 title: Encryption layer validates relay events
 status: Draft
 priority: Medium
-parent: SYS-7N5VV8
-order: 40
+former-id: SW-BMKN1N
+parent: REQ-94FP1C8
+order: a3
 links:
   - type: refines
-    target: SYS-7N5VV8
+    target: REQ-94FP1C8
     confirmed: 995bbbab086c
 ---
 The secure boot shall detect relay events within 200 ms.

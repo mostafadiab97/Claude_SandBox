@@ -1,5 +1,5 @@
 ---
-id: IF-QA3E07
+id: REQ-HEM03HJ
 type: interface-requirement
 title: "Signal 158: sensor readings"
 status: Review
@@ -7,7 +7,8 @@ priority: Medium
 owner: محمد علي
 tags:
   - accessibility
-parent: INFO-2TM0JP
-order: 1580
+former-id: IF-QA3E07
+parent: REQ-RJ0KHPT
+order: b1X
 ---
 Interface signal number 158.

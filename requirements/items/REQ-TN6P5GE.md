@@ -1,5 +1,5 @@
 ---
-id: SW-STG6C8
+id: REQ-TN6P5GE
 type: software-requirement
 title: Encrypt humidity values — detail
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - EMC
   - connectivity
   - release-2.0
-parent: SW-CY5VGN
-order: 10
+former-id: SW-STG6C8
+parent: REQ-HZGEVMQ
+order: a0
 links:
   - type: refines
-    target: SW-CY5VGN
+    target: REQ-HZGEVMQ
     confirmed: 8565b1b722ca
 ---
 The notification service shall encrypt user preferences below 0.5 W in standby.

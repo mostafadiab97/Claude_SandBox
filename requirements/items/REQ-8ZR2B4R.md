@@ -1,5 +1,5 @@
 ---
-id: TC-VD31W2
+id: REQ-8ZR2B4R
 type: test-case
 title: "Verify: Tamper detection stores audit records"
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - EMC
   - release-1.0
   - connectivity
-parent: INFO-Z4TW4B
-order: 400
+former-id: TC-VD31W2
+parent: REQ-K6FGAY0
+order: ad
 links:
   - type: verifies
-    target: SYS-SAV1GY
+    target: REQ-0JTCYEX
     confirmed: 01ce30983654
 ---
 **Objective:** verify that the tamper detection behaves as specified.

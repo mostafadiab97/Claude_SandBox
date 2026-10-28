@@ -1,15 +1,16 @@
 ---
-id: HW-AMHD9J
+id: REQ-GPGJAAB
 type: hardware-requirement
 title: Login screen detects humidity values
 status: Approved
 priority: Low
 owner: L. Samir
-parent: SYS-XGRV2A
-order: 30
+former-id: HW-AMHD9J
+parent: REQ-08575KR
+order: a2
 links:
   - type: refines
-    target: SYS-XGRV2A
+    target: REQ-08575KR
     confirmed: 2e61fb952f1f
 ---
 The schedule editor shall notify the connection state in all supported languages.

@@ -1,14 +1,15 @@
 ---
-id: IF-T9A4JR
+id: REQ-1XW9H8Y
 type: interface-requirement
 title: Battery backup restores schedule entries
 status: Obsolete
 owner: A. Hassan
-parent: SYS-NYS190
-order: 10
+former-id: IF-T9A4JR
+parent: REQ-2X5QBYE
+order: a0
 links:
   - type: refines
-    target: SYS-NYS190
+    target: REQ-2X5QBYE
     confirmed: ed22064137e9
 ---
 The main PCB shall notify safety limits below 0.5 W in standby.

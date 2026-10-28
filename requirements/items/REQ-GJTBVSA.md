@@ -1,5 +1,5 @@
 ---
-id: DE-F3BKST
+id: REQ-GJTBVSA
 type: design-element
 title: Module Bluetooth_LE_link_46
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - ux
   - EMC
-parent: SW-VH5XWK
-order: 10
+former-id: DE-F3BKST
+parent: REQ-01EV28A
+order: a0
 links:
   - type: implements
-    target: SW-VH5XWK
+    target: REQ-01EV28A
     confirmed: 731db1e8f6db
 ---
 Implemented in `src/conn/Bluetooth_LE_link.c`.

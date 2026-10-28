@@ -1,15 +1,16 @@
 ---
-id: SYS-BF1ZYT
+id: REQ-82MZ9V5
 type: system-requirement
 title: Status LED calibrates the operating mode
 status: Draft
 priority: High
 owner: Y. Saber
-parent: INFO-PDR6FV
-order: 1220
+former-id: SYS-BF1ZYT
+parent: REQ-2ZA2TRZ
+order: b0x
 links:
   - type: refines
-    target: STK-KPV71Q
+    target: REQ-VQBZQVC
     confirmed: 10d9c216aea2
 ---
 The status LED shall notify humidity values at least once per minute.

@@ -1,19 +1,20 @@
 ---
-id: TC-6KR06F
+id: REQ-HKA69J5
 type: test-case
 title: "Verify: Tamper detection synchronises firmware images"
 status: Approved
 priority: Low
 tags:
   - safety
-parent: INFO-Z4TW4B
-order: 1310
+former-id: TC-6KR06F
+parent: REQ-K6FGAY0
+order: b16
 links:
   - type: verifies
-    target: SYS-B92MZT
+    target: REQ-CZVE4E4
     confirmed: 4ea3d699c52a
   - type: verifies
-    target: SW-GD1AD4
+    target: REQ-EERHB6H
     confirmed: 5d785516a115
 ---
 **Objective:** verify that the tamper detection behaves as specified.

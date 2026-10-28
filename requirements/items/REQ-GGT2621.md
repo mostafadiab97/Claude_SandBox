@@ -1,5 +1,5 @@
 ---
-id: SYS-MY3DCX
+id: REQ-GGT2621
 type: system-requirement
 title: Bluetooth LE link restores relay events
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - accessibility
   - performance
-parent: INFO-NRVHA2
-order: 920
+former-id: SYS-MY3DCX
+parent: REQ-6R94HFM
+order: b0T
 links:
   - type: refines
-    target: STK-F7D2QS
+    target: REQ-7JDZJ5E
     confirmed: bd8a3050a12b
 ---
 The Bluetooth LE link shall detect the set point after a power loss.

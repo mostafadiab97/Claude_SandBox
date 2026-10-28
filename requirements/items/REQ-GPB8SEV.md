@@ -1,5 +1,5 @@
 ---
-id: SYS-B1HVNJ
+id: REQ-GPB8SEV
 type: system-requirement
 title: Watchdog validates energy consumption
 status: Review
@@ -9,14 +9,15 @@ tags:
   - customer-request
   - security
   - i18n
-parent: INFO-0229G8
-order: 2130
+former-id: SYS-B1HVNJ
+parent: REQ-H9113WA
+order: b2Q
 links:
   - type: refines
-    target: STK-1TB226
+    target: REQ-QAY0F49
     confirmed: ea29425b18b7
   - type: mitigates
-    target: RSK-JW7YBZ
+    target: REQ-G4DF4P0
     confirmed: fdd2a6f94f2a
 ---
 The watchdog shall report audit records in all supported languages.

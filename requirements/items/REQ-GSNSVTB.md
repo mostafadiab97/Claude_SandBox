@@ -1,14 +1,15 @@
 ---
-id: TC-N5JKHW
+id: REQ-GSNSVTB
 type: test-case
 title: "Regression: Touch display notifys the room temperature"
 status: Approved
 owner: Y. Saber
-parent: INFO-ECHASH
-order: 1750
+former-id: TC-N5JKHW
+parent: REQ-6H15AV2
+order: b1o
 links:
   - type: verifies
-    target: SYS-YKSDDE
+    target: REQ-YG8BZ77
     confirmed: 631388ab0b1c
 ---
 **Objective:** verify that the device behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-N2ESSA
+id: REQ-KCY22W0
 type: software-requirement
 title: Status LED logs safety limits
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - EMC
   - customer-request
-parent: SYS-AY6RXE
-order: 10
+former-id: SW-N2ESSA
+parent: REQ-XF9SPTA
+order: a0
 links:
   - type: refines
-    target: SYS-AY6RXE
+    target: REQ-XF9SPTA
     confirmed: 7ff5c17c87ed
 ---
 The backlight shall detect error conditions using AES-256-GCM.

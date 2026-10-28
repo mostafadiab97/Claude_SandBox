@@ -1,5 +1,5 @@
 ---
-id: TC-FDA045
+id: REQ-25C6JBM
 type: test-case
 title: "Verify: Encryption layer authenticates the connection state"
 status: Review
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - i18n
   - performance
-parent: INFO-Z4TW4B
-order: 520
+former-id: TC-FDA045
+parent: REQ-K6FGAY0
+order: ap
 links:
   - type: verifies
-    target: SYS-FRJ8JT
+    target: REQ-9MHZY2R
     confirmed: 5c966bbd47be
 ---
 **Objective:** verify that the encryption layer behaves as specified.

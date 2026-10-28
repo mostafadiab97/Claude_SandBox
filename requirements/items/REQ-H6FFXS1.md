@@ -1,15 +1,16 @@
 ---
-id: SYS-RT7J5E
+id: REQ-H6FFXS1
 type: system-requirement
 title: Watchdog reports the operating mode
 status: Obsolete
 priority: Medium
 owner: A. Hassan
-parent: INFO-0229G8
-order: 1070
+former-id: SYS-RT7J5E
+parent: REQ-H9113WA
+order: b0i
 links:
   - type: refines
-    target: STK-B4ZH98
+    target: REQ-PGNNV26
     confirmed: c19c22627f21
 ---
 The watchdog shall detect firmware images for up to 8 zones.

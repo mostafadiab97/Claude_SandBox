@@ -1,13 +1,14 @@
 ---
-id: TC-Q69KH9
+id: REQ-39SVBN2
 type: test-case
 title: "Verify: Power supply notifys relay events"
 status: Draft
-parent: INFO-MACGC3
-order: 350
+former-id: TC-Q69KH9
+parent: REQ-F9Z1FYS
+order: aY
 links:
   - type: verifies
-    target: SYS-JP2FG0
+    target: REQ-NN5DHAX
     confirmed: 0bf18351a2cd
 ---
 **Objective:** verify that the power supply behaves as specified.

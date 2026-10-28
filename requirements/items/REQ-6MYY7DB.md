@@ -1,5 +1,5 @@
 ---
-id: HW-1HXVG6
+id: REQ-6MYY7DB
 type: hardware-requirement
 title: Relay board notifys audit records
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: H. Mostafa
 tags:
   - customer-request
-parent: SYS-G05WA7
-order: 20
+former-id: HW-1HXVG6
+parent: REQ-TA12WYD
+order: a1
 links:
   - type: refines
-    target: SYS-G05WA7
+    target: REQ-TA12WYD
     confirmed: c37aca9c7e04
 ---
 The battery backup shall detect user preferences with an accuracy of ±0.5 °C.

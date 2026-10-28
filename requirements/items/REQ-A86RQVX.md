@@ -1,5 +1,5 @@
 ---
-id: SW-AJF21T
+id: REQ-A86RQVX
 type: software-requirement
 title: Menu system restores safety limits
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: A. Hassan
 tags:
   - connectivity
-parent: SYS-Y096JN
-order: 30
+former-id: SW-AJF21T
+parent: REQ-2RR2EQ4
+order: a2
 links:
   - type: refines
-    target: SYS-Y096JN
+    target: REQ-2RR2EQ4
     confirmed: 3622c05b8ec0
 ---
 The status LED shall synchronise the room temperature after a power loss.

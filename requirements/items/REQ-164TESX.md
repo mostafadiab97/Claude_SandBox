@@ -1,5 +1,5 @@
 ---
-id: HW-KWZXMX
+id: REQ-164TESX
 type: hardware-requirement
 title: Encryption layer detects safety limits
 status: Obsolete
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - safety
   - release-2.0
-parent: SYS-F7SWPF
-order: 10
+former-id: HW-KWZXMX
+parent: REQ-7W5PV59
+order: a0
 links:
   - type: refines
-    target: SYS-F7SWPF
+    target: REQ-7W5PV59
     confirmed: 89bbd5dd030b
 ---
 The tamper detection shall log energy consumption without user interaction.

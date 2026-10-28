@@ -1,10 +1,11 @@
 ---
-id: IF-3VB6E3
+id: REQ-SJ312G4
 type: interface-requirement
 title: "Signal 035: sensor readings"
 status: Approved
 priority: High
-parent: INFO-2TM0JP
-order: 350
+former-id: IF-3VB6E3
+parent: REQ-RJ0KHPT
+order: aY
 ---
 Interface signal number 35.

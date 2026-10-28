@@ -1,5 +1,5 @@
 ---
-id: SYS-0J8RA9
+id: REQ-9Y4F13Z
 type: system-requirement
 title: Zigbee radio authenticates the room temperature
 status: Draft
@@ -7,14 +7,15 @@ priority: Medium
 tags:
   - security
   - customer-request
-parent: INFO-NRVHA2
-order: 2010
+former-id: SYS-0J8RA9
+parent: REQ-6R94HFM
+order: b2E
 links:
   - type: refines
-    target: STK-22X165
+    target: REQ-QCFMNYV
     confirmed: 0023c9af8e7d
   - type: mitigates
-    target: RSK-6H3D9M
+    target: REQ-0HFM6HD
     confirmed: c7f45fccd8d0
 ---
 The Zigbee radio shall report humidity values without user interaction.

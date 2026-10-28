@@ -1,5 +1,5 @@
 ---
-id: DE-MYSGQ3
+id: REQ-EE1E4PZ
 type: design-element
 title: Module tamper_detection_25
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - cost
   - power
   - EMC
-parent: SW-831S7D
-order: 10
+former-id: DE-MYSGQ3
+parent: REQ-W9YS97R
+order: a0
 links:
   - type: implements
-    target: SW-831S7D
+    target: REQ-W9YS97R
     confirmed: e01faa3d4458
 ---
 Implemented in `src/safe/tamper_detection.c`.

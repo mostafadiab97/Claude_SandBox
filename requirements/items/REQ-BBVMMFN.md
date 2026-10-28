@@ -1,5 +1,5 @@
 ---
-id: SW-T021M5
+id: REQ-BBVMMFN
 type: software-requirement
 title: User account service notifys the set point
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - i18n
   - connectivity
-parent: SYS-YJBS7Z
-order: 10
+former-id: SW-T021M5
+parent: REQ-9CB5575
+order: a0
 links:
   - type: refines
-    target: SYS-YJBS7Z
+    target: REQ-9CB5575
     confirmed: 75b98d046d10
 ---
 The telemetry pipeline shall store safety limits in all supported languages.

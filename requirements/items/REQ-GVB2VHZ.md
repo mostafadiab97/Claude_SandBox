@@ -1,5 +1,5 @@
 ---
-id: TC-1QT8P5
+id: REQ-GVB2VHZ
 type: test-case
 title: "Verify: Rotary knob encrypts schedule entries"
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - release-1.0
   - cost
-parent: INFO-HTSZ15
-order: 60
+former-id: TC-1QT8P5
+parent: REQ-Y9VHHKA
+order: a5
 links:
   - type: verifies
-    target: SYS-E287Z5
+    target: REQ-VFTA3G4
     confirmed: 75c4df8a465f
 ---
 **Objective:** verify that the rotary knob behaves as specified.

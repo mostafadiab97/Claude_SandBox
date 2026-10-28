@@ -1,5 +1,5 @@
 ---
-id: IF-CD9AYN
+id: REQ-D8A0BZQ
 type: interface-requirement
 title: Main PCB reports sensor readings
 status: Approved
@@ -7,11 +7,12 @@ owner: Y. Saber
 tags:
   - ux
   - release-2.0
-parent: SYS-KK90ZN
-order: 20
+former-id: IF-CD9AYN
+parent: REQ-TVXQNBY
+order: a1
 links:
   - type: refines
-    target: SYS-KK90ZN
+    target: REQ-TVXQNBY
     confirmed: a81e8767fb91
 ---
 The power supply shall notify energy consumption without user interaction.

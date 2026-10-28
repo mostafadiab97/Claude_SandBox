@@ -1,5 +1,5 @@
 ---
-id: TC-TYEKQK
+id: REQ-9ZG0ACQ
 type: test-case
 title: "Verify: Wi-Fi module encrypts humidity values"
 status: Review
@@ -9,14 +9,15 @@ tags:
   - customer-request
   - safety
   - accessibility
-parent: INFO-F0M7VC
-order: 940
+former-id: TC-TYEKQK
+parent: REQ-67RQXCK
+order: b0V
 links:
   - type: verifies
-    target: SYS-WTMM9P
+    target: REQ-Y89HNMM
     confirmed: f9afa2fdb4af
   - type: verifies
-    target: SW-6VNZC0
+    target: REQ-RDMR8EN
     confirmed: 15dbe7fe8ade
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

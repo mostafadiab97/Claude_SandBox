@@ -1,15 +1,16 @@
 ---
-id: SW-RETYRH
+id: REQ-RQW1CAT
 type: software-requirement
 title: Notification service calibrates the connection state
 status: Approved
 priority: Low
 owner: H. Mostafa
-parent: SYS-ZK10Z4
-order: 10
+former-id: SW-RETYRH
+parent: REQ-AN2GRAB
+order: a0
 links:
   - type: refines
-    target: SYS-ZK10Z4
+    target: REQ-AN2GRAB
     confirmed: 0f09ad7fec21
 ---
 The notification service shall log audit records for at least 10 years.

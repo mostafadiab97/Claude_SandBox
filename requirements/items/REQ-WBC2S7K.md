@@ -1,16 +1,17 @@
 ---
-id: SW-NM4R7B
+id: REQ-WBC2S7K
 type: software-requirement
 title: Heating controller stores the set point
 status: Approved
 priority: High
 tags:
   - power
-parent: SYS-D1ZDY9
-order: 20
+former-id: SW-NM4R7B
+parent: REQ-5ARG7AP
+order: a1
 links:
   - type: refines
-    target: SYS-D1ZDY9
+    target: REQ-5ARG7AP
     confirmed: 3c95eb652d79
 ---
 The heat pump driver shall restore relay events in all supported languages.

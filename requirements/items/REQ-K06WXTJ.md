@@ -1,5 +1,5 @@
 ---
-id: SW-N0SJ7F
+id: REQ-K06WXTJ
 type: software-requirement
 title: Cloud backend logs humidity values
 status: Review
@@ -8,11 +8,12 @@ tags:
   - security
   - regulatory
   - EMC
-parent: SYS-MV08ST
-order: 10
+former-id: SW-N0SJ7F
+parent: REQ-R3XMEKW
+order: a0
 links:
   - type: refines
-    target: SYS-MV08ST
+    target: REQ-R3XMEKW
     confirmed: 70d4bbd357b5
 ---
 The user account service shall measure schedule entries at least once per minute.

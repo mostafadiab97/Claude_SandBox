@@ -1,5 +1,5 @@
 ---
-id: IF-1GS4EN
+id: REQ-GHCN3MQ
 type: interface-requirement
 title: "Signal 314: user preferences"
 status: Approved
@@ -9,7 +9,8 @@ tags:
   - regulatory
   - accessibility
   - power
-parent: INFO-2TM0JP
-order: 3140
+former-id: IF-1GS4EN
+parent: REQ-RJ0KHPT
+order: b43
 ---
 Interface signal number 314.

@@ -1,16 +1,17 @@
 ---
-id: TC-Q549XM
+id: REQ-TMSPTGP
 type: test-case
 title: "Verify: Rotary knob synchronises the set point"
 status: Approved
 priority: High
 tags:
   - release-2.0
-parent: INFO-HTSZ15
-order: 1320
+former-id: TC-Q549XM
+parent: REQ-Y9VHHKA
+order: b17
 links:
   - type: verifies
-    target: SYS-DJE020
+    target: REQ-ZV45D9H
     confirmed: e34a209cad5c
 ---
 **Objective:** verify that the rotary knob behaves as specified.

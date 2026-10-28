@@ -1,5 +1,5 @@
 ---
-id: IF-S4QV5S
+id: REQ-T8DHZP1
 type: interface-requirement
 title: Schedule editor measures the connection state
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - security
   - release-1.0
-parent: SYS-HPT8TA
-order: 40
+former-id: IF-S4QV5S
+parent: REQ-JYNEA7Y
+order: a3
 links:
   - type: refines
-    target: SYS-HPT8TA
+    target: REQ-JYNEA7Y
     confirmed: 55ed01be7cc1
 ---
 The schedule editor shall restore error conditions without user interaction.

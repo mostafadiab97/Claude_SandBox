@@ -1,5 +1,5 @@
 ---
-id: TC-G691RX
+id: REQ-BCHEPFD
 type: test-case
 title: "Verify: Battery backup stores audit records"
 status: Draft
@@ -7,14 +7,15 @@ priority: Medium
 owner: L. Samir
 tags:
   - release-2.0
-parent: INFO-MACGC3
-order: 200
+former-id: TC-G691RX
+parent: REQ-F9Z1FYS
+order: aJ
 links:
   - type: verifies
-    target: SYS-1K9BKF
+    target: REQ-SCPDQHF
     confirmed: c64cd8bb0fb4
   - type: verifies
-    target: SW-2GTPVQ
+    target: REQ-3PRQ5Y5
     confirmed: 3433682acfa8
 ---
 **Objective:** verify that the battery backup behaves as specified.

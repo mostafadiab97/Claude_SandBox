@@ -1,5 +1,5 @@
 ---
-id: IF-49QSN0
+id: REQ-6WXMRW6
 type: interface-requirement
 title: Display the set point — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - security
   - performance
   - i18n
-parent: IF-YVHTQ6
-order: 10
+former-id: IF-49QSN0
+parent: REQ-69S6178
+order: a0
 links:
   - type: refines
-    target: IF-YVHTQ6
+    target: REQ-69S6178
     confirmed: 8849b958bf45
 ---
 The local API shall authenticate error conditions at least once per minute.

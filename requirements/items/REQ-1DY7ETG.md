@@ -1,14 +1,15 @@
 ---
-id: TC-MZFZBH
+id: REQ-1DY7ETG
 type: test-case
 title: "Verify: Tamper detection notifys safety limits"
 status: Approved
 priority: Low
-parent: INFO-Z4TW4B
-order: 660
+former-id: TC-MZFZBH
+parent: REQ-K6FGAY0
+order: b03
 links:
   - type: verifies
-    target: SYS-7DF4GN
+    target: REQ-301HF1Q
     confirmed: b8942c9f4893
 ---
 **Objective:** verify that the tamper detection behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SYS-N6E1NE
+id: REQ-JGWJGVK
 type: system-requirement
 title: Bluetooth LE link logs energy consumption
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - regulatory
   - release-1.0
   - customer-request
-parent: INFO-NRVHA2
-order: 210
+former-id: SYS-N6E1NE
+parent: REQ-6R94HFM
+order: aK
 links:
   - type: refines
-    target: STK-Q9RBYT
+    target: REQ-B31NWSC
     confirmed: a67c8b718d88
   - type: mitigates
-    target: RSK-PV2FA3
+    target: REQ-Q62VTZF
     confirmed: b0d749ed0447
 ---
 The Bluetooth LE link shall synchronise sensor readings for at least 10 years.

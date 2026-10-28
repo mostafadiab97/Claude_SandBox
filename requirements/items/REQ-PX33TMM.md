@@ -1,5 +1,5 @@
 ---
-id: HW-VMMW3R
+id: REQ-PX33TMM
 type: hardware-requirement
 title: Battery backup calibrates the operating mode
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - power
   - security
-parent: SYS-3W1S3B
-order: 10
+former-id: HW-VMMW3R
+parent: REQ-7A42WZ4
+order: a0
 links:
   - type: refines
-    target: SYS-3W1S3B
+    target: REQ-7A42WZ4
     confirmed: a83839a61248
 ---
 The enclosure shall authenticate the operating mode after a power loss.

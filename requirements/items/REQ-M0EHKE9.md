@@ -1,18 +1,19 @@
 ---
-id: DEF-M8J2Q8
+id: REQ-M0EHKE9
 type: defect
 title: "Defect: secure boot does not measure the connection state"
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: INFO-6QFMYN
-order: 50
+former-id: DEF-M8J2Q8
+parent: REQ-1XKBKFE
+order: a4
 links:
   - type: relates-to
-    target: TC-10Z2PT
+    target: REQ-ANTTAEF
     confirmed: 756dfd949585
   - type: relates-to
-    target: SYS-8XZZQ8
+    target: REQ-VCHHJMJ
     confirmed: 60302e1ca7b2
 ---
 Found during regression testing of build 2.7.26.

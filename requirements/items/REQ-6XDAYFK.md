@@ -1,5 +1,5 @@
 ---
-id: SW-40JGRS
+id: REQ-6XDAYFK
 type: software-requirement
 title: Zone valve authenticates safety limits
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - power
   - regulatory
   - i18n
-parent: SYS-K8C5H7
-order: 10
+former-id: SW-40JGRS
+parent: REQ-CFE22NG
+order: a0
 links:
   - type: refines
-    target: SYS-K8C5H7
+    target: REQ-CFE22NG
     confirmed: 968ca6703d93
 ---
 The heat pump driver shall switch schedule entries within 200 ms.

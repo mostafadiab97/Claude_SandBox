@@ -1,15 +1,16 @@
 ---
-id: SW-NV0V52
+id: REQ-8W4S61R
 type: software-requirement
 title: Notify humidity values — detail
 status: Approved
 tags:
   - performance
-parent: SW-JP0CW4
-order: 10
+former-id: SW-NV0V52
+parent: REQ-F7AAC8T
+order: a0
 links:
   - type: refines
-    target: SW-JP0CW4
+    target: REQ-F7AAC8T
     confirmed: 957dcef549ba
 ---
 The notification service shall notify energy consumption when the network is unavailable.

@@ -1,5 +1,5 @@
 ---
-id: SW-CWMJEH
+id: REQ-QRC8CJX
 type: software-requirement
 title: Backlight restores firmware images
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: É. Laurent
 tags:
   - safety
-parent: SYS-8ZNJBE
-order: 30
+former-id: SW-CWMJEH
+parent: REQ-9GY82M1
+order: a2
 links:
   - type: refines
-    target: SYS-8ZNJBE
+    target: REQ-9GY82M1
     confirmed: d6a67816b8b6
 ---
 The menu system shall switch user preferences after a power loss.

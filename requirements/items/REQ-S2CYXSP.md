@@ -1,5 +1,5 @@
 ---
-id: SYS-5BZJ6Y
+id: REQ-S2CYXSP
 type: system-requirement
 title: Over-temperature monitor validates audit records
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - cost
   - performance
   - power
-parent: INFO-0229G8
-order: 1320
+former-id: SYS-5BZJ6Y
+parent: REQ-H9113WA
+order: b17
 links:
   - type: refines
-    target: STK-ZJRWCQ
+    target: REQ-9YG77WV
     confirmed: 080168ea99ae
 ---
 The over-temperature monitor shall report energy consumption within 200 ms.

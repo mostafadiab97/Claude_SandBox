@@ -1,16 +1,17 @@
 ---
-id: TC-V3ADHZ
+id: REQ-RJTVKPR
 type: test-case
 title: "Verify: Secure boot authenticates energy consumption"
 status: Approved
 priority: High
 tags:
   - customer-request
-parent: INFO-Z4TW4B
-order: 940
+former-id: TC-V3ADHZ
+parent: REQ-K6FGAY0
+order: b0V
 links:
   - type: verifies
-    target: SYS-HF856T
+    target: REQ-VD3A46J
     confirmed: 96551a11c8e9
 ---
 **Objective:** verify that the secure boot behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: TC-KZZE4G
+id: REQ-PT5SDRM
 type: test-case
 title: "Verify: Power supply restores humidity values"
 status: Approved
@@ -7,14 +7,15 @@ priority: High
 owner: S. Adel
 tags:
   - accessibility
-parent: INFO-MACGC3
-order: 530
+former-id: TC-KZZE4G
+parent: REQ-F9Z1FYS
+order: aq
 links:
   - type: verifies
-    target: SYS-82CVHQ
+    target: REQ-TCRNYA1
     confirmed: 53eb98981ee7
   - type: verifies
-    target: SW-ZQNECF
+    target: REQ-0409MEV
     confirmed: 616347694a14
 ---
 **Objective:** verify that the power supply behaves as specified.

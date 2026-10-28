@@ -1,15 +1,16 @@
 ---
-id: SYS-F5RTF4
+id: REQ-KA1D06R
 type: system-requirement
 title: Heating controller displays the connection state
 status: Draft
 priority: High
 owner: R. Nabil
-parent: INFO-6DQTKV
-order: 560
+former-id: SYS-F5RTF4
+parent: REQ-7ED7ZET
+order: at
 links:
   - type: refines
-    target: STK-9YF5RE
+    target: REQ-FGZGBY5
     confirmed: 43643c03020f
 ---
 The heating controller shall measure access tokens in under 3 s.

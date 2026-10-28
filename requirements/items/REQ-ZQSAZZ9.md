@@ -1,5 +1,5 @@
 ---
-id: HW-TXEBBE
+id: REQ-ZQSAZZ9
 type: hardware-requirement
 title: Power supply displays schedule entries
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - i18n
   - performance
-parent: SYS-YFE8GX
-order: 10
+former-id: HW-TXEBBE
+parent: REQ-WSZZP37
+order: a0
 links:
   - type: refines
-    target: SYS-YFE8GX
+    target: REQ-WSZZP37
     confirmed: 43799d0ef6c4
 ---
 The power supply shall encrypt user preferences within 200 ms.

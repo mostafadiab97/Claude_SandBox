@@ -1,5 +1,5 @@
 ---
-id: SYS-8BB6P4
+id: REQ-H09Y5DF
 type: system-requirement
 title: Zigbee radio authenticates the room temperature
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: J. Müller
 tags:
   - customer-request
-parent: INFO-NRVHA2
-order: 180
+former-id: SYS-8BB6P4
+parent: REQ-6R94HFM
+order: aH
 links:
   - type: refines
-    target: STK-G2ZBHW
+    target: REQ-GXR8KE5
     confirmed: fee0d3303478
 ---
 The Zigbee radio shall switch error conditions below 0.5 W in standby.

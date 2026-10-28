@@ -1,5 +1,5 @@
 ---
-id: TC-43QT51
+id: REQ-MK7GR3K
 type: test-case
 title: "Verify: Heat pump driver synchronises the set point"
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Low
 tags:
   - ux
   - release-2.0
-parent: INFO-MS9DAG
-order: 360
+former-id: TC-43QT51
+parent: REQ-XGWSK2K
+order: aZ
 links:
   - type: verifies
-    target: SYS-8KE9F2
+    target: REQ-RJT2C4K
     confirmed: 046899ea1e41
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

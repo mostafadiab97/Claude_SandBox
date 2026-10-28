@@ -1,15 +1,16 @@
 ---
-id: SW-AK7JWR
+id: REQ-DBEN9GF
 type: software-requirement
 title: Home dashboard measures the operating mode
 status: Obsolete
 priority: Medium
 owner: محمد علي
-parent: SYS-1S2BHB
-order: 20
+former-id: SW-AK7JWR
+parent: REQ-59EPM6N
+order: a1
 links:
   - type: refines
-    target: SYS-1S2BHB
+    target: REQ-59EPM6N
     confirmed: 46ab9d294f6f
 ---
 The home dashboard shall validate access tokens at least once per minute.

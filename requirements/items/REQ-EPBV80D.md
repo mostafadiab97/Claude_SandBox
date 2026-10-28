@@ -1,15 +1,16 @@
 ---
-id: HW-YGND1T
+id: REQ-EPBV80D
 type: hardware-requirement
 title: Power supply detects schedule entries
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: SYS-AXK7J9
-order: 10
+former-id: HW-YGND1T
+parent: REQ-6JEC1MF
+order: a0
 links:
   - type: refines
-    target: SYS-AXK7J9
+    target: REQ-6JEC1MF
     confirmed: 3cfd57c0b514
 ---
 The enclosure shall measure schedule entries within 200 ms.

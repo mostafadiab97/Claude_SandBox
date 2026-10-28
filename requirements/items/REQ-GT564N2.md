@@ -1,5 +1,5 @@
 ---
-id: TC-A6TS75
+id: REQ-GT564N2
 type: test-case
 title: "Verify: Power supply synchronises sensor readings"
 status: Review
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - performance
   - accessibility
-parent: INFO-MACGC3
-order: 1330
+former-id: TC-A6TS75
+parent: REQ-F9Z1FYS
+order: b18
 links:
   - type: verifies
-    target: SYS-SWYEGM
+    target: REQ-8HP4PG1
     confirmed: e13fd0c463a4
 ---
 **Objective:** verify that the power supply behaves as specified.

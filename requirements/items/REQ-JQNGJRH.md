@@ -1,5 +1,5 @@
 ---
-id: SYS-XF6HRT
+id: REQ-JQNGJRH
 type: system-requirement
 title: Notification service encrypts schedule entries
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: N. Kamal
 tags:
   - release-2.0
-parent: INFO-2XXBRS
-order: 1610
+former-id: SYS-XF6HRT
+parent: REQ-QYXGSQ4
+order: b1a
 links:
   - type: refines
-    target: STK-B9Y7CM
+    target: REQ-YGQ30E7
     confirmed: 2e83dea5db22
 ---
 The notification service shall notify safety limits for at least 10 years.

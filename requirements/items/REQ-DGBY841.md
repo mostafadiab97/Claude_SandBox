@@ -1,15 +1,16 @@
 ---
-id: SW-C0M7CQ
+id: REQ-DGBY841
 type: software-requirement
 title: Home dashboard reports relay events
 status: Review
 priority: High
 owner: A. Hassan
-parent: SYS-3KEBNW
-order: 40
+former-id: SW-C0M7CQ
+parent: REQ-BF9PRQ8
+order: a3
 links:
   - type: refines
-    target: SYS-3KEBNW
+    target: REQ-BF9PRQ8
     confirmed: 79d2c72aebd1
 ---
 The home dashboard shall encrypt error conditions after a power loss.

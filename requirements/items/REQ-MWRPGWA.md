@@ -1,7 +1,8 @@
 ---
-id: INFO-FH5FB3
+id: REQ-MWRPGWA
 type: information
-title: 2.5 Defects and change requests
-parent: INFO-12YCQ1
-order: 50
+title: Defects and change requests
+former-id: INFO-FH5FB3
+parent: REQ-WYM3P1X
+order: a3
 ---

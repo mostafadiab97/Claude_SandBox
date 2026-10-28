@@ -1,17 +1,18 @@
 ---
-id: TC-RZVPZM
+id: REQ-5PQTG4A
 type: test-case
 title: "Verify: Watchdog authenticates error conditions"
 status: Obsolete
 owner: L. Samir
-parent: INFO-Z4TW4B
-order: 1010
+former-id: TC-RZVPZM
+parent: REQ-K6FGAY0
+order: b0c
 links:
   - type: verifies
-    target: SYS-KH549P
+    target: REQ-4WF01SA
     confirmed: 7b84e6500217
   - type: verifies
-    target: SW-FJMKGH
+    target: REQ-BKAYPGB
     confirmed: 3c38329616a9
 ---
 **Objective:** verify that the watchdog behaves as specified.

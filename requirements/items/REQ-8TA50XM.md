@@ -1,15 +1,16 @@
 ---
-id: SW-P6SPSD
+id: REQ-8TA50XM
 type: software-requirement
 title: Telemetry pipeline restores relay events
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: SYS-7V2N1W
-order: 10
+former-id: SW-P6SPSD
+parent: REQ-TKRRV78
+order: a0
 links:
   - type: refines
-    target: SYS-7V2N1W
+    target: REQ-TKRRV78
     confirmed: 595fd0fcde8d
 ---
 The device registry shall detect humidity values when the network is unavailable.

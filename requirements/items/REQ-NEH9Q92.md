@@ -1,5 +1,5 @@
 ---
-id: TC-ZTPN2D
+id: REQ-NEH9Q92
 type: test-case
 title: "Verify: Cloud backend measures error conditions"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: S. Adel
 tags:
   - i18n
-parent: INFO-7P4D8D
-order: 340
+former-id: TC-ZTPN2D
+parent: REQ-8351896
+order: aX
 links:
   - type: verifies
-    target: SYS-6FSERM
+    target: REQ-8M8WPB5
     confirmed: "633397687564"
 ---
 **Objective:** verify that the cloud backend behaves as specified.

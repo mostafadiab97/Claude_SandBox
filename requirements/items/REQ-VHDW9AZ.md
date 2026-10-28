@@ -1,5 +1,5 @@
 ---
-id: TC-DEABPT
+id: REQ-VHDW9AZ
 type: test-case
 title: "Verify: Zigbee radio switchs the connection state"
 status: Draft
@@ -7,14 +7,15 @@ priority: Low
 owner: É. Laurent
 tags:
   - release-1.0
-parent: INFO-F0M7VC
-order: 590
+former-id: TC-DEABPT
+parent: REQ-67RQXCK
+order: aw
 links:
   - type: verifies
-    target: SYS-6G50E9
+    target: REQ-S01GZRW
     confirmed: b8ffba322301
   - type: verifies
-    target: SW-RZD9YZ
+    target: REQ-A33F5NX
     confirmed: da6a2a0d52cb
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

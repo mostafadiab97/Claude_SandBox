@@ -1,5 +1,5 @@
 ---
-id: SW-WM4G88
+id: REQ-ZT7N4ND
 type: software-requirement
 title: Heating controller calibrates audit records
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - regulatory
   - i18n
   - release-2.0
-parent: SYS-HWK1PW
-order: 30
+former-id: SW-WM4G88
+parent: REQ-0857XTX
+order: a2
 links:
   - type: refines
-    target: SYS-HWK1PW
+    target: REQ-0857XTX
     confirmed: bad2945b8b35
 ---
 The zone valve shall synchronise safety limits in all supported languages.

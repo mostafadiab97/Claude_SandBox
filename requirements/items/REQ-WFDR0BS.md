@@ -1,5 +1,5 @@
 ---
-id: HW-F2TAQ2
+id: REQ-WFDR0BS
 type: hardware-requirement
 title: Zone valve encrypts the set point
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - release-1.0
   - performance
-parent: SYS-9RTKP2
-order: 10
+former-id: HW-F2TAQ2
+parent: REQ-R2V07V4
+order: a0
 links:
   - type: refines
-    target: SYS-9RTKP2
+    target: REQ-R2V07V4
     confirmed: 3379698ed305
 ---
 The heating controller shall measure access tokens for up to 8 zones.

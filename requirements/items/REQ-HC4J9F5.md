@@ -1,16 +1,17 @@
 ---
-id: IF-F983ZE
+id: REQ-HC4J9F5
 type: interface-requirement
 title: Notification service detects sensor readings
 status: Approved
 priority: High
 tags:
   - release-2.0
-parent: SYS-7Y9J5P
-order: 20
+former-id: IF-F983ZE
+parent: REQ-7R92S2B
+order: a1
 links:
   - type: refines
-    target: SYS-7Y9J5P
+    target: REQ-7R92S2B
     confirmed: 8394341da33d
 ---
 The mobile app shall switch relay events with an accuracy of ±0.5 °C.

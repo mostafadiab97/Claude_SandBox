@@ -1,14 +1,15 @@
 ---
-id: SYS-F4HTNV
+id: REQ-ZGT59VA
 type: system-requirement
 title: Wi-Fi module displays humidity values
 status: Draft
 owner: H. Mostafa
-parent: INFO-NRVHA2
-order: 100
+former-id: SYS-F4HTNV
+parent: REQ-6R94HFM
+order: a9
 links:
   - type: refines
-    target: STK-AAZ4HV
+    target: REQ-M9DYEF5
     confirmed: 44fc7956dbf8
 ---
 The Wi-Fi module shall limit the connection state for up to 8 zones.

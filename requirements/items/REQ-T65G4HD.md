@@ -1,5 +1,5 @@
 ---
-id: DEF-52QCFB
+id: REQ-T65G4HD
 type: defect
 title: "Defect: backlight does not limit audit records"
 status: Review
@@ -7,14 +7,15 @@ priority: Medium
 tags:
   - release-1.0
   - cost
-parent: INFO-7HY7F9
-order: 10
+former-id: DEF-52QCFB
+parent: REQ-HFYH0KW
+order: a0
 links:
   - type: relates-to
-    target: TC-X2D3JE
+    target: REQ-BA58DRF
     confirmed: 8852a015faf8
   - type: relates-to
-    target: SYS-7C3GR4
+    target: REQ-TEEHWEZ
     confirmed: d6385afd3348
 ---
 Found during regression testing of build 2.7.17.

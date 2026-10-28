@@ -1,16 +1,17 @@
 ---
-id: UC-AHFDZ2
+id: REQ-A083V1A
 type: use-case
 title: "UC: Encrypt firmware images with the encryption layer"
 status: Draft
 priority: Medium
 tags:
   - i18n
-parent: INFO-RE7JP9
-order: 140
+former-id: UC-AHFDZ2
+parent: REQ-3EBQKRK
+order: aD
 links:
   - type: relates-to
-    target: STK-1TB226
+    target: REQ-QAY0F49
     confirmed: ea29425b18b7
 ---
 **Actor:** home owner

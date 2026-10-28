@@ -1,5 +1,5 @@
 ---
-id: IF-QPTNT9
+id: REQ-SSGK4BN
 type: interface-requirement
 title: Measure schedule entries — detail
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: R. Nabil
 tags:
   - customer-request
-parent: IF-C5F6TK
-order: 10
+former-id: IF-QPTNT9
+parent: REQ-W218RR1
+order: a0
 links:
   - type: refines
-    target: IF-C5F6TK
+    target: REQ-W218RR1
     confirmed: a09203f0f21f
 ---
 The pairing process shall measure humidity values without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: SW-3YFCQ3
+id: REQ-H3TJMF8
 type: software-requirement
 title: Switch the room temperature — detail
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - EMC
   - accessibility
-parent: SW-3S3QPN
-order: 10
+former-id: SW-3YFCQ3
+parent: REQ-42BTP6N
+order: a0
 links:
   - type: refines
-    target: SW-3S3QPN
+    target: REQ-42BTP6N
     confirmed: 650f794940e6
 ---
 The home dashboard shall limit sensor readings when the network is unavailable.

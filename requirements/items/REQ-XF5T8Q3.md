@@ -1,5 +1,5 @@
 ---
-id: SW-9NWPV9
+id: REQ-XF5T8Q3
 type: software-requirement
 title: Backlight calibrates the room temperature
 status: Review
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - performance
   - release-2.0
-parent: SYS-63GREP
-order: 30
+former-id: SW-9NWPV9
+parent: REQ-20KV4SP
+order: a2
 links:
   - type: refines
-    target: SYS-63GREP
+    target: REQ-20KV4SP
     confirmed: b483aeef9b3f
 ---
 The backlight shall limit humidity values within 200 ms.

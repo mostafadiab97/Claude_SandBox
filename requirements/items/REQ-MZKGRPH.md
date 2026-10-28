@@ -1,14 +1,15 @@
 ---
-id: IF-7JMRAN
+id: REQ-MZKGRPH
 type: interface-requirement
 title: Power supply authenticates safety limits
 status: Approved
 priority: Low
-parent: SYS-2G95V5
-order: 40
+former-id: IF-7JMRAN
+parent: REQ-Y6WGRCS
+order: a3
 links:
   - type: refines
-    target: SYS-2G95V5
+    target: REQ-Y6WGRCS
     confirmed: c56996de7c48
 ---
 The relay board shall calibrate safety limits for up to 8 zones.

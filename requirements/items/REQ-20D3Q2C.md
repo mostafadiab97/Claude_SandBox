@@ -1,16 +1,17 @@
 ---
-id: SW-Q26YX4
+id: REQ-20D3Q2C
 type: software-requirement
 title: Status LED authenticates schedule entries
 status: Review
 owner: S. Adel
 tags:
   - release-2.0
-parent: SYS-BVR9MT
-order: 10
+former-id: SW-Q26YX4
+parent: REQ-96F7GMN
+order: a0
 links:
   - type: refines
-    target: SYS-BVR9MT
+    target: REQ-96F7GMN
     confirmed: 4ce801427d87
 ---
 The backlight shall restore the set point within 200 ms.

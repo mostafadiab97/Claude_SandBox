@@ -1,5 +1,5 @@
 ---
-id: SYS-DZWWWA
+id: REQ-BWJ3AFX
 type: system-requirement
 title: Pairing process authenticates the set point
 status: Obsolete
@@ -9,14 +9,15 @@ tags:
   - regulatory
   - ux
   - EMC
-parent: INFO-NRVHA2
-order: 110
+former-id: SYS-DZWWWA
+parent: REQ-6R94HFM
+order: aA
 links:
   - type: refines
-    target: STK-AAZ4HV
+    target: REQ-M9DYEF5
     confirmed: 44fc7956dbf8
   - type: mitigates
-    target: RSK-RW5E05
+    target: REQ-6C1BJKS
     confirmed: 2efae5362c64
 ---
 The pairing process shall switch the connection state after a power loss.

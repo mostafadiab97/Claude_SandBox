@@ -1,5 +1,5 @@
 ---
-id: IF-S5GRH8
+id: REQ-JS6Z1VR
 type: interface-requirement
 title: Telemetry pipeline logs user preferences
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - power
   - security
-parent: SYS-7FWKHS
-order: 20
+former-id: IF-S5GRH8
+parent: REQ-WAWMSPD
+order: a1
 links:
   - type: refines
-    target: SYS-7FWKHS
+    target: REQ-WAWMSPD
     confirmed: d6b178d90ee1
 ---
 The device registry shall authenticate sensor readings with an accuracy of ±0.5 °C.

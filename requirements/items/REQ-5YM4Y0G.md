@@ -1,5 +1,5 @@
 ---
-id: IF-X1BGE5
+id: REQ-5YM4Y0G
 type: interface-requirement
 title: Report the operating mode — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - i18n
   - customer-request
-parent: IF-Y2G314
-order: 10
+former-id: IF-X1BGE5
+parent: REQ-A24YVDC
+order: a0
 links:
   - type: refines
-    target: IF-Y2G314
+    target: REQ-A24YVDC
     confirmed: 55ab8f8b3494
 ---
 The zone valve shall restore the connection state within 200 ms.

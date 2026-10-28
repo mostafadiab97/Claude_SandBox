@@ -1,11 +1,12 @@
 ---
-id: IF-6QMWSQ
+id: REQ-9YXQM0K
 type: interface-requirement
 title: "Signal 350: the operating mode"
 status: Draft
 priority: Low
 owner: J. Müller
-parent: INFO-2TM0JP
-order: 3500
+former-id: IF-6QMWSQ
+parent: REQ-RJ0KHPT
+order: b4d
 ---
 Interface signal number 350.

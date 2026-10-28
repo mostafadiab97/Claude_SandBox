@@ -1,5 +1,5 @@
 ---
-id: IF-V0XGXW
+id: REQ-68NZM5Q
 type: interface-requirement
 title: Authenticate humidity values — detail
 status: Obsolete
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - EMC
   - cost
-parent: IF-3C0KH3
-order: 10
+former-id: IF-V0XGXW
+parent: REQ-5A5ZJCF
+order: a0
 links:
   - type: refines
-    target: IF-3C0KH3
+    target: REQ-5A5ZJCF
     confirmed: 171e276ae700
 ---
 The secure boot shall report user preferences at least once per minute.

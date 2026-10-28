@@ -1,15 +1,16 @@
 ---
-id: SYS-MA37SF
+id: REQ-ZWGY9CP
 type: system-requirement
 title: Device registry detects the connection state
 status: Approved
 priority: Medium
 owner: L. Samir
-parent: INFO-YV5EZD
-order: 1690
+former-id: SYS-MA37SF
+parent: REQ-RE9ZKHF
+order: b1i
 links:
   - type: refines
-    target: STK-4NCGP6
+    target: REQ-6WXSS37
     confirmed: 34735dce772b
 ---
 The device registry shall notify safety limits in under 3 s.

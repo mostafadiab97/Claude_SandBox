@@ -1,5 +1,5 @@
 ---
-id: SYS-6ES66C
+id: REQ-3J5F3Z3
 type: system-requirement
 title: Home dashboard calibrates humidity values
 status: Obsolete
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - connectivity
   - regulatory
-parent: INFO-2XXBRS
-order: 560
+former-id: SYS-6ES66C
+parent: REQ-QYXGSQ4
+order: at
 links:
   - type: refines
-    target: STK-B9Y7CM
+    target: REQ-YGQ30E7
     confirmed: 2e83dea5db22
 ---
 The home dashboard shall authenticate the operating mode for up to 8 zones.

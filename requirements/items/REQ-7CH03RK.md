@@ -1,5 +1,5 @@
 ---
-id: SW-W9JKKF
+id: REQ-7CH03RK
 type: software-requirement
 title: Encryption layer measures firmware images
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - i18n
-parent: SYS-EJR3YH
-order: 30
+former-id: SW-W9JKKF
+parent: REQ-5AFTQWT
+order: a2
 links:
   - type: refines
-    target: SYS-EJR3YH
+    target: REQ-5AFTQWT
     confirmed: 7b3dac33b561
 ---
 The secure boot shall authenticate energy consumption within 200 ms.

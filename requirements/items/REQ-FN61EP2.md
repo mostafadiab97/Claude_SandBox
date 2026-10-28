@@ -1,15 +1,16 @@
 ---
-id: IF-3XV9XV
+id: REQ-FN61EP2
 type: interface-requirement
 title: Rotary knob reports access tokens
 status: Review
 priority: High
 owner: A. Hassan
-parent: SYS-T689CT
-order: 10
+former-id: IF-3XV9XV
+parent: REQ-WRWV27H
+order: a0
 links:
   - type: refines
-    target: SYS-T689CT
+    target: REQ-WRWV27H
     confirmed: ab4c99fb5003
 ---
 The status LED shall calibrate error conditions in under 3 s.

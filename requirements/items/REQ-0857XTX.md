@@ -1,5 +1,5 @@
 ---
-id: SYS-HWK1PW
+id: REQ-0857XTX
 type: system-requirement
 title: Zone valve measures access tokens
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - safety
   - customer-request
   - performance
-parent: INFO-6DQTKV
-order: 2120
+former-id: SYS-HWK1PW
+parent: REQ-7ED7ZET
+order: b2P
 links:
   - type: refines
-    target: STK-W8N48B
+    target: REQ-GHEE73G
     confirmed: 00c32cea6ea5
 ---
 The zone valve shall switch the room temperature for at least 10 years.

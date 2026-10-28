@@ -1,5 +1,5 @@
 ---
-id: SYS-BQJJNH
+id: REQ-4YJNJH8
 type: system-requirement
 title: Tamper detection restores the connection state
 status: Approved
@@ -7,11 +7,12 @@ owner: R. Nabil
 tags:
   - release-1.0
   - performance
-parent: INFO-0229G8
-order: 260
+former-id: SYS-BQJJNH
+parent: REQ-H9113WA
+order: aP
 links:
   - type: refines
-    target: STK-JBY2BX
+    target: REQ-GCMD4T5
     confirmed: bcce6e51beb4
 ---
 The tamper detection shall measure firmware images after a power loss.

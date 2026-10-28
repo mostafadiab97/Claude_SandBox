@@ -1,5 +1,5 @@
 ---
-id: SW-TC6D27
+id: REQ-PMP6NWR
 type: software-requirement
 title: Encryption layer detects sensor readings
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: J. Müller
 tags:
   - power
-parent: SYS-6B2AFX
-order: 20
+former-id: SW-TC6D27
+parent: REQ-M89P0JQ
+order: a1
 links:
   - type: refines
-    target: SYS-6B2AFX
+    target: REQ-M89P0JQ
     confirmed: 2f261bacbfde
 ---
 The over-temperature monitor shall authenticate user preferences below 0.5 W in standby.

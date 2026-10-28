@@ -1,15 +1,16 @@
 ---
-id: SW-MZ2CT7
+id: REQ-NCT4CR3
 type: software-requirement
 title: Notification service notifys error conditions
 status: Approved
 priority: Low
 owner: J. Müller
-parent: SYS-XF6HRT
-order: 20
+former-id: SW-MZ2CT7
+parent: REQ-JQNGJRH
+order: a1
 links:
   - type: refines
-    target: SYS-XF6HRT
+    target: REQ-JQNGJRH
     confirmed: 8fa995f67a12
 ---
 The notification service shall report relay events with an accuracy of ±0.5 °C.

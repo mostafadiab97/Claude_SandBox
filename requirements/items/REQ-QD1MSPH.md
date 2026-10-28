@@ -1,5 +1,5 @@
 ---
-id: TC-9HGW6S
+id: REQ-QD1MSPH
 type: test-case
 title: "Verify: User account service measures humidity values"
 status: Review
@@ -7,11 +7,12 @@ owner: M. Farouk
 tags:
   - i18n
   - cost
-parent: INFO-7P4D8D
-order: 680
+former-id: TC-9HGW6S
+parent: REQ-8351896
+order: b05
 links:
   - type: verifies
-    target: SYS-NX7FXR
+    target: REQ-4YTJR6Z
     confirmed: 409a2a77cfee
 ---
 **Objective:** verify that the user account service behaves as specified.

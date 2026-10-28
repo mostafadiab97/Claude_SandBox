@@ -1,16 +1,17 @@
 ---
-id: HW-WYTDNQ
+id: REQ-30PGQSZ
 type: hardware-requirement
 title: Encryption layer calibrates humidity values
 status: Review
 owner: A. Hassan
 tags:
   - connectivity
-parent: SYS-GGKGZ3
-order: 10
+former-id: HW-WYTDNQ
+parent: REQ-QQ9G38G
+order: a0
 links:
   - type: refines
-    target: SYS-GGKGZ3
+    target: REQ-QQ9G38G
     confirmed: a8c334c80200
 ---
 The secure boot shall limit firmware images at least once per minute.

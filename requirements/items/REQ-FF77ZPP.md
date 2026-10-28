@@ -1,5 +1,5 @@
 ---
-id: SYS-81C7XG
+id: REQ-FF77ZPP
 type: system-requirement
 title: Watchdog restores access tokens
 status: Obsolete
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - release-2.0
   - i18n
-parent: INFO-0229G8
-order: 2020
+former-id: SYS-81C7XG
+parent: REQ-H9113WA
+order: b2F
 links:
   - type: refines
-    target: STK-SZWQ0A
+    target: REQ-AVJ6PR8
     confirmed: fc1f05b44684
 ---
 The watchdog shall store the room temperature in under 3 s.

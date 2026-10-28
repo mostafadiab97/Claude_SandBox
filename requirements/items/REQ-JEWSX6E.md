@@ -1,5 +1,5 @@
 ---
-id: SW-NG3S57
+id: REQ-JEWSX6E
 type: software-requirement
 title: Deep hierarchy — level 6
 status: Draft
@@ -8,7 +8,8 @@ owner: L. Samir
 tags:
   - EMC
   - i18n
-parent: SW-DHC1BR
-order: 10
+former-id: SW-NG3S57
+parent: REQ-00SY1A9
+order: a0
 ---
 Level 6 of 10.

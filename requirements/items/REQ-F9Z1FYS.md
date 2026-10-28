@@ -1,7 +1,8 @@
 ---
-id: INFO-MACGC3
+id: REQ-F9Z1FYS
 type: information
-title: 5.3 Verification
-parent: INFO-DNAGHM
-order: 30
+title: Verification
+former-id: INFO-MACGC3
+parent: REQ-SGXYWPG
+order: a2
 ---

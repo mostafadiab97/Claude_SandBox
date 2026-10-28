@@ -1,15 +1,16 @@
 ---
-id: HW-8H44TT
+id: REQ-4HVVVES
 type: hardware-requirement
 title: Notification service restores user preferences
 status: Review
 priority: High
 owner: M. Farouk
-parent: SYS-EMNHY1
-order: 10
+former-id: HW-8H44TT
+parent: REQ-KZTR45M
+order: a0
 links:
   - type: refines
-    target: SYS-EMNHY1
+    target: REQ-KZTR45M
     confirmed: 84eef3783091
 ---
 The login screen shall detect safety limits when the network is unavailable.

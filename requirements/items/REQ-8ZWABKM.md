@@ -1,5 +1,5 @@
 ---
-id: SW-2V82ZE
+id: REQ-8ZWABKM
 type: software-requirement
 title: Backlight restores sensor readings
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - performance
   - ux
   - accessibility
-parent: SYS-V8VVYW
-order: 10
+former-id: SW-2V82ZE
+parent: REQ-WTYEQR1
+order: a0
 links:
   - type: refines
-    target: SYS-V8VVYW
+    target: REQ-WTYEQR1
     confirmed: de6e639c3dac
 ---
 The rotary knob shall encrypt the room temperature below 0.5 W in standby.

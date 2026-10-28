@@ -1,15 +1,16 @@
 ---
-id: TC-6JYS0C
+id: REQ-MBBW6YX
 type: test-case
 title: "Verify: Regulation loop reports schedule entries"
 status: Review
 priority: Medium
 owner: A. Hassan
-parent: INFO-MS9DAG
-order: 1150
+former-id: TC-6JYS0C
+parent: REQ-XGWSK2K
+order: b0q
 links:
   - type: verifies
-    target: SYS-T6WXDY
+    target: REQ-B5PZTS1
     confirmed: e7cb857d34f0
 ---
 **Objective:** verify that the regulation loop behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: TC-1K2NK0
+id: REQ-3M6PP33
 type: test-case
 title: "Regression: Bluetooth LE link detects firmware images"
 status: Approved
@@ -7,11 +7,12 @@ owner: H. Mostafa
 tags:
   - i18n
   - release-2.0
-parent: INFO-ECHASH
-order: 1420
+former-id: TC-1K2NK0
+parent: REQ-6H15AV2
+order: b1H
 links:
   - type: verifies
-    target: SYS-WNQGR6
+    target: REQ-RBQG9NG
     confirmed: 1dc3d7c9d30a
 ---
 **Objective:** verify that the device behaves as specified.

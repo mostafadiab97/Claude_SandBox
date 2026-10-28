@@ -1,5 +1,5 @@
 ---
-id: SW-AWF1SV
+id: REQ-TPWSQKJ
 type: software-requirement
 title: Watchdog reports firmware images
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - release-2.0
   - performance
   - accessibility
-parent: SYS-MRYHNM
-order: 40
+former-id: SW-AWF1SV
+parent: REQ-GCPQ4HC
+order: a3
 links:
   - type: refines
-    target: SYS-MRYHNM
+    target: REQ-GCPQ4HC
     confirmed: 82b2ddf90cf3
 ---
 The watchdog shall display the set point in all supported languages.

@@ -1,16 +1,17 @@
 ---
-id: SYS-ESNRC9
+id: REQ-7FP22QF
 type: system-requirement
 title: Relay board switchs humidity values
 status: Approved
 tags:
   - cost
   - release-1.0
-parent: INFO-A6P9A8
-order: 2280
+former-id: SYS-ESNRC9
+parent: REQ-CMCS31A
+order: b2f
 links:
   - type: refines
-    target: STK-Y4WG9E
+    target: REQ-Z62Y5S5
     confirmed: 9c3c4f9c0995
 ---
 The relay board shall encrypt access tokens when the network is unavailable.

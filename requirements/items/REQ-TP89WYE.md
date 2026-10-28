@@ -1,15 +1,16 @@
 ---
-id: SW-41BTMM
+id: REQ-TP89WYE
 type: software-requirement
 title: Rotary knob calibrates firmware images
 status: Approved
 priority: Medium
 owner: É. Laurent
-parent: SYS-S18QCP
-order: 40
+former-id: SW-41BTMM
+parent: REQ-YN2X5B5
+order: a3
 links:
   - type: refines
-    target: SYS-S18QCP
+    target: REQ-YN2X5B5
     confirmed: 73e58aae87f1
 ---
 The touch display shall store schedule entries in under 3 s.

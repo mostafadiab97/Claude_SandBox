@@ -1,5 +1,5 @@
 ---
-id: HW-HGY4DM
+id: REQ-FYNV3ZT
 type: hardware-requirement
 title: Heating controller displays the connection state
 status: Review
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - performance
   - i18n
-parent: SYS-7JZD7P
-order: 10
+former-id: HW-HGY4DM
+parent: REQ-2K5K4N4
+order: a0
 links:
   - type: refines
-    target: SYS-7JZD7P
+    target: REQ-2K5K4N4
     confirmed: 3d215316f1d7
 ---
 The heating controller shall restore humidity values in under 3 s.

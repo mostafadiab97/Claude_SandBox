@@ -1,5 +1,5 @@
 ---
-id: SYS-2TKSSR
+id: REQ-6J8J6CK
 type: system-requirement
 title: Wi-Fi module encrypts energy consumption
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - power
   - connectivity
   - accessibility
-parent: INFO-NRVHA2
-order: 860
+former-id: SYS-2TKSSR
+parent: REQ-6R94HFM
+order: b0N
 links:
   - type: refines
-    target: STK-G2ZBHW
+    target: REQ-GXR8KE5
     confirmed: fee0d3303478
 ---
 The Wi-Fi module shall authenticate the connection state in all supported languages.

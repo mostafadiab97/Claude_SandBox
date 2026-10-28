@@ -1,5 +1,5 @@
 ---
-id: SW-Y2C20F
+id: REQ-WHTZWSZ
 type: software-requirement
 title: Mobile app switchs error conditions
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - cost
   - EMC
   - customer-request
-parent: SYS-TNP510
-order: 30
+former-id: SW-Y2C20F
+parent: REQ-4E6KP0H
+order: a2
 links:
   - type: refines
-    target: SYS-TNP510
+    target: REQ-4E6KP0H
     confirmed: 342a56df9a48
 ---
 The notification service shall calibrate schedule entries in all supported languages.

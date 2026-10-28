@@ -1,5 +1,5 @@
 ---
-id: SW-VQQQPQ
+id: REQ-NTZ53E7
 type: software-requirement
 title: User account service stores the connection state
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: N. Kamal
 tags:
   - security
-parent: SYS-C4HEZ6
-order: 40
+former-id: SW-VQQQPQ
+parent: REQ-BF9Y5RT
+order: a3
 links:
   - type: refines
-    target: SYS-C4HEZ6
+    target: REQ-BF9Y5RT
     confirmed: d7ecad5f2748
 ---
 The telemetry pipeline shall authenticate the connection state within 200 ms.

@@ -1,15 +1,16 @@
 ---
-id: SYS-VPGXCD
+id: REQ-JXW2FTC
 type: system-requirement
 title: Mobile app limits user preferences
 status: Draft
 priority: Low
 owner: Y. Saber
-parent: INFO-2XXBRS
-order: 1800
+former-id: SYS-VPGXCD
+parent: REQ-QYXGSQ4
+order: b1t
 links:
   - type: refines
-    target: STK-HBX3YS
+    target: REQ-S86K9Q8
     confirmed: b42a2f94d25d
 ---
 The mobile app shall authenticate audit records within 200 ms.

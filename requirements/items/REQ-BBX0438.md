@@ -1,15 +1,16 @@
 ---
-id: TC-DAY0F3
+id: REQ-BBX0438
 type: test-case
 title: "Verify: Encryption layer authenticates the operating mode"
 status: Review
 priority: Medium
 owner: H. Mostafa
-parent: INFO-Z4TW4B
-order: 1500
+former-id: TC-DAY0F3
+parent: REQ-K6FGAY0
+order: b1P
 links:
   - type: verifies
-    target: SYS-3JQGM8
+    target: REQ-0A641HY
     confirmed: 9748f881870f
 ---
 **Objective:** verify that the encryption layer behaves as specified.

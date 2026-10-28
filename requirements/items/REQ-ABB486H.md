@@ -1,5 +1,5 @@
 ---
-id: SYS-1Q68X4
+id: REQ-ABB486H
 type: system-requirement
 title: Power supply calibrates audit records
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - accessibility
   - cost
-parent: INFO-A6P9A8
-order: 2390
+former-id: SYS-1Q68X4
+parent: REQ-CMCS31A
+order: b2q
 links:
   - type: refines
-    target: STK-TT8FXG
+    target: REQ-S1GZKZX
     confirmed: 85d87c7e9a76
 ---
 The power supply shall authenticate schedule entries using AES-256-GCM.

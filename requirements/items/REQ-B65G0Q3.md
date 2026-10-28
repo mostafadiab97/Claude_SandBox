@@ -1,5 +1,5 @@
 ---
-id: SW-QKQ5Y2
+id: REQ-B65G0Q3
 type: software-requirement
 title: Log the room temperature — detail
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - power
   - release-2.0
   - i18n
-parent: SW-6XP8WD
-order: 10
+former-id: SW-QKQ5Y2
+parent: REQ-QVQKKXP
+order: a0
 links:
   - type: refines
-    target: SW-6XP8WD
+    target: REQ-QVQKKXP
     confirmed: 7d377887eb21
 ---
 The pairing process shall synchronise error conditions without user interaction.

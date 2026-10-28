@@ -1,5 +1,5 @@
 ---
-id: TC-A4A8H7
+id: REQ-WJ6EFD2
 type: test-case
 title: "Verify: Menu system displays the connection state"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - performance
   - i18n
   - release-2.0
-parent: INFO-HTSZ15
-order: 1110
+former-id: TC-A4A8H7
+parent: REQ-Y9VHHKA
+order: b0m
 links:
   - type: verifies
-    target: SYS-YVNHRY
+    target: REQ-4J7N2CD
     confirmed: 586d305ca699
 ---
 **Objective:** verify that the menu system behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: DE-7T7H07
+id: REQ-PF9JVAY
 type: design-element
 title: Module home_dashboard_72
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: Y. Saber
 tags:
   - regulatory
-parent: SW-T1V1CG
-order: 10
+former-id: DE-7T7H07
+parent: REQ-K0QGYJV
+order: a0
 links:
   - type: implements
-    target: SW-T1V1CG
+    target: REQ-K0QGYJV
     confirmed: a1991242d91c
 ---
 Implemented in `src/app/home_dashboard.c`.

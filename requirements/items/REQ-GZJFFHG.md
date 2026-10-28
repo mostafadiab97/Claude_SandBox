@@ -1,5 +1,5 @@
 ---
-id: SW-DGP00F
+id: REQ-GZJFFHG
 type: software-requirement
 title: Wi-Fi module synchronises firmware images
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - cost
   - release-2.0
   - performance
-parent: SYS-0Z0CN7
-order: 10
+former-id: SW-DGP00F
+parent: REQ-JKGPFHC
+order: a0
 links:
   - type: refines
-    target: SYS-0Z0CN7
+    target: REQ-JKGPFHC
     confirmed: 08db9fc3bdee
 ---
 The Bluetooth LE link shall restore humidity values at least once per minute.

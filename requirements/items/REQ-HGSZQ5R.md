@@ -1,5 +1,5 @@
 ---
-id: DE-H2PWD8
+id: REQ-HGSZQ5R
 type: design-element
 title: Module tamper_detection_59
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 tags:
   - release-1.0
   - safety
-parent: SW-GBVWNQ
-order: 10
+former-id: DE-H2PWD8
+parent: REQ-BRP6PCV
+order: a0
 links:
   - type: implements
-    target: SW-GBVWNQ
+    target: REQ-BRP6PCV
     confirmed: ad7c25952295
 ---
 Implemented in `src/safe/tamper_detection.c`.

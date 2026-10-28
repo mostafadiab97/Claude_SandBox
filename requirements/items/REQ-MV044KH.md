@@ -1,15 +1,16 @@
 ---
-id: SW-NZDRT3
+id: REQ-MV044KH
 type: software-requirement
 title: Heating controller restores the operating mode
 status: Draft
 priority: Medium
 owner: É. Laurent
-parent: SYS-ZTBW13
-order: 30
+former-id: SW-NZDRT3
+parent: REQ-M3058GC
+order: a2
 links:
   - type: refines
-    target: SYS-ZTBW13
+    target: REQ-M3058GC
     confirmed: 32ef0f0cf1f9
 ---
 The regulation loop shall detect energy consumption using AES-256-GCM.

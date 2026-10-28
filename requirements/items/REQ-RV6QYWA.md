@@ -1,5 +1,5 @@
 ---
-id: TC-9JZTZ9
+id: REQ-RV6QYWA
 type: test-case
 title: "Verify: Heat pump driver encrypts the set point"
 status: Approved
@@ -8,14 +8,15 @@ owner: K. Tanaka
 tags:
   - cost
   - release-2.0
-parent: INFO-MS9DAG
-order: 1040
+former-id: TC-9JZTZ9
+parent: REQ-XGWSK2K
+order: b0f
 links:
   - type: verifies
-    target: SYS-4ZV4DE
+    target: REQ-68GER74
     confirmed: 67b9d1fd1831
   - type: verifies
-    target: SW-X3RYYN
+    target: REQ-8CPDZPR
     confirmed: 69878305bbf6
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

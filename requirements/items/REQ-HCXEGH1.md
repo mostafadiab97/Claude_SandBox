@@ -1,5 +1,5 @@
 ---
-id: IF-BK5KSV
+id: REQ-HCXEGH1
 type: interface-requirement
 title: Bluetooth LE link encrypts access tokens
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - cost
   - release-2.0
-parent: SYS-Y0WZNP
-order: 20
+former-id: IF-BK5KSV
+parent: REQ-SM8PJM5
+order: a1
 links:
   - type: refines
-    target: SYS-Y0WZNP
+    target: REQ-SM8PJM5
     confirmed: 2ca18a0adf4f
 ---
 The pairing process shall report safety limits using AES-256-GCM.

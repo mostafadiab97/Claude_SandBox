@@ -1,15 +1,16 @@
 ---
-id: HW-VAPZ12
+id: REQ-NJMQ56W
 type: hardware-requirement
 title: Cloud backend reports sensor readings
 status: Draft
 priority: Low
 owner: É. Laurent
-parent: SYS-5FQKC3
-order: 30
+former-id: HW-VAPZ12
+parent: REQ-QYR5017
+order: a2
 links:
   - type: refines
-    target: SYS-5FQKC3
+    target: REQ-QYR5017
     confirmed: 93e192f9b401
 ---
 The OTA server shall validate access tokens for up to 8 zones.

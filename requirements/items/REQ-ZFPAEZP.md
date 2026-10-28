@@ -1,15 +1,16 @@
 ---
-id: SYS-59QMSN
+id: REQ-ZFPAEZP
 type: system-requirement
 title: Device registry limits humidity values
 status: Review
 priority: High
 owner: M. Farouk
-parent: INFO-YV5EZD
-order: 1070
+former-id: SYS-59QMSN
+parent: REQ-RE9ZKHF
+order: b0i
 links:
   - type: refines
-    target: STK-DNB9QM
+    target: REQ-VPP3H2E
     confirmed: 90394ce55463
 ---
 The device registry shall notify schedule entries without user interaction.

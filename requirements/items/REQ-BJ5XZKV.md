@@ -1,15 +1,16 @@
 ---
-id: HW-S1C6X2
+id: REQ-BJ5XZKV
 type: hardware-requirement
 title: Tamper detection limits humidity values
 status: Approved
 priority: High
 owner: S. Adel
-parent: SYS-FMVZ4N
-order: 20
+former-id: HW-S1C6X2
+parent: REQ-QXZYXCA
+order: a1
 links:
   - type: refines
-    target: SYS-FMVZ4N
+    target: REQ-QXZYXCA
     confirmed: 64d198139b67
 ---
 The over-temperature monitor shall limit the connection state when the network is unavailable.

@@ -1,5 +1,5 @@
 ---
-id: TC-M1SK14
+id: REQ-FP61N79
 type: test-case
 title: "Verify: Device registry authenticates sensor readings"
 status: Draft
@@ -7,14 +7,15 @@ priority: Medium
 tags:
   - ux
   - connectivity
-parent: INFO-7P4D8D
-order: 1510
+former-id: TC-M1SK14
+parent: REQ-8351896
+order: b1Q
 links:
   - type: verifies
-    target: SYS-GBTGV5
+    target: REQ-5RN3ZTR
     confirmed: 3f594322748c
   - type: verifies
-    target: SW-EM8YM4
+    target: REQ-SMBPPQ6
     confirmed: 38ca4bb40969
 ---
 **Objective:** verify that the device registry behaves as specified.

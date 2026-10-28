@@ -1,11 +1,12 @@
 ---
-id: IF-ZBS9VS
+id: REQ-9X465RT
 type: interface-requirement
 title: "Signal 548: firmware images"
 status: Draft
 priority: High
 owner: A. Hassan
-parent: INFO-2TM0JP
-order: 5480
+former-id: IF-ZBS9VS
+parent: REQ-RJ0KHPT
+order: b7p
 ---
 Interface signal number 548.

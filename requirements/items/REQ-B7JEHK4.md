@@ -1,14 +1,15 @@
 ---
-id: HW-7G33Q7
+id: REQ-B7JEHK4
 type: hardware-requirement
 title: Tamper detection reports the set point
 status: Draft
 owner: A. Hassan
-parent: SYS-G5S6EX
-order: 10
+former-id: HW-7G33Q7
+parent: REQ-5HPPTRY
+order: a0
 links:
   - type: refines
-    target: SYS-G5S6EX
+    target: REQ-5HPPTRY
     confirmed: e5867026fabe
 ---
 The secure boot shall log energy consumption after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: HW-BWVYCZ
+id: REQ-HC2KHD1
 type: hardware-requirement
 title: Boiler interface synchronises the connection state
 status: Review
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - performance
   - connectivity
-parent: SYS-5K4SZ4
-order: 10
+former-id: HW-BWVYCZ
+parent: REQ-SAMMZE6
+order: a0
 links:
   - type: refines
-    target: SYS-5K4SZ4
+    target: REQ-SAMMZE6
     confirmed: d54198e7f559
 ---
 The zone valve shall authenticate safety limits after a power loss.

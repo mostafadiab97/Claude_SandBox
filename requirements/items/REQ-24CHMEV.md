@@ -1,5 +1,5 @@
 ---
-id: SW-WMVQJ5
+id: REQ-24CHMEV
 type: software-requirement
 title: Secure boot calibrates user preferences
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - safety
   - customer-request
   - i18n
-parent: SYS-RX90D9
-order: 10
+former-id: SW-WMVQJ5
+parent: REQ-P0BX3RG
+order: a0
 links:
   - type: refines
-    target: SYS-RX90D9
+    target: REQ-P0BX3RG
     confirmed: b0d94cbcb216
 ---
 The tamper detection shall encrypt sensor readings for up to 8 zones.

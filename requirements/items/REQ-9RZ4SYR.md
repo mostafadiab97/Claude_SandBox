@@ -1,14 +1,15 @@
 ---
-id: IF-NYBSM5
+id: REQ-9RZ4SYR
 type: interface-requirement
 title: Device registry synchronises sensor readings
 status: Obsolete
 owner: A. Hassan
-parent: SYS-J893M9
-order: 10
+former-id: IF-NYBSM5
+parent: REQ-0MFPXB1
+order: a0
 links:
   - type: refines
-    target: SYS-J893M9
+    target: REQ-0MFPXB1
     confirmed: 6ba2be2cebf8
 ---
 The user account service shall limit the set point after a power loss.

@@ -1,15 +1,16 @@
 ---
-id: HW-GVXTHV
+id: REQ-K8K2NVK
 type: hardware-requirement
 title: Enclosure notifys the room temperature
 status: Draft
 priority: Medium
 owner: محمد علي
-parent: SYS-82CVHQ
-order: 10
+former-id: HW-GVXTHV
+parent: REQ-TCRNYA1
+order: a0
 links:
   - type: refines
-    target: SYS-82CVHQ
+    target: REQ-TCRNYA1
     confirmed: 53eb98981ee7
 ---
 The power supply shall synchronise safety limits in all supported languages.

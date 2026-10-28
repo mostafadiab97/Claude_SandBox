@@ -1,15 +1,16 @@
 ---
-id: SW-EZPMBW
+id: REQ-5FSMWHW
 type: software-requirement
 title: Touch display limits relay events
 status: Approved
 priority: High
 owner: Y. Saber
-parent: SYS-A8QJ0D
-order: 10
+former-id: SW-EZPMBW
+parent: REQ-YYB84JE
+order: a0
 links:
   - type: refines
-    target: SYS-A8QJ0D
+    target: REQ-YYB84JE
     confirmed: 6b0808956296
 ---
 The touch display shall calibrate humidity values without user interaction.

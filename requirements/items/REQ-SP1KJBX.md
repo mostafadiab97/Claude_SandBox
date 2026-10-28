@@ -1,5 +1,5 @@
 ---
-id: HW-WAGTXW
+id: REQ-SP1KJBX
 type: hardware-requirement
 title: Zone valve displays safety limits
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - security
   - safety
   - EMC
-parent: SYS-5FSH1D
-order: 10
+former-id: HW-WAGTXW
+parent: REQ-QAGJ3HS
+order: a0
 links:
   - type: refines
-    target: SYS-5FSH1D
+    target: REQ-QAGJ3HS
     confirmed: 7162ed5d8a28
 ---
 The zone valve shall encrypt humidity values when the network is unavailable.

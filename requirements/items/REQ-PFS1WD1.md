@@ -1,5 +1,5 @@
 ---
-id: TC-WSVXN1
+id: REQ-PFS1WD1
 type: test-case
 title: "Verify: Notification service validates humidity values"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - EMC
   - release-2.0
   - power
-parent: INFO-J0FETE
-order: 1260
+former-id: TC-WSVXN1
+parent: REQ-WR5ZJN9
+order: b11
 links:
   - type: verifies
-    target: SYS-ZK10Z4
+    target: REQ-AN2GRAB
     confirmed: 0f09ad7fec21
   - type: verifies
-    target: SW-414298
+    target: REQ-SH47BVS
     confirmed: b8641cb76ea3
 ---
 **Objective:** verify that the notification service behaves as specified.

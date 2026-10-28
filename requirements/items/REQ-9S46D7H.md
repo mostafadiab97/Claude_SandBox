@@ -1,15 +1,16 @@
 ---
-id: HW-B88ET4
+id: REQ-9S46D7H
 type: hardware-requirement
 title: Report relay events — detail
 status: Draft
 priority: Medium
 owner: R. Nabil
-parent: HW-K4EQQV
-order: 10
+former-id: HW-B88ET4
+parent: REQ-1QSFPQE
+order: a0
 links:
   - type: refines
-    target: HW-K4EQQV
+    target: REQ-1QSFPQE
     confirmed: 2c98aea622bf
 ---
 The telemetry pipeline shall validate the connection state below 0.5 W in standby.

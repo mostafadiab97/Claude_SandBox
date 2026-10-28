@@ -1,5 +1,5 @@
 ---
-id: SW-WHR27K
+id: REQ-9EAJVGZ
 type: software-requirement
 title: Regulation loop synchronises the room temperature
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - cost
   - release-1.0
-parent: SYS-9RTKP2
-order: 20
+former-id: SW-WHR27K
+parent: REQ-R2V07V4
+order: a1
 links:
   - type: refines
-    target: SYS-9RTKP2
+    target: REQ-R2V07V4
     confirmed: 3379698ed305
 ---
 The heating controller shall store the set point in all supported languages.

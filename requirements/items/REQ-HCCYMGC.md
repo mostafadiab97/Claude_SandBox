@@ -1,5 +1,5 @@
 ---
-id: TC-TT8364
+id: REQ-HCCYMGC
 type: test-case
 title: "Verify: Pairing process validates energy consumption"
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - connectivity
   - release-1.0
-parent: INFO-F0M7VC
-order: 410
+former-id: TC-TT8364
+parent: REQ-67RQXCK
+order: ae
 links:
   - type: verifies
-    target: SYS-ZTJGBY
+    target: REQ-E7C83FN
     confirmed: bce29b6dd921
 ---
 **Objective:** verify that the pairing process behaves as specified.

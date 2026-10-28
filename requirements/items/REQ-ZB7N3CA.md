@@ -1,15 +1,16 @@
 ---
-id: SW-26XC1F
+id: REQ-ZB7N3CA
 type: software-requirement
 title: Touch display notifys user preferences
 status: Draft
 priority: Medium
 owner: Y. Saber
-parent: SYS-S17F3W
-order: 10
+former-id: SW-26XC1F
+parent: REQ-B5QM2ZG
+order: a0
 links:
   - type: refines
-    target: SYS-S17F3W
+    target: REQ-B5QM2ZG
     confirmed: 02e3c6ed2cec
 ---
 The menu system shall authenticate schedule entries without user interaction.

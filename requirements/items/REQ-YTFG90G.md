@@ -1,5 +1,5 @@
 ---
-id: SW-PZFQGD
+id: REQ-YTFG90G
 type: software-requirement
 title: Zone valve synchronises the room temperature
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - EMC
   - ux
   - customer-request
-parent: SYS-SDM6X9
-order: 10
+former-id: SW-PZFQGD
+parent: REQ-RD9SG3J
+order: a0
 links:
   - type: refines
-    target: SYS-SDM6X9
+    target: REQ-RD9SG3J
     confirmed: 7f15286cc504
 ---
 The heating controller shall calibrate the set point in under 3 s.

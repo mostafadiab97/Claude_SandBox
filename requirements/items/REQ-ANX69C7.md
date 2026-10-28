@@ -1,5 +1,5 @@
 ---
-id: TC-97A5NB
+id: REQ-ANX69C7
 type: test-case
 title: "Regression: Regulation loop encrypts the room temperature"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - customer-request
   - safety
-parent: INFO-ECHASH
-order: 1310
+former-id: TC-97A5NB
+parent: REQ-6H15AV2
+order: b16
 links:
   - type: verifies
-    target: SYS-8F73DW
+    target: REQ-QG4NKYK
     confirmed: 13efe84ae7ac
 ---
 **Objective:** verify that the device behaves as specified.

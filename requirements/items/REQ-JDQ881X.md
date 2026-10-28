@@ -1,5 +1,5 @@
 ---
-id: SW-S5B4K1
+id: REQ-JDQ881X
 type: software-requirement
 title: Local API reports the operating mode
 status: Review
@@ -8,11 +8,12 @@ tags:
   - release-2.0
   - customer-request
   - EMC
-parent: SYS-QXZ496
-order: 20
+former-id: SW-S5B4K1
+parent: REQ-P4GH0CZ
+order: a1
 links:
   - type: refines
-    target: SYS-QXZ496
+    target: REQ-P4GH0CZ
     confirmed: 2ec0e56a2793
 ---
 The Wi-Fi module shall log humidity values for at least 10 years.

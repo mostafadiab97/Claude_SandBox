@@ -1,5 +1,5 @@
 ---
-id: SW-R9KVRR
+id: REQ-G6XE2MB
 type: software-requirement
 title: Regulation loop measures audit records
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - performance
   - customer-request
   - ux
-parent: SYS-FY6GGE
-order: 20
+former-id: SW-R9KVRR
+parent: REQ-HCE87VW
+order: a1
 links:
   - type: refines
-    target: SYS-FY6GGE
+    target: REQ-HCE87VW
     confirmed: 9936c076515d
 ---
 The boiler interface shall encrypt audit records within 200 ms.

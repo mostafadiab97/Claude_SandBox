@@ -1,5 +1,5 @@
 ---
-id: SW-TW2DF9
+id: REQ-J10GYGS
 type: software-requirement
 title: Regulation loop calibrates user preferences
 status: Draft
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - release-1.0
   - security
-parent: SYS-S0DBYP
-order: 20
+former-id: SW-TW2DF9
+parent: REQ-9JWBDBH
+order: a1
 links:
   - type: refines
-    target: SYS-S0DBYP
+    target: REQ-9JWBDBH
     confirmed: edb84b967ce3
 ---
 The boiler interface shall limit the room temperature at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: SYS-6085Y8
+id: REQ-HZ7KKKF
 type: system-requirement
 title: Home dashboard calibrates audit records
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - ux
   - connectivity
-parent: INFO-2XXBRS
-order: 2050
+former-id: SYS-6085Y8
+parent: REQ-QYXGSQ4
+order: b2I
 links:
   - type: refines
-    target: STK-BR4RT9
+    target: REQ-QZME2VX
     confirmed: 16def0c1f947
 ---
 The home dashboard shall synchronise the set point within 200 ms.

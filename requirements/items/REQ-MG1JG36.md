@@ -1,17 +1,18 @@
 ---
-id: SYS-VH6JH8
+id: REQ-MG1JG36
 type: system-requirement
 title: Pairing process limits error conditions
 status: Approved
 owner: A. Hassan
-parent: INFO-NRVHA2
-order: 1580
+former-id: SYS-VH6JH8
+parent: REQ-6R94HFM
+order: b1X
 links:
   - type: refines
-    target: STK-AAZ4HV
+    target: REQ-M9DYEF5
     confirmed: 44fc7956dbf8
   - type: mitigates
-    target: RSK-QP0EFZ
+    target: REQ-JX165DV
     confirmed: b4372c636b9e
 ---
 The pairing process shall log energy consumption with an accuracy of ±0.5 °C.

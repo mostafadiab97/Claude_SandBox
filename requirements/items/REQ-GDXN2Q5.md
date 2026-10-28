@@ -1,5 +1,5 @@
 ---
-id: TC-JBA5HJ
+id: REQ-GDXN2Q5
 type: test-case
 title: "Verify: Heating controller synchronises user preferences"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - performance
   - release-1.0
   - security
-parent: INFO-MS9DAG
-order: 1060
+former-id: TC-JBA5HJ
+parent: REQ-XGWSK2K
+order: b0h
 links:
   - type: verifies
-    target: SYS-MEFF8R
+    target: REQ-CQQM0M4
     confirmed: f144cf8852e5
 ---
 **Objective:** verify that the heating controller behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SYS-SBQD9X
+id: REQ-XYGBK0A
 type: system-requirement
 title: Regulation loop displays sensor readings
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 tags:
   - i18n
   - cost
-parent: INFO-6DQTKV
-order: 2130
+former-id: SYS-SBQD9X
+parent: REQ-7ED7ZET
+order: b2Q
 links:
   - type: refines
-    target: STK-EWSQ9Z
+    target: REQ-GXKEHF3
     confirmed: aa5e4143dbe7
 ---
 The regulation loop shall report the operating mode in under 3 s.

@@ -1,5 +1,5 @@
 ---
-id: IF-ZDGWS8
+id: REQ-MAB3NEY
 type: interface-requirement
 title: Limit access tokens — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - i18n
   - customer-request
   - release-1.0
-parent: IF-7KANMN
-order: 10
+former-id: IF-ZDGWS8
+parent: REQ-J498535
+order: a0
 links:
   - type: refines
-    target: IF-7KANMN
+    target: REQ-J498535
     confirmed: 17e861d648f2
 ---
 The OTA server shall store sensor readings without user interaction.

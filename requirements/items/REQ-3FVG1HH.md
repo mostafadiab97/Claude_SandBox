@@ -1,15 +1,16 @@
 ---
-id: SYS-02QRPZ
+id: REQ-3FVG1HH
 type: system-requirement
 title: Local API synchronises error conditions
 status: Draft
 priority: Medium
 owner: J. Müller
-parent: INFO-NRVHA2
-order: 320
+former-id: SYS-02QRPZ
+parent: REQ-6R94HFM
+order: aV
 links:
   - type: refines
-    target: STK-XSZSEZ
+    target: REQ-YN3XNWJ
     confirmed: 1038f4e2e9d4
 ---
 The local API shall authenticate humidity values using AES-256-GCM.

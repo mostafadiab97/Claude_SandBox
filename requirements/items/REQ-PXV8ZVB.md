@@ -1,5 +1,5 @@
 ---
-id: SYS-N4973J
+id: REQ-PXV8ZVB
 type: system-requirement
 title: Menu system calibrates user preferences
 status: Approved
@@ -8,14 +8,15 @@ owner: L. Samir
 tags:
   - regulatory
   - performance
-parent: INFO-PDR6FV
-order: 160
+former-id: SYS-N4973J
+parent: REQ-2ZA2TRZ
+order: aF
 links:
   - type: refines
-    target: STK-BSSZ8Z
+    target: REQ-BREZDN1
     confirmed: eb15999e37f0
   - type: mitigates
-    target: RSK-VGP24B
+    target: REQ-W7BB6H5
     confirmed: b764dfff3d75
 ---
 The menu system shall store the connection state below 0.5 W in standby.

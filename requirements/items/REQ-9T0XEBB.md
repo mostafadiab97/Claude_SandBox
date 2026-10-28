@@ -1,5 +1,5 @@
 ---
-id: SYS-DVDRV2
+id: REQ-9T0XEBB
 type: system-requirement
 title: Pairing process validates audit records
 status: Review
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - performance
   - ux
-parent: INFO-NRVHA2
-order: 1770
+former-id: SYS-DVDRV2
+parent: REQ-6R94HFM
+order: b1q
 links:
   - type: refines
-    target: STK-5CT2VD
+    target: REQ-YDX9MVW
     confirmed: 51ca0f7a80ed
 ---
 The pairing process shall detect the room temperature using AES-256-GCM.

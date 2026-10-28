@@ -1,5 +1,5 @@
 ---
-id: SW-59CZVX
+id: REQ-N7K3TAW
 type: software-requirement
 title: Cloud backend detects sensor readings
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - connectivity
   - regulatory
-parent: SYS-6A5W87
-order: 30
+former-id: SW-59CZVX
+parent: REQ-9YN386K
+order: a2
 links:
   - type: refines
-    target: SYS-6A5W87
+    target: REQ-9YN386K
     confirmed: 739d6ec12ecc
 ---
 The telemetry pipeline shall synchronise relay events for up to 8 zones.

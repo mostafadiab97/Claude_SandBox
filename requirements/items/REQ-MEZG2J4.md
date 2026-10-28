@@ -1,5 +1,5 @@
 ---
-id: SYS-19PGBF
+id: REQ-MEZG2J4
 type: system-requirement
 title: Heating controller synchronises safety limits
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - cost
   - performance
-parent: INFO-6DQTKV
-order: 1390
+former-id: SYS-19PGBF
+parent: REQ-7ED7ZET
+order: b1E
 links:
   - type: refines
-    target: STK-NTBW06
+    target: REQ-S4C7PYC
     confirmed: d92faafa8cce
 ---
 The heating controller shall limit error conditions below 0.5 W in standby.

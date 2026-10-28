@@ -1,5 +1,5 @@
 ---
-id: SW-PMARPB
+id: REQ-38XYWS0
 type: software-requirement
 title: Touch display encrypts safety limits
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - connectivity
-parent: SYS-TFXCHW
-order: 10
+former-id: SW-PMARPB
+parent: REQ-3S6527M
+order: a0
 links:
   - type: refines
-    target: SYS-TFXCHW
+    target: REQ-3S6527M
     confirmed: e2bb9e80b6f4
 ---
 The status LED shall encrypt firmware images at least once per minute.

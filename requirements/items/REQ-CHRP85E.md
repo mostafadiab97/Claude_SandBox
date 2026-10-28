@@ -1,5 +1,5 @@
 ---
-id: SW-ADZYBB
+id: REQ-CHRP85E
 type: software-requirement
 title: Heating controller restores safety limits
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: S. Adel
 tags:
   - connectivity
-parent: SYS-SDM6X9
-order: 20
+former-id: SW-ADZYBB
+parent: REQ-RD9SG3J
+order: a1
 links:
   - type: refines
-    target: SYS-SDM6X9
+    target: REQ-RD9SG3J
     confirmed: 7f15286cc504
 ---
 The heating controller shall encrypt access tokens within 200 ms.

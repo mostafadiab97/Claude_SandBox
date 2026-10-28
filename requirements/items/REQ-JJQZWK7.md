@@ -1,5 +1,5 @@
 ---
-id: HW-5FQVCM
+id: REQ-JJQZWK7
 type: hardware-requirement
 title: Battery backup reports access tokens
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - performance
   - release-2.0
-parent: SYS-HRRNGW
-order: 10
+former-id: HW-5FQVCM
+parent: REQ-P7EBBT6
+order: a0
 links:
   - type: refines
-    target: SYS-HRRNGW
+    target: REQ-P7EBBT6
     confirmed: afbcfeedc1e2
 ---
 The power supply shall measure humidity values when the network is unavailable.

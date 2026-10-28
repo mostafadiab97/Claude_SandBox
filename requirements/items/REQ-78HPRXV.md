@@ -1,15 +1,16 @@
 ---
-id: HW-B9YTF5
+id: REQ-78HPRXV
 type: hardware-requirement
 title: User account service validates user preferences
 status: Draft
 priority: High
 owner: محمد علي
-parent: SYS-5N0YKT
-order: 10
+former-id: HW-B9YTF5
+parent: REQ-EFBR2PC
+order: a0
 links:
   - type: refines
-    target: SYS-5N0YKT
+    target: REQ-EFBR2PC
     confirmed: 08567b44affd
 ---
 The OTA server shall synchronise audit records when the network is unavailable.

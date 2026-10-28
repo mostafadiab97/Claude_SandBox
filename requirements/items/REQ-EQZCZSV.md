@@ -1,5 +1,5 @@
 ---
-id: SYS-1KYW4V
+id: REQ-EQZCZSV
 type: system-requirement
 title: Zigbee radio reports sensor readings
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - regulatory
   - EMC
-parent: INFO-NRVHA2
-order: 1050
+former-id: SYS-1KYW4V
+parent: REQ-6R94HFM
+order: b0g
 links:
   - type: refines
-    target: STK-AAZ4HV
+    target: REQ-M9DYEF5
     confirmed: 44fc7956dbf8
 ---
 The Zigbee radio shall synchronise schedule entries at least once per minute.

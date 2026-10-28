@@ -1,5 +1,5 @@
 ---
-id: HW-4CZ2Z7
+id: REQ-GN27Q1V
 type: hardware-requirement
 title: Relay board validates relay events
 status: Review
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - EMC
   - performance
-parent: SYS-A4N3W7
-order: 30
+former-id: HW-4CZ2Z7
+parent: REQ-NAFYXZ5
+order: a2
 links:
   - type: refines
-    target: SYS-A4N3W7
+    target: REQ-NAFYXZ5
     confirmed: c7593929dc3f
 ---
 The enclosure shall validate safety limits after a power loss.

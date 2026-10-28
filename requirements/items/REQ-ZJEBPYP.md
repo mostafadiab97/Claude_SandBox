@@ -1,14 +1,15 @@
 ---
-id: TC-NV6FY8
+id: REQ-ZJEBPYP
 type: test-case
 title: "Verify: Over-temperature monitor reports sensor readings"
 status: Draft
 owner: Y. Saber
-parent: INFO-Z4TW4B
-order: 1110
+former-id: TC-NV6FY8
+parent: REQ-K6FGAY0
+order: b0m
 links:
   - type: verifies
-    target: SYS-TMA5SV
+    target: REQ-N3FW0BX
     confirmed: dbbdc041687a
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

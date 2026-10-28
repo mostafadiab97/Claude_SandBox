@@ -1,15 +1,16 @@
 ---
-id: IF-3YD57B
+id: REQ-49CVZMR
 type: interface-requirement
 title: Home dashboard encrypts sensor readings
 status: Approved
 priority: Medium
 owner: M. Farouk
-parent: SYS-0847E1
-order: 20
+former-id: IF-3YD57B
+parent: REQ-5KHGZ49
+order: a1
 links:
   - type: refines
-    target: SYS-0847E1
+    target: REQ-5KHGZ49
     confirmed: d8c0c127c7a5
 ---
 The notification service shall validate the operating mode in all supported languages.

@@ -1,15 +1,16 @@
 ---
-id: TC-BGCGHB
+id: REQ-P9C42E0
 type: test-case
 title: Hub verification 31
 status: Obsolete
 priority: Low
 owner: Y. Saber
-parent: INFO-ECHASH
-order: 400
+former-id: TC-BGCGHB
+parent: REQ-6H15AV2
+order: ad
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

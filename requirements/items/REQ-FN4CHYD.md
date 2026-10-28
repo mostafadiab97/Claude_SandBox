@@ -1,5 +1,5 @@
 ---
-id: TC-2WXZ7W
+id: REQ-FN4CHYD
 type: test-case
 title: "Verify: Main PCB authenticates audit records"
 status: Draft
@@ -8,14 +8,15 @@ owner: M. Farouk
 tags:
   - release-1.0
   - connectivity
-parent: INFO-MACGC3
-order: 10
+former-id: TC-2WXZ7W
+parent: REQ-F9Z1FYS
+order: a0
 links:
   - type: verifies
-    target: SYS-SGGFKV
+    target: REQ-E8T9V5N
     confirmed: 04cafacc256c
   - type: verifies
-    target: SW-HTZ4P2
+    target: REQ-4FXDKGB
     confirmed: f22ec30444a4
 ---
 **Objective:** verify that the main PCB behaves as specified.

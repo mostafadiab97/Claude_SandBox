@@ -1,15 +1,16 @@
 ---
-id: HW-8H36B7
+id: REQ-EDR9MM0
 type: hardware-requirement
 title: Notify the operating mode — detail
 status: Review
 priority: Medium
 owner: N. Kamal
-parent: HW-M4KA6C
-order: 10
+former-id: HW-8H36B7
+parent: REQ-SME9VZV
+order: a0
 links:
   - type: refines
-    target: HW-M4KA6C
+    target: REQ-SME9VZV
     confirmed: 7a835335193e
 ---
 The backlight shall notify the set point at least once per minute.

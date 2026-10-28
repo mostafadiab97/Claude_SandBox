@@ -1,5 +1,5 @@
 ---
-id: TC-MYDXYY
+id: REQ-E1AKEG7
 type: test-case
 title: "Regression: Over-temperature monitor encrypts access tokens"
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - security
   - regulatory
-parent: INFO-ECHASH
-order: 660
+former-id: TC-MYDXYY
+parent: REQ-6H15AV2
+order: b03
 links:
   - type: verifies
-    target: SYS-2ZWKRN
+    target: REQ-7EHG9PS
     confirmed: da49b7d4a05b
 ---
 **Objective:** verify that the device behaves as specified.

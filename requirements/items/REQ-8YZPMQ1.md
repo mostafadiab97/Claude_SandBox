@@ -1,5 +1,5 @@
 ---
-id: TC-TKAQYX
+id: REQ-8YZPMQ1
 type: test-case
 title: "Verify: Heat pump driver limits the operating mode"
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - release-2.0
   - EMC
   - safety
-parent: INFO-MS9DAG
-order: 1390
+former-id: TC-TKAQYX
+parent: REQ-XGWSK2K
+order: b1E
 links:
   - type: verifies
-    target: SYS-3NFK47
+    target: REQ-4XY0BS3
     confirmed: a62ecfbf4557
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

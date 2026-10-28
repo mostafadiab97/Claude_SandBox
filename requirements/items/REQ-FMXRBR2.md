@@ -1,5 +1,5 @@
 ---
-id: SYS-DT8Z3K
+id: REQ-FMXRBR2
 type: system-requirement
 title: Mobile app displays the set point
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: N. Kamal
 tags:
   - i18n
-parent: INFO-2XXBRS
-order: 310
+former-id: SYS-DT8Z3K
+parent: REQ-QYXGSQ4
+order: aU
 links:
   - type: refines
-    target: STK-F8MTPC
+    target: REQ-1ZYN1HD
     confirmed: bbf5b4f56657
 ---
 The mobile app shall notify safety limits within 200 ms.

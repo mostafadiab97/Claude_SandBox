@@ -1,5 +1,5 @@
 ---
-id: SW-C37H45
+id: REQ-40QYD8A
 type: software-requirement
 title: Backlight switchs sensor readings
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 tags:
   - cost
   - EMC
-parent: SYS-F28JAH
-order: 10
+former-id: SW-C37H45
+parent: REQ-XY2H6BS
+order: a0
 links:
   - type: refines
-    target: SYS-F28JAH
+    target: REQ-XY2H6BS
     confirmed: d2f3c3322d09
 ---
 The menu system shall store the connection state within 200 ms.

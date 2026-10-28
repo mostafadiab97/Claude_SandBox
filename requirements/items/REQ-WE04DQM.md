@@ -1,15 +1,16 @@
 ---
-id: HW-W7FJJ2
+id: REQ-WE04DQM
 type: hardware-requirement
 title: Status LED reports audit records
 status: Approved
 priority: High
 owner: R. Nabil
-parent: SYS-F28JAH
-order: 20
+former-id: HW-W7FJJ2
+parent: REQ-XY2H6BS
+order: a1
 links:
   - type: refines
-    target: SYS-F28JAH
+    target: REQ-XY2H6BS
     confirmed: d2f3c3322d09
 ---
 The menu system shall measure energy consumption without user interaction.

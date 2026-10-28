@@ -1,5 +1,5 @@
 ---
-id: SW-YYD8MJ
+id: REQ-AMHVX2H
 type: software-requirement
 title: Heating controller notifys sensor readings
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: A. Hassan
 tags:
   - safety
-parent: SYS-B37W64
-order: 20
+former-id: SW-YYD8MJ
+parent: REQ-FEE2S5J
+order: a1
 links:
   - type: refines
-    target: SYS-B37W64
+    target: REQ-FEE2S5J
     confirmed: 708e0f664c1b
 ---
 The heating controller shall report sensor readings when the network is unavailable.

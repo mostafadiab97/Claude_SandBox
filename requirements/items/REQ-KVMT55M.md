@@ -1,5 +1,5 @@
 ---
-id: TC-FKE04G
+id: REQ-KVMT55M
 type: test-case
 title: "Verify: Over-temperature monitor detects schedule entries"
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - regulatory
   - i18n
   - cost
-parent: INFO-Z4TW4B
-order: 1260
+former-id: TC-FKE04G
+parent: REQ-K6FGAY0
+order: b11
 links:
   - type: verifies
-    target: SYS-KVH0QX
+    target: REQ-7Z26VSZ
     confirmed: 12318aa6eb13
   - type: verifies
-    target: SW-Q2JAQQ
+    target: REQ-1VYDFK2
     confirmed: 8a35d4be4b3a
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

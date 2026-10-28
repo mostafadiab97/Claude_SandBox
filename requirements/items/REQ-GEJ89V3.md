@@ -1,5 +1,5 @@
 ---
-id: SW-E8FZB9
+id: REQ-GEJ89V3
 type: software-requirement
 title: Backlight displays sensor readings
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - accessibility
   - cost
-parent: SYS-PRE7SJ
-order: 40
+former-id: SW-E8FZB9
+parent: REQ-HXQ458K
+order: a3
 links:
   - type: refines
-    target: SYS-PRE7SJ
+    target: REQ-HXQ458K
     confirmed: 690f18343fde
 ---
 The touch display shall measure firmware images below 0.5 W in standby.

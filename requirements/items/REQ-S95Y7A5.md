@@ -1,15 +1,16 @@
 ---
-id: HW-JWNCT2
+id: REQ-S95Y7A5
 type: hardware-requirement
 title: Bluetooth LE link notifys humidity values
 status: Review
 priority: Medium
 owner: É. Laurent
-parent: SYS-KMXB94
-order: 10
+former-id: HW-JWNCT2
+parent: REQ-6CVFK0C
+order: a0
 links:
   - type: refines
-    target: SYS-KMXB94
+    target: REQ-6CVFK0C
     confirmed: ef5919f87358
 ---
 The pairing process shall limit schedule entries within 200 ms.

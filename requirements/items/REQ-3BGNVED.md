@@ -1,5 +1,5 @@
 ---
-id: HW-R1226R
+id: REQ-3BGNVED
 type: hardware-requirement
 title: Main PCB limits the operating mode
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - i18n
   - regulatory
-parent: SYS-3W1S3B
-order: 40
+former-id: HW-R1226R
+parent: REQ-7A42WZ4
+order: a3
 links:
   - type: refines
-    target: SYS-3W1S3B
+    target: REQ-7A42WZ4
     confirmed: a83839a61248
 ---
 The enclosure shall restore humidity values without user interaction.

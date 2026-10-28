@@ -1,5 +1,5 @@
 ---
-id: TC-WPSM8K
+id: REQ-A2CTAK9
 type: test-case
 title: "Regression: Backlight restores the operating mode"
 status: Draft
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - connectivity
   - power
-parent: INFO-ECHASH
-order: 920
+former-id: TC-WPSM8K
+parent: REQ-6H15AV2
+order: b0T
 links:
   - type: verifies
-    target: SYS-8FP865
+    target: REQ-80WBXJW
     confirmed: c59e7f0fde76
 ---
 **Objective:** verify that the device behaves as specified.

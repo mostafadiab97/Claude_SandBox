@@ -1,5 +1,5 @@
 ---
-id: TC-49E755
+id: REQ-FV9RMQK
 type: test-case
 title: "Verify: Telemetry pipeline restores schedule entries"
 status: Draft
@@ -8,14 +8,15 @@ owner: L. Samir
 tags:
   - safety
   - power
-parent: INFO-7P4D8D
-order: 1340
+former-id: TC-49E755
+parent: REQ-8351896
+order: b19
 links:
   - type: verifies
-    target: SYS-X4ZQAJ
+    target: REQ-A5VJKDZ
     confirmed: 6b28de77da9f
   - type: verifies
-    target: SW-73NZH2
+    target: REQ-2AFGFSP
     confirmed: 9395fb23e6ef
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

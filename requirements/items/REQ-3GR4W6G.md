@@ -1,18 +1,19 @@
 ---
-id: TC-5GEY27
+id: REQ-3GR4W6G
 type: test-case
 title: "Verify: Regulation loop reports sensor readings"
 status: Approved
 priority: Medium
 owner: É. Laurent
-parent: INFO-MS9DAG
-order: 1530
+former-id: TC-5GEY27
+parent: REQ-XGWSK2K
+order: b1S
 links:
   - type: verifies
-    target: SYS-6B3TJP
+    target: REQ-7FSGQXD
     confirmed: e1f0da4672bf
   - type: verifies
-    target: SW-SFAEZ9
+    target: REQ-WE800TM
     confirmed: efde7dfddc3b
 ---
 **Objective:** verify that the regulation loop behaves as specified.

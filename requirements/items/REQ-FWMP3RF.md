@@ -1,5 +1,5 @@
 ---
-id: HW-QGNF43
+id: REQ-FWMP3RF
 type: hardware-requirement
 title: Main PCB calibrates energy consumption
 status: Obsolete
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - safety
   - security
-parent: SYS-QJNNZD
-order: 20
+former-id: HW-QGNF43
+parent: REQ-2ST0NQA
+order: a1
 links:
   - type: refines
-    target: SYS-QJNNZD
+    target: REQ-2ST0NQA
     confirmed: 220d5e428bbc
 ---
 The battery backup shall validate humidity values with an accuracy of ±0.5 °C.

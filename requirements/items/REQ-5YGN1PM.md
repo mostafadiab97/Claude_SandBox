@@ -1,15 +1,16 @@
 ---
-id: TC-7Z8CCF
+id: REQ-5YGN1PM
 type: test-case
 title: "Verify: Login screen stores relay events"
 status: Draft
 priority: High
 owner: محمد علي
-parent: INFO-J0FETE
-order: 650
+former-id: TC-7Z8CCF
+parent: REQ-WR5ZJN9
+order: b02
 links:
   - type: verifies
-    target: SYS-0YN9CR
+    target: REQ-EK2Z568
     confirmed: fd79ba8f2af2
 ---
 **Objective:** verify that the login screen behaves as specified.

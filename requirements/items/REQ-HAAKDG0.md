@@ -1,15 +1,16 @@
 ---
-id: SYS-H16WP1
+id: REQ-HAAKDG0
 type: system-requirement
 title: Watchdog limits humidity values
 status: Draft
 priority: Medium
 owner: S. Adel
-parent: INFO-0229G8
-order: 1610
+former-id: SYS-H16WP1
+parent: REQ-H9113WA
+order: b1a
 links:
   - type: refines
-    target: STK-DJ9M3M
+    target: REQ-375SK1B
     confirmed: ba30e28a130f
 ---
 The watchdog shall calibrate the set point for up to 8 zones.

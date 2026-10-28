@@ -1,5 +1,5 @@
 ---
-id: IF-TX8J9B
+id: REQ-QQ5RFJE
 type: interface-requirement
 title: "Signal 122: sensor readings"
 status: Review
@@ -8,7 +8,8 @@ owner: S. Adel
 tags:
   - EMC
   - customer-request
-parent: INFO-2TM0JP
-order: 1220
+former-id: IF-TX8J9B
+parent: REQ-RJ0KHPT
+order: b0x
 ---
 Interface signal number 122.

@@ -1,15 +1,16 @@
 ---
-id: SYS-GYMKHD
+id: REQ-FZE217Y
 type: system-requirement
 title: Battery backup switchs humidity values
 status: Draft
 priority: Medium
 owner: L. Samir
-parent: INFO-A6P9A8
-order: 1440
+former-id: SYS-GYMKHD
+parent: REQ-CMCS31A
+order: b1J
 links:
   - type: refines
-    target: STK-4NGQJ5
+    target: REQ-4H1F9N3
     confirmed: 96640a7e340d
 ---
 The battery backup shall notify access tokens when the network is unavailable.

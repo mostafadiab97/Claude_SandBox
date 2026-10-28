@@ -1,14 +1,15 @@
 ---
-id: HW-0QWM5R
+id: REQ-WQ1347T
 type: hardware-requirement
 title: Power supply synchronises the operating mode
 status: Approved
 priority: High
-parent: SYS-FDZDPZ
-order: 10
+former-id: HW-0QWM5R
+parent: REQ-MZKPTF9
+order: a0
 links:
   - type: refines
-    target: SYS-FDZDPZ
+    target: REQ-MZKPTF9
     confirmed: 6777c9b563e8
 ---
 The power supply shall limit energy consumption below 0.5 W in standby.

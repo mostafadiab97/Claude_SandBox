@@ -1,12 +1,13 @@
 ---
-id: RSK-ZJD18Y
+id: REQ-CQZ15PG
 type: risk
 title: "Risk: touch display fails to encrypt sensor readings"
 status: Draft
 priority: Medium
 owner: R. Nabil
-parent: INFO-0V9DV4
-order: 90
+former-id: RSK-ZJD18Y
+parent: REQ-HHCVAFQ
+order: a8
 ---
 **Hazard:** the touch display could fail to switch the room temperature.
 

@@ -1,5 +1,5 @@
 ---
-id: TC-B49CJC
+id: REQ-0FM429R
 type: test-case
 title: "Verify: User account service reports schedule entries"
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - security
   - accessibility
-parent: INFO-7P4D8D
-order: 1440
+former-id: TC-B49CJC
+parent: REQ-8351896
+order: b1J
 links:
   - type: verifies
-    target: SYS-EGXJY6
+    target: REQ-2PQ5B0D
     confirmed: 3e6744bf9b31
 ---
 **Objective:** verify that the user account service behaves as specified.

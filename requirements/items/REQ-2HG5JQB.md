@@ -1,15 +1,16 @@
 ---
-id: SW-2FBRJB
+id: REQ-2HG5JQB
 type: software-requirement
 title: Mobile app validates the connection state
 status: Draft
 priority: Medium
 owner: Y. Saber
-parent: SYS-64QHS8
-order: 40
+former-id: SW-2FBRJB
+parent: REQ-6CNE4KJ
+order: a3
 links:
   - type: refines
-    target: SYS-64QHS8
+    target: REQ-6CNE4KJ
     confirmed: 16f3ad7fdfaa
 ---
 The mobile app shall log the room temperature at least once per minute.

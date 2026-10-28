@@ -1,5 +1,5 @@
 ---
-id: TC-8NT63R
+id: REQ-PEMXR3R
 type: test-case
 title: "Verify: Enclosure notifys error conditions"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - security
   - customer-request
-parent: INFO-MACGC3
-order: 650
+former-id: TC-8NT63R
+parent: REQ-F9Z1FYS
+order: b02
 links:
   - type: verifies
-    target: SYS-QRF69W
+    target: REQ-2D06W8P
     confirmed: 3f29c139da8b
 ---
 **Objective:** verify that the enclosure behaves as specified.

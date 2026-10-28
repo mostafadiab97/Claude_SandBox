@@ -1,5 +1,5 @@
 ---
-id: SYS-BJ0Q20
+id: REQ-J216NC7
 type: system-requirement
 title: Bluetooth LE link measures audit records
 status: Approved
@@ -7,14 +7,15 @@ priority: Low
 tags:
   - i18n
   - cost
-parent: INFO-NRVHA2
-order: 1680
+former-id: SYS-BJ0Q20
+parent: REQ-6R94HFM
+order: b1h
 links:
   - type: refines
-    target: STK-71VSKB
+    target: REQ-8TVXMWR
     confirmed: 994ecb1eff6f
   - type: mitigates
-    target: RSK-PV2FA3
+    target: REQ-Q62VTZF
     confirmed: b0d749ed0447
 ---
 The Bluetooth LE link shall display schedule entries for at least 10 years.

@@ -1,15 +1,16 @@
 ---
-id: SYS-01CMP1
+id: REQ-R8WGBYX
 type: system-requirement
 title: Secure boot notifys audit records
 status: Approved
 priority: High
 owner: H. Mostafa
-parent: INFO-0229G8
-order: 1660
+former-id: SYS-01CMP1
+parent: REQ-H9113WA
+order: b1f
 links:
   - type: refines
-    target: STK-XSQC89
+    target: REQ-Y7E2CS3
     confirmed: 66c246d6b1dc
 ---
 The secure boot shall calibrate audit records after a power loss.

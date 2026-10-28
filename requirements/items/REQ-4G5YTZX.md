@@ -1,5 +1,5 @@
 ---
-id: HW-A3TW7E
+id: REQ-4G5YTZX
 type: hardware-requirement
 title: Tamper detection authenticates energy consumption
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - accessibility
-parent: SYS-BHD8S6
-order: 40
+former-id: HW-A3TW7E
+parent: REQ-YC34KJR
+order: a3
 links:
   - type: refines
-    target: SYS-BHD8S6
+    target: REQ-YC34KJR
     confirmed: b4b9539a5d88
 ---
 The encryption layer shall calibrate access tokens after a power loss.

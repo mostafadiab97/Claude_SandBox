@@ -1,5 +1,5 @@
 ---
-id: SYS-TN491Q
+id: REQ-CQ79VNW
 type: system-requirement
 title: Over-temperature monitor notifys humidity values
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - regulatory
   - safety
-parent: INFO-0229G8
-order: 1050
+former-id: SYS-TN491Q
+parent: REQ-H9113WA
+order: b0g
 links:
   - type: refines
-    target: STK-XSQC89
+    target: REQ-Y7E2CS3
     confirmed: 66c246d6b1dc
 ---
 The over-temperature monitor shall limit humidity values after a power loss.

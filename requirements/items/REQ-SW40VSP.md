@@ -1,5 +1,5 @@
 ---
-id: HW-SZ2WS0
+id: REQ-SW40VSP
 type: hardware-requirement
 title: Enclosure switchs schedule entries
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: L. Samir
 tags:
   - cost
-parent: SYS-X20Q9Q
-order: 30
+former-id: HW-SZ2WS0
+parent: REQ-Q5CSCWN
+order: a2
 links:
   - type: refines
-    target: SYS-X20Q9Q
+    target: REQ-Q5CSCWN
     confirmed: 872e82d5e322
 ---
 The relay board shall display relay events in all supported languages.

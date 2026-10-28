@@ -1,5 +1,5 @@
 ---
-id: HW-Q9FW3C
+id: REQ-KDJ12C9
 type: hardware-requirement
 title: Enclosure switchs firmware images
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - regulatory
   - ux
-parent: SYS-RZG5Z7
-order: 10
+former-id: HW-Q9FW3C
+parent: REQ-4VG8C6T
+order: a0
 links:
   - type: refines
-    target: SYS-RZG5Z7
+    target: REQ-4VG8C6T
     confirmed: 75e860ade9bd
 ---
 The enclosure shall restore energy consumption for at least 10 years.

@@ -1,5 +1,5 @@
 ---
-id: SW-5PK060
+id: REQ-VFASXD2
 type: software-requirement
 title: User account service measures relay events
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - safety
   - cost
   - accessibility
-parent: SYS-X4ZQAJ
-order: 20
+former-id: SW-5PK060
+parent: REQ-A5VJKDZ
+order: a1
 links:
   - type: refines
-    target: SYS-X4ZQAJ
+    target: REQ-A5VJKDZ
     confirmed: 6b28de77da9f
 ---
 The telemetry pipeline shall validate error conditions for at least 10 years.

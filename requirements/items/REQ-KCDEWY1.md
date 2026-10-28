@@ -1,5 +1,5 @@
 ---
-id: IF-030AAN
+id: REQ-KCDEWY1
 type: interface-requirement
 title: Heat pump driver calibrates audit records
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - i18n
   - security
-parent: SYS-6VZFH1
-order: 20
+former-id: IF-030AAN
+parent: REQ-18EFAG8
+order: a1
 links:
   - type: refines
-    target: SYS-6VZFH1
+    target: REQ-18EFAG8
     confirmed: 2c2479704519
 ---
 The zone valve shall display sensor readings without user interaction.

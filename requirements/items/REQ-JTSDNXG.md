@@ -1,5 +1,5 @@
 ---
-id: IF-HNKVAG
+id: REQ-JTSDNXG
 type: interface-requirement
 title: Regulation loop notifys relay events
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - cost
   - connectivity
   - ux
-parent: SYS-E70SS0
-order: 20
+former-id: IF-HNKVAG
+parent: REQ-NFV2K0G
+order: a1
 links:
   - type: refines
-    target: SYS-E70SS0
+    target: REQ-NFV2K0G
     confirmed: 230b3d3629fc
 ---
 The heat pump driver shall store schedule entries after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: SYS-C5SNMV
+id: REQ-774FTE6
 type: system-requirement
 title: Zigbee radio measures the connection state
 status: Review
@@ -9,14 +9,15 @@ tags:
   - release-2.0
   - EMC
   - customer-request
-parent: INFO-NRVHA2
-order: 1890
+former-id: SYS-C5SNMV
+parent: REQ-6R94HFM
+order: b22
 links:
   - type: refines
-    target: STK-XSZSEZ
+    target: REQ-YN3XNWJ
     confirmed: 1038f4e2e9d4
   - type: mitigates
-    target: RSK-QP0EFZ
+    target: REQ-JX165DV
     confirmed: b4372c636b9e
 ---
 The Zigbee radio shall log energy consumption when the network is unavailable.

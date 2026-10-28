@@ -1,13 +1,14 @@
 ---
-id: SW-4WB9DF
+id: REQ-GCYXDA2
 type: software-requirement
 title: Notify error conditions — detail
 status: Obsolete
-parent: SW-54JE3M
-order: 10
+former-id: SW-4WB9DF
+parent: REQ-FKMVR7K
+order: a0
 links:
   - type: refines
-    target: SW-54JE3M
+    target: REQ-FKMVR7K
     confirmed: 48914f25607c
 ---
 The Bluetooth LE link shall display the set point without user interaction.

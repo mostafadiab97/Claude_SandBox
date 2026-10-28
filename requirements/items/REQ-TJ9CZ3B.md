@@ -1,15 +1,16 @@
 ---
-id: SW-72GHQ2
+id: REQ-TJ9CZ3B
 type: software-requirement
 title: Backlight authenticates audit records
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: SYS-J7BTY7
-order: 30
+former-id: SW-72GHQ2
+parent: REQ-22M9B7Z
+order: a2
 links:
   - type: refines
-    target: SYS-J7BTY7
+    target: REQ-22M9B7Z
     confirmed: 407923e760c5
 ---
 The status LED shall encrypt access tokens without user interaction.

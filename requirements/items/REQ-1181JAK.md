@@ -1,15 +1,16 @@
 ---
-id: TC-0EJNEZ
+id: REQ-1181JAK
 type: test-case
 title: "Verify: Notification service logs user preferences"
 status: Approved
 priority: Medium
 owner: محمد علي
-parent: INFO-J0FETE
-order: 680
+former-id: TC-0EJNEZ
+parent: REQ-WR5ZJN9
+order: b05
 links:
   - type: verifies
-    target: SYS-7QNRB0
+    target: REQ-WEBDC12
     confirmed: a3f05325ad0a
 ---
 **Objective:** verify that the notification service behaves as specified.

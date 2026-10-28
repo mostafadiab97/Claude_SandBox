@@ -1,15 +1,16 @@
 ---
-id: SW-AM74GS
+id: REQ-SNG0H08
 type: software-requirement
 title: Local API encrypts firmware images
 status: Obsolete
 priority: Low
 owner: K. Tanaka
-parent: SYS-ERGMGJ
-order: 30
+former-id: SW-AM74GS
+parent: REQ-CQD0SRB
+order: a2
 links:
   - type: refines
-    target: SYS-ERGMGJ
+    target: REQ-CQD0SRB
     confirmed: 4e0d29ca2f08
 ---
 The Zigbee radio shall validate error conditions when the network is unavailable.

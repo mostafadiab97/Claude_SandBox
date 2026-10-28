@@ -1,15 +1,16 @@
 ---
-id: HW-GEJJA9
+id: REQ-9GD6EY8
 type: hardware-requirement
 title: Status LED validates the connection state
 status: Draft
 priority: Medium
 owner: N. Kamal
-parent: SYS-J7M5Y0
-order: 10
+former-id: HW-GEJJA9
+parent: REQ-6FQ9EV2
+order: a0
 links:
   - type: refines
-    target: SYS-J7M5Y0
+    target: REQ-6FQ9EV2
     confirmed: 48e9db75f26c
 ---
 The touch display shall detect the operating mode after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: UC-WTYCGM
+id: REQ-5WSKWZE
 type: use-case
 title: "UC: Store relay events with the encryption layer"
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: É. Laurent
 tags:
   - connectivity
-parent: INFO-RE7JP9
-order: 170
+former-id: UC-WTYCGM
+parent: REQ-3EBQKRK
+order: aG
 links:
   - type: relates-to
-    target: STK-7X7S81
+    target: REQ-N96QXC6
     confirmed: 0b0c08c75491
 ---
 **Actor:** home owner

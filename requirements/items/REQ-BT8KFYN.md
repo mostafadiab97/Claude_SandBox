@@ -1,5 +1,5 @@
 ---
-id: SYS-PBA89X
+id: REQ-BT8KFYN
 type: system-requirement
 title: Rotary knob authenticates audit records
 status: Obsolete
@@ -9,14 +9,15 @@ tags:
   - regulatory
   - performance
   - accessibility
-parent: INFO-PDR6FV
-order: 210
+former-id: SYS-PBA89X
+parent: REQ-2ZA2TRZ
+order: aK
 links:
   - type: refines
-    target: STK-HH6ZNR
+    target: REQ-PPDBMB4
     confirmed: caa77fe9df1c
   - type: mitigates
-    target: RSK-ZJD18Y
+    target: REQ-CQZ15PG
     confirmed: 94e509946a5c
 ---
 The rotary knob shall detect firmware images within 200 ms.

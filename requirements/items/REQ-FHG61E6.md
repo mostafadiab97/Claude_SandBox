@@ -1,5 +1,5 @@
 ---
-id: HW-7RKBYY
+id: REQ-FHG61E6
 type: hardware-requirement
 title: Detect user preferences — detail
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: محمد علي
 tags:
   - safety
-parent: HW-54MA87
-order: 10
+former-id: HW-7RKBYY
+parent: REQ-R2DHECY
+order: a0
 links:
   - type: refines
-    target: HW-54MA87
+    target: REQ-R2DHECY
     confirmed: d9fe6ad4720b
 ---
 The user account service shall detect energy consumption for at least 10 years.

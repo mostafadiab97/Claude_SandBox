@@ -1,5 +1,5 @@
 ---
-id: TC-BR99RE
+id: REQ-RY4TDX8
 type: test-case
 title: "Verify: Regulation loop validates user preferences"
 status: Draft
@@ -7,14 +7,15 @@ priority: Low
 owner: J. Müller
 tags:
   - release-2.0
-parent: INFO-MS9DAG
-order: 460
+former-id: TC-BR99RE
+parent: REQ-XGWSK2K
+order: aj
 links:
   - type: verifies
-    target: SYS-XW4JM5
+    target: REQ-055JC9M
     confirmed: ed6d4a00a62b
   - type: verifies
-    target: SW-N2SS39
+    target: REQ-WKYH3S2
     confirmed: 50e7f7afa151
 ---
 **Objective:** verify that the regulation loop behaves as specified.

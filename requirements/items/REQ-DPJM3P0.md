@@ -1,5 +1,5 @@
 ---
-id: HW-ZXVX9A
+id: REQ-DPJM3P0
 type: hardware-requirement
 title: Local API authenticates firmware images
 status: Review
@@ -7,11 +7,12 @@ owner: Y. Saber
 tags:
   - connectivity
   - release-2.0
-parent: SYS-XFHV81
-order: 10
+former-id: HW-ZXVX9A
+parent: REQ-6Y7ZTW0
+order: a0
 links:
   - type: refines
-    target: SYS-XFHV81
+    target: REQ-6Y7ZTW0
     confirmed: cd27f13dbcce
 ---
 The local API shall calibrate firmware images without user interaction.

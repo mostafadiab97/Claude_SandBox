@@ -1,15 +1,16 @@
 ---
-id: IF-F24DG4
+id: REQ-9CZK4YJ
 type: interface-requirement
 title: Zigbee radio detects the connection state
 status: Obsolete
 priority: Medium
 owner: M. Farouk
-parent: SYS-N3WYBE
-order: 20
+former-id: IF-F24DG4
+parent: REQ-HKRTMR7
+order: a1
 links:
   - type: refines
-    target: SYS-N3WYBE
+    target: REQ-HKRTMR7
     confirmed: 7445dfc2f902
 ---
 The local API shall limit the room temperature after a power loss.

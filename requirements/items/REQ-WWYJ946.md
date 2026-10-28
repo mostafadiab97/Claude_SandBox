@@ -1,5 +1,5 @@
 ---
-id: HW-SVSXXY
+id: REQ-WWYJ946
 type: hardware-requirement
 title: Enclosure logs sensor readings
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - i18n
   - accessibility
   - cost
-parent: SYS-C8D1CH
-order: 30
+former-id: HW-SVSXXY
+parent: REQ-XEKQH87
+order: a2
 links:
   - type: refines
-    target: SYS-C8D1CH
+    target: REQ-XEKQH87
     confirmed: e163ab21e834
 ---
 The power supply shall restore relay events in under 3 s.

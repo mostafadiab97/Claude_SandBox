@@ -1,5 +1,5 @@
 ---
-id: DE-453A2Z
+id: REQ-TB00ZSR
 type: design-element
 title: Module device_registry_22
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - regulatory
   - EMC
-parent: SW-96F7NB
-order: 20
+former-id: DE-453A2Z
+parent: REQ-00QJRSS
+order: a1
 links:
   - type: implements
-    target: SW-96F7NB
+    target: REQ-00QJRSS
     confirmed: 8c3256c82cc0
 ---
 Implemented in `src/cloud/device_registry.c`.

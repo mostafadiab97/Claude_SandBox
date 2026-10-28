@@ -1,15 +1,16 @@
 ---
-id: SW-FVX6P8
+id: REQ-ADBFCV6
 type: software-requirement
 title: Rotary knob synchronises sensor readings
 status: Review
 priority: Low
 owner: S. Adel
-parent: SYS-4RKE3A
-order: 10
+former-id: SW-FVX6P8
+parent: REQ-5R1F7DB
+order: a0
 links:
   - type: refines
-    target: SYS-4RKE3A
+    target: REQ-5R1F7DB
     confirmed: a899eccfab06
 ---
 The rotary knob shall notify access tokens for at least 10 years.

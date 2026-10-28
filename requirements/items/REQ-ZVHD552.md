@@ -1,5 +1,5 @@
 ---
-id: IF-TYWE30
+id: REQ-ZVHD552
 type: interface-requirement
 title: "Signal 515: audit records"
 status: Approved
@@ -7,7 +7,8 @@ owner: É. Laurent
 tags:
   - security
   - release-1.0
-parent: INFO-2TM0JP
-order: 5150
+former-id: IF-TYWE30
+parent: REQ-RJ0KHPT
+order: b7I
 ---
 Interface signal number 515.

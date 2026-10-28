@@ -1,5 +1,5 @@
 ---
-id: SW-C2H7Z2
+id: REQ-657SGBR
 type: software-requirement
 title: Local API switchs relay events
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - cost
   - connectivity
   - customer-request
-parent: SYS-34QNYE
-order: 40
+former-id: SW-C2H7Z2
+parent: REQ-93GSKTC
+order: a3
 links:
   - type: refines
-    target: SYS-34QNYE
+    target: REQ-93GSKTC
     confirmed: f6e72f885951
 ---
 The Bluetooth LE link shall limit user preferences with an accuracy of ±0.5 °C.

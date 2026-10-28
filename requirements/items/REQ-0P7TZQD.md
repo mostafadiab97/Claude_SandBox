@@ -1,15 +1,16 @@
 ---
-id: SW-9NDXCD
+id: REQ-0P7TZQD
 type: software-requirement
 title: Heat pump driver notifys relay events
 status: Approved
 priority: High
 owner: محمد علي
-parent: SYS-Q6QXAC
-order: 10
+former-id: SW-9NDXCD
+parent: REQ-2D1K4F7
+order: a0
 links:
   - type: refines
-    target: SYS-Q6QXAC
+    target: REQ-2D1K4F7
     confirmed: e67f8d759f40
 ---
 The regulation loop shall display error conditions in all supported languages.

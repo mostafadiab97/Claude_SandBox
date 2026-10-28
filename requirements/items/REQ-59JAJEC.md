@@ -1,14 +1,15 @@
 ---
-id: HW-0ZNKBF
+id: REQ-59JAJEC
 type: hardware-requirement
 title: Rotary knob displays humidity values
 status: Draft
 priority: Medium
-parent: SYS-7C3GR4
-order: 30
+former-id: HW-0ZNKBF
+parent: REQ-TEEHWEZ
+order: a2
 links:
   - type: refines
-    target: SYS-7C3GR4
+    target: REQ-TEEHWEZ
     confirmed: d6385afd3348
 ---
 The backlight shall display schedule entries using AES-256-GCM.

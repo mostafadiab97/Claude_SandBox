@@ -1,5 +1,5 @@
 ---
-id: SW-XESH6N
+id: REQ-42HWEDB
 type: software-requirement
 title: Boiler interface switchs user preferences
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: L. Samir
 tags:
   - regulatory
-parent: SYS-4ZV4DE
-order: 20
+former-id: SW-XESH6N
+parent: REQ-68GER74
+order: a1
 links:
   - type: refines
-    target: SYS-4ZV4DE
+    target: REQ-68GER74
     confirmed: 67b9d1fd1831
 ---
 The heat pump driver shall synchronise safety limits using AES-256-GCM.

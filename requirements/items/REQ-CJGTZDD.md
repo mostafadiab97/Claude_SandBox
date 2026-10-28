@@ -1,15 +1,16 @@
 ---
-id: SW-49VJW9
+id: REQ-CJGTZDD
 type: software-requirement
 title: Validate safety limits — detail
 status: Approved
 priority: Medium
 owner: L. Samir
-parent: SW-7XM9Y3
-order: 10
+former-id: SW-49VJW9
+parent: REQ-MDK0P3H
+order: a0
 links:
   - type: refines
-    target: SW-7XM9Y3
+    target: REQ-MDK0P3H
     confirmed: 948f514ebe9e
 ---
 The zone valve shall notify firmware images within 200 ms.

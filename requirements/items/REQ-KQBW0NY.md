@@ -1,14 +1,15 @@
 ---
-id: HW-ECNK7W
+id: REQ-KQBW0NY
 type: hardware-requirement
 title: Backlight reports safety limits
 status: Draft
 priority: Medium
-parent: SYS-8YEDPY
-order: 20
+former-id: HW-ECNK7W
+parent: REQ-VZ8BMSA
+order: a1
 links:
   - type: refines
-    target: SYS-8YEDPY
+    target: REQ-VZ8BMSA
     confirmed: e644a201b177
 ---
 The menu system shall measure energy consumption in all supported languages.

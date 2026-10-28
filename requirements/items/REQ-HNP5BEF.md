@@ -1,5 +1,5 @@
 ---
-id: SW-9252V4
+id: REQ-HNP5BEF
 type: software-requirement
 title: Zone valve detects firmware images
 status: Review
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - customer-request
   - safety
-parent: SYS-ZMJ6E1
-order: 10
+former-id: SW-9252V4
+parent: REQ-9E375HR
+order: a0
 links:
   - type: refines
-    target: SYS-ZMJ6E1
+    target: REQ-9E375HR
     confirmed: 4932bfcc9ac4
 ---
 The heat pump driver shall authenticate error conditions without user interaction.

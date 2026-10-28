@@ -1,18 +1,19 @@
 ---
-id: TC-TQV45N
+id: REQ-3491ETZ
 type: test-case
 title: "Verify: Over-temperature monitor measures sensor readings"
 status: Approved
 priority: Medium
 owner: É. Laurent
-parent: INFO-Z4TW4B
-order: 290
+former-id: TC-TQV45N
+parent: REQ-K6FGAY0
+order: aS
 links:
   - type: verifies
-    target: SYS-WNE3D0
+    target: REQ-ZE62P1K
     confirmed: c41d4d2660da
   - type: verifies
-    target: SW-89WYP8
+    target: REQ-0Z25M0Y
     confirmed: 4b74c11e03ab
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

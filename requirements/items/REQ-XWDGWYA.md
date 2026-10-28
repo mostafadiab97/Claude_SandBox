@@ -1,5 +1,5 @@
 ---
-id: TC-B237F3
+id: REQ-XWDGWYA
 type: test-case
 title: "Verify: Zigbee radio measures the connection state"
 status: Approved
@@ -8,14 +8,15 @@ owner: R. Nabil
 tags:
   - connectivity
   - performance
-parent: INFO-F0M7VC
-order: 1310
+former-id: TC-B237F3
+parent: REQ-67RQXCK
+order: b16
 links:
   - type: verifies
-    target: SYS-C5SNMV
+    target: REQ-774FTE6
     confirmed: aa7b6b73deff
   - type: verifies
-    target: SW-KBEPSC
+    target: REQ-2YDTGM5
     confirmed: be1f80f82e4f
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

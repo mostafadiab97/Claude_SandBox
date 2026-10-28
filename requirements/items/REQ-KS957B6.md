@@ -1,5 +1,5 @@
 ---
-id: DE-NR2M3C
+id: REQ-KS957B6
 type: design-element
 title: Module telemetry_pipeline_70
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - performance
   - customer-request
-parent: SW-HKP9YP
-order: 10
+former-id: DE-NR2M3C
+parent: REQ-NYRKJZW
+order: a0
 links:
   - type: implements
-    target: SW-HKP9YP
+    target: REQ-NYRKJZW
     confirmed: 9ce59d80eec7
 ---
 Implemented in `src/cloud/telemetry_pipeline.c`.

@@ -1,5 +1,5 @@
 ---
-id: SW-DMY4GP
+id: REQ-2RJWX8E
 type: software-requirement
 title: Device registry limits user preferences
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: J. Müller
 tags:
   - security
-parent: SYS-XWNGQ6
-order: 40
+former-id: SW-DMY4GP
+parent: REQ-PNZY11B
+order: a3
 links:
   - type: refines
-    target: SYS-XWNGQ6
+    target: REQ-PNZY11B
     confirmed: 63430edab993
 ---
 The cloud backend shall switch firmware images below 0.5 W in standby.

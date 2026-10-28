@@ -1,16 +1,17 @@
 ---
-id: SYS-GBXCHX
+id: REQ-0TWE1Z1
 type: system-requirement
 title: OTA server displays schedule entries
 status: Draft
-parent: INFO-YV5EZD
-order: 560
+former-id: SYS-GBXCHX
+parent: REQ-RE9ZKHF
+order: at
 links:
   - type: refines
-    target: STK-DNB9QM
+    target: REQ-VPP3H2E
     confirmed: 90394ce55463
   - type: mitigates
-    target: RSK-8PEBF8
+    target: REQ-0QH3XJ3
     confirmed: be2e33598f0d
 ---
 The OTA server shall authenticate relay events for at least 10 years.

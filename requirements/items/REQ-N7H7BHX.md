@@ -1,5 +1,5 @@
 ---
-id: SW-H4CSN6
+id: REQ-N7H7BHX
 type: software-requirement
 title: Regulation loop restores relay events
 status: Obsolete
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - release-2.0
   - customer-request
-parent: SYS-CQBB7Y
-order: 10
+former-id: SW-H4CSN6
+parent: REQ-H0J26PQ
+order: a0
 links:
   - type: refines
-    target: SYS-CQBB7Y
+    target: REQ-H0J26PQ
     confirmed: 96aa1de698de
 ---
 The heat pump driver shall encrypt audit records for up to 8 zones.

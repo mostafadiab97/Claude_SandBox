@@ -1,5 +1,5 @@
 ---
-id: TC-1KBV6P
+id: REQ-7B77JSF
 type: test-case
 title: "Verify: Enclosure calibrates access tokens"
 status: Obsolete
@@ -7,11 +7,12 @@ owner: M. Farouk
 tags:
   - connectivity
   - release-1.0
-parent: INFO-MACGC3
-order: 1550
+former-id: TC-1KBV6P
+parent: REQ-F9Z1FYS
+order: b1U
 links:
   - type: verifies
-    target: SYS-7WAVP4
+    target: REQ-N2C34ZY
     confirmed: 0f9434a95be4
 ---
 **Objective:** verify that the enclosure behaves as specified.

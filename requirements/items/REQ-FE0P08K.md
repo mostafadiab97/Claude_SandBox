@@ -1,14 +1,15 @@
 ---
-id: TC-3WPFJP
+id: REQ-FE0P08K
 type: test-case
 title: "Verify: Relay board reports safety limits"
 status: Approved
 owner: H. Mostafa
-parent: INFO-MACGC3
-order: 1670
+former-id: TC-3WPFJP
+parent: REQ-F9Z1FYS
+order: b1g
 links:
   - type: verifies
-    target: SYS-F1889A
+    target: REQ-QM0J4PT
     confirmed: 2c23251911ef
 ---
 **Objective:** verify that the relay board behaves as specified.

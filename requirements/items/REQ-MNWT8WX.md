@@ -1,14 +1,15 @@
 ---
-id: IF-53SWA1
+id: REQ-MNWT8WX
 type: interface-requirement
 title: Enclosure restores user preferences
 status: Draft
 owner: N. Kamal
-parent: SYS-X1EA2B
-order: 20
+former-id: IF-53SWA1
+parent: REQ-MJ8JRF5
+order: a1
 links:
   - type: refines
-    target: SYS-X1EA2B
+    target: REQ-MJ8JRF5
     confirmed: 4f643ca54fad
 ---
 The enclosure shall report user preferences without user interaction.

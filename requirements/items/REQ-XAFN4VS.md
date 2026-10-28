@@ -1,5 +1,5 @@
 ---
-id: SW-X7144P
+id: REQ-XAFN4VS
 type: software-requirement
 title: Wi-Fi module measures the room temperature
 status: Review
@@ -9,11 +9,12 @@ tags:
   - ux
   - accessibility
   - i18n
-parent: SYS-N6E1NE
-order: 20
+former-id: SW-X7144P
+parent: REQ-JGWJGVK
+order: a1
 links:
   - type: refines
-    target: SYS-N6E1NE
+    target: REQ-JGWJGVK
     confirmed: cc346536e668
 ---
 The Bluetooth LE link shall limit audit records within 200 ms.

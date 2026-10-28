@@ -1,5 +1,5 @@
 ---
-id: SW-4M12SS
+id: REQ-HVDWZBF
 type: software-requirement
 title: Notify user preferences — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: محمد علي
 tags:
   - regulatory
-parent: SW-02C7YB
-order: 10
+former-id: SW-4M12SS
+parent: REQ-99YT80V
+order: a0
 links:
   - type: refines
-    target: SW-02C7YB
+    target: REQ-99YT80V
     confirmed: 3c83c20f0aac
 ---
 The backlight shall calibrate the set point without user interaction.

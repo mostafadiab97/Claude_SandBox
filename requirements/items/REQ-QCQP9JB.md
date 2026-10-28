@@ -1,5 +1,5 @@
 ---
-id: IF-J5MMCM
+id: REQ-QCQP9JB
 type: interface-requirement
 title: "Signal 419: the connection state"
 status: Approved
@@ -8,7 +8,8 @@ tags:
   - customer-request
   - accessibility
   - performance
-parent: INFO-2TM0JP
-order: 4190
+former-id: IF-J5MMCM
+parent: REQ-RJ0KHPT
+order: b5k
 ---
 Interface signal number 419.

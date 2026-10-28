@@ -1,15 +1,16 @@
 ---
-id: HW-S4RTVJ
+id: REQ-P1WBTY7
 type: hardware-requirement
 title: Main PCB measures the operating mode
 status: Review
 priority: Medium
 owner: H. Mostafa
-parent: SYS-F961QG
-order: 20
+former-id: HW-S4RTVJ
+parent: REQ-EVM873T
+order: a1
 links:
   - type: refines
-    target: SYS-F961QG
+    target: REQ-EVM873T
     confirmed: f5b7f4c14067
 ---
 The enclosure shall log the set point in under 3 s.

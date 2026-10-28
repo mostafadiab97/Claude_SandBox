@@ -1,5 +1,5 @@
 ---
-id: HW-QV50MF
+id: REQ-EYR6N5D
 type: hardware-requirement
 title: Tamper detection reports schedule entries
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: A. Hassan
 tags:
   - release-2.0
-parent: SYS-7T162W
-order: 40
+former-id: HW-QV50MF
+parent: REQ-0RW492W
+order: a3
 links:
   - type: refines
-    target: SYS-7T162W
+    target: REQ-0RW492W
     confirmed: c3b62ffd68f1
 ---
 The over-temperature monitor shall synchronise user preferences with an accuracy of ±0.5 °C.

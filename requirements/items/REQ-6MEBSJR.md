@@ -1,5 +1,5 @@
 ---
-id: SYS-J8A4BW
+id: REQ-6MEBSJR
 type: system-requirement
 title: Secure boot synchronises schedule entries
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - cost
   - performance
   - power
-parent: INFO-0229G8
-order: 2100
+former-id: SYS-J8A4BW
+parent: REQ-H9113WA
+order: b2N
 links:
   - type: refines
-    target: STK-XSQC89
+    target: REQ-Y7E2CS3
     confirmed: 66c246d6b1dc
 ---
 The secure boot shall report access tokens for at least 10 years.

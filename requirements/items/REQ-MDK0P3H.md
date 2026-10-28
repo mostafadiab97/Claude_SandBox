@@ -1,5 +1,5 @@
 ---
-id: SW-7XM9Y3
+id: REQ-MDK0P3H
 type: software-requirement
 title: Zone valve detects the room temperature
 status: Review
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - security
   - customer-request
-parent: SYS-3311SY
-order: 10
+former-id: SW-7XM9Y3
+parent: REQ-RMHBXKZ
+order: a0
 links:
   - type: refines
-    target: SYS-3311SY
+    target: REQ-RMHBXKZ
     confirmed: 73000130eecf
 ---
 The zone valve shall notify the operating mode using AES-256-GCM.

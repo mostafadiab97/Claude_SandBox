@@ -1,5 +1,5 @@
 ---
-id: TC-BBGT56
+id: REQ-Z6N0S96
 type: test-case
 title: "Verify: Heat pump driver calibrates the operating mode"
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: R. Nabil
 tags:
   - regulatory
-parent: INFO-MS9DAG
-order: 1450
+former-id: TC-BBGT56
+parent: REQ-XGWSK2K
+order: b1K
 links:
   - type: verifies
-    target: SYS-7MF8BM
+    target: REQ-EMA1R60
     confirmed: df19f5a8810f
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

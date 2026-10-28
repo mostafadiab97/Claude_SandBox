@@ -1,15 +1,16 @@
 ---
-id: SW-7E8V2P
+id: REQ-8TVMT6Q
 type: software-requirement
 title: Boiler interface logs firmware images
 status: Approved
 priority: High
 owner: A. Hassan
-parent: SYS-323774
-order: 10
+former-id: SW-7E8V2P
+parent: REQ-4F46C46
+order: a0
 links:
   - type: refines
-    target: SYS-323774
+    target: REQ-4F46C46
     confirmed: 37d7aaee7050
 ---
 The boiler interface shall synchronise access tokens in under 3 s.

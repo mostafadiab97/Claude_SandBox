@@ -1,5 +1,5 @@
 ---
-id: SW-G1NVQV
+id: REQ-PKK5PVY
 type: software-requirement
 title: Device registry calibrates the connection state
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: S. Adel
 tags:
   - release-2.0
-parent: SYS-HGM9BS
-order: 10
+former-id: SW-G1NVQV
+parent: REQ-21V318B
+order: a0
 links:
   - type: refines
-    target: SYS-HGM9BS
+    target: REQ-21V318B
     confirmed: e9e572deb541
 ---
 The device registry shall limit user preferences with an accuracy of ±0.5 °C.

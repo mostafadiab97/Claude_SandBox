@@ -1,14 +1,15 @@
 ---
-id: IF-WDKAT4
+id: REQ-4DWVNGB
 type: interface-requirement
 title: Main PCB logs access tokens
 status: Approved
 priority: High
-parent: SYS-Q1NDZA
-order: 30
+former-id: IF-WDKAT4
+parent: REQ-NXVJEAC
+order: a2
 links:
   - type: refines
-    target: SYS-Q1NDZA
+    target: REQ-NXVJEAC
     confirmed: 1aaab302f129
 ---
 The power supply shall encrypt relay events when the network is unavailable.

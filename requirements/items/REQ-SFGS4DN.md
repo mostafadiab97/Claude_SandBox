@@ -1,15 +1,16 @@
 ---
-id: HW-88FRF4
+id: REQ-SFGS4DN
 type: hardware-requirement
 title: Detect the room temperature — detail
 status: Obsolete
 priority: Low
 owner: A. Hassan
-parent: HW-VMC9C0
-order: 10
+former-id: HW-88FRF4
+parent: REQ-007SEJZ
+order: a0
 links:
   - type: refines
-    target: HW-VMC9C0
+    target: REQ-007SEJZ
     confirmed: 351bd05f9fe5
 ---
 The menu system shall synchronise the operating mode without user interaction.

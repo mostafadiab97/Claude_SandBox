@@ -1,5 +1,5 @@
 ---
-id: HW-KJ6GNV
+id: REQ-MAN6B05
 type: hardware-requirement
 title: Relay board encrypts audit records
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - performance
   - i18n
-parent: SYS-A47H7R
-order: 30
+former-id: HW-KJ6GNV
+parent: REQ-CZRWJVP
+order: a2
 links:
   - type: refines
-    target: SYS-A47H7R
+    target: REQ-CZRWJVP
     confirmed: fd7d82b6415e
 ---
 The battery backup shall calibrate the set point in all supported languages.

@@ -1,5 +1,5 @@
 ---
-id: TC-G6X3JV
+id: REQ-E0SK26T
 type: test-case
 title: "Regression: Zone valve notifys firmware images"
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - ux
   - release-1.0
-parent: INFO-ECHASH
-order: 1790
+former-id: TC-G6X3JV
+parent: REQ-6H15AV2
+order: b1s
 links:
   - type: verifies
-    target: SYS-3RSNVX
+    target: REQ-Z4CVF8M
     confirmed: cb6d695118df
 ---
 **Objective:** verify that the device behaves as specified.

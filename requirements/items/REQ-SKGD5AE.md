@@ -1,5 +1,5 @@
 ---
-id: TC-TFZYK0
+id: REQ-SKGD5AE
 type: test-case
 title: "Verify: Enclosure validates the room temperature"
 status: Review
@@ -7,14 +7,15 @@ priority: Medium
 owner: A. Hassan
 tags:
   - accessibility
-parent: INFO-MACGC3
-order: 1350
+former-id: TC-TFZYK0
+parent: REQ-F9Z1FYS
+order: b1A
 links:
   - type: verifies
-    target: SYS-CPG2EW
+    target: REQ-G8Z58Z4
     confirmed: e993ebab475d
   - type: verifies
-    target: SW-3Y0DJQ
+    target: REQ-RKTE7XD
     confirmed: 18bfa3ee379d
 ---
 **Objective:** verify that the enclosure behaves as specified.

@@ -1,14 +1,15 @@
 ---
-id: TC-16STGH
+id: REQ-67FSE29
 type: test-case
 title: "Verify: Device registry detects sensor readings"
 status: Approved
 priority: Medium
-parent: INFO-7P4D8D
-order: 820
+former-id: TC-16STGH
+parent: REQ-8351896
+order: b0J
 links:
   - type: verifies
-    target: SYS-K8QB7W
+    target: REQ-C3CYGWN
     confirmed: b56f90ef8f2c
 ---
 **Objective:** verify that the device registry behaves as specified.

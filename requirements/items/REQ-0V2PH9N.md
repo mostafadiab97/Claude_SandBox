@@ -1,5 +1,5 @@
 ---
-id: TC-BMJM85
+id: REQ-0V2PH9N
 type: test-case
 title: "Verify: Regulation loop authenticates schedule entries"
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - power
   - safety
-parent: INFO-MS9DAG
-order: 1110
+former-id: TC-BMJM85
+parent: REQ-XGWSK2K
+order: b0m
 links:
   - type: verifies
-    target: SYS-JP14AF
+    target: REQ-Q3Z9QBY
     confirmed: 0398140de13d
 ---
 **Objective:** verify that the regulation loop behaves as specified.

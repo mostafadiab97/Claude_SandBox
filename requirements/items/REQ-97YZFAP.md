@@ -1,5 +1,5 @@
 ---
-id: SW-PAX94B
+id: REQ-97YZFAP
 type: software-requirement
 title: Heat pump driver reports relay events
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: S. Adel
 tags:
   - ux
-parent: SYS-9V5P8B
-order: 30
+former-id: SW-PAX94B
+parent: REQ-M1ZYV8X
+order: a2
 links:
   - type: refines
-    target: SYS-9V5P8B
+    target: REQ-M1ZYV8X
     confirmed: a4b7cbbff72f
 ---
 The boiler interface shall restore humidity values in under 3 s.

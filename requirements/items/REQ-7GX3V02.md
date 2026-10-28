@@ -1,5 +1,5 @@
 ---
-id: TC-43GJQ1
+id: REQ-7GX3V02
 type: test-case
 title: "Verify: Main PCB limits sensor readings"
 status: Review
@@ -7,11 +7,12 @@ owner: M. Farouk
 tags:
   - release-1.0
   - ux
-parent: INFO-MACGC3
-order: 810
+former-id: TC-43GJQ1
+parent: REQ-F9Z1FYS
+order: b0I
 links:
   - type: verifies
-    target: SYS-PX7YQ6
+    target: REQ-DCMQ8A6
     confirmed: a1bdacbc8613
 ---
 **Objective:** verify that the main PCB behaves as specified.

@@ -1,16 +1,17 @@
 ---
-id: SW-54JE3M
+id: REQ-FKMVR7K
 type: software-requirement
 title: Pairing process measures safety limits
 status: Approved
 owner: N. Kamal
 tags:
   - performance
-parent: SYS-K61Y1H
-order: 20
+former-id: SW-54JE3M
+parent: REQ-PKDYEYJ
+order: a1
 links:
   - type: refines
-    target: SYS-K61Y1H
+    target: REQ-PKDYEYJ
     confirmed: 05248eb02fec
 ---
 The Bluetooth LE link shall encrypt the operating mode after a power loss.

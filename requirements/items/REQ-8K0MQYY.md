@@ -1,5 +1,5 @@
 ---
-id: DE-QT4ZSQ
+id: REQ-8K0MQYY
 type: design-element
 title: Module home_dashboard_31
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 tags:
   - performance
   - customer-request
-parent: SW-MNDWZ5
-order: 10
+former-id: DE-QT4ZSQ
+parent: REQ-S0X91HD
+order: a0
 links:
   - type: implements
-    target: SW-MNDWZ5
+    target: REQ-S0X91HD
     confirmed: dfd0e5939a3d
 ---
 Implemented in `src/app/home_dashboard.c`.

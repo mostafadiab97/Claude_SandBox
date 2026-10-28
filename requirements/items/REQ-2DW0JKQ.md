@@ -1,5 +1,5 @@
 ---
-id: SYS-4R41VA
+id: REQ-2DW0JKQ
 type: system-requirement
 title: Pairing process calibrates the room temperature
 status: Draft
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - cost
   - regulatory
-parent: INFO-NRVHA2
-order: 130
+former-id: SYS-4R41VA
+parent: REQ-6R94HFM
+order: aC
 links:
   - type: refines
-    target: STK-22X165
+    target: REQ-QCFMNYV
     confirmed: 0023c9af8e7d
 ---
 The pairing process shall report user preferences when the network is unavailable.

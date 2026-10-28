@@ -1,14 +1,15 @@
 ---
-id: SW-ZHCVXV
+id: REQ-PE83HP8
 type: software-requirement
 title: Pairing process limits firmware images
 status: Draft
 priority: High
-parent: SYS-RB6KMZ
-order: 10
+former-id: SW-ZHCVXV
+parent: REQ-AKMXCSZ
+order: a0
 links:
   - type: refines
-    target: SYS-RB6KMZ
+    target: REQ-AKMXCSZ
     confirmed: 9e9699c7ff42
 ---
 The Zigbee radio shall notify energy consumption for at least 10 years.

@@ -1,5 +1,5 @@
 ---
-id: TC-RYHE43
+id: REQ-HFECB4V
 type: test-case
 title: "Regression: Secure boot measures schedule entries"
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - performance
   - EMC
-parent: INFO-ECHASH
-order: 600
+former-id: TC-RYHE43
+parent: REQ-6H15AV2
+order: ax
 links:
   - type: verifies
-    target: SYS-EJR3YH
+    target: REQ-5AFTQWT
     confirmed: 7b3dac33b561
 ---
 **Objective:** verify that the device behaves as specified.

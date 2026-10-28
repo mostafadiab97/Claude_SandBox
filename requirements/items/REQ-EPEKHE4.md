@@ -1,18 +1,19 @@
 ---
-id: TC-AZB5Q1
+id: REQ-EPEKHE4
 type: test-case
 title: "Verify: Regulation loop measures safety limits"
 status: Draft
 priority: Low
 owner: A. Hassan
-parent: INFO-MS9DAG
-order: 200
+former-id: TC-AZB5Q1
+parent: REQ-XGWSK2K
+order: aJ
 links:
   - type: verifies
-    target: SYS-6TVT9J
+    target: REQ-WTBR2TG
     confirmed: 0af48dc95869
   - type: verifies
-    target: SW-TGE2C7
+    target: REQ-FAJCE2B
     confirmed: 3d19be192f78
 ---
 **Objective:** verify that the regulation loop behaves as specified.

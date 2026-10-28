@@ -1,5 +1,5 @@
 ---
-id: SYS-9J0YHF
+id: REQ-7VK5DXB
 type: system-requirement
 title: Power supply displays safety limits
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - i18n
   - power
   - ux
-parent: INFO-A6P9A8
-order: 430
+former-id: SYS-9J0YHF
+parent: REQ-CMCS31A
+order: ag
 links:
   - type: refines
-    target: STK-ZWN5M8
+    target: REQ-Z2PYD5A
     confirmed: 994b9d44bde8
 ---
 The power supply shall log humidity values within 200 ms.

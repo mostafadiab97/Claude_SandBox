@@ -1,5 +1,5 @@
 ---
-id: SW-AB0MZ2
+id: REQ-Z57NH7V
 type: software-requirement
 title: Over-temperature monitor encrypts safety limits
 status: Draft
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - safety
   - release-1.0
-parent: SYS-RZ204B
-order: 40
+former-id: SW-AB0MZ2
+parent: REQ-VKX7BXX
+order: a3
 links:
   - type: refines
-    target: SYS-RZ204B
+    target: REQ-VKX7BXX
     confirmed: 1c27482f8c01
 ---
 The secure boot shall validate safety limits with an accuracy of ±0.5 °C.

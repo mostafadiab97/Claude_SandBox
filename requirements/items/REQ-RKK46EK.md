@@ -1,5 +1,5 @@
 ---
-id: SW-ZN1EXA
+id: REQ-RKK46EK
 type: software-requirement
 title: User account service detects error conditions
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: محمد علي
 tags:
   - i18n
-parent: SYS-06G288
-order: 20
+former-id: SW-ZN1EXA
+parent: REQ-NGQ979G
+order: a1
 links:
   - type: refines
-    target: SYS-06G288
+    target: REQ-NGQ979G
     confirmed: 3805c8343c55
 ---
 The device registry shall switch error conditions within 200 ms.

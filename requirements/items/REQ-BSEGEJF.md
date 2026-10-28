@@ -1,5 +1,5 @@
 ---
-id: TC-6PA4XC
+id: REQ-BSEGEJF
 type: test-case
 title: "Verify: Menu system notifys schedule entries"
 status: Review
@@ -9,11 +9,12 @@ tags:
   - safety
   - release-2.0
   - i18n
-parent: INFO-HTSZ15
-order: 1070
+former-id: TC-6PA4XC
+parent: REQ-Y9VHHKA
+order: b0i
 links:
   - type: verifies
-    target: SYS-G8P704
+    target: REQ-DGJWR53
     confirmed: ac1f313d67a2
 ---
 **Objective:** verify that the menu system behaves as specified.

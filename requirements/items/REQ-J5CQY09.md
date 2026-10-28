@@ -1,5 +1,5 @@
 ---
-id: SW-3BACPR
+id: REQ-J5CQY09
 type: software-requirement
 title: Wi-Fi module stores energy consumption
 status: Review
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - release-1.0
   - cost
-parent: SYS-YFQ7J9
-order: 20
+former-id: SW-3BACPR
+parent: REQ-JMY59GP
+order: a1
 links:
   - type: refines
-    target: SYS-YFQ7J9
+    target: REQ-JMY59GP
     confirmed: 879d2491ed8f
 ---
 The Wi-Fi module shall log access tokens in all supported languages.

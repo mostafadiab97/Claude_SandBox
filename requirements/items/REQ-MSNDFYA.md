@@ -1,5 +1,5 @@
 ---
-id: HW-9BV15T
+id: REQ-MSNDFYA
 type: hardware-requirement
 title: Power supply restores the set point
 status: Review
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - safety
   - release-1.0
-parent: SYS-F8240X
-order: 20
+former-id: HW-9BV15T
+parent: REQ-TJYAHYG
+order: a1
 links:
   - type: refines
-    target: SYS-F8240X
+    target: REQ-TJYAHYG
     confirmed: 78f3618e6442
 ---
 The power supply shall switch the room temperature in under 3 s.

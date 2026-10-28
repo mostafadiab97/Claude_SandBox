@@ -1,16 +1,17 @@
 ---
-id: SW-BZNPD9
+id: REQ-Q5WXTNW
 type: software-requirement
 title: Telemetry pipeline displays relay events
 status: Draft
 priority: High
 tags:
   - i18n
-parent: SYS-4FGGM0
-order: 10
+former-id: SW-BZNPD9
+parent: REQ-F0X7ER4
+order: a0
 links:
   - type: refines
-    target: SYS-4FGGM0
+    target: REQ-F0X7ER4
     confirmed: 911515a7fcb8
 ---
 The cloud backend shall store the room temperature in under 3 s.

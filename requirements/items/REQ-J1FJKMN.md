@@ -1,5 +1,5 @@
 ---
-id: IF-TFRKP8
+id: REQ-J1FJKMN
 type: interface-requirement
 title: Backlight notifys error conditions
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: محمد علي
 tags:
   - safety
-parent: SYS-CABT71
-order: 40
+former-id: IF-TFRKP8
+parent: REQ-FJ1HWEE
+order: a3
 links:
   - type: refines
-    target: SYS-CABT71
+    target: REQ-FJ1HWEE
     confirmed: de618562979c
 ---
 The rotary knob shall calibrate the room temperature with an accuracy of ±0.5 °C.

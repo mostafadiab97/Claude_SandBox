@@ -1,5 +1,5 @@
 ---
-id: IF-6YKH5C
+id: REQ-TPTBB27
 type: interface-requirement
 title: Calibrate relay events — detail
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: M. Farouk
 tags:
   - security
-parent: IF-D4SJN8
-order: 10
+former-id: IF-6YKH5C
+parent: REQ-FN5CNMP
+order: a0
 links:
   - type: refines
-    target: IF-D4SJN8
+    target: REQ-FN5CNMP
     confirmed: 0fa38802d920
 ---
 The zone valve shall limit energy consumption using AES-256-GCM.

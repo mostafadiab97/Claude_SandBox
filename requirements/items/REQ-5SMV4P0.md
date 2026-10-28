@@ -1,15 +1,16 @@
 ---
-id: TC-AN3CGF
+id: REQ-5SMV4P0
 type: test-case
 title: "Verify: Pairing process measures firmware images"
 status: Approved
 priority: Medium
 owner: É. Laurent
-parent: INFO-F0M7VC
-order: 230
+former-id: TC-AN3CGF
+parent: REQ-67RQXCK
+order: aM
 links:
   - type: verifies
-    target: SYS-JKNRQ3
+    target: REQ-MM8GTZJ
     confirmed: 2f3dabce7169
 ---
 **Objective:** verify that the pairing process behaves as specified.

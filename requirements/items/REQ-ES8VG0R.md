@@ -1,15 +1,16 @@
 ---
-id: HW-437DA1
+id: REQ-ES8VG0R
 type: hardware-requirement
 title: Local API displays safety limits
 status: Draft
 priority: High
 owner: L. Samir
-parent: SYS-NJ73ZK
-order: 10
+former-id: HW-437DA1
+parent: REQ-M3BR6KY
+order: a0
 links:
   - type: refines
-    target: SYS-NJ73ZK
+    target: REQ-M3BR6KY
     confirmed: cda235c01515
 ---
 The pairing process shall restore error conditions with an accuracy of ±0.5 °C.

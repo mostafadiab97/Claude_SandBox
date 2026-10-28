@@ -1,5 +1,5 @@
 ---
-id: SW-7FEG56
+id: REQ-RYRJ66S
 type: software-requirement
 title: Menu system stores relay events
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - connectivity
   - regulatory
-parent: SYS-M9DD33
-order: 10
+former-id: SW-7FEG56
+parent: REQ-R9CA0V4
+order: a0
 links:
   - type: refines
-    target: SYS-M9DD33
+    target: REQ-R9CA0V4
     confirmed: c0c5efe3652f
 ---
 The menu system shall report the operating mode with an accuracy of ±0.5 °C.

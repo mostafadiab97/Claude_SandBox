@@ -1,5 +1,5 @@
 ---
-id: SW-5H3R25
+id: REQ-93PRYS5
 type: software-requirement
 title: Zone valve restores access tokens
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - customer-request
-parent: SYS-F5RTF4
-order: 20
+former-id: SW-5H3R25
+parent: REQ-KA1D06R
+order: a1
 links:
   - type: refines
-    target: SYS-F5RTF4
+    target: REQ-KA1D06R
     confirmed: 72eb3d42eaa8
 ---
 The heating controller shall detect energy consumption after a power loss.

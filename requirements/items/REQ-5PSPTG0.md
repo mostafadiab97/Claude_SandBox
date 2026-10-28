@@ -1,5 +1,5 @@
 ---
-id: DE-ERH4Q3
+id: REQ-5PSPTG0
 type: design-element
 title: Module status_LED_43
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: É. Laurent
 tags:
   - cost
-parent: SW-WX7DPF
-order: 10
+former-id: DE-ERH4Q3
+parent: REQ-PGDW3W9
+order: a0
 links:
   - type: implements
-    target: SW-WX7DPF
+    target: REQ-PGDW3W9
     confirmed: fd2768894c85
 ---
 Implemented in `src/ui/status_LED.c`.

@@ -1,18 +1,19 @@
 ---
-id: SYS-BFB7EF
+id: REQ-N1H5P0E
 type: system-requirement
 title: Power supply stores energy consumption
 status: Obsolete
 priority: Medium
 owner: É. Laurent
-parent: INFO-A6P9A8
-order: 580
+former-id: SYS-BFB7EF
+parent: REQ-CMCS31A
+order: av
 links:
   - type: refines
-    target: STK-922G3A
+    target: REQ-XZNTF7S
     confirmed: ea4a6a665922
   - type: mitigates
-    target: RSK-4NE1NJ
+    target: REQ-MZ5YCZY
     confirmed: 56f6781ca0d3
 ---
 The power supply shall restore sensor readings when the network is unavailable.

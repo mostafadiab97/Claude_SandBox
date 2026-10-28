@@ -1,14 +1,15 @@
 ---
-id: DE-T626EZ
+id: REQ-Y38ZBV0
 type: design-element
 title: Module secure_boot_24
 status: Review
 owner: N. Kamal
-parent: SW-5KA2CD
-order: 10
+former-id: DE-T626EZ
+parent: REQ-N2GYAHK
+order: a0
 links:
   - type: implements
-    target: SW-5KA2CD
+    target: REQ-N2GYAHK
     confirmed: 81db1ce756f8
 ---
 Implemented in `src/safe/secure_boot.c`.

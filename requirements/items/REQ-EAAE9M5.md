@@ -1,5 +1,5 @@
 ---
-id: SW-17FS3C
+id: REQ-EAAE9M5
 type: software-requirement
 title: Pairing process reports humidity values
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: محمد علي
 tags:
   - customer-request
-parent: SYS-NW9FV6
-order: 30
+former-id: SW-17FS3C
+parent: REQ-EC77G60
+order: a2
 links:
   - type: refines
-    target: SYS-NW9FV6
+    target: REQ-EC77G60
     confirmed: 024d5054444b
 ---
 The Bluetooth LE link shall store audit records when the network is unavailable.

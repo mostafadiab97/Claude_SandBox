@@ -1,5 +1,5 @@
 ---
-id: IF-BZ05S0
+id: REQ-YNYJFZK
 type: interface-requirement
 title: Device registry limits firmware images
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - release-1.0
   - regulatory
-parent: SYS-27ZRZ6
-order: 20
+former-id: IF-BZ05S0
+parent: REQ-HZB6Z1A
+order: a1
 links:
   - type: refines
-    target: SYS-27ZRZ6
+    target: REQ-HZB6Z1A
     confirmed: 2208a37cfcbe
 ---
 The telemetry pipeline shall authenticate access tokens in all supported languages.

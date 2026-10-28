@@ -1,5 +1,5 @@
 ---
-id: IF-R98TA6
+id: REQ-JN2SF8V
 type: interface-requirement
 title: "Signal 140: user preferences"
 status: Draft
@@ -9,7 +9,8 @@ tags:
   - ux
   - performance
   - customer-request
-parent: INFO-2TM0JP
-order: 1400
+former-id: IF-R98TA6
+parent: REQ-RJ0KHPT
+order: b1F
 ---
 Interface signal number 140.

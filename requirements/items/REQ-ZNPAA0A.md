@@ -1,5 +1,5 @@
 ---
-id: TC-7CQ44M
+id: REQ-ZNPAA0A
 type: test-case
 title: "Verify: Cloud backend restores the room temperature"
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: L. Samir
 tags:
   - EMC
-parent: INFO-7P4D8D
-order: 1390
+former-id: TC-7CQ44M
+parent: REQ-8351896
+order: b1E
 links:
   - type: verifies
-    target: SYS-1F931E
+    target: REQ-KDXGXZC
     confirmed: 51652603599b
 ---
 **Objective:** verify that the cloud backend behaves as specified.

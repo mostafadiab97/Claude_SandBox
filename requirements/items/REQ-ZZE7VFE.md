@@ -1,15 +1,16 @@
 ---
-id: IF-HRF00X
+id: REQ-ZZE7VFE
 type: interface-requirement
 title: Status LED authenticates the operating mode
 status: Draft
 priority: High
 owner: Y. Saber
-parent: SYS-WTN381
-order: 20
+former-id: IF-HRF00X
+parent: REQ-5ZNMHMS
+order: a1
 links:
   - type: refines
-    target: SYS-WTN381
+    target: REQ-5ZNMHMS
     confirmed: 0039c77a1442
 ---
 The backlight shall display schedule entries at least once per minute.

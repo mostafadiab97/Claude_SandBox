@@ -1,5 +1,5 @@
 ---
-id: DE-CB2K8Z
+id: REQ-A51HE2R
 type: design-element
 title: Module rotary_knob_97
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - i18n
   - power
   - customer-request
-parent: SW-0EC94R
-order: 10
+former-id: DE-CB2K8Z
+parent: REQ-WQHPEDN
+order: a0
 links:
   - type: implements
-    target: SW-0EC94R
+    target: REQ-WQHPEDN
     confirmed: 94da0dbbc031
 ---
 Implemented in `src/ui/rotary_knob.c`.

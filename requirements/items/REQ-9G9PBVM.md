@@ -1,5 +1,5 @@
 ---
-id: DE-A1CS93
+id: REQ-9G9PBVM
 type: design-element
 title: Module boiler_interface_51
 status: Obsolete
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - safety
   - accessibility
-parent: SW-15GYE7
-order: 10
+former-id: DE-A1CS93
+parent: REQ-MWAHKG7
+order: a0
 links:
   - type: implements
-    target: SW-15GYE7
+    target: REQ-MWAHKG7
     confirmed: 07c5e488ebd4
 ---
 Implemented in `src/heat/boiler_interface.c`.

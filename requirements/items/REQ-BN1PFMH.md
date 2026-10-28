@@ -1,14 +1,15 @@
 ---
-id: IF-8SSMQP
+id: REQ-BN1PFMH
 type: interface-requirement
 title: Login screen displays the connection state
 status: Approved
 priority: Medium
-parent: SYS-55BB0W
-order: 30
+former-id: IF-8SSMQP
+parent: REQ-RZK6F0K
+order: a2
 links:
   - type: refines
-    target: SYS-55BB0W
+    target: REQ-RZK6F0K
     confirmed: 769ed2cb940e
 ---
 The home dashboard shall detect the operating mode at least once per minute.

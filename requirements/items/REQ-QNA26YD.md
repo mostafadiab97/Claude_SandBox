@@ -1,10 +1,11 @@
 ---
-id: IF-S10XJR
+id: REQ-QNA26YD
 type: interface-requirement
 title: "Signal 602: access tokens"
 status: Obsolete
 owner: A. Hassan
-parent: INFO-2TM0JP
-order: 6020
+former-id: IF-S10XJR
+parent: REQ-RJ0KHPT
+order: b8h
 ---
 Interface signal number 602.

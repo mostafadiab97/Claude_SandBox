@@ -1,5 +1,5 @@
 ---
-id: CR-BFAJD9
+id: REQ-EYSGGJJ
 type: change-request
 title: "CR: extend touch display to authenticate energy consumption"
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Low
 owner: محمد علي
 tags:
   - cost
-parent: INFO-7HY7F9
-order: 20
+former-id: CR-BFAJD9
+parent: REQ-HFYH0KW
+order: a1
 links:
   - type: relates-to
-    target: SYS-PRE7SJ
+    target: REQ-HXQ458K
     confirmed: 690f18343fde
 ---
 Requested by customer support (ticket #15333).

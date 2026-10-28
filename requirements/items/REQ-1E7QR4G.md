@@ -1,5 +1,5 @@
 ---
-id: SW-86J2ZA
+id: REQ-1E7QR4G
 type: software-requirement
 title: Pairing process stores the set point
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - regulatory
   - release-1.0
-parent: SYS-B7X9NT
-order: 30
+former-id: SW-86J2ZA
+parent: REQ-891HRQ1
+order: a2
 links:
   - type: refines
-    target: SYS-B7X9NT
+    target: REQ-891HRQ1
     confirmed: 3dbe2b5d8662
 ---
 The Bluetooth LE link shall limit the set point within 200 ms.

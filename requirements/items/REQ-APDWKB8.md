@@ -1,5 +1,5 @@
 ---
-id: SW-T99SWS
+id: REQ-APDWKB8
 type: software-requirement
 title: Device registry logs user preferences
 status: Review
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - release-1.0
   - security
-parent: SYS-E60WCX
-order: 30
+former-id: SW-T99SWS
+parent: REQ-SDZFT6Q
+order: a2
 links:
   - type: refines
-    target: SYS-E60WCX
+    target: REQ-SDZFT6Q
     confirmed: 52a4389d660e
 ---
 The device registry shall notify relay events in under 3 s.

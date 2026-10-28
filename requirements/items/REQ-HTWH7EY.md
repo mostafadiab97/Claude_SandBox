@@ -1,5 +1,5 @@
 ---
-id: SYS-Z166W7
+id: REQ-HTWH7EY
 type: system-requirement
 title: Secure boot synchronises the room temperature
 status: Obsolete
@@ -7,11 +7,12 @@ owner: É. Laurent
 tags:
   - accessibility
   - connectivity
-parent: INFO-0229G8
-order: 1450
+former-id: SYS-Z166W7
+parent: REQ-H9113WA
+order: b1K
 links:
   - type: refines
-    target: STK-SZWQ0A
+    target: REQ-AVJ6PR8
     confirmed: fc1f05b44684
 ---
 The secure boot shall notify the room temperature using AES-256-GCM.

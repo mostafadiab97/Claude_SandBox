@@ -1,5 +1,5 @@
 ---
-id: HW-YDVBBM
+id: REQ-0CGQZA7
 type: hardware-requirement
 title: Over-temperature monitor stores access tokens
 status: Review
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - power
   - release-1.0
-parent: SYS-EJR3YH
-order: 10
+former-id: HW-YDVBBM
+parent: REQ-5AFTQWT
+order: a0
 links:
   - type: refines
-    target: SYS-EJR3YH
+    target: REQ-5AFTQWT
     confirmed: 7b3dac33b561
 ---
 The secure boot shall validate sensor readings without user interaction.

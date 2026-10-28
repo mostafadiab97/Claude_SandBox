@@ -1,15 +1,16 @@
 ---
-id: SW-04X4AC
+id: REQ-7K18MJB
 type: software-requirement
 title: Validate humidity values — detail
 status: Approved
 priority: High
 owner: K. Tanaka
-parent: SW-YGBHGP
-order: 10
+former-id: SW-04X4AC
+parent: REQ-S8N11AB
+order: a0
 links:
   - type: refines
-    target: SW-YGBHGP
+    target: REQ-S8N11AB
     confirmed: 694685d3f8af
 ---
 The zone valve shall notify error conditions for up to 8 zones.

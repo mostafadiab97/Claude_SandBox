@@ -1,15 +1,16 @@
 ---
-id: SW-15GYE7
+id: REQ-MWAHKG7
 type: software-requirement
 title: Boiler interface displays the room temperature
 status: Review
 priority: Medium
 owner: L. Samir
-parent: SYS-5DA537
-order: 10
+former-id: SW-15GYE7
+parent: REQ-GE3XCDD
+order: a0
 links:
   - type: refines
-    target: SYS-5DA537
+    target: REQ-GE3XCDD
     confirmed: b3506b846105
 ---
 The boiler interface shall report relay events with an accuracy of ±0.5 °C.

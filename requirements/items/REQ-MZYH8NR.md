@@ -1,19 +1,20 @@
 ---
-id: TC-0E188T
+id: REQ-MZYH8NR
 type: test-case
 title: "Verify: User account service calibrates error conditions"
 status: Draft
 owner: Y. Saber
 tags:
   - i18n
-parent: INFO-7P4D8D
-order: 1250
+former-id: TC-0E188T
+parent: REQ-8351896
+order: b10
 links:
   - type: verifies
-    target: SYS-XPPCMH
+    target: REQ-4QRKTH2
     confirmed: 5128bf667abb
   - type: verifies
-    target: SW-EHGN0R
+    target: REQ-CMXC7R6
     confirmed: c5b8f223d682
 ---
 **Objective:** verify that the user account service behaves as specified.

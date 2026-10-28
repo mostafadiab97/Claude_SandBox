@@ -1,5 +1,5 @@
 ---
-id: IF-1XMGKX
+id: REQ-KG67EHG
 type: interface-requirement
 title: Pairing process measures the room temperature
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - accessibility
   - safety
-parent: SYS-ZKTQQ8
-order: 40
+former-id: IF-1XMGKX
+parent: REQ-GAN1A2X
+order: a3
 links:
   - type: refines
-    target: SYS-ZKTQQ8
+    target: REQ-GAN1A2X
     confirmed: 495d5a5d64dd
 ---
 The local API shall store access tokens after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: TC-AP8FEA
+id: REQ-29QXBVD
 type: test-case
 title: "Verify: Bluetooth LE link switchs user preferences"
 status: Draft
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - safety
   - security
-parent: INFO-F0M7VC
-order: 690
+former-id: TC-AP8FEA
+parent: REQ-67RQXCK
+order: b06
 links:
   - type: verifies
-    target: SYS-6DAVQX
+    target: REQ-RMJYY8D
     confirmed: 7edaaaba42b0
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-GNE66C
+id: REQ-6G43MRC
 type: software-requirement
 title: Detect relay events — detail
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: R. Nabil
 tags:
   - cost
-parent: SW-WBEJJ8
-order: 10
+former-id: SW-GNE66C
+parent: REQ-BFNYX4Z
+order: a0
 links:
   - type: refines
-    target: SW-WBEJJ8
+    target: REQ-BFNYX4Z
     confirmed: 8b169ee65246
 ---
 The Bluetooth LE link shall detect the room temperature using AES-256-GCM.

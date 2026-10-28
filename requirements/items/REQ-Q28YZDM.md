@@ -1,14 +1,15 @@
 ---
-id: SYS-YC69H2
+id: REQ-Q28YZDM
 type: system-requirement
 title: Heating controller measures user preferences
 status: Review
 owner: Y. Saber
-parent: INFO-6DQTKV
-order: 1810
+former-id: SYS-YC69H2
+parent: REQ-7ED7ZET
+order: b1u
 links:
   - type: refines
-    target: STK-W8N48B
+    target: REQ-GHEE73G
     confirmed: 00c32cea6ea5
 ---
 The heating controller shall measure the operating mode in under 3 s.

@@ -1,5 +1,5 @@
 ---
-id: TC-R3ZY0E
+id: REQ-0WNCVF5
 type: test-case
 title: "Verify: Relay board reports safety limits"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: L. Samir
 tags:
   - release-2.0
-parent: INFO-MACGC3
-order: 750
+former-id: TC-R3ZY0E
+parent: REQ-F9Z1FYS
+order: b0C
 links:
   - type: verifies
-    target: SYS-CN7FHD
+    target: REQ-27VHM11
     confirmed: 5f0cd41f8d2d
 ---
 **Objective:** verify that the relay board behaves as specified.

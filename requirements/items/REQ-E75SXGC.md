@@ -1,18 +1,19 @@
 ---
-id: SYS-QDWM3F
+id: REQ-E75SXGC
 type: system-requirement
 title: Home dashboard authenticates audit records
 status: Review
 priority: Low
 owner: L. Samir
-parent: INFO-2XXBRS
-order: 940
+former-id: SYS-QDWM3F
+parent: REQ-QYXGSQ4
+order: b0V
 links:
   - type: refines
-    target: STK-MC9ASH
+    target: REQ-7NDC8E1
     confirmed: a4f2ebaecfbe
   - type: mitigates
-    target: RSK-HTQ195
+    target: REQ-ZD4752F
     confirmed: feaa24748b2b
 ---
 The home dashboard shall calibrate relay events in all supported languages.

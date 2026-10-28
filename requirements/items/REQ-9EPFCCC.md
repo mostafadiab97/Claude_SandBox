@@ -1,5 +1,5 @@
 ---
-id: SW-G99T17
+id: REQ-9EPFCCC
 type: software-requirement
 title: OTA server limits the connection state
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: L. Samir
 tags:
   - accessibility
-parent: SYS-6892JV
-order: 20
+former-id: SW-G99T17
+parent: REQ-901RZ6N
+order: a1
 links:
   - type: refines
-    target: SYS-6892JV
+    target: REQ-901RZ6N
     confirmed: 75d4ba20cb76
 ---
 The device registry shall validate the room temperature within 200 ms.

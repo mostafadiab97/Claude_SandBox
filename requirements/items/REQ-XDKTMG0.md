@@ -1,5 +1,5 @@
 ---
-id: CR-R8EGNA
+id: REQ-XDKTMG0
 type: change-request
 title: "CR: extend enclosure to validate the operating mode"
 status: Review
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - connectivity
   - safety
-parent: INFO-BB7M2N
-order: 150
+former-id: CR-R8EGNA
+parent: REQ-995FBPM
+order: aE
 links:
   - type: relates-to
-    target: SYS-DAW84D
+    target: REQ-PE6W47Z
     confirmed: d28364cb190d
 ---
 Requested by customer support (ticket #12522).

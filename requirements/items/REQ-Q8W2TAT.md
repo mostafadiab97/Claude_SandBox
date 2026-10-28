@@ -1,5 +1,5 @@
 ---
-id: IF-NWFTTC
+id: REQ-Q8W2TAT
 type: interface-requirement
 title: Detect user preferences — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - security
   - accessibility
-parent: IF-4Z8T25
-order: 10
+former-id: IF-NWFTTC
+parent: REQ-RAYFETE
+order: a0
 links:
   - type: refines
-    target: IF-4Z8T25
+    target: REQ-RAYFETE
     confirmed: e616b98cfa05
 ---
 The enclosure shall calibrate schedule entries using AES-256-GCM.

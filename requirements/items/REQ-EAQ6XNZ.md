@@ -1,15 +1,16 @@
 ---
-id: SW-1VJNKP
+id: REQ-EAQ6XNZ
 type: software-requirement
 title: Encryption layer notifys safety limits
 status: Review
 priority: High
 owner: É. Laurent
-parent: SYS-1HN03J
-order: 10
+former-id: SW-1VJNKP
+parent: REQ-78GKHB3
+order: a0
 links:
   - type: refines
-    target: SYS-1HN03J
+    target: REQ-78GKHB3
     confirmed: e85c5bf1399b
 ---
 The encryption layer shall calibrate the set point below 0.5 W in standby.

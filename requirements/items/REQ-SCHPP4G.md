@@ -1,5 +1,5 @@
 ---
-id: SW-SR4AH2
+id: REQ-SCHPP4G
 type: software-requirement
 title: Zone valve restores audit records
 status: Review
@@ -9,11 +9,12 @@ tags:
   - i18n
   - connectivity
   - safety
-parent: SYS-R873ZE
-order: 10
+former-id: SW-SR4AH2
+parent: REQ-SS6STC1
+order: a0
 links:
   - type: refines
-    target: SYS-R873ZE
+    target: REQ-SS6STC1
     confirmed: fae59ce68ce5
 ---
 The zone valve shall measure energy consumption without user interaction.

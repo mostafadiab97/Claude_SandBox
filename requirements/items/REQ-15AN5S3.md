@@ -1,15 +1,16 @@
 ---
-id: IF-RBYG9H
+id: REQ-15AN5S3
 type: interface-requirement
 title: Relay board displays safety limits
 status: Approved
 priority: High
 owner: L. Samir
-parent: SYS-S1NYQA
-order: 30
+former-id: IF-RBYG9H
+parent: REQ-EC78EH1
+order: a2
 links:
   - type: refines
-    target: SYS-S1NYQA
+    target: REQ-EC78EH1
     confirmed: 1b9d0d62784e
 ---
 The relay board shall notify sensor readings in under 3 s.

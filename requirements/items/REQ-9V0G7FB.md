@@ -1,5 +1,5 @@
 ---
-id: IF-PFZDC9
+id: REQ-9V0G7FB
 type: interface-requirement
 title: "Signal 422: energy consumption"
 status: Review
@@ -8,7 +8,8 @@ owner: A. Hassan
 tags:
   - release-2.0
   - connectivity
-parent: INFO-2TM0JP
-order: 4220
+former-id: IF-PFZDC9
+parent: REQ-RJ0KHPT
+order: b5n
 ---
 Interface signal number 422.

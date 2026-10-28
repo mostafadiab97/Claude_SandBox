@@ -1,16 +1,17 @@
 ---
-id: SW-0GRRH8
+id: REQ-01PFH4S
 type: software-requirement
 title: Zigbee radio synchronises the operating mode
 status: Obsolete
 owner: محمد علي
 tags:
   - ux
-parent: SYS-0C2S4D
-order: 10
+former-id: SW-0GRRH8
+parent: REQ-A2XPEJG
+order: a0
 links:
   - type: refines
-    target: SYS-0C2S4D
+    target: REQ-A2XPEJG
     confirmed: 306846e9f601
 ---
 The Wi-Fi module shall notify schedule entries within 200 ms.

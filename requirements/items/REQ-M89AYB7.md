@@ -1,5 +1,5 @@
 ---
-id: IF-AZ110A
+id: REQ-M89AYB7
 type: interface-requirement
 title: "Signal 356: error conditions"
 status: Draft
@@ -8,7 +8,8 @@ owner: M. Farouk
 tags:
   - safety
   - accessibility
-parent: INFO-2TM0JP
-order: 3560
+former-id: IF-AZ110A
+parent: REQ-RJ0KHPT
+order: b4j
 ---
 Interface signal number 356.

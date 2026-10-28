@@ -1,14 +1,15 @@
 ---
-id: HW-XW04SK
+id: REQ-QPJGHD9
 type: hardware-requirement
 title: Heating controller encrypts the set point
 status: Obsolete
 priority: High
-parent: SYS-N8A6YS
-order: 10
+former-id: HW-XW04SK
+parent: REQ-0QHEDAH
+order: a0
 links:
   - type: refines
-    target: SYS-N8A6YS
+    target: REQ-0QHEDAH
     confirmed: d0b8c4d6001b
 ---
 The zone valve shall calibrate the room temperature with an accuracy of ±0.5 °C.

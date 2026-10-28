@@ -1,5 +1,5 @@
 ---
-id: TC-PFQKDN
+id: REQ-3VW2Y2N
 type: test-case
 title: "Verify: User account service validates firmware images"
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: K. Tanaka
 tags:
   - security
-parent: INFO-7P4D8D
-order: 1280
+former-id: TC-PFQKDN
+parent: REQ-8351896
+order: b13
 links:
   - type: verifies
-    target: SYS-Z3C3F8
+    target: REQ-PB3JZJG
     confirmed: 0af14c27b0f7
 ---
 **Objective:** verify that the user account service behaves as specified.

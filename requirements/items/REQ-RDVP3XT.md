@@ -1,5 +1,5 @@
 ---
-id: IF-MGRQPT
+id: REQ-RDVP3XT
 type: interface-requirement
 title: Main PCB stores access tokens
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - security
   - performance
   - EMC
-parent: SYS-ENSJB5
-order: 20
+former-id: IF-MGRQPT
+parent: REQ-7GP9R9J
+order: a1
 links:
   - type: refines
-    target: SYS-ENSJB5
+    target: REQ-7GP9R9J
     confirmed: da484be59d82
 ---
 The main PCB shall encrypt the connection state after a power loss.

@@ -1,17 +1,18 @@
 ---
-id: SYS-MSYB7C
+id: REQ-539Y5YX
 type: system-requirement
 title: Rotary knob reports energy consumption
 status: Draft
 priority: Medium
-parent: INFO-PDR6FV
-order: 810
+former-id: SYS-MSYB7C
+parent: REQ-2ZA2TRZ
+order: b0I
 links:
   - type: refines
-    target: STK-4K2NE4
+    target: REQ-1DHEN00
     confirmed: 7cfb31353d89
   - type: mitigates
-    target: RSK-S88NZ1
+    target: REQ-4HTMT91
     confirmed: 257f5def6363
 ---
 The rotary knob shall log schedule entries without user interaction.

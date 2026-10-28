@@ -1,16 +1,17 @@
 ---
-id: HW-0V2Y3Y
+id: REQ-NFSGG30
 type: hardware-requirement
 title: Enclosure limits the set point
 status: Draft
 priority: Medium
 tags:
   - release-1.0
-parent: SYS-6AHW2J
-order: 30
+former-id: HW-0V2Y3Y
+parent: REQ-KFE8499
+order: a2
 links:
   - type: refines
-    target: SYS-6AHW2J
+    target: REQ-KFE8499
     confirmed: 688f9dd4cce6
 ---
 The power supply shall synchronise the connection state below 0.5 W in standby.

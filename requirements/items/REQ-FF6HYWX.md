@@ -1,5 +1,5 @@
 ---
-id: SW-JPCWP5
+id: REQ-FF6HYWX
 type: software-requirement
 title: Rotary knob measures safety limits
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - customer-request
   - connectivity
-parent: SYS-Z3AF7E
-order: 30
+former-id: SW-JPCWP5
+parent: REQ-Y6VKCP8
+order: a2
 links:
   - type: refines
-    target: SYS-Z3AF7E
+    target: REQ-Y6VKCP8
     confirmed: 9dfa61330ebe
 ---
 The menu system shall report the operating mode when the network is unavailable.

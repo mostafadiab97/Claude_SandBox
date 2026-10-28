@@ -1,5 +1,5 @@
 ---
-id: IF-HQV3BT
+id: REQ-03RW20F
 type: interface-requirement
 title: Validate the connection state — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - i18n
   - security
-parent: IF-3H50X6
-order: 10
+former-id: IF-HQV3BT
+parent: REQ-J52EDCJ
+order: a0
 links:
   - type: refines
-    target: IF-3H50X6
+    target: REQ-J52EDCJ
     confirmed: 0c95427c9174
 ---
 The telemetry pipeline shall authenticate user preferences for at least 10 years.

@@ -1,15 +1,16 @@
 ---
-id: HW-KCXSQF
+id: REQ-ZQ7SRXS
 type: hardware-requirement
 title: Enclosure restores energy consumption
 status: Approved
 priority: Medium
 owner: N. Kamal
-parent: SYS-T9M88W
-order: 30
+former-id: HW-KCXSQF
+parent: REQ-N0KC5GA
+order: a2
 links:
   - type: refines
-    target: SYS-T9M88W
+    target: REQ-N0KC5GA
     confirmed: d3225946a824
 ---
 The enclosure shall authenticate the set point for at least 10 years.

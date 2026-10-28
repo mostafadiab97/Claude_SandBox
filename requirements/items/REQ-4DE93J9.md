@@ -1,5 +1,5 @@
 ---
-id: HW-S6JMJ6
+id: REQ-4DE93J9
 type: hardware-requirement
 title: Main PCB logs audit records
 status: Draft
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - customer-request
   - EMC
-parent: SYS-422XBG
-order: 10
+former-id: HW-S6JMJ6
+parent: REQ-BGNBT5F
+order: a0
 links:
   - type: refines
-    target: SYS-422XBG
+    target: REQ-BGNBT5F
     confirmed: 5a6b1faa9b43
 ---
 The relay board shall limit the room temperature within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: HW-KRRSPK
+id: REQ-1XWKHNX
 type: hardware-requirement
 title: Rotary knob notifys audit records
 status: Approved
@@ -7,11 +7,12 @@ owner: L. Samir
 tags:
   - EMC
   - i18n
-parent: SYS-VN8P2R
-order: 10
+former-id: HW-KRRSPK
+parent: REQ-Z7KQTPA
+order: a0
 links:
   - type: refines
-    target: SYS-VN8P2R
+    target: REQ-Z7KQTPA
     confirmed: 3e9eaf0aecb7
 ---
 The status LED shall calibrate the operating mode when the network is unavailable.

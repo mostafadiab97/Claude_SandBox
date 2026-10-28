@@ -1,5 +1,5 @@
 ---
-id: DE-YBGH4B
+id: REQ-2N8N3PH
 type: design-element
 title: Module status_LED_80
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: A. Hassan
 tags:
   - regulatory
-parent: SW-XND6NA
-order: 20
+former-id: DE-YBGH4B
+parent: REQ-FQYK771
+order: a1
 links:
   - type: implements
-    target: SW-XND6NA
+    target: REQ-FQYK771
     confirmed: 3723711fe6d2
 ---
 Implemented in `src/ui/status_LED.c`.

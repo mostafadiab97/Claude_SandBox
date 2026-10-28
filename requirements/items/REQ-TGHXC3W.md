@@ -1,15 +1,16 @@
 ---
-id: SW-PP3D1P
+id: REQ-TGHXC3W
 type: software-requirement
 title: Status LED restores the set point
 status: Review
 priority: High
 owner: N. Kamal
-parent: SYS-AY6RXE
-order: 20
+former-id: SW-PP3D1P
+parent: REQ-XF9SPTA
+order: a1
 links:
   - type: refines
-    target: SYS-AY6RXE
+    target: REQ-XF9SPTA
     confirmed: 7ff5c17c87ed
 ---
 The backlight shall validate error conditions in all supported languages.

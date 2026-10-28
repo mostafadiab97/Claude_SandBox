@@ -1,5 +1,5 @@
 ---
-id: SW-X8YDD4
+id: REQ-ZR2TYN6
 type: software-requirement
 title: Wi-Fi module authenticates humidity values
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - cost
   - safety
   - regulatory
-parent: SYS-0A3NTE
-order: 20
+former-id: SW-X8YDD4
+parent: REQ-RCHRB51
+order: a1
 links:
   - type: refines
-    target: SYS-0A3NTE
+    target: REQ-RCHRB51
     confirmed: 60af0d3cc8d3
 ---
 The pairing process shall detect safety limits after a power loss.

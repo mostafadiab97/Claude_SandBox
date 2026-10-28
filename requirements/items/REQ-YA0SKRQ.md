@@ -1,5 +1,5 @@
 ---
-id: HW-889YR6
+id: REQ-YA0SKRQ
 type: hardware-requirement
 title: Wi-Fi module calibrates humidity values
 status: Review
@@ -9,11 +9,12 @@ tags:
   - power
   - release-2.0
   - performance
-parent: SYS-5YJ231
-order: 20
+former-id: HW-889YR6
+parent: REQ-MSAG52N
+order: a1
 links:
   - type: refines
-    target: SYS-5YJ231
+    target: REQ-MSAG52N
     confirmed: 72fe6dc471a9
 ---
 The Wi-Fi module shall store the connection state for up to 8 zones.

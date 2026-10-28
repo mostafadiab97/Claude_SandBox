@@ -1,5 +1,5 @@
 ---
-id: IF-44A5Y2
+id: REQ-J9Z90P4
 type: interface-requirement
 title: Heating controller displays the connection state
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - release-2.0
   - customer-request
-parent: SYS-ZRJGC6
-order: 20
+former-id: IF-44A5Y2
+parent: REQ-DNFKDKS
+order: a1
 links:
   - type: refines
-    target: SYS-ZRJGC6
+    target: REQ-DNFKDKS
     confirmed: f533853c62c8
 ---
 The heat pump driver shall log firmware images at least once per minute.

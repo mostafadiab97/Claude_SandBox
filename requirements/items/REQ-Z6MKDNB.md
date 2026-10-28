@@ -1,15 +1,16 @@
 ---
-id: DE-61EMZZ
+id: REQ-Z6MKDNB
 type: design-element
 title: Module Wi-Fi_module_11
 status: Review
 tags:
   - release-1.0
-parent: SW-0GRRH8
-order: 10
+former-id: DE-61EMZZ
+parent: REQ-01PFH4S
+order: a0
 links:
   - type: implements
-    target: SW-0GRRH8
+    target: REQ-01PFH4S
     confirmed: 679c856a8b96
 ---
 Implemented in `src/conn/Wi-Fi_module.c`.

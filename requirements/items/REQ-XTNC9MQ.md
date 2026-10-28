@@ -1,15 +1,16 @@
 ---
-id: SW-HRFKJJ
+id: REQ-XTNC9MQ
 type: software-requirement
 title: Bluetooth LE link stores schedule entries
 status: Draft
 priority: Medium
 owner: محمد علي
-parent: SYS-AE2EKW
-order: 20
+former-id: SW-HRFKJJ
+parent: REQ-NJ588CJ
+order: a1
 links:
   - type: refines
-    target: SYS-AE2EKW
+    target: REQ-NJ588CJ
     confirmed: e00530755be8
 ---
 The Zigbee radio shall display access tokens after a power loss.

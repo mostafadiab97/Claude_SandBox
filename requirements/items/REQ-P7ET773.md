@@ -1,18 +1,19 @@
 ---
-id: DEF-71WW0K
+id: REQ-P7ET773
 type: defect
 title: "Defect: boiler interface does not synchronise schedule entries"
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: INFO-ZBHTYF
-order: 200
+former-id: DEF-71WW0K
+parent: REQ-XJDN42Y
+order: aJ
 links:
   - type: relates-to
-    target: TC-GHYMVV
+    target: REQ-CY6SHAT
     confirmed: 47c3223eeb60
   - type: relates-to
-    target: SYS-0P0DNN
+    target: REQ-MKJBG9X
     confirmed: fb01b79aacb5
 ---
 Found during regression testing of build 2.8.38.

@@ -1,5 +1,5 @@
 ---
-id: HW-E2JSHS
+id: REQ-GNB3WYM
 type: hardware-requirement
 title: Over-temperature monitor notifys the connection state
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: محمد علي
 tags:
   - power
-parent: SYS-AT7SG8
-order: 10
+former-id: HW-E2JSHS
+parent: REQ-8V3JXAY
+order: a0
 links:
   - type: refines
-    target: SYS-AT7SG8
+    target: REQ-8V3JXAY
     confirmed: c483239675ae
 ---
 The over-temperature monitor shall calibrate the set point within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: SW-MQP4MZ
+id: REQ-EXR65BQ
 type: software-requirement
 title: OTA server reports the set point
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - i18n
   - safety
   - security
-parent: SYS-E60WCX
-order: 10
+former-id: SW-MQP4MZ
+parent: REQ-SDZFT6Q
+order: a0
 links:
   - type: refines
-    target: SYS-E60WCX
+    target: REQ-SDZFT6Q
     confirmed: 52a4389d660e
 ---
 The device registry shall restore safety limits at least once per minute.

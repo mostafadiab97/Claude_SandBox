@@ -1,5 +1,5 @@
 ---
-id: CR-CXXSSH
+id: REQ-K194Q6C
 type: change-request
 title: "CR: extend pairing process to display firmware images"
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - accessibility
   - power
-parent: INFO-Y69DRS
-order: 120
+former-id: CR-CXXSSH
+parent: REQ-YW554H8
+order: aB
 links:
   - type: relates-to
-    target: SYS-9D1YDX
+    target: REQ-R3YX2BZ
     confirmed: c9cc1c48d86c
 ---
 Requested by customer support (ticket #17189).

@@ -1,5 +1,5 @@
 ---
-id: HW-HHESAK
+id: REQ-CRDMRCD
 type: hardware-requirement
 title: Enclosure stores the set point
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - power
   - i18n
   - release-2.0
-parent: SYS-0NHZ18
-order: 10
+former-id: HW-HHESAK
+parent: REQ-W8CZJZ7
+order: a0
 links:
   - type: refines
-    target: SYS-0NHZ18
+    target: REQ-W8CZJZ7
     confirmed: f070e450174f
 ---
 The battery backup shall calibrate schedule entries for up to 8 zones.

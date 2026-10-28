@@ -1,15 +1,16 @@
 ---
-id: HW-0S9VZ8
+id: REQ-A4KXTE3
 type: hardware-requirement
 title: Detect the operating mode — detail
 status: Review
 priority: High
 owner: A. Hassan
-parent: HW-H1CNKW
-order: 10
+former-id: HW-0S9VZ8
+parent: REQ-2DPFN79
+order: a0
 links:
   - type: refines
-    target: HW-H1CNKW
+    target: REQ-2DPFN79
     confirmed: 9861456efecc
 ---
 The touch display shall report the set point below 0.5 W in standby.

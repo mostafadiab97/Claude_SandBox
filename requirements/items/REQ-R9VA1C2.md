@@ -1,15 +1,16 @@
 ---
-id: TC-8PZKXP
+id: REQ-R9VA1C2
 type: test-case
 title: "Verify: Heating controller reports the operating mode"
 status: Draft
 priority: Low
 owner: A. Hassan
-parent: INFO-MS9DAG
-order: 500
+former-id: TC-8PZKXP
+parent: REQ-XGWSK2K
+order: an
 links:
   - type: verifies
-    target: SYS-WNF4KZ
+    target: REQ-KJK6SHD
     confirmed: 7e6ec97a0ef2
 ---
 **Objective:** verify that the heating controller behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: IF-G1030V
+id: REQ-JH5XPNM
 type: interface-requirement
 title: "Signal 211: the operating mode"
 status: Approved
@@ -9,7 +9,8 @@ tags:
   - regulatory
   - power
   - security
-parent: INFO-2TM0JP
-order: 2110
+former-id: IF-G1030V
+parent: REQ-RJ0KHPT
+order: b2O
 ---
 Interface signal number 211.

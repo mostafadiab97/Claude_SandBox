@@ -1,15 +1,16 @@
 ---
-id: SW-RC79SD
+id: REQ-DW2NG4T
 type: software-requirement
 title: Touch display restores energy consumption
 status: Draft
 priority: Medium
 owner: H. Mostafa
-parent: SYS-DVK0ST
-order: 20
+former-id: SW-RC79SD
+parent: REQ-9V4ZDEE
+order: a1
 links:
   - type: refines
-    target: SYS-DVK0ST
+    target: REQ-9V4ZDEE
     confirmed: "123689018215"
 ---
 The menu system shall synchronise firmware images using AES-256-GCM.

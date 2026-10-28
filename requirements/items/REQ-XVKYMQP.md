@@ -1,5 +1,5 @@
 ---
-id: SYS-DPJW7W
+id: REQ-XVKYMQP
 type: system-requirement
 title: Encryption layer calibrates energy consumption
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - security
   - release-2.0
   - regulatory
-parent: INFO-0229G8
-order: 1200
+former-id: SYS-DPJW7W
+parent: REQ-H9113WA
+order: b0v
 links:
   - type: refines
-    target: STK-ZJRWCQ
+    target: REQ-9YG77WV
     confirmed: 080168ea99ae
 ---
 The encryption layer shall limit the connection state below 0.5 W in standby.

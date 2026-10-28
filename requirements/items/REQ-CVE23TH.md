@@ -1,5 +1,5 @@
 ---
-id: SW-CYX38X
+id: REQ-CVE23TH
 type: software-requirement
 title: Home dashboard measures firmware images
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - release-1.0
   - safety
-parent: SYS-367JHA
-order: 20
+former-id: SW-CYX38X
+parent: REQ-K9JV17T
+order: a1
 links:
   - type: refines
-    target: SYS-367JHA
+    target: REQ-K9JV17T
     confirmed: bf84f865fd8d
 ---
 The mobile app shall detect user preferences when the network is unavailable.

@@ -1,5 +1,5 @@
 ---
-id: IF-PQVRSG
+id: REQ-WWJ3J0S
 type: interface-requirement
 title: Relay board logs the operating mode
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - security
   - regulatory
   - release-2.0
-parent: SYS-VCX096
-order: 40
+former-id: IF-PQVRSG
+parent: REQ-NPB13E0
+order: a3
 links:
   - type: refines
-    target: SYS-VCX096
+    target: REQ-NPB13E0
     confirmed: 63d283d89339
 ---
 The enclosure shall display sensor readings below 0.5 W in standby.

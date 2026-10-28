@@ -1,5 +1,5 @@
 ---
-id: SW-QWFRQK
+id: REQ-2KWJ1PN
 type: software-requirement
 title: Menu system calibrates schedule entries
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: É. Laurent
 tags:
   - release-2.0
-parent: SYS-BVR9MT
-order: 20
+former-id: SW-QWFRQK
+parent: REQ-96F7GMN
+order: a1
 links:
   - type: refines
-    target: SYS-BVR9MT
+    target: REQ-96F7GMN
     confirmed: 4ce801427d87
 ---
 The backlight shall validate the connection state at least once per minute.

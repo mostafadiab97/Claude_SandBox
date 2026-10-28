@@ -1,15 +1,16 @@
 ---
-id: IF-0Q2E7T
+id: REQ-HS53SG5
 type: interface-requirement
 title: Regulation loop measures the operating mode
 status: Approved
 priority: Medium
 owner: محمد علي
-parent: SYS-4DP5C1
-order: 20
+former-id: IF-0Q2E7T
+parent: REQ-VP9FW5Z
+order: a1
 links:
   - type: refines
-    target: SYS-4DP5C1
+    target: REQ-VP9FW5Z
     confirmed: c489a3ad366f
 ---
 The zone valve shall log the connection state at least once per minute.

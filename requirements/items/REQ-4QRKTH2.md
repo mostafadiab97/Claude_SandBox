@@ -1,5 +1,5 @@
 ---
-id: SYS-XPPCMH
+id: REQ-4QRKTH2
 type: system-requirement
 title: User account service calibrates error conditions
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - regulatory
   - safety
-parent: INFO-YV5EZD
-order: 1460
+former-id: SYS-XPPCMH
+parent: REQ-RE9ZKHF
+order: b1L
 links:
   - type: refines
-    target: STK-4NCGP6
+    target: REQ-6WXSS37
     confirmed: 34735dce772b
 ---
 The user account service shall notify schedule entries with an accuracy of ±0.5 °C.

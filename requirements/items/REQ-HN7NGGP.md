@@ -1,5 +1,5 @@
 ---
-id: TC-WYSX28
+id: REQ-HN7NGGP
 type: test-case
 title: "Verify: Battery backup synchronises audit records"
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - cost
   - accessibility
-parent: INFO-MACGC3
-order: 1340
+former-id: TC-WYSX28
+parent: REQ-F9Z1FYS
+order: b19
 links:
   - type: verifies
-    target: SYS-Z6XZMX
+    target: REQ-RZP5BR6
     confirmed: 17b58a826b61
 ---
 **Objective:** verify that the battery backup behaves as specified.

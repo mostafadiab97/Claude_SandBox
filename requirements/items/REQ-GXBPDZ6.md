@@ -1,14 +1,15 @@
 ---
-id: HW-RVWWPP
+id: REQ-GXBPDZ6
 type: hardware-requirement
 title: Relay board stores access tokens
 status: Approved
 owner: H. Mostafa
-parent: SYS-GW4A7W
-order: 10
+former-id: HW-RVWWPP
+parent: REQ-P550GQC
+order: a0
 links:
   - type: refines
-    target: SYS-GW4A7W
+    target: REQ-P550GQC
     confirmed: 81dfb0ea3083
 ---
 The enclosure shall measure audit records in under 3 s.

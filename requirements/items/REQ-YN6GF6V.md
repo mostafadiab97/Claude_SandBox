@@ -1,14 +1,15 @@
 ---
-id: TC-PEKJCF
+id: REQ-YN6GF6V
 type: test-case
 title: "Verify: User account service detects relay events"
 status: Draft
 owner: É. Laurent
-parent: INFO-7P4D8D
-order: 40
+former-id: TC-PEKJCF
+parent: REQ-8351896
+order: a3
 links:
   - type: verifies
-    target: SYS-S5AVVB
+    target: REQ-XTW7B1R
     confirmed: 21ef3d7af8e5
 ---
 **Objective:** verify that the user account service behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: HW-BFPNFC
+id: REQ-22KTWGK
 type: hardware-requirement
 title: Relay board validates audit records
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - performance
   - power
   - regulatory
-parent: SYS-9J39GS
-order: 30
+former-id: HW-BFPNFC
+parent: REQ-71PZPKN
+order: a2
 links:
   - type: refines
-    target: SYS-9J39GS
+    target: REQ-71PZPKN
     confirmed: 59241a6dbb43
 ---
 The battery backup shall log the room temperature when the network is unavailable.

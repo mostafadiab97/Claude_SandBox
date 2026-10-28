@@ -1,15 +1,16 @@
 ---
-id: SYS-97KT0W
+id: REQ-7A0DC7K
 type: system-requirement
 title: Touch display stores humidity values
 status: Approved
 priority: Medium
 owner: S. Adel
-parent: INFO-PDR6FV
-order: 1870
+former-id: SYS-97KT0W
+parent: REQ-2ZA2TRZ
+order: b20
 links:
   - type: refines
-    target: STK-MNQXK0
+    target: REQ-SBV9ENK
     confirmed: d3157dcb9034
 ---
 The touch display shall report audit records when the network is unavailable.

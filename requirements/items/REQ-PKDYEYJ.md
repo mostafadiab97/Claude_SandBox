@@ -1,15 +1,16 @@
 ---
-id: SYS-K61Y1H
+id: REQ-PKDYEYJ
 type: system-requirement
 title: Bluetooth LE link stores firmware images
 status: Obsolete
 priority: Medium
 owner: Y. Saber
-parent: INFO-NRVHA2
-order: 410
+former-id: SYS-K61Y1H
+parent: REQ-6R94HFM
+order: ae
 links:
   - type: refines
-    target: STK-Q9RBYT
+    target: REQ-B31NWSC
     confirmed: a67c8b718d88
 ---
 The Bluetooth LE link shall store relay events below 0.5 W in standby.

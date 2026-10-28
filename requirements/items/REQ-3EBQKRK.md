@@ -1,7 +1,8 @@
 ---
-id: INFO-RE7JP9
+id: REQ-3EBQKRK
 type: information
-title: 7.1 Stakeholder needs
-parent: INFO-AXMPFC
-order: 10
+title: Stakeholder needs
+former-id: INFO-RE7JP9
+parent: REQ-YA89TQ4
+order: a0
 ---

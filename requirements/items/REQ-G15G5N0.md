@@ -1,5 +1,5 @@
 ---
-id: SYS-ZWGKMZ
+id: REQ-G15G5N0
 type: system-requirement
 title: Menu system encrypts sensor readings
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - release-2.0
   - security
-parent: INFO-PDR6FV
-order: 190
+former-id: SYS-ZWGKMZ
+parent: REQ-2ZA2TRZ
+order: aI
 links:
   - type: refines
-    target: STK-8PN4VS
+    target: REQ-WQB5JT6
     confirmed: a3e83ac40678
 ---
 The menu system shall switch energy consumption in under 3 s.

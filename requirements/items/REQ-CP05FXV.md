@@ -1,5 +1,5 @@
 ---
-id: IF-RY666A
+id: REQ-CP05FXV
 type: interface-requirement
 title: Heating controller limits relay events
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - accessibility
-parent: SYS-D1ZDY9
-order: 30
+former-id: IF-RY666A
+parent: REQ-5ARG7AP
+order: a2
 links:
   - type: refines
-    target: SYS-D1ZDY9
+    target: REQ-5ARG7AP
     confirmed: 3c95eb652d79
 ---
 The heat pump driver shall notify the room temperature in under 3 s.

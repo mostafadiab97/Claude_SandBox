@@ -1,15 +1,16 @@
 ---
-id: TC-8J0JSN
+id: REQ-WTNFH6E
 type: test-case
 title: "Verify: Local API synchronises access tokens"
 status: Obsolete
 priority: High
 owner: A. Hassan
-parent: INFO-F0M7VC
-order: 720
+former-id: TC-8J0JSN
+parent: REQ-67RQXCK
+order: b09
 links:
   - type: verifies
-    target: SYS-MT91D9
+    target: REQ-WG3XYJ3
     confirmed: 4dae60ba5140
 ---
 **Objective:** verify that the local API behaves as specified.

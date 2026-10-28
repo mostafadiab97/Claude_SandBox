@@ -1,5 +1,5 @@
 ---
-id: TC-PJEVHG
+id: REQ-FRZ13WC
 type: test-case
 title: "Verify: Watchdog synchronises firmware images"
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - release-1.0
   - power
-parent: INFO-Z4TW4B
-order: 760
+former-id: TC-PJEVHG
+parent: REQ-K6FGAY0
+order: b0D
 links:
   - type: verifies
-    target: SYS-GK9D83
+    target: REQ-694D023
     confirmed: e117ad0083a4
 ---
 **Objective:** verify that the watchdog behaves as specified.

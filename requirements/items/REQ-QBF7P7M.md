@@ -1,5 +1,5 @@
 ---
-id: HW-KGF8QH
+id: REQ-QBF7P7M
 type: hardware-requirement
 title: Notification service detects energy consumption
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 owner: M. Farouk
 tags:
   - power
-parent: SYS-T378HZ
-order: 20
+former-id: HW-KGF8QH
+parent: REQ-VAV35XN
+order: a1
 links:
   - type: refines
-    target: SYS-T378HZ
+    target: REQ-VAV35XN
     confirmed: 8685bc40ef34
 ---
 The notification service shall log schedule entries for at least 10 years.

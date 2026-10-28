@@ -1,15 +1,16 @@
 ---
-id: SW-69HSFG
+id: REQ-ERQYRW8
 type: software-requirement
 title: User account service synchronises humidity values
 status: Obsolete
 priority: High
 owner: M. Farouk
-parent: SYS-CZQB2K
-order: 20
+former-id: SW-69HSFG
+parent: REQ-07DNFZE
+order: a1
 links:
   - type: refines
-    target: SYS-CZQB2K
+    target: REQ-07DNFZE
     confirmed: 3322889d2361
 ---
 The user account service shall switch relay events in all supported languages.

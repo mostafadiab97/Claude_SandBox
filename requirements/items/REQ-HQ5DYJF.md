@@ -1,5 +1,5 @@
 ---
-id: HW-BXS9PP
+id: REQ-HQ5DYJF
 type: hardware-requirement
 title: Relay board notifys schedule entries
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: H. Mostafa
 tags:
   - power
-parent: SYS-T11C75
-order: 20
+former-id: HW-BXS9PP
+parent: REQ-M95MT8A
+order: a1
 links:
   - type: refines
-    target: SYS-T11C75
+    target: REQ-M95MT8A
     confirmed: 795575845fa5
 ---
 The relay board shall measure safety limits without user interaction.

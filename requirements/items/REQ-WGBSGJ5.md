@@ -1,5 +1,5 @@
 ---
-id: SW-MQZFWN
+id: REQ-WGBSGJ5
 type: software-requirement
 title: Local API measures the room temperature
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - cost
   - ux
   - power
-parent: SYS-2VEPK9
-order: 30
+former-id: SW-MQZFWN
+parent: REQ-G5GENN6
+order: a2
 links:
   - type: refines
-    target: SYS-2VEPK9
+    target: REQ-G5GENN6
     confirmed: a7e58f20b1a5
 ---
 The pairing process shall synchronise audit records within 200 ms.

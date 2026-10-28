@@ -1,15 +1,16 @@
 ---
-id: SW-STXT7P
+id: REQ-9VEPVW1
 type: software-requirement
 title: OTA server calibrates humidity values
 status: Draft
 priority: Medium
 owner: N. Kamal
-parent: SYS-2B7SGQ
-order: 30
+former-id: SW-STXT7P
+parent: REQ-QKQMW5J
+order: a2
 links:
   - type: refines
-    target: SYS-2B7SGQ
+    target: REQ-QKQMW5J
     confirmed: 16e49588c382
 ---
 The OTA server shall validate access tokens within 200 ms.

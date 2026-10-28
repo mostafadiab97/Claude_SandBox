@@ -1,5 +1,5 @@
 ---
-id: TC-HDN4JR
+id: REQ-43HP4FW
 type: test-case
 title: "Verify: Touch display displays the set point"
 status: Obsolete
@@ -7,14 +7,15 @@ priority: Medium
 tags:
   - EMC
   - power
-parent: INFO-HTSZ15
-order: 20
+former-id: TC-HDN4JR
+parent: REQ-Y9VHHKA
+order: a1
 links:
   - type: verifies
-    target: SYS-60DWBJ
+    target: REQ-03HCDE5
     confirmed: 6642ffcbd2f7
   - type: verifies
-    target: SW-H4CSN6
+    target: REQ-N7H7BHX
     confirmed: 8e369ea30295
 ---
 **Objective:** verify that the touch display behaves as specified.

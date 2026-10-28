@@ -1,5 +1,5 @@
 ---
-id: TC-XWDH08
+id: REQ-SEA9YEZ
 type: test-case
 title: "Verify: Watchdog reports energy consumption"
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: محمد علي
 tags:
   - customer-request
-parent: INFO-Z4TW4B
-order: 1470
+former-id: TC-XWDH08
+parent: REQ-K6FGAY0
+order: b1M
 links:
   - type: verifies
-    target: SYS-4NQ8GT
+    target: REQ-33MFB68
     confirmed: 81a097bb4f90
 ---
 **Objective:** verify that the watchdog behaves as specified.

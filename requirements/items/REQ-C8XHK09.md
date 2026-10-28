@@ -1,16 +1,17 @@
 ---
-id: TC-Z4XA99
+id: REQ-C8XHK09
 type: test-case
 title: Hub verification 18
 status: Review
 priority: High
 tags:
   - cost
-parent: INFO-ECHASH
-order: 270
+former-id: TC-Z4XA99
+parent: REQ-6H15AV2
+order: aQ
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

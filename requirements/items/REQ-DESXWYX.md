@@ -1,5 +1,5 @@
 ---
-id: SYS-6SJ3GD
+id: REQ-DESXWYX
 type: system-requirement
 title: Boiler interface logs user preferences
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - safety
   - release-1.0
   - connectivity
-parent: INFO-6DQTKV
-order: 1250
+former-id: SYS-6SJ3GD
+parent: REQ-7ED7ZET
+order: b10
 links:
   - type: refines
-    target: STK-AA05P4
+    target: REQ-REA5VGA
     confirmed: e2bec3bcd11c
 ---
 The boiler interface shall measure sensor readings with an accuracy of ±0.5 °C.

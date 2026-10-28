@@ -1,16 +1,17 @@
 ---
-id: TC-7M00NX
+id: REQ-2Q0QYQD
 type: test-case
 title: "Regression: User account service detects user preferences"
 status: Obsolete
 priority: Medium
 tags:
   - cost
-parent: INFO-ECHASH
-order: 580
+former-id: TC-7M00NX
+parent: REQ-6H15AV2
+order: av
 links:
   - type: verifies
-    target: SYS-94CAYR
+    target: REQ-V32ZD57
     confirmed: a1ec4218b106
 ---
 **Objective:** verify that the device behaves as specified.

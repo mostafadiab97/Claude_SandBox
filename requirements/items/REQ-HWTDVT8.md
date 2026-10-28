@@ -1,15 +1,16 @@
 ---
-id: SW-DJF0HZ
+id: REQ-HWTDVT8
 type: software-requirement
 title: Local API synchronises sensor readings
 status: Draft
 priority: Medium
 owner: Y. Saber
-parent: SYS-JWQ89P
-order: 20
+former-id: SW-DJF0HZ
+parent: REQ-NKFJ115
+order: a1
 links:
   - type: refines
-    target: SYS-JWQ89P
+    target: REQ-NKFJ115
     confirmed: 8d8f328abb5c
 ---
 The Bluetooth LE link shall switch the connection state for at least 10 years.

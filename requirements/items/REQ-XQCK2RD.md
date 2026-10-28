@@ -1,5 +1,5 @@
 ---
-id: IF-WYP0VV
+id: REQ-XQCK2RD
 type: interface-requirement
 title: "Signal 234: the room temperature"
 status: Approved
@@ -8,7 +8,8 @@ tags:
   - i18n
   - ux
   - release-1.0
-parent: INFO-2TM0JP
-order: 2340
+former-id: IF-WYP0VV
+parent: REQ-RJ0KHPT
+order: b2l
 ---
 Interface signal number 234.

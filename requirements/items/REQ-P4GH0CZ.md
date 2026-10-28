@@ -1,5 +1,5 @@
 ---
-id: SYS-QXZ496
+id: REQ-P4GH0CZ
 type: system-requirement
 title: Wi-Fi module switchs the room temperature
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - ux
   - power
   - accessibility
-parent: INFO-NRVHA2
-order: 710
+former-id: SYS-QXZ496
+parent: REQ-6R94HFM
+order: b08
 links:
   - type: refines
-    target: STK-XSZSEZ
+    target: REQ-YN3XNWJ
     confirmed: 1038f4e2e9d4
 ---
 The Wi-Fi module shall log schedule entries after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: DE-RSSHT4
+id: REQ-XBEFS1W
 type: design-element
 title: Module touch_display_35
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - release-1.0
   - regulatory
-parent: SW-0P3AVZ
-order: 10
+former-id: DE-RSSHT4
+parent: REQ-PZ1QM4K
+order: a0
 links:
   - type: implements
-    target: SW-0P3AVZ
+    target: REQ-PZ1QM4K
     confirmed: cfebabd9fb40
 ---
 Implemented in `src/ui/touch_display.c`.

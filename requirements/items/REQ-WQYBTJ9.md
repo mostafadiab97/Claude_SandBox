@@ -1,15 +1,16 @@
 ---
-id: HW-0WKY2H
+id: REQ-WQYBTJ9
 type: hardware-requirement
 title: Calibrate energy consumption — detail
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: HW-CN172X
-order: 10
+former-id: HW-0WKY2H
+parent: REQ-VPKQ1H2
+order: a0
 links:
   - type: refines
-    target: HW-CN172X
+    target: REQ-VPKQ1H2
     confirmed: 59f35a975247
 ---
 The heating controller shall validate relay events for up to 8 zones.

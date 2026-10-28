@@ -1,5 +1,5 @@
 ---
-id: SYS-08Q79Y
+id: REQ-CWJJDSN
 type: system-requirement
 title: Status LED detects audit records
 status: Approved
@@ -7,14 +7,15 @@ priority: High
 owner: M. Farouk
 tags:
   - regulatory
-parent: INFO-PDR6FV
-order: 1740
+former-id: SYS-08Q79Y
+parent: REQ-2ZA2TRZ
+order: b1n
 links:
   - type: refines
-    target: STK-EHVDJF
+    target: REQ-4T80DB9
     confirmed: cf195cdb6a20
   - type: mitigates
-    target: RSK-H5P7DK
+    target: REQ-19NM7SG
     confirmed: 071ef93a7be9
 ---
 The status LED shall encrypt access tokens for up to 8 zones.

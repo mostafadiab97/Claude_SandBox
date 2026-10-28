@@ -1,5 +1,5 @@
 ---
-id: SYS-9WHVE0
+id: REQ-WDHBVAE
 type: system-requirement
 title: Notification service synchronises firmware images
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - cost
   - security
-parent: INFO-2XXBRS
-order: 480
+former-id: SYS-9WHVE0
+parent: REQ-QYXGSQ4
+order: al
 links:
   - type: refines
-    target: STK-639N9T
+    target: REQ-EMZ19WQ
     confirmed: 252da9caa62c
 ---
 The notification service shall report safety limits with an accuracy of ±0.5 °C.

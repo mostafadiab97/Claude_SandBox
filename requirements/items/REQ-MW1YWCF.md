@@ -1,5 +1,5 @@
 ---
-id: SW-86FWP6
+id: REQ-MW1YWCF
 type: software-requirement
 title: Synchronise access tokens — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - security
   - release-2.0
   - customer-request
-parent: SW-HQ31K8
-order: 10
+former-id: SW-86FWP6
+parent: REQ-87Q6Z82
+order: a0
 links:
   - type: refines
-    target: SW-HQ31K8
+    target: REQ-87Q6Z82
     confirmed: a6c85b7e41e6
 ---
 The heat pump driver shall detect the set point below 0.5 W in standby.

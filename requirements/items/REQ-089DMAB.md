@@ -1,15 +1,16 @@
 ---
-id: SW-ZPE457
+id: REQ-089DMAB
 type: software-requirement
 title: Heat pump driver encrypts sensor readings
 status: Draft
 priority: Low
 owner: K. Tanaka
-parent: SYS-SK1ZFN
-order: 40
+former-id: SW-ZPE457
+parent: REQ-B8TB20A
+order: a3
 links:
   - type: refines
-    target: SYS-SK1ZFN
+    target: REQ-B8TB20A
     confirmed: 65625f74ff05
 ---
 The zone valve shall limit safety limits without user interaction.

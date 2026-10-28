@@ -1,5 +1,5 @@
 ---
-id: TC-7R0DZA
+id: REQ-G0BCSB8
 type: test-case
 title: "Verify: Tamper detection restores the set point"
 status: Approved
@@ -7,14 +7,15 @@ priority: Low
 owner: S. Adel
 tags:
   - performance
-parent: INFO-Z4TW4B
-order: 960
+former-id: TC-7R0DZA
+parent: REQ-K6FGAY0
+order: b0X
 links:
   - type: verifies
-    target: SYS-ZVPM29
+    target: REQ-6ADPEP5
     confirmed: 74f2cdf0b355
   - type: verifies
-    target: SW-ZJ6HPB
+    target: REQ-61ASS8M
     confirmed: 3b830706ec65
 ---
 **Objective:** verify that the tamper detection behaves as specified.

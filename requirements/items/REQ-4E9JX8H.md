@@ -1,5 +1,5 @@
 ---
-id: SW-SF8N1R
+id: REQ-4E9JX8H
 type: software-requirement
 title: User account service authenticates user preferences
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - accessibility
   - safety
-parent: SYS-2DFH04
-order: 20
+former-id: SW-SF8N1R
+parent: REQ-H2YF6W3
+order: a1
 links:
   - type: refines
-    target: SYS-2DFH04
+    target: REQ-H2YF6W3
     confirmed: 051320b022ae
 ---
 The device registry shall calibrate safety limits within 200 ms.

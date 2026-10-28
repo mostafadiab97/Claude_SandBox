@@ -1,14 +1,15 @@
 ---
-id: TC-6ZPVZ2
+id: REQ-BA6F7MK
 type: test-case
 title: "Verify: Menu system reports sensor readings"
 status: Draft
 owner: R. Nabil
-parent: INFO-HTSZ15
-order: 1280
+former-id: TC-6ZPVZ2
+parent: REQ-Y9VHHKA
+order: b13
 links:
   - type: verifies
-    target: SYS-S318HE
+    target: REQ-HE392GV
     confirmed: a8739639e10d
 ---
 **Objective:** verify that the menu system behaves as specified.

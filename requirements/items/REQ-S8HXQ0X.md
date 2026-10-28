@@ -1,15 +1,16 @@
 ---
-id: SW-J8KXNV
+id: REQ-S8HXQ0X
 type: software-requirement
 title: Over-temperature monitor validates the operating mode
 status: Approved
 priority: High
 owner: محمد علي
-parent: SYS-MR5CRK
-order: 30
+former-id: SW-J8KXNV
+parent: REQ-TDHYBJS
+order: a2
 links:
   - type: refines
-    target: SYS-MR5CRK
+    target: REQ-TDHYBJS
     confirmed: ff67b7696602
 ---
 The tamper detection shall display safety limits in under 3 s.

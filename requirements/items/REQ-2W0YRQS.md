@@ -1,5 +1,5 @@
 ---
-id: SYS-FD2FZ8
+id: REQ-2W0YRQS
 type: system-requirement
 title: Tamper detection synchronises error conditions
 status: Draft
@@ -7,14 +7,15 @@ priority: High
 tags:
   - release-2.0
   - accessibility
-parent: INFO-0229G8
-order: 1510
+former-id: SYS-FD2FZ8
+parent: REQ-H9113WA
+order: b1Q
 links:
   - type: refines
-    target: STK-AKFTAC
+    target: REQ-C7Y99ZB
     confirmed: 3cca48da4b1c
   - type: mitigates
-    target: RSK-QEHK9Y
+    target: REQ-856R3KM
     confirmed: bdb182195008
 ---
 The tamper detection shall measure audit records in under 3 s.

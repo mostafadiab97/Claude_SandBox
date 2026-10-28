@@ -1,5 +1,5 @@
 ---
-id: SW-BAWG8J
+id: REQ-Y6X6YDE
 type: software-requirement
 title: Secure boot reports schedule entries
 status: Review
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - regulatory
   - power
-parent: SYS-E0AT84
-order: 40
+former-id: SW-BAWG8J
+parent: REQ-ZACQTR2
+order: a3
 links:
   - type: refines
-    target: SYS-E0AT84
+    target: REQ-ZACQTR2
     confirmed: 0d5f77c98090
 ---
 The watchdog shall notify user preferences in under 3 s.

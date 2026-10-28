@@ -1,5 +1,5 @@
 ---
-id: IF-TN946G
+id: REQ-18JR29Q
 type: interface-requirement
 title: "Signal 593: audit records"
 status: Draft
@@ -8,7 +8,8 @@ owner: L. Samir
 tags:
   - performance
   - safety
-parent: INFO-2TM0JP
-order: 5930
+former-id: IF-TN946G
+parent: REQ-RJ0KHPT
+order: b8Y
 ---
 Interface signal number 593.

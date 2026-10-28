@@ -1,5 +1,5 @@
 ---
-id: SW-AJP6HH
+id: REQ-HAEYHZ6
 type: software-requirement
 title: Zone valve limits the set point
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - accessibility
   - regulatory
   - EMC
-parent: SYS-A6SZV3
-order: 10
+former-id: SW-AJP6HH
+parent: REQ-XW7FZ05
+order: a0
 links:
   - type: refines
-    target: SYS-A6SZV3
+    target: REQ-XW7FZ05
     confirmed: 2cf0a5310219
 ---
 The boiler interface shall limit the set point for up to 8 zones.

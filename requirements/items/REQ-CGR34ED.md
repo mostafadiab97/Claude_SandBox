@@ -1,5 +1,5 @@
 ---
-id: CR-XK0XW3
+id: REQ-CGR34ED
 type: change-request
 title: "CR: extend zone valve to display firmware images"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - security
-parent: INFO-ZBHTYF
-order: 230
+former-id: CR-XK0XW3
+parent: REQ-XJDN42Y
+order: aM
 links:
   - type: relates-to
-    target: SYS-2GY8ED
+    target: REQ-JE2A5W1
     confirmed: af1bc2a80b1d
 ---
 Requested by customer support (ticket #17206).

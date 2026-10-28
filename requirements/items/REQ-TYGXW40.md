@@ -1,17 +1,18 @@
 ---
-id: TC-SDRMF5
+id: REQ-TYGXW40
 type: test-case
 title: "Verify: Zigbee radio notifys the room temperature"
 status: Approved
 priority: High
-parent: INFO-F0M7VC
-order: 1350
+former-id: TC-SDRMF5
+parent: REQ-67RQXCK
+order: b1A
 links:
   - type: verifies
-    target: SYS-DT07VH
+    target: REQ-0XRM35H
     confirmed: 3a34a02e68b2
   - type: verifies
-    target: SW-7XG01T
+    target: REQ-XG1EV4G
     confirmed: 9d2451409e8c
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

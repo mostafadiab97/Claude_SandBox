@@ -1,5 +1,5 @@
 ---
-id: IF-YJBHXV
+id: REQ-MNHWE3Q
 type: interface-requirement
 title: "Signal 420: user preferences"
 status: Review
@@ -8,7 +8,8 @@ owner: H. Mostafa
 tags:
   - i18n
   - regulatory
-parent: INFO-2TM0JP
-order: 4200
+former-id: IF-YJBHXV
+parent: REQ-RJ0KHPT
+order: b5l
 ---
 Interface signal number 420.

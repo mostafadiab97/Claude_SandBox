@@ -1,11 +1,12 @@
 ---
-id: IF-D89ZGS
+id: REQ-XMFN717
 type: interface-requirement
 title: "Signal 619: audit records"
 status: Approved
 priority: High
 owner: K. Tanaka
-parent: INFO-2TM0JP
-order: 6190
+former-id: IF-D89ZGS
+parent: REQ-RJ0KHPT
+order: b8y
 ---
 Interface signal number 619.

@@ -1,5 +1,5 @@
 ---
-id: SW-5DD5X0
+id: REQ-RKYBHJQ
 type: software-requirement
 title: Over-temperature monitor synchronises sensor readings
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - performance
   - ux
-parent: SYS-8FZWQN
-order: 10
+former-id: SW-5DD5X0
+parent: REQ-CKNG4P8
+order: a0
 links:
   - type: refines
-    target: SYS-8FZWQN
+    target: REQ-CKNG4P8
     confirmed: da1b062f4b9e
 ---
 The over-temperature monitor shall detect the room temperature at least once per minute.

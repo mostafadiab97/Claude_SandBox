@@ -1,5 +1,5 @@
 ---
-id: SW-F7CKZG
+id: REQ-BSC5MGW
 type: software-requirement
 title: Mobile app notifys sensor readings
 status: Review
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - accessibility
   - release-2.0
-parent: SYS-6YVE5W
-order: 20
+former-id: SW-F7CKZG
+parent: REQ-E8DEB31
+order: a1
 links:
   - type: refines
-    target: SYS-6YVE5W
+    target: REQ-E8DEB31
     confirmed: b6eeeafd6f52
 ---
 The home dashboard shall encrypt firmware images using AES-256-GCM.

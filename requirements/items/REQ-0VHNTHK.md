@@ -1,5 +1,5 @@
 ---
-id: IF-X0ZYC4
+id: REQ-0VHNTHK
 type: interface-requirement
 title: "Signal 159: humidity values"
 status: Draft
@@ -9,7 +9,8 @@ tags:
   - accessibility
   - safety
   - ux
-parent: INFO-2TM0JP
-order: 1590
+former-id: IF-X0ZYC4
+parent: REQ-RJ0KHPT
+order: b1Y
 ---
 Interface signal number 159.

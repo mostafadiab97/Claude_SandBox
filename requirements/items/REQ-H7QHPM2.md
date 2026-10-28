@@ -1,18 +1,19 @@
 ---
-id: TC-517VPV
+id: REQ-H7QHPM2
 type: test-case
 title: "Verify: Pairing process synchronises error conditions"
 status: Approved
 priority: Medium
 owner: H. Mostafa
-parent: INFO-F0M7VC
-order: 1270
+former-id: TC-517VPV
+parent: REQ-67RQXCK
+order: b12
 links:
   - type: verifies
-    target: SYS-6DWMRM
+    target: REQ-GTJ8085
     confirmed: 62af45041e6e
   - type: verifies
-    target: SW-J3EKW6
+    target: REQ-YC77EVS
     confirmed: 7e4eee25d689
 ---
 **Objective:** verify that the pairing process behaves as specified.

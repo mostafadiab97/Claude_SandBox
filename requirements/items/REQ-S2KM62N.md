@@ -1,5 +1,5 @@
 ---
-id: HW-Q7NVRN
+id: REQ-S2KM62N
 type: hardware-requirement
 title: Regulation loop authenticates the set point
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - power
-parent: SYS-323774
-order: 20
+former-id: HW-Q7NVRN
+parent: REQ-4F46C46
+order: a1
 links:
   - type: refines
-    target: SYS-323774
+    target: REQ-4F46C46
     confirmed: 37d7aaee7050
 ---
 The boiler interface shall restore relay events for at least 10 years.

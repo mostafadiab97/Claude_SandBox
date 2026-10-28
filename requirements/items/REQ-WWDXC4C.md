@@ -1,5 +1,5 @@
 ---
-id: SYS-C6SNN2
+id: REQ-WWDXC4C
 type: system-requirement
 title: Regulation loop detects user preferences
 status: Review
@@ -9,11 +9,12 @@ tags:
   - i18n
   - connectivity
   - release-2.0
-parent: INFO-6DQTKV
-order: 250
+former-id: SYS-C6SNN2
+parent: REQ-7ED7ZET
+order: aO
 links:
   - type: refines
-    target: STK-75QZSA
+    target: REQ-NKR80ET
     confirmed: fef0332ed10c
 ---
 The regulation loop shall report energy consumption within 200 ms.

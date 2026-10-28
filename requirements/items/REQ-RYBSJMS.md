@@ -1,5 +1,5 @@
 ---
-id: TC-6XBEFK
+id: REQ-RYBSJMS
 type: test-case
 title: "Verify: Local API detects firmware images"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - security
   - i18n
   - regulatory
-parent: INFO-F0M7VC
-order: 1120
+former-id: TC-6XBEFK
+parent: REQ-67RQXCK
+order: b0n
 links:
   - type: verifies
-    target: SYS-E3TBDW
+    target: REQ-SN84PTN
     confirmed: c0e6f0c26e10
   - type: verifies
-    target: SW-HKP9YP
+    target: REQ-NYRKJZW
     confirmed: 9ce59d80eec7
 ---
 **Objective:** verify that the local API behaves as specified.

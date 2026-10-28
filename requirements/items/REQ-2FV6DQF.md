@@ -1,5 +1,5 @@
 ---
-id: SW-6KEF7V
+id: REQ-2FV6DQF
 type: software-requirement
 title: Heat pump driver notifys user preferences
 status: Review
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - release-2.0
   - accessibility
-parent: SYS-WNF4KZ
-order: 30
+former-id: SW-6KEF7V
+parent: REQ-KJK6SHD
+order: a2
 links:
   - type: refines
-    target: SYS-WNF4KZ
+    target: REQ-KJK6SHD
     confirmed: 7e6ec97a0ef2
 ---
 The heating controller shall restore energy consumption below 0.5 W in standby.

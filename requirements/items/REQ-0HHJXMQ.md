@@ -1,5 +1,5 @@
 ---
-id: TC-TQ0KN5
+id: REQ-0HHJXMQ
 type: test-case
 title: "Verify: Cloud backend switchs error conditions"
 status: Review
@@ -7,14 +7,15 @@ tags:
   - ux
   - cost
   - customer-request
-parent: INFO-7P4D8D
-order: 1050
+former-id: TC-TQ0KN5
+parent: REQ-8351896
+order: b0g
 links:
   - type: verifies
-    target: SYS-G0JBM8
+    target: REQ-V6198RX
     confirmed: 4d23af5c0f84
   - type: verifies
-    target: SW-1Z9X0M
+    target: REQ-WHHNA6S
     confirmed: 4509eef2439a
 ---
 **Objective:** verify that the cloud backend behaves as specified.

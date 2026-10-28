@@ -1,5 +1,5 @@
 ---
-id: DE-JPVPG0
+id: REQ-6A9FJ1Q
 type: design-element
 title: Module user_account_service_37
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: J. Müller
 tags:
   - release-1.0
-parent: SW-0JR572
-order: 10
+former-id: DE-JPVPG0
+parent: REQ-J9TD8TJ
+order: a0
 links:
   - type: implements
-    target: SW-0JR572
+    target: REQ-J9TD8TJ
     confirmed: 214d795b4721
 ---
 Implemented in `src/cloud/user_account_service.c`.

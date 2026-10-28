@@ -1,5 +1,5 @@
 ---
-id: TC-DDF9RY
+id: REQ-1PNHSXT
 type: test-case
 title: "Regression: Telemetry pipeline validates audit records"
 status: Draft
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - customer-request
   - i18n
-parent: INFO-ECHASH
-order: 650
+former-id: TC-DDF9RY
+parent: REQ-6H15AV2
+order: b02
 links:
   - type: verifies
-    target: SYS-MK2A6C
+    target: REQ-V3SSX4W
     confirmed: f66b9f28edb5
 ---
 **Objective:** verify that the device behaves as specified.

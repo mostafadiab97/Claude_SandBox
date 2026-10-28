@@ -1,5 +1,5 @@
 ---
-id: TC-ECD3HS
+id: REQ-4ST49CS
 type: test-case
 title: "Verify: Status LED detects access tokens"
 status: Obsolete
@@ -7,14 +7,15 @@ priority: High
 owner: É. Laurent
 tags:
   - regulatory
-parent: INFO-HTSZ15
-order: 550
+former-id: TC-ECD3HS
+parent: REQ-Y9VHHKA
+order: as
 links:
   - type: verifies
-    target: SYS-FNTHY0
+    target: REQ-719VVV2
     confirmed: 86355bb1c3be
   - type: verifies
-    target: SW-YG9MA7
+    target: REQ-DFQF1M3
     confirmed: 44025c9425c4
 ---
 **Objective:** verify that the status LED behaves as specified.

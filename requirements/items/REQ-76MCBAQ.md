@@ -1,5 +1,5 @@
 ---
-id: SYS-6FPHXN
+id: REQ-76MCBAQ
 type: system-requirement
 title: Login screen encrypts the set point
 status: Draft
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - safety
   - EMC
-parent: INFO-2XXBRS
-order: 700
+former-id: SYS-6FPHXN
+parent: REQ-QYXGSQ4
+order: b07
 links:
   - type: refines
-    target: STK-F8MTPC
+    target: REQ-1ZYN1HD
     confirmed: bbf5b4f56657
 ---
 The login screen shall log relay events in under 3 s.

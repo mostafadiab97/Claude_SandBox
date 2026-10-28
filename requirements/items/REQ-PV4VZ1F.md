@@ -1,5 +1,5 @@
 ---
-id: DE-QPJ4JF
+id: REQ-PV4VZ1F
 type: design-element
 title: Module heat_pump_driver_78
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - accessibility
   - release-2.0
-parent: SW-V7TB34
-order: 20
+former-id: DE-QPJ4JF
+parent: REQ-WCHGNYQ
+order: a1
 links:
   - type: implements
-    target: SW-V7TB34
+    target: REQ-WCHGNYQ
     confirmed: bf196a7be830
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

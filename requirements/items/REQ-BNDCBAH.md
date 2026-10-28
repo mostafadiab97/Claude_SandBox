@@ -1,5 +1,5 @@
 ---
-id: DE-XMFTEZ
+id: REQ-BNDCBAH
 type: design-element
 title: Module encryption_layer_50
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - connectivity
-parent: SW-CWTAQN
-order: 10
+former-id: DE-XMFTEZ
+parent: REQ-HZKDV1Z
+order: a0
 links:
   - type: implements
-    target: SW-CWTAQN
+    target: REQ-HZKDV1Z
     confirmed: 095aebabf828
 ---
 Implemented in `src/safe/encryption_layer.c`.

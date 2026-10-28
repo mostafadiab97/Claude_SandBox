@@ -1,5 +1,5 @@
 ---
-id: SW-ZTADFG
+id: REQ-2H6A4NP
 type: software-requirement
 title: Wi-Fi module reports the set point
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - performance
   - cost
   - accessibility
-parent: SYS-RB6KMZ
-order: 30
+former-id: SW-ZTADFG
+parent: REQ-AKMXCSZ
+order: a2
 links:
   - type: refines
-    target: SYS-RB6KMZ
+    target: REQ-AKMXCSZ
     confirmed: 9e9699c7ff42
 ---
 The Zigbee radio shall switch energy consumption without user interaction.

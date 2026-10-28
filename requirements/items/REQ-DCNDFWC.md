@@ -1,5 +1,5 @@
 ---
-id: SYS-X39PY1
+id: REQ-DCNDFWC
 type: system-requirement
 title: Heating controller logs access tokens
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - regulatory
   - accessibility
-parent: INFO-6DQTKV
-order: 1300
+former-id: SYS-X39PY1
+parent: REQ-7ED7ZET
+order: b15
 links:
   - type: refines
-    target: STK-EWSQ9Z
+    target: REQ-GXKEHF3
     confirmed: aa5e4143dbe7
 ---
 The heating controller shall synchronise error conditions using AES-256-GCM.

@@ -1,17 +1,18 @@
 ---
-id: DEF-B76HMV
+id: REQ-FGDZVFC
 type: defect
 title: "Defect: Bluetooth LE link does not store the operating mode"
 status: Draft
 priority: Low
-parent: INFO-Y69DRS
-order: 70
+former-id: DEF-B76HMV
+parent: REQ-YW554H8
+order: a6
 links:
   - type: relates-to
-    target: TC-6P7XYR
+    target: REQ-HE01S1T
     confirmed: e8d1aa14f423
   - type: relates-to
-    target: SYS-7RZPD7
+    target: REQ-84ZV56S
     confirmed: ff918beefe64
 ---
 Found during regression testing of build 2.4.20.

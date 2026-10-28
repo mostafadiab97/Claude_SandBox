@@ -1,18 +1,19 @@
 ---
-id: TC-T53PMJ
+id: REQ-01DVRD9
 type: test-case
 title: "Verify: Touch display calibrates the room temperature"
 status: Obsolete
 priority: Medium
 owner: L. Samir
-parent: INFO-HTSZ15
-order: 1440
+former-id: TC-T53PMJ
+parent: REQ-Y9VHHKA
+order: b1J
 links:
   - type: verifies
-    target: SYS-9W9NZD
+    target: REQ-T3A35PV
     confirmed: 4875c522f62f
   - type: verifies
-    target: SW-BERKW5
+    target: REQ-VNGS65Y
     confirmed: 4ff3c09d3986
 ---
 **Objective:** verify that the touch display behaves as specified.

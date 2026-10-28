@@ -1,5 +1,5 @@
 ---
-id: HW-KNFDCX
+id: REQ-GS48SPW
 type: hardware-requirement
 title: Regulation loop synchronises audit records
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - release-1.0
   - ux
-parent: SYS-Y62PFM
-order: 40
+former-id: HW-KNFDCX
+parent: REQ-3NYYTRF
+order: a3
 links:
   - type: refines
-    target: SYS-Y62PFM
+    target: REQ-3NYYTRF
     confirmed: daa058155ad3
 ---
 The regulation loop shall restore the room temperature below 0.5 W in standby.

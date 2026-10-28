@@ -1,5 +1,5 @@
 ---
-id: IF-1WSB0H
+id: REQ-WJQSJSQ
 type: interface-requirement
 title: Main PCB measures schedule entries
 status: Review
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - EMC
   - power
-parent: SYS-JP2FG0
-order: 10
+former-id: IF-1WSB0H
+parent: REQ-NN5DHAX
+order: a0
 links:
   - type: refines
-    target: SYS-JP2FG0
+    target: REQ-NN5DHAX
     confirmed: 0bf18351a2cd
 ---
 The power supply shall validate access tokens within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: HW-BEN5S1
+id: REQ-M35DMRH
 type: hardware-requirement
 title: Pairing process notifys safety limits
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: N. Kamal
 tags:
   - regulatory
-parent: SYS-0MGEHH
-order: 20
+former-id: HW-BEN5S1
+parent: REQ-HY0DZ5N
+order: a1
 links:
   - type: refines
-    target: SYS-0MGEHH
+    target: REQ-HY0DZ5N
     confirmed: 342197138fa1
 ---
 The local API shall encrypt the room temperature for at least 10 years.

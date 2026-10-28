@@ -1,14 +1,15 @@
 ---
-id: TC-P3K385
+id: REQ-F39F8S1
 type: test-case
 title: "Verify: OTA server validates error conditions"
 status: Draft
 priority: Medium
-parent: INFO-7P4D8D
-order: 1100
+former-id: TC-P3K385
+parent: REQ-8351896
+order: b0l
 links:
   - type: verifies
-    target: SYS-BMNNFF
+    target: REQ-61CEQ7Y
     confirmed: e59e68c0f6b6
 ---
 **Objective:** verify that the OTA server behaves as specified.

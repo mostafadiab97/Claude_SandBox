@@ -1,5 +1,5 @@
 ---
-id: TC-AA7JGK
+id: REQ-GG7734R
 type: test-case
 title: "Verify: Encryption layer displays sensor readings"
 status: Draft
@@ -7,14 +7,15 @@ priority: Medium
 owner: A. Hassan
 tags:
   - regulatory
-parent: INFO-Z4TW4B
-order: 1490
+former-id: TC-AA7JGK
+parent: REQ-K6FGAY0
+order: b1O
 links:
   - type: verifies
-    target: SYS-NW2H4K
+    target: REQ-RSNHK9N
     confirmed: 061c07f59466
   - type: verifies
-    target: SW-4YMQ7F
+    target: REQ-M4PXVBQ
     confirmed: 9a7c3b69032e
 ---
 **Objective:** verify that the encryption layer behaves as specified.

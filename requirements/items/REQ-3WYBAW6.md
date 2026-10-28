@@ -1,5 +1,5 @@
 ---
-id: IF-EQ4NTH
+id: REQ-3WYBAW6
 type: interface-requirement
 title: Log user preferences — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - security
-parent: IF-94WKBQ
-order: 10
+former-id: IF-EQ4NTH
+parent: REQ-G8B1E6X
+order: a0
 links:
   - type: refines
-    target: IF-94WKBQ
+    target: REQ-G8B1E6X
     confirmed: 5e1669c9f2d3
 ---
 The regulation loop shall limit audit records in all supported languages.

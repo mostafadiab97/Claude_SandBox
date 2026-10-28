@@ -1,18 +1,19 @@
 ---
-id: TC-8T29F9
+id: REQ-P11YCKF
 type: test-case
 title: "Verify: Enclosure notifys access tokens"
 status: Draft
 priority: Medium
 owner: R. Nabil
-parent: INFO-MACGC3
-order: 1440
+former-id: TC-8T29F9
+parent: REQ-F9Z1FYS
+order: b1J
 links:
   - type: verifies
-    target: SYS-387701
+    target: REQ-9EQV92B
     confirmed: 0b7909b67648
   - type: verifies
-    target: SW-BG7MTP
+    target: REQ-CSPBTT0
     confirmed: f300000fd52a
 ---
 **Objective:** verify that the enclosure behaves as specified.

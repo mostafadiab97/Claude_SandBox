@@ -1,5 +1,5 @@
 ---
-id: IF-EEMT2C
+id: REQ-Y1C1RB5
 type: interface-requirement
 title: Home dashboard reports the room temperature
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: S. Adel
 tags:
   - security
-parent: SYS-90Z9AA
-order: 40
+former-id: IF-EEMT2C
+parent: REQ-R8AR4B2
+order: a3
 links:
   - type: refines
-    target: SYS-90Z9AA
+    target: REQ-R8AR4B2
     confirmed: fe1a440a5bde
 ---
 The schedule editor shall detect safety limits in all supported languages.

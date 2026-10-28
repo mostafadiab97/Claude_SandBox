@@ -1,14 +1,15 @@
 ---
-id: TC-Z3TEPS
+id: REQ-1EQEN95
 type: test-case
 title: "Regression: Mobile app limits humidity values"
 status: Approved
 priority: High
-parent: INFO-ECHASH
-order: 1670
+former-id: TC-Z3TEPS
+parent: REQ-6H15AV2
+order: b1g
 links:
   - type: verifies
-    target: SYS-G2YZ1M
+    target: REQ-WBPCE50
     confirmed: ea46b375483c
 ---
 **Objective:** verify that the device behaves as specified.

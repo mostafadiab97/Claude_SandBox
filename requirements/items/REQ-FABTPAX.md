@@ -1,5 +1,5 @@
 ---
-id: HW-HZE97D
+id: REQ-FABTPAX
 type: hardware-requirement
 title: Zone valve measures the operating mode
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - ux
   - customer-request
-parent: SYS-YKN19M
-order: 20
+former-id: HW-HZE97D
+parent: REQ-E16RF9X
+order: a1
 links:
   - type: refines
-    target: SYS-YKN19M
+    target: REQ-E16RF9X
     confirmed: cf6a8acfb8a2
 ---
 The heating controller shall synchronise the operating mode at least once per minute.

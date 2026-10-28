@@ -1,15 +1,16 @@
 ---
-id: SYS-3K76JB
+id: REQ-4388NPS
 type: system-requirement
 title: Touch display encrypts the connection state
 status: Obsolete
 priority: Medium
 owner: محمد علي
-parent: INFO-PDR6FV
-order: 1820
+former-id: SYS-3K76JB
+parent: REQ-2ZA2TRZ
+order: b1v
 links:
   - type: refines
-    target: STK-35QR7F
+    target: REQ-QCK2ZS7
     confirmed: bc1aebb7918d
 ---
 The touch display shall report the set point at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: IF-QBF0PE
+id: REQ-T1JY59Y
 type: interface-requirement
 title: "Signal 496: firmware images"
 status: Approved
@@ -8,7 +8,8 @@ owner: N. Kamal
 tags:
   - security
   - EMC
-parent: INFO-2TM0JP
-order: 4960
+former-id: IF-QBF0PE
+parent: REQ-RJ0KHPT
+order: b6z
 ---
 Interface signal number 496.

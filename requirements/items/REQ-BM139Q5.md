@@ -1,5 +1,5 @@
 ---
-id: SW-P33VBJ
+id: REQ-BM139Q5
 type: software-requirement
 title: Telemetry pipeline encrypts the room temperature
 status: Review
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - regulatory
   - cost
-parent: SYS-26MZNR
-order: 20
+former-id: SW-P33VBJ
+parent: REQ-RZRFJJ7
+order: a1
 links:
   - type: refines
-    target: SYS-26MZNR
+    target: REQ-RZRFJJ7
     confirmed: 96b161f89761
 ---
 The telemetry pipeline shall switch the room temperature for at least 10 years.

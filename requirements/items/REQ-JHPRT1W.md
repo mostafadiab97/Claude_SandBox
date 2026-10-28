@@ -1,5 +1,5 @@
 ---
-id: SW-HXQZ63
+id: REQ-JHPRT1W
 type: software-requirement
 title: Measure error conditions — detail
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - regulatory
   - i18n
-parent: SW-CYE22A
-order: 10
+former-id: SW-HXQZ63
+parent: REQ-367C74M
+order: a0
 links:
   - type: refines
-    target: SW-CYE22A
+    target: REQ-367C74M
     confirmed: fc2f57af559d
 ---
 The status LED shall synchronise access tokens after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: SYS-TXTNG4
+id: REQ-K8WPAJM
 type: system-requirement
 title: Wi-Fi module stores relay events
 status: Review
@@ -9,14 +9,15 @@ tags:
   - ux
   - EMC
   - performance
-parent: INFO-NRVHA2
-order: 1080
+former-id: SYS-TXTNG4
+parent: REQ-6R94HFM
+order: b0j
 links:
   - type: refines
-    target: STK-GMCKMF
+    target: REQ-5EJHVJ8
     confirmed: f47328374a2b
   - type: mitigates
-    target: RSK-QP0EFZ
+    target: REQ-JX165DV
     confirmed: b4372c636b9e
 ---
 The Wi-Fi module shall authenticate error conditions within 200 ms.

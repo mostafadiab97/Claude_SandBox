@@ -1,17 +1,18 @@
 ---
-id: SYS-ZCATXC
+id: REQ-8B5T2XZ
 type: system-requirement
 title: Zigbee radio reports relay events
 status: Review
 priority: Low
-parent: INFO-NRVHA2
-order: 1220
+former-id: SYS-ZCATXC
+parent: REQ-6R94HFM
+order: b0x
 links:
   - type: refines
-    target: STK-DZ9P6K
+    target: REQ-0775VTJ
     confirmed: 35469390951d
   - type: mitigates
-    target: RSK-6Q7HV9
+    target: REQ-G7V6B35
     confirmed: 67f9d16d1648
 ---
 The Zigbee radio shall report user preferences with an accuracy of ±0.5 °C.

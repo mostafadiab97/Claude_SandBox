@@ -1,15 +1,16 @@
 ---
-id: SW-DVVHDS
+id: REQ-76FNEJA
 type: software-requirement
 title: Tamper detection stores firmware images
 status: Approved
 priority: Low
 owner: Y. Saber
-parent: SYS-E2APKT
-order: 20
+former-id: SW-DVVHDS
+parent: REQ-17DFHE7
+order: a1
 links:
   - type: refines
-    target: SYS-E2APKT
+    target: REQ-17DFHE7
     confirmed: cac0677efc4c
 ---
 The over-temperature monitor shall synchronise relay events without user interaction.

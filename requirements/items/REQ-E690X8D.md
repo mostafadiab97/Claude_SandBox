@@ -1,15 +1,16 @@
 ---
-id: HW-AZDNFC
+id: REQ-E690X8D
 type: hardware-requirement
 title: Battery backup calibrates the connection state
 status: Draft
 priority: Medium
 owner: L. Samir
-parent: SYS-QS9FSV
-order: 20
+former-id: HW-AZDNFC
+parent: REQ-MDST6CM
+order: a1
 links:
   - type: refines
-    target: SYS-QS9FSV
+    target: REQ-MDST6CM
     confirmed: 545a69781e80
 ---
 The battery backup shall display user preferences at least once per minute.

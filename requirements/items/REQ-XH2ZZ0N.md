@@ -1,15 +1,16 @@
 ---
-id: SYS-CP5K95
+id: REQ-XH2ZZ0N
 type: system-requirement
 title: Home dashboard encrypts access tokens
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: INFO-2XXBRS
-order: 820
+former-id: SYS-CP5K95
+parent: REQ-QYXGSQ4
+order: b0J
 links:
   - type: refines
-    target: STK-B9Y7CM
+    target: REQ-YGQ30E7
     confirmed: 2e83dea5db22
 ---
 The home dashboard shall log the room temperature after a power loss.

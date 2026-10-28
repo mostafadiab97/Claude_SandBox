@@ -1,14 +1,15 @@
 ---
-id: TC-28B1ZS
+id: REQ-T7G7YXC
 type: test-case
 title: "Verify: Home dashboard encrypts user preferences"
 status: Obsolete
 owner: محمد علي
-parent: INFO-J0FETE
-order: 80
+former-id: TC-28B1ZS
+parent: REQ-WR5ZJN9
+order: a7
 links:
   - type: verifies
-    target: SYS-228KWQ
+    target: REQ-PW4KWQ9
     confirmed: 96ed9cb06525
 ---
 **Objective:** verify that the home dashboard behaves as specified.

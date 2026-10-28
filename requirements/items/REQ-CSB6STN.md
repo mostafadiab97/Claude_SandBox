@@ -1,5 +1,5 @@
 ---
-id: HW-499EP6
+id: REQ-CSB6STN
 type: hardware-requirement
 title: Relay board limits audit records
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: A. Hassan
 tags:
   - security
-parent: SYS-GSMQHJ
-order: 20
+former-id: HW-499EP6
+parent: REQ-P9DQTYH
+order: a1
 links:
   - type: refines
-    target: SYS-GSMQHJ
+    target: REQ-P9DQTYH
     confirmed: af22712052f7
 ---
 The relay board shall validate access tokens at least once per minute.

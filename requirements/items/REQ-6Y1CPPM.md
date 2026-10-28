@@ -1,15 +1,16 @@
 ---
-id: IF-JEQA1K
+id: REQ-6Y1CPPM
 type: interface-requirement
 title: Regulation loop limits error conditions
 status: Obsolete
 priority: Medium
 owner: M. Farouk
-parent: SYS-HZRAQ2
-order: 40
+former-id: IF-JEQA1K
+parent: REQ-MN0BSTQ
+order: a3
 links:
   - type: refines
-    target: SYS-HZRAQ2
+    target: REQ-MN0BSTQ
     confirmed: 67e08d743ee6
 ---
 The heating controller shall log the set point without user interaction.

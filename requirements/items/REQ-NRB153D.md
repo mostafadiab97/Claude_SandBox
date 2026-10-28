@@ -1,5 +1,5 @@
 ---
-id: TC-4EFH7M
+id: REQ-NRB153D
 type: test-case
 title: "Regression: Notification service validates humidity values"
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - ux
-parent: INFO-ECHASH
-order: 980
+former-id: TC-4EFH7M
+parent: REQ-6H15AV2
+order: b0Z
 links:
   - type: verifies
-    target: SYS-ZK10Z4
+    target: REQ-AN2GRAB
     confirmed: 0f09ad7fec21
 ---
 **Objective:** verify that the device behaves as specified.

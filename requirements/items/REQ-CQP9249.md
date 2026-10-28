@@ -1,5 +1,5 @@
 ---
-id: TC-746ZH4
+id: REQ-CQP9249
 type: test-case
 title: "Regression: Boiler interface calibrates the operating mode"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - performance
   - accessibility
-parent: INFO-ECHASH
-order: 870
+former-id: TC-746ZH4
+parent: REQ-6H15AV2
+order: b0O
 links:
   - type: verifies
-    target: SYS-0KFPCF
+    target: REQ-YHPAPF6
     confirmed: 38fbc1f616e4
 ---
 **Objective:** verify that the device behaves as specified.

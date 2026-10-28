@@ -1,14 +1,15 @@
 ---
-id: HW-SDQD9S
+id: REQ-YKPFS2C
 type: hardware-requirement
 title: Heating controller switchs energy consumption
 status: Obsolete
 priority: Low
-parent: SYS-BK9269
-order: 10
+former-id: HW-SDQD9S
+parent: REQ-ZBE8PSP
+order: a0
 links:
   - type: refines
-    target: SYS-BK9269
+    target: REQ-ZBE8PSP
     confirmed: 03a5e57cdda8
 ---
 The regulation loop shall calibrate schedule entries in all supported languages.

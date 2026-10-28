@@ -1,5 +1,5 @@
 ---
-id: SYS-EC99RK
+id: REQ-9DQ3XFA
 type: system-requirement
 title: Enclosure synchronises relay events
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: M. Farouk
 tags:
   - power
-parent: INFO-A6P9A8
-order: 130
+former-id: SYS-EC99RK
+parent: REQ-CMCS31A
+order: aC
 links:
   - type: refines
-    target: STK-922G3A
+    target: REQ-XZNTF7S
     confirmed: ea4a6a665922
 ---
 The enclosure shall validate the connection state for up to 8 zones.

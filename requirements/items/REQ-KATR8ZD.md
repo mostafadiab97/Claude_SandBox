@@ -1,5 +1,5 @@
 ---
-id: IF-ZN4JY3
+id: REQ-KATR8ZD
 type: interface-requirement
 title: "Signal 055: energy consumption"
 status: Approved
@@ -7,7 +7,8 @@ priority: Medium
 owner: É. Laurent
 tags:
   - safety
-parent: INFO-2TM0JP
-order: 550
+former-id: IF-ZN4JY3
+parent: REQ-RJ0KHPT
+order: as
 ---
 Interface signal number 55.

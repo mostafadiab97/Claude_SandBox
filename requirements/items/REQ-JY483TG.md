@@ -1,5 +1,5 @@
 ---
-id: SW-E6A04Q
+id: REQ-JY483TG
 type: software-requirement
 title: Heat pump driver synchronises audit records
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: S. Adel
 tags:
   - safety
-parent: SYS-QGA0VX
-order: 30
+former-id: SW-E6A04Q
+parent: REQ-GR9AKS7
+order: a2
 links:
   - type: refines
-    target: SYS-QGA0VX
+    target: REQ-GR9AKS7
     confirmed: 773f6956359c
 ---
 The heat pump driver shall restore the set point with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: SW-18E2NE
+id: REQ-2VKB01Y
 type: software-requirement
 title: Requirement with every field filled
 status: Approved
@@ -20,7 +20,8 @@ tags:
   - release-1.0
   - release-2.0
   - customer-request
-parent: INFO-ECHASH
-order: 50
+former-id: SW-18E2NE
+parent: REQ-6H15AV2
+order: a4
 ---
 All fourteen tags are set.

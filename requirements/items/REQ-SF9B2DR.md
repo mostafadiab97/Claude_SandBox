@@ -1,5 +1,5 @@
 ---
-id: SW-KDMQZE
+id: REQ-SF9B2DR
 type: software-requirement
 title: Schedule editor authenticates firmware images
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - cost
   - i18n
-parent: SYS-5EDM7V
-order: 20
+former-id: SW-KDMQZE
+parent: REQ-QCXJ0FE
+order: a1
 links:
   - type: refines
-    target: SYS-5EDM7V
+    target: REQ-QCXJ0FE
     confirmed: 50e6801cc264
 ---
 The mobile app shall display the connection state with an accuracy of ±0.5 °C.

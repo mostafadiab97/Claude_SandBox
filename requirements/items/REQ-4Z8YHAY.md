@@ -1,5 +1,5 @@
 ---
-id: DE-MRECRR
+id: REQ-4Z8YHAY
 type: design-element
 title: Module schedule_editor_3
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - security
   - customer-request
-parent: SW-31DMWT
-order: 20
+former-id: DE-MRECRR
+parent: REQ-X0PR5QX
+order: a1
 links:
   - type: implements
-    target: SW-31DMWT
+    target: REQ-X0PR5QX
     confirmed: 250da4d89bc8
 ---
 Implemented in `src/app/schedule_editor.c`.

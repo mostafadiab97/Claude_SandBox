@@ -1,15 +1,16 @@
 ---
-id: SYS-5K4SZ4
+id: REQ-SAMMZE6
 type: system-requirement
 title: Zone valve logs humidity values
 status: Draft
 priority: Medium
 owner: S. Adel
-parent: INFO-6DQTKV
-order: 220
+former-id: SYS-5K4SZ4
+parent: REQ-7ED7ZET
+order: aL
 links:
   - type: refines
-    target: STK-AA05P4
+    target: REQ-REA5VGA
     confirmed: e2bec3bcd11c
 ---
 The zone valve shall display the operating mode in all supported languages.

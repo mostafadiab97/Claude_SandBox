@@ -1,5 +1,5 @@
 ---
-id: TC-JWG6R0
+id: REQ-FJMVP09
 type: test-case
 title: "Verify: Local API restores firmware images"
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - customer-request
   - release-1.0
   - release-2.0
-parent: INFO-F0M7VC
-order: 670
+former-id: TC-JWG6R0
+parent: REQ-67RQXCK
+order: b04
 links:
   - type: verifies
-    target: SYS-DNKAZZ
+    target: REQ-63BDR23
     confirmed: 22452286eeb7
 ---
 **Objective:** verify that the local API behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SYS-B9WH28
+id: REQ-Q1BR7H4
 type: system-requirement
 title: Bluetooth LE link synchronises schedule entries
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - release-1.0
   - cost
-parent: INFO-NRVHA2
-order: 250
+former-id: SYS-B9WH28
+parent: REQ-6R94HFM
+order: aO
 links:
   - type: refines
-    target: STK-5CT2VD
+    target: REQ-YDX9MVW
     confirmed: 51ca0f7a80ed
 ---
 The Bluetooth LE link shall detect energy consumption for up to 8 zones.

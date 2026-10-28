@@ -1,15 +1,16 @@
 ---
-id: SYS-S55V4N
+id: REQ-2QD5T4F
 type: system-requirement
 title: Regulation loop synchronises the room temperature
 status: Review
 priority: Low
 owner: محمد علي
-parent: INFO-6DQTKV
-order: 170
+former-id: SYS-S55V4N
+parent: REQ-7ED7ZET
+order: aG
 links:
   - type: refines
-    target: STK-M7S0HJ
+    target: REQ-219619F
     confirmed: 000356d5d38b
 ---
 The regulation loop shall synchronise the room temperature for at least 10 years.

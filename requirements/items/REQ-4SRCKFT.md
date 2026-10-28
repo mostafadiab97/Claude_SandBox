@@ -1,5 +1,5 @@
 ---
-id: TC-W6AQHZ
+id: REQ-4SRCKFT
 type: test-case
 title: "Verify: Secure boot restores the set point"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - i18n
   - release-1.0
   - regulatory
-parent: INFO-Z4TW4B
-order: 1390
+former-id: TC-W6AQHZ
+parent: REQ-K6FGAY0
+order: b1E
 links:
   - type: verifies
-    target: SYS-V5VS4J
+    target: REQ-N2XFHY3
     confirmed: 147eefc8e2dc
 ---
 **Objective:** verify that the secure boot behaves as specified.

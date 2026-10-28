@@ -1,5 +1,5 @@
 ---
-id: SYS-KRN3ZP
+id: REQ-WKEP01A
 type: system-requirement
 title: Over-temperature monitor validates the room temperature
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - accessibility
   - cost
   - release-1.0
-parent: INFO-0229G8
-order: 1460
+former-id: SYS-KRN3ZP
+parent: REQ-H9113WA
+order: b1L
 links:
   - type: refines
-    target: STK-SM9B7Z
+    target: REQ-Z2QF8WD
     confirmed: 44235e2789f0
   - type: mitigates
-    target: RSK-4WN2DG
+    target: REQ-3DEFD6F
     confirmed: b41c475816a4
 ---
 The over-temperature monitor shall log access tokens in all supported languages.

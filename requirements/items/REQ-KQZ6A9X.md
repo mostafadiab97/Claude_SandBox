@@ -1,16 +1,17 @@
 ---
-id: TC-N229CR
+id: REQ-KQZ6A9X
 type: test-case
 title: "Verify: Bluetooth LE link switchs the room temperature"
 status: Obsolete
 owner: A. Hassan
 tags:
   - customer-request
-parent: INFO-F0M7VC
-order: 180
+former-id: TC-N229CR
+parent: REQ-67RQXCK
+order: aH
 links:
   - type: verifies
-    target: SYS-4T8ANS
+    target: REQ-XED1QNH
     confirmed: 400a2ed062a9
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

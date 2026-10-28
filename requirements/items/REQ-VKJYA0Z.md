@@ -1,5 +1,5 @@
 ---
-id: IF-8MDMX0
+id: REQ-VKJYA0Z
 type: interface-requirement
 title: Encrypt energy consumption — detail
 status: Review
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - i18n
   - power
-parent: IF-ZNQAJX
-order: 10
+former-id: IF-8MDMX0
+parent: REQ-Q9WP77E
+order: a0
 links:
   - type: refines
-    target: IF-ZNQAJX
+    target: REQ-Q9WP77E
     confirmed: 22b29fa08012
 ---
 The home dashboard shall detect the operating mode within 200 ms.

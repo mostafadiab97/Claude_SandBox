@@ -1,5 +1,5 @@
 ---
-id: IF-AB8ASZ
+id: REQ-KAE8524
 type: interface-requirement
 title: Rotary knob stores the operating mode
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: A. Hassan
 tags:
   - performance
-parent: SYS-JWK81Y
-order: 20
+former-id: IF-AB8ASZ
+parent: REQ-2QACV9V
+order: a1
 links:
   - type: refines
-    target: SYS-JWK81Y
+    target: REQ-2QACV9V
     confirmed: 8656508483c4
 ---
 The backlight shall store error conditions for at least 10 years.

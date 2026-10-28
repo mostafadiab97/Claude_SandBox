@@ -1,5 +1,5 @@
 ---
-id: TC-KYCRGN
+id: REQ-JJS295F
 type: test-case
 title: "Verify: Encryption layer calibrates energy consumption"
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 owner: L. Samir
 tags:
   - safety
-parent: INFO-Z4TW4B
-order: 870
+former-id: TC-KYCRGN
+parent: REQ-K6FGAY0
+order: b0O
 links:
   - type: verifies
-    target: SYS-DPJW7W
+    target: REQ-XVKYMQP
     confirmed: 011bc9e01fc2
   - type: verifies
-    target: SW-WHR27K
+    target: REQ-9EAJVGZ
     confirmed: a2de404f9c89
 ---
 **Objective:** verify that the encryption layer behaves as specified.

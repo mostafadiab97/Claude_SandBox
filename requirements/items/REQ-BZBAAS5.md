@@ -1,5 +1,5 @@
 ---
-id: TC-13N9QX
+id: REQ-BZBAAS5
 type: test-case
 title: "Verify: OTA server validates the room temperature"
 status: Review
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - accessibility
   - EMC
-parent: INFO-7P4D8D
-order: 1020
+former-id: TC-13N9QX
+parent: REQ-8351896
+order: b0d
 links:
   - type: verifies
-    target: SYS-RAASTZ
+    target: REQ-QMFR7EA
     confirmed: 6b0c923b5313
 ---
 **Objective:** verify that the OTA server behaves as specified.

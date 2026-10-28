@@ -1,15 +1,16 @@
 ---
-id: IF-W8TGD6
+id: REQ-PVGYR4K
 type: interface-requirement
 title: Rotary knob stores humidity values
 status: Review
 priority: Medium
 owner: N. Kamal
-parent: SYS-E287Z5
-order: 30
+former-id: IF-W8TGD6
+parent: REQ-VFTA3G4
+order: a2
 links:
   - type: refines
-    target: SYS-E287Z5
+    target: REQ-VFTA3G4
     confirmed: 75c4df8a465f
 ---
 The rotary knob shall report relay events without user interaction.

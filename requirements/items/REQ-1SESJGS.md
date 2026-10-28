@@ -1,15 +1,16 @@
 ---
-id: TC-0PK9AY
+id: REQ-1SESJGS
 type: test-case
 title: "Verify: Menu system authenticates access tokens"
 status: Obsolete
 priority: Medium
 owner: H. Mostafa
-parent: INFO-HTSZ15
-order: 970
+former-id: TC-0PK9AY
+parent: REQ-Y9VHHKA
+order: b0Y
 links:
   - type: verifies
-    target: SYS-KMZ032
+    target: REQ-2E3JP7D
     confirmed: 604e69a0125a
 ---
 **Objective:** verify that the menu system behaves as specified.

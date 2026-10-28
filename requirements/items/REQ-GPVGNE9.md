@@ -1,18 +1,19 @@
 ---
-id: DEF-MWPR7V
+id: REQ-GPVGNE9
 type: defect
 title: "Defect: OTA server does not notify access tokens"
 status: Approved
 priority: Low
 owner: محمد علي
-parent: INFO-M91889
-order: 40
+former-id: DEF-MWPR7V
+parent: REQ-9FNWH0D
+order: a3
 links:
   - type: relates-to
-    target: TC-GX7NG7
+    target: REQ-0NP6CKZ
     confirmed: 1f75e64a55a1
   - type: relates-to
-    target: SYS-5N0YKT
+    target: REQ-EFBR2PC
     confirmed: 08567b44affd
 ---
 Found during regression testing of build 2.2.12.

@@ -1,5 +1,5 @@
 ---
-id: HW-8G68JC
+id: REQ-1J62HXZ
 type: hardware-requirement
 title: Main PCB encrypts sensor readings
 status: Obsolete
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - security
   - customer-request
-parent: SYS-ZM6EM1
-order: 10
+former-id: HW-8G68JC
+parent: REQ-HTQ6KCV
+order: a0
 links:
   - type: refines
-    target: SYS-ZM6EM1
+    target: REQ-HTQ6KCV
     confirmed: bc2cbad41247
 ---
 The enclosure shall calibrate energy consumption in all supported languages.

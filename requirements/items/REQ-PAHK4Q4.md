@@ -1,5 +1,5 @@
 ---
-id: IF-0G4EJG
+id: REQ-PAHK4Q4
 type: interface-requirement
 title: Wi-Fi module authenticates safety limits
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - customer-request
   - safety
-parent: SYS-S0ZBTB
-order: 10
+former-id: IF-0G4EJG
+parent: REQ-GFHZTHS
+order: a0
 links:
   - type: refines
-    target: SYS-S0ZBTB
+    target: REQ-GFHZTHS
     confirmed: 6e7d4ad625e8
 ---
 The Bluetooth LE link shall store relay events when the network is unavailable.

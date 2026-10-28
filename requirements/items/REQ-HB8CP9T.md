@@ -1,5 +1,5 @@
 ---
-id: SW-43XDNQ
+id: REQ-HB8CP9T
 type: software-requirement
 title: Secure boot reports audit records
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 tags:
   - ux
   - customer-request
-parent: SYS-T8M3T5
-order: 20
+former-id: SW-43XDNQ
+parent: REQ-5XTHHVF
+order: a1
 links:
   - type: refines
-    target: SYS-T8M3T5
+    target: REQ-5XTHHVF
     confirmed: 6f66a4941544
 ---
 The over-temperature monitor shall synchronise sensor readings within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: DE-AZWEXM
+id: REQ-489BAWE
 type: design-element
 title: Module notification_service_42
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - regulatory
   - power
-parent: SW-X8KPNF
-order: 10
+former-id: DE-AZWEXM
+parent: REQ-8YZ8JW3
+order: a0
 links:
   - type: implements
-    target: SW-X8KPNF
+    target: REQ-8YZ8JW3
     confirmed: e70c2cd2acbf
 ---
 Implemented in `src/app/notification_service.c`.

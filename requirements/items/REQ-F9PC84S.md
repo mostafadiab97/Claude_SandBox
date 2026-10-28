@@ -1,5 +1,5 @@
 ---
-id: TC-50GTK8
+id: REQ-F9PC84S
 type: test-case
 title: "Verify: Wi-Fi module restores access tokens"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - safety
   - cost
   - customer-request
-parent: INFO-F0M7VC
-order: 470
+former-id: TC-50GTK8
+parent: REQ-67RQXCK
+order: ak
 links:
   - type: verifies
-    target: SYS-TC0THB
+    target: REQ-M54QCCE
     confirmed: c7a17f22b84b
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

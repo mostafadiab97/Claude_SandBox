@@ -1,15 +1,16 @@
 ---
-id: SYS-0C2S4D
+id: REQ-A2XPEJG
 type: system-requirement
 title: Wi-Fi module synchronises sensor readings
 status: Draft
 priority: Medium
 owner: N. Kamal
-parent: INFO-NRVHA2
-order: 840
+former-id: SYS-0C2S4D
+parent: REQ-6R94HFM
+order: b0L
 links:
   - type: refines
-    target: STK-XSZSEZ
+    target: REQ-YN3XNWJ
     confirmed: 1038f4e2e9d4
 ---
 The Wi-Fi module shall switch user preferences within 200 ms.

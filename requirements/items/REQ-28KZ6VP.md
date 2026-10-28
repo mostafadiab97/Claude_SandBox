@@ -1,5 +1,5 @@
 ---
-id: UC-2PQG1K
+id: REQ-28KZ6VP
 type: use-case
 title: "UC: Authenticate audit records with the device registry"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - power
   - safety
-parent: INFO-Y8G953
-order: 160
+former-id: UC-2PQG1K
+parent: REQ-Y9XT61E
+order: aG
 links:
   - type: relates-to
-    target: STK-DKX022
+    target: REQ-YP9KVDK
     confirmed: a534e573be6a
 ---
 **Actor:** home owner

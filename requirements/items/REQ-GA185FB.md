@@ -1,5 +1,5 @@
 ---
-id: TC-M71X0A
+id: REQ-GA185FB
 type: test-case
 title: "Verify: Local API displays the operating mode"
 status: Approved
@@ -8,14 +8,15 @@ owner: H. Mostafa
 tags:
   - safety
   - accessibility
-parent: INFO-F0M7VC
-order: 240
+former-id: TC-M71X0A
+parent: REQ-67RQXCK
+order: aN
 links:
   - type: verifies
-    target: SYS-0ZTB0C
+    target: REQ-YN1TCK7
     confirmed: 930b53a550f7
   - type: verifies
-    target: SW-QK4N65
+    target: REQ-RAY8C87
     confirmed: 92ce7f694c89
 ---
 **Objective:** verify that the local API behaves as specified.

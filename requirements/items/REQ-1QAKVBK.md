@@ -1,15 +1,16 @@
 ---
-id: SW-9V5R28
+id: REQ-1QAKVBK
 type: software-requirement
 title: Status LED calibrates the connection state
 status: Approved
 priority: Low
 owner: É. Laurent
-parent: SYS-K5A3V7
-order: 40
+former-id: SW-9V5R28
+parent: REQ-AGC4Q9G
+order: a3
 links:
   - type: refines
-    target: SYS-K5A3V7
+    target: REQ-AGC4Q9G
     confirmed: bf565e4503ad
 ---
 The touch display shall synchronise humidity values after a power loss.

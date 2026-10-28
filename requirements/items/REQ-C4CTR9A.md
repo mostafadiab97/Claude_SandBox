@@ -1,5 +1,5 @@
 ---
-id: SW-5KR0E9
+id: REQ-C4CTR9A
 type: software-requirement
 title: Encryption layer validates energy consumption
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - performance
   - safety
   - ux
-parent: SYS-HMK3XJ
-order: 20
+former-id: SW-5KR0E9
+parent: REQ-RNCD05K
+order: a1
 links:
   - type: refines
-    target: SYS-HMK3XJ
+    target: REQ-RNCD05K
     confirmed: 243ec13ec9e6
 ---
 The secure boot shall store energy consumption with an accuracy of ±0.5 °C.

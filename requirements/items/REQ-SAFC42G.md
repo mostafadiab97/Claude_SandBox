@@ -1,5 +1,5 @@
 ---
-id: IF-JQ7RHE
+id: REQ-SAFC42G
 type: interface-requirement
 title: "Signal 416: relay events"
 status: Draft
@@ -9,7 +9,8 @@ tags:
   - release-2.0
   - customer-request
   - power
-parent: INFO-2TM0JP
-order: 4160
+former-id: IF-JQ7RHE
+parent: REQ-RJ0KHPT
+order: b5h
 ---
 Interface signal number 416.

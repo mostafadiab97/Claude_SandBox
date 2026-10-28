@@ -1,5 +1,5 @@
 ---
-id: IF-X79KHS
+id: REQ-YTXQC7S
 type: interface-requirement
 title: Synchronise error conditions — detail
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - release-2.0
   - security
-parent: IF-B9A0C0
-order: 10
+former-id: IF-X79KHS
+parent: REQ-CTHYWZC
+order: a0
 links:
   - type: refines
-    target: IF-B9A0C0
+    target: REQ-CTHYWZC
     confirmed: 132a1a7e5904
 ---
 The secure boot shall display relay events for up to 8 zones.

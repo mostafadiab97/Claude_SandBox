@@ -1,15 +1,16 @@
 ---
-id: HW-YTEGVR
+id: REQ-HRAHCAM
 type: hardware-requirement
 title: Synchronise the set point — detail
 status: Draft
 priority: High
 owner: K. Tanaka
-parent: HW-TD5R2Y
-order: 10
+former-id: HW-YTEGVR
+parent: REQ-MQ9FPHS
+order: a0
 links:
   - type: refines
-    target: HW-TD5R2Y
+    target: REQ-MQ9FPHS
     confirmed: eea34b15e18e
 ---
 The power supply shall measure schedule entries at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: SW-9HHEBX
+id: REQ-TG09NQ6
 type: software-requirement
 title: Status LED notifys schedule entries
 status: Obsolete
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - performance
   - safety
-parent: SYS-S318HE
-order: 20
+former-id: SW-9HHEBX
+parent: REQ-HE392GV
+order: a1
 links:
   - type: refines
-    target: SYS-S318HE
+    target: REQ-HE392GV
     confirmed: a8739639e10d
 ---
 The menu system shall report firmware images for up to 8 zones.

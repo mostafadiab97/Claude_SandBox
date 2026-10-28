@@ -1,5 +1,5 @@
 ---
-id: SYS-J3QEM9
+id: REQ-TT6G6JA
 type: system-requirement
 title: Relay board encrypts the set point
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - EMC
   - release-1.0
-parent: INFO-A6P9A8
-order: 1860
+former-id: SYS-J3QEM9
+parent: REQ-CMCS31A
+order: b1z
 links:
   - type: refines
-    target: STK-4NGQJ5
+    target: REQ-4H1F9N3
     confirmed: 96640a7e340d
 ---
 The relay board shall calibrate access tokens below 0.5 W in standby.

@@ -1,5 +1,5 @@
 ---
-id: TC-53WT3P
+id: REQ-JJDSY2M
 type: test-case
 title: "Regression: Heat pump driver notifys humidity values"
 status: Obsolete
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - regulatory
   - EMC
-parent: INFO-ECHASH
-order: 2020
+former-id: TC-53WT3P
+parent: REQ-6H15AV2
+order: b2F
 links:
   - type: verifies
-    target: SYS-K8C5H7
+    target: REQ-CFE22NG
     confirmed: f2f1228e62f7
 ---
 **Objective:** verify that the device behaves as specified.

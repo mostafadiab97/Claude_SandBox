@@ -1,15 +1,16 @@
 ---
-id: IF-4SYVRB
+id: REQ-Z95MC5Y
 type: interface-requirement
 title: Zigbee radio reports relay events
 status: Draft
 priority: Low
 owner: É. Laurent
-parent: SYS-TRKV8X
-order: 20
+former-id: IF-4SYVRB
+parent: REQ-NRK05CG
+order: a1
 links:
   - type: refines
-    target: SYS-TRKV8X
+    target: REQ-NRK05CG
     confirmed: 598d6ef77c60
 ---
 The Wi-Fi module shall store user preferences within 200 ms.

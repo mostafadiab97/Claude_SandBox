@@ -1,5 +1,5 @@
 ---
-id: SYS-HDSJK7
+id: REQ-3E2Z93D
 type: system-requirement
 title: Boiler interface switchs user preferences
 status: Draft
@@ -8,14 +8,15 @@ owner: S. Adel
 tags:
   - safety
   - release-2.0
-parent: INFO-6DQTKV
-order: 590
+former-id: SYS-HDSJK7
+parent: REQ-7ED7ZET
+order: aw
 links:
   - type: refines
-    target: STK-75QZSA
+    target: REQ-NKR80ET
     confirmed: fef0332ed10c
   - type: mitigates
-    target: RSK-G8ARKV
+    target: REQ-N90PXTW
     confirmed: dd1f8627cbb6
 ---
 The boiler interface shall log humidity values for up to 8 zones.

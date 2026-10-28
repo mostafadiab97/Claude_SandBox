@@ -1,5 +1,5 @@
 ---
-id: SW-KCSMMF
+id: REQ-78AJ7KA
 type: software-requirement
 title: Heat pump driver displays schedule entries
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - release-2.0
   - EMC
-parent: SYS-JMK64W
-order: 20
+former-id: SW-KCSMMF
+parent: REQ-EPAG0J5
+order: a1
 links:
   - type: refines
-    target: SYS-JMK64W
+    target: REQ-EPAG0J5
     confirmed: 8c27f3c89bec
 ---
 The heating controller shall restore firmware images at least once per minute.

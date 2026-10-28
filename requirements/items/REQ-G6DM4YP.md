@@ -1,15 +1,16 @@
 ---
-id: SW-ESV8EZ
+id: REQ-G6DM4YP
 type: software-requirement
 title: Cloud backend logs energy consumption
 status: Draft
 priority: Medium
 owner: Y. Saber
-parent: SYS-TTBHSQ
-order: 10
+former-id: SW-ESV8EZ
+parent: REQ-YY33AAD
+order: a0
 links:
   - type: refines
-    target: SYS-TTBHSQ
+    target: REQ-YY33AAD
     confirmed: ac320e4fa404
 ---
 The telemetry pipeline shall store error conditions without user interaction.

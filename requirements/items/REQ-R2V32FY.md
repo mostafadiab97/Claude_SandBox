@@ -1,18 +1,19 @@
 ---
-id: TC-EBBTG7
+id: REQ-R2V32FY
 type: test-case
 title: "Verify: Power supply logs the room temperature"
 status: Approved
 priority: Medium
 owner: محمد علي
-parent: INFO-MACGC3
-order: 410
+former-id: TC-EBBTG7
+parent: REQ-F9Z1FYS
+order: ae
 links:
   - type: verifies
-    target: SYS-R4K32S
+    target: REQ-222GKXF
     confirmed: 5bdb17b664f3
   - type: verifies
-    target: SW-08XFNX
+    target: REQ-P7GSJF8
     confirmed: 61e860ae008f
 ---
 **Objective:** verify that the power supply behaves as specified.

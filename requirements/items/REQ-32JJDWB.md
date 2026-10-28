@@ -1,15 +1,16 @@
 ---
-id: TC-J4TVQN
+id: REQ-32JJDWB
 type: test-case
 title: "Verify: Mobile app limits the set point"
 status: Approved
 priority: Medium
 owner: S. Adel
-parent: INFO-J0FETE
-order: 90
+former-id: TC-J4TVQN
+parent: REQ-WR5ZJN9
+order: a8
 links:
   - type: verifies
-    target: SYS-6FPGAZ
+    target: REQ-HMSGNXC
     confirmed: 839828246f65
 ---
 **Objective:** verify that the mobile app behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: STK-8PN4VS
+id: REQ-WQB5JT6
 type: stakeholder-need
 title: Rotary knob must limit the operating mode
 status: Approved
@@ -9,7 +9,8 @@ tags:
   - ux
   - connectivity
   - performance
-parent: INFO-MK4XMC
-order: 10
+former-id: STK-8PN4VS
+parent: REQ-6JKVVN1
+order: a0
 ---
 As a home owner I want the rotary knob to calibrate the set point, so that my home stays comfortable.

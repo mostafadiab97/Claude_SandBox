@@ -1,15 +1,16 @@
 ---
-id: HW-EM7BEC
+id: REQ-QKDCRPK
 type: hardware-requirement
 title: Relay board encrypts the set point
 status: Draft
 priority: Medium
 owner: L. Samir
-parent: SYS-422XBG
-order: 20
+former-id: HW-EM7BEC
+parent: REQ-BGNBT5F
+order: a1
 links:
   - type: refines
-    target: SYS-422XBG
+    target: REQ-BGNBT5F
     confirmed: 5a6b1faa9b43
 ---
 The relay board shall switch access tokens using AES-256-GCM.

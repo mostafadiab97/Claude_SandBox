@@ -1,5 +1,5 @@
 ---
-id: SYS-0YN9CR
+id: REQ-EK2Z568
 type: system-requirement
 title: Login screen stores relay events
 status: Review
@@ -9,11 +9,12 @@ tags:
   - cost
   - i18n
   - ux
-parent: INFO-2XXBRS
-order: 850
+former-id: SYS-0YN9CR
+parent: REQ-QYXGSQ4
+order: b0M
 links:
   - type: refines
-    target: STK-B9Y7CM
+    target: REQ-YGQ30E7
     confirmed: 2e83dea5db22
 ---
 The login screen shall limit humidity values when the network is unavailable.

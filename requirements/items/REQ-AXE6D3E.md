@@ -1,16 +1,17 @@
 ---
-id: SW-34DWM5
+id: REQ-AXE6D3E
 type: software-requirement
 title: Zigbee radio synchronises humidity values
 status: Review
 owner: محمد علي
 tags:
   - connectivity
-parent: SYS-ZTHS0F
-order: 20
+former-id: SW-34DWM5
+parent: REQ-MSN5XXC
+order: a1
 links:
   - type: refines
-    target: SYS-ZTHS0F
+    target: REQ-MSN5XXC
     confirmed: 1917153ef15c
 ---
 The Zigbee radio shall store firmware images below 0.5 W in standby.

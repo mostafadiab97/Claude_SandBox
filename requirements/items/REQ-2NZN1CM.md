@@ -1,5 +1,5 @@
 ---
-id: HW-C0GADS
+id: REQ-2NZN1CM
 type: hardware-requirement
 title: Store the set point — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - security
   - release-2.0
-parent: HW-SVF5G6
-order: 10
+former-id: HW-C0GADS
+parent: REQ-65CZHYR
+order: a0
 links:
   - type: refines
-    target: HW-SVF5G6
+    target: REQ-65CZHYR
     confirmed: 622f0502ddbb
 ---
 The tamper detection shall log safety limits with an accuracy of ±0.5 °C.

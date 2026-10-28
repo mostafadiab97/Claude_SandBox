@@ -1,15 +1,16 @@
 ---
-id: TC-BAXP7E
+id: REQ-G62GQA0
 type: test-case
 title: "Regression: Enclosure displays the operating mode"
 status: Draft
 priority: High
 owner: K. Tanaka
-parent: INFO-ECHASH
-order: 1230
+former-id: TC-BAXP7E
+parent: REQ-6H15AV2
+order: b0y
 links:
   - type: verifies
-    target: SYS-FVC51X
+    target: REQ-JQGMKTV
     confirmed: 11ed96679d8d
 ---
 **Objective:** verify that the device behaves as specified.

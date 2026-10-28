@@ -1,15 +1,16 @@
 ---
-id: SW-P0TS5F
+id: REQ-0090WDC
 type: software-requirement
 title: OTA server validates the connection state
 status: Approved
 priority: High
 owner: J. Müller
-parent: SYS-K93N9B
-order: 40
+former-id: SW-P0TS5F
+parent: REQ-ME66BDW
+order: a3
 links:
   - type: refines
-    target: SYS-K93N9B
+    target: REQ-ME66BDW
     confirmed: e0ece5df8764
 ---
 The telemetry pipeline shall encrypt schedule entries using AES-256-GCM.

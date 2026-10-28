@@ -1,5 +1,5 @@
 ---
-id: SYS-NY5DFZ
+id: REQ-7PZT8S2
 type: system-requirement
 title: Rotary knob authenticates humidity values
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: É. Laurent
 tags:
   - release-1.0
-parent: INFO-PDR6FV
-order: 1300
+former-id: SYS-NY5DFZ
+parent: REQ-2ZA2TRZ
+order: b15
 links:
   - type: refines
-    target: STK-BV5YMS
+    target: REQ-XR7FDXB
     confirmed: 07434b0b5615
 ---
 The rotary knob shall authenticate the connection state at least once per minute.

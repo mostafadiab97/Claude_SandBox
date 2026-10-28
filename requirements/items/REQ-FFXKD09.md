@@ -1,5 +1,5 @@
 ---
-id: IF-9PH0KJ
+id: REQ-FFXKD09
 type: interface-requirement
 title: Schedule editor encrypts humidity values
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - security
   - connectivity
   - customer-request
-parent: SYS-CHKY3X
-order: 10
+former-id: IF-9PH0KJ
+parent: REQ-A3PZBKA
+order: a0
 links:
   - type: refines
-    target: SYS-CHKY3X
+    target: REQ-A3PZBKA
     confirmed: 3654ea6dcd35
 ---
 The mobile app shall detect the set point below 0.5 W in standby.

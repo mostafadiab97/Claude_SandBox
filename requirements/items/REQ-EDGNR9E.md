@@ -1,5 +1,5 @@
 ---
-id: TC-D0XMQ6
+id: REQ-EDGNR9E
 type: test-case
 title: "Verify: Main PCB logs audit records"
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - accessibility
   - customer-request
-parent: INFO-MACGC3
-order: 370
+former-id: TC-D0XMQ6
+parent: REQ-F9Z1FYS
+order: aa
 links:
   - type: verifies
-    target: SYS-A1R34W
+    target: REQ-04CHTD9
     confirmed: 95a4e5b7531a
 ---
 **Objective:** verify that the main PCB behaves as specified.

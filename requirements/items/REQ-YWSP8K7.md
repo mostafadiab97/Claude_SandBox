@@ -1,15 +1,16 @@
 ---
-id: IF-EYVBFF
+id: REQ-YWSP8K7
 type: interface-requirement
 title: Validate energy consumption — detail
 status: Approved
 priority: High
 owner: محمد علي
-parent: IF-0FTXDY
-order: 10
+former-id: IF-EYVBFF
+parent: REQ-C0M09MZ
+order: a0
 links:
   - type: refines
-    target: IF-0FTXDY
+    target: REQ-C0M09MZ
     confirmed: c8a06ce2cc08
 ---
 The OTA server shall switch the room temperature for at least 10 years.

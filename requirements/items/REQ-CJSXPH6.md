@@ -1,5 +1,5 @@
 ---
-id: SYS-XYBVJ4
+id: REQ-CJSXPH6
 type: system-requirement
 title: Notification service detects relay events
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - customer-request
   - release-1.0
-parent: INFO-2XXBRS
-order: 1650
+former-id: SYS-XYBVJ4
+parent: REQ-QYXGSQ4
+order: b1e
 links:
   - type: refines
-    target: STK-BR4RT9
+    target: REQ-QZME2VX
     confirmed: 16def0c1f947
 ---
 The notification service shall display audit records within 200 ms.

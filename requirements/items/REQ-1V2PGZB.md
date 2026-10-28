@@ -1,5 +1,5 @@
 ---
-id: SW-P1ZFCD
+id: REQ-1V2PGZB
 type: software-requirement
 title: Watchdog measures sensor readings
 status: Review
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - regulatory
   - performance
-parent: SYS-NW2H4K
-order: 10
+former-id: SW-P1ZFCD
+parent: REQ-RSNHK9N
+order: a0
 links:
   - type: refines
-    target: SYS-NW2H4K
+    target: REQ-RSNHK9N
     confirmed: 061c07f59466
 ---
 The encryption layer shall validate user preferences for up to 8 zones.

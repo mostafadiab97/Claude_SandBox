@@ -1,5 +1,5 @@
 ---
-id: HW-3XR1T5
+id: REQ-7KP21X2
 type: hardware-requirement
 title: Regulation loop logs the set point
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: L. Samir
 tags:
   - regulatory
-parent: SYS-C1KANF
-order: 30
+former-id: HW-3XR1T5
+parent: REQ-96M023B
+order: a2
 links:
   - type: refines
-    target: SYS-C1KANF
+    target: REQ-96M023B
     confirmed: c1311b4a3390
 ---
 The regulation loop shall log error conditions within 200 ms.

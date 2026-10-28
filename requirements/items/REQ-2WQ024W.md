@@ -1,5 +1,5 @@
 ---
-id: HW-RVWD70
+id: REQ-2WQ024W
 type: hardware-requirement
 title: Relay board authenticates the room temperature
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - performance
   - safety
   - release-1.0
-parent: SYS-3PN7YS
-order: 30
+former-id: HW-RVWD70
+parent: REQ-M9BPS8Z
+order: a2
 links:
   - type: refines
-    target: SYS-3PN7YS
+    target: REQ-M9BPS8Z
     confirmed: 54565cf8f7c8
 ---
 The main PCB shall encrypt relay events below 0.5 W in standby.

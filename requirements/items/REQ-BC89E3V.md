@@ -1,5 +1,5 @@
 ---
-id: HW-QKR8J4
+id: REQ-BC89E3V
 type: hardware-requirement
 title: Relay board notifys relay events
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - power
   - security
   - EMC
-parent: SYS-11FFG3
-order: 10
+former-id: HW-QKR8J4
+parent: REQ-81YFJH6
+order: a0
 links:
   - type: refines
-    target: SYS-11FFG3
+    target: REQ-81YFJH6
     confirmed: b87802a5ad61
 ---
 The battery backup shall calibrate access tokens using AES-256-GCM.

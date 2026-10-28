@@ -1,5 +1,5 @@
 ---
-id: DE-JNXFV2
+id: REQ-A2T4SD9
 type: design-element
 title: Module home_dashboard_33
 status: Review
@@ -8,11 +8,12 @@ tags:
   - power
   - customer-request
   - connectivity
-parent: SW-F3N2WE
-order: 10
+former-id: DE-JNXFV2
+parent: REQ-4JEQJXD
+order: a0
 links:
   - type: implements
-    target: SW-F3N2WE
+    target: REQ-4JEQJXD
     confirmed: 15ac5425b23c
 ---
 Implemented in `src/app/home_dashboard.c`.

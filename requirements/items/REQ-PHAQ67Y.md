@@ -1,5 +1,5 @@
 ---
-id: SW-YJ34AE
+id: REQ-PHAQ67Y
 type: software-requirement
 title: Regulation loop limits the operating mode
 status: Review
@@ -7,11 +7,12 @@ tags:
   - power
   - i18n
   - ux
-parent: SYS-6QAARD
-order: 20
+former-id: SW-YJ34AE
+parent: REQ-KQ7SN5H
+order: a1
 links:
   - type: refines
-    target: SYS-6QAARD
+    target: REQ-KQ7SN5H
     confirmed: ecd7ff8ad13d
 ---
 The zone valve shall synchronise the operating mode for up to 8 zones.

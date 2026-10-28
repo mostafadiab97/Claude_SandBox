@@ -1,14 +1,15 @@
 ---
-id: SW-H39YTT
+id: REQ-0BZ4D3B
 type: software-requirement
 title: Watchdog restores the operating mode
 status: Review
 owner: J. Müller
-parent: SYS-QRK41E
-order: 10
+former-id: SW-H39YTT
+parent: REQ-62KHJ30
+order: a0
 links:
   - type: refines
-    target: SYS-QRK41E
+    target: REQ-62KHJ30
     confirmed: ffc44ca06ebf
 ---
 The encryption layer shall measure error conditions without user interaction.

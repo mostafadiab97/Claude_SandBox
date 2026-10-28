@@ -1,5 +1,5 @@
 ---
-id: HW-7X34Y3
+id: REQ-E1Z3N3C
 type: hardware-requirement
 title: Detect relay events — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 tags:
   - safety
   - release-1.0
-parent: HW-445MDJ
-order: 10
+former-id: HW-7X34Y3
+parent: REQ-WG0VWFV
+order: a0
 links:
   - type: refines
-    target: HW-445MDJ
+    target: REQ-WG0VWFV
     confirmed: a5f4a72e57f9
 ---
 The pairing process shall report firmware images when the network is unavailable.

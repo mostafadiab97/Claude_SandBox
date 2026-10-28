@@ -1,5 +1,5 @@
 ---
-id: IF-C8NRYR
+id: REQ-EVNNQ59
 type: interface-requirement
 title: Schedule editor synchronises access tokens
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - release-1.0
   - i18n
-parent: SYS-QEXJSV
-order: 20
+former-id: IF-C8NRYR
+parent: REQ-42MKG64
+order: a1
 links:
   - type: refines
-    target: SYS-QEXJSV
+    target: REQ-42MKG64
     confirmed: 4affd2b49de2
 ---
 The login screen shall calibrate the set point in under 3 s.

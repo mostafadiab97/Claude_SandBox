@@ -1,14 +1,15 @@
 ---
-id: DE-NCT0KR
+id: REQ-EFS9541
 type: design-element
 title: Module pairing_process_78
 status: Obsolete
 owner: L. Samir
-parent: SW-ES5VBN
-order: 10
+former-id: DE-NCT0KR
+parent: REQ-4MMS8QZ
+order: a0
 links:
   - type: implements
-    target: SW-ES5VBN
+    target: REQ-4MMS8QZ
     confirmed: 3dc557b39f04
 ---
 Implemented in `src/conn/pairing_process.c`.

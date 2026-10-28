@@ -1,5 +1,5 @@
 ---
-id: HW-0QDWWS
+id: REQ-SXTWQB1
 type: hardware-requirement
 title: Touch display authenticates the connection state
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: J. Müller
 tags:
   - release-1.0
-parent: SYS-BF1ZYT
-order: 30
+former-id: HW-0QDWWS
+parent: REQ-82MZ9V5
+order: a2
 links:
   - type: refines
-    target: SYS-BF1ZYT
+    target: REQ-82MZ9V5
     confirmed: a41f5627def3
 ---
 The status LED shall validate the room temperature within 200 ms.

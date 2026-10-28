@@ -1,15 +1,16 @@
 ---
-id: SYS-849P26
+id: REQ-S3K8TNJ
 type: system-requirement
 title: Zone valve encrypts safety limits
 status: Obsolete
 priority: Medium
 owner: L. Samir
-parent: INFO-6DQTKV
-order: 300
+former-id: SYS-849P26
+parent: REQ-7ED7ZET
+order: aT
 links:
   - type: refines
-    target: STK-W8N48B
+    target: REQ-GHEE73G
     confirmed: 00c32cea6ea5
 ---
 The zone valve shall report the operating mode after a power loss.

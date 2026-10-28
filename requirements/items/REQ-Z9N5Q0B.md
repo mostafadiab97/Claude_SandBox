@@ -1,5 +1,5 @@
 ---
-id: IF-VF9F4E
+id: REQ-Z9N5Q0B
 type: interface-requirement
 title: "Signal 495: firmware images"
 status: Approved
@@ -8,7 +8,8 @@ tags:
   - release-2.0
   - regulatory
   - accessibility
-parent: INFO-2TM0JP
-order: 4950
+former-id: IF-VF9F4E
+parent: REQ-RJ0KHPT
+order: b6y
 ---
 Interface signal number 495.

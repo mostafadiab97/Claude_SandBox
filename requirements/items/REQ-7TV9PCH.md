@@ -1,15 +1,16 @@
 ---
-id: TC-Z71QV0
+id: REQ-7TV9PCH
 type: test-case
 title: "Verify: Tamper detection notifys audit records"
 status: Obsolete
 priority: Medium
 owner: M. Farouk
-parent: INFO-Z4TW4B
-order: 650
+former-id: TC-Z71QV0
+parent: REQ-K6FGAY0
+order: b02
 links:
   - type: verifies
-    target: SYS-8ZC1RT
+    target: REQ-GT97WSE
     confirmed: 64cf1ce65b09
 ---
 **Objective:** verify that the tamper detection behaves as specified.

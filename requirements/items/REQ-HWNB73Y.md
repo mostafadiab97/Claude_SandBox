@@ -1,5 +1,5 @@
 ---
-id: TC-Z36G08
+id: REQ-HWNB73Y
 type: test-case
 title: "Verify: Notification service authenticates humidity values"
 status: Approved
@@ -7,14 +7,15 @@ priority: High
 owner: Y. Saber
 tags:
   - cost
-parent: INFO-J0FETE
-order: 730
+former-id: TC-Z36G08
+parent: REQ-WR5ZJN9
+order: b0A
 links:
   - type: verifies
-    target: SYS-3ABMNG
+    target: REQ-EY967YJ
     confirmed: 856e0842d1dd
   - type: verifies
-    target: SW-AJP6HH
+    target: REQ-HAEYHZ6
     confirmed: 7aeb62dc4210
 ---
 **Objective:** verify that the notification service behaves as specified.

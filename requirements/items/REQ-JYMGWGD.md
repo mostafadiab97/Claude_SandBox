@@ -1,5 +1,5 @@
 ---
-id: SW-8568TS
+id: REQ-JYMGWGD
 type: software-requirement
 title: Watchdog reports user preferences
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - cost
   - accessibility
   - customer-request
-parent: SYS-0T0BYJ
-order: 10
+former-id: SW-8568TS
+parent: REQ-273B0DP
+order: a0
 links:
   - type: refines
-    target: SYS-0T0BYJ
+    target: REQ-273B0DP
     confirmed: 0905190a23c4
 ---
 The encryption layer shall switch the operating mode in all supported languages.

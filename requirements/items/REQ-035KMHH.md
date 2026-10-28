@@ -1,5 +1,5 @@
 ---
-id: SW-FTFB4S
+id: REQ-035KMHH
 type: software-requirement
 title: OTA server stores access tokens
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: É. Laurent
 tags:
   - connectivity
-parent: SYS-G0JBM8
-order: 30
+former-id: SW-FTFB4S
+parent: REQ-V6198RX
+order: a2
 links:
   - type: refines
-    target: SYS-G0JBM8
+    target: REQ-V6198RX
     confirmed: 4d23af5c0f84
 ---
 The cloud backend shall display relay events in all supported languages.

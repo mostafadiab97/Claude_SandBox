@@ -1,15 +1,16 @@
 ---
-id: HW-93TZAV
+id: REQ-W8MSHV0
 type: hardware-requirement
 title: Secure boot encrypts error conditions
 status: Review
 priority: Medium
 owner: J. Müller
-parent: SYS-PG0K3E
-order: 40
+former-id: HW-93TZAV
+parent: REQ-0KAWBJY
+order: a3
 links:
   - type: refines
-    target: SYS-PG0K3E
+    target: REQ-0KAWBJY
     confirmed: 2c023351a960
 ---
 The secure boot shall notify access tokens in under 3 s.

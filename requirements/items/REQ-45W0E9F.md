@@ -1,15 +1,16 @@
 ---
-id: SW-ZVP39Y
+id: REQ-45W0E9F
 type: software-requirement
 title: Login screen logs audit records
 status: Approved
 priority: High
 owner: R. Nabil
-parent: SYS-JD8TXM
-order: 30
+former-id: SW-ZVP39Y
+parent: REQ-670N5PW
+order: a2
 links:
   - type: refines
-    target: SYS-JD8TXM
+    target: REQ-670N5PW
     confirmed: f81d3e3b2c08
 ---
 The login screen shall store sensor readings after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: TC-SSD9BK
+id: REQ-59AYZY5
 type: test-case
 title: "Verify: Watchdog measures sensor readings"
 status: Draft
@@ -7,14 +7,15 @@ tags:
   - regulatory
   - connectivity
   - performance
-parent: INFO-Z4TW4B
-order: 50
+former-id: TC-SSD9BK
+parent: REQ-K6FGAY0
+order: a4
 links:
   - type: verifies
-    target: SYS-P0EP0R
+    target: REQ-B0PGH7P
     confirmed: 4c75da355236
   - type: verifies
-    target: SW-08XFNX
+    target: REQ-P7GSJF8
     confirmed: 61e860ae008f
 ---
 **Objective:** verify that the watchdog behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: SW-WRTQDS
+id: REQ-HHN3S0M
 type: software-requirement
 title: Boiler interface validates user preferences
 status: Approved
 priority: Medium
 owner: S. Adel
-parent: SYS-KD220M
-order: 10
+former-id: SW-WRTQDS
+parent: REQ-V4HM9Q6
+order: a0
 links:
   - type: refines
-    target: SYS-KD220M
+    target: REQ-V4HM9Q6
     confirmed: 39ba118c88d8
 ---
 The heat pump driver shall calibrate the connection state with an accuracy of ±0.5 °C.

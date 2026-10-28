@@ -1,18 +1,19 @@
 ---
-id: TC-3FMF11
+id: REQ-FGS65E1
 type: test-case
 title: "Verify: Battery backup calibrates humidity values"
 status: Approved
 priority: High
 owner: É. Laurent
-parent: INFO-MACGC3
-order: 430
+former-id: TC-3FMF11
+parent: REQ-F9Z1FYS
+order: ag
 links:
   - type: verifies
-    target: SYS-324HGW
+    target: REQ-A5E17AM
     confirmed: 827d08f24199
   - type: verifies
-    target: SW-FFZVBX
+    target: REQ-E8EZ8MF
     confirmed: ecef233cdc2e
 ---
 **Objective:** verify that the battery backup behaves as specified.

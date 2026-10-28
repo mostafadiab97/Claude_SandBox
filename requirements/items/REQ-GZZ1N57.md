@@ -1,5 +1,5 @@
 ---
-id: IF-V8P4J1
+id: REQ-GZZ1N57
 type: interface-requirement
 title: Relay board calibrates the operating mode
 status: Draft
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - release-1.0
   - i18n
-parent: SYS-KK90ZN
-order: 10
+former-id: IF-V8P4J1
+parent: REQ-TVXQNBY
+order: a0
 links:
   - type: refines
-    target: SYS-KK90ZN
+    target: REQ-TVXQNBY
     confirmed: a81e8767fb91
 ---
 The power supply shall encrypt firmware images in under 3 s.

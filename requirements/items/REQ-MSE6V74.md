@@ -1,15 +1,16 @@
 ---
-id: SW-7EVCTD
+id: REQ-MSE6V74
 type: software-requirement
 title: Rotary knob measures the connection state
 status: Review
 priority: High
 owner: N. Kamal
-parent: SYS-3EMBKZ
-order: 20
+former-id: SW-7EVCTD
+parent: REQ-152PW1J
+order: a1
 links:
   - type: refines
-    target: SYS-3EMBKZ
+    target: REQ-152PW1J
     confirmed: 75ba8fea4f5c
 ---
 The status LED shall store safety limits with an accuracy of ±0.5 °C.

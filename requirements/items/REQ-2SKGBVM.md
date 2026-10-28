@@ -1,5 +1,5 @@
 ---
-id: SYS-T2ZPTJ
+id: REQ-2SKGBVM
 type: system-requirement
 title: Telemetry pipeline switchs firmware images
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - cost
   - release-2.0
-parent: INFO-YV5EZD
-order: 1590
+former-id: SYS-T2ZPTJ
+parent: REQ-RE9ZKHF
+order: b1Y
 links:
   - type: refines
-    target: STK-VT1KVD
+    target: REQ-36Y9ND0
     confirmed: fbcfb8475f32
 ---
 The telemetry pipeline shall measure audit records in under 3 s.

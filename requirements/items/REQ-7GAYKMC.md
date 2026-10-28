@@ -1,15 +1,16 @@
 ---
-id: SW-FWYA43
+id: REQ-7GAYKMC
 type: software-requirement
 title: Encryption layer detects relay events
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: SYS-T8M3T5
-order: 10
+former-id: SW-FWYA43
+parent: REQ-5XTHHVF
+order: a0
 links:
   - type: refines
-    target: SYS-T8M3T5
+    target: REQ-5XTHHVF
     confirmed: 6f66a4941544
 ---
 The over-temperature monitor shall switch access tokens for at least 10 years.

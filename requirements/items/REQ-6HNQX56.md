@@ -1,14 +1,15 @@
 ---
-id: TC-WF2GXD
+id: REQ-6HNQX56
 type: test-case
 title: "Regression: OTA server switchs the operating mode"
 status: Obsolete
 priority: Medium
-parent: INFO-ECHASH
-order: 1860
+former-id: TC-WF2GXD
+parent: REQ-6H15AV2
+order: b1z
 links:
   - type: verifies
-    target: SYS-59MM6H
+    target: REQ-D6CAXH8
     confirmed: 45d68bfca0bb
 ---
 **Objective:** verify that the device behaves as specified.

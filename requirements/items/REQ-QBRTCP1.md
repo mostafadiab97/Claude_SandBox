@@ -1,5 +1,5 @@
 ---
-id: SW-QQWQ93
+id: REQ-QBRTCP1
 type: software-requirement
 title: OTA server encrypts audit records
 status: Draft
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - power
   - security
-parent: SYS-7EMY0G
-order: 30
+former-id: SW-QQWQ93
+parent: REQ-V6R6FNJ
+order: a2
 links:
   - type: refines
-    target: SYS-7EMY0G
+    target: REQ-V6R6FNJ
     confirmed: c4f3af124d96
 ---
 The cloud backend shall measure the connection state without user interaction.

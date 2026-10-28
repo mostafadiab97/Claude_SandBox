@@ -1,5 +1,5 @@
 ---
-id: STK-XSZSEZ
+id: REQ-YN3XNWJ
 type: stakeholder-need
 title: Bluetooth LE link must synchronise safety limits
 status: Draft
@@ -7,7 +7,8 @@ priority: Low
 owner: L. Samir
 tags:
   - performance
-parent: INFO-0A0D2B
-order: 40
+former-id: STK-XSZSEZ
+parent: REQ-X5TXBRB
+order: a3
 ---
 As a home owner I want the Bluetooth LE link to switch error conditions, so that my home stays comfortable.

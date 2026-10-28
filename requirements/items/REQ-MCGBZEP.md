@@ -1,15 +1,16 @@
 ---
-id: TC-K253ZC
+id: REQ-MCGBZEP
 type: test-case
 title: "Verify: Watchdog detects error conditions"
 status: Approved
 priority: High
 owner: N. Kamal
-parent: INFO-Z4TW4B
-order: 110
+former-id: TC-K253ZC
+parent: REQ-K6FGAY0
+order: aA
 links:
   - type: verifies
-    target: SYS-N7H58H
+    target: REQ-9T92A3R
     confirmed: a8a06726344d
 ---
 **Objective:** verify that the watchdog behaves as specified.

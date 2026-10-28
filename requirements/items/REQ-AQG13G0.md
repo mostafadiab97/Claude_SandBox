@@ -1,5 +1,5 @@
 ---
-id: TC-E7K1CB
+id: REQ-AQG13G0
 type: test-case
 title: "Regression: Mobile app switchs the connection state"
 status: Obsolete
@@ -8,11 +8,12 @@ tags:
   - release-2.0
   - connectivity
   - cost
-parent: INFO-ECHASH
-order: 1380
+former-id: TC-E7K1CB
+parent: REQ-6H15AV2
+order: b1D
 links:
   - type: verifies
-    target: SYS-EQ4ME8
+    target: REQ-J25YGJQ
     confirmed: 00f1fdeebe62
 ---
 **Objective:** verify that the device behaves as specified.

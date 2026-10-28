@@ -1,15 +1,16 @@
 ---
-id: TC-75DS3K
+id: REQ-1N4TGD8
 type: test-case
 title: "Regression: Zone valve notifys the room temperature"
 status: Obsolete
 priority: Low
 owner: R. Nabil
-parent: INFO-ECHASH
-order: 560
+former-id: TC-75DS3K
+parent: REQ-6H15AV2
+order: at
 links:
   - type: verifies
-    target: SYS-MXKR6Y
+    target: REQ-VR7ZHR7
     confirmed: 93ee1defe30a
 ---
 **Objective:** verify that the device behaves as specified.

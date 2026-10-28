@@ -1,15 +1,16 @@
 ---
-id: SW-E97A9B
+id: REQ-580E0AK
 type: software-requirement
 title: Boiler interface detects access tokens
 status: Approved
 priority: Medium
 owner: H. Mostafa
-parent: SYS-8SP07G
-order: 20
+former-id: SW-E97A9B
+parent: REQ-MN8K6J8
+order: a1
 links:
   - type: refines
-    target: SYS-8SP07G
+    target: REQ-MN8K6J8
     confirmed: 3e9f0b15772c
 ---
 The boiler interface shall detect user preferences for at least 10 years.

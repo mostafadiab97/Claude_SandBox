@@ -1,5 +1,5 @@
 ---
-id: IF-DFSRVT
+id: REQ-FGEWVRH
 type: interface-requirement
 title: Watchdog switchs the room temperature
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Low
 owner: J. Müller
 tags:
   - connectivity
-parent: SYS-RY2A1Y
-order: 20
+former-id: IF-DFSRVT
+parent: REQ-H685WGE
+order: a1
 links:
   - type: refines
-    target: SYS-RY2A1Y
+    target: REQ-H685WGE
     confirmed: ba8d79699d39
 ---
 The secure boot shall log the operating mode without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: TC-A02S20
+id: REQ-D0DTY92
 type: test-case
 title: "Verify: Heating controller limits access tokens"
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - safety
   - ux
   - release-1.0
-parent: INFO-MS9DAG
-order: 870
+former-id: TC-A02S20
+parent: REQ-XGWSK2K
+order: b0O
 links:
   - type: verifies
-    target: SYS-4QH9R0
+    target: REQ-QQZD5VA
     confirmed: 723f7d1c807e
 ---
 **Objective:** verify that the heating controller behaves as specified.

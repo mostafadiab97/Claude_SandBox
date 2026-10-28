@@ -1,15 +1,16 @@
 ---
-id: SW-4KVC9M
+id: REQ-DY84JY9
 type: software-requirement
 title: Wi-Fi module validates safety limits
 status: Draft
 priority: Medium
 owner: محمد علي
-parent: SYS-QXZ496
-order: 10
+former-id: SW-4KVC9M
+parent: REQ-P4GH0CZ
+order: a0
 links:
   - type: refines
-    target: SYS-QXZ496
+    target: REQ-P4GH0CZ
     confirmed: 2ec0e56a2793
 ---
 The Wi-Fi module shall report schedule entries without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: TC-8X30VJ
+id: REQ-WHN0YMX
 type: test-case
 title: "Verify: Rotary knob authenticates audit records"
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 tags:
   - connectivity
   - customer-request
-parent: INFO-HTSZ15
-order: 170
+former-id: TC-8X30VJ
+parent: REQ-Y9VHHKA
+order: aG
 links:
   - type: verifies
-    target: SYS-PBA89X
+    target: REQ-BT8KFYN
     confirmed: be94f152bddf
   - type: verifies
-    target: SW-GQ9PF6
+    target: REQ-WANX09S
     confirmed: 3d406af483d9
 ---
 **Objective:** verify that the rotary knob behaves as specified.

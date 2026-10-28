@@ -1,5 +1,5 @@
 ---
-id: TC-10Z2PT
+id: REQ-ANTTAEF
 type: test-case
 title: "Verify: Zone valve notifys the connection state"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: É. Laurent
 tags:
   - regulatory
-parent: INFO-MS9DAG
-order: 1020
+former-id: TC-10Z2PT
+parent: REQ-XGWSK2K
+order: b0d
 links:
   - type: verifies
-    target: SYS-2GY8ED
+    target: REQ-JE2A5W1
     confirmed: af1bc2a80b1d
 ---
 **Objective:** verify that the zone valve behaves as specified.

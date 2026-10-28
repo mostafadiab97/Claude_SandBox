@@ -1,5 +1,5 @@
 ---
-id: DE-J5YT39
+id: REQ-X9ZA8SJ
 type: design-element
 title: Module mobile_app_2
 status: Review
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - power
   - EMC
-parent: SW-29HTB1
-order: 10
+former-id: DE-J5YT39
+parent: REQ-Q3M8JXD
+order: a0
 links:
   - type: implements
-    target: SW-29HTB1
+    target: REQ-Q3M8JXD
     confirmed: b6840428ca5e
 ---
 Implemented in `src/app/mobile_app.c`.

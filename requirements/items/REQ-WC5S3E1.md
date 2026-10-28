@@ -1,15 +1,16 @@
 ---
-id: HW-HWV4XE
+id: REQ-WC5S3E1
 type: hardware-requirement
 title: Restore energy consumption — detail
 status: Approved
 priority: Medium
 owner: S. Adel
-parent: HW-ARV5WS
-order: 10
+former-id: HW-HWV4XE
+parent: REQ-VAQCHQ4
+order: a0
 links:
   - type: refines
-    target: HW-ARV5WS
+    target: REQ-VAQCHQ4
     confirmed: 9caa840cd9f5
 ---
 The status LED shall notify the room temperature without user interaction.

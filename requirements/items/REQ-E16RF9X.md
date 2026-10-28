@@ -1,5 +1,5 @@
 ---
-id: SYS-YKN19M
+id: REQ-E16RF9X
 type: system-requirement
 title: Heating controller reports the connection state
 status: Review
@@ -9,14 +9,15 @@ tags:
   - accessibility
   - cost
   - regulatory
-parent: INFO-6DQTKV
-order: 830
+former-id: SYS-YKN19M
+parent: REQ-7ED7ZET
+order: b0K
 links:
   - type: refines
-    target: STK-Q8BNKR
+    target: REQ-FY0A6ZE
     confirmed: 6deaa78e6ab3
   - type: mitigates
-    target: RSK-F4STQD
+    target: REQ-GRE3TBN
     confirmed: 0441ab9b0284
 ---
 The heating controller shall display safety limits without user interaction.

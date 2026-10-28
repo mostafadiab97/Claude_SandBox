@@ -1,5 +1,5 @@
 ---
-id: SW-B7FYKS
+id: REQ-DSWH2KG
 type: software-requirement
 title: Bluetooth LE link restores the operating mode
 status: Review
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - connectivity
   - power
-parent: SYS-T6SZE0
-order: 20
+former-id: SW-B7FYKS
+parent: REQ-FSK3RQV
+order: a1
 links:
   - type: refines
-    target: SYS-T6SZE0
+    target: REQ-FSK3RQV
     confirmed: eb82d81a139b
 ---
 The Wi-Fi module shall switch sensor readings in under 3 s.

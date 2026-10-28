@@ -1,5 +1,5 @@
 ---
-id: SW-XQ3F9J
+id: REQ-NJTART0
 type: software-requirement
 title: Login screen detects user preferences
 status: Review
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - i18n
   - connectivity
-parent: SYS-970YNT
-order: 10
+former-id: SW-XQ3F9J
+parent: REQ-5ZJK737
+order: a0
 links:
   - type: refines
-    target: SYS-970YNT
+    target: REQ-5ZJK737
     confirmed: dd3cd885e5b3
 ---
 The schedule editor shall calibrate error conditions after a power loss.

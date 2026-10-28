@@ -1,5 +1,5 @@
 ---
-id: DEF-9MF12V
+id: REQ-2WBS4GK
 type: defect
 title: "Defect: battery backup does not log access tokens"
 status: Approved
@@ -8,14 +8,15 @@ tags:
   - ux
   - safety
   - security
-parent: INFO-BB7M2N
-order: 130
+former-id: DEF-9MF12V
+parent: REQ-995FBPM
+order: aC
 links:
   - type: relates-to
-    target: TC-3BEN3P
+    target: REQ-G8WZ1D6
     confirmed: 3e2e6d21d2e8
   - type: relates-to
-    target: SYS-JX8WF1
+    target: REQ-JTATXJJ
     confirmed: 482dfc4da294
 ---
 Found during regression testing of build 2.3.39.

@@ -1,17 +1,18 @@
 ---
-id: TC-GHHSJJ
+id: REQ-Y1JWWZS
 type: test-case
 title: "Verify: Wi-Fi module displays sensor readings"
 status: Draft
 priority: High
-parent: INFO-F0M7VC
-order: 600
+former-id: TC-GHHSJJ
+parent: REQ-67RQXCK
+order: ax
 links:
   - type: verifies
-    target: SYS-W81PVH
+    target: REQ-7BH6AP4
     confirmed: d352273ada77
   - type: verifies
-    target: SW-8RY8RE
+    target: REQ-VQKFAS9
     confirmed: a5bfa0077b08
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

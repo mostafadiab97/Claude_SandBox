@@ -1,7 +1,8 @@
 ---
-id: INFO-YV5EZD
+id: REQ-RE9ZKHF
 type: information
-title: 3.2 System requirements
-parent: INFO-82THGP
-order: 20
+title: System requirements
+former-id: INFO-YV5EZD
+parent: REQ-MQ03W80
+order: a1
 ---

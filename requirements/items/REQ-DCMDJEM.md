@@ -1,15 +1,16 @@
 ---
-id: SW-GD1YX1
+id: REQ-DCMDJEM
 type: software-requirement
 title: Encryption layer reports firmware images
 status: Obsolete
 priority: High
 owner: L. Samir
-parent: SYS-VR1QT6
-order: 20
+former-id: SW-GD1YX1
+parent: REQ-PKTNB60
+order: a1
 links:
   - type: refines
-    target: SYS-VR1QT6
+    target: REQ-PKTNB60
     confirmed: b3132101c5d6
 ---
 The secure boot shall store access tokens for at least 10 years.

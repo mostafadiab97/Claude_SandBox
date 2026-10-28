@@ -1,5 +1,5 @@
 ---
-id: TC-2JW0ZW
+id: REQ-5YZME7C
 type: test-case
 title: "Verify: Home dashboard detects humidity values"
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: H. Mostafa
 tags:
   - safety
-parent: INFO-J0FETE
-order: 1440
+former-id: TC-2JW0ZW
+parent: REQ-WR5ZJN9
+order: b1J
 links:
   - type: verifies
-    target: SYS-CG6CRR
+    target: REQ-EJX4F3B
     confirmed: 221cd3163355
 ---
 **Objective:** verify that the home dashboard behaves as specified.

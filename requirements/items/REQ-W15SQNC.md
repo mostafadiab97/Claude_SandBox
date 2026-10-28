@@ -1,5 +1,5 @@
 ---
-id: HW-8QR8PX
+id: REQ-W15SQNC
 type: hardware-requirement
 title: Validate the set point — detail
 status: Review
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - release-1.0
   - performance
-parent: HW-EB6E2D
-order: 10
+former-id: HW-8QR8PX
+parent: REQ-KB5S2QZ
+order: a0
 links:
   - type: refines
-    target: HW-EB6E2D
+    target: REQ-KB5S2QZ
     confirmed: 564bcd032c6b
 ---
 The main PCB shall validate humidity values with an accuracy of ±0.5 °C.

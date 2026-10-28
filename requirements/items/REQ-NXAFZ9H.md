@@ -1,15 +1,16 @@
 ---
-id: HW-W3ZA5M
+id: REQ-NXAFZ9H
 type: hardware-requirement
 title: Limit humidity values — detail
 status: Approved
 priority: Low
 owner: H. Mostafa
-parent: HW-3VNC9H
-order: 10
+former-id: HW-W3ZA5M
+parent: REQ-KWK3QRS
+order: a0
 links:
   - type: refines
-    target: HW-3VNC9H
+    target: REQ-KWK3QRS
     confirmed: 03718c2aa121
 ---
 The cloud backend shall notify the set point after a power loss.

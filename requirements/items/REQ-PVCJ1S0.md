@@ -1,15 +1,16 @@
 ---
-id: SW-AXJHN3
+id: REQ-PVCJ1S0
 type: software-requirement
 title: Heat pump driver validates access tokens
 status: Obsolete
 priority: Medium
 owner: S. Adel
-parent: SYS-8SP07G
-order: 10
+former-id: SW-AXJHN3
+parent: REQ-MN8K6J8
+order: a0
 links:
   - type: refines
-    target: SYS-8SP07G
+    target: REQ-MN8K6J8
     confirmed: 3e9f0b15772c
 ---
 The boiler interface shall report the connection state after a power loss.

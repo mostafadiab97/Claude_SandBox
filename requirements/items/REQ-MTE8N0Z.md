@@ -1,5 +1,5 @@
 ---
-id: IF-6W8KSS
+id: REQ-MTE8N0Z
 type: interface-requirement
 title: Rotary knob encrypts the set point
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - power
-parent: SYS-SSBZ7T
-order: 30
+former-id: IF-6W8KSS
+parent: REQ-AV4FMXQ
+order: a2
 links:
   - type: refines
-    target: SYS-SSBZ7T
+    target: REQ-AV4FMXQ
     confirmed: 4a88e60caee9
 ---
 The rotary knob shall switch schedule entries below 0.5 W in standby.

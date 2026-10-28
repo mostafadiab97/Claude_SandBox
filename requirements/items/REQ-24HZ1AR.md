@@ -1,5 +1,5 @@
 ---
-id: TC-6QK171
+id: REQ-24HZ1AR
 type: test-case
 title: "Verify: Mobile app restores access tokens"
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - EMC
   - i18n
   - release-1.0
-parent: INFO-J0FETE
-order: 1540
+former-id: TC-6QK171
+parent: REQ-WR5ZJN9
+order: b1T
 links:
   - type: verifies
-    target: SYS-QHMFA6
+    target: REQ-K2S78AW
     confirmed: 9375eb52bc71
   - type: verifies
-    target: SW-63XX50
+    target: REQ-PDF7ZFK
     confirmed: affe143fc077
 ---
 **Objective:** verify that the mobile app behaves as specified.

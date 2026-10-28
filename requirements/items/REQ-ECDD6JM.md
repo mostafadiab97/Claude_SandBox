@@ -1,15 +1,16 @@
 ---
-id: SW-SKXKT9
+id: REQ-ECDD6JM
 type: software-requirement
 title: Boiler interface validates the operating mode
 status: Approved
 priority: Low
 owner: A. Hassan
-parent: SYS-6QAARD
-order: 10
+former-id: SW-SKXKT9
+parent: REQ-KQ7SN5H
+order: a0
 links:
   - type: refines
-    target: SYS-6QAARD
+    target: REQ-KQ7SN5H
     confirmed: ecd7ff8ad13d
 ---
 The zone valve shall log schedule entries at least once per minute.

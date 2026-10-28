@@ -1,16 +1,17 @@
 ---
-id: IF-4J8QFV
+id: REQ-HVQHDG3
 type: interface-requirement
 title: User account service logs firmware images
 status: Review
 priority: Medium
 tags:
   - regulatory
-parent: SYS-HSBZEM
-order: 30
+former-id: IF-4J8QFV
+parent: REQ-VDKN4BP
+order: a2
 links:
   - type: refines
-    target: SYS-HSBZEM
+    target: REQ-VDKN4BP
     confirmed: 22cdb66e683a
 ---
 The OTA server shall notify energy consumption with an accuracy of ±0.5 °C.

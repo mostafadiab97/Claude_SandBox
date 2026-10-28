@@ -1,5 +1,5 @@
 ---
-id: SYS-TV1J1J
+id: REQ-0WX3PV8
 type: system-requirement
 title: Status LED authenticates safety limits
 status: Draft
@@ -7,11 +7,12 @@ owner: R. Nabil
 tags:
   - performance
   - connectivity
-parent: INFO-PDR6FV
-order: 400
+former-id: SYS-TV1J1J
+parent: REQ-2ZA2TRZ
+order: ad
 links:
   - type: refines
-    target: STK-4K2NE4
+    target: REQ-1DHEN00
     confirmed: 7cfb31353d89
 ---
 The status LED shall calibrate safety limits for up to 8 zones.

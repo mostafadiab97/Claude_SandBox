@@ -1,15 +1,16 @@
 ---
-id: SYS-JD8TXM
+id: REQ-670N5PW
 type: system-requirement
 title: Login screen switchs the operating mode
 status: Review
 priority: High
 owner: J. Müller
-parent: INFO-2XXBRS
-order: 460
+former-id: SYS-JD8TXM
+parent: REQ-QYXGSQ4
+order: aj
 links:
   - type: refines
-    target: STK-4F6B1Y
+    target: REQ-5P7JDVE
     confirmed: 4a1d76b1da2c
 ---
 The login screen shall restore energy consumption without user interaction.

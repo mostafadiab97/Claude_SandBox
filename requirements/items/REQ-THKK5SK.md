@@ -1,14 +1,15 @@
 ---
-id: TC-7209XR
+id: REQ-THKK5SK
 type: test-case
 title: "Verify: Schedule editor stores firmware images"
 status: Approved
 owner: K. Tanaka
-parent: INFO-J0FETE
-order: 1300
+former-id: TC-7209XR
+parent: REQ-WR5ZJN9
+order: b15
 links:
   - type: verifies
-    target: SYS-FHAECY
+    target: REQ-XBE1312
     confirmed: 1293558404d1
 ---
 **Objective:** verify that the schedule editor behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: SYS-VEFG9D
+id: REQ-9T1P54R
 type: system-requirement
 title: OTA server stores relay events
 status: Approved
 priority: High
 owner: A. Hassan
-parent: INFO-YV5EZD
-order: 580
+former-id: SYS-VEFG9D
+parent: REQ-RE9ZKHF
+order: av
 links:
   - type: refines
-    target: STK-4NCGP6
+    target: REQ-6WXSS37
     confirmed: 34735dce772b
 ---
 The OTA server shall notify the room temperature without user interaction.

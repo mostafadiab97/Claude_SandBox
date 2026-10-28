@@ -1,9 +1,10 @@
 ---
-id: IF-GW23ZX
+id: REQ-0HTE6G6
 type: interface-requirement
 title: "Signal 601: relay events"
 status: Obsolete
-parent: INFO-2TM0JP
-order: 6010
+former-id: IF-GW23ZX
+parent: REQ-RJ0KHPT
+order: b8g
 ---
 Interface signal number 601.

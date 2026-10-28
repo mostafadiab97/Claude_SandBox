@@ -1,5 +1,5 @@
 ---
-id: HW-HWTHZ9
+id: REQ-36V75SK
 type: hardware-requirement
 title: Main PCB notifys the set point
 status: Draft
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - ux
   - performance
-parent: SYS-CZFHR4
-order: 30
+former-id: HW-HWTHZ9
+parent: REQ-M632RZ1
+order: a2
 links:
   - type: refines
-    target: SYS-CZFHR4
+    target: REQ-M632RZ1
     confirmed: b242da2e0a56
 ---
 The main PCB shall measure the set point in under 3 s.

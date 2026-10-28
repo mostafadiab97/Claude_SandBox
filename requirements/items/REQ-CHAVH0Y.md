@@ -1,5 +1,5 @@
 ---
-id: SW-B1D523
+id: REQ-CHAVH0Y
 type: software-requirement
 title: Over-temperature monitor limits error conditions
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - i18n
-parent: SYS-WNE3D0
-order: 20
+former-id: SW-B1D523
+parent: REQ-ZE62P1K
+order: a1
 links:
   - type: refines
-    target: SYS-WNE3D0
+    target: REQ-ZE62P1K
     confirmed: c41d4d2660da
 ---
 The over-temperature monitor shall display energy consumption in under 3 s.

@@ -1,5 +1,5 @@
 ---
-id: DE-TRQPW8
+id: REQ-ERBEDB4
 type: design-element
 title: Module heat_pump_driver_27
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: É. Laurent
 tags:
   - power
-parent: SW-G3188Z
-order: 10
+former-id: DE-TRQPW8
+parent: REQ-HPRGSDE
+order: a0
 links:
   - type: implements
-    target: SW-G3188Z
+    target: REQ-HPRGSDE
     confirmed: b7192030b585
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

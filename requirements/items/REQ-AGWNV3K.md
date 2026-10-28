@@ -1,5 +1,5 @@
 ---
-id: TC-3TV2DX
+id: REQ-AGWNV3K
 type: test-case
 title: "Regression: Pairing process limits energy consumption"
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - performance
   - customer-request
   - regulatory
-parent: INFO-ECHASH
-order: 1340
+former-id: TC-3TV2DX
+parent: REQ-6H15AV2
+order: b19
 links:
   - type: verifies
-    target: SYS-KJZDA6
+    target: REQ-B47NHQB
     confirmed: cceccc292cf6
 ---
 **Objective:** verify that the device behaves as specified.

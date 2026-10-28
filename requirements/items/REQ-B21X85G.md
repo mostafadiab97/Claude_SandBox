@@ -1,5 +1,5 @@
 ---
-id: IF-2H5B5N
+id: REQ-B21X85G
 type: interface-requirement
 title: "Signal 057: user preferences"
 status: Approved
@@ -9,7 +9,8 @@ tags:
   - safety
   - accessibility
   - release-1.0
-parent: INFO-2TM0JP
-order: 570
+former-id: IF-2H5B5N
+parent: REQ-RJ0KHPT
+order: au
 ---
 Interface signal number 57.

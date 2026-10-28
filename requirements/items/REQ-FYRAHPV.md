@@ -1,15 +1,16 @@
 ---
-id: TC-9M50TH
+id: REQ-FYRAHPV
 type: test-case
 title: "Regression: User account service synchronises the operating mode"
 status: Draft
 priority: High
 owner: N. Kamal
-parent: INFO-ECHASH
-order: 1710
+former-id: TC-9M50TH
+parent: REQ-6H15AV2
+order: b1k
 links:
   - type: verifies
-    target: SYS-JZGGVQ
+    target: REQ-J23W5Z5
     confirmed: 2a9e2d07c950
 ---
 **Objective:** verify that the device behaves as specified.

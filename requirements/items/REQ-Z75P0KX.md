@@ -1,5 +1,5 @@
 ---
-id: TC-YFSG4H
+id: REQ-Z75P0KX
 type: test-case
 title: "Verify: Status LED logs safety limits"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - safety
   - EMC
-parent: INFO-HTSZ15
-order: 270
+former-id: TC-YFSG4H
+parent: REQ-Y9VHHKA
+order: aQ
 links:
   - type: verifies
-    target: SYS-FC1AYV
+    target: REQ-VVSCHQ0
     confirmed: eb5c3ea75cd1
 ---
 **Objective:** verify that the status LED behaves as specified.

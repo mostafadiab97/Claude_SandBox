@@ -1,5 +1,5 @@
 ---
-id: TC-J87C22
+id: REQ-ZYKK7WK
 type: test-case
 title: "Verify: Mobile app authenticates safety limits"
 status: Approved
@@ -8,14 +8,15 @@ tags:
   - performance
   - customer-request
   - release-1.0
-parent: INFO-J0FETE
-order: 290
+former-id: TC-J87C22
+parent: REQ-WR5ZJN9
+order: aS
 links:
   - type: verifies
-    target: SYS-CRRCSR
+    target: REQ-DQBXXZR
     confirmed: e29ae9264b3a
   - type: verifies
-    target: SW-57FCES
+    target: REQ-FR4F14S
     confirmed: 00bc06cc95d8
 ---
 **Objective:** verify that the mobile app behaves as specified.

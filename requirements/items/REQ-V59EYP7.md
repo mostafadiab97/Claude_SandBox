@@ -1,15 +1,16 @@
 ---
-id: TC-93RRGP
+id: REQ-V59EYP7
 type: test-case
 title: "Verify: Home dashboard switchs sensor readings"
 status: Review
 priority: Medium
 owner: S. Adel
-parent: INFO-J0FETE
-order: 1370
+former-id: TC-93RRGP
+parent: REQ-WR5ZJN9
+order: b1C
 links:
   - type: verifies
-    target: SYS-72RSQG
+    target: REQ-KFEFVBF
     confirmed: d9f78fd2af42
 ---
 **Objective:** verify that the home dashboard behaves as specified.

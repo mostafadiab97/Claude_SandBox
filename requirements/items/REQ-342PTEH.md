@@ -1,5 +1,5 @@
 ---
-id: HW-4ANBVV
+id: REQ-342PTEH
 type: hardware-requirement
 title: Zigbee radio detects the room temperature
 status: Obsolete
@@ -7,11 +7,12 @@ owner: R. Nabil
 tags:
   - release-1.0
   - regulatory
-parent: SYS-0536MA
-order: 20
+former-id: HW-4ANBVV
+parent: REQ-P411WTK
+order: a1
 links:
   - type: refines
-    target: SYS-0536MA
+    target: REQ-P411WTK
     confirmed: c760f3df8901
 ---
 The Wi-Fi module shall limit humidity values in all supported languages.

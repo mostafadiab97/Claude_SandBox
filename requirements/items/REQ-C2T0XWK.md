@@ -1,5 +1,5 @@
 ---
-id: SW-HX4CAW
+id: REQ-C2T0XWK
 type: software-requirement
 title: Rotary knob notifys schedule entries
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - safety
   - EMC
   - release-1.0
-parent: SYS-C6PXHJ
-order: 20
+former-id: SW-HX4CAW
+parent: REQ-S76AHNS
+order: a1
 links:
   - type: refines
-    target: SYS-C6PXHJ
+    target: REQ-S76AHNS
     confirmed: 603d88c764e7
 ---
 The rotary knob shall detect firmware images within 200 ms.

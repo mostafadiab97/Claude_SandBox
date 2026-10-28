@@ -1,5 +1,5 @@
 ---
-id: SW-XR8SYF
+id: REQ-SH5BNSJ
 type: software-requirement
 title: Heating controller encrypts the operating mode
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - power
   - accessibility
   - release-2.0
-parent: SYS-3KJS7N
-order: 30
+former-id: SW-XR8SYF
+parent: REQ-TZK9YZA
+order: a2
 links:
   - type: refines
-    target: SYS-3KJS7N
+    target: REQ-TZK9YZA
     confirmed: acb7a16884c1
 ---
 The regulation loop shall store access tokens in under 3 s.

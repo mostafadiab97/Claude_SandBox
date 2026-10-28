@@ -1,5 +1,5 @@
 ---
-id: TC-E8C5J4
+id: REQ-YKR57MB
 type: test-case
 title: "Verify: Encryption layer notifys humidity values"
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - accessibility
   - EMC
-parent: INFO-Z4TW4B
-order: 1330
+former-id: TC-E8C5J4
+parent: REQ-K6FGAY0
+order: b18
 links:
   - type: verifies
-    target: SYS-1F01HM
+    target: REQ-JNMKGMP
     confirmed: 12dbd5ae59ec
 ---
 **Objective:** verify that the encryption layer behaves as specified.

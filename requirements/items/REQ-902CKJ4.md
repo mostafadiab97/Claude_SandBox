@@ -1,5 +1,5 @@
 ---
-id: DE-YD58MY
+id: REQ-902CKJ4
 type: design-element
 title: Module tamper_detection_2
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - security
   - safety
   - customer-request
-parent: SW-J8KXNV
-order: 10
+former-id: DE-YD58MY
+parent: REQ-S8HXQ0X
+order: a0
 links:
   - type: implements
-    target: SW-J8KXNV
+    target: REQ-S8HXQ0X
     confirmed: 4e8f4d1951f6
 ---
 Implemented in `src/safe/tamper_detection.c`.

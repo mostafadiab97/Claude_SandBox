@@ -1,15 +1,16 @@
 ---
-id: TC-4HXF1C
+id: REQ-RHANQRW
 type: test-case
 title: "Regression: OTA server reports the set point"
 status: Approved
 priority: Low
 owner: S. Adel
-parent: INFO-ECHASH
-order: 2170
+former-id: TC-4HXF1C
+parent: REQ-6H15AV2
+order: b2U
 links:
   - type: verifies
-    target: SYS-EQ67JM
+    target: REQ-KMJYZF7
     confirmed: deb3f38239b9
 ---
 **Objective:** verify that the device behaves as specified.

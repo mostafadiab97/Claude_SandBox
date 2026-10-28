@@ -1,5 +1,5 @@
 ---
-id: IF-6Q2F7M
+id: REQ-VN2JF6C
 type: interface-requirement
 title: Schedule editor notifys sensor readings
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: H. Mostafa
 tags:
   - safety
-parent: SYS-3V1R9W
-order: 10
+former-id: IF-6Q2F7M
+parent: REQ-A61RRS8
+order: a0
 links:
   - type: refines
-    target: SYS-3V1R9W
+    target: REQ-A61RRS8
     confirmed: 36b7913e764d
 ---
 The schedule editor shall validate audit records without user interaction.

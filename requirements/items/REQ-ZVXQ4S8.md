@@ -1,15 +1,16 @@
 ---
-id: IF-JTJPW7
+id: REQ-ZVXQ4S8
 type: interface-requirement
 title: Enclosure encrypts sensor readings
 status: Draft
 priority: Medium
 owner: Y. Saber
-parent: SYS-GYMKHD
-order: 20
+former-id: IF-JTJPW7
+parent: REQ-FZE217Y
+order: a1
 links:
   - type: refines
-    target: SYS-GYMKHD
+    target: REQ-FZE217Y
     confirmed: 548847d1d9b7
 ---
 The battery backup shall detect user preferences for up to 8 zones.

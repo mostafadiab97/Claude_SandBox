@@ -1,5 +1,5 @@
 ---
-id: SW-Y2CY20
+id: REQ-508HTV0
 type: software-requirement
 title: Synchronise safety limits — detail
 status: Review
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - release-2.0
   - regulatory
-parent: SW-BS08SF
-order: 10
+former-id: SW-Y2CY20
+parent: REQ-HEYDTK3
+order: a0
 links:
   - type: refines
-    target: SW-BS08SF
+    target: REQ-HEYDTK3
     confirmed: 4d5371598d96
 ---
 The over-temperature monitor shall limit access tokens within 200 ms.

@@ -1,18 +1,19 @@
 ---
-id: SYS-S1NHF1
+id: REQ-DR6MFJ1
 type: system-requirement
 title: Watchdog notifys the operating mode
 status: Draft
 priority: Low
 owner: محمد علي
-parent: INFO-0229G8
-order: 1690
+former-id: SYS-S1NHF1
+parent: REQ-H9113WA
+order: b1i
 links:
   - type: refines
-    target: STK-DJ9M3M
+    target: REQ-375SK1B
     confirmed: ba30e28a130f
   - type: mitigates
-    target: RSK-RV8KBD
+    target: REQ-VYYM5AA
     confirmed: 637ec5e39d53
 ---
 The watchdog shall encrypt the set point for up to 8 zones.

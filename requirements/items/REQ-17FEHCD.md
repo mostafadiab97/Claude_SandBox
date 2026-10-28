@@ -1,5 +1,5 @@
 ---
-id: SW-966S7R
+id: REQ-17FEHCD
 type: software-requirement
 title: Local API switchs humidity values
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: K. Tanaka
 tags:
   - release-2.0
-parent: SYS-4JFYE9
-order: 40
+former-id: SW-966S7R
+parent: REQ-NB1HFHW
+order: a3
 links:
   - type: refines
-    target: SYS-4JFYE9
+    target: REQ-NB1HFHW
     confirmed: 71656e024c3b
 ---
 The pairing process shall authenticate the set point below 0.5 W in standby.

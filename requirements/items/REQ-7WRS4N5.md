@@ -1,15 +1,16 @@
 ---
-id: IF-1PY889
+id: REQ-7WRS4N5
 type: interface-requirement
 title: Report energy consumption — detail
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: IF-BKPCK3
-order: 10
+former-id: IF-1PY889
+parent: REQ-TE5GN9A
+order: a0
 links:
   - type: refines
-    target: IF-BKPCK3
+    target: REQ-TE5GN9A
     confirmed: a99ef9c82120
 ---
 The zone valve shall log the connection state without user interaction.

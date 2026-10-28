@@ -1,5 +1,5 @@
 ---
-id: SW-MPW7Y1
+id: REQ-42PZCA1
 type: software-requirement
 title: Watchdog synchronises safety limits
 status: Review
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - release-2.0
   - regulatory
-parent: SYS-XJA19E
-order: 20
+former-id: SW-MPW7Y1
+parent: REQ-9D1NB8Y
+order: a1
 links:
   - type: refines
-    target: SYS-XJA19E
+    target: REQ-9D1NB8Y
     confirmed: 907af0c1b352
 ---
 The over-temperature monitor shall validate energy consumption without user interaction.

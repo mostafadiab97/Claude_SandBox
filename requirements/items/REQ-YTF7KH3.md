@@ -1,5 +1,5 @@
 ---
-id: HW-FWW6YY
+id: REQ-YTF7KH3
 type: hardware-requirement
 title: Mobile app notifys the room temperature
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - connectivity
   - release-2.0
-parent: SYS-GC1TCM
-order: 10
+former-id: HW-FWW6YY
+parent: REQ-3SYSXK0
+order: a0
 links:
   - type: refines
-    target: SYS-GC1TCM
+    target: REQ-3SYSXK0
     confirmed: 5e111d233bc7
 ---
 The home dashboard shall display audit records below 0.5 W in standby.

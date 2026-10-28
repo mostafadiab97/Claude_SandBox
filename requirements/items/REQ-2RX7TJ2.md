@@ -1,5 +1,5 @@
 ---
-id: SW-508HSZ
+id: REQ-2RX7TJ2
 type: software-requirement
 title: Heating controller encrypts relay events
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - accessibility
   - security
-parent: SYS-6VZFH1
-order: 10
+former-id: SW-508HSZ
+parent: REQ-18EFAG8
+order: a0
 links:
   - type: refines
-    target: SYS-6VZFH1
+    target: REQ-18EFAG8
     confirmed: 2c2479704519
 ---
 The zone valve shall limit audit records when the network is unavailable.

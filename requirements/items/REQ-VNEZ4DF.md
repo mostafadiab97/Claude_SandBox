@@ -1,5 +1,5 @@
 ---
-id: IF-KJC1XJ
+id: REQ-VNEZ4DF
 type: interface-requirement
 title: Secure boot limits the room temperature
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - safety
   - regulatory
   - EMC
-parent: SYS-ZS700Y
-order: 20
+former-id: IF-KJC1XJ
+parent: REQ-2XAQ8RA
+order: a1
 links:
   - type: refines
-    target: SYS-ZS700Y
+    target: REQ-2XAQ8RA
     confirmed: 3e1573548eed
 ---
 The encryption layer shall limit the connection state within 200 ms.

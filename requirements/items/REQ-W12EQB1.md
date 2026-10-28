@@ -1,5 +1,5 @@
 ---
-id: SW-MVFPE0
+id: REQ-W12EQB1
 type: software-requirement
 title: Watchdog authenticates user preferences
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - performance
-parent: SYS-HB35Z8
-order: 10
+former-id: SW-MVFPE0
+parent: REQ-WS4KCQE
+order: a0
 links:
   - type: refines
-    target: SYS-HB35Z8
+    target: REQ-WS4KCQE
     confirmed: ff97b22b6617
 ---
 The encryption layer shall synchronise sensor readings for at least 10 years.

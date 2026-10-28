@@ -1,5 +1,5 @@
 ---
-id: HW-NZPZR0
+id: REQ-MA16R56
 type: hardware-requirement
 title: Rotary knob notifys the operating mode
 status: Review
@@ -8,11 +8,12 @@ tags:
   - accessibility
   - i18n
   - safety
-parent: SYS-N4973J
-order: 20
+former-id: HW-NZPZR0
+parent: REQ-PXV8ZVB
+order: a1
 links:
   - type: refines
-    target: SYS-N4973J
+    target: REQ-PXV8ZVB
     confirmed: 8d1bab1da881
 ---
 The menu system shall synchronise sensor readings below 0.5 W in standby.

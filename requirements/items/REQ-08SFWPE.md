@@ -1,14 +1,15 @@
 ---
-id: SW-JE2GH1
+id: REQ-08SFWPE
 type: software-requirement
 title: Zigbee radio restores the connection state
 status: Draft
 owner: J. Müller
-parent: SYS-X1DW4B
-order: 40
+former-id: SW-JE2GH1
+parent: REQ-CFX186J
+order: a3
 links:
   - type: refines
-    target: SYS-X1DW4B
+    target: REQ-CFX186J
     confirmed: ac324fd128ba
 ---
 The pairing process shall authenticate humidity values for at least 10 years.

@@ -1,15 +1,16 @@
 ---
-id: SYS-QBP134
+id: REQ-JYSBE1D
 type: system-requirement
 title: Home dashboard synchronises schedule entries
 status: Review
 priority: Medium
 owner: Y. Saber
-parent: INFO-2XXBRS
-order: 1310
+former-id: SYS-QBP134
+parent: REQ-QYXGSQ4
+order: b16
 links:
   - type: refines
-    target: STK-ND3D08
+    target: REQ-BWGMSWJ
     confirmed: df91c673f737
 ---
 The home dashboard shall restore audit records with an accuracy of ±0.5 °C.

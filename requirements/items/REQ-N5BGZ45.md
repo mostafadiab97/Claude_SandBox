@@ -1,5 +1,5 @@
 ---
-id: SW-K383DA
+id: REQ-N5BGZ45
 type: software-requirement
 title: Display sensor readings — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 tags:
   - power
   - performance
-parent: SW-BQNHHE
-order: 10
+former-id: SW-K383DA
+parent: REQ-C25ZH15
+order: a0
 links:
   - type: refines
-    target: SW-BQNHHE
+    target: REQ-C25ZH15
     confirmed: b751250b5428
 ---
 The watchdog shall limit user preferences with an accuracy of ±0.5 °C.

@@ -1,15 +1,16 @@
 ---
-id: SW-4SQ716
+id: REQ-J15GSAF
 type: software-requirement
 title: Login screen logs energy consumption
 status: Draft
 priority: High
 owner: N. Kamal
-parent: SYS-ZW9PC7
-order: 40
+former-id: SW-4SQ716
+parent: REQ-PM3KZFS
+order: a3
 links:
   - type: refines
-    target: SYS-ZW9PC7
+    target: REQ-PM3KZFS
     confirmed: cf666200a270
 ---
 The login screen shall calibrate energy consumption using AES-256-GCM.

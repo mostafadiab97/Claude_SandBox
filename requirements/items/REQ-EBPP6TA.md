@@ -1,5 +1,5 @@
 ---
-id: RSK-QXX2QH
+id: REQ-EBPP6TA
 type: risk
 title: "Risk: Wi-Fi module fails to limit audit records"
 status: Review
@@ -9,8 +9,9 @@ tags:
   - release-1.0
   - release-2.0
   - customer-request
-parent: INFO-9MPGZT
-order: 50
+former-id: RSK-QXX2QH
+parent: REQ-FD1MAS9
+order: a4
 ---
 **Hazard:** the Wi-Fi module could fail to report safety limits.
 

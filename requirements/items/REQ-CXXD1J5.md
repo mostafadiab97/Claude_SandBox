@@ -1,17 +1,18 @@
 ---
-id: TC-2PJFPZ
+id: REQ-CXXD1J5
 type: test-case
 title: "Verify: Enclosure reports relay events"
 status: Obsolete
 owner: M. Farouk
-parent: INFO-MACGC3
-order: 1310
+former-id: TC-2PJFPZ
+parent: REQ-F9Z1FYS
+order: b16
 links:
   - type: verifies
-    target: SYS-3W1S3B
+    target: REQ-7A42WZ4
     confirmed: a83839a61248
   - type: verifies
-    target: SW-MMKFXA
+    target: REQ-KDVXYX3
     confirmed: 4e72756bdfca
 ---
 **Objective:** verify that the enclosure behaves as specified.

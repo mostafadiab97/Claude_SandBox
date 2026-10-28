@@ -1,5 +1,5 @@
 ---
-id: TC-K3H1FQ
+id: REQ-4G0D34X
 type: test-case
 title: "Verify: Zone valve displays firmware images"
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: S. Adel
 tags:
   - cost
-parent: INFO-MS9DAG
-order: 610
+former-id: TC-K3H1FQ
+parent: REQ-XGWSK2K
+order: ay
 links:
   - type: verifies
-    target: SYS-ZJDSAF
+    target: REQ-Z5ZXT27
     confirmed: 039687c494cb
 ---
 **Objective:** verify that the zone valve behaves as specified.

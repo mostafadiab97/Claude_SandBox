@@ -1,5 +1,5 @@
 ---
-id: HW-4PGC54
+id: REQ-VM2Y3GK
 type: hardware-requirement
 title: Battery backup logs sensor readings
 status: Review
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - connectivity
   - regulatory
-parent: SYS-3W1S3B
-order: 20
+former-id: HW-4PGC54
+parent: REQ-7A42WZ4
+order: a1
 links:
   - type: refines
-    target: SYS-3W1S3B
+    target: REQ-7A42WZ4
     confirmed: a83839a61248
 ---
 The enclosure shall authenticate access tokens below 0.5 W in standby.

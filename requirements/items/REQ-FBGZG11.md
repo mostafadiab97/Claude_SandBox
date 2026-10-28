@@ -1,11 +1,12 @@
 ---
-id: IF-C0J0N4
+id: REQ-FBGZG11
 type: interface-requirement
 title: "Signal 610: error conditions"
 status: Approved
 priority: Medium
 owner: H. Mostafa
-parent: INFO-2TM0JP
-order: 6100
+former-id: IF-C0J0N4
+parent: REQ-RJ0KHPT
+order: b8p
 ---
 Interface signal number 610.

@@ -1,16 +1,17 @@
 ---
-id: SYS-KJ0P5E
+id: REQ-MHAMGQ2
 type: system-requirement
 title: Over-temperature monitor notifys firmware images
 status: Draft
 owner: Y. Saber
 tags:
   - power
-parent: INFO-0229G8
-order: 190
+former-id: SYS-KJ0P5E
+parent: REQ-H9113WA
+order: aI
 links:
   - type: refines
-    target: STK-ZJRWCQ
+    target: REQ-9YG77WV
     confirmed: 080168ea99ae
 ---
 The over-temperature monitor shall synchronise safety limits using AES-256-GCM.

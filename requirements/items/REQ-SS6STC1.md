@@ -1,5 +1,5 @@
 ---
-id: SYS-R873ZE
+id: REQ-SS6STC1
 type: system-requirement
 title: Zone valve notifys the operating mode
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - release-2.0
   - safety
-parent: INFO-6DQTKV
-order: 1550
+former-id: SYS-R873ZE
+parent: REQ-7ED7ZET
+order: b1U
 links:
   - type: refines
-    target: STK-EWSQ9Z
+    target: REQ-GXKEHF3
     confirmed: aa5e4143dbe7
 ---
 The zone valve shall notify energy consumption within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: IF-C4QDET
+id: REQ-MB821QT
 type: interface-requirement
 title: Tamper detection calibrates humidity values
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - customer-request
   - power
   - regulatory
-parent: SYS-ZQYMN8
-order: 20
+former-id: IF-C4QDET
+parent: REQ-RHW7HNJ
+order: a1
 links:
   - type: refines
-    target: SYS-ZQYMN8
+    target: REQ-RHW7HNJ
     confirmed: a257d6fd1501
 ---
 The watchdog shall report error conditions using AES-256-GCM.

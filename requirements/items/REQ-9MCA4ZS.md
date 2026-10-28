@@ -1,14 +1,15 @@
 ---
-id: SYS-27GEFX
+id: REQ-9MCA4ZS
 type: system-requirement
 title: Battery backup reports access tokens
 status: Approved
 priority: Medium
-parent: INFO-A6P9A8
-order: 510
+former-id: SYS-27GEFX
+parent: REQ-CMCS31A
+order: ao
 links:
   - type: refines
-    target: STK-JAQHJP
+    target: REQ-V8PT5BV
     confirmed: b0af11a5c3c2
 ---
 The battery backup shall switch schedule entries below 0.5 W in standby.

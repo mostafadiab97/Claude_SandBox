@@ -1,5 +1,5 @@
 ---
-id: TC-2V3BWH
+id: REQ-X71G9RN
 type: test-case
 title: "Verify: Login screen switchs firmware images"
 status: Obsolete
@@ -7,14 +7,15 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - release-1.0
-parent: INFO-J0FETE
-order: 170
+former-id: TC-2V3BWH
+parent: REQ-WR5ZJN9
+order: aG
 links:
   - type: verifies
-    target: SYS-HC7415
+    target: REQ-TDS2MHG
     confirmed: 072f7558d179
   - type: verifies
-    target: SW-TSMQH4
+    target: REQ-DWWRFYM
     confirmed: 05b6ca3c7024
 ---
 **Objective:** verify that the login screen behaves as specified.

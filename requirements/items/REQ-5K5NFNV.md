@@ -1,15 +1,16 @@
 ---
-id: IF-FC8RPG
+id: REQ-5K5NFNV
 type: interface-requirement
 title: Pairing process notifys firmware images
 status: Review
 priority: Medium
 owner: É. Laurent
-parent: SYS-1NHXCW
-order: 20
+former-id: IF-FC8RPG
+parent: REQ-WK5920T
+order: a1
 links:
   - type: refines
-    target: SYS-1NHXCW
+    target: REQ-WK5920T
     confirmed: e694361bd48d
 ---
 The Wi-Fi module shall synchronise relay events in under 3 s.

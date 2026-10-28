@@ -1,5 +1,5 @@
 ---
-id: DE-3P2ZCH
+id: REQ-GJ4DP4Q
 type: design-element
 title: Module zone_valve_5
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: É. Laurent
 tags:
   - connectivity
-parent: SW-CGSC6B
-order: 10
+former-id: DE-3P2ZCH
+parent: REQ-71BWGG7
+order: a0
 links:
   - type: implements
-    target: SW-CGSC6B
+    target: REQ-71BWGG7
     confirmed: 48866ed0074a
 ---
 Implemented in `src/heat/zone_valve.c`.

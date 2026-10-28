@@ -1,5 +1,5 @@
 ---
-id: DE-XS2FEM
+id: REQ-N05VA51
 type: design-element
 title: Module encryption_layer_62
 status: Review
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - EMC
   - safety
-parent: SW-XRNYEA
-order: 10
+former-id: DE-XS2FEM
+parent: REQ-N8K2TEA
+order: a0
 links:
   - type: implements
-    target: SW-XRNYEA
+    target: REQ-N8K2TEA
     confirmed: 75864a489760
 ---
 Implemented in `src/safe/encryption_layer.c`.

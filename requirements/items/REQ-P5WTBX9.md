@@ -1,5 +1,5 @@
 ---
-id: SW-RBNPP6
+id: REQ-P5WTBX9
 type: software-requirement
 title: Pairing process displays the set point
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - power
   - release-2.0
-parent: SYS-W1MEG3
-order: 10
+former-id: SW-RBNPP6
+parent: REQ-VP326G6
+order: a0
 links:
   - type: refines
-    target: SYS-W1MEG3
+    target: REQ-VP326G6
     confirmed: 7ffa04910a1e
 ---
 The pairing process shall restore sensor readings after a power loss.

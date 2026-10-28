@@ -1,15 +1,16 @@
 ---
-id: TC-0ZP3XC
+id: REQ-923CEVJ
 type: test-case
 title: "Regression: User account service stores the operating mode"
 status: Draft
 priority: High
 owner: محمد علي
-parent: INFO-ECHASH
-order: 750
+former-id: TC-0ZP3XC
+parent: REQ-6H15AV2
+order: b0C
 links:
   - type: verifies
-    target: SYS-0QZ4FS
+    target: REQ-TZMSH1B
     confirmed: 83b1b69a9529
 ---
 **Objective:** verify that the device behaves as specified.

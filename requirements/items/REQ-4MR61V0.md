@@ -1,19 +1,20 @@
 ---
-id: TC-KZ61AT
+id: REQ-4MR61V0
 type: test-case
 title: "Verify: Notification service switchs the connection state"
 status: Approved
 owner: Y. Saber
 tags:
   - power
-parent: INFO-J0FETE
-order: 530
+former-id: TC-KZ61AT
+parent: REQ-WR5ZJN9
+order: aq
 links:
   - type: verifies
-    target: SYS-4JGB8T
+    target: REQ-D5YEACT
     confirmed: c2e09763d836
   - type: verifies
-    target: SW-2P252V
+    target: REQ-EFTGX4R
     confirmed: 3e6e63c540b2
 ---
 **Objective:** verify that the notification service behaves as specified.

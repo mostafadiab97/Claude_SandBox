@@ -1,16 +1,17 @@
 ---
-id: SW-D34YVM
+id: REQ-QQRBJW9
 type: software-requirement
 title: Notification service calibrates error conditions
 status: Approved
 owner: S. Adel
 tags:
   - performance
-parent: SYS-29G535
-order: 20
+former-id: SW-D34YVM
+parent: REQ-SWMBTEW
+order: a1
 links:
   - type: refines
-    target: SYS-29G535
+    target: REQ-SWMBTEW
     confirmed: 68b37681cbe6
 ---
 The home dashboard shall store schedule entries for at least 10 years.

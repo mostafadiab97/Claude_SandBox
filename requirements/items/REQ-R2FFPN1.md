@@ -1,15 +1,16 @@
 ---
-id: SW-ZZMBEM
+id: REQ-R2FFPN1
 type: software-requirement
 title: Touch display stores safety limits
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: SYS-186VAA
-order: 30
+former-id: SW-ZZMBEM
+parent: REQ-YS5Z53S
+order: a2
 links:
   - type: refines
-    target: SYS-186VAA
+    target: REQ-YS5Z53S
     confirmed: 8c9ff96ed042
 ---
 The rotary knob shall limit humidity values with an accuracy of ±0.5 °C.

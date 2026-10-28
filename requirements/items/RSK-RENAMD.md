@@ -1,5 +1,5 @@
 ---
-id: RSK-664XQZ
+id: REQ-QAQ88MR
 type: risk
 title: "Risk: zone valve fails to synchronise the set point"
 status: Review
@@ -8,8 +8,9 @@ owner: S. Adel
 tags:
   - power
   - regulatory
-parent: INFO-YNFB8N
-order: 10
+former-id: RSK-664XQZ
+parent: REQ-M63G69B
+order: a0
 ---
 **Hazard:** the zone valve could fail to validate access tokens.
 

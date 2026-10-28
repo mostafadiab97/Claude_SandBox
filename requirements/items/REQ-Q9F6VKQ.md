@@ -1,7 +1,8 @@
 ---
-id: INFO-8XMHGD
+id: REQ-Q9F6VKQ
 type: information
-title: 6. Connectivity
-order: 70
+title: Connectivity
+former-id: INFO-8XMHGD
+order: a6
 ---
 Requirements for the connectivity.

@@ -1,5 +1,5 @@
 ---
-id: SYS-S1BVE9
+id: REQ-T9WRD80
 type: system-requirement
 title: Heat pump driver reports sensor readings
 status: Approved
@@ -7,14 +7,15 @@ priority: High
 tags:
   - security
   - cost
-parent: INFO-6DQTKV
-order: 1980
+former-id: SYS-S1BVE9
+parent: REQ-7ED7ZET
+order: b2B
 links:
   - type: refines
-    target: STK-9YF5RE
+    target: REQ-FGZGBY5
     confirmed: 43643c03020f
   - type: mitigates
-    target: RSK-GP1TY2
+    target: REQ-CYZ942A
     confirmed: 50cb7d905eb0
 ---
 The heat pump driver shall display sensor readings for at least 10 years.

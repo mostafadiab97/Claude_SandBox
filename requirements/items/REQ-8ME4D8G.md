@@ -1,15 +1,16 @@
 ---
-id: SW-VFX7YV
+id: REQ-8ME4D8G
 type: software-requirement
 title: Zigbee radio encrypts audit records
 status: Approved
 priority: Low
 owner: É. Laurent
-parent: SYS-FA8CFD
-order: 40
+former-id: SW-VFX7YV
+parent: REQ-KPTHK4E
+order: a3
 links:
   - type: refines
-    target: SYS-FA8CFD
+    target: REQ-KPTHK4E
     confirmed: 7868d91ae4aa
 ---
 The local API shall calibrate the operating mode for up to 8 zones.

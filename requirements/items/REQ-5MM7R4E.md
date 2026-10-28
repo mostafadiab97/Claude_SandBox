@@ -1,18 +1,19 @@
 ---
-id: TC-YRT45Q
+id: REQ-5MM7R4E
 type: test-case
 title: "Verify: Heat pump driver notifys relay events"
 status: Draft
 priority: Medium
 owner: L. Samir
-parent: INFO-MS9DAG
-order: 310
+former-id: TC-YRT45Q
+parent: REQ-XGWSK2K
+order: aU
 links:
   - type: verifies
-    target: SYS-HPD0VD
+    target: REQ-6MCMEW9
     confirmed: 5718299a4e75
   - type: verifies
-    target: SW-9C8MFQ
+    target: REQ-5FGV75Q
     confirmed: 6c2ce4814808
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-EES5FE
+id: REQ-N8S1B4P
 type: software-requirement
 title: Bluetooth LE link encrypts schedule entries
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - i18n
   - EMC
-parent: SYS-4T8ANS
-order: 30
+former-id: SW-EES5FE
+parent: REQ-XED1QNH
+order: a2
 links:
   - type: refines
-    target: SYS-4T8ANS
+    target: REQ-XED1QNH
     confirmed: 400a2ed062a9
 ---
 The Bluetooth LE link shall authenticate schedule entries at least once per minute.

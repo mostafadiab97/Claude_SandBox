@@ -1,15 +1,16 @@
 ---
-id: SW-AAJBTC
+id: REQ-M66B7MQ
 type: software-requirement
 title: Secure boot limits audit records
 status: Draft
 priority: High
 owner: M. Farouk
-parent: SYS-C2GRZK
-order: 30
+former-id: SW-AAJBTC
+parent: REQ-4KFD407
+order: a2
 links:
   - type: refines
-    target: SYS-C2GRZK
+    target: REQ-4KFD407
     confirmed: 83098b4942a6
 ---
 The encryption layer shall calibrate the set point for at least 10 years.

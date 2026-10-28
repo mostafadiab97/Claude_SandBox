@@ -1,5 +1,5 @@
 ---
-id: IF-Z9F3BP
+id: REQ-TA8S9E5
 type: interface-requirement
 title: Main PCB stores the room temperature
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - power
   - release-2.0
-parent: SYS-YJCK64
-order: 20
+former-id: IF-Z9F3BP
+parent: REQ-VTR2VKC
+order: a1
 links:
   - type: refines
-    target: SYS-YJCK64
+    target: REQ-VTR2VKC
     confirmed: 3cd2af5ea529
 ---
 The main PCB shall detect error conditions without user interaction.

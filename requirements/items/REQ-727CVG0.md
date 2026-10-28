@@ -1,5 +1,5 @@
 ---
-id: SYS-V1S2ND
+id: REQ-727CVG0
 type: system-requirement
 title: Menu system detects audit records
 status: Review
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - performance
   - regulatory
-parent: INFO-PDR6FV
-order: 940
+former-id: SYS-V1S2ND
+parent: REQ-2ZA2TRZ
+order: b0V
 links:
   - type: refines
-    target: STK-4K2NE4
+    target: REQ-1DHEN00
     confirmed: 7cfb31353d89
 ---
 The menu system shall calibrate access tokens after a power loss.

@@ -1,15 +1,16 @@
 ---
-id: SW-MVV5XH
+id: REQ-8MRW05Y
 type: software-requirement
 title: Menu system displays schedule entries
 status: Draft
 priority: Medium
 owner: A. Hassan
-parent: SYS-6DS2H0
-order: 30
+former-id: SW-MVV5XH
+parent: REQ-9BVVNS9
+order: a2
 links:
   - type: refines
-    target: SYS-6DS2H0
+    target: REQ-9BVVNS9
     confirmed: 108113d0fa0b
 ---
 The touch display shall switch user preferences without user interaction.

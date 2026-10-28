@@ -1,5 +1,5 @@
 ---
-id: SYS-QEFT7B
+id: REQ-VCPXGX6
 type: system-requirement
 title: OTA server stores humidity values
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - release-2.0
   - i18n
   - safety
-parent: INFO-YV5EZD
-order: 330
+former-id: SYS-QEFT7B
+parent: REQ-RE9ZKHF
+order: aW
 links:
   - type: refines
-    target: STK-JFBQPS
+    target: REQ-A8X8PTB
     confirmed: 5027ee1822eb
 ---
 The OTA server shall notify the operating mode for up to 8 zones.

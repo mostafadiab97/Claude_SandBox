@@ -1,5 +1,5 @@
 ---
-id: HW-7NQQC7
+id: REQ-QZ7F7TC
 type: hardware-requirement
 title: Backlight authenticates safety limits
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - performance
   - release-2.0
-parent: SYS-C6PXHJ
-order: 10
+former-id: HW-7NQQC7
+parent: REQ-S76AHNS
+order: a0
 links:
   - type: refines
-    target: SYS-C6PXHJ
+    target: REQ-S76AHNS
     confirmed: 603d88c764e7
 ---
 The rotary knob shall display firmware images within 200 ms.

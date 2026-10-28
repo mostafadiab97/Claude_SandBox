@@ -1,5 +1,5 @@
 ---
-id: SW-AN663M
+id: REQ-XGF1PJZ
 type: software-requirement
 title: Rotary knob authenticates the connection state
 status: Obsolete
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - safety
   - i18n
-parent: SYS-4A9C1C
-order: 10
+former-id: SW-AN663M
+parent: REQ-EQ0RF35
+order: a0
 links:
   - type: refines
-    target: SYS-4A9C1C
+    target: REQ-EQ0RF35
     confirmed: 7e8a730cf0b5
 ---
 The touch display shall report safety limits below 0.5 W in standby.

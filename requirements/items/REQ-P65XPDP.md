@@ -1,5 +1,5 @@
 ---
-id: TC-91DX85
+id: REQ-P65XPDP
 type: test-case
 title: "Verify: Cloud backend limits safety limits"
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - cost
   - performance
-parent: INFO-7P4D8D
-order: 710
+former-id: TC-91DX85
+parent: REQ-8351896
+order: b08
 links:
   - type: verifies
-    target: SYS-FN0RX8
+    target: REQ-89HPNKM
     confirmed: 30d123440a38
 ---
 **Objective:** verify that the cloud backend behaves as specified.

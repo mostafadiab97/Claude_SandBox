@@ -1,5 +1,5 @@
 ---
-id: SW-KTV1QX
+id: REQ-BA0EVBA
 type: software-requirement
 title: Detect schedule entries — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - EMC
   - power
-parent: SW-K5KTY4
-order: 10
+former-id: SW-KTV1QX
+parent: REQ-RFFS2WG
+order: a0
 links:
   - type: refines
-    target: SW-K5KTY4
+    target: REQ-RFFS2WG
     confirmed: 1d8e4186edff
 ---
 The schedule editor shall report the operating mode at least once per minute.

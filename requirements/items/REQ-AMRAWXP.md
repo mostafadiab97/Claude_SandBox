@@ -1,5 +1,5 @@
 ---
-id: IF-SPDW0C
+id: REQ-AMRAWXP
 type: interface-requirement
 title: Main PCB restores access tokens
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - ux
   - i18n
-parent: SYS-11FFG3
-order: 20
+former-id: IF-SPDW0C
+parent: REQ-81YFJH6
+order: a1
 links:
   - type: refines
-    target: SYS-11FFG3
+    target: REQ-81YFJH6
     confirmed: b87802a5ad61
 ---
 The battery backup shall synchronise the room temperature in under 3 s.

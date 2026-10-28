@@ -1,18 +1,19 @@
 ---
-id: TC-HVBXDF
+id: REQ-7FD3EAF
 type: test-case
 title: "Verify: Battery backup encrypts sensor readings"
 status: Approved
 priority: Medium
 owner: J. Müller
-parent: INFO-MACGC3
-order: 1460
+former-id: TC-HVBXDF
+parent: REQ-F9Z1FYS
+order: b1L
 links:
   - type: verifies
-    target: SYS-2JYQS6
+    target: REQ-ZD15HFR
     confirmed: ecfbe5ff7471
   - type: verifies
-    target: SW-5Q5H93
+    target: REQ-FKSN2AH
     confirmed: ef31d0e9d4d5
 ---
 **Objective:** verify that the battery backup behaves as specified.

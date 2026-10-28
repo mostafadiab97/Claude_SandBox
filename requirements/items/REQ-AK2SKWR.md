@@ -1,5 +1,5 @@
 ---
-id: TC-6VA330
+id: REQ-AK2SKWR
 type: test-case
 title: "Verify: Heating controller stores audit records"
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - accessibility
   - performance
-parent: INFO-MS9DAG
-order: 390
+former-id: TC-6VA330
+parent: REQ-XGWSK2K
+order: ac
 links:
   - type: verifies
-    target: SYS-2V6AQ6
+    target: REQ-ENZ8FT6
     confirmed: 2d2dda43be88
 ---
 **Objective:** verify that the heating controller behaves as specified.

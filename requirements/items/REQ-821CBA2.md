@@ -1,5 +1,5 @@
 ---
-id: SW-X0JZDA
+id: REQ-821CBA2
 type: software-requirement
 title: Measure schedule entries — detail
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - safety
   - power
-parent: SW-E89BE2
-order: 10
+former-id: SW-X0JZDA
+parent: REQ-N0J44X8
+order: a0
 links:
   - type: refines
-    target: SW-E89BE2
+    target: REQ-N0J44X8
     confirmed: b9d5c9b75672
 ---
 The menu system shall log access tokens for up to 8 zones.

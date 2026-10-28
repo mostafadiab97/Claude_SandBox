@@ -1,10 +1,11 @@
 ---
-id: IF-0X1GT5
+id: REQ-HYBKFZ6
 type: interface-requirement
 title: "Signal 535: schedule entries"
 status: Review
 priority: Medium
-parent: INFO-2TM0JP
-order: 5350
+former-id: IF-0X1GT5
+parent: REQ-RJ0KHPT
+order: b7c
 ---
 Interface signal number 535.

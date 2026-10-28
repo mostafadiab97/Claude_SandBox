@@ -1,15 +1,16 @@
 ---
-id: SW-7PW4GH
+id: REQ-PK1KB64
 type: software-requirement
 title: Home dashboard validates audit records
 status: Review
 priority: High
 owner: S. Adel
-parent: SYS-BGBCA1
-order: 30
+former-id: SW-7PW4GH
+parent: REQ-RBWFBZ4
+order: a2
 links:
   - type: refines
-    target: SYS-BGBCA1
+    target: REQ-RBWFBZ4
     confirmed: 8c6a289aca43
 ---
 The home dashboard shall report relay events within 200 ms.

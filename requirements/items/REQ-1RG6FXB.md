@@ -1,15 +1,16 @@
 ---
-id: IF-H8HMR2
+id: REQ-1RG6FXB
 type: interface-requirement
 title: Bluetooth LE link restores the connection state
 status: Draft
 priority: High
 owner: R. Nabil
-parent: SYS-ZCATXC
-order: 10
+former-id: IF-H8HMR2
+parent: REQ-8B5T2XZ
+order: a0
 links:
   - type: refines
-    target: SYS-ZCATXC
+    target: REQ-8B5T2XZ
     confirmed: b58d7a4ac260
 ---
 The Zigbee radio shall display error conditions when the network is unavailable.

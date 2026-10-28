@@ -1,5 +1,5 @@
 ---
-id: TC-JH59CJ
+id: REQ-ZR65KDJ
 type: test-case
 title: "Verify: Heat pump driver displays schedule entries"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - customer-request
   - power
-parent: INFO-MS9DAG
-order: 1420
+former-id: TC-JH59CJ
+parent: REQ-XGWSK2K
+order: b1H
 links:
   - type: verifies
-    target: SYS-86C3Z1
+    target: REQ-EDB3M6H
     confirmed: 9813f1ce92fd
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

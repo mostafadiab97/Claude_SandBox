@@ -1,5 +1,5 @@
 ---
-id: TC-GYBY3K
+id: REQ-1YRSR6Y
 type: test-case
 title: "Verify: Telemetry pipeline limits audit records"
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - EMC
-parent: INFO-7P4D8D
-order: 1070
+former-id: TC-GYBY3K
+parent: REQ-8351896
+order: b0i
 links:
   - type: verifies
-    target: SYS-35NR1X
+    target: REQ-5JR8KWF
     confirmed: ce0c7ab3d25e
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

@@ -1,16 +1,17 @@
 ---
-id: SW-65YC2Z
+id: REQ-QBK4Z02
 type: software-requirement
 title: Menu system calibrates energy consumption
 status: Draft
 owner: R. Nabil
 tags:
   - regulatory
-parent: SYS-97KT0W
-order: 10
+former-id: SW-65YC2Z
+parent: REQ-7A0DC7K
+order: a0
 links:
   - type: refines
-    target: SYS-97KT0W
+    target: REQ-7A0DC7K
     confirmed: 26b3fcad096f
 ---
 The touch display shall restore safety limits with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: TC-0VER7R
+id: REQ-J54NE6N
 type: test-case
 title: "Verify: Heat pump driver restores sensor readings"
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - release-2.0
   - ux
-parent: INFO-MS9DAG
-order: 210
+former-id: TC-0VER7R
+parent: REQ-XGWSK2K
+order: aK
 links:
   - type: verifies
-    target: SYS-QGA0VX
+    target: REQ-GR9AKS7
     confirmed: 773f6956359c
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

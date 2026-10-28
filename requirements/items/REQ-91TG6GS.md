@@ -1,5 +1,5 @@
 ---
-id: SW-MP6E4E
+id: REQ-91TG6GS
 type: software-requirement
 title: Notification service authenticates the set point
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - connectivity
   - i18n
   - security
-parent: SYS-M72RBF
-order: 20
+former-id: SW-MP6E4E
+parent: REQ-J3F7ENB
+order: a1
 links:
   - type: refines
-    target: SYS-M72RBF
+    target: REQ-J3F7ENB
     confirmed: 9dbd45a382a2
 ---
 The home dashboard shall encrypt relay events after a power loss.

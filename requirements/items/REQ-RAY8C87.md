@@ -1,14 +1,15 @@
 ---
-id: SW-QK4N65
+id: REQ-RAY8C87
 type: software-requirement
 title: Bluetooth LE link detects the operating mode
 status: Approved
 owner: É. Laurent
-parent: SYS-66NFPS
-order: 10
+former-id: SW-QK4N65
+parent: REQ-WMCTY4C
+order: a0
 links:
   - type: refines
-    target: SYS-66NFPS
+    target: REQ-WMCTY4C
     confirmed: c345a9cbc34b
 ---
 The pairing process shall switch access tokens at least once per minute.

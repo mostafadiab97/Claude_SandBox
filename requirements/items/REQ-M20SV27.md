@@ -1,11 +1,12 @@
 ---
-id: IF-SD5ZYP
+id: REQ-M20SV27
 type: interface-requirement
 title: "Signal 474: sensor readings"
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: INFO-2TM0JP
-order: 4740
+former-id: IF-SD5ZYP
+parent: REQ-RJ0KHPT
+order: b6d
 ---
 Interface signal number 474.

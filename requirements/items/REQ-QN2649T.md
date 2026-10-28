@@ -1,5 +1,5 @@
 ---
-id: IF-R73FEQ
+id: REQ-QN2649T
 type: interface-requirement
 title: "Signal 180: audit records"
 status: Approved
@@ -9,7 +9,8 @@ tags:
   - ux
   - security
   - performance
-parent: INFO-2TM0JP
-order: 1800
+former-id: IF-R73FEQ
+parent: REQ-RJ0KHPT
+order: b1t
 ---
 Interface signal number 180.

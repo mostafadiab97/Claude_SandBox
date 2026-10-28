@@ -1,5 +1,5 @@
 ---
-id: IF-ZBN458
+id: REQ-NPFPE5H
 type: interface-requirement
 title: "Signal 347: audit records"
 status: Review
@@ -8,7 +8,8 @@ tags:
   - customer-request
   - power
   - performance
-parent: INFO-2TM0JP
-order: 3470
+former-id: IF-ZBN458
+parent: REQ-RJ0KHPT
+order: b4a
 ---
 Interface signal number 347.

@@ -1,15 +1,16 @@
 ---
-id: TC-92M1YQ
+id: REQ-0PKWTEP
 type: test-case
 title: "Verify: Mobile app displays the set point"
 status: Approved
 priority: Medium
 owner: M. Farouk
-parent: INFO-J0FETE
-order: 250
+former-id: TC-92M1YQ
+parent: REQ-WR5ZJN9
+order: aO
 links:
   - type: verifies
-    target: SYS-DT8Z3K
+    target: REQ-FMXRBR2
     confirmed: 97d4ec4541f8
 ---
 **Objective:** verify that the mobile app behaves as specified.

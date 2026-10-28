@@ -1,5 +1,5 @@
 ---
-id: TC-74AYA9
+id: REQ-P51BDQ2
 type: test-case
 title: "Verify: Device registry limits firmware images"
 status: Obsolete
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - safety
   - accessibility
-parent: INFO-7P4D8D
-order: 860
+former-id: TC-74AYA9
+parent: REQ-8351896
+order: b0N
 links:
   - type: verifies
-    target: SYS-HGM9BS
+    target: REQ-21V318B
     confirmed: e9e572deb541
 ---
 **Objective:** verify that the device registry behaves as specified.

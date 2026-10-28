@@ -1,5 +1,5 @@
 ---
-id: TC-JFJVSN
+id: REQ-NSA05EG
 type: test-case
 title: "Verify: User account service reports humidity values"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - release-2.0
   - regulatory
   - EMC
-parent: INFO-7P4D8D
-order: 690
+former-id: TC-JFJVSN
+parent: REQ-8351896
+order: b06
 links:
   - type: verifies
-    target: SYS-DQWVMQ
+    target: REQ-0HCJCVP
     confirmed: 7c9cac507365
   - type: verifies
-    target: SW-E9VX7X
+    target: REQ-DNX7BK1
     confirmed: 08754fdc2692
 ---
 **Objective:** verify that the user account service behaves as specified.

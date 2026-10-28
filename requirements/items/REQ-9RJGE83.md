@@ -1,5 +1,5 @@
 ---
-id: HW-BYY4KV
+id: REQ-9RJGE83
 type: hardware-requirement
 title: Bluetooth LE link synchronises firmware images
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: N. Kamal
 tags:
   - EMC
-parent: SYS-P934M9
-order: 10
+former-id: HW-BYY4KV
+parent: REQ-12HB10G
+order: a0
 links:
   - type: refines
-    target: SYS-P934M9
+    target: REQ-12HB10G
     confirmed: dd9a2dec3b73
 ---
 The Bluetooth LE link shall encrypt error conditions below 0.5 W in standby.

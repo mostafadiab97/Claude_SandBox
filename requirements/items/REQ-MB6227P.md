@@ -1,15 +1,16 @@
 ---
-id: TC-A2WYHP
+id: REQ-MB6227P
 type: test-case
 title: "Verify: Bluetooth LE link synchronises the set point"
 status: Approved
 tags:
   - release-2.0
-parent: INFO-F0M7VC
-order: 1150
+former-id: TC-A2WYHP
+parent: REQ-67RQXCK
+order: b0q
 links:
   - type: verifies
-    target: SYS-7W8YGY
+    target: REQ-NAKKA1A
     confirmed: aca44262add5
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

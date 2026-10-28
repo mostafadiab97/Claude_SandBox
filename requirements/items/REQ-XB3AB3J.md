@@ -1,5 +1,5 @@
 ---
-id: SYS-VW03TF
+id: REQ-XB3AB3J
 type: system-requirement
 title: Wi-Fi module encrypts the operating mode
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - power
   - ux
-parent: INFO-NRVHA2
-order: 640
+former-id: SYS-VW03TF
+parent: REQ-6R94HFM
+order: b01
 links:
   - type: refines
-    target: STK-AAZ4HV
+    target: REQ-M9DYEF5
     confirmed: 44fc7956dbf8
 ---
 The Wi-Fi module shall synchronise error conditions in under 3 s.

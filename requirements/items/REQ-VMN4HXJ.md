@@ -1,5 +1,5 @@
 ---
-id: IF-3X6AM6
+id: REQ-VMN4HXJ
 type: interface-requirement
 title: Watchdog restores energy consumption
 status: Review
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - power
   - accessibility
-parent: SYS-2C5AG5
-order: 30
+former-id: IF-3X6AM6
+parent: REQ-TM6AFX9
+order: a2
 links:
   - type: refines
-    target: SYS-2C5AG5
+    target: REQ-TM6AFX9
     confirmed: f015c93439ed
 ---
 The secure boot shall restore user preferences in all supported languages.

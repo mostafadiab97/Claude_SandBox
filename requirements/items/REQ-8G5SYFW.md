@@ -1,5 +1,5 @@
 ---
-id: IF-HMF6CX
+id: REQ-8G5SYFW
 type: interface-requirement
 title: "Signal 270: access tokens"
 status: Obsolete
@@ -7,7 +7,8 @@ priority: Medium
 owner: L. Samir
 tags:
   - accessibility
-parent: INFO-2TM0JP
-order: 2700
+former-id: IF-HMF6CX
+parent: REQ-RJ0KHPT
+order: b3L
 ---
 Interface signal number 270.

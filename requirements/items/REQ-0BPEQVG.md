@@ -1,5 +1,5 @@
 ---
-id: SW-VBQV83
+id: REQ-0BPEQVG
 type: software-requirement
 title: Encryption layer reports access tokens
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: A. Hassan
 tags:
   - power
-parent: SYS-MK13B0
-order: 10
+former-id: SW-VBQV83
+parent: REQ-7XBRPQY
+order: a0
 links:
   - type: refines
-    target: SYS-MK13B0
+    target: REQ-7XBRPQY
     confirmed: 37b1ff049bc6
 ---
 The over-temperature monitor shall limit firmware images using AES-256-GCM.

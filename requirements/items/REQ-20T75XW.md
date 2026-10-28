@@ -1,5 +1,5 @@
 ---
-id: SW-DT176M
+id: REQ-20T75XW
 type: software-requirement
 title: Telemetry pipeline validates safety limits
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - cost
   - security
   - power
-parent: SYS-3BVVSM
-order: 10
+former-id: SW-DT176M
+parent: REQ-KWY4YDV
+order: a0
 links:
   - type: refines
-    target: SYS-3BVVSM
+    target: REQ-KWY4YDV
     confirmed: 8d4772f02317
 ---
 The cloud backend shall report sensor readings in under 3 s.

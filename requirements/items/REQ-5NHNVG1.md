@@ -1,5 +1,5 @@
 ---
-id: SYS-NADNAY
+id: REQ-5NHNVG1
 type: system-requirement
 title: Touch display displays access tokens
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - performance
   - ux
-parent: INFO-PDR6FV
-order: 670
+former-id: SYS-NADNAY
+parent: REQ-2ZA2TRZ
+order: b04
 links:
   - type: refines
-    target: STK-EHVDJF
+    target: REQ-4T80DB9
     confirmed: cf195cdb6a20
 ---
 The touch display shall encrypt relay events at least once per minute.

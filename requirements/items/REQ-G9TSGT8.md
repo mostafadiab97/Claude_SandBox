@@ -1,15 +1,16 @@
 ---
-id: SW-GY72BR
+id: REQ-G9TSGT8
 type: software-requirement
 title: Watchdog notifys sensor readings
 status: Approved
 priority: High
 owner: R. Nabil
-parent: SYS-BY1F6D
-order: 30
+former-id: SW-GY72BR
+parent: REQ-Q264XYM
+order: a2
 links:
   - type: refines
-    target: SYS-BY1F6D
+    target: REQ-Q264XYM
     confirmed: 47a415e5df93
 ---
 The over-temperature monitor shall switch the room temperature when the network is unavailable.

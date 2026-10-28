@@ -1,12 +1,13 @@
 ---
-id: IF-AEW033
+id: REQ-3ME2NTP
 type: interface-requirement
 title: "Signal 645: sensor readings"
 status: Approved
 priority: High
 tags:
   - i18n
-parent: INFO-2TM0JP
-order: 6450
+former-id: IF-AEW033
+parent: REQ-RJ0KHPT
+order: b9O
 ---
 Interface signal number 645.

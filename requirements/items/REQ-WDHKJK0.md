@@ -1,5 +1,5 @@
 ---
-id: TC-S28FDK
+id: REQ-WDHKJK0
 type: test-case
 title: "Verify: User account service authenticates safety limits"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: محمد علي
 tags:
   - cost
-parent: INFO-7P4D8D
-order: 1320
+former-id: TC-S28FDK
+parent: REQ-8351896
+order: b17
 links:
   - type: verifies
-    target: SYS-3CAV4T
+    target: REQ-STD2M46
     confirmed: e3cc68adfaa3
 ---
 **Objective:** verify that the user account service behaves as specified.

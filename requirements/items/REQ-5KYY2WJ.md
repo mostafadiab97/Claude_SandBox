@@ -1,15 +1,16 @@
 ---
-id: TC-SXVMX3
+id: REQ-5KYY2WJ
 type: test-case
 title: "Verify: Bluetooth LE link reports the room temperature"
 status: Review
 priority: Low
 owner: محمد علي
-parent: INFO-F0M7VC
-order: 190
+former-id: TC-SXVMX3
+parent: REQ-67RQXCK
+order: aI
 links:
   - type: verifies
-    target: SYS-PX6WZT
+    target: REQ-D0AFD98
     confirmed: f32411f63461
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

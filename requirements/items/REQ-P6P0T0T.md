@@ -1,5 +1,5 @@
 ---
-id: SW-D1K88M
+id: REQ-P6P0T0T
 type: software-requirement
 title: Menu system synchronises audit records
 status: Review
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - i18n
   - safety
-parent: SYS-RBHXPF
-order: 10
+former-id: SW-D1K88M
+parent: REQ-1X8RESD
+order: a0
 links:
   - type: refines
-    target: SYS-RBHXPF
+    target: REQ-1X8RESD
     confirmed: efa36830708b
 ---
 The backlight shall calibrate safety limits after a power loss.

@@ -1,15 +1,16 @@
 ---
-id: IF-QW1A3Z
+id: REQ-RBB80A5
 type: interface-requirement
 title: Battery backup calibrates the connection state
 status: Draft
 priority: Medium
 owner: É. Laurent
-parent: SYS-QS89W9
-order: 20
+former-id: IF-QW1A3Z
+parent: REQ-CR8428R
+order: a1
 links:
   - type: refines
-    target: SYS-QS89W9
+    target: REQ-CR8428R
     confirmed: 257707a82d4d
 ---
 The enclosure shall detect relay events below 0.5 W in standby.

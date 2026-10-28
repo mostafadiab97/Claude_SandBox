@@ -1,5 +1,5 @@
 ---
-id: DE-ZZZYQ3
+id: REQ-YJTNBRA
 type: design-element
 title: Module Bluetooth_LE_link_40
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - EMC
   - i18n
-parent: SW-3C3WHH
-order: 10
+former-id: DE-ZZZYQ3
+parent: REQ-CQTAPKT
+order: a0
 links:
   - type: implements
-    target: SW-3C3WHH
+    target: REQ-CQTAPKT
     confirmed: a9905272396e
 ---
 Implemented in `src/conn/Bluetooth_LE_link.c`.

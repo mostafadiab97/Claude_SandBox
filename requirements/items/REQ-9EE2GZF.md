@@ -1,16 +1,17 @@
 ---
-id: TC-7Y1YJR
+id: REQ-9EE2GZF
 type: test-case
 title: "Verify: Cloud backend notifys the set point"
 status: Review
 priority: Medium
 tags:
   - safety
-parent: INFO-7P4D8D
-order: 520
+former-id: TC-7Y1YJR
+parent: REQ-8351896
+order: ap
 links:
   - type: verifies
-    target: SYS-Y57EAP
+    target: REQ-7HZ3W72
     confirmed: 6b2c6923c4ae
 ---
 **Objective:** verify that the cloud backend behaves as specified.

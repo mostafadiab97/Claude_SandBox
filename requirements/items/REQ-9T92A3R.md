@@ -1,5 +1,5 @@
 ---
-id: SYS-N7H58H
+id: REQ-9T92A3R
 type: system-requirement
 title: Watchdog detects error conditions
 status: Review
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - EMC
   - release-2.0
-parent: INFO-0229G8
-order: 150
+former-id: SYS-N7H58H
+parent: REQ-H9113WA
+order: aE
 links:
   - type: refines
-    target: STK-G2H1B9
+    target: REQ-Q8ZRB9S
     confirmed: fce33b342585
 ---
 The watchdog shall report the room temperature below 0.5 W in standby.

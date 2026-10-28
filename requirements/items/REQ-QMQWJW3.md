@@ -1,17 +1,18 @@
 ---
-id: TC-RFWPT8
+id: REQ-QMQWJW3
 type: test-case
 title: "Verify: Battery backup notifys the operating mode"
 status: Approved
 priority: Low
-parent: INFO-MACGC3
-order: 910
+former-id: TC-RFWPT8
+parent: REQ-F9Z1FYS
+order: b0S
 links:
   - type: verifies
-    target: SYS-4JV7MY
+    target: REQ-EKP7AXG
     confirmed: 199fce62923b
   - type: verifies
-    target: SW-C4TQ7V
+    target: REQ-71R8P2G
     confirmed: 71eb8e44b2b0
 ---
 **Objective:** verify that the battery backup behaves as specified.

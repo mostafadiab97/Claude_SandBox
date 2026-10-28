@@ -1,5 +1,5 @@
 ---
-id: SW-TTPGPJ
+id: REQ-M225HJY
 type: software-requirement
 title: Heat pump driver switchs the set point
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: محمد علي
 tags:
   - EMC
-parent: SYS-M4QAQY
-order: 40
+former-id: SW-TTPGPJ
+parent: REQ-FWFRZ9W
+order: a3
 links:
   - type: refines
-    target: SYS-M4QAQY
+    target: REQ-FWFRZ9W
     confirmed: 4fabc5aa13e6
 ---
 The regulation loop shall log humidity values without user interaction.

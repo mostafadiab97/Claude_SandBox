@@ -1,5 +1,5 @@
 ---
-id: SW-A5YBH6
+id: REQ-A1F9TNZ
 type: software-requirement
 title: Home dashboard restores the set point
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - i18n
   - power
   - cost
-parent: SYS-PDF1CD
-order: 30
+former-id: SW-A5YBH6
+parent: REQ-C5MK5TB
+order: a2
 links:
   - type: refines
-    target: SYS-PDF1CD
+    target: REQ-C5MK5TB
     confirmed: ba0d0f689c55
 ---
 The home dashboard shall detect relay events within 200 ms.

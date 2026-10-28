@@ -1,5 +1,5 @@
 ---
-id: TC-HFP8QD
+id: REQ-YW76C0T
 type: test-case
 title: "Verify: Device registry stores audit records"
 status: Obsolete
@@ -7,11 +7,12 @@ owner: N. Kamal
 tags:
   - cost
   - release-1.0
-parent: INFO-7P4D8D
-order: 740
+former-id: TC-HFP8QD
+parent: REQ-8351896
+order: b0B
 links:
   - type: verifies
-    target: SYS-6MTAQR
+    target: REQ-H1HVVK4
     confirmed: 76300eb27743
 ---
 **Objective:** verify that the device registry behaves as specified.

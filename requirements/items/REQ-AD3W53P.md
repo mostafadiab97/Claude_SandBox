@@ -1,15 +1,16 @@
 ---
-id: SW-AMBWJA
+id: REQ-AD3W53P
 type: software-requirement
 title: Zigbee radio logs user preferences
 status: Draft
 priority: Low
 owner: A. Hassan
-parent: SYS-QKH3DT
-order: 30
+former-id: SW-AMBWJA
+parent: REQ-RHQ31WJ
+order: a2
 links:
   - type: refines
-    target: SYS-QKH3DT
+    target: REQ-RHQ31WJ
     confirmed: 531d33ab57d8
 ---
 The Wi-Fi module shall authenticate the set point at least once per minute.

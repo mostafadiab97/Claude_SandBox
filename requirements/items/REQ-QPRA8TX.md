@@ -1,5 +1,5 @@
 ---
-id: TC-2RVGJE
+id: REQ-QPRA8TX
 type: test-case
 title: "Verify: Schedule editor measures energy consumption"
 status: Draft
@@ -8,14 +8,15 @@ owner: Y. Saber
 tags:
   - regulatory
   - release-2.0
-parent: INFO-J0FETE
-order: 1200
+former-id: TC-2RVGJE
+parent: REQ-WR5ZJN9
+order: b0v
 links:
   - type: verifies
-    target: SYS-BKCGFY
+    target: REQ-9B3KSET
     confirmed: cca1fb8df9ed
   - type: verifies
-    target: SW-81JA41
+    target: REQ-W7RSXDH
     confirmed: 48092e93f8af
 ---
 **Objective:** verify that the schedule editor behaves as specified.

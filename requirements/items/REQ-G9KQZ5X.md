@@ -1,5 +1,5 @@
 ---
-id: SW-XR9QXE
+id: REQ-G9KQZ5X
 type: software-requirement
 title: Watchdog stores error conditions
 status: Obsolete
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - accessibility
   - release-1.0
-parent: SYS-SNV0V5
-order: 20
+former-id: SW-XR9QXE
+parent: REQ-DM2TR54
+order: a1
 links:
   - type: refines
-    target: SYS-SNV0V5
+    target: REQ-DM2TR54
     confirmed: e469f30b51d1
 ---
 The encryption layer shall limit the room temperature using AES-256-GCM.

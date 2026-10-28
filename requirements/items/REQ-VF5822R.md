@@ -1,5 +1,5 @@
 ---
-id: SW-CX3P1P
+id: REQ-VF5822R
 type: software-requirement
 title: Encryption layer measures firmware images
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - safety
   - performance
-parent: SYS-5BZJ6Y
-order: 30
+former-id: SW-CX3P1P
+parent: REQ-S2CYXSP
+order: a2
 links:
   - type: refines
-    target: SYS-5BZJ6Y
+    target: REQ-S2CYXSP
     confirmed: 4f8713624f57
 ---
 The over-temperature monitor shall encrypt schedule entries for up to 8 zones.

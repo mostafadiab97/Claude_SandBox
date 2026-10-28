@@ -1,15 +1,16 @@
 ---
-id: TC-7GNT21
+id: REQ-3H3TJZH
 type: test-case
 title: "Regression: Zigbee radio authenticates sensor readings"
 status: Review
 priority: High
 owner: L. Samir
-parent: INFO-ECHASH
-order: 1470
+former-id: TC-7GNT21
+parent: REQ-6H15AV2
+order: b1M
 links:
   - type: verifies
-    target: SYS-BCDQHB
+    target: REQ-V7MAHMN
     confirmed: ed0bba187a94
 ---
 **Objective:** verify that the device behaves as specified.

@@ -1,13 +1,14 @@
 ---
-id: SYS-21RSPB
+id: REQ-1NZ47K3
 type: system-requirement
 title: Watchdog reports the connection state
 status: Review
-parent: INFO-0229G8
-order: 1710
+former-id: SYS-21RSPB
+parent: REQ-H9113WA
+order: b1k
 links:
   - type: refines
-    target: STK-SM9B7Z
+    target: REQ-Z2QF8WD
     confirmed: 44235e2789f0
 ---
 The watchdog shall synchronise error conditions within 200 ms.

@@ -1,11 +1,12 @@
 ---
-id: IF-SKW0EF
+id: REQ-YRG1YKS
 type: interface-requirement
 title: "Signal 087: energy consumption"
 status: Review
 priority: High
 owner: R. Nabil
-parent: INFO-2TM0JP
-order: 870
+former-id: IF-SKW0EF
+parent: REQ-RJ0KHPT
+order: b0O
 ---
 Interface signal number 87.

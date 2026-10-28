@@ -1,5 +1,5 @@
 ---
-id: TC-XCG8PD
+id: REQ-79VC1NR
 type: test-case
 title: "Verify: Enclosure stores firmware images"
 status: Approved
@@ -8,14 +8,15 @@ owner: K. Tanaka
 tags:
   - i18n
   - cost
-parent: INFO-MACGC3
-order: 960
+former-id: TC-XCG8PD
+parent: REQ-F9Z1FYS
+order: b0X
 links:
   - type: verifies
-    target: SYS-WRCCVQ
+    target: REQ-7AV7MGG
     confirmed: 22615937890b
   - type: verifies
-    target: SW-0CA54W
+    target: REQ-8BZ2WF3
     confirmed: c33a35847fa5
 ---
 **Objective:** verify that the enclosure behaves as specified.

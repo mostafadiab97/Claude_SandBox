@@ -1,5 +1,5 @@
 ---
-id: DE-BZHYZF
+id: REQ-4GX2PE2
 type: design-element
 title: Module OTA_server_65
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - security
   - regulatory
   - power
-parent: SW-Q6VP56
-order: 20
+former-id: DE-BZHYZF
+parent: REQ-AA797WB
+order: a1
 links:
   - type: implements
-    target: SW-Q6VP56
+    target: REQ-AA797WB
     confirmed: 9ce155de7e49
 ---
 Implemented in `src/cloud/OTA_server.c`.

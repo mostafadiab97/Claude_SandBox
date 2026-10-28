@@ -1,16 +1,17 @@
 ---
-id: IF-X3BRWJ
+id: REQ-5YXXRG4
 type: interface-requirement
 title: Wi-Fi module synchronises safety limits
 status: Approved
 priority: High
 tags:
   - power
-parent: SYS-2GYDBD
-order: 20
+former-id: IF-X3BRWJ
+parent: REQ-DYXG5BT
+order: a1
 links:
   - type: refines
-    target: SYS-2GYDBD
+    target: REQ-DYXG5BT
     confirmed: 16a1100da795
 ---
 The Wi-Fi module shall measure audit records when the network is unavailable.

@@ -1,5 +1,5 @@
 ---
-id: TC-TKBCR6
+id: REQ-BGNDSSE
 type: test-case
 title: "Verify: Relay board stores relay events"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - performance
   - i18n
   - EMC
-parent: INFO-MACGC3
-order: 1120
+former-id: TC-TKBCR6
+parent: REQ-F9Z1FYS
+order: b0n
 links:
   - type: verifies
-    target: SYS-DKDQXS
+    target: REQ-2DVZHT2
     confirmed: 172d4f5ba54f
 ---
 **Objective:** verify that the relay board behaves as specified.

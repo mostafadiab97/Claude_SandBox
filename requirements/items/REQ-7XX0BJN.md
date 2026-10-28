@@ -1,18 +1,19 @@
 ---
-id: SYS-KC9B1E
+id: REQ-7XX0BJN
 type: system-requirement
 title: Wi-Fi module stores the connection state
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: INFO-NRVHA2
-order: 400
+former-id: SYS-KC9B1E
+parent: REQ-6R94HFM
+order: ad
 links:
   - type: refines
-    target: STK-F7D2QS
+    target: REQ-7JDZJ5E
     confirmed: bd8a3050a12b
   - type: mitigates
-    target: RSK-QP0EFZ
+    target: REQ-JX165DV
     confirmed: b4372c636b9e
 ---
 The Wi-Fi module shall encrypt energy consumption within 200 ms.

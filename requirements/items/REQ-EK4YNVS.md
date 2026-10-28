@@ -1,5 +1,5 @@
 ---
-id: TC-K4VPAB
+id: REQ-EK4YNVS
 type: test-case
 title: "Verify: Over-temperature monitor limits the operating mode"
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - cost
   - release-1.0
-parent: INFO-Z4TW4B
-order: 240
+former-id: TC-K4VPAB
+parent: REQ-K6FGAY0
+order: aN
 links:
   - type: verifies
-    target: SYS-BPXBWB
+    target: REQ-VXXAZDW
     confirmed: c8b7a59a65ec
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

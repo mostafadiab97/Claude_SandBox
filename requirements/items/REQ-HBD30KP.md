@@ -1,10 +1,11 @@
 ---
-id: IF-X9JW6Q
+id: REQ-HBD30KP
 type: interface-requirement
 title: "Signal 387: access tokens"
 status: Approved
 owner: É. Laurent
-parent: INFO-2TM0JP
-order: 3870
+former-id: IF-X9JW6Q
+parent: REQ-RJ0KHPT
+order: b5E
 ---
 Interface signal number 387.

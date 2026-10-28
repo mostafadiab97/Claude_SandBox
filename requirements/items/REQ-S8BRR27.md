@@ -1,5 +1,5 @@
 ---
-id: IF-76X1JR
+id: REQ-S8BRR27
 type: interface-requirement
 title: Relay board stores audit records
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - customer-request
   - i18n
   - accessibility
-parent: SYS-VDRW9V
-order: 10
+former-id: IF-76X1JR
+parent: REQ-RP73624
+order: a0
 links:
   - type: refines
-    target: SYS-VDRW9V
+    target: REQ-RP73624
     confirmed: 0ac53f80c216
 ---
 The relay board shall limit error conditions for up to 8 zones.

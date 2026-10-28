@@ -1,5 +1,5 @@
 ---
-id: SYS-AG7C1J
+id: REQ-55ZTTKQ
 type: system-requirement
 title: Zigbee radio measures the connection state
 status: Review
@@ -9,14 +9,15 @@ tags:
   - accessibility
   - security
   - release-2.0
-parent: INFO-NRVHA2
-order: 340
+former-id: SYS-AG7C1J
+parent: REQ-6R94HFM
+order: aX
 links:
   - type: refines
-    target: STK-GMCKMF
+    target: REQ-5EJHVJ8
     confirmed: f47328374a2b
   - type: mitigates
-    target: RSK-6FVAYV
+    target: REQ-1H5BZ3M
     confirmed: 0c5515bf4edc
 ---
 The Zigbee radio shall restore schedule entries using AES-256-GCM.

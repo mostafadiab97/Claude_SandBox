@@ -1,14 +1,15 @@
 ---
-id: SW-8CD6G0
+id: REQ-B9MG5KK
 type: software-requirement
 title: Rotary knob reports sensor readings
 status: Approved
 priority: Medium
-parent: SYS-13AJMY
-order: 10
+former-id: SW-8CD6G0
+parent: REQ-X2BEAFB
+order: a0
 links:
   - type: refines
-    target: SYS-13AJMY
+    target: REQ-X2BEAFB
     confirmed: 3774cd655263
 ---
 The backlight shall calibrate relay events for up to 8 zones.

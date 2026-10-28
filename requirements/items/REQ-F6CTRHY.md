@@ -1,5 +1,5 @@
 ---
-id: SW-85FMX5
+id: REQ-F6CTRHY
 type: software-requirement
 title: Watchdog authenticates energy consumption
 status: Draft
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - EMC
   - accessibility
-parent: SYS-7J9J7C
-order: 10
+former-id: SW-85FMX5
+parent: REQ-N8MVGME
+order: a0
 links:
   - type: refines
-    target: SYS-7J9J7C
+    target: REQ-N8MVGME
     confirmed: 0f55b6e6a72b
 ---
 The secure boot shall log firmware images with an accuracy of ±0.5 °C.

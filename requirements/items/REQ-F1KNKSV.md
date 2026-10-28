@@ -1,5 +1,5 @@
 ---
-id: IF-KEQJ3Y
+id: REQ-F1KNKSV
 type: interface-requirement
 title: Telemetry pipeline validates error conditions
 status: Review
@@ -9,11 +9,12 @@ tags:
   - safety
   - regulatory
   - cost
-parent: SYS-ZG2A7P
-order: 40
+former-id: IF-KEQJ3Y
+parent: REQ-MAGQ1BB
+order: a3
 links:
   - type: refines
-    target: SYS-ZG2A7P
+    target: REQ-MAGQ1BB
     confirmed: dd3e6f066e4e
 ---
 The cloud backend shall authenticate sensor readings without user interaction.

@@ -1,15 +1,16 @@
 ---
-id: SW-DP5XHB
+id: REQ-K3YT2HX
 type: software-requirement
 title: Zigbee radio notifys user preferences
 status: Review
 priority: Medium
 owner: M. Farouk
-parent: SYS-4T8ANS
-order: 40
+former-id: SW-DP5XHB
+parent: REQ-XED1QNH
+order: a3
 links:
   - type: refines
-    target: SYS-4T8ANS
+    target: REQ-XED1QNH
     confirmed: 400a2ed062a9
 ---
 The Bluetooth LE link shall display the operating mode when the network is unavailable.

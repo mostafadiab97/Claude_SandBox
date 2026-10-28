@@ -1,15 +1,16 @@
 ---
-id: TC-SSEYB4
+id: REQ-ZWZE1KB
 type: test-case
 title: "Verify: User account service authenticates audit records"
 status: Approved
 priority: High
 owner: L. Samir
-parent: INFO-7P4D8D
-order: 1300
+former-id: TC-SSEYB4
+parent: REQ-8351896
+order: b15
 links:
   - type: verifies
-    target: SYS-KQAHRZ
+    target: REQ-Y5E53W3
     confirmed: 32db0e11587f
 ---
 **Objective:** verify that the user account service behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: DEF-R8EWGD
+id: REQ-01AXPE8
 type: defect
 title: "Defect: status LED does not measure safety limits"
 status: Draft
@@ -8,14 +8,15 @@ owner: S. Adel
 tags:
   - security
   - power
-parent: INFO-7HY7F9
-order: 50
+former-id: DEF-R8EWGD
+parent: REQ-HFYH0KW
+order: a4
 links:
   - type: relates-to
-    target: TC-FY5MVC
+    target: REQ-1KDQARA
     confirmed: e2910617abd3
   - type: relates-to
-    target: SYS-1BYGW7
+    target: REQ-PTW96Y2
     confirmed: aaf2829fd5ea
 ---
 Found during regression testing of build 2.1.0.

@@ -1,5 +1,5 @@
 ---
-id: HW-ZYQ0C3
+id: REQ-PXWVNVT
 type: hardware-requirement
 title: Relay board measures the room temperature
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - connectivity
   - release-1.0
-parent: SYS-9B4YX3
-order: 30
+former-id: HW-ZYQ0C3
+parent: REQ-ZRZYNZ8
+order: a2
 links:
   - type: refines
-    target: SYS-9B4YX3
+    target: REQ-ZRZYNZ8
     confirmed: 7e7b28ad44d1
 ---
 The relay board shall calibrate user preferences when the network is unavailable.

@@ -1,15 +1,16 @@
 ---
-id: IF-6F6YY3
+id: REQ-VZ9T2N8
 type: interface-requirement
 title: Tamper detection switchs sensor readings
 status: Draft
 priority: Low
 owner: R. Nabil
-parent: SYS-H16WP1
-order: 20
+former-id: IF-6F6YY3
+parent: REQ-HAAKDG0
+order: a1
 links:
   - type: refines
-    target: SYS-H16WP1
+    target: REQ-HAAKDG0
     confirmed: ba4b259a4075
 ---
 The watchdog shall notify the connection state for at least 10 years.

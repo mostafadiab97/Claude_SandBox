@@ -1,5 +1,5 @@
 ---
-id: SW-ZSP55Z
+id: REQ-1VD5M83
 type: software-requirement
 title: Display relay events — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - EMC
   - regulatory
   - safety
-parent: SW-YNMS62
-order: 10
+former-id: SW-ZSP55Z
+parent: REQ-20PH5AX
+order: a0
 links:
   - type: refines
-    target: SW-YNMS62
+    target: REQ-20PH5AX
     confirmed: 2d4e395bd4fc
 ---
 The home dashboard shall notify firmware images when the network is unavailable.

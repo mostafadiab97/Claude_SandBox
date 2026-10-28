@@ -1,5 +1,5 @@
 ---
-id: SW-831S7D
+id: REQ-W9YS97R
 type: software-requirement
 title: Encryption layer logs error conditions
 status: Review
@@ -8,11 +8,12 @@ tags:
   - performance
   - power
   - EMC
-parent: SYS-49FF9M
-order: 30
+former-id: SW-831S7D
+parent: REQ-M1R4HSQ
+order: a2
 links:
   - type: refines
-    target: SYS-49FF9M
+    target: REQ-M1R4HSQ
     confirmed: de1a22bc8031
 ---
 The tamper detection shall switch audit records in all supported languages.

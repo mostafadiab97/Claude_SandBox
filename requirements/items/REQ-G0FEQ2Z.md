@@ -1,5 +1,5 @@
 ---
-id: TC-XBB4C8
+id: REQ-G0FEQ2Z
 type: test-case
 title: "Verify: Encryption layer limits the connection state"
 status: Draft
@@ -7,14 +7,15 @@ priority: High
 owner: N. Kamal
 tags:
   - accessibility
-parent: INFO-Z4TW4B
-order: 1090
+former-id: TC-XBB4C8
+parent: REQ-K6FGAY0
+order: b0k
 links:
   - type: verifies
-    target: SYS-C1GZFQ
+    target: REQ-7F9G6TV
     confirmed: 4a1b95f28b03
   - type: verifies
-    target: SW-GR1195
+    target: REQ-XT61T5V
     confirmed: 3faf6fa03816
 ---
 **Objective:** verify that the encryption layer behaves as specified.

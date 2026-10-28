@@ -1,5 +1,5 @@
 ---
-id: SW-73NZH2
+id: REQ-2AFGFSP
 type: software-requirement
 title: Zone valve encrypts relay events
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - performance
   - regulatory
   - accessibility
-parent: SYS-AX0R5D
-order: 10
+former-id: SW-73NZH2
+parent: REQ-E1STVDJ
+order: a0
 links:
   - type: refines
-    target: SYS-AX0R5D
+    target: REQ-E1STVDJ
     confirmed: 53dbb90b6d36
 ---
 The boiler interface shall switch firmware images when the network is unavailable.

@@ -1,5 +1,5 @@
 ---
-id: SYS-NDYE2C
+id: REQ-7R7H5BD
 type: system-requirement
 title: Enclosure notifys user preferences
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - release-2.0
   - EMC
-parent: INFO-A6P9A8
-order: 2150
+former-id: SYS-NDYE2C
+parent: REQ-CMCS31A
+order: b2S
 links:
   - type: refines
-    target: STK-4NGQJ5
+    target: REQ-4H1F9N3
     confirmed: 96640a7e340d
 ---
 The enclosure shall switch sensor readings in under 3 s.

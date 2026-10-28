@@ -1,12 +1,13 @@
 ---
-id: IF-W0P93R
+id: REQ-GEMHGDV
 type: interface-requirement
 title: "Signal 447: relay events"
 status: Approved
 priority: Medium
 tags:
   - performance
-parent: INFO-2TM0JP
-order: 4470
+former-id: IF-W0P93R
+parent: REQ-RJ0KHPT
+order: b6C
 ---
 Interface signal number 447.

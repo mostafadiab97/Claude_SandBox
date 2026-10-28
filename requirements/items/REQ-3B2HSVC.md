@@ -1,5 +1,5 @@
 ---
-id: IF-PB56F2
+id: REQ-3B2HSVC
 type: interface-requirement
 title: Over-temperature monitor synchronises audit records
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - security
   - ux
   - EMC
-parent: SYS-96K8ZZ
-order: 10
+former-id: IF-PB56F2
+parent: REQ-FRAV7EH
+order: a0
 links:
   - type: refines
-    target: SYS-96K8ZZ
+    target: REQ-FRAV7EH
     confirmed: 4fbabcbee22c
 ---
 The over-temperature monitor shall restore energy consumption within 200 ms.

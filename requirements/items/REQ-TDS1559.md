@@ -1,5 +1,5 @@
 ---
-id: SW-MNYT92
+id: REQ-TDS1559
 type: software-requirement
 title: Home dashboard stores sensor readings
 status: Review
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - performance
   - customer-request
-parent: SYS-5N9QWY
-order: 30
+former-id: SW-MNYT92
+parent: REQ-P07CV0Z
+order: a2
 links:
   - type: refines
-    target: SYS-5N9QWY
+    target: REQ-P07CV0Z
     confirmed: d6dd62a6b8eb
 ---
 The login screen shall synchronise access tokens when the network is unavailable.

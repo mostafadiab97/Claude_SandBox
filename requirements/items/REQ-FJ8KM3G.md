@@ -1,5 +1,5 @@
 ---
-id: IF-78B15D
+id: REQ-FJ8KM3G
 type: interface-requirement
 title: "Signal 460: access tokens"
 status: Approved
@@ -8,7 +8,8 @@ owner: محمد علي
 tags:
   - connectivity
   - i18n
-parent: INFO-2TM0JP
-order: 4600
+former-id: IF-78B15D
+parent: REQ-RJ0KHPT
+order: b6P
 ---
 Interface signal number 460.

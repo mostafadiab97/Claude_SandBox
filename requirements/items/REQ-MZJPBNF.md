@@ -1,5 +1,5 @@
 ---
-id: SYS-4000EB
+id: REQ-MZJPBNF
 type: system-requirement
 title: Relay board logs the connection state
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - power
   - security
-parent: INFO-A6P9A8
-order: 150
+former-id: SYS-4000EB
+parent: REQ-CMCS31A
+order: aE
 links:
   - type: refines
-    target: STK-M28XWW
+    target: REQ-2678XV5
     confirmed: bcf262f10744
 ---
 The relay board shall validate schedule entries without user interaction.

@@ -1,15 +1,16 @@
 ---
-id: SW-AZ0JEB
+id: REQ-FCESG61
 type: software-requirement
 title: Login screen restores the operating mode
 status: Draft
 priority: High
 owner: A. Hassan
-parent: SYS-0R8DVR
-order: 20
+former-id: SW-AZ0JEB
+parent: REQ-5JA2JPE
+order: a1
 links:
   - type: refines
-    target: SYS-0R8DVR
+    target: REQ-5JA2JPE
     confirmed: 008c7842cee7
 ---
 The notification service shall report audit records after a power loss.

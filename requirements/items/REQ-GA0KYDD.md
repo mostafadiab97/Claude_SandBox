@@ -1,5 +1,5 @@
 ---
-id: HW-SKT58D
+id: REQ-GA0KYDD
 type: hardware-requirement
 title: Battery backup measures relay events
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - safety
   - connectivity
-parent: SYS-NSQBT9
-order: 10
+former-id: HW-SKT58D
+parent: REQ-36A28XW
+order: a0
 links:
   - type: refines
-    target: SYS-NSQBT9
+    target: REQ-36A28XW
     confirmed: a72d25c263cd
 ---
 The enclosure shall authenticate the operating mode in all supported languages.

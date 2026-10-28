@@ -1,5 +1,5 @@
 ---
-id: SW-28YT84
+id: REQ-D1RSQBY
 type: software-requirement
 title: Rotary knob synchronises audit records
 status: Draft
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - power
   - customer-request
-parent: SYS-JGW1WQ
-order: 20
+former-id: SW-28YT84
+parent: REQ-R8BDX9R
+order: a1
 links:
   - type: refines
-    target: SYS-JGW1WQ
+    target: REQ-R8BDX9R
     confirmed: b34c573d4b49
 ---
 The backlight shall log sensor readings in all supported languages.

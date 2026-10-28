@@ -1,5 +1,5 @@
 ---
-id: TC-ZY3099
+id: REQ-9X0X3N3
 type: test-case
 title: "Regression: Login screen synchronises firmware images"
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: N. Kamal
 tags:
   - cost
-parent: INFO-ECHASH
-order: 1020
+former-id: TC-ZY3099
+parent: REQ-6H15AV2
+order: b0d
 links:
   - type: verifies
-    target: SYS-1G38N7
+    target: REQ-0Z7H5M4
     confirmed: 4a4496e229e3
 ---
 **Objective:** verify that the device behaves as specified.

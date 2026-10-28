@@ -1,5 +1,5 @@
 ---
-id: HW-ZZ86CJ
+id: REQ-KAPHBEM
 type: hardware-requirement
 title: Switch the operating mode — detail
 status: Review
@@ -8,11 +8,12 @@ tags:
   - safety
   - security
   - EMC
-parent: HW-M1JWVB
-order: 10
+former-id: HW-ZZ86CJ
+parent: REQ-Y16YQER
+order: a0
 links:
   - type: refines
-    target: HW-M1JWVB
+    target: REQ-Y16YQER
     confirmed: b1bab8074bf3
 ---
 The battery backup shall validate user preferences without user interaction.

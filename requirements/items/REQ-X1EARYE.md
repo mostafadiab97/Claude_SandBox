@@ -1,5 +1,5 @@
 ---
-id: DE-Z4ZS2X
+id: REQ-X1EARYE
 type: design-element
 title: Module touch_display_92
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: É. Laurent
 tags:
   - safety
-parent: SW-5TZJY1
-order: 10
+former-id: DE-Z4ZS2X
+parent: REQ-FEFKCFE
+order: a0
 links:
   - type: implements
-    target: SW-5TZJY1
+    target: REQ-FEFKCFE
     confirmed: 430f4180fc4b
 ---
 Implemented in `src/ui/touch_display.c`.

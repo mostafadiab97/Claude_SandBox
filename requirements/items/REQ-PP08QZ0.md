@@ -1,5 +1,5 @@
 ---
-id: IF-6VEM8S
+id: REQ-PP08QZ0
 type: interface-requirement
 title: Backlight displays access tokens
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - release-1.0
-parent: SYS-CN5R0M
-order: 10
+former-id: IF-6VEM8S
+parent: REQ-GAEVZB6
+order: a0
 links:
   - type: refines
-    target: SYS-CN5R0M
+    target: REQ-GAEVZB6
     confirmed: 799043feacf1
 ---
 The rotary knob shall calibrate user preferences for at least 10 years.

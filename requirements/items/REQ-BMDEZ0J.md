@@ -1,5 +1,5 @@
 ---
-id: SW-4ZJDE1
+id: REQ-BMDEZ0J
 type: software-requirement
 title: Cloud backend encrypts firmware images
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - cost
   - release-1.0
-parent: SYS-6FSERM
-order: 10
+former-id: SW-4ZJDE1
+parent: REQ-8M8WPB5
+order: a0
 links:
   - type: refines
-    target: SYS-6FSERM
+    target: REQ-8M8WPB5
     confirmed: 963aa15de966
 ---
 The cloud backend shall validate audit records in under 3 s.

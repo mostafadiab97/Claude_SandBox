@@ -1,18 +1,19 @@
 ---
-id: SYS-Z9T7JH
+id: REQ-RPAJ3YY
 type: system-requirement
 title: Mobile app encrypts the set point
 status: Approved
 priority: Low
 owner: J. Müller
-parent: INFO-2XXBRS
-order: 1960
+former-id: SYS-Z9T7JH
+parent: REQ-QYXGSQ4
+order: b29
 links:
   - type: refines
-    target: STK-5VZRF2
+    target: REQ-AC08V5H
     confirmed: cf78baefa376
   - type: mitigates
-    target: RSK-040M7X
+    target: REQ-0CSS0FS
     confirmed: fdb267eb1465
 ---
 The mobile app shall authenticate access tokens with an accuracy of ±0.5 °C.

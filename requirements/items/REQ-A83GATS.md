@@ -1,15 +1,16 @@
 ---
-id: HW-1EC438
+id: REQ-A83GATS
 type: hardware-requirement
 title: Power supply displays relay events
 status: Draft
 priority: High
 owner: L. Samir
-parent: SYS-EC99RK
-order: 10
+former-id: HW-1EC438
+parent: REQ-9DQ3XFA
+order: a0
 links:
   - type: refines
-    target: SYS-EC99RK
+    target: REQ-9DQ3XFA
     confirmed: efe95468b71a
 ---
 The enclosure shall notify humidity values when the network is unavailable.

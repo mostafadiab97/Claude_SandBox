@@ -1,14 +1,15 @@
 ---
-id: IF-61T4ZZ
+id: REQ-TZ34Q55
 type: interface-requirement
 title: Secure boot reports audit records
 status: Approved
 owner: K. Tanaka
-parent: SYS-82XYZM
-order: 30
+former-id: IF-61T4ZZ
+parent: REQ-BZPV0PM
+order: a2
 links:
   - type: refines
-    target: SYS-82XYZM
+    target: REQ-BZPV0PM
     confirmed: 7f8ed4700350
 ---
 The secure boot shall limit the operating mode with an accuracy of ±0.5 °C.

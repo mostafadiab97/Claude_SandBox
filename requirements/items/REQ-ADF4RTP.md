@@ -1,5 +1,5 @@
 ---
-id: SW-9JBTA8
+id: REQ-ADF4RTP
 type: software-requirement
 title: Telemetry pipeline switchs error conditions
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: H. Mostafa
 tags:
   - ux
-parent: SYS-YWXHFA
-order: 20
+former-id: SW-9JBTA8
+parent: REQ-RVXMF1V
+order: a1
 links:
   - type: refines
-    target: SYS-YWXHFA
+    target: REQ-RVXMF1V
     confirmed: ee4bee4c5185
 ---
 The device registry shall detect the connection state after a power loss.

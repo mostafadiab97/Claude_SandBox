@@ -1,18 +1,19 @@
 ---
-id: TC-P0X89Q
+id: REQ-XF0B7R7
 type: test-case
 title: "Verify: OTA server restores schedule entries"
 status: Draft
 priority: Low
 owner: M. Farouk
-parent: INFO-7P4D8D
-order: 420
+former-id: TC-P0X89Q
+parent: REQ-8351896
+order: af
 links:
   - type: verifies
-    target: SYS-6YV024
+    target: REQ-Z11QB4Y
     confirmed: e79eb16e0194
   - type: verifies
-    target: SW-VD99JH
+    target: REQ-KXXNJF0
     confirmed: d9cbe06956cd
 ---
 **Objective:** verify that the OTA server behaves as specified.

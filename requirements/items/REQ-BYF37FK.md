@@ -1,14 +1,15 @@
 ---
-id: SW-1F8X27
+id: REQ-BYF37FK
 type: software-requirement
 title: Touch display detects firmware images
 status: Review
 priority: Low
-parent: SYS-19PSY9
-order: 40
+former-id: SW-1F8X27
+parent: REQ-HHTRF9W
+order: a3
 links:
   - type: refines
-    target: SYS-19PSY9
+    target: REQ-HHTRF9W
     confirmed: 6a61bda8a792
 ---
 The touch display shall restore user preferences without user interaction.

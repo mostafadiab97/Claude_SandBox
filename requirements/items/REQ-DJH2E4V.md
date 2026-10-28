@@ -1,5 +1,5 @@
 ---
-id: TC-0BTHNB
+id: REQ-DJH2E4V
 type: test-case
 title: "Verify: Backlight synchronises safety limits"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - accessibility
   - performance
-parent: INFO-HTSZ15
-order: 390
+former-id: TC-0BTHNB
+parent: REQ-Y9VHHKA
+order: ac
 links:
   - type: verifies
-    target: SYS-H3FFZV
+    target: REQ-WEM21SV
     confirmed: 5a7f9180a50d
 ---
 **Objective:** verify that the backlight behaves as specified.

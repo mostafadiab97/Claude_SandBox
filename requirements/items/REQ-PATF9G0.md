@@ -1,5 +1,5 @@
 ---
-id: SW-PX6E13
+id: REQ-PATF9G0
 type: software-requirement
 title: Log sensor readings — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - cost
   - EMC
-parent: SW-2YTBXN
-order: 10
+former-id: SW-PX6E13
+parent: REQ-7S118P1
+order: a0
 links:
   - type: refines
-    target: SW-2YTBXN
+    target: REQ-7S118P1
     confirmed: 6a2877c3a2ba
 ---
 The menu system shall synchronise relay events in all supported languages.

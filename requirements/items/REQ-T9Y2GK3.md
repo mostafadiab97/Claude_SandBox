@@ -1,5 +1,5 @@
 ---
-id: TC-KTVD07
+id: REQ-T9Y2GK3
 type: test-case
 title: "Verify: Encryption layer stores the operating mode"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - performance
-parent: INFO-Z4TW4B
-order: 720
+former-id: TC-KTVD07
+parent: REQ-K6FGAY0
+order: b09
 links:
   - type: verifies
-    target: SYS-7DMMJ1
+    target: REQ-CMY8A67
     confirmed: 25d533559e9b
 ---
 **Objective:** verify that the encryption layer behaves as specified.

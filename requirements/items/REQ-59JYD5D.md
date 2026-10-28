@@ -1,14 +1,15 @@
 ---
-id: SW-T008C5
+id: REQ-59JYD5D
 type: software-requirement
 title: Cloud backend synchronises the connection state
 status: Approved
 owner: H. Mostafa
-parent: SYS-QEFT7B
-order: 10
+former-id: SW-T008C5
+parent: REQ-VCPXGX6
+order: a0
 links:
   - type: refines
-    target: SYS-QEFT7B
+    target: REQ-VCPXGX6
     confirmed: aafd3f4bb931
 ---
 The OTA server shall report relay events with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: SW-FYQX6D
+id: REQ-RD6T3K2
 type: software-requirement
 title: Backlight reports sensor readings
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - customer-request
   - connectivity
-parent: SYS-S318HE
-order: 30
+former-id: SW-FYQX6D
+parent: REQ-HE392GV
+order: a2
 links:
   - type: refines
-    target: SYS-S318HE
+    target: REQ-HE392GV
     confirmed: a8739639e10d
 ---
 The menu system shall authenticate the set point in all supported languages.

@@ -1,5 +1,5 @@
 ---
-id: HW-KC61AQ
+id: REQ-R8PCEW5
 type: hardware-requirement
 title: Watchdog encrypts error conditions
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - cost
   - safety
   - power
-parent: SYS-F7SWPF
-order: 20
+former-id: HW-KC61AQ
+parent: REQ-7W5PV59
+order: a1
 links:
   - type: refines
-    target: SYS-F7SWPF
+    target: REQ-7W5PV59
     confirmed: 89bbd5dd030b
 ---
 The tamper detection shall display firmware images in under 3 s.

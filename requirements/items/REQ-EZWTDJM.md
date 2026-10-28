@@ -1,14 +1,15 @@
 ---
-id: TC-588E6V
+id: REQ-EZWTDJM
 type: test-case
 title: "Verify: Cloud backend stores safety limits"
 status: Approved
 owner: محمد علي
-parent: INFO-7P4D8D
-order: 1530
+former-id: TC-588E6V
+parent: REQ-8351896
+order: b1S
 links:
   - type: verifies
-    target: SYS-7EMY0G
+    target: REQ-V6R6FNJ
     confirmed: c4f3af124d96
 ---
 **Objective:** verify that the cloud backend behaves as specified.

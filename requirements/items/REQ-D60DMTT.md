@@ -1,5 +1,5 @@
 ---
-id: SW-MZZN7D
+id: REQ-D60DMTT
 type: software-requirement
 title: Boiler interface limits the set point
 status: Review
@@ -9,11 +9,12 @@ tags:
   - security
   - cost
   - performance
-parent: SYS-RE1KVT
-order: 30
+former-id: SW-MZZN7D
+parent: REQ-WXJQC7F
+order: a2
 links:
   - type: refines
-    target: SYS-RE1KVT
+    target: REQ-WXJQC7F
     confirmed: 33051d32765f
 ---
 The regulation loop shall log the operating mode using AES-256-GCM.

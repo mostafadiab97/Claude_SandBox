@@ -1,15 +1,16 @@
 ---
-id: IF-KNJJTN
+id: REQ-C4YZM57
 type: interface-requirement
 title: Battery backup restores user preferences
 status: Approved
 priority: Medium
 owner: M. Farouk
-parent: SYS-1T0TAM
-order: 20
+former-id: IF-KNJJTN
+parent: REQ-Z7WZKTX
+order: a1
 links:
   - type: refines
-    target: SYS-1T0TAM
+    target: REQ-Z7WZKTX
     confirmed: 834d1bdeda5b
 ---
 The battery backup shall log the connection state in under 3 s.

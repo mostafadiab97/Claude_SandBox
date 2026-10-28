@@ -1,15 +1,16 @@
 ---
-id: TC-ZQV1AQ
+id: REQ-Y8DMMW6
 type: test-case
 title: "Regression: OTA server notifys error conditions"
 status: Draft
 priority: Low
 owner: J. Müller
-parent: INFO-ECHASH
-order: 770
+former-id: TC-ZQV1AQ
+parent: REQ-6H15AV2
+order: b0E
 links:
   - type: verifies
-    target: SYS-KC8K49
+    target: REQ-7JRJWMP
     confirmed: d331f9bc5a8a
 ---
 **Objective:** verify that the device behaves as specified.

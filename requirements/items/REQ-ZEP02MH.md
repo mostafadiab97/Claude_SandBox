@@ -1,15 +1,16 @@
 ---
-id: TC-5E8ZAF
+id: REQ-ZEP02MH
 type: test-case
 title: "Regression: Regulation loop detects energy consumption"
 status: Approved
 priority: High
 owner: K. Tanaka
-parent: INFO-ECHASH
-order: 1010
+former-id: TC-5E8ZAF
+parent: REQ-6H15AV2
+order: b0c
 links:
   - type: verifies
-    target: SYS-TXF8EG
+    target: REQ-JB7W2BD
     confirmed: 941441170ff9
 ---
 **Objective:** verify that the device behaves as specified.

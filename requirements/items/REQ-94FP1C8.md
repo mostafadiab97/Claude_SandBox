@@ -1,5 +1,5 @@
 ---
-id: SYS-7N5VV8
+id: REQ-94FP1C8
 type: system-requirement
 title: Secure boot synchronises safety limits
 status: Review
@@ -7,14 +7,15 @@ owner: J. Müller
 tags:
   - power
   - release-1.0
-parent: INFO-0229G8
-order: 1250
+former-id: SYS-7N5VV8
+parent: REQ-H9113WA
+order: b10
 links:
   - type: refines
-    target: STK-SZWQ0A
+    target: REQ-AVJ6PR8
     confirmed: fc1f05b44684
   - type: mitigates
-    target: RSK-VHBQ7T
+    target: REQ-SV88AMT
     confirmed: d6a0082673fd
 ---
 The secure boot shall measure user preferences below 0.5 W in standby.

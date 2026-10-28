@@ -1,15 +1,16 @@
 ---
-id: SW-K69X4K
+id: REQ-BBVNTC4
 type: software-requirement
 title: Login screen encrypts the operating mode
 status: Review
 priority: High
 owner: A. Hassan
-parent: SYS-78N6Z3
-order: 20
+former-id: SW-K69X4K
+parent: REQ-83GTAJV
+order: a1
 links:
   - type: refines
-    target: SYS-78N6Z3
+    target: REQ-83GTAJV
     confirmed: f440dad16a09
 ---
 The mobile app shall display user preferences when the network is unavailable.

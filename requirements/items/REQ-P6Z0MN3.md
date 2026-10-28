@@ -1,15 +1,16 @@
 ---
-id: SW-DMPHAB
+id: REQ-P6Z0MN3
 type: software-requirement
 title: Telemetry pipeline stores the operating mode
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: SYS-AC34S0
-order: 10
+former-id: SW-DMPHAB
+parent: REQ-FJMWQFX
+order: a0
 links:
   - type: refines
-    target: SYS-AC34S0
+    target: REQ-FJMWQFX
     confirmed: 35daf5402be7
 ---
 The telemetry pipeline shall store energy consumption at least once per minute.

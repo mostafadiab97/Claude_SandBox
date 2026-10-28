@@ -1,5 +1,5 @@
 ---
-id: SW-HZGZNC
+id: REQ-6CNRZBF
 type: software-requirement
 title: Notify the connection state — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - accessibility
   - security
-parent: SW-TC6D27
-order: 10
+former-id: SW-HZGZNC
+parent: REQ-PMP6NWR
+order: a0
 links:
   - type: refines
-    target: SW-TC6D27
+    target: REQ-PMP6NWR
     confirmed: e414fb53df16
 ---
 The over-temperature monitor shall store the set point in all supported languages.

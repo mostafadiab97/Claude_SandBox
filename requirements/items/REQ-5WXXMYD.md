@@ -1,15 +1,16 @@
 ---
-id: HW-G4GAS2
+id: REQ-5WXXMYD
 type: hardware-requirement
 title: Zone valve stores audit records
 status: Draft
 priority: High
 owner: H. Mostafa
-parent: SYS-1EZV5G
-order: 30
+former-id: HW-G4GAS2
+parent: REQ-389SR14
+order: a2
 links:
   - type: refines
-    target: SYS-1EZV5G
+    target: REQ-389SR14
     confirmed: 3dec0cd02007
 ---
 The boiler interface shall log schedule entries for up to 8 zones.

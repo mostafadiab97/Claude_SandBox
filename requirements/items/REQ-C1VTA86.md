@@ -1,5 +1,5 @@
 ---
-id: TC-STZQDD
+id: REQ-C1VTA86
 type: test-case
 title: "Verify: Zone valve encrypts humidity values"
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - power
   - release-1.0
-parent: INFO-MS9DAG
-order: 340
+former-id: TC-STZQDD
+parent: REQ-XGWSK2K
+order: aX
 links:
   - type: verifies
-    target: SYS-6QAARD
+    target: REQ-KQ7SN5H
     confirmed: ecd7ff8ad13d
 ---
 **Objective:** verify that the zone valve behaves as specified.

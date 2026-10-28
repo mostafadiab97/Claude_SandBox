@@ -1,15 +1,16 @@
 ---
-id: HW-AVM2NV
+id: REQ-F610SDX
 type: hardware-requirement
 title: Report the connection state — detail
 status: Approved
 priority: Medium
 owner: M. Farouk
-parent: HW-1H9HYA
-order: 10
+former-id: HW-AVM2NV
+parent: REQ-2RVJZRT
+order: a0
 links:
   - type: refines
-    target: HW-1H9HYA
+    target: REQ-2RVJZRT
     confirmed: 696efaeb68c1
 ---
 The power supply shall switch energy consumption after a power loss.

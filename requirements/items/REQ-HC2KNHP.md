@@ -1,5 +1,5 @@
 ---
-id: TC-E8NBH4
+id: REQ-HC2KNHP
 type: test-case
 title: "Verify: Local API detects audit records"
 status: Approved
@@ -7,11 +7,12 @@ owner: É. Laurent
 tags:
   - regulatory
   - customer-request
-parent: INFO-F0M7VC
-order: 1040
+former-id: TC-E8NBH4
+parent: REQ-67RQXCK
+order: b0f
 links:
   - type: verifies
-    target: SYS-7SJZ86
+    target: REQ-A718691
     confirmed: f8555b9595a5
 ---
 **Objective:** verify that the local API behaves as specified.

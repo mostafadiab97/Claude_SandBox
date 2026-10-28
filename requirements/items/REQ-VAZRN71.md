@@ -1,5 +1,5 @@
 ---
-id: TC-RE95ZQ
+id: REQ-VAZRN71
 type: test-case
 title: "Verify: Main PCB calibrates the room temperature"
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: R. Nabil
 tags:
   - connectivity
-parent: INFO-MACGC3
-order: 1570
+former-id: TC-RE95ZQ
+parent: REQ-F9Z1FYS
+order: b1W
 links:
   - type: verifies
-    target: SYS-NYS190
+    target: REQ-2X5QBYE
     confirmed: ed22064137e9
 ---
 **Objective:** verify that the main PCB behaves as specified.

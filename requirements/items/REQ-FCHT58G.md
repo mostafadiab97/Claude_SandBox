@@ -1,5 +1,5 @@
 ---
-id: SW-DN7WQK
+id: REQ-FCHT58G
 type: software-requirement
 title: Login screen logs the set point
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: A. Hassan
 tags:
   - ux
-parent: SYS-FHAECY
-order: 10
+former-id: SW-DN7WQK
+parent: REQ-XBE1312
+order: a0
 links:
   - type: refines
-    target: SYS-FHAECY
+    target: REQ-XBE1312
     confirmed: 1293558404d1
 ---
 The schedule editor shall authenticate the connection state within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: SW-0KDT80
+id: REQ-QVWFB6F
 type: software-requirement
 title: Bluetooth LE link reports energy consumption
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - ux
   - i18n
-parent: SYS-TGB5BV
-order: 20
+former-id: SW-0KDT80
+parent: REQ-FD54NF7
+order: a1
 links:
   - type: refines
-    target: SYS-TGB5BV
+    target: REQ-FD54NF7
     confirmed: efddaa3f87b9
 ---
 The Bluetooth LE link shall restore firmware images within 200 ms.

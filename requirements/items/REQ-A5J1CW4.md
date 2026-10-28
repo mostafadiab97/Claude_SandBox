@@ -1,5 +1,5 @@
 ---
-id: SW-RJ5RVN
+id: REQ-A5J1CW4
 type: software-requirement
 title: Encrypt the operating mode — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - ux
   - release-1.0
-parent: SW-0S985C
-order: 10
+former-id: SW-RJ5RVN
+parent: REQ-KFZ8SY2
+order: a0
 links:
   - type: refines
-    target: SW-0S985C
+    target: REQ-KFZ8SY2
     confirmed: 9e01085ff5ca
 ---
 The local API shall display the operating mode in all supported languages.

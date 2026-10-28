@@ -1,5 +1,5 @@
 ---
-id: TC-6NQGCS
+id: REQ-ANKVSTN
 type: test-case
 title: "Verify: User account service limits relay events"
 status: Obsolete
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - security
   - power
-parent: INFO-7P4D8D
-order: 940
+former-id: TC-6NQGCS
+parent: REQ-8351896
+order: b0V
 links:
   - type: verifies
-    target: SYS-8PSQE0
+    target: REQ-R3E4SRS
     confirmed: 6c3a3bfcff30
 ---
 **Objective:** verify that the user account service behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: HW-SVWEDJ
+id: REQ-7QJKZGB
 type: hardware-requirement
 title: Login screen synchronises the room temperature
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - accessibility
   - release-1.0
-parent: SYS-7Y9J5P
-order: 10
+former-id: HW-SVWEDJ
+parent: REQ-7R92S2B
+order: a0
 links:
   - type: refines
-    target: SYS-7Y9J5P
+    target: REQ-7R92S2B
     confirmed: 8394341da33d
 ---
 The mobile app shall calibrate the operating mode below 0.5 W in standby.

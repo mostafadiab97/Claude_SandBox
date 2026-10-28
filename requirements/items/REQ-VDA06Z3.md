@@ -1,5 +1,5 @@
 ---
-id: IF-T69CZ7
+id: REQ-VDA06Z3
 type: interface-requirement
 title: Heating controller validates safety limits
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - performance
   - release-1.0
   - accessibility
-parent: SYS-Z1R41Y
-order: 10
+former-id: IF-T69CZ7
+parent: REQ-S05KBK7
+order: a0
 links:
   - type: refines
-    target: SYS-Z1R41Y
+    target: REQ-S05KBK7
     confirmed: a9d6063a6808
 ---
 The zone valve shall report schedule entries when the network is unavailable.

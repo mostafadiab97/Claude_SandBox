@@ -1,5 +1,5 @@
 ---
-id: SW-0712Y5
+id: REQ-72EB38R
 type: software-requirement
 title: Notify access tokens — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - power
   - ux
-parent: SW-AGQFVW
-order: 10
+former-id: SW-0712Y5
+parent: REQ-D6S7NJG
+order: a0
 links:
   - type: refines
-    target: SW-AGQFVW
+    target: REQ-D6S7NJG
     confirmed: 2c6e50af3d81
 ---
 The watchdog shall display schedule entries below 0.5 W in standby.

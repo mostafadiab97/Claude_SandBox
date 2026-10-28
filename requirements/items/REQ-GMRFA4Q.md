@@ -1,15 +1,16 @@
 ---
-id: SYS-WZPXT3
+id: REQ-GMRFA4Q
 type: system-requirement
 title: Schedule editor calibrates audit records
 status: Review
 priority: Medium
 owner: É. Laurent
-parent: INFO-2XXBRS
-order: 1400
+former-id: SYS-WZPXT3
+parent: REQ-QYXGSQ4
+order: b1F
 links:
   - type: refines
-    target: STK-HBX3YS
+    target: REQ-S86K9Q8
     confirmed: b42a2f94d25d
 ---
 The schedule editor shall detect the connection state at least once per minute.

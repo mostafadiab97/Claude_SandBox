@@ -1,5 +1,5 @@
 ---
-id: SW-691P3P
+id: REQ-V03REST
 type: software-requirement
 title: Over-temperature monitor logs schedule entries
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: L. Samir
 tags:
   - ux
-parent: SYS-H16WP1
-order: 30
+former-id: SW-691P3P
+parent: REQ-HAAKDG0
+order: a2
 links:
   - type: refines
-    target: SYS-H16WP1
+    target: REQ-HAAKDG0
     confirmed: ba4b259a4075
 ---
 The watchdog shall switch the connection state with an accuracy of ±0.5 °C.

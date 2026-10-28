@@ -1,5 +1,5 @@
 ---
-id: TC-SNSQGX
+id: REQ-N3RVJ0K
 type: test-case
 title: "Verify: Touch display switchs access tokens"
 status: Obsolete
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - customer-request
   - connectivity
-parent: INFO-HTSZ15
-order: 1060
+former-id: TC-SNSQGX
+parent: REQ-Y9VHHKA
+order: b0h
 links:
   - type: verifies
-    target: SYS-4A9C1C
+    target: REQ-EQ0RF35
     confirmed: 7e8a730cf0b5
 ---
 **Objective:** verify that the touch display behaves as specified.

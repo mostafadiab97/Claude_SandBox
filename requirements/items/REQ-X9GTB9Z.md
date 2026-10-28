@@ -1,5 +1,5 @@
 ---
-id: IF-5SPFDE
+id: REQ-X9GTB9Z
 type: interface-requirement
 title: User account service logs user preferences
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - customer-request
   - power
-parent: SYS-P4DXM6
-order: 40
+former-id: IF-5SPFDE
+parent: REQ-CM5Q1FW
+order: a3
 links:
   - type: refines
-    target: SYS-P4DXM6
+    target: REQ-CM5Q1FW
     confirmed: 45befcee12fc
 ---
 The OTA server shall calibrate humidity values after a power loss.

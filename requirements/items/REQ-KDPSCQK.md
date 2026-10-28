@@ -1,5 +1,5 @@
 ---
-id: SYS-25VHBZ
+id: REQ-KDPSCQK
 type: system-requirement
 title: Telemetry pipeline validates sensor readings
 status: Review
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - connectivity
   - safety
-parent: INFO-YV5EZD
-order: 1640
+former-id: SYS-25VHBZ
+parent: REQ-RE9ZKHF
+order: b1d
 links:
   - type: refines
-    target: STK-JFBQPS
+    target: REQ-A8X8PTB
     confirmed: 5027ee1822eb
 ---
 The telemetry pipeline shall authenticate the operating mode below 0.5 W in standby.

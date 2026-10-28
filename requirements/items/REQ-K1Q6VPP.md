@@ -1,5 +1,5 @@
 ---
-id: IF-Y9CSQ6
+id: REQ-K1Q6VPP
 type: interface-requirement
 title: Login screen notifys audit records
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - safety
   - release-1.0
   - accessibility
-parent: SYS-PDF1CD
-order: 20
+former-id: IF-Y9CSQ6
+parent: REQ-C5MK5TB
+order: a1
 links:
   - type: refines
-    target: SYS-PDF1CD
+    target: REQ-C5MK5TB
     confirmed: ba0d0f689c55
 ---
 The home dashboard shall limit the set point using AES-256-GCM.

@@ -1,16 +1,17 @@
 ---
-id: TC-A1BB7R
+id: REQ-WSS3H1N
 type: test-case
 title: "Verify: Main PCB switchs humidity values"
 status: Approved
 owner: محمد علي
 tags:
   - power
-parent: INFO-MACGC3
-order: 120
+former-id: TC-A1BB7R
+parent: REQ-F9Z1FYS
+order: aB
 links:
   - type: verifies
-    target: SYS-2094E7
+    target: REQ-1VNKX7H
     confirmed: a4e7c0d76393
 ---
 **Objective:** verify that the main PCB behaves as specified.

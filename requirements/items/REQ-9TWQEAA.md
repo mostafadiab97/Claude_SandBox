@@ -1,5 +1,5 @@
 ---
-id: TC-SQRWQD
+id: REQ-9TWQEAA
 type: test-case
 title: "Verify: User account service measures firmware images"
 status: Draft
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - connectivity
   - release-2.0
-parent: INFO-7P4D8D
-order: 260
+former-id: TC-SQRWQD
+parent: REQ-8351896
+order: aP
 links:
   - type: verifies
-    target: SYS-26ZAHT
+    target: REQ-7CV0RRH
     confirmed: 2fc7492bf655
 ---
 **Objective:** verify that the user account service behaves as specified.

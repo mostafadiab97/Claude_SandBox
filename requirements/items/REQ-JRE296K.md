@@ -1,18 +1,19 @@
 ---
-id: TC-0CDZYV
+id: REQ-JRE296K
 type: test-case
 title: "Verify: Zigbee radio measures safety limits"
 status: Draft
 priority: Low
 owner: A. Hassan
-parent: INFO-F0M7VC
-order: 1470
+former-id: TC-0CDZYV
+parent: REQ-67RQXCK
+order: b1M
 links:
   - type: verifies
-    target: SYS-28RZAE
+    target: REQ-9CN4QTA
     confirmed: 758de3e92df3
   - type: verifies
-    target: SW-V5P1XD
+    target: REQ-57X7EQ2
     confirmed: 8de9f47c9125
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

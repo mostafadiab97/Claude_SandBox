@@ -1,15 +1,16 @@
 ---
-id: IF-4BWAER
+id: REQ-A9RDZ0Y
 type: interface-requirement
 title: Boiler interface restores the operating mode
 status: Approved
 priority: Medium
 owner: M. Farouk
-parent: SYS-JMK64W
-order: 10
+former-id: IF-4BWAER
+parent: REQ-EPAG0J5
+order: a0
 links:
   - type: refines
-    target: SYS-JMK64W
+    target: REQ-EPAG0J5
     confirmed: 8c27f3c89bec
 ---
 The heating controller shall validate user preferences within 200 ms.

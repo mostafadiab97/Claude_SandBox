@@ -1,5 +1,5 @@
 ---
-id: TC-8WDBR2
+id: REQ-S0YWERZ
 type: test-case
 title: "Verify: Touch display validates schedule entries"
 status: Approved
@@ -8,14 +8,15 @@ owner: محمد علي
 tags:
   - ux
   - regulatory
-parent: INFO-HTSZ15
-order: 1470
+former-id: TC-8WDBR2
+parent: REQ-Y9VHHKA
+order: b1M
 links:
   - type: verifies
-    target: SYS-ECD1HY
+    target: REQ-5TTMZGQ
     confirmed: 7483f5483c58
   - type: verifies
-    target: SW-BYVAYF
+    target: REQ-MQK9CB8
     confirmed: 74dc91e27dbd
 ---
 **Objective:** verify that the touch display behaves as specified.

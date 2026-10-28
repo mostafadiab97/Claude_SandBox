@@ -1,5 +1,5 @@
 ---
-id: IF-XWHNP7
+id: REQ-W5S36BV
 type: interface-requirement
 title: Relay board logs error conditions
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - customer-request
   - i18n
-parent: SYS-SA1DH7
-order: 20
+former-id: IF-XWHNP7
+parent: REQ-H28Q7YZ
+order: a1
 links:
   - type: refines
-    target: SYS-SA1DH7
+    target: REQ-H28Q7YZ
     confirmed: 339efbb2167c
 ---
 The battery backup shall display access tokens without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: HW-AX36S5
+id: REQ-9ABB3YF
 type: hardware-requirement
 title: Touch display synchronises audit records
 status: Review
@@ -9,11 +9,12 @@ tags:
   - cost
   - customer-request
   - security
-parent: SYS-S17F3W
-order: 40
+former-id: HW-AX36S5
+parent: REQ-B5QM2ZG
+order: a3
 links:
   - type: refines
-    target: SYS-S17F3W
+    target: REQ-B5QM2ZG
     confirmed: 02e3c6ed2cec
 ---
 The menu system shall display the set point in under 3 s.

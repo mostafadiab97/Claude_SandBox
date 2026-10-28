@@ -1,5 +1,5 @@
 ---
-id: TC-ZDQHRP
+id: REQ-8J5XNM7
 type: test-case
 title: "Verify: Battery backup measures the connection state"
 status: Draft
@@ -7,14 +7,15 @@ priority: Low
 owner: H. Mostafa
 tags:
   - EMC
-parent: INFO-MACGC3
-order: 1680
+former-id: TC-ZDQHRP
+parent: REQ-F9Z1FYS
+order: b1h
 links:
   - type: verifies
-    target: SYS-QS9FSV
+    target: REQ-MDST6CM
     confirmed: 545a69781e80
   - type: verifies
-    target: SW-EPA3J6
+    target: REQ-JFZCMPM
     confirmed: 2dee49b460da
 ---
 **Objective:** verify that the battery backup behaves as specified.

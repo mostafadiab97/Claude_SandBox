@@ -1,14 +1,15 @@
 ---
-id: TC-QNR55E
+id: REQ-EG5RGN3
 type: test-case
 title: "Regression: Pairing process encrypts energy consumption"
 status: Approved
 owner: K. Tanaka
-parent: INFO-ECHASH
-order: 1100
+former-id: TC-QNR55E
+parent: REQ-6H15AV2
+order: b0l
 links:
   - type: verifies
-    target: SYS-66NFPS
+    target: REQ-WMCTY4C
     confirmed: c345a9cbc34b
 ---
 **Objective:** verify that the device behaves as specified.

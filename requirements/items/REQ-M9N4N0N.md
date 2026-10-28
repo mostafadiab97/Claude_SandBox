@@ -1,5 +1,5 @@
 ---
-id: SW-FN75KP
+id: REQ-M9N4N0N
 type: software-requirement
 title: Touch display displays access tokens
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - EMC
   - regulatory
-parent: SYS-V1S2ND
-order: 20
+former-id: SW-FN75KP
+parent: REQ-727CVG0
+order: a1
 links:
   - type: refines
-    target: SYS-V1S2ND
+    target: REQ-727CVG0
     confirmed: 4aae50eaee58
 ---
 The menu system shall switch user preferences at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: TC-W1Y3EN
+id: REQ-ZKWN30X
 type: test-case
 title: "Verify: Relay board stores the set point"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - accessibility
-parent: INFO-MACGC3
-order: 210
+former-id: TC-W1Y3EN
+parent: REQ-F9Z1FYS
+order: aK
 links:
   - type: verifies
-    target: SYS-RGXH2B
+    target: REQ-1XFPJSJ
     confirmed: a7182b2229b0
 ---
 **Objective:** verify that the relay board behaves as specified.

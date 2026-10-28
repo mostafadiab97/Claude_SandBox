@@ -1,5 +1,5 @@
 ---
-id: IF-3717C1
+id: REQ-R9P3QF4
 type: interface-requirement
 title: "Signal 459: schedule entries"
 status: Draft
@@ -8,7 +8,8 @@ owner: L. Samir
 tags:
   - safety
   - ux
-parent: INFO-2TM0JP
-order: 4590
+former-id: IF-3717C1
+parent: REQ-RJ0KHPT
+order: b6O
 ---
 Interface signal number 459.

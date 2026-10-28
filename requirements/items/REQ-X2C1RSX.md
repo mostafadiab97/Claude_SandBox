@@ -1,5 +1,5 @@
 ---
-id: IF-8RCVXY
+id: REQ-X2C1RSX
 type: interface-requirement
 title: Encryption layer stores safety limits
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - power
   - EMC
-parent: SYS-N7H58H
-order: 40
+former-id: IF-8RCVXY
+parent: REQ-9T92A3R
+order: a3
 links:
   - type: refines
-    target: SYS-N7H58H
+    target: REQ-9T92A3R
     confirmed: a8a06726344d
 ---
 The watchdog shall log user preferences below 0.5 W in standby.

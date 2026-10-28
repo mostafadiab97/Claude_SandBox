@@ -1,14 +1,15 @@
 ---
-id: TC-ADMPWY
+id: REQ-W27B3MB
 type: test-case
 title: "Verify: Telemetry pipeline reports user preferences"
 status: Approved
 owner: L. Samir
-parent: INFO-7P4D8D
-order: 770
+former-id: TC-ADMPWY
+parent: REQ-8351896
+order: b0E
 links:
   - type: verifies
-    target: SYS-MASKXR
+    target: REQ-WSY0MZM
     confirmed: c14e888575b5
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

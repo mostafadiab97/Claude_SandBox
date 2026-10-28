@@ -1,15 +1,16 @@
 ---
-id: TC-0277BP
+id: REQ-BRR8EEC
 type: test-case
 title: "Verify: Secure boot switchs the set point"
 status: Approved
 priority: Medium
 owner: M. Farouk
-parent: INFO-Z4TW4B
-order: 340
+former-id: TC-0277BP
+parent: REQ-K6FGAY0
+order: aX
 links:
   - type: verifies
-    target: SYS-9FTG47
+    target: REQ-G4RKHEY
     confirmed: 6b7150a5bc62
 ---
 **Objective:** verify that the secure boot behaves as specified.

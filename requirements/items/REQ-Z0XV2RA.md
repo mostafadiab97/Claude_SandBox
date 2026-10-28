@@ -1,5 +1,5 @@
 ---
-id: HW-NBBJ5Z
+id: REQ-Z0XV2RA
 type: hardware-requirement
 title: Notify the set point — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - i18n
   - release-1.0
   - security
-parent: HW-YEQRJF
-order: 10
+former-id: HW-NBBJ5Z
+parent: REQ-NAPPB2K
+order: a0
 links:
   - type: refines
-    target: HW-YEQRJF
+    target: REQ-NAPPB2K
     confirmed: ec60f0694182
 ---
 The battery backup shall restore the connection state in all supported languages.

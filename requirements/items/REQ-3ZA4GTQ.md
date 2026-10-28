@@ -1,19 +1,20 @@
 ---
-id: TC-3W4SAZ
+id: REQ-3ZA4GTQ
 type: test-case
 title: "Verify: Home dashboard displays the room temperature"
 status: Approved
 priority: Medium
 tags:
   - EMC
-parent: INFO-J0FETE
-order: 1140
+former-id: TC-3W4SAZ
+parent: REQ-WR5ZJN9
+order: b0p
 links:
   - type: verifies
-    target: SYS-55BB0W
+    target: REQ-RZK6F0K
     confirmed: 769ed2cb940e
   - type: verifies
-    target: SW-4P595V
+    target: REQ-MF9JYG0
     confirmed: a1c29b0d37be
 ---
 **Objective:** verify that the home dashboard behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: TC-ZEQY7N
+id: REQ-K8G7HER
 type: test-case
 title: "Verify: Enclosure limits sensor readings"
 status: Approved
 priority: Medium
 owner: H. Mostafa
-parent: INFO-MACGC3
-order: 1370
+former-id: TC-ZEQY7N
+parent: REQ-F9Z1FYS
+order: b1C
 links:
   - type: verifies
-    target: SYS-48BXDV
+    target: REQ-JQBQHV4
     confirmed: b17b907e6406
 ---
 **Objective:** verify that the enclosure behaves as specified.

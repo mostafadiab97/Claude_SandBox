@@ -1,10 +1,11 @@
 ---
-id: IF-HMNT05
+id: REQ-DF5GJ28
 type: interface-requirement
 title: "Signal 456: sensor readings"
 status: Approved
 owner: M. Farouk
-parent: INFO-2TM0JP
-order: 4560
+former-id: IF-HMNT05
+parent: REQ-RJ0KHPT
+order: b6L
 ---
 Interface signal number 456.

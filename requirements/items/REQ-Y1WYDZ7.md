@@ -1,5 +1,5 @@
 ---
-id: SW-S99H5C
+id: REQ-Y1WYDZ7
 type: software-requirement
 title: Boiler interface detects safety limits
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: R. Nabil
 tags:
   - cost
-parent: SYS-XP4ZAH
-order: 40
+former-id: SW-S99H5C
+parent: REQ-FB5KG2Y
+order: a3
 links:
   - type: refines
-    target: SYS-XP4ZAH
+    target: REQ-FB5KG2Y
     confirmed: b8b57a2c487b
 ---
 The regulation loop shall limit access tokens below 0.5 W in standby.

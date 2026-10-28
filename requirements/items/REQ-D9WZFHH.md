@@ -1,5 +1,5 @@
 ---
-id: SW-7ZZBED
+id: REQ-D9WZFHH
 type: software-requirement
 title: Local API detects firmware images
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - security
   - performance
-parent: SYS-SVYNWV
-order: 10
+former-id: SW-7ZZBED
+parent: REQ-GEJ5HK8
+order: a0
 links:
   - type: refines
-    target: SYS-SVYNWV
+    target: REQ-GEJ5HK8
     confirmed: a570d6044bb1
 ---
 The local API shall report user preferences when the network is unavailable.

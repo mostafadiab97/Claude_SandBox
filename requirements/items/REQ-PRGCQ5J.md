@@ -1,5 +1,5 @@
 ---
-id: HW-Z0TY6N
+id: REQ-PRGCQ5J
 type: hardware-requirement
 title: Relay board encrypts audit records
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - power
   - connectivity
-parent: SYS-GRPZ1J
-order: 40
+former-id: HW-Z0TY6N
+parent: REQ-4VDYVAN
+order: a3
 links:
   - type: refines
-    target: SYS-GRPZ1J
+    target: REQ-4VDYVAN
     confirmed: 5728c75e8b12
 ---
 The battery backup shall switch the connection state below 0.5 W in standby.

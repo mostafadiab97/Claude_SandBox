@@ -1,5 +1,5 @@
 ---
-id: HW-RY8YA8
+id: REQ-9E29H7B
 type: hardware-requirement
 title: Report the connection state — detail
 status: Review
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - regulatory
   - i18n
-parent: HW-JZP18Z
-order: 10
+former-id: HW-RY8YA8
+parent: REQ-2XJ0ZZG
+order: a0
 links:
   - type: refines
-    target: HW-JZP18Z
+    target: REQ-2XJ0ZZG
     confirmed: 710365fba391
 ---
 The local API shall calibrate schedule entries for at least 10 years.

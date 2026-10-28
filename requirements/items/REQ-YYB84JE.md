@@ -1,13 +1,14 @@
 ---
-id: SYS-A8QJ0D
+id: REQ-YYB84JE
 type: system-requirement
 title: Touch display stores the connection state
 status: Draft
-parent: INFO-PDR6FV
-order: 590
+former-id: SYS-A8QJ0D
+parent: REQ-2ZA2TRZ
+order: aw
 links:
   - type: refines
-    target: STK-BV5YMS
+    target: REQ-XR7FDXB
     confirmed: 07434b0b5615
 ---
 The touch display shall measure relay events at least once per minute.

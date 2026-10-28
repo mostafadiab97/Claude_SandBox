@@ -1,5 +1,5 @@
 ---
-id: IF-EWXWPE
+id: REQ-PQXC8VA
 type: interface-requirement
 title: "Signal 365: sensor readings"
 status: Draft
@@ -8,7 +8,8 @@ owner: É. Laurent
 tags:
   - power
   - performance
-parent: INFO-2TM0JP
-order: 3650
+former-id: IF-EWXWPE
+parent: REQ-RJ0KHPT
+order: b4s
 ---
 Interface signal number 365.

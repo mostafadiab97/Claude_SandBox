@@ -1,5 +1,5 @@
 ---
-id: SYS-BBX6H4
+id: REQ-FN2JXAS
 type: system-requirement
 title: Encryption layer switchs the room temperature
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - i18n
   - security
   - ux
-parent: INFO-0229G8
-order: 1140
+former-id: SYS-BBX6H4
+parent: REQ-H9113WA
+order: b0p
 links:
   - type: refines
-    target: STK-92HHJV
+    target: REQ-Z7761RK
     confirmed: 260bd01800c6
 ---
 The encryption layer shall measure the room temperature in all supported languages.

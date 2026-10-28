@@ -1,15 +1,16 @@
 ---
-id: TC-XDRWXW
+id: REQ-TNTHCCC
 type: test-case
 title: "Regression: Power supply displays safety limits"
 status: Draft
 priority: High
 owner: H. Mostafa
-parent: INFO-ECHASH
-order: 1610
+former-id: TC-XDRWXW
+parent: REQ-6H15AV2
+order: b1a
 links:
   - type: verifies
-    target: SYS-9J0YHF
+    target: REQ-7VK5DXB
     confirmed: 3602ee9aa103
 ---
 **Objective:** verify that the device behaves as specified.

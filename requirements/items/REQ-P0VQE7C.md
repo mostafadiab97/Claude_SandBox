@@ -1,5 +1,5 @@
 ---
-id: TC-7EQZ9D
+id: REQ-P0VQE7C
 type: test-case
 title: "Verify: Battery backup limits the connection state"
 status: Draft
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - performance
   - safety
-parent: INFO-MACGC3
-order: 1510
+former-id: TC-7EQZ9D
+parent: REQ-F9Z1FYS
+order: b1Q
 links:
   - type: verifies
-    target: SYS-N863QF
+    target: REQ-SNPKEPT
     confirmed: ec0271419f81
 ---
 **Objective:** verify that the battery backup behaves as specified.

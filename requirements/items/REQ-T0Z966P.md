@@ -1,5 +1,5 @@
 ---
-id: SW-5NQBDY
+id: REQ-T0Z966P
 type: software-requirement
 title: Detect humidity values — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - safety
   - regulatory
-parent: SW-HJ5ZZW
-order: 10
+former-id: SW-5NQBDY
+parent: REQ-43HFSMD
+order: a0
 links:
   - type: refines
-    target: SW-HJ5ZZW
+    target: REQ-43HFSMD
     confirmed: 8e0d5aa97221
 ---
 The user account service shall switch firmware images when the network is unavailable.

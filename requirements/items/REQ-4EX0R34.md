@@ -1,18 +1,19 @@
 ---
-id: TC-RJ544G
+id: REQ-4EX0R34
 type: test-case
 title: "Verify: Device registry detects humidity values"
 status: Review
 priority: Medium
 owner: Y. Saber
-parent: INFO-7P4D8D
-order: 920
+former-id: TC-RJ544G
+parent: REQ-8351896
+order: b0T
 links:
   - type: verifies
-    target: SYS-AP48M6
+    target: REQ-RW13WJP
     confirmed: 5bc25d897362
   - type: verifies
-    target: SW-D7YQPY
+    target: REQ-5GREN6Z
     confirmed: 9ffbd35fed34
 ---
 **Objective:** verify that the device registry behaves as specified.

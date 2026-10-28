@@ -1,5 +1,5 @@
 ---
-id: TC-DPYGBP
+id: REQ-49BTRM5
 type: test-case
 title: "Verify: Mobile app calibrates schedule entries"
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - security
   - release-2.0
-parent: INFO-J0FETE
-order: 60
+former-id: TC-DPYGBP
+parent: REQ-WR5ZJN9
+order: a5
 links:
   - type: verifies
-    target: SYS-5SCN5H
+    target: REQ-J2C719K
     confirmed: 94875c7db4c5
 ---
 **Objective:** verify that the mobile app behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SYS-GECB0Q
+id: REQ-FJ1M55T
 type: system-requirement
 title: Heat pump driver synchronises user preferences
 status: Review
@@ -8,14 +8,15 @@ tags:
   - power
   - regulatory
   - customer-request
-parent: INFO-6DQTKV
-order: 530
+former-id: SYS-GECB0Q
+parent: REQ-7ED7ZET
+order: aq
 links:
   - type: refines
-    target: STK-EWSQ9Z
+    target: REQ-GXKEHF3
     confirmed: aa5e4143dbe7
   - type: mitigates
-    target: RSK-G8ARKV
+    target: REQ-N90PXTW
     confirmed: dd1f8627cbb6
 ---
 The heat pump driver shall log humidity values in all supported languages.

@@ -1,5 +1,5 @@
 ---
-id: TC-WJT2Q1
+id: REQ-Q1D2RXM
 type: test-case
 title: "Regression: User account service synchronises audit records"
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - performance
   - regulatory
-parent: INFO-ECHASH
-order: 1720
+former-id: TC-WJT2Q1
+parent: REQ-6H15AV2
+order: b1l
 links:
   - type: verifies
-    target: SYS-FJTSEK
+    target: REQ-SBES3DX
     confirmed: 0ff5a626958c
 ---
 **Objective:** verify that the device behaves as specified.

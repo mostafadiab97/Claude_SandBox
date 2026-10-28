@@ -1,5 +1,5 @@
 ---
-id: TC-ED6Q57
+id: REQ-C0CQFQF
 type: test-case
 title: "Verify: Power supply limits the set point"
 status: Review
@@ -8,11 +8,12 @@ tags:
   - power
   - release-1.0
   - ux
-parent: INFO-MACGC3
-order: 520
+former-id: TC-ED6Q57
+parent: REQ-F9Z1FYS
+order: ap
 links:
   - type: verifies
-    target: SYS-6VF733
+    target: REQ-DTSX73S
     confirmed: 2270cc937a19
 ---
 **Objective:** verify that the power supply behaves as specified.

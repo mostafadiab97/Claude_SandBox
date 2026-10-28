@@ -1,5 +1,5 @@
 ---
-id: SYS-JGTNYP
+id: REQ-818JFA8
 type: system-requirement
 title: Encryption layer synchronises relay events
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - security
   - connectivity
   - power
-parent: INFO-0229G8
-order: 280
+former-id: SYS-JGTNYP
+parent: REQ-H9113WA
+order: aR
 links:
   - type: refines
-    target: STK-7X7S81
+    target: REQ-N96QXC6
     confirmed: 0b0c08c75491
 ---
 The encryption layer shall restore safety limits for up to 8 zones.

@@ -1,5 +1,5 @@
 ---
-id: DE-6MM916
+id: REQ-DPMPVTT
 type: design-element
 title: Module watchdog_76
 status: Obsolete
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - safety
   - release-2.0
-parent: SW-89V5R3
-order: 10
+former-id: DE-6MM916
+parent: REQ-R8JCRQ1
+order: a0
 links:
   - type: implements
-    target: SW-89V5R3
+    target: REQ-R8JCRQ1
     confirmed: f543f669ffdb
 ---
 Implemented in `src/safe/watchdog.c`.

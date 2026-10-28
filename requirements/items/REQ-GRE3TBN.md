@@ -1,5 +1,5 @@
 ---
-id: RSK-F4STQD
+id: REQ-GRE3TBN
 type: risk
 title: "Risk: boiler interface fails to store safety limits"
 status: Review
@@ -8,8 +8,9 @@ owner: É. Laurent
 tags:
   - release-1.0
   - i18n
-parent: INFO-YNFB8N
-order: 60
+former-id: RSK-F4STQD
+parent: REQ-M63G69B
+order: a5
 ---
 **Hazard:** the boiler interface could fail to calibrate relay events.
 

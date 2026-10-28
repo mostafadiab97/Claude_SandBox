@@ -1,5 +1,5 @@
 ---
-id: SYS-2YWXQS
+id: REQ-TV7539N
 type: system-requirement
 title: "PROBLEM: link to an item that does not exist"
 status: Approved
@@ -8,8 +8,9 @@ owner: J. Müller
 tags:
   - release-2.0
   - accessibility
-parent: INFO-XBG5VC
-order: 10
+former-id: SYS-2YWXQS
+parent: REQ-009BN78
+order: a0
 links:
   - type: verifies
     target: SYS-ZZZZZZ

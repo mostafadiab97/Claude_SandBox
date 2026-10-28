@@ -1,5 +1,5 @@
 ---
-id: TC-54B1Z4
+id: REQ-RNV2K1Q
 type: test-case
 title: "Verify: Backlight reports humidity values"
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: J. Müller
 tags:
   - power
-parent: INFO-HTSZ15
-order: 1140
+former-id: TC-54B1Z4
+parent: REQ-Y9VHHKA
+order: b0p
 links:
   - type: verifies
-    target: SYS-1YMXAH
+    target: REQ-JQ3RHFQ
     confirmed: 4e76eb2ccede
 ---
 **Objective:** verify that the backlight behaves as specified.

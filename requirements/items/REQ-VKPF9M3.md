@@ -1,15 +1,16 @@
 ---
-id: DE-62KH2Z
+id: REQ-VKPF9M3
 type: design-element
 title: Module Bluetooth_LE_link_79
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: SW-PAYV6C
-order: 10
+former-id: DE-62KH2Z
+parent: REQ-EVMZQBP
+order: a0
 links:
   - type: implements
-    target: SW-PAYV6C
+    target: REQ-EVMZQBP
     confirmed: c5290420bdb3
 ---
 Implemented in `src/conn/Bluetooth_LE_link.c`.

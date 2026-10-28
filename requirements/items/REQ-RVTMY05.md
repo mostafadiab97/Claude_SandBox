@@ -1,15 +1,16 @@
 ---
-id: DE-DGNJCK
+id: REQ-RVTMY05
 type: design-element
 title: Module user_account_service_39
 status: Draft
 priority: High
 owner: J. Müller
-parent: SW-C4ZDGR
-order: 10
+former-id: DE-DGNJCK
+parent: REQ-SY8XD8N
+order: a0
 links:
   - type: implements
-    target: SW-C4ZDGR
+    target: REQ-SY8XD8N
     confirmed: 42283825a379
 ---
 Implemented in `src/cloud/user_account_service.c`.

@@ -1,15 +1,16 @@
 ---
-id: SYS-KCYXE8
+id: REQ-MH5K517
 type: system-requirement
 title: Bluetooth LE link authenticates the operating mode
 status: Approved
 priority: High
 owner: J. Müller
-parent: INFO-NRVHA2
-order: 1990
+former-id: SYS-KCYXE8
+parent: REQ-6R94HFM
+order: b2C
 links:
   - type: refines
-    target: STK-G2ZBHW
+    target: REQ-GXR8KE5
     confirmed: fee0d3303478
 ---
 The Bluetooth LE link shall store the room temperature using AES-256-GCM.

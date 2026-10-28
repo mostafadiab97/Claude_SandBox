@@ -1,5 +1,5 @@
 ---
-id: SYS-JMK64W
+id: REQ-EPAG0J5
 type: system-requirement
 title: Heating controller notifys the operating mode
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: M. Farouk
 tags:
   - regulatory
-parent: INFO-6DQTKV
-order: 990
+former-id: SYS-JMK64W
+parent: REQ-7ED7ZET
+order: b0a
 links:
   - type: refines
-    target: STK-9YF5RE
+    target: REQ-FGZGBY5
     confirmed: 43643c03020f
 ---
 The heating controller shall measure schedule entries in under 3 s.

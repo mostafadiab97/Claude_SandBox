@@ -1,15 +1,16 @@
 ---
-id: IF-MDW7RQ
+id: REQ-DM74ER2
 type: interface-requirement
 title: Boiler interface measures relay events
 status: Draft
 priority: High
 owner: M. Farouk
-parent: SYS-37CSVM
-order: 10
+former-id: IF-MDW7RQ
+parent: REQ-MHYQ0SN
+order: a0
 links:
   - type: refines
-    target: SYS-37CSVM
+    target: REQ-MHYQ0SN
     confirmed: c35d42070911
 ---
 The zone valve shall detect error conditions in under 3 s.

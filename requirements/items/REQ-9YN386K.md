@@ -1,5 +1,5 @@
 ---
-id: SYS-6A5W87
+id: REQ-9YN386K
 type: system-requirement
 title: Telemetry pipeline restores energy consumption
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - release-1.0
   - cost
   - safety
-parent: INFO-YV5EZD
-order: 440
+former-id: SYS-6A5W87
+parent: REQ-RE9ZKHF
+order: ah
 links:
   - type: refines
-    target: STK-QN5QGR
+    target: REQ-BY89KNK
     confirmed: ae0f58e089a1
 ---
 The telemetry pipeline shall measure energy consumption at least once per minute.

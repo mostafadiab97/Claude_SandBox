@@ -1,5 +1,5 @@
 ---
-id: TC-8BSNGW
+id: REQ-KP89PV5
 type: test-case
 title: Hub verification 27
 status: Draft
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - connectivity
   - EMC
-parent: INFO-ECHASH
-order: 360
+former-id: TC-8BSNGW
+parent: REQ-6H15AV2
+order: aZ
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

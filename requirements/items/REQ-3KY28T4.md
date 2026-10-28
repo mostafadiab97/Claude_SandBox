@@ -1,17 +1,18 @@
 ---
-id: SYS-1JDYJJ
+id: REQ-3KY28T4
 type: system-requirement
 title: Relay board detects the room temperature
 status: Review
 priority: Low
-parent: INFO-A6P9A8
-order: 400
+former-id: SYS-1JDYJJ
+parent: REQ-CMCS31A
+order: ad
 links:
   - type: refines
-    target: STK-7F9256
+    target: REQ-GXZBB32
     confirmed: 5588db2eb80a
   - type: mitigates
-    target: RSK-4NE1NJ
+    target: REQ-MZ5YCZY
     confirmed: 56f6781ca0d3
 ---
 The relay board shall notify safety limits when the network is unavailable.

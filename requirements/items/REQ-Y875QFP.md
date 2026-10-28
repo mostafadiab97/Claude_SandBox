@@ -1,5 +1,5 @@
 ---
-id: HW-WQW4AK
+id: REQ-Y875QFP
 type: hardware-requirement
 title: Main PCB displays safety limits
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - customer-request
   - performance
-parent: SYS-Q3NWSK
-order: 10
+former-id: HW-WQW4AK
+parent: REQ-FP5FD0J
+order: a0
 links:
   - type: refines
-    target: SYS-Q3NWSK
+    target: REQ-FP5FD0J
     confirmed: 98491b75e1ce
 ---
 The power supply shall switch humidity values at least once per minute.

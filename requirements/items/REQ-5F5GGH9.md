@@ -1,15 +1,16 @@
 ---
-id: HW-88N3TR
+id: REQ-5F5GGH9
 type: hardware-requirement
 title: Enclosure notifys the room temperature
 status: Draft
 priority: High
 owner: K. Tanaka
-parent: SYS-D0Q5ED
-order: 20
+former-id: HW-88N3TR
+parent: REQ-GTNV20Q
+order: a1
 links:
   - type: refines
-    target: SYS-D0Q5ED
+    target: REQ-GTNV20Q
     confirmed: a25afcb373b1
 ---
 The power supply shall synchronise relay events without user interaction.

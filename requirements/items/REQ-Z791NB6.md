@@ -1,5 +1,5 @@
 ---
-id: CR-BWC6MF
+id: REQ-Z791NB6
 type: change-request
 title: "CR: extend pairing process to limit schedule entries"
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - regulatory
   - safety
-parent: INFO-Y69DRS
-order: 30
+former-id: CR-BWC6MF
+parent: REQ-YW554H8
+order: a2
 links:
   - type: relates-to
-    target: SYS-JKNRQ3
+    target: REQ-MM8GTZJ
     confirmed: 11815d386342
 ---
 Requested by customer support (ticket #16014).

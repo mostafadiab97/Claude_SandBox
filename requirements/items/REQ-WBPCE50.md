@@ -1,5 +1,5 @@
 ---
-id: SYS-G2YZ1M
+id: REQ-WBPCE50
 type: system-requirement
 title: Mobile app limits humidity values
 status: Review
@@ -9,11 +9,12 @@ tags:
   - security
   - regulatory
   - connectivity
-parent: INFO-2XXBRS
-order: 500
+former-id: SYS-G2YZ1M
+parent: REQ-QYXGSQ4
+order: an
 links:
   - type: refines
-    target: STK-639N9T
+    target: REQ-EMZ19WQ
     confirmed: 252da9caa62c
 ---
 The mobile app shall log sensor readings for at least 10 years.

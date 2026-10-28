@@ -1,5 +1,5 @@
 ---
-id: DE-P1AMRN
+id: REQ-ABTK98B
 type: design-element
 title: Module watchdog_68
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - performance
   - safety
   - ux
-parent: SW-92PWZ0
-order: 10
+former-id: DE-P1AMRN
+parent: REQ-RN5VA9T
+order: a0
 links:
   - type: implements
-    target: SW-92PWZ0
+    target: REQ-RN5VA9T
     confirmed: 4fccd21b6a32
 ---
 Implemented in `src/safe/watchdog.c`.

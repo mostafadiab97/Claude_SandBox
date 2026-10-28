@@ -1,5 +1,5 @@
 ---
-id: SW-TM3W53
+id: REQ-08RJEB5
 type: software-requirement
 title: Wi-Fi module reports firmware images
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - connectivity
-parent: SYS-2GYDBD
-order: 30
+former-id: SW-TM3W53
+parent: REQ-DYXG5BT
+order: a2
 links:
   - type: refines
-    target: SYS-2GYDBD
+    target: REQ-DYXG5BT
     confirmed: 16a1100da795
 ---
 The Wi-Fi module shall authenticate the set point after a power loss.

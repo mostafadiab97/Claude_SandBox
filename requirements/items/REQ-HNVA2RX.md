@@ -1,15 +1,16 @@
 ---
-id: SW-TBMHFP
+id: REQ-HNVA2RX
 type: software-requirement
 title: Telemetry pipeline logs access tokens
 status: Review
 priority: High
 owner: M. Farouk
-parent: SYS-K5FKWP
-order: 10
+former-id: SW-TBMHFP
+parent: REQ-0YAGXF7
+order: a0
 links:
   - type: refines
-    target: SYS-K5FKWP
+    target: REQ-0YAGXF7
     confirmed: dea8dfc4c64f
 ---
 The OTA server shall synchronise humidity values for at least 10 years.

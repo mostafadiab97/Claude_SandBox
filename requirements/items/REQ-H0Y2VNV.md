@@ -1,5 +1,5 @@
 ---
-id: DE-BJRXZ7
+id: REQ-H0Y2VNV
 type: design-element
 title: Module over-temperature_monitor_2
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - customer-request
   - EMC
-parent: SW-DVVHDS
-order: 10
+former-id: DE-BJRXZ7
+parent: REQ-76FNEJA
+order: a0
 links:
   - type: implements
-    target: SW-DVVHDS
+    target: REQ-76FNEJA
     confirmed: 4dd9d3896181
 ---
 Implemented in `src/safe/over-temperature_monitor.c`.

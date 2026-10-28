@@ -1,14 +1,15 @@
 ---
-id: HW-7G5CGD
+id: REQ-NVEGKJV
 type: hardware-requirement
 title: Notify safety limits — detail
 status: Approved
 owner: S. Adel
-parent: HW-X9SE1P
-order: 10
+former-id: HW-7G5CGD
+parent: REQ-2WMHKCB
+order: a0
 links:
   - type: refines
-    target: HW-X9SE1P
+    target: REQ-2WMHKCB
     confirmed: 67008b5a0276
 ---
 The power supply shall calibrate sensor readings within 200 ms.

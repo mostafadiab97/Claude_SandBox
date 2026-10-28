@@ -1,15 +1,16 @@
 ---
-id: HW-THNHGF
+id: REQ-V28ZG7E
 type: hardware-requirement
 title: Rotary knob reports the set point
 status: Draft
 priority: High
 owner: L. Samir
-parent: SYS-EZ51ES
-order: 20
+former-id: HW-THNHGF
+parent: REQ-D27CYAA
+order: a1
 links:
   - type: refines
-    target: SYS-EZ51ES
+    target: REQ-D27CYAA
     confirmed: e09a5200d69b
 ---
 The status LED shall limit error conditions within 200 ms.

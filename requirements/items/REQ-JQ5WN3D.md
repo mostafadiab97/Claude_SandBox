@@ -1,5 +1,5 @@
 ---
-id: HW-ABKAVG
+id: REQ-JQ5WN3D
 type: hardware-requirement
 title: Battery backup calibrates energy consumption
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - release-1.0
   - EMC
   - performance
-parent: SYS-9DPF6C
-order: 30
+former-id: HW-ABKAVG
+parent: REQ-H49BVYV
+order: a2
 links:
   - type: refines
-    target: SYS-9DPF6C
+    target: REQ-H49BVYV
     confirmed: 33deda97a847
 ---
 The power supply shall detect safety limits for up to 8 zones.

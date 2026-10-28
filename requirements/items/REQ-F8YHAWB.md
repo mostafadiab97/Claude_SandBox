@@ -1,5 +1,5 @@
 ---
-id: HW-CC4SK1
+id: REQ-F8YHAWB
 type: hardware-requirement
 title: Zigbee radio notifys sensor readings
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: M. Farouk
 tags:
   - power
-parent: SYS-GJM3H6
-order: 10
+former-id: HW-CC4SK1
+parent: REQ-8SEJTYC
+order: a0
 links:
   - type: refines
-    target: SYS-GJM3H6
+    target: REQ-8SEJTYC
     confirmed: 4f0a28e39736
 ---
 The pairing process shall notify relay events for at least 10 years.

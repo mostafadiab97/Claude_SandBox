@@ -1,16 +1,17 @@
 ---
-id: TC-3BC647
+id: REQ-Q7VJJ9Q
 type: test-case
 title: "Regression: Status LED validates humidity values"
 status: Obsolete
 priority: Medium
 tags:
   - accessibility
-parent: INFO-ECHASH
-order: 680
+former-id: TC-3BC647
+parent: REQ-6H15AV2
+order: b05
 links:
   - type: verifies
-    target: SYS-QKZP7T
+    target: REQ-RBJJVJD
     confirmed: a1c30d626e9c
 ---
 **Objective:** verify that the device behaves as specified.

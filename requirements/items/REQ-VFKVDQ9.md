@@ -1,15 +1,16 @@
 ---
-id: IF-EVVJEG
+id: REQ-VFKVDQ9
 type: interface-requirement
 title: Status LED logs relay events
 status: Review
 priority: High
 owner: L. Samir
-parent: SYS-TYCMRT
-order: 30
+former-id: IF-EVVJEG
+parent: REQ-RJXG4JV
+order: a2
 links:
   - type: refines
-    target: SYS-TYCMRT
+    target: REQ-RJXG4JV
     confirmed: cd494a5f904a
 ---
 The status LED shall measure the set point for at least 10 years.

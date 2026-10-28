@@ -1,5 +1,5 @@
 ---
-id: IF-CVNAZH
+id: REQ-BPGKDMD
 type: interface-requirement
 title: Calibrate safety limits — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - power
   - cost
-parent: IF-XQ8VAX
-order: 10
+former-id: IF-CVNAZH
+parent: REQ-3126FWZ
+order: a0
 links:
   - type: refines
-    target: IF-XQ8VAX
+    target: REQ-3126FWZ
     confirmed: a64195633be0
 ---
 The main PCB shall encrypt the set point for at least 10 years.

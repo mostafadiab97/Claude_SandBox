@@ -1,5 +1,5 @@
 ---
-id: HW-YVQKSH
+id: REQ-61BGFEK
 type: hardware-requirement
 title: Power supply notifys the set point
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - i18n
-parent: SYS-B1T54X
-order: 20
+former-id: HW-YVQKSH
+parent: REQ-H8MPYP8
+order: a1
 links:
   - type: refines
-    target: SYS-B1T54X
+    target: REQ-H8MPYP8
     confirmed: 084830601dd3
 ---
 The enclosure shall notify user preferences at least once per minute.

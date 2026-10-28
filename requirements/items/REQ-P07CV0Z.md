@@ -1,5 +1,5 @@
 ---
-id: SYS-5N9QWY
+id: REQ-P07CV0Z
 type: system-requirement
 title: Login screen validates relay events
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - regulatory
-parent: INFO-2XXBRS
-order: 660
+former-id: SYS-5N9QWY
+parent: REQ-QYXGSQ4
+order: b03
 links:
   - type: refines
-    target: STK-5VZRF2
+    target: REQ-AC08V5H
     confirmed: cf78baefa376
 ---
 The login screen shall log humidity values without user interaction.

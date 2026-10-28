@@ -1,14 +1,15 @@
 ---
-id: TC-PQKY79
+id: REQ-HQSXK0G
 type: test-case
 title: "Regression: Pairing process switchs sensor readings"
 status: Draft
 owner: Y. Saber
-parent: INFO-ECHASH
-order: 2150
+former-id: TC-PQKY79
+parent: REQ-6H15AV2
+order: b2S
 links:
   - type: verifies
-    target: SYS-96CWW2
+    target: REQ-74P9MAJ
     confirmed: e023ac8016f0
 ---
 **Objective:** verify that the device behaves as specified.

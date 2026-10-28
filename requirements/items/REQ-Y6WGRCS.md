@@ -1,5 +1,5 @@
 ---
-id: SYS-2G95V5
+id: REQ-Y6WGRCS
 type: system-requirement
 title: Relay board validates the operating mode
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: J. Müller
 tags:
   - accessibility
-parent: INFO-A6P9A8
-order: 1030
+former-id: SYS-2G95V5
+parent: REQ-CMCS31A
+order: b0e
 links:
   - type: refines
-    target: STK-M28XWW
+    target: REQ-2678XV5
     confirmed: bcf262f10744
 ---
 The relay board shall report safety limits below 0.5 W in standby.

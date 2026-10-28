@@ -1,17 +1,18 @@
 ---
-id: TC-Y0QTD7
+id: REQ-K0MQQGN
 type: test-case
 title: "Verify: Mobile app switchs the connection state"
 status: Draft
 owner: É. Laurent
-parent: INFO-J0FETE
-order: 180
+former-id: TC-Y0QTD7
+parent: REQ-WR5ZJN9
+order: aH
 links:
   - type: verifies
-    target: SYS-EQ4ME8
+    target: REQ-J25YGJQ
     confirmed: 00f1fdeebe62
   - type: verifies
-    target: SW-2C9HYA
+    target: REQ-JG21K63
     confirmed: 4b4be5d0d1b1
 ---
 **Objective:** verify that the mobile app behaves as specified.

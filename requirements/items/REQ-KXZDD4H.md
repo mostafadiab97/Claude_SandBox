@@ -1,5 +1,5 @@
 ---
-id: IF-0Q7BQ7
+id: REQ-KXZDD4H
 type: interface-requirement
 title: Notification service switchs the set point
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - i18n
   - cost
   - safety
-parent: SYS-XAT0K2
-order: 20
+former-id: IF-0Q7BQ7
+parent: REQ-KWYSKRA
+order: a1
 links:
   - type: refines
-    target: SYS-XAT0K2
+    target: REQ-KWYSKRA
     confirmed: bc4860e51f16
 ---
 The mobile app shall calibrate the operating mode after a power loss.

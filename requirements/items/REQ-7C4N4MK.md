@@ -1,5 +1,5 @@
 ---
-id: TC-NWBFYE
+id: REQ-7C4N4MK
 type: test-case
 title: "Verify: Schedule editor authenticates relay events"
 status: Review
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - accessibility
   - regulatory
-parent: INFO-J0FETE
-order: 110
+former-id: TC-NWBFYE
+parent: REQ-WR5ZJN9
+order: aA
 links:
   - type: verifies
-    target: SYS-G04V2Y
+    target: REQ-C5MAV30
     confirmed: b6d6034c72e0
 ---
 **Objective:** verify that the schedule editor behaves as specified.

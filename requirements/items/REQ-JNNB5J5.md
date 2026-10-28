@@ -1,15 +1,16 @@
 ---
-id: TC-1ZT8TT
+id: REQ-JNNB5J5
 type: test-case
 title: "Verify: Power supply limits the set point"
 status: Draft
 priority: Medium
 owner: J. Müller
-parent: INFO-MACGC3
-order: 1240
+former-id: TC-1ZT8TT
+parent: REQ-F9Z1FYS
+order: b0z
 links:
   - type: verifies
-    target: SYS-W0W7D4
+    target: REQ-Z08EBAB
     confirmed: 4d7252a936d8
 ---
 **Objective:** verify that the power supply behaves as specified.

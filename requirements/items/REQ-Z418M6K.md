@@ -1,5 +1,5 @@
 ---
-id: TC-TJA56F
+id: REQ-Z418M6K
 type: test-case
 title: "Verify: Login screen encrypts the operating mode"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - connectivity
   - EMC
-parent: INFO-J0FETE
-order: 50
+former-id: TC-TJA56F
+parent: REQ-WR5ZJN9
+order: a4
 links:
   - type: verifies
-    target: SYS-P05AE4
+    target: REQ-BCZ6972
     confirmed: 551fdad1c494
 ---
 **Objective:** verify that the login screen behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-J29PA7
+id: REQ-XYAV7Q9
 type: software-requirement
 title: Zone valve authenticates the connection state
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - release-1.0
   - release-2.0
   - accessibility
-parent: SYS-G1PHXX
-order: 20
+former-id: SW-J29PA7
+parent: REQ-KDRQKKR
+order: a1
 links:
   - type: refines
-    target: SYS-G1PHXX
+    target: REQ-KDRQKKR
     confirmed: bf662a260349
 ---
 The boiler interface shall switch energy consumption below 0.5 W in standby.

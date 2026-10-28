@@ -1,5 +1,5 @@
 ---
-id: TC-PJ3T79
+id: REQ-1JS1AFP
 type: test-case
 title: "Verify: Status LED reports the operating mode"
 status: Draft
@@ -8,14 +8,15 @@ owner: M. Farouk
 tags:
   - release-2.0
   - power
-parent: INFO-HTSZ15
-order: 1020
+former-id: TC-PJ3T79
+parent: REQ-Y9VHHKA
+order: b0d
 links:
   - type: verifies
-    target: SYS-J7BTY7
+    target: REQ-22M9B7Z
     confirmed: 407923e760c5
   - type: verifies
-    target: SW-VTZYV6
+    target: REQ-331B5CR
     confirmed: 1fc331627e58
 ---
 **Objective:** verify that the status LED behaves as specified.

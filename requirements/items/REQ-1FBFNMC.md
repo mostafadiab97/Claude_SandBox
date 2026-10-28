@@ -1,5 +1,5 @@
 ---
-id: TC-GXZ7HH
+id: REQ-1FBFNMC
 type: test-case
 title: "Verify: Menu system stores sensor readings"
 status: Obsolete
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - release-2.0
   - ux
-parent: INFO-HTSZ15
-order: 530
+former-id: TC-GXZ7HH
+parent: REQ-Y9VHHKA
+order: aq
 links:
   - type: verifies
-    target: SYS-AX0YF1
+    target: REQ-ZDN307J
     confirmed: 8815ccfb397d
 ---
 **Objective:** verify that the menu system behaves as specified.

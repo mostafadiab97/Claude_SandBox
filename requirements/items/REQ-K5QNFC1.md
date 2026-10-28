@@ -1,5 +1,5 @@
 ---
-id: TC-ZATYCT
+id: REQ-K5QNFC1
 type: test-case
 title: "Verify: Notification service notifys the set point"
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - safety
   - customer-request
-parent: INFO-J0FETE
-order: 1280
+former-id: TC-ZATYCT
+parent: REQ-WR5ZJN9
+order: b13
 links:
   - type: verifies
-    target: SYS-MRHZSS
+    target: REQ-X0960ZS
     confirmed: 3746d94f7720
 ---
 **Objective:** verify that the notification service behaves as specified.

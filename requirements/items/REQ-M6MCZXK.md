@@ -1,15 +1,16 @@
 ---
-id: SW-XJD5BH
+id: REQ-M6MCZXK
 type: software-requirement
 title: Encrypt access tokens — detail
 status: Obsolete
 priority: Low
 owner: J. Müller
-parent: SW-2ZRFTA
-order: 10
+former-id: SW-XJD5BH
+parent: REQ-5AFKCKT
+order: a0
 links:
   - type: refines
-    target: SW-2ZRFTA
+    target: REQ-5AFKCKT
     confirmed: 7f07c0d56902
 ---
 The cloud backend shall display the operating mode for up to 8 zones.

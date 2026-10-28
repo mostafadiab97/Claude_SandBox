@@ -1,15 +1,16 @@
 ---
-id: SW-X584X4
+id: REQ-0G96N3T
 type: software-requirement
 title: Cloud backend encrypts user preferences
 status: Draft
 priority: Medium
 owner: Y. Saber
-parent: SYS-ET5TES
-order: 10
+former-id: SW-X584X4
+parent: REQ-H2GK9F4
+order: a0
 links:
   - type: refines
-    target: SYS-ET5TES
+    target: REQ-H2GK9F4
     confirmed: 7e6cc32b80b3
 ---
 The cloud backend shall limit audit records for at least 10 years.

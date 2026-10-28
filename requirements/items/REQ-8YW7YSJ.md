@@ -1,5 +1,5 @@
 ---
-id: TC-AEVE85
+id: REQ-8YW7YSJ
 type: test-case
 title: "Verify: Over-temperature monitor restores safety limits"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - ux
   - security
-parent: INFO-Z4TW4B
-order: 1210
+former-id: TC-AEVE85
+parent: REQ-K6FGAY0
+order: b0w
 links:
   - type: verifies
-    target: SYS-96K8ZZ
+    target: REQ-FRAV7EH
     confirmed: 4fbabcbee22c
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

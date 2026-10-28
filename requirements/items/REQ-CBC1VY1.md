@@ -1,5 +1,5 @@
 ---
-id: TC-578BCP
+id: REQ-CBC1VY1
 type: test-case
 title: "Verify: Mobile app restores energy consumption"
 status: Obsolete
@@ -8,11 +8,12 @@ tags:
   - performance
   - accessibility
   - release-2.0
-parent: INFO-J0FETE
-order: 40
+former-id: TC-578BCP
+parent: REQ-WR5ZJN9
+order: a3
 links:
   - type: verifies
-    target: SYS-8HSDWQ
+    target: REQ-Z8ERP87
     confirmed: 410ee1c6bb84
 ---
 **Objective:** verify that the mobile app behaves as specified.

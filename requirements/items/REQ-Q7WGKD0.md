@@ -1,5 +1,5 @@
 ---
-id: TC-7MEGMB
+id: REQ-Q7WGKD0
 type: test-case
 title: "Verify: Regulation loop notifys the room temperature"
 status: Draft
@@ -7,14 +7,15 @@ priority: High
 owner: L. Samir
 tags:
   - security
-parent: INFO-MS9DAG
-order: 1490
+former-id: TC-7MEGMB
+parent: REQ-XGWSK2K
+order: b1O
 links:
   - type: verifies
-    target: SYS-1DTP29
+    target: REQ-WWGXTCZ
     confirmed: 076f90a0ea7e
   - type: verifies
-    target: SW-75XXSR
+    target: REQ-DXDFRXW
     confirmed: 4c4f1f47baa6
 ---
 **Objective:** verify that the regulation loop behaves as specified.

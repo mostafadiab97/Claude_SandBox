@@ -1,13 +1,14 @@
 ---
-id: TC-NEJH0E
+id: REQ-PWNGY5K
 type: test-case
 title: "Regression: Schedule editor measures sensor readings"
 status: Approved
-parent: INFO-ECHASH
-order: 1110
+former-id: TC-NEJH0E
+parent: REQ-6H15AV2
+order: b0m
 links:
   - type: verifies
-    target: SYS-ZFAGA9
+    target: REQ-FF5B6MJ
     confirmed: 088ced33b5bc
 ---
 **Objective:** verify that the device behaves as specified.

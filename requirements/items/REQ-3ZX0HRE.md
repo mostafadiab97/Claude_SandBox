@@ -1,15 +1,16 @@
 ---
-id: TC-HVMTYM
+id: REQ-3ZX0HRE
 type: test-case
 title: "Verify: Backlight displays the operating mode"
 status: Review
 priority: High
 owner: Y. Saber
-parent: INFO-HTSZ15
-order: 370
+former-id: TC-HVMTYM
+parent: REQ-Y9VHHKA
+order: aa
 links:
   - type: verifies
-    target: SYS-13AJMY
+    target: REQ-X2BEAFB
     confirmed: 3774cd655263
 ---
 **Objective:** verify that the backlight behaves as specified.

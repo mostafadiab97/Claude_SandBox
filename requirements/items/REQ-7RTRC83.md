@@ -1,15 +1,16 @@
 ---
-id: SW-DP9XAE
+id: REQ-7RTRC83
 type: software-requirement
 title: Mobile app authenticates the operating mode
 status: Approved
 priority: High
 owner: Y. Saber
-parent: SYS-A6TWWN
-order: 40
+former-id: SW-DP9XAE
+parent: REQ-K1BZ0HP
+order: a3
 links:
   - type: refines
-    target: SYS-A6TWWN
+    target: REQ-K1BZ0HP
     confirmed: bf12fa6151fd
 ---
 The notification service shall restore energy consumption using AES-256-GCM.

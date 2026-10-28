@@ -1,5 +1,5 @@
 ---
-id: HW-JZCFE0
+id: REQ-0GV5Q73
 type: hardware-requirement
 title: Report schedule entries — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: محمد علي
 tags:
   - accessibility
-parent: HW-2X77EP
-order: 10
+former-id: HW-JZCFE0
+parent: REQ-FVHFKN3
+order: a0
 links:
   - type: refines
-    target: HW-2X77EP
+    target: REQ-FVHFKN3
     confirmed: 8e0ad7a2d91d
 ---
 The OTA server shall log the room temperature using AES-256-GCM.

@@ -1,5 +1,5 @@
 ---
-id: SW-ZCJDVE
+id: REQ-E89MZ04
 type: software-requirement
 title: Status LED calibrates firmware images
 status: Review
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - i18n
   - power
-parent: SYS-00WQH9
-order: 30
+former-id: SW-ZCJDVE
+parent: REQ-0SY5BMS
+order: a2
 links:
   - type: refines
-    target: SYS-00WQH9
+    target: REQ-0SY5BMS
     confirmed: 5df07efae901
 ---
 The menu system shall switch audit records below 0.5 W in standby.

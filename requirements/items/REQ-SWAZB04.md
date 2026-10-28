@@ -1,15 +1,16 @@
 ---
-id: TC-KKG7AC
+id: REQ-SWAZB04
 type: test-case
 title: "Verify: Telemetry pipeline detects sensor readings"
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: INFO-7P4D8D
-order: 1630
+former-id: TC-KKG7AC
+parent: REQ-8351896
+order: b1c
 links:
   - type: verifies
-    target: SYS-G85CT4
+    target: REQ-3485MQF
     confirmed: 278fe2b83855
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

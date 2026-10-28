@@ -1,15 +1,16 @@
 ---
-id: SYS-S18QCP
+id: REQ-YN2X5B5
 type: system-requirement
 title: Touch display authenticates safety limits
 status: Review
 priority: Medium
 owner: محمد علي
-parent: INFO-PDR6FV
-order: 660
+former-id: SYS-S18QCP
+parent: REQ-2ZA2TRZ
+order: b03
 links:
   - type: refines
-    target: STK-35QR7F
+    target: REQ-QCK2ZS7
     confirmed: bc1aebb7918d
 ---
 The touch display shall encrypt energy consumption within 200 ms.

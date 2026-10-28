@@ -1,5 +1,5 @@
 ---
-id: SYS-0HAZNH
+id: REQ-YP9B1S9
 type: system-requirement
 title: Cloud backend encrypts safety limits
 status: Obsolete
@@ -8,11 +8,12 @@ tags:
   - accessibility
   - ux
   - security
-parent: INFO-YV5EZD
-order: 680
+former-id: SYS-0HAZNH
+parent: REQ-RE9ZKHF
+order: b05
 links:
   - type: refines
-    target: STK-R8QH58
+    target: REQ-BN3T0GR
     confirmed: 13d6784d2cc9
 ---
 The cloud backend shall calibrate the connection state below 0.5 W in standby.

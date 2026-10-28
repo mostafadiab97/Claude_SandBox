@@ -1,5 +1,5 @@
 ---
-id: SW-5AS25K
+id: REQ-DY7XQZE
 type: software-requirement
 title: Report safety limits — detail
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - connectivity
-parent: SW-V8GBRT
-order: 10
+former-id: SW-5AS25K
+parent: REQ-RYA0VYJ
+order: a0
 links:
   - type: refines
-    target: SW-V8GBRT
+    target: REQ-RYA0VYJ
     confirmed: 4d8dd94bd30e
 ---
 The home dashboard shall report the operating mode below 0.5 W in standby.

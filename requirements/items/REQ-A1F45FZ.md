@@ -1,16 +1,17 @@
 ---
-id: IF-X2P9YW
+id: REQ-A1F45FZ
 type: interface-requirement
 title: User account service stores firmware images
 status: Review
 owner: L. Samir
 tags:
   - connectivity
-parent: SYS-59QMSN
-order: 10
+former-id: IF-X2P9YW
+parent: REQ-ZFPAEZP
+order: a0
 links:
   - type: refines
-    target: SYS-59QMSN
+    target: REQ-ZFPAEZP
     confirmed: 261ae2911413
 ---
 The device registry shall calibrate schedule entries when the network is unavailable.

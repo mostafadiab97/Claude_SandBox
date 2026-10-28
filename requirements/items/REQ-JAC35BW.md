@@ -1,5 +1,5 @@
 ---
-id: IF-P39NZH
+id: REQ-JAC35BW
 type: interface-requirement
 title: "Signal 011: sensor readings"
 status: Approved
@@ -9,7 +9,8 @@ tags:
   - power
   - safety
   - accessibility
-parent: INFO-2TM0JP
-order: 110
+former-id: IF-P39NZH
+parent: REQ-RJ0KHPT
+order: aA
 ---
 Interface signal number 11.

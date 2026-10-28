@@ -1,14 +1,15 @@
 ---
-id: SW-H49SNH
+id: REQ-E18MR96
 type: software-requirement
 title: Notify schedule entries — detail
 status: Approved
 owner: J. Müller
-parent: SW-F8C2TG
-order: 10
+former-id: SW-H49SNH
+parent: REQ-BCHP732
+order: a0
 links:
   - type: refines
-    target: SW-F8C2TG
+    target: REQ-BCHP732
     confirmed: 75dacdfdd4f4
 ---
 The notification service shall notify access tokens within 200 ms.

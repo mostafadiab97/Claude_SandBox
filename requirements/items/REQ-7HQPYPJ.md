@@ -1,5 +1,5 @@
 ---
-id: SW-Z1XA6B
+id: REQ-7HQPYPJ
 type: software-requirement
 title: Login screen validates audit records
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 owner: K. Tanaka
 tags:
   - cost
-parent: SYS-1S2BHB
-order: 30
+former-id: SW-Z1XA6B
+parent: REQ-59EPM6N
+order: a2
 links:
   - type: refines
-    target: SYS-1S2BHB
+    target: REQ-59EPM6N
     confirmed: 46ab9d294f6f
 ---
 The home dashboard shall validate access tokens after a power loss.

@@ -1,14 +1,15 @@
 ---
-id: SYS-4NQ8GT
+id: REQ-33MFB68
 type: system-requirement
 title: Watchdog reports energy consumption
 status: Draft
 priority: Medium
-parent: INFO-0229G8
-order: 2050
+former-id: SYS-4NQ8GT
+parent: REQ-H9113WA
+order: b2I
 links:
   - type: refines
-    target: STK-ZJRWCQ
+    target: REQ-9YG77WV
     confirmed: 080168ea99ae
 ---
 The watchdog shall display humidity values for up to 8 zones.

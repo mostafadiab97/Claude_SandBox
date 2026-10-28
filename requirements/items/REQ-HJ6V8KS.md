@@ -1,16 +1,17 @@
 ---
-id: TC-M2Z4T6
+id: REQ-HJ6V8KS
 type: test-case
 title: "Regression: Heat pump driver calibrates the operating mode"
 status: Approved
 priority: High
 tags:
   - security
-parent: INFO-ECHASH
-order: 2090
+former-id: TC-M2Z4T6
+parent: REQ-6H15AV2
+order: b2M
 links:
   - type: verifies
-    target: SYS-7MF8BM
+    target: REQ-EMA1R60
     confirmed: df19f5a8810f
 ---
 **Objective:** verify that the device behaves as specified.

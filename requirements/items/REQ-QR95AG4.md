@@ -1,5 +1,5 @@
 ---
-id: DE-614G41
+id: REQ-QR95AG4
 type: design-element
 title: Module status_LED_98
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - safety
   - accessibility
   - release-1.0
-parent: SW-8C39GE
-order: 10
+former-id: DE-614G41
+parent: REQ-74D11YK
+order: a0
 links:
   - type: implements
-    target: SW-8C39GE
+    target: REQ-74D11YK
     confirmed: be648cf5eb8b
 ---
 Implemented in `src/ui/status_LED.c`.

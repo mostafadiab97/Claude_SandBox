@@ -1,15 +1,16 @@
 ---
-id: HW-8HG5SW
+id: REQ-B363XK3
 type: hardware-requirement
 title: Heat pump driver logs schedule entries
 status: Approved
 priority: Medium
 owner: N. Kamal
-parent: SYS-JFB5KX
-order: 30
+former-id: HW-8HG5SW
+parent: REQ-TCY4CJ0
+order: a2
 links:
   - type: refines
-    target: SYS-JFB5KX
+    target: REQ-TCY4CJ0
     confirmed: 270d776a5c32
 ---
 The heat pump driver shall notify sensor readings below 0.5 W in standby.

@@ -1,5 +1,5 @@
 ---
-id: SW-CB8WR8
+id: REQ-1SXCRAF
 type: software-requirement
 title: Regulation loop detects audit records
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - accessibility
   - EMC
-parent: SYS-TXF8EG
-order: 20
+former-id: SW-CB8WR8
+parent: REQ-JB7W2BD
+order: a1
 links:
   - type: refines
-    target: SYS-TXF8EG
+    target: REQ-JB7W2BD
     confirmed: 941441170ff9
 ---
 The regulation loop shall notify schedule entries in under 3 s.

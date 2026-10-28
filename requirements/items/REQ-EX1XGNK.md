@@ -1,15 +1,16 @@
 ---
-id: SW-PA7N1Y
+id: REQ-EX1XGNK
 type: software-requirement
 title: Status LED calibrates humidity values
 status: Draft
 priority: Medium
 owner: Y. Saber
-parent: SYS-6B5FVX
-order: 10
+former-id: SW-PA7N1Y
+parent: REQ-SBTKPG2
+order: a0
 links:
   - type: refines
-    target: SYS-6B5FVX
+    target: REQ-SBTKPG2
     confirmed: 9f166b9bcfdd
 ---
 The touch display shall log safety limits at least once per minute.

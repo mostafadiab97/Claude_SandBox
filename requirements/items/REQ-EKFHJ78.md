@@ -1,14 +1,15 @@
 ---
-id: IF-PM9W0M
+id: REQ-EKFHJ78
 type: interface-requirement
 title: Authenticate safety limits — detail
 status: Obsolete
 priority: High
-parent: IF-FBY2AK
-order: 10
+former-id: IF-PM9W0M
+parent: REQ-AXD0Y1E
+order: a0
 links:
   - type: refines
-    target: IF-FBY2AK
+    target: REQ-AXD0Y1E
     confirmed: 53c66f759e24
 ---
 The heating controller shall log the room temperature without user interaction.

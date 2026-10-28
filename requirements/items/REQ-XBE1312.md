@@ -1,15 +1,16 @@
 ---
-id: SYS-FHAECY
+id: REQ-XBE1312
 type: system-requirement
 title: Schedule editor stores firmware images
 status: Review
 priority: Medium
 owner: K. Tanaka
-parent: INFO-2XXBRS
-order: 1760
+former-id: SYS-FHAECY
+parent: REQ-QYXGSQ4
+order: b1p
 links:
   - type: refines
-    target: STK-55M3CZ
+    target: REQ-HTVZXH2
     confirmed: 45f1b5fe0502
 ---
 The schedule editor shall report firmware images for up to 8 zones.

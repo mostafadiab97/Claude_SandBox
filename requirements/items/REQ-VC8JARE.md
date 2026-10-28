@@ -1,5 +1,5 @@
 ---
-id: HW-WEM9A1
+id: REQ-VC8JARE
 type: hardware-requirement
 title: Main PCB stores energy consumption
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: É. Laurent
 tags:
   - security
-parent: SYS-AXK7J9
-order: 20
+former-id: HW-WEM9A1
+parent: REQ-6JEC1MF
+order: a1
 links:
   - type: refines
-    target: SYS-AXK7J9
+    target: REQ-6JEC1MF
     confirmed: 3cfd57c0b514
 ---
 The enclosure shall notify firmware images without user interaction.

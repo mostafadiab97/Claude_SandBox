@@ -1,14 +1,15 @@
 ---
-id: SW-TQYD9Q
+id: REQ-J4GMKTA
 type: software-requirement
 title: Bluetooth LE link reports user preferences
 status: Approved
 priority: High
-parent: SYS-0R6VPN
-order: 10
+former-id: SW-TQYD9Q
+parent: REQ-RGJYQ7H
+order: a0
 links:
   - type: refines
-    target: SYS-0R6VPN
+    target: REQ-RGJYQ7H
     confirmed: 1c57ac548887
 ---
 The Bluetooth LE link shall restore firmware images with an accuracy of ±0.5 °C.

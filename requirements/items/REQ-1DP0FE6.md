@@ -1,13 +1,14 @@
 ---
-id: TC-T8NTSN
+id: REQ-1DP0FE6
 type: test-case
 title: "Verify: OTA server restores schedule entries"
 status: Approved
-parent: INFO-7P4D8D
-order: 640
+former-id: TC-T8NTSN
+parent: REQ-8351896
+order: b01
 links:
   - type: verifies
-    target: SYS-K5FKWP
+    target: REQ-0YAGXF7
     confirmed: dea8dfc4c64f
 ---
 **Objective:** verify that the OTA server behaves as specified.

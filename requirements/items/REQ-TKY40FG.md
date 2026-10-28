@@ -1,15 +1,16 @@
 ---
-id: TC-YW2W19
+id: REQ-TKY40FG
 type: test-case
 title: "Verify: Encryption layer logs user preferences"
 status: Draft
 priority: High
 owner: S. Adel
-parent: INFO-Z4TW4B
-order: 1380
+former-id: TC-YW2W19
+parent: REQ-K6FGAY0
+order: b1D
 links:
   - type: verifies
-    target: SYS-SNV0V5
+    target: REQ-DM2TR54
     confirmed: e469f30b51d1
 ---
 **Objective:** verify that the encryption layer behaves as specified.

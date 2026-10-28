@@ -1,15 +1,16 @@
 ---
-id: IF-87RXZM
+id: REQ-CPZSQ94
 type: interface-requirement
 title: Validate sensor readings — detail
 status: Draft
 priority: High
 owner: J. Müller
-parent: IF-F983ZE
-order: 10
+former-id: IF-87RXZM
+parent: REQ-HC4J9F5
+order: a0
 links:
   - type: refines
-    target: IF-F983ZE
+    target: REQ-HC4J9F5
     confirmed: baf98ac3ac93
 ---
 The mobile app shall encrypt the set point without user interaction.

@@ -1,16 +1,17 @@
 ---
-id: TC-NR1E9J
+id: REQ-K0XZM9X
 type: test-case
 title: Hub verification 8
 status: Review
 owner: J. Müller
 tags:
   - security
-parent: INFO-ECHASH
-order: 170
+former-id: TC-NR1E9J
+parent: REQ-6H15AV2
+order: aG
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 4639507190ed
 ---
 **Objective:** verify that the thermostat behaves as specified.

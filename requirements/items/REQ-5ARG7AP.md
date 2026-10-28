@@ -1,14 +1,15 @@
 ---
-id: SYS-D1ZDY9
+id: REQ-5ARG7AP
 type: system-requirement
 title: Heat pump driver displays the connection state
 status: Review
 owner: محمد علي
-parent: INFO-6DQTKV
-order: 2010
+former-id: SYS-D1ZDY9
+parent: REQ-7ED7ZET
+order: b2E
 links:
   - type: refines
-    target: STK-W1SAZ0
+    target: REQ-HA39PC8
     confirmed: f0954f8ba0a2
 ---
 The heat pump driver shall display the room temperature within 200 ms.

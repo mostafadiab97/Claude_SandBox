@@ -1,5 +1,5 @@
 ---
-id: IF-1ASVBT
+id: REQ-K0X6APS
 type: interface-requirement
 title: "Signal 321: schedule entries"
 status: Draft
@@ -9,7 +9,8 @@ tags:
   - regulatory
   - i18n
   - release-2.0
-parent: INFO-2TM0JP
-order: 3210
+former-id: IF-1ASVBT
+parent: REQ-RJ0KHPT
+order: b4A
 ---
 Interface signal number 321.

@@ -1,18 +1,19 @@
 ---
-id: TC-NAV9NG
+id: REQ-XHHG57J
 type: test-case
 title: "Verify: Mobile app notifys humidity values"
 status: Approved
 priority: Low
 owner: A. Hassan
-parent: INFO-J0FETE
-order: 1020
+former-id: TC-NAV9NG
+parent: REQ-WR5ZJN9
+order: b0d
 links:
   - type: verifies
-    target: SYS-1A7QWR
+    target: REQ-T46YH4A
     confirmed: 5740f6763e84
   - type: verifies
-    target: SW-5VFSCY
+    target: REQ-KXDDFKV
     confirmed: bd2baa75aa93
 ---
 **Objective:** verify that the mobile app behaves as specified.

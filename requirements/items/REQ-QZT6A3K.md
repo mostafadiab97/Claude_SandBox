@@ -1,5 +1,5 @@
 ---
-id: SW-HJ0J5X
+id: REQ-QZT6A3K
 type: software-requirement
 title: Cloud backend logs schedule entries
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - connectivity
   - release-2.0
-parent: SYS-T2ZPTJ
-order: 10
+former-id: SW-HJ0J5X
+parent: REQ-2SKGBVM
+order: a0
 links:
   - type: refines
-    target: SYS-T2ZPTJ
+    target: REQ-2SKGBVM
     confirmed: 307534c43d1d
 ---
 The telemetry pipeline shall encrypt the room temperature for up to 8 zones.

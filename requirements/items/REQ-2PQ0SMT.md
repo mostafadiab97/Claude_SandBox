@@ -1,5 +1,5 @@
 ---
-id: IF-N8MA0J
+id: REQ-2PQ0SMT
 type: interface-requirement
 title: Over-temperature monitor notifys the connection state
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - customer-request
   - performance
-parent: SYS-9KQ0S9
-order: 20
+former-id: IF-N8MA0J
+parent: REQ-K15V7RN
+order: a1
 links:
   - type: refines
-    target: SYS-9KQ0S9
+    target: REQ-K15V7RN
     confirmed: bc8207c9b248
 ---
 The watchdog shall detect error conditions without user interaction.

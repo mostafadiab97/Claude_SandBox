@@ -1,5 +1,5 @@
 ---
-id: HW-K32RZ8
+id: REQ-N82P90A
 type: hardware-requirement
 title: Relay board logs the room temperature
 status: Draft
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - regulatory
   - performance
-parent: SYS-SGE8R7
-order: 30
+former-id: HW-K32RZ8
+parent: REQ-YSKYE18
+order: a2
 links:
   - type: refines
-    target: SYS-SGE8R7
+    target: REQ-YSKYE18
     confirmed: f0923cc9ca25
 ---
 The power supply shall synchronise firmware images for up to 8 zones.

@@ -1,15 +1,16 @@
 ---
-id: SW-TF6B6Y
+id: REQ-9DZ537X
 type: software-requirement
 title: Zone valve switchs sensor readings
 status: Approved
 priority: High
 owner: R. Nabil
-parent: SYS-HZRAQ2
-order: 30
+former-id: SW-TF6B6Y
+parent: REQ-MN0BSTQ
+order: a2
 links:
   - type: refines
-    target: SYS-HZRAQ2
+    target: REQ-MN0BSTQ
     confirmed: 67e08d743ee6
 ---
 The heating controller shall report audit records without user interaction.

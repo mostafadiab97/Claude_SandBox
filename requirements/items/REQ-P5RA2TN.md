@@ -1,15 +1,16 @@
 ---
-id: TC-YJBGRM
+id: REQ-P5RA2TN
 type: test-case
 title: "Verify: Boiler interface validates relay events"
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: INFO-MS9DAG
-order: 620
+former-id: TC-YJBGRM
+parent: REQ-XGWSK2K
+order: az
 links:
   - type: verifies
-    target: SYS-7AKQK2
+    target: REQ-KSTR6EY
     confirmed: 0a4c44bfead6
 ---
 **Objective:** verify that the boiler interface behaves as specified.

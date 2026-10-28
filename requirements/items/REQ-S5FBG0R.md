@@ -1,15 +1,16 @@
 ---
-id: HW-W23FMV
+id: REQ-S5FBG0R
 type: hardware-requirement
 title: Detect the operating mode — detail
 status: Approved
 priority: Low
 owner: É. Laurent
-parent: HW-MK7X5V
-order: 10
+former-id: HW-W23FMV
+parent: REQ-NEKT7E1
+order: a0
 links:
   - type: refines
-    target: HW-MK7X5V
+    target: REQ-NEKT7E1
     confirmed: 075ff0f225a2
 ---
 The Zigbee radio shall store error conditions in under 3 s.

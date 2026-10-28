@@ -1,5 +1,5 @@
 ---
-id: SW-DSF98H
+id: REQ-6VY9RX9
 type: software-requirement
 title: Touch display measures sensor readings
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - power
-parent: SYS-ASMZ9Q
-order: 10
+former-id: SW-DSF98H
+parent: REQ-1FQWZ0W
+order: a0
 links:
   - type: refines
-    target: SYS-ASMZ9Q
+    target: REQ-1FQWZ0W
     confirmed: 41b07dbfc705
 ---
 The touch display shall synchronise humidity values using AES-256-GCM.

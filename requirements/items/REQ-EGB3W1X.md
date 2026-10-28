@@ -1,5 +1,5 @@
 ---
-id: SW-Y05D4W
+id: REQ-EGB3W1X
 type: software-requirement
 title: Encryption layer notifys relay events
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - security
   - release-2.0
-parent: SYS-NW2H4K
-order: 20
+former-id: SW-Y05D4W
+parent: REQ-RSNHK9N
+order: a1
 links:
   - type: refines
-    target: SYS-NW2H4K
+    target: REQ-RSNHK9N
     confirmed: 061c07f59466
 ---
 The encryption layer shall report audit records below 0.5 W in standby.

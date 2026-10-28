@@ -1,15 +1,16 @@
 ---
-id: SYS-4JGB8T
+id: REQ-D5YEACT
 type: system-requirement
 title: Notification service switchs the connection state
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: INFO-2XXBRS
-order: 670
+former-id: SYS-4JGB8T
+parent: REQ-QYXGSQ4
+order: b04
 links:
   - type: refines
-    target: STK-ND3D08
+    target: REQ-BWGMSWJ
     confirmed: df91c673f737
 ---
 The notification service shall store access tokens for up to 8 zones.

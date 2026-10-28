@@ -1,15 +1,16 @@
 ---
-id: TC-TPS5MK
+id: REQ-DP1DFEH
 type: test-case
 title: "Verify: Bluetooth LE link detects access tokens"
 status: Approved
 priority: High
 owner: M. Farouk
-parent: INFO-F0M7VC
-order: 790
+former-id: TC-TPS5MK
+parent: REQ-67RQXCK
+order: b0G
 links:
   - type: verifies
-    target: SYS-2N03B4
+    target: REQ-AQ8M0XJ
     confirmed: 9597e83a664b
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-K42P3P
+id: REQ-FJ4YK26
 type: software-requirement
 title: Touch display calibrates audit records
 status: Draft
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - power
   - accessibility
-parent: SYS-7C9J06
-order: 10
+former-id: SW-K42P3P
+parent: REQ-8BHKC2G
+order: a0
 links:
   - type: refines
-    target: SYS-7C9J06
+    target: REQ-8BHKC2G
     confirmed: cd6745f84064
 ---
 The backlight shall synchronise relay events after a power loss.

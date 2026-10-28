@@ -1,5 +1,5 @@
 ---
-id: SW-RB95EY
+id: REQ-4AY1ZV3
 type: software-requirement
 title: Device registry restores audit records
 status: Review
@@ -7,11 +7,12 @@ owner: R. Nabil
 tags:
   - ux
   - accessibility
-parent: SYS-GK8E6S
-order: 40
+former-id: SW-RB95EY
+parent: REQ-PRHYJ2F
+order: a3
 links:
   - type: refines
-    target: SYS-GK8E6S
+    target: REQ-PRHYJ2F
     confirmed: 3497825150a9
 ---
 The telemetry pipeline shall detect error conditions in all supported languages.

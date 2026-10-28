@@ -1,15 +1,16 @@
 ---
-id: TC-C3DXC6
+id: REQ-V4T3C4E
 type: test-case
 title: "Verify: Telemetry pipeline stores energy consumption"
 status: Review
 priority: High
 owner: L. Samir
-parent: INFO-7P4D8D
-order: 1240
+former-id: TC-C3DXC6
+parent: REQ-8351896
+order: b0z
 links:
   - type: verifies
-    target: SYS-D7FGDK
+    target: REQ-B8N38VD
     confirmed: bf329a941699
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

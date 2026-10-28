@@ -1,15 +1,16 @@
 ---
-id: TC-TKWW2D
+id: REQ-W6NJJWD
 type: test-case
 title: Hub verification 29
 status: Approved
 priority: High
 owner: محمد علي
-parent: INFO-ECHASH
-order: 380
+former-id: TC-TKWW2D
+parent: REQ-6H15AV2
+order: ab
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

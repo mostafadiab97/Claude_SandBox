@@ -1,5 +1,5 @@
 ---
-id: IF-4Z8T25
+id: REQ-RAYFETE
 type: interface-requirement
 title: Main PCB restores schedule entries
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: H. Mostafa
 tags:
   - release-2.0
-parent: SYS-K4NJEM
-order: 10
+former-id: IF-4Z8T25
+parent: REQ-PEMQFK5
+order: a0
 links:
   - type: refines
-    target: SYS-K4NJEM
+    target: REQ-PEMQFK5
     confirmed: caa88f61d9bd
 ---
 The enclosure shall switch the operating mode within 200 ms.

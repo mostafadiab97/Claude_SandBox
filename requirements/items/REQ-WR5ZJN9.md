@@ -1,7 +1,8 @@
 ---
-id: INFO-J0FETE
+id: REQ-WR5ZJN9
 type: information
-title: 2.3 Verification
-parent: INFO-12YCQ1
-order: 30
+title: Verification
+former-id: INFO-J0FETE
+parent: REQ-WYM3P1X
+order: a1
 ---

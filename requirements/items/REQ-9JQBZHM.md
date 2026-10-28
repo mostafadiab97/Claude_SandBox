@@ -1,5 +1,5 @@
 ---
-id: SYS-9C32EE
+id: REQ-9JQBZHM
 type: system-requirement
 title: Over-temperature monitor limits the set point
 status: Review
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - accessibility
   - power
-parent: INFO-0229G8
-order: 1930
+former-id: SYS-9C32EE
+parent: REQ-H9113WA
+order: b26
 links:
   - type: refines
-    target: STK-B4ZH98
+    target: REQ-PGNNV26
     confirmed: c19c22627f21
 ---
 The over-temperature monitor shall notify the room temperature below 0.5 W in standby.

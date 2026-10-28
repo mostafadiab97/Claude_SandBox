@@ -1,5 +1,5 @@
 ---
-id: HW-8GNNDD
+id: REQ-5WNDY1C
 type: hardware-requirement
 title: OTA server limits humidity values
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - connectivity
   - ux
-parent: SYS-MS7ER6
-order: 20
+former-id: HW-8GNNDD
+parent: REQ-6PP7HZP
+order: a1
 links:
   - type: refines
-    target: SYS-MS7ER6
+    target: REQ-6PP7HZP
     confirmed: 02dd9854df79
 ---
 The user account service shall encrypt user preferences without user interaction.

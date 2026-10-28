@@ -1,5 +1,5 @@
 ---
-id: TC-3K401R
+id: REQ-SFN8JK5
 type: test-case
 title: "Verify: Home dashboard detects the connection state"
 status: Review
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - accessibility
   - EMC
-parent: INFO-J0FETE
-order: 210
+former-id: TC-3K401R
+parent: REQ-WR5ZJN9
+order: aK
 links:
   - type: verifies
-    target: SYS-PDF1CD
+    target: REQ-C5MK5TB
     confirmed: ba0d0f689c55
 ---
 **Objective:** verify that the home dashboard behaves as specified.

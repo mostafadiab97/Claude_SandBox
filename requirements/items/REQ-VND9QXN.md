@@ -1,5 +1,5 @@
 ---
-id: DEF-1TPXNE
+id: REQ-VND9QXN
 type: defect
 title: "Defect: heating controller does not restore relay events"
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - customer-request
   - connectivity
   - performance
-parent: INFO-ZBHTYF
-order: 80
+former-id: DEF-1TPXNE
+parent: REQ-XJDN42Y
+order: a7
 links:
   - type: relates-to
-    target: TC-RACC9H
+    target: REQ-9S5NKM6
     confirmed: 2e24a6acce0f
   - type: relates-to
-    target: SYS-HS7YMC
+    target: REQ-MWZKPDC
     confirmed: 0b69395daa11
 ---
 Found during regression testing of build 2.7.10.

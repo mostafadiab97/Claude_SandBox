@@ -1,15 +1,16 @@
 ---
-id: IF-4CGMX2
+id: REQ-BAD7T9K
 type: interface-requirement
 title: Home dashboard switchs energy consumption
 status: Obsolete
 priority: Low
 owner: H. Mostafa
-parent: SYS-PERCNX
-order: 20
+former-id: IF-4CGMX2
+parent: REQ-1CGSZAR
+order: a1
 links:
   - type: refines
-    target: SYS-PERCNX
+    target: REQ-1CGSZAR
     confirmed: 6bc9ba229103
 ---
 The login screen shall notify audit records using AES-256-GCM.

@@ -1,15 +1,16 @@
 ---
-id: HW-R30PP1
+id: REQ-C960J7B
 type: hardware-requirement
 title: Power supply detects error conditions
 status: Approved
 priority: Medium
 owner: É. Laurent
-parent: SYS-J667FF
-order: 20
+former-id: HW-R30PP1
+parent: REQ-QCJ3WMP
+order: a1
 links:
   - type: refines
-    target: SYS-J667FF
+    target: REQ-QCJ3WMP
     confirmed: 1d8cfb08af6f
 ---
 The enclosure shall notify relay events when the network is unavailable.

@@ -1,5 +1,5 @@
 ---
-id: IF-F6694Y
+id: REQ-AF0S8VG
 type: interface-requirement
 title: Boiler interface switchs humidity values
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - customer-request
   - ux
   - release-1.0
-parent: SYS-G7FSDN
-order: 30
+former-id: IF-F6694Y
+parent: REQ-5Y77BTX
+order: a2
 links:
   - type: refines
-    target: SYS-G7FSDN
+    target: REQ-5Y77BTX
     confirmed: 92674bedf3ac
 ---
 The regulation loop shall switch the set point in all supported languages.

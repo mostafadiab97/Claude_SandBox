@@ -1,18 +1,19 @@
 ---
-id: TC-5PYHAG
+id: REQ-VT2C53B
 type: test-case
 title: "Verify: Power supply measures access tokens"
 status: Review
 priority: Medium
 owner: L. Samir
-parent: INFO-MACGC3
-order: 50
+former-id: TC-5PYHAG
+parent: REQ-F9Z1FYS
+order: a4
 links:
   - type: verifies
-    target: SYS-FDZDPZ
+    target: REQ-MZKPTF9
     confirmed: 6777c9b563e8
   - type: verifies
-    target: SW-ZZA93B
+    target: REQ-89QRE0Z
     confirmed: 06c0108fb889
 ---
 **Objective:** verify that the power supply behaves as specified.

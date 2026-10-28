@@ -1,15 +1,16 @@
 ---
-id: IF-FTC5A3
+id: REQ-53WZDT6
 type: interface-requirement
 title: Enclosure limits access tokens
 status: Review
 priority: Low
 owner: H. Mostafa
-parent: SYS-VDRW9V
-order: 20
+former-id: IF-FTC5A3
+parent: REQ-RP73624
+order: a1
 links:
   - type: refines
-    target: SYS-VDRW9V
+    target: REQ-RP73624
     confirmed: 0ac53f80c216
 ---
 The relay board shall encrypt user preferences without user interaction.

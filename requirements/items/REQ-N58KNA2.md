@@ -1,5 +1,5 @@
 ---
-id: SW-EKCKBF
+id: REQ-N58KNA2
 type: software-requirement
 title: Notification service limits the connection state
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - i18n
   - ux
-parent: SYS-YX6EBV
-order: 40
+former-id: SW-EKCKBF
+parent: REQ-AJNTHEY
+order: a3
 links:
   - type: refines
-    target: SYS-YX6EBV
+    target: REQ-AJNTHEY
     confirmed: d90c022122ab
 ---
 The mobile app shall display the operating mode in all supported languages.

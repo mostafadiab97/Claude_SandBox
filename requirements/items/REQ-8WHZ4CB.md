@@ -1,14 +1,15 @@
 ---
-id: SW-BQGNZC
+id: REQ-8WHZ4CB
 type: software-requirement
 title: Tamper detection restores schedule entries
 status: Draft
 priority: Medium
-parent: SYS-X6MHYX
-order: 30
+former-id: SW-BQGNZC
+parent: REQ-85Y5X45
+order: a2
 links:
   - type: refines
-    target: SYS-X6MHYX
+    target: REQ-85Y5X45
     confirmed: b63cacdcb2d3
 ---
 The watchdog shall validate error conditions in under 3 s.

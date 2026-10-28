@@ -1,5 +1,5 @@
 ---
-id: SW-QGJY9V
+id: REQ-ABNAEMW
 type: software-requirement
 title: Notification service reports the set point
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - performance
   - release-1.0
-parent: SYS-EN3YXQ
-order: 30
+former-id: SW-QGJY9V
+parent: REQ-YBBPMAY
+order: a2
 links:
   - type: refines
-    target: SYS-EN3YXQ
+    target: REQ-YBBPMAY
     confirmed: 1e489c983669
 ---
 The schedule editor shall notify energy consumption when the network is unavailable.

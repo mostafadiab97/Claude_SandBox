@@ -1,5 +1,5 @@
 ---
-id: SW-08XFNX
+id: REQ-P7GSJF8
 type: software-requirement
 title: Notification service encrypts energy consumption
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - regulatory
-parent: SYS-1G38N7
-order: 30
+former-id: SW-08XFNX
+parent: REQ-0Z7H5M4
+order: a2
 links:
   - type: refines
-    target: SYS-1G38N7
+    target: REQ-0Z7H5M4
     confirmed: 4a4496e229e3
 ---
 The login screen shall authenticate access tokens for at least 10 years.

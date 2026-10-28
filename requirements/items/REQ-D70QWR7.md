@@ -1,5 +1,5 @@
 ---
-id: TC-0BTD18
+id: REQ-D70QWR7
 type: test-case
 title: "Verify: Telemetry pipeline stores safety limits"
 status: Draft
@@ -8,14 +8,15 @@ owner: Y. Saber
 tags:
   - performance
   - cost
-parent: INFO-7P4D8D
-order: 130
+former-id: TC-0BTD18
+parent: REQ-8351896
+order: aC
 links:
   - type: verifies
-    target: SYS-K93N9B
+    target: REQ-ME66BDW
     confirmed: e0ece5df8764
   - type: verifies
-    target: SW-VWQ7VT
+    target: REQ-Q587Y00
     confirmed: dd29aaa02fa0
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

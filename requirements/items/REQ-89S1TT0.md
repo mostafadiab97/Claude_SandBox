@@ -1,5 +1,5 @@
 ---
-id: SW-5888FG
+id: REQ-89S1TT0
 type: software-requirement
 title: Tamper detection encrypts error conditions
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - connectivity
   - release-1.0
   - release-2.0
-parent: SYS-7DF4GN
-order: 10
+former-id: SW-5888FG
+parent: REQ-301HF1Q
+order: a0
 links:
   - type: refines
-    target: SYS-7DF4GN
+    target: REQ-301HF1Q
     confirmed: b8942c9f4893
 ---
 The tamper detection shall limit user preferences for at least 10 years.

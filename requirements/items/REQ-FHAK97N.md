@@ -1,15 +1,16 @@
 ---
-id: HW-3DD1E9
+id: REQ-FHAK97N
 type: hardware-requirement
 title: Report audit records — detail
 status: Draft
 priority: Low
 owner: Y. Saber
-parent: HW-5KC2PJ
-order: 10
+former-id: HW-3DD1E9
+parent: REQ-6DRS9H6
+order: a0
 links:
   - type: refines
-    target: HW-5KC2PJ
+    target: REQ-6DRS9H6
     confirmed: 995251b92766
 ---
 The watchdog shall report error conditions for up to 8 zones.

@@ -1,15 +1,16 @@
 ---
-id: IF-V64VBA
+id: REQ-XCDK8KQ
 type: interface-requirement
 title: Power supply switchs error conditions
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: SYS-3QBDZ4
-order: 30
+former-id: IF-V64VBA
+parent: REQ-X96CFFP
+order: a2
 links:
   - type: refines
-    target: SYS-3QBDZ4
+    target: REQ-X96CFFP
     confirmed: 1ebb264cb27c
 ---
 The enclosure shall validate error conditions for up to 8 zones.

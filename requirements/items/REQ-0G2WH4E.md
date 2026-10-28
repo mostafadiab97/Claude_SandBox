@@ -1,5 +1,5 @@
 ---
-id: IF-ZZ9AP2
+id: REQ-0G2WH4E
 type: interface-requirement
 title: Encrypt audit records — detail
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - performance
   - i18n
   - safety
-parent: IF-CTHBXS
-order: 10
+former-id: IF-ZZ9AP2
+parent: REQ-N9CQ23R
+order: a0
 links:
   - type: refines
-    target: IF-CTHBXS
+    target: REQ-N9CQ23R
     confirmed: 3b681104b057
 ---
 The heat pump driver shall detect energy consumption without user interaction.

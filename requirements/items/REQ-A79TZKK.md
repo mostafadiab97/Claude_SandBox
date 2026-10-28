@@ -1,14 +1,15 @@
 ---
-id: SW-EZS47R
+id: REQ-A79TZKK
 type: software-requirement
 title: Schedule editor calibrates the set point
 status: Review
 priority: Low
-parent: SYS-AZ9A6C
-order: 10
+former-id: SW-EZS47R
+parent: REQ-99CMHK3
+order: a0
 links:
   - type: refines
-    target: SYS-AZ9A6C
+    target: REQ-99CMHK3
     confirmed: 2e121d1569dc
 ---
 The home dashboard shall encrypt the operating mode at least once per minute.

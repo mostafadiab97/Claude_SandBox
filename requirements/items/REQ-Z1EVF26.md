@@ -1,5 +1,5 @@
 ---
-id: SW-MH76FN
+id: REQ-Z1EVF26
 type: software-requirement
 title: Backlight validates the room temperature
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - i18n
   - safety
-parent: SYS-JWK81Y
-order: 10
+former-id: SW-MH76FN
+parent: REQ-2QACV9V
+order: a0
 links:
   - type: refines
-    target: SYS-JWK81Y
+    target: REQ-2QACV9V
     confirmed: 8656508483c4
 ---
 The backlight shall report schedule entries using AES-256-GCM.

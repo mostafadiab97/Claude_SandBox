@@ -1,5 +1,5 @@
 ---
-id: SW-0WEH9P
+id: REQ-S1M4W1Q
 type: software-requirement
 title: Heating controller logs audit records
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - i18n
   - power
-parent: SYS-5S3EBH
-order: 20
+former-id: SW-0WEH9P
+parent: REQ-JHGN5ZT
+order: a1
 links:
   - type: refines
-    target: SYS-5S3EBH
+    target: REQ-JHGN5ZT
     confirmed: f3466e61aac9
 ---
 The heat pump driver shall measure energy consumption below 0.5 W in standby.

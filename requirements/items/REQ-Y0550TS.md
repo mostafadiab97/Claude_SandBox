@@ -1,15 +1,16 @@
 ---
-id: HW-F290A1
+id: REQ-Y0550TS
 type: hardware-requirement
 title: Over-temperature monitor validates the set point
 status: Approved
 priority: Medium
 owner: É. Laurent
-parent: SYS-RT7J5E
-order: 10
+former-id: HW-F290A1
+parent: REQ-H6FFXS1
+order: a0
 links:
   - type: refines
-    target: SYS-RT7J5E
+    target: REQ-H6FFXS1
     confirmed: 179cd4fd7511
 ---
 The watchdog shall log schedule entries for up to 8 zones.

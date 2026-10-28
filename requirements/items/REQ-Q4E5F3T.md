@@ -1,5 +1,5 @@
 ---
-id: SW-QMYZFH
+id: REQ-Q4E5F3T
 type: software-requirement
 title: Store audit records — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - security
   - accessibility
-parent: SW-WZGH76
-order: 10
+former-id: SW-QMYZFH
+parent: REQ-GA9WQGV
+order: a0
 links:
   - type: refines
-    target: SW-WZGH76
+    target: REQ-GA9WQGV
     confirmed: c26d6a231bfa
 ---
 The notification service shall store audit records after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: DE-2E6MGD
+id: REQ-66CKQRN
 type: design-element
 title: Module status_LED_33
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - security
   - connectivity
-parent: SW-SR6XFH
-order: 20
+former-id: DE-2E6MGD
+parent: REQ-1YE6AKS
+order: a1
 links:
   - type: implements
-    target: SW-SR6XFH
+    target: REQ-1YE6AKS
     confirmed: 69647231783e
 ---
 Implemented in `src/ui/status_LED.c`.

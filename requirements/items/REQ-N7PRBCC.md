@@ -1,5 +1,5 @@
 ---
-id: HW-P8EXPM
+id: REQ-N7PRBCC
 type: hardware-requirement
 title: Telemetry pipeline limits the room temperature
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - customer-request
-parent: SYS-59QMSN
-order: 30
+former-id: HW-P8EXPM
+parent: REQ-ZFPAEZP
+order: a2
 links:
   - type: refines
-    target: SYS-59QMSN
+    target: REQ-ZFPAEZP
     confirmed: 261ae2911413
 ---
 The device registry shall log relay events with an accuracy of ±0.5 °C.

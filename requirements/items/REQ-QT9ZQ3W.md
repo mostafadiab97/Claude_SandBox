@@ -1,18 +1,19 @@
 ---
-id: SYS-9W5PJ5
+id: REQ-QT9ZQ3W
 type: system-requirement
 title: Enclosure synchronises energy consumption
 status: Draft
 priority: Low
 owner: M. Farouk
-parent: INFO-A6P9A8
-order: 1670
+former-id: SYS-9W5PJ5
+parent: REQ-CMCS31A
+order: b1g
 links:
   - type: refines
-    target: STK-2STGXE
+    target: REQ-67MQ0AB
     confirmed: c77fe61daf4b
   - type: mitigates
-    target: RSK-4QT8E5
+    target: REQ-TS0SRXD
     confirmed: 062a72678a9e
 ---
 The enclosure shall limit safety limits in all supported languages.

@@ -1,5 +1,5 @@
 ---
-id: DE-9NYK3F
+id: REQ-C4EZS2P
 type: design-element
 title: Module boiler_interface_23
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - security
   - i18n
   - connectivity
-parent: SW-GP7CT1
-order: 10
+former-id: DE-9NYK3F
+parent: REQ-MRCMFAT
+order: a0
 links:
   - type: implements
-    target: SW-GP7CT1
+    target: REQ-MRCMFAT
     confirmed: d7b84a953df0
 ---
 Implemented in `src/heat/boiler_interface.c`.

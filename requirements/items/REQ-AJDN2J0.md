@@ -1,15 +1,16 @@
 ---
-id: DE-3W0MBQ
+id: REQ-AJDN2J0
 type: design-element
 title: Module zone_valve_32
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: SW-EPA3J6
-order: 10
+former-id: DE-3W0MBQ
+parent: REQ-JFZCMPM
+order: a0
 links:
   - type: implements
-    target: SW-EPA3J6
+    target: REQ-JFZCMPM
     confirmed: a826614f2a3f
 ---
 Implemented in `src/heat/zone_valve.c`.

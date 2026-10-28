@@ -1,5 +1,5 @@
 ---
-id: SW-1DTJE9
+id: REQ-S9PP68K
 type: software-requirement
 title: Telemetry pipeline notifys error conditions
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - i18n
   - release-2.0
-parent: SYS-C084T6
-order: 20
+former-id: SW-1DTJE9
+parent: REQ-MXBKVNX
+order: a1
 links:
   - type: refines
-    target: SYS-C084T6
+    target: REQ-MXBKVNX
     confirmed: 60b474ed648f
 ---
 The cloud backend shall limit energy consumption for at least 10 years.

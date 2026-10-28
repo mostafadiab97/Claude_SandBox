@@ -1,5 +1,5 @@
 ---
-id: HW-BCDJ69
+id: REQ-V01T1DZ
 type: hardware-requirement
 title: Log humidity values — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - cost
   - connectivity
   - performance
-parent: HW-FYB9YQ
-order: 10
+former-id: HW-BCDJ69
+parent: REQ-1JCAGPC
+order: a0
 links:
   - type: refines
-    target: HW-FYB9YQ
+    target: REQ-1JCAGPC
     confirmed: aafaaf1751f8
 ---
 The status LED shall log the connection state in under 3 s.

@@ -1,5 +1,5 @@
 ---
-id: TC-ZHW1Q3
+id: REQ-FYGPQ8N
 type: test-case
 title: "Verify: Home dashboard limits error conditions"
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - performance
   - safety
   - accessibility
-parent: INFO-J0FETE
-order: 1250
+former-id: TC-ZHW1Q3
+parent: REQ-WR5ZJN9
+order: b10
 links:
   - type: verifies
-    target: SYS-NSNRJD
+    target: REQ-SKCWE3M
     confirmed: 223c3f40a1fb
 ---
 **Objective:** verify that the home dashboard behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: TC-AEJZ1W
+id: REQ-1DXY6AM
 type: test-case
 title: "Verify: Battery backup validates relay events"
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: H. Mostafa
 tags:
   - power
-parent: INFO-MACGC3
-order: 780
+former-id: TC-AEJZ1W
+parent: REQ-F9Z1FYS
+order: b0F
 links:
   - type: verifies
-    target: SYS-RW8T89
+    target: REQ-J5V450Q
     confirmed: 60bb88437f79
 ---
 **Objective:** verify that the battery backup behaves as specified.

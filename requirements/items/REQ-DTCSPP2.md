@@ -1,15 +1,16 @@
 ---
-id: SW-R98EXW
+id: REQ-DTCSPP2
 type: software-requirement
 title: Login screen limits humidity values
 status: Draft
 priority: Medium
 owner: J. Müller
-parent: SYS-69PVAQ
-order: 20
+former-id: SW-R98EXW
+parent: REQ-HE93KC3
+order: a1
 links:
   - type: refines
-    target: SYS-69PVAQ
+    target: REQ-HE93KC3
     confirmed: 4743caaf44a6
 ---
 The mobile app shall calibrate relay events within 200 ms.

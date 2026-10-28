@@ -1,5 +1,5 @@
 ---
-id: HW-ZX1DEQ
+id: REQ-FXHZD8M
 type: hardware-requirement
 title: Battery backup encrypts the room temperature
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - EMC
   - i18n
-parent: SYS-JJBC0A
-order: 10
+former-id: HW-ZX1DEQ
+parent: REQ-ZSED8RM
+order: a0
 links:
   - type: refines
-    target: SYS-JJBC0A
+    target: REQ-ZSED8RM
     confirmed: 33302d5c9847
 ---
 The power supply shall limit user preferences using AES-256-GCM.

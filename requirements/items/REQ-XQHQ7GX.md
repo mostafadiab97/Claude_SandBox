@@ -1,5 +1,5 @@
 ---
-id: HW-983FHM
+id: REQ-XQHQ7GX
 type: hardware-requirement
 title: User account service calibrates audit records
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - performance
   - i18n
   - EMC
-parent: SYS-0HAZNH
-order: 20
+former-id: HW-983FHM
+parent: REQ-YP9B1S9
+order: a1
 links:
   - type: refines
-    target: SYS-0HAZNH
+    target: REQ-YP9B1S9
     confirmed: 8fef3f917b7b
 ---
 The cloud backend shall report sensor readings using AES-256-GCM.

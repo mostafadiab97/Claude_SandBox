@@ -1,5 +1,5 @@
 ---
-id: SW-QFY23Q
+id: REQ-K677NCJ
 type: software-requirement
 title: Heat pump driver detects relay events
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - regulatory
   - performance
-parent: SYS-MEFF8R
-order: 20
+former-id: SW-QFY23Q
+parent: REQ-CQQM0M4
+order: a1
 links:
   - type: refines
-    target: SYS-MEFF8R
+    target: REQ-CQQM0M4
     confirmed: f144cf8852e5
 ---
 The heating controller shall authenticate the operating mode using AES-256-GCM.

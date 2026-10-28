@@ -1,15 +1,16 @@
 ---
-id: HW-P817AD
+id: REQ-PM5JWYV
 type: hardware-requirement
 title: Home dashboard switchs the room temperature
 status: Review
 priority: Medium
 owner: Y. Saber
-parent: SYS-MTM77X
-order: 30
+former-id: HW-P817AD
+parent: REQ-1AETXCX
+order: a2
 links:
   - type: refines
-    target: SYS-MTM77X
+    target: REQ-1AETXCX
     confirmed: 9fccf544d618
 ---
 The schedule editor shall notify the room temperature after a power loss.

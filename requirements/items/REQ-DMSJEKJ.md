@@ -1,15 +1,16 @@
 ---
-id: IF-86MKPS
+id: REQ-DMSJEKJ
 type: interface-requirement
 title: Limit sensor readings — detail
 status: Obsolete
 priority: Medium
 owner: M. Farouk
-parent: IF-BXKZV6
-order: 10
+former-id: IF-86MKPS
+parent: REQ-MP516ND
+order: a0
 links:
   - type: refines
-    target: IF-BXKZV6
+    target: REQ-MP516ND
     confirmed: 5118e49b8488
 ---
 The user account service shall encrypt the operating mode in under 3 s.

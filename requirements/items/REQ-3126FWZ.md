@@ -1,5 +1,5 @@
 ---
-id: IF-XQ8VAX
+id: REQ-3126FWZ
 type: interface-requirement
 title: Encrypt the set point — detail
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - safety
   - accessibility
   - i18n
-parent: IF-QMSWQW
-order: 10
+former-id: IF-XQ8VAX
+parent: REQ-KFDR12H
+order: a0
 links:
   - type: refines
-    target: IF-QMSWQW
+    target: REQ-KFDR12H
     confirmed: 93187a110299
 ---
 The main PCB shall store safety limits using AES-256-GCM.

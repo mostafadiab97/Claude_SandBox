@@ -1,5 +1,5 @@
 ---
-id: SW-WZEGWZ
+id: REQ-RQCFXBG
 type: software-requirement
 title: Telemetry pipeline switchs audit records
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - power
   - safety
-parent: SYS-J6RJYD
-order: 30
+former-id: SW-WZEGWZ
+parent: REQ-JFVQGH6
+order: a2
 links:
   - type: refines
-    target: SYS-J6RJYD
+    target: REQ-JFVQGH6
     confirmed: a893bb1c8e2d
 ---
 The user account service shall calibrate error conditions for at least 10 years.

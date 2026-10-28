@@ -1,17 +1,18 @@
 ---
-id: TC-XTM095
+id: REQ-TZJ78H8
 type: test-case
 title: "Verify: Wi-Fi module reports audit records"
 status: Obsolete
 owner: محمد علي
-parent: INFO-F0M7VC
-order: 920
+former-id: TC-XTM095
+parent: REQ-67RQXCK
+order: b0T
 links:
   - type: verifies
-    target: SYS-TRKV8X
+    target: REQ-NRK05CG
     confirmed: 598d6ef77c60
   - type: verifies
-    target: SW-JRSXRR
+    target: REQ-PC34Y08
     confirmed: 1355ccce7c2e
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

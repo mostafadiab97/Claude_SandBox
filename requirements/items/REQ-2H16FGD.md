@@ -1,15 +1,16 @@
 ---
-id: TC-YHGJWN
+id: REQ-2H16FGD
 type: test-case
 title: "Verify: Bluetooth LE link synchronises relay events"
 status: Approved
 priority: Low
 owner: J. Müller
-parent: INFO-F0M7VC
-order: 1090
+former-id: TC-YHGJWN
+parent: REQ-67RQXCK
+order: b0k
 links:
   - type: verifies
-    target: SYS-8HC07S
+    target: REQ-07KDR3K
     confirmed: edacad3b5f35
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

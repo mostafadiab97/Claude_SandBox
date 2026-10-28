@@ -1,5 +1,5 @@
 ---
-id: SYS-1K9BKF
+id: REQ-SCPDQHF
 type: system-requirement
 title: Battery backup stores audit records
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - security
   - accessibility
   - safety
-parent: INFO-A6P9A8
-order: 290
+former-id: SYS-1K9BKF
+parent: REQ-CMCS31A
+order: aS
 links:
   - type: refines
-    target: STK-M28XWW
+    target: REQ-2678XV5
     confirmed: bcf262f10744
 ---
 The battery backup shall validate the room temperature below 0.5 W in standby.

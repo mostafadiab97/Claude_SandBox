@@ -1,5 +1,5 @@
 ---
-id: IF-BMFQ63
+id: REQ-TQ48F60
 type: interface-requirement
 title: "Signal 395: relay events"
 status: Review
@@ -8,7 +8,8 @@ tags:
   - accessibility
   - i18n
   - power
-parent: INFO-2TM0JP
-order: 3950
+former-id: IF-BMFQ63
+parent: REQ-RJ0KHPT
+order: b5M
 ---
 Interface signal number 395.

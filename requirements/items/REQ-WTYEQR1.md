@@ -1,5 +1,5 @@
 ---
-id: SYS-V8VVYW
+id: REQ-WTYEQR1
 type: system-requirement
 title: Rotary knob validates schedule entries
 status: Obsolete
@@ -7,14 +7,15 @@ priority: Low
 owner: S. Adel
 tags:
   - power
-parent: INFO-PDR6FV
-order: 1420
+former-id: SYS-V8VVYW
+parent: REQ-2ZA2TRZ
+order: b1H
 links:
   - type: refines
-    target: STK-35QR7F
+    target: REQ-QCK2ZS7
     confirmed: bc1aebb7918d
   - type: mitigates
-    target: RSK-81XFR0
+    target: REQ-E5T2N3D
     confirmed: df837fe8b253
 ---
 The rotary knob shall detect user preferences for up to 8 zones.

@@ -1,5 +1,5 @@
 ---
-id: IF-9Q05H5
+id: REQ-TH1M127
 type: interface-requirement
 title: Wi-Fi module calibrates sensor readings
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - release-1.0
   - connectivity
-parent: SYS-2N03B4
-order: 20
+former-id: IF-9Q05H5
+parent: REQ-AQ8M0XJ
+order: a1
 links:
   - type: refines
-    target: SYS-2N03B4
+    target: REQ-AQ8M0XJ
     confirmed: 9597e83a664b
 ---
 The Bluetooth LE link shall report humidity values for up to 8 zones.

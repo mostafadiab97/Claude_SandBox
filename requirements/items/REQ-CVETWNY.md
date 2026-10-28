@@ -1,16 +1,17 @@
 ---
-id: HW-6ZKX9C
+id: REQ-CVETWNY
 type: hardware-requirement
 title: Heating controller encrypts the operating mode
 status: Draft
 priority: High
 tags:
   - i18n
-parent: SYS-6SJ3GD
-order: 10
+former-id: HW-6ZKX9C
+parent: REQ-DESXWYX
+order: a0
 links:
   - type: refines
-    target: SYS-6SJ3GD
+    target: REQ-DESXWYX
     confirmed: af53245ff967
 ---
 The boiler interface shall encrypt humidity values below 0.5 W in standby.

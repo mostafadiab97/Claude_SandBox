@@ -1,11 +1,12 @@
 ---
-id: IF-BF4KP0
+id: REQ-2HRF7XJ
 type: interface-requirement
 title: "Signal 034: energy consumption"
 status: Approved
 priority: High
 owner: H. Mostafa
-parent: INFO-2TM0JP
-order: 340
+former-id: IF-BF4KP0
+parent: REQ-RJ0KHPT
+order: aX
 ---
 Interface signal number 34.

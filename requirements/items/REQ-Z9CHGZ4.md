@@ -1,16 +1,17 @@
 ---
-id: HW-PKHA8W
+id: REQ-Z9CHGZ4
 type: hardware-requirement
 title: OTA server displays user preferences
 status: Approved
 owner: K. Tanaka
 tags:
   - safety
-parent: SYS-PF652Q
-order: 20
+former-id: HW-PKHA8W
+parent: REQ-EEZQ79J
+order: a1
 links:
   - type: refines
-    target: SYS-PF652Q
+    target: REQ-EEZQ79J
     confirmed: a1604d2a8c0c
 ---
 The user account service shall log audit records with an accuracy of ±0.5 °C.

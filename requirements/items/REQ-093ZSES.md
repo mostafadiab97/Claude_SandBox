@@ -1,5 +1,5 @@
 ---
-id: SW-YD7QZF
+id: REQ-093ZSES
 type: software-requirement
 title: Detect energy consumption — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - release-2.0
   - release-1.0
-parent: SW-6AE281
-order: 10
+former-id: SW-YD7QZF
+parent: REQ-F6J8ES1
+order: a0
 links:
   - type: refines
-    target: SW-6AE281
+    target: REQ-F6J8ES1
     confirmed: 333cc4a9e3b3
 ---
 The menu system shall report the connection state after a power loss.

@@ -1,15 +1,16 @@
 ---
-id: SW-VQGWRM
+id: REQ-WVXXQG5
 type: software-requirement
 title: Telemetry pipeline measures the connection state
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: SYS-3MCFDD
-order: 30
+former-id: SW-VQGWRM
+parent: REQ-89S1J9Z
+order: a2
 links:
   - type: refines
-    target: SYS-3MCFDD
+    target: REQ-89S1J9Z
     confirmed: a0fea72fbd43
 ---
 The telemetry pipeline shall switch firmware images in under 3 s.

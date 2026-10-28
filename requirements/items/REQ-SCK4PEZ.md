@@ -1,5 +1,5 @@
 ---
-id: IF-5ANDXA
+id: REQ-SCK4PEZ
 type: interface-requirement
 title: "Signal 059: firmware images"
 status: Approved
@@ -9,7 +9,8 @@ tags:
   - ux
   - safety
   - release-1.0
-parent: INFO-2TM0JP
-order: 590
+former-id: IF-5ANDXA
+parent: REQ-RJ0KHPT
+order: aw
 ---
 Interface signal number 59.

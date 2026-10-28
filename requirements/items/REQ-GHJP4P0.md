@@ -1,15 +1,16 @@
 ---
-id: TC-5RW8ED
+id: REQ-GHJP4P0
 type: test-case
 title: Hub verification 13
 status: Approved
 priority: High
 owner: J. Müller
-parent: INFO-ECHASH
-order: 220
+former-id: TC-5RW8ED
+parent: REQ-6H15AV2
+order: aL
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

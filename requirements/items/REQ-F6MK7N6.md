@@ -1,5 +1,5 @@
 ---
-id: SW-A7MPWE
+id: REQ-F6MK7N6
 type: software-requirement
 title: Backlight restores safety limits
 status: Draft
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - connectivity
   - release-2.0
-parent: SYS-DVK0ST
-order: 10
+former-id: SW-A7MPWE
+parent: REQ-9V4ZDEE
+order: a0
 links:
   - type: refines
-    target: SYS-DVK0ST
+    target: REQ-9V4ZDEE
     confirmed: "123689018215"
 ---
 The menu system shall restore the room temperature at least once per minute.

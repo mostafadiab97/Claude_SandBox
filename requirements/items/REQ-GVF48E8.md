@@ -1,5 +1,5 @@
 ---
-id: SW-H1GSEF
+id: REQ-GVF48E8
 type: software-requirement
 title: Wi-Fi module logs audit records
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: L. Samir
 tags:
   - security
-parent: SYS-DHBZX2
-order: 20
+former-id: SW-H1GSEF
+parent: REQ-JQ5W7ER
+order: a1
 links:
   - type: refines
-    target: SYS-DHBZX2
+    target: REQ-JQ5W7ER
     confirmed: f269617e5175
 ---
 The pairing process shall encrypt error conditions in all supported languages.

@@ -1,5 +1,5 @@
 ---
-id: SW-Z8DG9W
+id: REQ-Q7Z4R36
 type: software-requirement
 title: Watchdog validates schedule entries
 status: Review
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - security
   - EMC
-parent: SYS-MAHRKG
-order: 20
+former-id: SW-Z8DG9W
+parent: REQ-ZPN2MM7
+order: a1
 links:
   - type: refines
-    target: SYS-MAHRKG
+    target: REQ-ZPN2MM7
     confirmed: 1818eb6c7e09
 ---
 The over-temperature monitor shall store user preferences below 0.5 W in standby.

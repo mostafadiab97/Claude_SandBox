@@ -1,5 +1,5 @@
 ---
-id: HW-75B253
+id: REQ-QW9S5Q3
 type: hardware-requirement
 title: Limit relay events — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - regulatory
-parent: HW-T95JTH
-order: 10
+former-id: HW-75B253
+parent: REQ-3BEP8HY
+order: a0
 links:
   - type: refines
-    target: HW-T95JTH
+    target: REQ-3BEP8HY
     confirmed: 81988d80505b
 ---
 The local API shall calibrate the connection state after a power loss.

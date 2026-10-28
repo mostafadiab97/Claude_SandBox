@@ -1,5 +1,5 @@
 ---
-id: TC-P7028Q
+id: REQ-6PVAGDD
 type: test-case
 title: "Verify: Zigbee radio reports the set point"
 status: Draft
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - accessibility
   - EMC
-parent: INFO-F0M7VC
-order: 340
+former-id: TC-P7028Q
+parent: REQ-67RQXCK
+order: aX
 links:
   - type: verifies
-    target: SYS-MYRTKC
+    target: REQ-V4M0FNZ
     confirmed: ba220c3ea923
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

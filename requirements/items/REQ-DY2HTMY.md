@@ -1,14 +1,15 @@
 ---
-id: SYS-0DYZ84
+id: REQ-DY2HTMY
 type: system-requirement
 title: Heat pump driver measures the connection state
 status: Approved
 owner: É. Laurent
-parent: INFO-6DQTKV
-order: 1640
+former-id: SYS-0DYZ84
+parent: REQ-7ED7ZET
+order: b1d
 links:
   - type: refines
-    target: STK-EWSQ9Z
+    target: REQ-GXKEHF3
     confirmed: aa5e4143dbe7
 ---
 The heat pump driver shall authenticate relay events after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: IF-VC1WHE
+id: REQ-NTAT1EB
 type: interface-requirement
 title: Power supply detects the room temperature
 status: Obsolete
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - connectivity
   - EMC
-parent: SYS-9W5PJ5
-order: 10
+former-id: IF-VC1WHE
+parent: REQ-QT9ZQ3W
+order: a0
 links:
   - type: refines
-    target: SYS-9W5PJ5
+    target: REQ-QT9ZQ3W
     confirmed: f35119afdb2b
 ---
 The enclosure shall synchronise schedule entries using AES-256-GCM.

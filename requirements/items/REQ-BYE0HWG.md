@@ -1,5 +1,5 @@
 ---
-id: SW-KN5R52
+id: REQ-BYE0HWG
 type: software-requirement
 title: Secure boot reports safety limits
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: M. Farouk
 tags:
   - connectivity
-parent: SYS-HMK3XJ
-order: 10
+former-id: SW-KN5R52
+parent: REQ-RNCD05K
+order: a0
 links:
   - type: refines
-    target: SYS-HMK3XJ
+    target: REQ-RNCD05K
     confirmed: 243ec13ec9e6
 ---
 The secure boot shall synchronise humidity values using AES-256-GCM.

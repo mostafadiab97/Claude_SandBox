@@ -1,5 +1,5 @@
 ---
-id: IF-7C1D3H
+id: REQ-KBHN0RP
 type: interface-requirement
 title: "Signal 536: relay events"
 status: Draft
@@ -8,7 +8,8 @@ tags:
   - EMC
   - accessibility
   - safety
-parent: INFO-2TM0JP
-order: 5360
+former-id: IF-7C1D3H
+parent: REQ-RJ0KHPT
+order: b7d
 ---
 Interface signal number 536.

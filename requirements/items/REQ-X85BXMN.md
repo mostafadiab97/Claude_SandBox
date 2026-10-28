@@ -1,5 +1,5 @@
 ---
-id: SYS-A6N02X
+id: REQ-X85BXMN
 type: system-requirement
 title: Main PCB authenticates the set point
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - regulatory
-parent: INFO-A6P9A8
-order: 2140
+former-id: SYS-A6N02X
+parent: REQ-CMCS31A
+order: b2R
 links:
   - type: refines
-    target: STK-TT8FXG
+    target: REQ-S1GZKZX
     confirmed: 85d87c7e9a76
 ---
 The main PCB shall detect humidity values after a power loss.

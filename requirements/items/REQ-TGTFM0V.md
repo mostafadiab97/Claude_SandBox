@@ -1,14 +1,15 @@
 ---
-id: SW-3JMDD4
+id: REQ-TGTFM0V
 type: software-requirement
 title: Over-temperature monitor calibrates audit records
 status: Review
 owner: J. Müller
-parent: SYS-8MMGZP
-order: 20
+former-id: SW-3JMDD4
+parent: REQ-PAY0TEM
+order: a1
 links:
   - type: refines
-    target: SYS-8MMGZP
+    target: REQ-PAY0TEM
     confirmed: 2ba99c4bfc3a
 ---
 The watchdog shall validate user preferences without user interaction.

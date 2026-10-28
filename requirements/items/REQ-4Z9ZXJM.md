@@ -1,15 +1,16 @@
 ---
-id: TC-J2ZP0Y
+id: REQ-4Z9ZXJM
 type: test-case
 title: "Verify: Status LED switchs sensor readings"
 status: Review
 priority: Medium
 owner: K. Tanaka
-parent: INFO-HTSZ15
-order: 160
+former-id: TC-J2ZP0Y
+parent: REQ-Y9VHHKA
+order: aF
 links:
   - type: verifies
-    target: SYS-CH0H2M
+    target: REQ-6PD797G
     confirmed: dcde66db1e30
 ---
 **Objective:** verify that the status LED behaves as specified.

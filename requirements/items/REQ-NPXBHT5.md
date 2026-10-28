@@ -1,5 +1,5 @@
 ---
-id: HW-H0MEE5
+id: REQ-NPXBHT5
 type: hardware-requirement
 title: Enclosure measures humidity values
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - power
   - regulatory
-parent: SYS-SGGFKV
-order: 30
+former-id: HW-H0MEE5
+parent: REQ-E8T9V5N
+order: a2
 links:
   - type: refines
-    target: SYS-SGGFKV
+    target: REQ-E8T9V5N
     confirmed: 04cafacc256c
 ---
 The main PCB shall validate user preferences for up to 8 zones.

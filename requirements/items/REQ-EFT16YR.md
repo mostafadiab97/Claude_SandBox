@@ -1,5 +1,5 @@
 ---
-id: TC-QGS26A
+id: REQ-EFT16YR
 type: test-case
 title: "Verify: Local API limits audit records"
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - connectivity
-parent: INFO-F0M7VC
-order: 160
+former-id: TC-QGS26A
+parent: REQ-67RQXCK
+order: aF
 links:
   - type: verifies
-    target: SYS-N3WYBE
+    target: REQ-HKRTMR7
     confirmed: 7445dfc2f902
   - type: verifies
-    target: SW-CKV9F9
+    target: REQ-TAFPDKJ
     confirmed: fe421b8ece61
 ---
 **Objective:** verify that the local API behaves as specified.

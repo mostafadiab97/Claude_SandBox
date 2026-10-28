@@ -1,11 +1,12 @@
 ---
-id: RSK-V6W5F6
+id: REQ-AWHM9WH
 type: risk
 title: "Risk: touch display fails to notify access tokens"
 status: Draft
 priority: Medium
-parent: INFO-0V9DV4
-order: 30
+former-id: RSK-V6W5F6
+parent: REQ-HHCVAFQ
+order: a2
 ---
 **Hazard:** the touch display could fail to restore the operating mode.
 

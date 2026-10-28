@@ -1,5 +1,5 @@
 ---
-id: IF-X31TRS
+id: REQ-6H8AMB8
 type: interface-requirement
 title: "Signal 144: the room temperature"
 status: Approved
@@ -8,7 +8,8 @@ tags:
   - safety
   - connectivity
   - cost
-parent: INFO-2TM0JP
-order: 1440
+former-id: IF-X31TRS
+parent: REQ-RJ0KHPT
+order: b1J
 ---
 Interface signal number 144.

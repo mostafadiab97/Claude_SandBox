@@ -1,5 +1,5 @@
 ---
-id: TC-YKX8D2
+id: REQ-1M8ESMY
 type: test-case
 title: "Verify: Login screen stores access tokens"
 status: Approved
@@ -7,11 +7,12 @@ owner: R. Nabil
 tags:
   - security
   - i18n
-parent: INFO-J0FETE
-order: 1030
+former-id: TC-YKX8D2
+parent: REQ-WR5ZJN9
+order: b0e
 links:
   - type: verifies
-    target: SYS-72TJ12
+    target: REQ-T1DR5KS
     confirmed: f925a1940bd6
 ---
 **Objective:** verify that the login screen behaves as specified.

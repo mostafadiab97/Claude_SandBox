@@ -1,5 +1,5 @@
 ---
-id: SW-HV8A0B
+id: REQ-M2B2DXT
 type: software-requirement
 title: Log the operating mode — detail
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: K. Tanaka
 tags:
   - customer-request
-parent: SW-D06R0N
-order: 10
+former-id: SW-HV8A0B
+parent: REQ-RMS428M
+order: a0
 links:
   - type: refines
-    target: SW-D06R0N
+    target: REQ-RMS428M
     confirmed: c565d039e2cb
 ---
 The regulation loop shall notify sensor readings for up to 8 zones.

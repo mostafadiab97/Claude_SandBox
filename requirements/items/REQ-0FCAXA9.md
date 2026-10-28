@@ -1,5 +1,5 @@
 ---
-id: TC-Q0F264
+id: REQ-0FCAXA9
 type: test-case
 title: Hub verification 36
 status: Approved
@@ -7,11 +7,12 @@ owner: N. Kamal
 tags:
   - performance
   - customer-request
-parent: INFO-ECHASH
-order: 450
+former-id: TC-Q0F264
+parent: REQ-6H15AV2
+order: ai
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

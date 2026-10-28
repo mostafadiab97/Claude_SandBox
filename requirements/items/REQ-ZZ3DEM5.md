@@ -1,14 +1,15 @@
 ---
-id: TC-41M1Z7
+id: REQ-ZZ3DEM5
 type: test-case
 title: "Regression: Enclosure calibrates firmware images"
 status: Draft
 owner: É. Laurent
-parent: INFO-ECHASH
-order: 1590
+former-id: TC-41M1Z7
+parent: REQ-6H15AV2
+order: b1Y
 links:
   - type: verifies
-    target: SYS-TTC476
+    target: REQ-79Q9433
     confirmed: fcf4c01f1afd
 ---
 **Objective:** verify that the device behaves as specified.

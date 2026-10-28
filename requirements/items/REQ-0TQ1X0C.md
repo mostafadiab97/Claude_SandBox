@@ -1,5 +1,5 @@
 ---
-id: HW-SJVQBM
+id: REQ-0TQ1X0C
 type: hardware-requirement
 title: Secure boot logs sensor readings
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - security
-parent: SYS-971VHG
-order: 10
+former-id: HW-SJVQBM
+parent: REQ-GN2MB6D
+order: a0
 links:
   - type: refines
-    target: SYS-971VHG
+    target: REQ-GN2MB6D
     confirmed: e3ab47cee338
 ---
 The tamper detection shall notify sensor readings without user interaction.

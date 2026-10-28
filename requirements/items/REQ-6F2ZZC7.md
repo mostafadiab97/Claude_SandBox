@@ -1,5 +1,5 @@
 ---
-id: SYS-HEVMYH
+id: REQ-6F2ZZC7
 type: system-requirement
 title: Battery backup stores safety limits
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - release-2.0
   - security
   - release-1.0
-parent: INFO-A6P9A8
-order: 1320
+former-id: SYS-HEVMYH
+parent: REQ-CMCS31A
+order: b17
 links:
   - type: refines
-    target: STK-Y4WG9E
+    target: REQ-Z62Y5S5
     confirmed: 9c3c4f9c0995
 ---
 The battery backup shall detect the connection state using AES-256-GCM.

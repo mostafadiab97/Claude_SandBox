@@ -1,16 +1,17 @@
 ---
-id: IF-14B3H5
+id: REQ-SV53VWZ
 type: interface-requirement
 title: Status LED notifys user preferences
 status: Approved
 priority: High
 tags:
   - power
-parent: SYS-34B7MH
-order: 10
+former-id: IF-14B3H5
+parent: REQ-ED37SCP
+order: a0
 links:
   - type: refines
-    target: SYS-34B7MH
+    target: REQ-ED37SCP
     confirmed: 9aafb86ae7fb
 ---
 The menu system shall notify safety limits when the network is unavailable.

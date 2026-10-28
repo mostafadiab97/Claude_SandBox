@@ -1,5 +1,5 @@
 ---
-id: SYS-DVK0ST
+id: REQ-9V4ZDEE
 type: system-requirement
 title: Menu system stores sensor readings
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - regulatory
   - connectivity
-parent: INFO-PDR6FV
-order: 1980
+former-id: SYS-DVK0ST
+parent: REQ-2ZA2TRZ
+order: b2B
 links:
   - type: refines
-    target: STK-KPV71Q
+    target: REQ-VQBZQVC
     confirmed: 10d9c216aea2
 ---
 The menu system shall calibrate sensor readings at least once per minute.

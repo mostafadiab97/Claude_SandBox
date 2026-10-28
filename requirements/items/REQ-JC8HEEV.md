@@ -1,5 +1,5 @@
 ---
-id: IF-36SRZT
+id: REQ-JC8HEEV
 type: interface-requirement
 title: "Signal 512: access tokens"
 status: Draft
@@ -9,7 +9,8 @@ tags:
   - connectivity
   - performance
   - security
-parent: INFO-2TM0JP
-order: 5120
+former-id: IF-36SRZT
+parent: REQ-RJ0KHPT
+order: b7F
 ---
 Interface signal number 512.

@@ -1,15 +1,16 @@
 ---
-id: TC-0RNA88
+id: REQ-64EZ26N
 type: test-case
 title: "Verify: Over-temperature monitor validates energy consumption"
 status: Approved
 priority: Low
 owner: S. Adel
-parent: INFO-Z4TW4B
-order: 300
+former-id: TC-0RNA88
+parent: REQ-K6FGAY0
+order: aT
 links:
   - type: verifies
-    target: SYS-K6B6KX
+    target: REQ-H6FDKCE
     confirmed: b81585ff6f2b
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

@@ -1,14 +1,15 @@
 ---
-id: SW-QC9493
+id: REQ-SSJ0HPK
 type: software-requirement
 title: Device registry detects access tokens
 status: Approved
 owner: R. Nabil
-parent: SYS-GBTGV5
-order: 20
+former-id: SW-QC9493
+parent: REQ-5RN3ZTR
+order: a1
 links:
   - type: refines
-    target: SYS-GBTGV5
+    target: REQ-5RN3ZTR
     confirmed: 3f594322748c
 ---
 The device registry shall calibrate user preferences for at least 10 years.

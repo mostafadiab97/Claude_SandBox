@@ -1,5 +1,5 @@
 ---
-id: SW-ZS27TP
+id: REQ-W1PFRT4
 type: software-requirement
 title: Device registry restores the connection state
 status: Review
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - EMC
   - ux
-parent: SYS-X4ZQAJ
-order: 30
+former-id: SW-ZS27TP
+parent: REQ-A5VJKDZ
+order: a2
 links:
   - type: refines
-    target: SYS-X4ZQAJ
+    target: REQ-A5VJKDZ
     confirmed: 6b28de77da9f
 ---
 The telemetry pipeline shall encrypt humidity values below 0.5 W in standby.

@@ -1,5 +1,5 @@
 ---
-id: IF-FQ9AW4
+id: REQ-8Z78X6J
 type: interface-requirement
 title: Battery backup reports the set point
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: S. Adel
 tags:
   - power
-parent: SYS-CZFHR4
-order: 20
+former-id: IF-FQ9AW4
+parent: REQ-M632RZ1
+order: a1
 links:
   - type: refines
-    target: SYS-CZFHR4
+    target: REQ-M632RZ1
     confirmed: b242da2e0a56
 ---
 The main PCB shall notify schedule entries for up to 8 zones.

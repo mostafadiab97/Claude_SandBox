@@ -1,5 +1,5 @@
 ---
-id: TC-9X3GV7
+id: REQ-T4QH446
 type: test-case
 title: "Regression: Zone valve notifys the connection state"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: S. Adel
 tags:
   - accessibility
-parent: INFO-ECHASH
-order: 1700
+former-id: TC-9X3GV7
+parent: REQ-6H15AV2
+order: b1j
 links:
   - type: verifies
-    target: SYS-2GY8ED
+    target: REQ-JE2A5W1
     confirmed: af1bc2a80b1d
 ---
 **Objective:** verify that the device behaves as specified.

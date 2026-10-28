@@ -1,15 +1,16 @@
 ---
-id: TC-87Z4K0
+id: REQ-3PCK61Y
 type: test-case
 title: "Regression: Local API stores user preferences"
 status: Review
 priority: Medium
 owner: M. Farouk
-parent: INFO-ECHASH
-order: 2010
+former-id: TC-87Z4K0
+parent: REQ-6H15AV2
+order: b2E
 links:
   - type: verifies
-    target: SYS-RF310F
+    target: REQ-HMAJH78
     confirmed: bc4cb8d2d781
 ---
 **Objective:** verify that the device behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: TC-QB9XJ5
+id: REQ-DGJP2BY
 type: test-case
 title: "Verify: Relay board validates sensor readings"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - security
-parent: INFO-MACGC3
-order: 1520
+former-id: TC-QB9XJ5
+parent: REQ-F9Z1FYS
+order: b1R
 links:
   - type: verifies
-    target: SYS-9FNKPM
+    target: REQ-02W5PGR
     confirmed: c8a11d5e856a
 ---
 **Objective:** verify that the relay board behaves as specified.

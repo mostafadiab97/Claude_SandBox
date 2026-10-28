@@ -1,5 +1,5 @@
 ---
-id: SW-ZD6MAN
+id: REQ-3YBWAHY
 type: software-requirement
 title: Home dashboard limits relay events
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - power
   - cost
-parent: SYS-TE4YGF
-order: 30
+former-id: SW-ZD6MAN
+parent: REQ-6FCJ9N0
+order: a2
 links:
   - type: refines
-    target: SYS-TE4YGF
+    target: REQ-6FCJ9N0
     confirmed: 7a16860169f9
 ---
 The schedule editor shall limit access tokens with an accuracy of ±0.5 °C.

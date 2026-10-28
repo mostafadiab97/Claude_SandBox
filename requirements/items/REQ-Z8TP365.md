@@ -1,18 +1,19 @@
 ---
-id: TC-WA0GZN
+id: REQ-Z8TP365
 type: test-case
 title: "Verify: Home dashboard measures user preferences"
 status: Review
 priority: High
 owner: محمد علي
-parent: INFO-J0FETE
-order: 1100
+former-id: TC-WA0GZN
+parent: REQ-WR5ZJN9
+order: b0l
 links:
   - type: verifies
-    target: SYS-H6D9Y3
+    target: REQ-5YMNSFC
     confirmed: 01ab1874e635
   - type: verifies
-    target: SW-44307Q
+    target: REQ-JFY1Z87
     confirmed: 9cdba3274e95
 ---
 **Objective:** verify that the home dashboard behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: IF-52ZC9A
+id: REQ-XNCWR4J
 type: interface-requirement
 title: "Signal 433: energy consumption"
 status: Review
@@ -8,7 +8,8 @@ tags:
   - EMC
   - power
   - accessibility
-parent: INFO-2TM0JP
-order: 4330
+former-id: IF-52ZC9A
+parent: REQ-RJ0KHPT
+order: b5y
 ---
 Interface signal number 433.

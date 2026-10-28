@@ -1,5 +1,5 @@
 ---
-id: TC-6BVPV0
+id: REQ-KV2NQGE
 type: test-case
 title: "Verify: Watchdog switchs audit records"
 status: Review
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - power
   - security
-parent: INFO-Z4TW4B
-order: 150
+former-id: TC-6BVPV0
+parent: REQ-K6FGAY0
+order: aE
 links:
   - type: verifies
-    target: SYS-8BT9A5
+    target: REQ-SNCRWC2
     confirmed: 768828fca553
 ---
 **Objective:** verify that the watchdog behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: TC-BHTN8X
+id: REQ-XK8M0E4
 type: test-case
 title: "Verify: Backlight notifys the room temperature"
 status: Approved
 priority: Medium
 owner: É. Laurent
-parent: INFO-HTSZ15
-order: 800
+former-id: TC-BHTN8X
+parent: REQ-Y9VHHKA
+order: b0H
 links:
   - type: verifies
-    target: SYS-WEYZAK
+    target: REQ-YAYJM7A
     confirmed: 7b40fcf8dbb4
 ---
 **Objective:** verify that the backlight behaves as specified.

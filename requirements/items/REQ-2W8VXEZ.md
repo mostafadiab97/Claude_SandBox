@@ -1,5 +1,5 @@
 ---
-id: SW-5GBGNQ
+id: REQ-2W8VXEZ
 type: software-requirement
 title: Encryption layer reports the connection state
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - connectivity
   - cost
-parent: SYS-MG3QAE
-order: 10
+former-id: SW-5GBGNQ
+parent: REQ-6JV91R3
+order: a0
 links:
   - type: refines
-    target: SYS-MG3QAE
+    target: REQ-6JV91R3
     confirmed: fd1ef0a3e1ca
 ---
 The encryption layer shall synchronise energy consumption after a power loss.

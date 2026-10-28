@@ -1,15 +1,16 @@
 ---
-id: SW-75XXSR
+id: REQ-DXDFRXW
 type: software-requirement
 title: Regulation loop notifys error conditions
 status: Review
 priority: Low
 owner: A. Hassan
-parent: SYS-745K9S
-order: 10
+former-id: SW-75XXSR
+parent: REQ-16HDKES
+order: a0
 links:
   - type: refines
-    target: SYS-745K9S
+    target: REQ-16HDKES
     confirmed: b4b17cd08794
 ---
 The heating controller shall validate schedule entries for at least 10 years.

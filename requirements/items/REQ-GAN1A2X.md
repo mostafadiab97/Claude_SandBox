@@ -1,5 +1,5 @@
 ---
-id: SYS-ZKTQQ8
+id: REQ-GAN1A2X
 type: system-requirement
 title: Local API authenticates humidity values
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - power
   - cost
-parent: INFO-NRVHA2
-order: 270
+former-id: SYS-ZKTQQ8
+parent: REQ-6R94HFM
+order: aQ
 links:
   - type: refines
-    target: STK-G2ZBHW
+    target: REQ-GXR8KE5
     confirmed: fee0d3303478
 ---
 The local API shall calibrate the connection state when the network is unavailable.

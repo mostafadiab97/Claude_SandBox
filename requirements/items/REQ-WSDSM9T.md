@@ -1,14 +1,15 @@
 ---
-id: TC-TBTERG
+id: REQ-WSDSM9T
 type: test-case
 title: "Verify: Status LED switchs firmware images"
 status: Obsolete
 owner: محمد علي
-parent: INFO-HTSZ15
-order: 1240
+former-id: TC-TBTERG
+parent: REQ-Y9VHHKA
+order: b0z
 links:
   - type: verifies
-    target: SYS-TYCMRT
+    target: REQ-RJXG4JV
     confirmed: cd494a5f904a
 ---
 **Objective:** verify that the status LED behaves as specified.

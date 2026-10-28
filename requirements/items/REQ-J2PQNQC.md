@@ -1,14 +1,15 @@
 ---
-id: IF-02RN3X
+id: REQ-J2PQNQC
 type: interface-requirement
 title: Limit audit records — detail
 status: Approved
 owner: R. Nabil
-parent: IF-KB859S
-order: 10
+former-id: IF-02RN3X
+parent: REQ-HFN9283
+order: a0
 links:
   - type: refines
-    target: IF-KB859S
+    target: REQ-HFN9283
     confirmed: 14adbfa289aa
 ---
 The heating controller shall encrypt user preferences without user interaction.

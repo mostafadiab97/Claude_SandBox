@@ -1,15 +1,16 @@
 ---
-id: SW-T6028K
+id: REQ-YFNYB9Z
 type: software-requirement
 title: Watchdog validates sensor readings
 status: Approved
 priority: Low
 owner: K. Tanaka
-parent: SYS-T2DEWW
-order: 30
+former-id: SW-T6028K
+parent: REQ-84GVBQD
+order: a2
 links:
   - type: refines
-    target: SYS-T2DEWW
+    target: REQ-84GVBQD
     confirmed: 4c2247349bae
 ---
 The watchdog shall notify the operating mode with an accuracy of ±0.5 °C.

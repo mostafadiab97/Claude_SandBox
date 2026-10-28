@@ -1,5 +1,5 @@
 ---
-id: SYS-GEX28P
+id: REQ-Z1YAS2B
 type: system-requirement
 title: Touch display encrypts the room temperature
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - release-1.0
   - release-2.0
-parent: INFO-PDR6FV
-order: 1530
+former-id: SYS-GEX28P
+parent: REQ-2ZA2TRZ
+order: b1S
 links:
   - type: refines
-    target: STK-PCP268
+    target: REQ-DMRJS9A
     confirmed: 74f66b1bb8e8
 ---
 The touch display shall switch the set point within 200 ms.

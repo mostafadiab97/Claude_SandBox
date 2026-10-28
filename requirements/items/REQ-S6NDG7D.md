@@ -1,5 +1,5 @@
 ---
-id: HW-HC79J2
+id: REQ-S6NDG7D
 type: hardware-requirement
 title: Enclosure limits the operating mode
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 owner: محمد علي
 tags:
   - security
-parent: SYS-2RJ62J
-order: 40
+former-id: HW-HC79J2
+parent: REQ-JYRD71Q
+order: a3
 links:
   - type: refines
-    target: SYS-2RJ62J
+    target: REQ-JYRD71Q
     confirmed: 86b1e408d2e0
 ---
 The main PCB shall synchronise the connection state when the network is unavailable.

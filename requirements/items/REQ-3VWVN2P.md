@@ -1,15 +1,16 @@
 ---
-id: UC-1JPC1B
+id: REQ-3VWVN2P
 type: use-case
 title: "UC: Detect the operating mode with the watchdog"
 status: Draft
 priority: Medium
 owner: R. Nabil
-parent: INFO-RE7JP9
-order: 150
+former-id: UC-1JPC1B
+parent: REQ-3EBQKRK
+order: aE
 links:
   - type: relates-to
-    target: STK-JBY2BX
+    target: REQ-GCMD4T5
     confirmed: bcce6e51beb4
 ---
 **Actor:** home owner

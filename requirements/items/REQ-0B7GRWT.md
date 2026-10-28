@@ -1,5 +1,5 @@
 ---
-id: IF-X01JDA
+id: REQ-0B7GRWT
 type: interface-requirement
 title: Heat pump driver logs error conditions
 status: Review
@@ -8,11 +8,12 @@ tags:
   - power
   - EMC
   - accessibility
-parent: SYS-5DA537
-order: 20
+former-id: IF-X01JDA
+parent: REQ-GE3XCDD
+order: a1
 links:
   - type: refines
-    target: SYS-5DA537
+    target: REQ-GE3XCDD
     confirmed: b3506b846105
 ---
 The boiler interface shall display user preferences for at least 10 years.

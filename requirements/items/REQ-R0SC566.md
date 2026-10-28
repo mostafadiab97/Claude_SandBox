@@ -1,16 +1,17 @@
 ---
-id: HW-AVAY8Y
+id: REQ-R0SC566
 type: hardware-requirement
 title: Switch error conditions — detail
 status: Draft
 priority: Medium
 tags:
   - regulatory
-parent: HW-6N0S3R
-order: 10
+former-id: HW-AVAY8Y
+parent: REQ-7RY5TAR
+order: a0
 links:
   - type: refines
-    target: HW-6N0S3R
+    target: REQ-7RY5TAR
     confirmed: 13435eae1c22
 ---
 The relay board shall authenticate audit records using AES-256-GCM.

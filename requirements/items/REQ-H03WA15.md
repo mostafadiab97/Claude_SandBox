@@ -1,5 +1,5 @@
 ---
-id: SW-1DQH20
+id: REQ-H03WA15
 type: software-requirement
 title: Pairing process synchronises the connection state
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - release-1.0
   - security
-parent: SYS-B2837M
-order: 20
+former-id: SW-1DQH20
+parent: REQ-R0EZ7W0
+order: a1
 links:
   - type: refines
-    target: SYS-B2837M
+    target: REQ-R0EZ7W0
     confirmed: 53bb399bd946
 ---
 The local API shall switch access tokens for up to 8 zones.

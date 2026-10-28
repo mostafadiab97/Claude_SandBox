@@ -1,15 +1,16 @@
 ---
-id: TC-EHD5Y4
+id: REQ-G6HEBC4
 type: test-case
 title: "Verify: Tamper detection authenticates user preferences"
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: INFO-Z4TW4B
-order: 130
+former-id: TC-EHD5Y4
+parent: REQ-K6FGAY0
+order: aC
 links:
   - type: verifies
-    target: SYS-95649D
+    target: REQ-CN36GA6
     confirmed: 1d3bba17b129
 ---
 **Objective:** verify that the tamper detection behaves as specified.

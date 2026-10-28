@@ -1,5 +1,5 @@
 ---
-id: HW-76HCM4
+id: REQ-NE5TEAH
 type: hardware-requirement
 title: Local API displays safety limits
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - connectivity
   - customer-request
-parent: SYS-8HC07S
-order: 40
+former-id: HW-76HCM4
+parent: REQ-07KDR3K
+order: a3
 links:
   - type: refines
-    target: SYS-8HC07S
+    target: REQ-07KDR3K
     confirmed: edacad3b5f35
 ---
 The Bluetooth LE link shall validate user preferences below 0.5 W in standby.

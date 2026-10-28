@@ -1,5 +1,5 @@
 ---
-id: TC-PX2VM0
+id: REQ-NZH0QJ4
 type: test-case
 title: "Verify: User account service calibrates energy consumption"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - release-2.0
   - i18n
-parent: INFO-7P4D8D
-order: 730
+former-id: TC-PX2VM0
+parent: REQ-8351896
+order: b0A
 links:
   - type: verifies
-    target: SYS-PF652Q
+    target: REQ-EEZQ79J
     confirmed: a1604d2a8c0c
 ---
 **Objective:** verify that the user account service behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-AH0QSJ
+id: REQ-9XJQKNV
 type: software-requirement
 title: Mobile app restores energy consumption
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - power
   - safety
-parent: SYS-KEKD2W
-order: 30
+former-id: SW-AH0QSJ
+parent: REQ-31S5CV1
+order: a2
 links:
   - type: refines
-    target: SYS-KEKD2W
+    target: REQ-31S5CV1
     confirmed: dce36b139246
 ---
 The mobile app shall measure error conditions in all supported languages.

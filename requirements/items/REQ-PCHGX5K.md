@@ -1,5 +1,5 @@
 ---
-id: IF-XHRQHE
+id: REQ-PCHGX5K
 type: interface-requirement
 title: Limit firmware images — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - safety
   - security
-parent: IF-1QMWF8
-order: 10
+former-id: IF-XHRQHE
+parent: REQ-D3MHN1N
+order: a0
 links:
   - type: refines
-    target: IF-1QMWF8
+    target: REQ-D3MHN1N
     confirmed: 8a4b10936476
 ---
 The relay board shall switch energy consumption using AES-256-GCM.

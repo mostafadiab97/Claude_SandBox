@@ -1,5 +1,5 @@
 ---
-id: TC-MVY50N
+id: REQ-CH77XZB
 type: test-case
 title: "Verify: OTA server synchronises sensor readings"
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - accessibility
   - safety
-parent: INFO-7P4D8D
-order: 990
+former-id: TC-MVY50N
+parent: REQ-8351896
+order: b0a
 links:
   - type: verifies
-    target: SYS-RBD8MR
+    target: REQ-TP2GDPC
     confirmed: fce90764ac1a
 ---
 **Objective:** verify that the OTA server behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: SW-QVNF5A
+id: REQ-XMKGZH8
 type: software-requirement
 title: Detect relay events — detail
 status: Obsolete
 priority: High
 owner: K. Tanaka
-parent: SW-J9Y6N8
-order: 10
+former-id: SW-QVNF5A
+parent: REQ-PQG524S
+order: a0
 links:
   - type: refines
-    target: SW-J9Y6N8
+    target: REQ-PQG524S
     confirmed: aeb72c451dfa
 ---
 The telemetry pipeline shall detect error conditions with an accuracy of ±0.5 °C.

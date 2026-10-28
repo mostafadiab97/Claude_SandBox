@@ -1,5 +1,5 @@
 ---
-id: SYS-Z7FHQ2
+id: REQ-X5P461Y
 type: system-requirement
 title: Backlight stores schedule entries
 status: Review
@@ -9,14 +9,15 @@ tags:
   - i18n
   - EMC
   - accessibility
-parent: INFO-PDR6FV
-order: 10
+former-id: SYS-Z7FHQ2
+parent: REQ-2ZA2TRZ
+order: a0
 links:
   - type: refines
-    target: STK-BSSZ8Z
+    target: REQ-BREZDN1
     confirmed: eb15999e37f0
   - type: mitigates
-    target: RSK-H5P7DK
+    target: REQ-19NM7SG
     confirmed: 071ef93a7be9
 ---
 The backlight shall validate firmware images after a power loss.

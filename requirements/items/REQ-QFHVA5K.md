@@ -1,5 +1,5 @@
 ---
-id: SW-JXA9N1
+id: REQ-QFHVA5K
 type: software-requirement
 title: Telemetry pipeline encrypts humidity values
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - regulatory
   - ux
-parent: SYS-0AQ1WN
-order: 30
+former-id: SW-JXA9N1
+parent: REQ-P6D29TG
+order: a2
 links:
   - type: refines
-    target: SYS-0AQ1WN
+    target: REQ-P6D29TG
     confirmed: 7e00d0c5709a
 ---
 The OTA server shall validate error conditions without user interaction.

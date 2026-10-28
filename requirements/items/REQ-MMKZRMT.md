@@ -1,5 +1,5 @@
 ---
-id: IF-S0CSYN
+id: REQ-MMKZRMT
 type: interface-requirement
 title: Authenticate firmware images — detail
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - connectivity
   - EMC
   - safety
-parent: IF-NYHQ10
-order: 10
+former-id: IF-S0CSYN
+parent: REQ-CFDFP1Q
+order: a0
 links:
   - type: refines
-    target: IF-NYHQ10
+    target: REQ-CFDFP1Q
     confirmed: b5c30d1397fc
 ---
 The Wi-Fi module shall store firmware images within 200 ms.

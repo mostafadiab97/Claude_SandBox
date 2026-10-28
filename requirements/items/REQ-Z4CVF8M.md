@@ -1,15 +1,16 @@
 ---
-id: SYS-3RSNVX
+id: REQ-Z4CVF8M
 type: system-requirement
 title: Zone valve notifys firmware images
 status: Review
 priority: High
 owner: S. Adel
-parent: INFO-6DQTKV
-order: 1900
+former-id: SYS-3RSNVX
+parent: REQ-7ED7ZET
+order: b23
 links:
   - type: refines
-    target: STK-8W3602
+    target: REQ-Q1KNR7Q
     confirmed: 25b39ad8cae7
 ---
 The zone valve shall validate the connection state in under 3 s.

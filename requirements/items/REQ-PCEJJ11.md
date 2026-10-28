@@ -1,5 +1,5 @@
 ---
-id: SYS-JF5Y3D
+id: REQ-PCEJJ11
 type: system-requirement
 title: Pairing process reports error conditions
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - i18n
   - safety
-parent: INFO-NRVHA2
-order: 1460
+former-id: SYS-JF5Y3D
+parent: REQ-6R94HFM
+order: b1L
 links:
   - type: refines
-    target: STK-AAZ4HV
+    target: REQ-M9DYEF5
     confirmed: 44fc7956dbf8
 ---
 The pairing process shall restore energy consumption without user interaction.

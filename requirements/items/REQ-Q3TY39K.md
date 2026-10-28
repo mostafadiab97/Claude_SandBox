@@ -1,14 +1,15 @@
 ---
-id: IF-TK154K
+id: REQ-Q3TY39K
 type: interface-requirement
 title: Home dashboard logs the connection state
 status: Draft
 priority: Medium
-parent: SYS-VPGXCD
-order: 30
+former-id: IF-TK154K
+parent: REQ-JXW2FTC
+order: a2
 links:
   - type: refines
-    target: SYS-VPGXCD
+    target: REQ-JXW2FTC
     confirmed: 39dcc2afc00b
 ---
 The mobile app shall display access tokens at least once per minute.

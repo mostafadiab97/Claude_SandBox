@@ -1,15 +1,16 @@
 ---
-id: TC-8E87BP
+id: REQ-BRZTX12
 type: test-case
 title: "Verify: Heat pump driver limits sensor readings"
 status: Approved
 priority: Medium
 owner: N. Kamal
-parent: INFO-MS9DAG
-order: 700
+former-id: TC-8E87BP
+parent: REQ-XGWSK2K
+order: b07
 links:
   - type: verifies
-    target: SYS-VNKX29
+    target: REQ-TR67EMJ
     confirmed: 1e93aa64c8e1
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

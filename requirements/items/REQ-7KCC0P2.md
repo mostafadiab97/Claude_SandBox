@@ -1,15 +1,16 @@
 ---
-id: SW-RH71XX
+id: REQ-7KCC0P2
 type: software-requirement
 title: Bluetooth LE link limits the connection state
 status: Draft
 priority: High
 owner: Y. Saber
-parent: SYS-GDH96C
-order: 10
+former-id: SW-RH71XX
+parent: REQ-C7QGA19
+order: a0
 links:
   - type: refines
-    target: SYS-GDH96C
+    target: REQ-C7QGA19
     confirmed: dfc6c8083c05
 ---
 The Zigbee radio shall calibrate the room temperature at least once per minute.

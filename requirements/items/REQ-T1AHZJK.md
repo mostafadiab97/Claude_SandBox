@@ -1,16 +1,17 @@
 ---
-id: SYS-B37VY2
+id: REQ-T1AHZJK
 type: system-requirement
 title: Boiler interface stores audit records
 status: Approved
 owner: S. Adel
 tags:
   - power
-parent: INFO-6DQTKV
-order: 680
+former-id: SYS-B37VY2
+parent: REQ-7ED7ZET
+order: b05
 links:
   - type: refines
-    target: STK-Q8BNKR
+    target: REQ-FY0A6ZE
     confirmed: 6deaa78e6ab3
 ---
 The boiler interface shall detect audit records for up to 8 zones.

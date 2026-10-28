@@ -1,5 +1,5 @@
 ---
-id: IF-PZJ71G
+id: REQ-TRA6EKM
 type: interface-requirement
 title: Calibrate humidity values — detail
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: محمد علي
 tags:
   - release-2.0
-parent: IF-725QBQ
-order: 10
+former-id: IF-PZJ71G
+parent: REQ-KHNDSCQ
+order: a0
 links:
   - type: refines
-    target: IF-725QBQ
+    target: REQ-KHNDSCQ
     confirmed: 6e41b60e44cd
 ---
 The regulation loop shall switch the set point without user interaction.

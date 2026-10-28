@@ -1,15 +1,16 @@
 ---
-id: SW-8C39GE
+id: REQ-74D11YK
 type: software-requirement
 title: Status LED notifys the room temperature
 status: Obsolete
 priority: Low
 owner: S. Adel
-parent: SYS-E66142
-order: 30
+former-id: SW-8C39GE
+parent: REQ-Q14ETWF
+order: a2
 links:
   - type: refines
-    target: SYS-E66142
+    target: REQ-Q14ETWF
     confirmed: 02e2558f5021
 ---
 The status LED shall synchronise error conditions in under 3 s.

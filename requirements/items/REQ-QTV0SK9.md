@@ -1,5 +1,5 @@
 ---
-id: SYS-M1RMNM
+id: REQ-QTV0SK9
 type: system-requirement
 title: Bluetooth LE link reports access tokens
 status: Draft
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - accessibility
   - performance
-parent: INFO-NRVHA2
-order: 420
+former-id: SYS-M1RMNM
+parent: REQ-6R94HFM
+order: af
 links:
   - type: refines
-    target: STK-G2ZBHW
+    target: REQ-GXR8KE5
     confirmed: fee0d3303478
 ---
 The Bluetooth LE link shall limit relay events within 200 ms.

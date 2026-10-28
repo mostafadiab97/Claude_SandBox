@@ -1,5 +1,5 @@
 ---
-id: SW-4EB74B
+id: REQ-K40ETXP
 type: software-requirement
 title: Cloud backend restores user preferences
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: N. Kamal
 tags:
   - customer-request
-parent: SYS-77PVXT
-order: 20
+former-id: SW-4EB74B
+parent: REQ-3558H8N
+order: a1
 links:
   - type: refines
-    target: SYS-77PVXT
+    target: REQ-3558H8N
     confirmed: 33b1a201b47a
 ---
 The telemetry pipeline shall limit the connection state at least once per minute.

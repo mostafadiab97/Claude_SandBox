@@ -1,15 +1,16 @@
 ---
-id: TC-12FCER
+id: REQ-035XSYD
 type: test-case
 title: "Regression: Backlight synchronises firmware images"
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: INFO-ECHASH
-order: 1570
+former-id: TC-12FCER
+parent: REQ-6H15AV2
+order: b1W
 links:
   - type: verifies
-    target: SYS-JWK81Y
+    target: REQ-2QACV9V
     confirmed: 8656508483c4
 ---
 **Objective:** verify that the device behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-F7EPJP
+id: REQ-4GD72TM
 type: software-requirement
 title: Regulation loop displays the room temperature
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - performance
   - cost
-parent: SYS-28GV7E
-order: 30
+former-id: SW-F7EPJP
+parent: REQ-7EANCXE
+order: a2
 links:
   - type: refines
-    target: SYS-28GV7E
+    target: REQ-7EANCXE
     confirmed: c02f405b6878
 ---
 The heat pump driver shall store user preferences using AES-256-GCM.

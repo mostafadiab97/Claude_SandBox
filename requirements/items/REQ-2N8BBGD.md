@@ -1,5 +1,5 @@
 ---
-id: SW-VQ0W41
+id: REQ-2N8BBGD
 type: software-requirement
 title: User account service encrypts energy consumption
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - release-1.0
   - customer-request
-parent: SYS-6YK5CA
-order: 30
+former-id: SW-VQ0W41
+parent: REQ-4NAPSHQ
+order: a2
 links:
   - type: refines
-    target: SYS-6YK5CA
+    target: REQ-4NAPSHQ
     confirmed: 2507133e13d3
 ---
 The telemetry pipeline shall measure error conditions at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: SYS-FNTHY0
+id: REQ-719VVV2
 type: system-requirement
 title: Status LED detects access tokens
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - safety
   - accessibility
-parent: INFO-PDR6FV
-order: 770
+former-id: SYS-FNTHY0
+parent: REQ-2ZA2TRZ
+order: b0E
 links:
   - type: refines
-    target: STK-EHVDJF
+    target: REQ-4T80DB9
     confirmed: cf195cdb6a20
 ---
 The status LED shall synchronise error conditions within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: TC-3A6ENJ
+id: REQ-70YGBDA
 type: test-case
 title: "Verify: Cloud backend authenticates access tokens"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - safety
   - ux
-parent: INFO-7P4D8D
-order: 880
+former-id: TC-3A6ENJ
+parent: REQ-8351896
+order: b0P
 links:
   - type: verifies
-    target: SYS-CCEYVZ
+    target: REQ-2921YSS
     confirmed: 0da0bb7a7e52
 ---
 **Objective:** verify that the cloud backend behaves as specified.

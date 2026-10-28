@@ -1,5 +1,5 @@
 ---
-id: SW-CJYXZT
+id: REQ-94E5B7N
 type: software-requirement
 title: OTA server stores the connection state
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - cost
   - ux
   - EMC
-parent: SYS-RCK4NZ
-order: 20
+former-id: SW-CJYXZT
+parent: REQ-758F5BD
+order: a1
 links:
   - type: refines
-    target: SYS-RCK4NZ
+    target: REQ-758F5BD
     confirmed: 32fb1eff344d
 ---
 The device registry shall calibrate firmware images for up to 8 zones.

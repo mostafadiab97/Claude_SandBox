@@ -1,5 +1,5 @@
 ---
-id: SYS-PDA2DJ
+id: REQ-M49RZWY
 type: system-requirement
 title: Zigbee radio authenticates safety limits
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - performance
   - accessibility
   - cost
-parent: INFO-NRVHA2
-order: 1630
+former-id: SYS-PDA2DJ
+parent: REQ-6R94HFM
+order: b1c
 links:
   - type: refines
-    target: STK-71VSKB
+    target: REQ-8TVXMWR
     confirmed: 994ecb1eff6f
 ---
 The Zigbee radio shall restore user preferences without user interaction.

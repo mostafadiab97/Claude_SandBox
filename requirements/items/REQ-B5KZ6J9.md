@@ -1,5 +1,5 @@
 ---
-id: TC-WYE71E
+id: REQ-B5KZ6J9
 type: test-case
 title: "Verify: Local API notifys user preferences"
 status: Obsolete
@@ -7,14 +7,15 @@ priority: Medium
 owner: محمد علي
 tags:
   - cost
-parent: INFO-F0M7VC
-order: 620
+former-id: TC-WYE71E
+parent: REQ-67RQXCK
+order: az
 links:
   - type: verifies
-    target: SYS-7F4FY9
+    target: REQ-P78AYDQ
     confirmed: a9c0f51b3815
   - type: verifies
-    target: SW-S7Z1Y4
+    target: REQ-2S5180J
     confirmed: b1317ed9239c
 ---
 **Objective:** verify that the local API behaves as specified.

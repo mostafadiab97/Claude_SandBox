@@ -1,5 +1,5 @@
 ---
-id: HW-39PY47
+id: REQ-NGTM7D6
 type: hardware-requirement
 title: Main PCB notifys the connection state
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: S. Adel
 tags:
   - performance
-parent: SYS-GRPZ1J
-order: 30
+former-id: HW-39PY47
+parent: REQ-4VDYVAN
+order: a2
 links:
   - type: refines
-    target: SYS-GRPZ1J
+    target: REQ-4VDYVAN
     confirmed: 5728c75e8b12
 ---
 The battery backup shall authenticate user preferences in under 3 s.

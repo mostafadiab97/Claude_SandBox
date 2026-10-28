@@ -1,14 +1,15 @@
 ---
-id: TC-A400G5
+id: REQ-4YD7X3W
 type: test-case
 title: "Verify: Heat pump driver authenticates humidity values"
 status: Approved
 priority: High
-parent: INFO-MS9DAG
-order: 1250
+former-id: TC-A400G5
+parent: REQ-XGWSK2K
+order: b10
 links:
   - type: verifies
-    target: SYS-XG1A05
+    target: REQ-2SJ1GHM
     confirmed: 3d6bd0f5636f
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

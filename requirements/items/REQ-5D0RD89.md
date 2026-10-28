@@ -1,15 +1,16 @@
 ---
-id: IF-DWV6ZT
+id: REQ-5D0RD89
 type: interface-requirement
 title: Bluetooth LE link synchronises sensor readings
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: SYS-Q1ETKX
-order: 30
+former-id: IF-DWV6ZT
+parent: REQ-RRDNXJT
+order: a2
 links:
   - type: refines
-    target: SYS-Q1ETKX
+    target: REQ-RRDNXJT
     confirmed: b0be1ee04270
 ---
 The pairing process shall encrypt error conditions when the network is unavailable.

@@ -1,15 +1,16 @@
 ---
-id: IF-2CB3K3
+id: REQ-98MEWQH
 type: interface-requirement
 title: Telemetry pipeline notifys the set point
 status: Approved
 priority: High
 owner: N. Kamal
-parent: SYS-XVVWVF
-order: 20
+former-id: IF-2CB3K3
+parent: REQ-244HGW6
+order: a1
 links:
   - type: refines
-    target: SYS-XVVWVF
+    target: REQ-244HGW6
     confirmed: f37bc3493af5
 ---
 The OTA server shall display the operating mode with an accuracy of ±0.5 °C.

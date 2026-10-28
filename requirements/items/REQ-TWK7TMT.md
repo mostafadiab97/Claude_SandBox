@@ -1,16 +1,17 @@
 ---
-id: SW-SFV557
+id: REQ-TWK7TMT
 type: software-requirement
 title: Telemetry pipeline authenticates the set point
 status: Approved
 priority: Medium
 tags:
   - EMC
-parent: SYS-8E7NKM
-order: 20
+former-id: SW-SFV557
+parent: REQ-BYY991Q
+order: a1
 links:
   - type: refines
-    target: SYS-8E7NKM
+    target: REQ-BYY991Q
     confirmed: 88fb23507b4f
 ---
 The OTA server shall log the connection state for at least 10 years.

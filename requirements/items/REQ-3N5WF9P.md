@@ -1,16 +1,17 @@
 ---
-id: SW-F3EEHX
+id: REQ-3N5WF9P
 type: software-requirement
 title: Schedule editor switchs the connection state
 status: Obsolete
 owner: R. Nabil
 tags:
   - release-2.0
-parent: SYS-T44M5X
-order: 20
+former-id: SW-F3EEHX
+parent: REQ-ED1Z2TR
+order: a1
 links:
   - type: refines
-    target: SYS-T44M5X
+    target: REQ-ED1Z2TR
     confirmed: b93a511f8f0f
 ---
 The notification service shall log safety limits with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: SYS-WER09P
+id: REQ-48R9ZCK
 type: system-requirement
 title: Device registry restores the room temperature
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - EMC
   - release-1.0
-parent: INFO-YV5EZD
-order: 1810
+former-id: SYS-WER09P
+parent: REQ-RE9ZKHF
+order: b1u
 links:
   - type: refines
-    target: STK-1CAAXP
+    target: REQ-ZEW4521
     confirmed: a853df6f0866
 ---
 The device registry shall store relay events without user interaction.

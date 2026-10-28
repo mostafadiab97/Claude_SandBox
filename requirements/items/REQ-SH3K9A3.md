@@ -1,5 +1,5 @@
 ---
-id: SYS-W9R8ZQ
+id: REQ-SH3K9A3
 type: system-requirement
 title: Backlight calibrates safety limits
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 owner: J. Müller
 tags:
   - customer-request
-parent: INFO-PDR6FV
-order: 720
+former-id: SYS-W9R8ZQ
+parent: REQ-2ZA2TRZ
+order: b09
 links:
   - type: refines
-    target: STK-BV5YMS
+    target: REQ-XR7FDXB
     confirmed: 07434b0b5615
   - type: mitigates
-    target: RSK-W1W7WX
+    target: REQ-Y2BZ4A5
     confirmed: 902c1cbc8514
 ---
 The backlight shall display schedule entries in under 3 s.

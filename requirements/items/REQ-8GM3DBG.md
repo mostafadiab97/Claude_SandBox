@@ -1,5 +1,5 @@
 ---
-id: IF-6Z2CVK
+id: REQ-8GM3DBG
 type: interface-requirement
 title: Relay board detects the connection state
 status: Review
@@ -7,11 +7,12 @@ owner: A. Hassan
 tags:
   - connectivity
   - accessibility
-parent: SYS-6AHW2J
-order: 10
+former-id: IF-6Z2CVK
+parent: REQ-KFE8499
+order: a0
 links:
   - type: refines
-    target: SYS-6AHW2J
+    target: REQ-KFE8499
     confirmed: 688f9dd4cce6
 ---
 The power supply shall detect the room temperature below 0.5 W in standby.

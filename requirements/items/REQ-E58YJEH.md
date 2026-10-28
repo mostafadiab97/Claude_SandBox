@@ -1,18 +1,19 @@
 ---
-id: SYS-5DXFKN
+id: REQ-E58YJEH
 type: system-requirement
 title: Heating controller logs access tokens
 status: Obsolete
 priority: Medium
 owner: A. Hassan
-parent: INFO-6DQTKV
-order: 2030
+former-id: SYS-5DXFKN
+parent: REQ-7ED7ZET
+order: b2G
 links:
   - type: refines
-    target: STK-AA05P4
+    target: REQ-REA5VGA
     confirmed: e2bec3bcd11c
   - type: mitigates
-    target: RSK-GP1TY2
+    target: REQ-CYZ942A
     confirmed: 50cb7d905eb0
 ---
 The heating controller shall limit relay events without user interaction.

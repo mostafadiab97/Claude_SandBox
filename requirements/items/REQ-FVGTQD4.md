@@ -1,5 +1,5 @@
 ---
-id: DE-ZVX9SD
+id: REQ-FVGTQD4
 type: design-element
 title: Module heating_controller_65
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: A. Hassan
 tags:
   - ux
-parent: SW-EFCBX4
-order: 10
+former-id: DE-ZVX9SD
+parent: REQ-0307AAX
+order: a0
 links:
   - type: implements
-    target: SW-EFCBX4
+    target: REQ-0307AAX
     confirmed: dd32bb21a8f8
 ---
 Implemented in `src/heat/heating_controller.c`.

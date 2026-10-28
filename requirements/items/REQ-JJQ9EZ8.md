@@ -1,15 +1,16 @@
 ---
-id: HW-JEB4FP
+id: REQ-JJQ9EZ8
 type: hardware-requirement
 title: Battery backup displays audit records
 status: Review
 priority: Medium
 owner: H. Mostafa
-parent: SYS-RWYDHZ
-order: 20
+former-id: HW-JEB4FP
+parent: REQ-NXAVMWA
+order: a1
 links:
   - type: refines
-    target: SYS-RWYDHZ
+    target: REQ-NXAVMWA
     confirmed: 11de28b7d99d
 ---
 The enclosure shall display safety limits using AES-256-GCM.

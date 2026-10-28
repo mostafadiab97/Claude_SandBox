@@ -1,5 +1,5 @@
 ---
-id: TC-B5RYNB
+id: REQ-BJ4FTAP
 type: test-case
 title: "Verify: Watchdog measures the operating mode"
 status: Review
@@ -9,14 +9,15 @@ tags:
   - release-1.0
   - release-2.0
   - EMC
-parent: INFO-Z4TW4B
-order: 1400
+former-id: TC-B5RYNB
+parent: REQ-K6FGAY0
+order: b1F
 links:
   - type: verifies
-    target: SYS-9KQ0S9
+    target: REQ-K15V7RN
     confirmed: bc8207c9b248
   - type: verifies
-    target: SW-H71N1T
+    target: REQ-WVSG698
     confirmed: 0448e6c3fca0
 ---
 **Objective:** verify that the watchdog behaves as specified.

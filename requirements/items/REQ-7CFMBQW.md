@@ -1,15 +1,16 @@
 ---
-id: TC-ARB2AD
+id: REQ-7CFMBQW
 type: test-case
 title: "Regression: Relay board displays the connection state"
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: INFO-ECHASH
-order: 2070
+former-id: TC-ARB2AD
+parent: REQ-6H15AV2
+order: b2K
 links:
   - type: verifies
-    target: SYS-WFQYSE
+    target: REQ-WQSDQ95
     confirmed: 5a5dbeacc343
 ---
 **Objective:** verify that the device behaves as specified.

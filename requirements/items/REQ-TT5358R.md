@@ -1,15 +1,16 @@
 ---
-id: SYS-ETJ0RM
+id: REQ-TT5358R
 type: system-requirement
 title: Battery backup authenticates sensor readings
 status: Obsolete
 priority: High
 owner: Y. Saber
-parent: INFO-A6P9A8
-order: 830
+former-id: SYS-ETJ0RM
+parent: REQ-CMCS31A
+order: b0K
 links:
   - type: refines
-    target: STK-M28XWW
+    target: REQ-2678XV5
     confirmed: bcf262f10744
 ---
 The battery backup shall calibrate the room temperature within 200 ms.

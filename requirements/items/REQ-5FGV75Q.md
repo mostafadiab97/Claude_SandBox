@@ -1,5 +1,5 @@
 ---
-id: SW-9C8MFQ
+id: REQ-5FGV75Q
 type: software-requirement
 title: Boiler interface calibrates energy consumption
 status: Obsolete
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - power
   - accessibility
-parent: SYS-7THG7S
-order: 40
+former-id: SW-9C8MFQ
+parent: REQ-8XAB9X3
+order: a3
 links:
   - type: refines
-    target: SYS-7THG7S
+    target: REQ-8XAB9X3
     confirmed: c2a2db34ec62
 ---
 The zone valve shall store energy consumption in all supported languages.

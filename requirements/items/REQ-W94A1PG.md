@@ -1,5 +1,5 @@
 ---
-id: IF-5DBSVQ
+id: REQ-W94A1PG
 type: interface-requirement
 title: "Signal 245: schedule entries"
 status: Approved
@@ -8,7 +8,8 @@ tags:
   - regulatory
   - safety
   - cost
-parent: INFO-2TM0JP
-order: 2450
+former-id: IF-5DBSVQ
+parent: REQ-RJ0KHPT
+order: b2w
 ---
 Interface signal number 245.

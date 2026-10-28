@@ -1,5 +1,5 @@
 ---
-id: TC-CGWQSD
+id: REQ-TG2ZZ9J
 type: test-case
 title: "Verify: Battery backup reports user preferences"
 status: Obsolete
@@ -7,14 +7,15 @@ priority: Medium
 owner: M. Farouk
 tags:
   - release-2.0
-parent: INFO-MACGC3
-order: 1040
+former-id: TC-CGWQSD
+parent: REQ-F9Z1FYS
+order: b0f
 links:
   - type: verifies
-    target: SYS-CMNCSV
+    target: REQ-BZG33TA
     confirmed: c22e3af7bfc8
   - type: verifies
-    target: SW-ABMEWH
+    target: REQ-GX4PN4D
     confirmed: ff58105578cc
 ---
 **Objective:** verify that the battery backup behaves as specified.

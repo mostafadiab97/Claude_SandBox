@@ -1,5 +1,5 @@
 ---
-id: TC-JJA7VH
+id: REQ-K9RC9A2
 type: test-case
 title: "Verify: Home dashboard stores access tokens"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - EMC
-parent: INFO-J0FETE
-order: 1480
+former-id: TC-JJA7VH
+parent: REQ-WR5ZJN9
+order: b1N
 links:
   - type: verifies
-    target: SYS-J0HR1G
+    target: REQ-5EJ4KB8
     confirmed: 8e8a8762a32d
 ---
 **Objective:** verify that the home dashboard behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: IF-2CC2B4
+id: REQ-ECE75QR
 type: interface-requirement
 title: "Signal 233: energy consumption"
 status: Obsolete
@@ -8,7 +8,8 @@ tags:
   - cost
   - i18n
   - regulatory
-parent: INFO-2TM0JP
-order: 2330
+former-id: IF-2CC2B4
+parent: REQ-RJ0KHPT
+order: b2k
 ---
 Interface signal number 233.

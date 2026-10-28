@@ -1,15 +1,16 @@
 ---
-id: IF-ZJD6N6
+id: REQ-TACVENM
 type: interface-requirement
 title: Zone valve restores access tokens
 status: Draft
 priority: Medium
 owner: H. Mostafa
-parent: SYS-XP4ZAH
-order: 20
+former-id: IF-ZJD6N6
+parent: REQ-FB5KG2Y
+order: a1
 links:
   - type: refines
-    target: SYS-XP4ZAH
+    target: REQ-FB5KG2Y
     confirmed: b8b57a2c487b
 ---
 The regulation loop shall notify schedule entries without user interaction.

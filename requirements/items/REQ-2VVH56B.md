@@ -1,5 +1,5 @@
 ---
-id: TC-JWAAZN
+id: REQ-2VVH56B
 type: test-case
 title: "Verify: Watchdog synchronises safety limits"
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: محمد علي
 tags:
   - regulatory
-parent: INFO-Z4TW4B
-order: 1140
+former-id: TC-JWAAZN
+parent: REQ-K6FGAY0
+order: b0p
 links:
   - type: verifies
-    target: SYS-BM27EB
+    target: REQ-FXTBX6S
     confirmed: 044815c5b2d6
 ---
 **Objective:** verify that the watchdog behaves as specified.

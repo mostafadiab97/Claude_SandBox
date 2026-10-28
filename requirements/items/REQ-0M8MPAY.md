@@ -1,5 +1,5 @@
 ---
-id: SYS-2B2EJW
+id: REQ-0M8MPAY
 type: system-requirement
 title: Menu system validates energy consumption
 status: Review
@@ -9,14 +9,15 @@ tags:
   - power
   - regulatory
   - performance
-parent: INFO-PDR6FV
-order: 440
+former-id: SYS-2B2EJW
+parent: REQ-2ZA2TRZ
+order: ah
 links:
   - type: refines
-    target: STK-BSSZ8Z
+    target: REQ-BREZDN1
     confirmed: eb15999e37f0
   - type: mitigates
-    target: RSK-V6W5F6
+    target: REQ-AWHM9WH
     confirmed: 90eeacbe369d
 ---
 The menu system shall notify sensor readings for up to 8 zones.

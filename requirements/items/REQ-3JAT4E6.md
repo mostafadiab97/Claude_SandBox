@@ -1,13 +1,14 @@
 ---
-id: TC-B19883
+id: REQ-3JAT4E6
 type: test-case
 title: "Verify: Secure boot limits error conditions"
 status: Approved
-parent: INFO-Z4TW4B
-order: 280
+former-id: TC-B19883
+parent: REQ-K6FGAY0
+order: aR
 links:
   - type: verifies
-    target: SYS-G5S6EX
+    target: REQ-5HPPTRY
     confirmed: e5867026fabe
 ---
 **Objective:** verify that the secure boot behaves as specified.

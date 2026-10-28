@@ -1,14 +1,15 @@
 ---
-id: HW-BFGY4P
+id: REQ-ZGFZF4B
 type: hardware-requirement
 title: Synchronise energy consumption — detail
 status: Draft
 priority: Medium
-parent: HW-Y2KS2G
-order: 10
+former-id: HW-BFGY4P
+parent: REQ-R5TRTCZ
+order: a0
 links:
   - type: refines
-    target: HW-Y2KS2G
+    target: REQ-R5TRTCZ
     confirmed: e18d4fb71c9c
 ---
 The status LED shall display the set point for up to 8 zones.

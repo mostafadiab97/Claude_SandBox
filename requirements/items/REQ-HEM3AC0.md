@@ -1,5 +1,5 @@
 ---
-id: SW-HC9Q2Y
+id: REQ-HEM3AC0
 type: software-requirement
 title: Over-temperature monitor calibrates the connection state
 status: Review
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - security
   - cost
-parent: SYS-KZYDJR
-order: 20
+former-id: SW-HC9Q2Y
+parent: REQ-YCQG7EF
+order: a1
 links:
   - type: refines
-    target: SYS-KZYDJR
+    target: REQ-YCQG7EF
     confirmed: c4c96610c247
 ---
 The over-temperature monitor shall measure schedule entries for up to 8 zones.

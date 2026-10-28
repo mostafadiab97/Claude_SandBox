@@ -1,5 +1,5 @@
 ---
-id: DE-TYQE2Z
+id: REQ-WHYERJQ
 type: design-element
 title: Module Bluetooth_LE_link_23
 status: Review
@@ -9,11 +9,12 @@ tags:
   - safety
   - ux
   - i18n
-parent: SW-VX62B3
-order: 10
+former-id: DE-TYQE2Z
+parent: REQ-92F137A
+order: a0
 links:
   - type: implements
-    target: SW-VX62B3
+    target: REQ-92F137A
     confirmed: 63fa20c64fad
 ---
 Implemented in `src/conn/Bluetooth_LE_link.c`.

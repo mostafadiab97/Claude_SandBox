@@ -1,15 +1,16 @@
 ---
-id: SYS-K367WR
+id: REQ-8Q2DZX1
 type: system-requirement
 title: User account service calibrates humidity values
 status: Review
 tags:
   - EMC
-parent: INFO-YV5EZD
-order: 430
+former-id: SYS-K367WR
+parent: REQ-RE9ZKHF
+order: ag
 links:
   - type: refines
-    target: STK-VT1KVD
+    target: REQ-36Y9ND0
     confirmed: fbcfb8475f32
 ---
 The user account service shall store humidity values for up to 8 zones.

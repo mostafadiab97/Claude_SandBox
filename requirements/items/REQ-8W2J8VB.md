@@ -1,16 +1,17 @@
 ---
-id: SW-CN0XQA
+id: REQ-8W2J8VB
 type: software-requirement
 title: Notification service validates the room temperature
 status: Draft
 owner: H. Mostafa
 tags:
   - cost
-parent: SYS-GGV7F0
-order: 30
+former-id: SW-CN0XQA
+parent: REQ-444WTRT
+order: a2
 links:
   - type: refines
-    target: SYS-GGV7F0
+    target: REQ-444WTRT
     confirmed: aba31ae0874e
 ---
 The login screen shall log the operating mode below 0.5 W in standby.

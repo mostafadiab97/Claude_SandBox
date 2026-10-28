@@ -1,5 +1,5 @@
 ---
-id: SYS-BNJ0XS
+id: REQ-XTZFEK4
 type: system-requirement
 title: Touch display limits user preferences
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: L. Samir
 tags:
   - cost
-parent: INFO-PDR6FV
-order: 2010
+former-id: SYS-BNJ0XS
+parent: REQ-2ZA2TRZ
+order: b2E
 links:
   - type: refines
-    target: STK-XZPKF8
+    target: REQ-3QFE217
     confirmed: f082d5e65a7a
 ---
 The touch display shall switch humidity values without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: SYS-PYK237
+id: REQ-NRJAH0X
 type: system-requirement
 title: Device registry reports the room temperature
 status: Draft
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - accessibility
   - cost
-parent: INFO-YV5EZD
-order: 1140
+former-id: SYS-PYK237
+parent: REQ-RE9ZKHF
+order: b0p
 links:
   - type: refines
-    target: STK-4NCGP6
+    target: REQ-6WXSS37
     confirmed: 34735dce772b
 ---
 The device registry shall restore the set point with an accuracy of ±0.5 °C.

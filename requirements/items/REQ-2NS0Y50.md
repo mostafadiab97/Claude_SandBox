@@ -1,5 +1,5 @@
 ---
-id: IF-71CJ0N
+id: REQ-2NS0Y50
 type: interface-requirement
 title: "Signal 090: error conditions"
 status: Draft
@@ -9,7 +9,8 @@ tags:
   - safety
   - i18n
   - release-2.0
-parent: INFO-2TM0JP
-order: 900
+former-id: IF-71CJ0N
+parent: REQ-RJ0KHPT
+order: b0R
 ---
 Interface signal number 90.

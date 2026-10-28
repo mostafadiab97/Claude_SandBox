@@ -1,18 +1,19 @@
 ---
-id: DEF-E7YH4C
+id: REQ-3MDFQJ8
 type: defect
 title: "Defect: login screen does not restore error conditions"
 status: Draft
 priority: High
 owner: L. Samir
-parent: INFO-FH5FB3
-order: 30
+former-id: DEF-E7YH4C
+parent: REQ-MWRPGWA
+order: a2
 links:
   - type: relates-to
-    target: TC-JA7HA0
+    target: REQ-N19EMQJ
     confirmed: a6bd439470dd
   - type: relates-to
-    target: SYS-JD8TXM
+    target: REQ-670N5PW
     confirmed: f81d3e3b2c08
 ---
 Found during regression testing of build 2.3.0.

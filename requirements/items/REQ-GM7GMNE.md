@@ -1,15 +1,16 @@
 ---
-id: IF-H9FXGM
+id: REQ-GM7GMNE
 type: interface-requirement
 title: Detect the room temperature — detail
 status: Review
 tags:
   - accessibility
-parent: IF-D595F9
-order: 10
+former-id: IF-H9FXGM
+parent: REQ-2GC67E4
+order: a0
 links:
   - type: refines
-    target: IF-D595F9
+    target: REQ-2GC67E4
     confirmed: 08f5667580a6
 ---
 The watchdog shall report error conditions for at least 10 years.

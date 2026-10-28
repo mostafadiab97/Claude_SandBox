@@ -1,14 +1,15 @@
 ---
-id: SW-CV2BZC
+id: REQ-0MTNJVT
 type: software-requirement
 title: Wi-Fi module switchs audit records
 status: Draft
 priority: Low
-parent: SYS-N6E1NE
-order: 10
+former-id: SW-CV2BZC
+parent: REQ-JGWJGVK
+order: a0
 links:
   - type: refines
-    target: SYS-N6E1NE
+    target: REQ-JGWJGVK
     confirmed: 64bccdc6172c
 ---
 The Bluetooth LE link shall restore energy consumption for up to 8 zones.

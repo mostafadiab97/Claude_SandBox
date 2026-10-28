@@ -1,15 +1,16 @@
 ---
-id: SW-CKV9F9
+id: REQ-TAFPDKJ
 type: software-requirement
 title: Menu system logs audit records
 status: Draft
 priority: High
 owner: H. Mostafa
-parent: SYS-VN8P2R
-order: 20
+former-id: SW-CKV9F9
+parent: REQ-Z7KQTPA
+order: a1
 links:
   - type: refines
-    target: SYS-VN8P2R
+    target: REQ-Z7KQTPA
     confirmed: 09343cc43a29
 ---
 The status LED shall measure relay events for up to 8 zones.

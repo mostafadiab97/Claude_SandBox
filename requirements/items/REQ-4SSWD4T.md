@@ -1,16 +1,17 @@
 ---
-id: SYS-6NZHN4
+id: REQ-4SSWD4T
 type: system-requirement
 title: Zone valve detects energy consumption
 status: Draft
 priority: Low
 tags:
   - EMC
-parent: INFO-6DQTKV
-order: 200
+former-id: SYS-6NZHN4
+parent: REQ-7ED7ZET
+order: aJ
 links:
   - type: refines
-    target: STK-AA05P4
+    target: REQ-REA5VGA
     confirmed: e2bec3bcd11c
 ---
 The zone valve shall display firmware images in under 3 s.

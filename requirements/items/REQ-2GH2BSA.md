@@ -1,5 +1,5 @@
 ---
-id: SYS-DH9YV1
+id: REQ-2GH2BSA
 type: system-requirement
 title: OTA server synchronises sensor readings
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - accessibility
   - customer-request
-parent: INFO-YV5EZD
-order: 950
+former-id: SYS-DH9YV1
+parent: REQ-RE9ZKHF
+order: b0W
 links:
   - type: refines
-    target: STK-VT1KVD
+    target: REQ-36Y9ND0
     confirmed: fbcfb8475f32
 ---
 The OTA server shall switch the room temperature at least once per minute.

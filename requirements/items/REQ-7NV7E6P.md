@@ -1,12 +1,13 @@
 ---
-id: IF-NWVFKW
+id: REQ-7NV7E6P
 type: interface-requirement
 title: "Signal 170: error conditions"
 status: Review
 priority: Medium
 tags:
   - ux
-parent: INFO-2TM0JP
-order: 1700
+former-id: IF-NWVFKW
+parent: REQ-RJ0KHPT
+order: b1j
 ---
 Interface signal number 170.

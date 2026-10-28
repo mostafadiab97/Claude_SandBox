@@ -1,5 +1,5 @@
 ---
-id: HW-26M2M9
+id: REQ-QBG9EVM
 type: hardware-requirement
 title: Power supply switchs the operating mode
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - safety
   - release-2.0
-parent: SYS-KT5254
-order: 20
+former-id: HW-26M2M9
+parent: REQ-HTW9WGV
+order: a1
 links:
   - type: refines
-    target: SYS-KT5254
+    target: REQ-HTW9WGV
     confirmed: 609b39c5ecd0
 ---
 The enclosure shall restore sensor readings below 0.5 W in standby.

@@ -1,18 +1,19 @@
 ---
-id: TC-0EKP51
+id: REQ-NBRKN5S
 type: test-case
 title: "Verify: Watchdog authenticates the set point"
 status: Approved
 priority: Medium
 owner: É. Laurent
-parent: INFO-Z4TW4B
-order: 1520
+former-id: TC-0EKP51
+parent: REQ-K6FGAY0
+order: b1R
 links:
   - type: verifies
-    target: SYS-5XEZ64
+    target: REQ-BS6TC1D
     confirmed: 6b7714cc0542
   - type: verifies
-    target: SW-Z1XA6B
+    target: REQ-7HQPYPJ
     confirmed: 728d60341efa
 ---
 **Objective:** verify that the watchdog behaves as specified.

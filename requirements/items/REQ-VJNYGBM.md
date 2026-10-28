@@ -1,5 +1,5 @@
 ---
-id: HW-2ZQN0D
+id: REQ-VJNYGBM
 type: hardware-requirement
 title: Heating controller calibrates user preferences
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - EMC
   - cost
   - release-2.0
-parent: SYS-F5RTF4
-order: 30
+former-id: HW-2ZQN0D
+parent: REQ-KA1D06R
+order: a2
 links:
   - type: refines
-    target: SYS-F5RTF4
+    target: REQ-KA1D06R
     confirmed: 72eb3d42eaa8
 ---
 The heating controller shall log firmware images using AES-256-GCM.

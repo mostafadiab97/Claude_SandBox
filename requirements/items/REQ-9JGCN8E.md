@@ -1,5 +1,5 @@
 ---
-id: IF-S1K346
+id: REQ-9JGCN8E
 type: interface-requirement
 title: Home dashboard logs sensor readings
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - ux
   - connectivity
-parent: SYS-99Z4G3
-order: 10
+former-id: IF-S1K346
+parent: REQ-39K6DTS
+order: a0
 links:
   - type: refines
-    target: SYS-99Z4G3
+    target: REQ-39K6DTS
     confirmed: 7b8278116333
 ---
 The notification service shall calibrate humidity values without user interaction.

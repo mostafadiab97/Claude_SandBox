@@ -1,5 +1,5 @@
 ---
-id: IF-DWR7TD
+id: REQ-1DV5J6V
 type: interface-requirement
 title: "Signal 377: the room temperature"
 status: Review
@@ -8,7 +8,8 @@ owner: S. Adel
 tags:
   - security
   - accessibility
-parent: INFO-2TM0JP
-order: 3770
+former-id: IF-DWR7TD
+parent: REQ-RJ0KHPT
+order: b54
 ---
 Interface signal number 377.

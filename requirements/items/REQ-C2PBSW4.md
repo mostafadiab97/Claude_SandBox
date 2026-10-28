@@ -1,5 +1,5 @@
 ---
-id: SW-K716KQ
+id: REQ-C2PBSW4
 type: software-requirement
 title: Limit error conditions — detail
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - safety
   - release-1.0
   - connectivity
-parent: SW-RB976T
-order: 10
+former-id: SW-K716KQ
+parent: REQ-40AFNXK
+order: a0
 links:
   - type: refines
-    target: SW-RB976T
+    target: REQ-40AFNXK
     confirmed: 5b0c85ffc293
 ---
 The status LED shall log the room temperature at least once per minute.

@@ -1,14 +1,15 @@
 ---
-id: HW-V6DYAE
+id: REQ-6CGED3C
 type: hardware-requirement
 title: Report the connection state — detail
 status: Approved
 owner: A. Hassan
-parent: HW-WESN49
-order: 10
+former-id: HW-V6DYAE
+parent: REQ-Q98MYYX
+order: a0
 links:
   - type: refines
-    target: HW-WESN49
+    target: REQ-Q98MYYX
     confirmed: 50f6887991f9
 ---
 The battery backup shall synchronise sensor readings below 0.5 W in standby.

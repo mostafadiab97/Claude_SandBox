@@ -1,16 +1,17 @@
 ---
-id: IF-BK7NBS
+id: REQ-51R6X7E
 type: interface-requirement
 title: Secure boot validates humidity values
 status: Review
 owner: N. Kamal
 tags:
   - accessibility
-parent: SYS-RAGJWJ
-order: 10
+former-id: IF-BK7NBS
+parent: REQ-60B7EGX
+order: a0
 links:
   - type: refines
-    target: SYS-RAGJWJ
+    target: REQ-60B7EGX
     confirmed: 8fefcc6bf8d8
 ---
 The over-temperature monitor shall log schedule entries in all supported languages.

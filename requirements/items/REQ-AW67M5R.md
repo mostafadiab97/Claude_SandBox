@@ -1,15 +1,16 @@
 ---
-id: TC-TM21YZ
+id: REQ-AW67M5R
 type: test-case
 title: "Verify: Battery backup limits safety limits"
 status: Obsolete
 priority: Medium
 owner: N. Kamal
-parent: INFO-MACGC3
-order: 1540
+former-id: TC-TM21YZ
+parent: REQ-F9Z1FYS
+order: b1T
 links:
   - type: verifies
-    target: SYS-SA1DH7
+    target: REQ-H28Q7YZ
     confirmed: 339efbb2167c
 ---
 **Objective:** verify that the battery backup behaves as specified.

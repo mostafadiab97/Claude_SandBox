@@ -1,14 +1,15 @@
 ---
-id: CR-5QYJCM
+id: REQ-FQGVD4N
 type: change-request
 title: "CR: extend enclosure to report the room temperature"
 status: Draft
 owner: M. Farouk
-parent: INFO-BB7M2N
-order: 80
+former-id: CR-5QYJCM
+parent: REQ-995FBPM
+order: a7
 links:
   - type: relates-to
-    target: SYS-WRCCVQ
+    target: REQ-7AV7MGG
     confirmed: 22615937890b
 ---
 Requested by customer support (ticket #15886).

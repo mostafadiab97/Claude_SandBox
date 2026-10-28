@@ -1,5 +1,5 @@
 ---
-id: DE-KZYV2Y
+id: REQ-RRG231R
 type: design-element
 title: Module home_dashboard_72
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - connectivity
   - power
   - security
-parent: SW-RS2YWD
-order: 10
+former-id: DE-KZYV2Y
+parent: REQ-FG6KBH6
+order: a0
 links:
   - type: implements
-    target: SW-RS2YWD
+    target: REQ-FG6KBH6
     confirmed: 20286dd307d9
 ---
 Implemented in `src/app/home_dashboard.c`.

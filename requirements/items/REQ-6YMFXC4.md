@@ -1,15 +1,16 @@
 ---
-id: IF-8EVPCQ
+id: REQ-6YMFXC4
 type: interface-requirement
 title: Tamper detection validates the connection state
 status: Draft
 priority: Medium
 owner: S. Adel
-parent: SYS-ZDTV2N
-order: 20
+former-id: IF-8EVPCQ
+parent: REQ-YT310K0
+order: a1
 links:
   - type: refines
-    target: SYS-ZDTV2N
+    target: REQ-YT310K0
     confirmed: 57a8c3860cec
 ---
 The watchdog shall restore energy consumption after a power loss.

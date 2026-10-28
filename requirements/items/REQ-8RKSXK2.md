@@ -1,5 +1,5 @@
 ---
-id: TC-1R5KVG
+id: REQ-8RKSXK2
 type: test-case
 title: "Verify: Boiler interface calibrates audit records"
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - i18n
   - accessibility
-parent: INFO-MS9DAG
-order: 1290
+former-id: TC-1R5KVG
+parent: REQ-XGWSK2K
+order: b14
 links:
   - type: verifies
-    target: SYS-X7MMJ8
+    target: REQ-66AJY46
     confirmed: 0b9a1e94967b
 ---
 **Objective:** verify that the boiler interface behaves as specified.

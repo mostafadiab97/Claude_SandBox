@@ -1,5 +1,5 @@
 ---
-id: TC-P8K9KT
+id: REQ-MS8K7MH
 type: test-case
 title: "Verify: Notification service restores sensor readings"
 status: Review
@@ -8,11 +8,12 @@ tags:
   - EMC
   - customer-request
   - safety
-parent: INFO-J0FETE
-order: 780
+former-id: TC-P8K9KT
+parent: REQ-WR5ZJN9
+order: b0F
 links:
   - type: verifies
-    target: SYS-0847E1
+    target: REQ-5KHGZ49
     confirmed: d8c0c127c7a5
 ---
 **Objective:** verify that the notification service behaves as specified.

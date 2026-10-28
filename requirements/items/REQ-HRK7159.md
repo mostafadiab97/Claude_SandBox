@@ -1,10 +1,11 @@
 ---
-id: IF-N6ECCE
+id: REQ-HRK7159
 type: interface-requirement
 title: "Signal 199: the connection state"
 status: Approved
 owner: A. Hassan
-parent: INFO-2TM0JP
-order: 1990
+former-id: IF-N6ECCE
+parent: REQ-RJ0KHPT
+order: b2C
 ---
 Interface signal number 199.

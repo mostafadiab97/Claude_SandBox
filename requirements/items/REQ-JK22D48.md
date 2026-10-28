@@ -1,5 +1,5 @@
 ---
-id: TC-GKSVN5
+id: REQ-JK22D48
 type: test-case
 title: "Verify: Menu system stores error conditions"
 status: Approved
@@ -8,14 +8,15 @@ tags:
   - ux
   - release-2.0
   - i18n
-parent: INFO-HTSZ15
-order: 1120
+former-id: TC-GKSVN5
+parent: REQ-Y9VHHKA
+order: b0n
 links:
   - type: verifies
-    target: SYS-J06B7Z
+    target: REQ-J32MDNX
     confirmed: 2ddf44dea71d
   - type: verifies
-    target: SW-6CPXNC
+    target: REQ-8YNB1N1
     confirmed: bf52e8c5fcc5
 ---
 **Objective:** verify that the menu system behaves as specified.

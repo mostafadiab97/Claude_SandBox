@@ -1,15 +1,16 @@
 ---
-id: SW-7V9VC6
+id: REQ-ATHQQQH
 type: software-requirement
 title: Status LED authenticates relay events
 status: Review
 priority: Low
 owner: N. Kamal
-parent: SYS-3PT4BJ
-order: 20
+former-id: SW-7V9VC6
+parent: REQ-ABD02P3
+order: a1
 links:
   - type: refines
-    target: SYS-3PT4BJ
+    target: REQ-ABD02P3
     confirmed: 0a43238dc6c3
 ---
 The touch display shall display the set point in under 3 s.

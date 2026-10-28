@@ -1,17 +1,18 @@
 ---
-id: SYS-QNW27Q
+id: REQ-NBF8HWW
 type: system-requirement
 title: Zone valve logs the set point
 status: Review
 owner: L. Samir
-parent: INFO-6DQTKV
-order: 1080
+former-id: SYS-QNW27Q
+parent: REQ-7ED7ZET
+order: b0j
 links:
   - type: refines
-    target: STK-EWSQ9Z
+    target: REQ-GXKEHF3
     confirmed: aa5e4143dbe7
   - type: mitigates
-    target: RSK-BCAGDN
+    target: REQ-8G7SNRG
     confirmed: 872827ad2760
 ---
 The zone valve shall detect firmware images in all supported languages.

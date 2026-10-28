@@ -1,5 +1,5 @@
 ---
-id: TC-BX7CG2
+id: REQ-9JQHD2E
 type: test-case
 title: "Verify: OTA server switchs user preferences"
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - ux
   - power
   - performance
-parent: INFO-7P4D8D
-order: 1450
+former-id: TC-BX7CG2
+parent: REQ-8351896
+order: b1K
 links:
   - type: verifies
-    target: SYS-P4DXM6
+    target: REQ-CM5Q1FW
     confirmed: 45befcee12fc
   - type: verifies
-    target: SW-6T1MBB
+    target: REQ-MRZRVZM
     confirmed: e4527fa2a61d
 ---
 **Objective:** verify that the OTA server behaves as specified.

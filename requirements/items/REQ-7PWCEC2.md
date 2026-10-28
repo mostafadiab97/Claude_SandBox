@@ -1,17 +1,18 @@
 ---
-id: TC-1TZSTX
+id: REQ-7PWCEC2
 type: test-case
 title: "Verify: Relay board restores relay events"
 status: Approved
 owner: A. Hassan
-parent: INFO-MACGC3
-order: 1020
+former-id: TC-1TZSTX
+parent: REQ-F9Z1FYS
+order: b0d
 links:
   - type: verifies
-    target: SYS-N56168
+    target: REQ-2QERQ97
     confirmed: a37e51579246
   - type: verifies
-    target: SW-65YC2Z
+    target: REQ-QBK4Z02
     confirmed: a23609dd7210
 ---
 **Objective:** verify that the relay board behaves as specified.

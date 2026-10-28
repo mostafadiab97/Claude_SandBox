@@ -1,15 +1,16 @@
 ---
-id: IF-95Q9YR
+id: REQ-VA0Y3DF
 type: interface-requirement
 title: Regulation loop authenticates user preferences
 status: Approved
 priority: Medium
 owner: N. Kamal
-parent: SYS-0P0DNN
-order: 10
+former-id: IF-95Q9YR
+parent: REQ-MKJBG9X
+order: a0
 links:
   - type: refines
-    target: SYS-0P0DNN
+    target: REQ-MKJBG9X
     confirmed: fb01b79aacb5
 ---
 The boiler interface shall report humidity values below 0.5 W in standby.

@@ -1,5 +1,5 @@
 ---
-id: HW-4H4QJ7
+id: REQ-YABN83M
 type: hardware-requirement
 title: Relay board restores energy consumption
 status: Review
@@ -8,11 +8,12 @@ tags:
   - release-1.0
   - regulatory
   - power
-parent: SYS-85P0FC
-order: 30
+former-id: HW-4H4QJ7
+parent: REQ-DH6CR1T
+order: a2
 links:
   - type: refines
-    target: SYS-85P0FC
+    target: REQ-DH6CR1T
     confirmed: 03d6e9fd5533
 ---
 The power supply shall store error conditions when the network is unavailable.

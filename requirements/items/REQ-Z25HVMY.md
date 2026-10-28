@@ -1,5 +1,5 @@
 ---
-id: IF-X9Q9KS
+id: REQ-Z25HVMY
 type: interface-requirement
 title: "Signal 629: safety limits"
 status: Draft
@@ -8,7 +8,8 @@ owner: H. Mostafa
 tags:
   - ux
   - safety
-parent: INFO-2TM0JP
-order: 6290
+former-id: IF-X9Q9KS
+parent: REQ-RJ0KHPT
+order: b98
 ---
 Interface signal number 629.

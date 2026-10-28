@@ -1,5 +1,5 @@
 ---
-id: IF-G1HS3F
+id: REQ-0KSSB61
 type: interface-requirement
 title: Notification service limits the connection state
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - connectivity
   - release-1.0
   - security
-parent: SYS-PV76TW
-order: 10
+former-id: IF-G1HS3F
+parent: REQ-N38A7FV
+order: a0
 links:
   - type: refines
-    target: SYS-PV76TW
+    target: REQ-N38A7FV
     confirmed: b6baf2d57c8f
 ---
 The login screen shall switch safety limits for at least 10 years.

@@ -1,5 +1,5 @@
 ---
-id: TC-QP5201
+id: REQ-Z0M4ZPB
 type: test-case
 title: "Verify: Wi-Fi module authenticates the set point"
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 tags:
   - i18n
   - EMC
-parent: INFO-F0M7VC
-order: 1190
+former-id: TC-QP5201
+parent: REQ-67RQXCK
+order: b0u
 links:
   - type: verifies
-    target: SYS-1GR7M6
+    target: REQ-8K4Y908
     confirmed: ccffd7b9a5e5
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

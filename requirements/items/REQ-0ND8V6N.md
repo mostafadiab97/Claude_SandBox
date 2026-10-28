@@ -1,15 +1,16 @@
 ---
-id: SW-2E2XE0
+id: REQ-0ND8V6N
 type: software-requirement
 title: Report firmware images — detail
 status: Approved
 priority: High
 owner: A. Hassan
-parent: SW-56P9P7
-order: 10
+former-id: SW-2E2XE0
+parent: REQ-MEAE193
+order: a0
 links:
   - type: refines
-    target: SW-56P9P7
+    target: REQ-MEAE193
     confirmed: 7db347ec50be
 ---
 The over-temperature monitor shall validate firmware images at least once per minute.

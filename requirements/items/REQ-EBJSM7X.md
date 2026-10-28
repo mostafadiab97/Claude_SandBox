@@ -1,10 +1,11 @@
 ---
-id: IF-RMXZHT
+id: REQ-EBJSM7X
 type: interface-requirement
 title: "Signal 010: the room temperature"
 status: Review
 priority: Medium
-parent: INFO-2TM0JP
-order: 100
+former-id: IF-RMXZHT
+parent: REQ-RJ0KHPT
+order: a9
 ---
 Interface signal number 10.

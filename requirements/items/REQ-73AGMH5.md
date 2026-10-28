@@ -1,16 +1,17 @@
 ---
-id: TC-QB856F
+id: REQ-73AGMH5
 type: test-case
 title: "Verify: User account service measures safety limits"
 status: Approved
 priority: High
 tags:
   - accessibility
-parent: INFO-7P4D8D
-order: 1290
+former-id: TC-QB856F
+parent: REQ-8351896
+order: b14
 links:
   - type: verifies
-    target: SYS-5T8QY1
+    target: REQ-ECXS8HP
     confirmed: e938f1e76d9e
 ---
 **Objective:** verify that the user account service behaves as specified.

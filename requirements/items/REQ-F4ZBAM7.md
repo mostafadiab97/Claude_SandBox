@@ -1,14 +1,15 @@
 ---
-id: DE-ZPHX81
+id: REQ-F4ZBAM7
 type: design-element
 title: Module OTA_server_48
 status: Draft
 priority: Medium
-parent: SW-WTR0RD
-order: 10
+former-id: DE-ZPHX81
+parent: REQ-4QH2JK6
+order: a0
 links:
   - type: implements
-    target: SW-WTR0RD
+    target: REQ-4QH2JK6
     confirmed: 89b38a947458
 ---
 Implemented in `src/cloud/OTA_server.c`.

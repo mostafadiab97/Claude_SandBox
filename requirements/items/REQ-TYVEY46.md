@@ -1,5 +1,5 @@
 ---
-id: IF-AMZEJB
+id: REQ-TYVEY46
 type: interface-requirement
 title: "Signal 606: the operating mode"
 status: Draft
@@ -7,7 +7,8 @@ priority: Medium
 owner: M. Farouk
 tags:
   - accessibility
-parent: INFO-2TM0JP
-order: 6060
+former-id: IF-AMZEJB
+parent: REQ-RJ0KHPT
+order: b8l
 ---
 Interface signal number 606.

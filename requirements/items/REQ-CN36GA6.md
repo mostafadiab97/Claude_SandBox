@@ -1,5 +1,5 @@
 ---
-id: SYS-95649D
+id: REQ-CN36GA6
 type: system-requirement
 title: Tamper detection authenticates user preferences
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - power
   - release-2.0
-parent: INFO-0229G8
-order: 180
+former-id: SYS-95649D
+parent: REQ-H9113WA
+order: aH
 links:
   - type: refines
-    target: STK-XSQC89
+    target: REQ-Y7E2CS3
     confirmed: 66c246d6b1dc
 ---
 The tamper detection shall display sensor readings after a power loss.

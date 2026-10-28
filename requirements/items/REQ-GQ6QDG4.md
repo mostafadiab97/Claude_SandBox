@@ -1,5 +1,5 @@
 ---
-id: IF-Q13GXF
+id: REQ-GQ6QDG4
 type: interface-requirement
 title: "Signal 384: sensor readings"
 status: Review
@@ -8,7 +8,8 @@ tags:
   - security
   - customer-request
   - safety
-parent: INFO-2TM0JP
-order: 3840
+former-id: IF-Q13GXF
+parent: REQ-RJ0KHPT
+order: b5B
 ---
 Interface signal number 384.

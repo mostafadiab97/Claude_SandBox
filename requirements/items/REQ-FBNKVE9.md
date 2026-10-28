@@ -1,5 +1,5 @@
 ---
-id: TC-M4PZA5
+id: REQ-FBNKVE9
 type: test-case
 title: "Verify: Watchdog measures relay events"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - safety
   - ux
-parent: INFO-Z4TW4B
-order: 1270
+former-id: TC-M4PZA5
+parent: REQ-K6FGAY0
+order: b12
 links:
   - type: verifies
-    target: SYS-XJ8215
+    target: REQ-G8523S3
     confirmed: 56e95d4cfbe7
 ---
 **Objective:** verify that the watchdog behaves as specified.

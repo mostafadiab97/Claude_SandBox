@@ -1,5 +1,5 @@
 ---
-id: SW-TX1A95
+id: REQ-H5BRY0S
 type: software-requirement
 title: Menu system encrypts firmware images
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - EMC
   - performance
-parent: SYS-ASMZ9Q
-order: 20
+former-id: SW-TX1A95
+parent: REQ-1FQWZ0W
+order: a1
 links:
   - type: refines
-    target: SYS-ASMZ9Q
+    target: REQ-1FQWZ0W
     confirmed: 41b07dbfc705
 ---
 The touch display shall measure the connection state below 0.5 W in standby.

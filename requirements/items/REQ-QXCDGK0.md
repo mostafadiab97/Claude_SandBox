@@ -1,5 +1,5 @@
 ---
-id: TC-BMVNTK
+id: REQ-QXCDGK0
 type: test-case
 title: "Verify: Power supply calibrates audit records"
 status: Draft
@@ -7,14 +7,15 @@ priority: Medium
 tags:
   - regulatory
   - cost
-parent: INFO-MACGC3
-order: 1700
+former-id: TC-BMVNTK
+parent: REQ-F9Z1FYS
+order: b1j
 links:
   - type: verifies
-    target: SYS-1Q68X4
+    target: REQ-ABB486H
     confirmed: 01eaedbf5ab3
   - type: verifies
-    target: SW-XV2Q87
+    target: REQ-VBV4FBB
     confirmed: 43bc4b090bf3
 ---
 **Objective:** verify that the power supply behaves as specified.

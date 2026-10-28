@@ -1,15 +1,16 @@
 ---
-id: TC-810F06
+id: REQ-EAXG1RG
 type: test-case
 title: "Verify: Local API notifys the connection state"
 status: Approved
 priority: High
 owner: R. Nabil
-parent: INFO-F0M7VC
-order: 300
+former-id: TC-810F06
+parent: REQ-67RQXCK
+order: aT
 links:
   - type: verifies
-    target: SYS-610ZXV
+    target: REQ-QFQR7WB
     confirmed: 6280da70f001
 ---
 **Objective:** verify that the local API behaves as specified.

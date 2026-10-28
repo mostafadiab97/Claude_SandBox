@@ -1,5 +1,5 @@
 ---
-id: SYS-SSMA7A
+id: REQ-6G1HCGG
 type: system-requirement
 title: Enclosure stores humidity values
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - cost
   - release-1.0
   - ux
-parent: INFO-A6P9A8
-order: 360
+former-id: SYS-SSMA7A
+parent: REQ-CMCS31A
+order: aZ
 links:
   - type: refines
-    target: STK-M28XWW
+    target: REQ-2678XV5
     confirmed: bcf262f10744
   - type: mitigates
-    target: RSK-GX4MEK
+    target: REQ-63P4KSY
     confirmed: 9d07153fd24b
 ---
 The enclosure shall display audit records without user interaction.

@@ -1,15 +1,16 @@
 ---
-id: SW-JY1437
+id: REQ-BN4W9B5
 type: software-requirement
 title: Measure user preferences — detail
 status: Draft
 priority: Medium
 owner: É. Laurent
-parent: SW-03A6HC
-order: 10
+former-id: SW-JY1437
+parent: REQ-R912CQD
+order: a0
 links:
   - type: refines
-    target: SW-03A6HC
+    target: REQ-R912CQD
     confirmed: 1b581592d8c2
 ---
 The zone valve shall notify safety limits for up to 8 zones.

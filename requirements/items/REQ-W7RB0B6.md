@@ -1,15 +1,16 @@
 ---
-id: SW-CHVSVX
+id: REQ-W7RB0B6
 type: software-requirement
 title: Encryption layer displays the connection state
 status: Review
 priority: High
 owner: Y. Saber
-parent: SYS-ZQYMN8
-order: 40
+former-id: SW-CHVSVX
+parent: REQ-RHW7HNJ
+order: a3
 links:
   - type: refines
-    target: SYS-ZQYMN8
+    target: REQ-RHW7HNJ
     confirmed: a257d6fd1501
 ---
 The watchdog shall authenticate energy consumption for at least 10 years.

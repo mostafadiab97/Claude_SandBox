@@ -1,15 +1,16 @@
 ---
-id: SW-6Q9CPR
+id: REQ-FS6C9XB
 type: software-requirement
 title: Touch display detects schedule entries
 status: Review
 priority: High
 owner: R. Nabil
-parent: SYS-SF88T3
-order: 10
+former-id: SW-6Q9CPR
+parent: REQ-JVZ4JGJ
+order: a0
 links:
   - type: refines
-    target: SYS-SF88T3
+    target: REQ-JVZ4JGJ
     confirmed: 209502b43a6d
 ---
 The rotary knob shall synchronise safety limits within 200 ms.

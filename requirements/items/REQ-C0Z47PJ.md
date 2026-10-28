@@ -1,5 +1,5 @@
 ---
-id: SYS-PN5J1K
+id: REQ-C0Z47PJ
 type: system-requirement
 title: Encryption layer measures the room temperature
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - ux
   - regulatory
-parent: INFO-0229G8
-order: 1590
+former-id: SYS-PN5J1K
+parent: REQ-H9113WA
+order: b1Y
 links:
   - type: refines
-    target: STK-7X7S81
+    target: REQ-N96QXC6
     confirmed: 0b0c08c75491
 ---
 The encryption layer shall report sensor readings in all supported languages.

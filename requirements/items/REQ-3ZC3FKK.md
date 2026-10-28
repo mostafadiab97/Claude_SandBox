@@ -1,5 +1,5 @@
 ---
-id: IF-C85M4T
+id: REQ-3ZC3FKK
 type: interface-requirement
 title: Validate the room temperature — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - safety
   - customer-request
-parent: IF-8GA9Q5
-order: 10
+former-id: IF-C85M4T
+parent: REQ-JYAD7M7
+order: a0
 links:
   - type: refines
-    target: IF-8GA9Q5
+    target: REQ-JYAD7M7
     confirmed: d06ca41af1a5
 ---
 The tamper detection shall display the set point without user interaction.

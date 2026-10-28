@@ -1,5 +1,5 @@
 ---
-id: HW-09V8DP
+id: REQ-MV7KCWY
 type: hardware-requirement
 title: Calibrate sensor readings — detail
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - customer-request
   - ux
   - i18n
-parent: HW-796A9N
-order: 10
+former-id: HW-09V8DP
+parent: REQ-YQQ8AVZ
+order: a0
 links:
   - type: refines
-    target: HW-796A9N
+    target: REQ-YQQ8AVZ
     confirmed: cfcec3502269
 ---
 The relay board shall report the set point after a power loss.

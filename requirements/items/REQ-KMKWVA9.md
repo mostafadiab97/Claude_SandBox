@@ -1,5 +1,5 @@
 ---
-id: TC-ZEMTH3
+id: REQ-KMKWVA9
 type: test-case
 title: "Regression: User account service measures firmware images"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - performance
   - ux
-parent: INFO-ECHASH
-order: 1060
+former-id: TC-ZEMTH3
+parent: REQ-6H15AV2
+order: b0h
 links:
   - type: verifies
-    target: SYS-26ZAHT
+    target: REQ-7CV0RRH
     confirmed: 2fc7492bf655
 ---
 **Objective:** verify that the device behaves as specified.

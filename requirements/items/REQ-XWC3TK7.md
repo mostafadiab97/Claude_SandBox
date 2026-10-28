@@ -1,5 +1,5 @@
 ---
-id: TC-659FFR
+id: REQ-XWC3TK7
 type: test-case
 title: "Regression: User account service stores energy consumption"
 status: Review
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - i18n
   - connectivity
-parent: INFO-ECHASH
-order: 1770
+former-id: TC-659FFR
+parent: REQ-6H15AV2
+order: b1q
 links:
   - type: verifies
-    target: SYS-XZE982
+    target: REQ-QW1EM2B
     confirmed: bc880bb42e39
 ---
 **Objective:** verify that the device behaves as specified.

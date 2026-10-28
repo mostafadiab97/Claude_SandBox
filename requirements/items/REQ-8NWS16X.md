@@ -1,18 +1,19 @@
 ---
-id: TC-T93CYR
+id: REQ-8NWS16X
 type: test-case
 title: "Verify: Telemetry pipeline validates audit records"
 status: Draft
 priority: High
 owner: N. Kamal
-parent: INFO-7P4D8D
-order: 1170
+former-id: TC-T93CYR
+parent: REQ-8351896
+order: b0s
 links:
   - type: verifies
-    target: SYS-MK2A6C
+    target: REQ-V3SSX4W
     confirmed: f66b9f28edb5
   - type: verifies
-    target: SW-WKH1E6
+    target: REQ-522SQG5
     confirmed: 5823f2494dfc
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

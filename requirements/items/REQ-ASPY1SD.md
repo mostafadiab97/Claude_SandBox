@@ -1,15 +1,16 @@
 ---
-id: SYS-W7QYYZ
+id: REQ-ASPY1SD
 type: system-requirement
 title: Login screen measures user preferences
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: INFO-2XXBRS
-order: 300
+former-id: SYS-W7QYYZ
+parent: REQ-QYXGSQ4
+order: aT
 links:
   - type: refines
-    target: STK-SWTYBR
+    target: REQ-DVC5FZZ
     confirmed: 85d99e967934
 ---
 The login screen shall limit schedule entries after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: HW-2DA9K6
+id: REQ-98X0KHG
 type: hardware-requirement
 title: Relay board limits access tokens
 status: Approved
@@ -7,11 +7,12 @@ owner: H. Mostafa
 tags:
   - security
   - performance
-parent: SYS-QRF69W
-order: 30
+former-id: HW-2DA9K6
+parent: REQ-2D06W8P
+order: a2
 links:
   - type: refines
-    target: SYS-QRF69W
+    target: REQ-2D06W8P
     confirmed: 3f29c139da8b
 ---
 The enclosure shall synchronise access tokens when the network is unavailable.

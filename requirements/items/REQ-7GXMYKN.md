@@ -1,5 +1,5 @@
 ---
-id: TC-W6DJTM
+id: REQ-7GXMYKN
 type: test-case
 title: "Verify: Main PCB restores error conditions"
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: S. Adel
 tags:
   - release-2.0
-parent: INFO-MACGC3
-order: 1720
+former-id: TC-W6DJTM
+parent: REQ-F9Z1FYS
+order: b1l
 links:
   - type: verifies
-    target: SYS-EKVD3G
+    target: REQ-FCJNQJ7
     confirmed: da78120d2244
 ---
 **Objective:** verify that the main PCB behaves as specified.

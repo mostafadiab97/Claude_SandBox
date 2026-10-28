@@ -1,15 +1,16 @@
 ---
-id: SW-2K6B80
+id: REQ-PM8JPK8
 type: software-requirement
 title: Home dashboard stores the set point
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: SYS-FCT3MK
-order: 30
+former-id: SW-2K6B80
+parent: REQ-X86M4P6
+order: a2
 links:
   - type: refines
-    target: SYS-FCT3MK
+    target: REQ-X86M4P6
     confirmed: bc66988537d7
 ---
 The schedule editor shall measure the operating mode using AES-256-GCM.

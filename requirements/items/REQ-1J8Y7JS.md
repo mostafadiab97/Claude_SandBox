@@ -1,5 +1,5 @@
 ---
-id: HW-J749RX
+id: REQ-1J8Y7JS
 type: hardware-requirement
 title: Display the room temperature — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: L. Samir
 tags:
   - release-1.0
-parent: HW-TWJZ95
-order: 10
+former-id: HW-J749RX
+parent: REQ-6QZGBEG
+order: a0
 links:
   - type: refines
-    target: HW-TWJZ95
+    target: REQ-6QZGBEG
     confirmed: 333637d982d6
 ---
 The status LED shall limit energy consumption for up to 8 zones.

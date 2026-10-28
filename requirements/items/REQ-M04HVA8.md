@@ -1,15 +1,16 @@
 ---
-id: HW-4E4533
+id: REQ-M04HVA8
 type: hardware-requirement
 title: Login screen reports error conditions
 status: Draft
 priority: Medium
 owner: Y. Saber
-parent: SYS-61AT7T
-order: 30
+former-id: HW-4E4533
+parent: REQ-V02ZDCW
+order: a2
 links:
   - type: refines
-    target: SYS-61AT7T
+    target: REQ-V02ZDCW
     confirmed: 3112309b1698
 ---
 The login screen shall switch error conditions for up to 8 zones.

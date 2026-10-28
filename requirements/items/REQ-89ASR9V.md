@@ -1,5 +1,5 @@
 ---
-id: SW-NGJ1TQ
+id: REQ-89ASR9V
 type: software-requirement
 title: Display audit records — detail
 status: Approved
@@ -7,11 +7,12 @@ owner: محمد علي
 tags:
   - safety
   - performance
-parent: SW-A11K9R
-order: 10
+former-id: SW-NGJ1TQ
+parent: REQ-FKXQWD9
+order: a0
 links:
   - type: refines
-    target: SW-A11K9R
+    target: REQ-FKXQWD9
     confirmed: 24ff723bc647
 ---
 The notification service shall measure access tokens when the network is unavailable.

@@ -1,5 +1,5 @@
 ---
-id: RSK-M50SEK
+id: REQ-RGWQXYM
 type: risk
 title: "Risk: telemetry pipeline fails to display the set point"
 status: Approved
@@ -8,8 +8,9 @@ owner: S. Adel
 tags:
   - performance
   - power
-parent: INFO-5BPX0K
-order: 60
+former-id: RSK-M50SEK
+parent: REQ-RSBFCPW
+order: a5
 ---
 **Hazard:** the telemetry pipeline could fail to authenticate the room temperature.
 

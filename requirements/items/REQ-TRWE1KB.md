@@ -1,5 +1,5 @@
 ---
-id: IF-4216X0
+id: REQ-TRWE1KB
 type: interface-requirement
 title: Backlight switchs audit records
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - ux
-parent: SYS-RXWF3R
-order: 20
+former-id: IF-4216X0
+parent: REQ-YQW5K1F
+order: a1
 links:
   - type: refines
-    target: SYS-RXWF3R
+    target: REQ-YQW5K1F
     confirmed: f3d27e3d9880
 ---
 The backlight shall switch humidity values below 0.5 W in standby.

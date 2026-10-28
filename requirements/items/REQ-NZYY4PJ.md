@@ -1,5 +1,5 @@
 ---
-id: IF-881GNS
+id: REQ-NZYY4PJ
 type: interface-requirement
 title: Log relay events — detail
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - i18n
   - customer-request
   - accessibility
-parent: IF-J3PDCZ
-order: 10
+former-id: IF-881GNS
+parent: REQ-Z9W1VY8
+order: a0
 links:
   - type: refines
-    target: IF-J3PDCZ
+    target: REQ-Z9W1VY8
     confirmed: 6b9b4c39e4e4
 ---
 The rotary knob shall calibrate audit records in all supported languages.

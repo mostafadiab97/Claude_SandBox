@@ -1,5 +1,5 @@
 ---
-id: SYS-NW9FV6
+id: REQ-EC77G60
 type: system-requirement
 title: Bluetooth LE link displays sensor readings
 status: Obsolete
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - accessibility
   - cost
-parent: INFO-NRVHA2
-order: 140
+former-id: SYS-NW9FV6
+parent: REQ-6R94HFM
+order: aD
 links:
   - type: refines
-    target: STK-1R2QT3
+    target: REQ-3MGNW4R
     confirmed: 7ca04f22a1b8
 ---
 The Bluetooth LE link shall restore audit records within 200 ms.

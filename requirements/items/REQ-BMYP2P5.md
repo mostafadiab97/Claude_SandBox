@@ -1,5 +1,5 @@
 ---
-id: TC-YQTY99
+id: REQ-BMYP2P5
 type: test-case
 title: "Verify: Over-temperature monitor limits the operating mode"
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - security
   - power
   - safety
-parent: INFO-Z4TW4B
-order: 180
+former-id: TC-YQTY99
+parent: REQ-K6FGAY0
+order: aH
 links:
   - type: verifies
-    target: SYS-D3GXWM
+    target: REQ-V9G96MX
     confirmed: 837c0d0a7912
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

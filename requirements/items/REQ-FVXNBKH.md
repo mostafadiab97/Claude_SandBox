@@ -1,5 +1,5 @@
 ---
-id: SW-2076JX
+id: REQ-FVXNBKH
 type: software-requirement
 title: Notification service encrypts the room temperature
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - security
   - regulatory
-parent: SYS-64QHS8
-order: 10
+former-id: SW-2076JX
+parent: REQ-6CNE4KJ
+order: a0
 links:
   - type: refines
-    target: SYS-64QHS8
+    target: REQ-6CNE4KJ
     confirmed: 16f3ad7fdfaa
 ---
 The mobile app shall limit the operating mode within 200 ms.

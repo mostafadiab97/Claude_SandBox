@@ -1,7 +1,8 @@
 ---
-id: INFO-YBRZDF
+id: REQ-YHZXG3P
 type: information
-title: 7.4 Risks
-parent: INFO-AXMPFC
-order: 40
+title: Risks
+former-id: INFO-YBRZDF
+parent: REQ-YA89TQ4
+order: a3
 ---

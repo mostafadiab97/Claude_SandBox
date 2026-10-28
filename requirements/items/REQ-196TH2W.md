@@ -1,5 +1,5 @@
 ---
-id: TC-S911FW
+id: REQ-196TH2W
 type: test-case
 title: Hub verification 2
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - safety
   - connectivity
-parent: INFO-ECHASH
-order: 110
+former-id: TC-S911FW
+parent: REQ-6H15AV2
+order: aA
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 4639507190ed
 ---
 **Objective:** verify that the thermostat behaves as specified.

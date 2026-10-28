@@ -1,14 +1,15 @@
 ---
-id: TC-G9EDRM
+id: REQ-7EPBT21
 type: test-case
 title: "Regression: Tamper detection reports safety limits"
 status: Review
 priority: Medium
-parent: INFO-ECHASH
-order: 1080
+former-id: TC-G9EDRM
+parent: REQ-6H15AV2
+order: b0j
 links:
   - type: verifies
-    target: SYS-5RDA7K
+    target: REQ-85GMKSH
     confirmed: 0b455862f511
 ---
 **Objective:** verify that the device behaves as specified.

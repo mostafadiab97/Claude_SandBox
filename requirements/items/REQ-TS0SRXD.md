@@ -1,13 +1,14 @@
 ---
-id: RSK-4QT8E5
+id: REQ-TS0SRXD
 type: risk
 title: "Risk: relay board fails to limit energy consumption"
 status: Approved
 priority: High
 tags:
   - accessibility
-parent: INFO-2G41PE
-order: 20
+former-id: RSK-4QT8E5
+parent: REQ-Z74CXEK
+order: a1
 ---
 **Hazard:** the relay board could fail to detect the operating mode.
 

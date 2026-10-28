@@ -1,14 +1,15 @@
 ---
-id: TC-NAS8NX
+id: REQ-VEG2107
 type: test-case
 title: "Verify: Touch display logs the connection state"
 status: Draft
 owner: N. Kamal
-parent: INFO-HTSZ15
-order: 1260
+former-id: TC-NAS8NX
+parent: REQ-Y9VHHKA
+order: b11
 links:
   - type: verifies
-    target: SYS-PKAKPD
+    target: REQ-ZD3BDSG
     confirmed: 844d91cb4e42
 ---
 **Objective:** verify that the touch display behaves as specified.

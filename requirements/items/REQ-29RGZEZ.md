@@ -1,15 +1,16 @@
 ---
-id: SW-X2EZWN
+id: REQ-29RGZEZ
 type: software-requirement
 title: Notification service reports the set point
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: SYS-Y2RP9E
-order: 30
+former-id: SW-X2EZWN
+parent: REQ-AGZTEW3
+order: a2
 links:
   - type: refines
-    target: SYS-Y2RP9E
+    target: REQ-AGZTEW3
     confirmed: e9c58e7ee304
 ---
 The notification service shall restore humidity values for at least 10 years.

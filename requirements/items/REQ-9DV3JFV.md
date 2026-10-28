@@ -1,14 +1,15 @@
 ---
-id: HW-5MEB7Y
+id: REQ-9DV3JFV
 type: hardware-requirement
 title: Backlight logs the connection state
 status: Approved
 priority: High
-parent: SYS-3J52W8
-order: 10
+former-id: HW-5MEB7Y
+parent: REQ-A10PCXF
+order: a0
 links:
   - type: refines
-    target: SYS-3J52W8
+    target: REQ-A10PCXF
     confirmed: 92ce5ba8e9a8
 ---
 The backlight shall encrypt energy consumption at least once per minute.

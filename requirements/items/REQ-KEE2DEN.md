@@ -1,15 +1,16 @@
 ---
-id: TC-QKEPRE
+id: REQ-KEE2DEN
 type: test-case
 title: "Verify: Heat pump driver detects safety limits"
 status: Review
 priority: Medium
 owner: J. Müller
-parent: INFO-MS9DAG
-order: 820
+former-id: TC-QKEPRE
+parent: REQ-XGWSK2K
+order: b0J
 links:
   - type: verifies
-    target: SYS-CJV9ZN
+    target: REQ-4B3WXK7
     confirmed: 4ce4e1f3ce2e
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

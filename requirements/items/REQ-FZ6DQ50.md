@@ -1,5 +1,5 @@
 ---
-id: SW-A7A3QC
+id: REQ-FZ6DQ50
 type: software-requirement
 title: Regulation loop stores the set point
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: É. Laurent
 tags:
   - performance
-parent: SYS-RD9A4G
-order: 20
+former-id: SW-A7A3QC
+parent: REQ-1ERKA7D
+order: a1
 links:
   - type: refines
-    target: SYS-RD9A4G
+    target: REQ-1ERKA7D
     confirmed: 9168a6edb813
 ---
 The boiler interface shall encrypt error conditions using AES-256-GCM.

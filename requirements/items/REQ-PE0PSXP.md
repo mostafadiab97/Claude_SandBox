@@ -1,5 +1,5 @@
 ---
-id: HW-QZ7ZDG
+id: REQ-PE0PSXP
 type: hardware-requirement
 title: Power supply logs the connection state
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: R. Nabil
 tags:
   - performance
-parent: SYS-C9V44A
-order: 30
+former-id: HW-QZ7ZDG
+parent: REQ-ZJC48D7
+order: a2
 links:
   - type: refines
-    target: SYS-C9V44A
+    target: REQ-ZJC48D7
     confirmed: 884859b61c66
 ---
 The relay board shall authenticate audit records for up to 8 zones.

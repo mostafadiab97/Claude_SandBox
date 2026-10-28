@@ -1,14 +1,15 @@
 ---
-id: TC-K46BEV
+id: REQ-91JD0QT
 type: test-case
 title: "Verify: Login screen encrypts the operating mode"
 status: Approved
 priority: High
-parent: INFO-J0FETE
-order: 1320
+former-id: TC-K46BEV
+parent: REQ-WR5ZJN9
+order: b17
 links:
   - type: verifies
-    target: SYS-0N6C2D
+    target: REQ-G9QWE5X
     confirmed: 50615d725109
 ---
 **Objective:** verify that the login screen behaves as specified.

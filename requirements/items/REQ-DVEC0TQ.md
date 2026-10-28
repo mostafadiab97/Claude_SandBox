@@ -1,15 +1,16 @@
 ---
-id: IF-BXVFWK
+id: REQ-DVEC0TQ
 type: interface-requirement
 title: OTA server restores sensor readings
 status: Obsolete
 priority: High
 owner: K. Tanaka
-parent: SYS-NM7171
-order: 20
+former-id: IF-BXVFWK
+parent: REQ-ZF5TC5N
+order: a1
 links:
   - type: refines
-    target: SYS-NM7171
+    target: REQ-ZF5TC5N
     confirmed: 8f7808f9b2b6
 ---
 The OTA server shall restore energy consumption within 200 ms.

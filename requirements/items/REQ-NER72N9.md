@@ -1,7 +1,8 @@
 ---
-id: INFO-10C32K
+id: REQ-NER72N9
 type: information
-title: 1.1 Stakeholder needs
-parent: INFO-FBGE35
-order: 10
+title: Stakeholder needs
+former-id: INFO-10C32K
+parent: REQ-7VTYWPY
+order: a0
 ---

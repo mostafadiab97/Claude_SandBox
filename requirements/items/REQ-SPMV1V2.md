@@ -1,15 +1,16 @@
 ---
-id: CR-WTX3R4
+id: REQ-SPMV1V2
 type: change-request
 title: "CR: extend relay board to synchronise energy consumption"
 status: Review
 priority: Medium
 owner: N. Kamal
-parent: INFO-BB7M2N
-order: 60
+former-id: CR-WTX3R4
+parent: REQ-995FBPM
+order: a5
 links:
   - type: relates-to
-    target: SYS-3V07ZT
+    target: REQ-FM6JB6Z
     confirmed: bd35bc218b6c
 ---
 Requested by customer support (ticket #18434).

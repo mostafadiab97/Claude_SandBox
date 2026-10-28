@@ -1,15 +1,16 @@
 ---
-id: IF-QPDGVD
+id: REQ-JK7JQJK
 type: interface-requirement
 title: Tamper detection logs relay events
 status: Approved
 priority: Low
 owner: É. Laurent
-parent: SYS-Y6AMBA
-order: 20
+former-id: IF-QPDGVD
+parent: REQ-M8Y2DK0
+order: a1
 links:
   - type: refines
-    target: SYS-Y6AMBA
+    target: REQ-M8Y2DK0
     confirmed: 9d1ea6b10234
 ---
 The tamper detection shall notify the operating mode below 0.5 W in standby.

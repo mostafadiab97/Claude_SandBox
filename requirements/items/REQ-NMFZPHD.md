@@ -1,18 +1,19 @@
 ---
-id: TC-F0AJ40
+id: REQ-NMFZPHD
 type: test-case
 title: "Verify: Wi-Fi module authenticates the operating mode"
 status: Draft
 priority: Low
 owner: R. Nabil
-parent: INFO-F0M7VC
-order: 1130
+former-id: TC-F0AJ40
+parent: REQ-67RQXCK
+order: b0o
 links:
   - type: verifies
-    target: SYS-T58ZF0
+    target: REQ-NXTCN67
     confirmed: 5e996d12a800
   - type: verifies
-    target: SW-TPAM5F
+    target: REQ-TY56HQC
     confirmed: 93d7e93dc0c5
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

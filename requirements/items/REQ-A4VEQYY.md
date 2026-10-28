@@ -1,16 +1,17 @@
 ---
-id: CR-TTZ23A
+id: REQ-A4VEQYY
 type: change-request
 title: "CR: extend user account service to log safety limits"
 status: Draft
 priority: Medium
 tags:
   - security
-parent: INFO-M91889
-order: 50
+former-id: CR-TTZ23A
+parent: REQ-9FNWH0D
+order: a4
 links:
   - type: relates-to
-    target: SYS-KCC5WV
+    target: REQ-PSHZ85Z
     confirmed: 201bc4a0f987
 ---
 Requested by customer support (ticket #16294).

@@ -1,5 +1,5 @@
 ---
-id: SW-1F45WK
+id: REQ-A77NW71
 type: software-requirement
 title: Notification service notifys access tokens
 status: Review
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - regulatory
   - customer-request
-parent: SYS-A6TWWN
-order: 30
+former-id: SW-1F45WK
+parent: REQ-K1BZ0HP
+order: a2
 links:
   - type: refines
-    target: SYS-A6TWWN
+    target: REQ-K1BZ0HP
     confirmed: bf12fa6151fd
 ---
 The notification service shall authenticate audit records with an accuracy of ±0.5 °C.

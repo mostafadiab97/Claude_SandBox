@@ -1,5 +1,5 @@
 ---
-id: DE-5F0G45
+id: REQ-GE0YXBA
 type: design-element
 title: Module zone_valve_35
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - EMC
   - i18n
-parent: SW-VVB8Y3
-order: 20
+former-id: DE-5F0G45
+parent: REQ-63MNXC6
+order: a1
 links:
   - type: implements
-    target: SW-VVB8Y3
+    target: REQ-63MNXC6
     confirmed: 22e1b1f0be17
 ---
 Implemented in `src/heat/zone_valve.c`.

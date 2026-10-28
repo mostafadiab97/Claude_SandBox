@@ -1,5 +1,5 @@
 ---
-id: IF-E3BGY8
+id: REQ-KT25VE0
 type: interface-requirement
 title: Status LED authenticates energy consumption
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: É. Laurent
 tags:
   - cost
-parent: SYS-J06B7Z
-order: 20
+former-id: IF-E3BGY8
+parent: REQ-J32MDNX
+order: a1
 links:
   - type: refines
-    target: SYS-J06B7Z
+    target: REQ-J32MDNX
     confirmed: 2ddf44dea71d
 ---
 The menu system shall synchronise schedule entries for at least 10 years.

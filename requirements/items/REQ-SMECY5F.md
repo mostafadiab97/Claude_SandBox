@@ -1,5 +1,5 @@
 ---
-id: SW-DB9BTC
+id: REQ-SMECY5F
 type: software-requirement
 title: Synchronise the set point — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - EMC
   - customer-request
   - performance
-parent: SW-0PGBJQ
-order: 10
+former-id: SW-DB9BTC
+parent: REQ-Q181JHX
+order: a0
 links:
   - type: refines
-    target: SW-0PGBJQ
+    target: REQ-Q181JHX
     confirmed: 70943949df10
 ---
 The Bluetooth LE link shall validate relay events after a power loss.

@@ -1,15 +1,16 @@
 ---
-id: HW-17VBFD
+id: REQ-2J072KR
 type: hardware-requirement
 title: Power supply authenticates error conditions
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: SYS-HRRNGW
-order: 30
+former-id: HW-17VBFD
+parent: REQ-P7EBBT6
+order: a2
 links:
   - type: refines
-    target: SYS-HRRNGW
+    target: REQ-P7EBBT6
     confirmed: afbcfeedc1e2
 ---
 The power supply shall report firmware images for up to 8 zones.

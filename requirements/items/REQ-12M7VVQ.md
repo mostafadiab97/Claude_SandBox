@@ -1,5 +1,5 @@
 ---
-id: IF-YNF7QJ
+id: REQ-12M7VVQ
 type: interface-requirement
 title: Encrypt the room temperature — detail
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - power
   - security
-parent: IF-VB3RPC
-order: 10
+former-id: IF-YNF7QJ
+parent: REQ-9CFMH1M
+order: a0
 links:
   - type: refines
-    target: IF-VB3RPC
+    target: REQ-9CFMH1M
     confirmed: 524a3ca040eb
 ---
 The secure boot shall encrypt access tokens within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: IF-TTKDS5
+id: REQ-C88Z2Y1
 type: interface-requirement
 title: OTA server authenticates humidity values
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - cost
   - release-1.0
-parent: SYS-N0SS0N
-order: 20
+former-id: IF-TTKDS5
+parent: REQ-SPPTVWG
+order: a1
 links:
   - type: refines
-    target: SYS-N0SS0N
+    target: REQ-SPPTVWG
     confirmed: a340367acc67
 ---
 The user account service shall synchronise relay events below 0.5 W in standby.

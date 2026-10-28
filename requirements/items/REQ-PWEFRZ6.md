@@ -1,5 +1,5 @@
 ---
-id: IF-HXPSCX
+id: REQ-PWEFRZ6
 type: interface-requirement
 title: Authenticate the set point — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - connectivity
   - security
-parent: IF-XCRKCM
-order: 10
+former-id: IF-HXPSCX
+parent: REQ-K0WJX06
+order: a0
 links:
   - type: refines
-    target: IF-XCRKCM
+    target: REQ-K0WJX06
     confirmed: bc0b40d8b7c4
 ---
 The power supply shall calibrate the room temperature for up to 8 zones.

@@ -1,15 +1,16 @@
 ---
-id: SW-P5Y0ED
+id: REQ-T6M6VTH
 type: software-requirement
 title: Authenticate the set point — detail
 status: Draft
 priority: High
 owner: H. Mostafa
-parent: SW-172N3Y
-order: 10
+former-id: SW-P5Y0ED
+parent: REQ-XHA961P
+order: a0
 links:
   - type: refines
-    target: SW-172N3Y
+    target: REQ-XHA961P
     confirmed: be24b0b13030
 ---
 The encryption layer shall authenticate schedule entries for at least 10 years.

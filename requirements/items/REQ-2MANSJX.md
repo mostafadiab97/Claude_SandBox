@@ -1,15 +1,16 @@
 ---
-id: SW-T58TWY
+id: REQ-2MANSJX
 type: software-requirement
 title: Measure schedule entries — detail
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: SW-VMZPTT
-order: 10
+former-id: SW-T58TWY
+parent: REQ-VYD9KVR
+order: a0
 links:
   - type: refines
-    target: SW-VMZPTT
+    target: REQ-VYD9KVR
     confirmed: ed6c64f9ff43
 ---
 The watchdog shall measure the operating mode for at least 10 years.

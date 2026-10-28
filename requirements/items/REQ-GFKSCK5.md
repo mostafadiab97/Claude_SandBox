@@ -1,15 +1,16 @@
 ---
-id: SYS-X57709
+id: REQ-GFKSCK5
 type: system-requirement
 title: Zigbee radio logs error conditions
 status: Draft
 priority: Medium
 owner: N. Kamal
-parent: INFO-NRVHA2
-order: 1170
+former-id: SYS-X57709
+parent: REQ-6R94HFM
+order: b0s
 links:
   - type: refines
-    target: STK-XSZSEZ
+    target: REQ-YN3XNWJ
     confirmed: 1038f4e2e9d4
 ---
 The Zigbee radio shall validate access tokens without user interaction.

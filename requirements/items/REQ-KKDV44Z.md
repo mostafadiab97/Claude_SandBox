@@ -1,5 +1,5 @@
 ---
-id: SYS-S7RBP0
+id: REQ-KKDV44Z
 type: system-requirement
 title: Backlight authenticates audit records
 status: Review
@@ -9,11 +9,12 @@ tags:
   - power
   - release-2.0
   - ux
-parent: INFO-PDR6FV
-order: 230
+former-id: SYS-S7RBP0
+parent: REQ-2ZA2TRZ
+order: aM
 links:
   - type: refines
-    target: STK-EHVDJF
+    target: REQ-4T80DB9
     confirmed: cf195cdb6a20
 ---
 The backlight shall restore humidity values using AES-256-GCM.

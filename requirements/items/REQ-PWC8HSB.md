@@ -1,5 +1,5 @@
 ---
-id: SW-JC1HME
+id: REQ-PWC8HSB
 type: software-requirement
 title: Login screen notifys safety limits
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - regulatory
   - EMC
-parent: SYS-XTEFPC
-order: 20
+former-id: SW-JC1HME
+parent: REQ-6V3ZCKS
+order: a1
 links:
   - type: refines
-    target: SYS-XTEFPC
+    target: REQ-6V3ZCKS
     confirmed: d422e1c60e4c
 ---
 The schedule editor shall calibrate relay events for up to 8 zones.

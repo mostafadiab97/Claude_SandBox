@@ -1,15 +1,16 @@
 ---
-id: HW-73AR92
+id: REQ-614SF4C
 type: hardware-requirement
 title: Main PCB stores access tokens
 status: Approved
 priority: High
 owner: N. Kamal
-parent: SYS-4BMNYZ
-order: 20
+former-id: HW-73AR92
+parent: REQ-6GK5ET0
+order: a1
 links:
   - type: refines
-    target: SYS-4BMNYZ
+    target: REQ-6GK5ET0
     confirmed: 46035baf3f33
 ---
 The power supply shall limit relay events without user interaction.

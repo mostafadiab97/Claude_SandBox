@@ -1,5 +1,5 @@
 ---
-id: SYS-VCX096
+id: REQ-NPB13E0
 type: system-requirement
 title: Enclosure detects the operating mode
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 owner: A. Hassan
 tags:
   - accessibility
-parent: INFO-A6P9A8
-order: 820
+former-id: SYS-VCX096
+parent: REQ-CMCS31A
+order: b0J
 links:
   - type: refines
-    target: STK-JAQHJP
+    target: REQ-V8PT5BV
     confirmed: b0af11a5c3c2
   - type: mitigates
-    target: RSK-4QT8E5
+    target: REQ-TS0SRXD
     confirmed: 062a72678a9e
 ---
 The enclosure shall notify access tokens without user interaction.

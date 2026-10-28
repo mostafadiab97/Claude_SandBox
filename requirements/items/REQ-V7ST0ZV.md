@@ -1,5 +1,5 @@
 ---
-id: IF-NFKFXQ
+id: REQ-V7ST0ZV
 type: interface-requirement
 title: "Signal 509: user preferences"
 status: Approved
@@ -9,7 +9,8 @@ tags:
   - connectivity
   - safety
   - security
-parent: INFO-2TM0JP
-order: 5090
+former-id: IF-NFKFXQ
+parent: REQ-RJ0KHPT
+order: b7C
 ---
 Interface signal number 509.

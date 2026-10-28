@@ -1,5 +1,5 @@
 ---
-id: HW-H8P3X7
+id: REQ-ZF89TYM
 type: hardware-requirement
 title: Limit access tokens — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - safety
   - connectivity
   - security
-parent: HW-C1FHKY
-order: 10
+former-id: HW-H8P3X7
+parent: REQ-G7BETE7
+order: a0
 links:
   - type: refines
-    target: HW-C1FHKY
+    target: REQ-G7BETE7
     confirmed: 7e9984a7bb86
 ---
 The enclosure shall limit humidity values using AES-256-GCM.

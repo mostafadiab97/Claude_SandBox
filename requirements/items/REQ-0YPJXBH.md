@@ -1,17 +1,18 @@
 ---
-id: TC-5NVFZ2
+id: REQ-0YPJXBH
 type: test-case
 title: "Verify: Menu system switchs safety limits"
 status: Review
 priority: Low
-parent: INFO-HTSZ15
-order: 1130
+former-id: TC-5NVFZ2
+parent: REQ-Y9VHHKA
+order: b0o
 links:
   - type: verifies
-    target: SYS-HAF95K
+    target: REQ-0ACXJ6N
     confirmed: dde92a3c92b3
   - type: verifies
-    target: SW-1H9E9G
+    target: REQ-G61EFQM
     confirmed: 7e07c68a1de6
 ---
 **Objective:** verify that the menu system behaves as specified.

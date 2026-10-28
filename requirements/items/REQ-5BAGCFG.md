@@ -1,15 +1,16 @@
 ---
-id: HW-END3A9
+id: REQ-5BAGCFG
 type: hardware-requirement
 title: Zone valve calibrates energy consumption
 status: Draft
 priority: Low
 owner: S. Adel
-parent: SYS-5M0EN6
-order: 20
+former-id: HW-END3A9
+parent: REQ-KVVV60P
+order: a1
 links:
   - type: refines
-    target: SYS-5M0EN6
+    target: REQ-KVVV60P
     confirmed: 6b2f33a2ace5
 ---
 The regulation loop shall measure humidity values with an accuracy of ±0.5 °C.

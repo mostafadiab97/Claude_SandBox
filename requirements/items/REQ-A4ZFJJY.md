@@ -1,5 +1,5 @@
 ---
-id: IF-W91V4T
+id: REQ-A4ZFJJY
 type: interface-requirement
 title: "Signal 636: user preferences"
 status: Approved
@@ -8,7 +8,8 @@ owner: H. Mostafa
 tags:
   - EMC
   - ux
-parent: INFO-2TM0JP
-order: 6360
+former-id: IF-W91V4T
+parent: REQ-RJ0KHPT
+order: b9F
 ---
 Interface signal number 636.

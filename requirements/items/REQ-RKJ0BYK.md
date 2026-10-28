@@ -1,5 +1,5 @@
 ---
-id: TC-H85RGH
+id: REQ-RKJ0BYK
 type: test-case
 title: "Regression: Secure boot logs the operating mode"
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - security
   - safety
-parent: INFO-ECHASH
-order: 1300
+former-id: TC-H85RGH
+parent: REQ-6H15AV2
+order: b15
 links:
   - type: verifies
-    target: SYS-NQ8RXH
+    target: REQ-8565GVW
     confirmed: 372b9844dfa7
 ---
 **Objective:** verify that the device behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: TC-FE2FJZ
+id: REQ-ST8AQ1X
 type: test-case
 title: "Verify: Pairing process notifys the connection state"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - ux
   - connectivity
-parent: INFO-F0M7VC
-order: 990
+former-id: TC-FE2FJZ
+parent: REQ-67RQXCK
+order: b0a
 links:
   - type: verifies
-    target: SYS-ZH89V8
+    target: REQ-0HP2Y9D
     confirmed: 777482c845de
 ---
 **Objective:** verify that the pairing process behaves as specified.

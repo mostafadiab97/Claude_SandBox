@@ -1,17 +1,18 @@
 ---
-id: SYS-SZFE37
+id: REQ-TJWAC19
 type: system-requirement
 title: Main PCB authenticates the operating mode
 status: Review
 priority: High
-parent: INFO-A6P9A8
-order: 1450
+former-id: SYS-SZFE37
+parent: REQ-CMCS31A
+order: b1K
 links:
   - type: refines
-    target: STK-M28XWW
+    target: REQ-2678XV5
     confirmed: bcf262f10744
   - type: mitigates
-    target: RSK-5AER0Q
+    target: REQ-PMSQJ45
     confirmed: 7c9168219772
 ---
 The main PCB shall limit the room temperature when the network is unavailable.

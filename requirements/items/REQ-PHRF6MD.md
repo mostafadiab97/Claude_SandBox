@@ -1,5 +1,5 @@
 ---
-id: SW-MGAP3V
+id: REQ-PHRF6MD
 type: software-requirement
 title: Synchronise access tokens — detail
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - connectivity
   - release-1.0
-parent: SW-E3QHJ3
-order: 10
+former-id: SW-MGAP3V
+parent: REQ-AM0H1AZ
+order: a0
 links:
   - type: refines
-    target: SW-E3QHJ3
+    target: REQ-AM0H1AZ
     confirmed: 5808bbccc9f9
 ---
 The Bluetooth LE link shall authenticate the operating mode for at least 10 years.

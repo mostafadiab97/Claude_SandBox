@@ -1,15 +1,16 @@
 ---
-id: IF-RDWMFZ
+id: REQ-F2AWATH
 type: interface-requirement
 title: Log schedule entries — detail
 status: Obsolete
 priority: High
 owner: K. Tanaka
-parent: IF-73583X
-order: 10
+former-id: IF-RDWMFZ
+parent: REQ-MRNB8ME
+order: a0
 links:
   - type: refines
-    target: IF-73583X
+    target: REQ-MRNB8ME
     confirmed: 958cee982ab2
 ---
 The mobile app shall synchronise energy consumption within 200 ms.

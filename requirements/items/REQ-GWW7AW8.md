@@ -1,15 +1,16 @@
 ---
-id: SW-30HQWD
+id: REQ-GWW7AW8
 type: software-requirement
 title: Schedule editor encrypts audit records
 status: Obsolete
 priority: Medium
 owner: N. Kamal
-parent: SYS-APGJQA
-order: 30
+former-id: SW-30HQWD
+parent: REQ-NQHP2YC
+order: a2
 links:
   - type: refines
-    target: SYS-APGJQA
+    target: REQ-NQHP2YC
     confirmed: "45019195e843"
 ---
 The login screen shall log energy consumption for up to 8 zones.

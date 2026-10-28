@@ -1,15 +1,16 @@
 ---
-id: SW-W52A2H
+id: REQ-ZEKWVQK
 type: software-requirement
 title: Heat pump driver synchronises safety limits
 status: Approved
 priority: High
 owner: L. Samir
-parent: SYS-QN4W49
-order: 40
+former-id: SW-W52A2H
+parent: REQ-QT5K7YB
+order: a3
 links:
   - type: refines
-    target: SYS-QN4W49
+    target: REQ-QT5K7YB
     confirmed: 6a7a9fdc0288
 ---
 The boiler interface shall synchronise the operating mode when the network is unavailable.

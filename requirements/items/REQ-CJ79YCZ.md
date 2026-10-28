@@ -1,14 +1,15 @@
 ---
-id: SW-JQAD8A
+id: REQ-CJ79YCZ
 type: software-requirement
 title: Home dashboard stores firmware images
 status: Draft
 owner: S. Adel
-parent: SYS-BS5G2C
-order: 30
+former-id: SW-JQAD8A
+parent: REQ-BHV7AVF
+order: a2
 links:
   - type: refines
-    target: SYS-BS5G2C
+    target: REQ-BHV7AVF
     confirmed: 19954ae1e0af
 ---
 The notification service shall detect the operating mode for up to 8 zones.

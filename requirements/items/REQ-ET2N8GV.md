@@ -1,15 +1,16 @@
 ---
-id: IF-EHAESB
+id: REQ-ET2N8GV
 type: interface-requirement
 title: Detect error conditions — detail
 status: Obsolete
 priority: High
 owner: R. Nabil
-parent: IF-DJ18XA
-order: 10
+former-id: IF-EHAESB
+parent: REQ-YRPH3K0
+order: a0
 links:
   - type: refines
-    target: IF-DJ18XA
+    target: REQ-YRPH3K0
     confirmed: 7af79213d5f2
 ---
 The Bluetooth LE link shall calibrate humidity values after a power loss.

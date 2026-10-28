@@ -1,15 +1,16 @@
 ---
-id: IF-BJBSSY
+id: REQ-2MCB99N
 type: interface-requirement
 title: Enclosure detects audit records
 status: Draft
 priority: Medium
 owner: R. Nabil
-parent: SYS-FN6K6C
-order: 10
+former-id: IF-BJBSSY
+parent: REQ-GWKMKHF
+order: a0
 links:
   - type: refines
-    target: SYS-FN6K6C
+    target: REQ-GWKMKHF
     confirmed: de635490bacc
 ---
 The enclosure shall notify user preferences without user interaction.

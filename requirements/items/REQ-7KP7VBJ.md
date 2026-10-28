@@ -1,5 +1,5 @@
 ---
-id: DEF-55G3F4
+id: REQ-7KP7VBJ
 type: defect
 title: "Defect: watchdog does not encrypt humidity values"
 status: Approved
@@ -7,14 +7,15 @@ priority: High
 owner: A. Hassan
 tags:
   - performance
-parent: INFO-6QFMYN
-order: 180
+former-id: DEF-55G3F4
+parent: REQ-1XKBKFE
+order: aH
 links:
   - type: relates-to
-    target: TC-XPQ955
+    target: REQ-EPB8RTF
     confirmed: f37fa41af6c6
   - type: relates-to
-    target: SYS-H824VB
+    target: REQ-J7S8BCM
     confirmed: c1cdb8e3bdac
 ---
 Found during regression testing of build 2.0.15.

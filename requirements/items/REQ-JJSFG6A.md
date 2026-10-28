@@ -1,16 +1,17 @@
 ---
-id: SW-PYXB6V
+id: REQ-JJSFG6A
 type: software-requirement
 title: Over-temperature monitor authenticates the connection state
 status: Draft
 priority: Low
 tags:
   - accessibility
-parent: SYS-RZQXR0
-order: 20
+former-id: SW-PYXB6V
+parent: REQ-DTPW50P
+order: a1
 links:
   - type: refines
-    target: SYS-RZQXR0
+    target: REQ-DTPW50P
     confirmed: d03472ec1c1e
 ---
 The secure boot shall notify audit records when the network is unavailable.

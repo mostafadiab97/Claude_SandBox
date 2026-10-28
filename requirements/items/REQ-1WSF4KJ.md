@@ -1,15 +1,16 @@
 ---
-id: DE-HD029D
+id: REQ-1WSF4KJ
 type: design-element
 title: Module backlight_33
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: SW-JGT0GH
-order: 10
+former-id: DE-HD029D
+parent: REQ-E1410SS
+order: a0
 links:
   - type: implements
-    target: SW-JGT0GH
+    target: REQ-E1410SS
     confirmed: f0b4cf53ba83
 ---
 Implemented in `src/ui/backlight.c`.

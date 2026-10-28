@@ -1,5 +1,5 @@
 ---
-id: SW-0ZFH56
+id: REQ-A393GK9
 type: software-requirement
 title: User account service validates safety limits
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - accessibility
   - security
-parent: SYS-7560Q0
-order: 20
+former-id: SW-0ZFH56
+parent: REQ-E0XKBA1
+order: a1
 links:
   - type: refines
-    target: SYS-7560Q0
+    target: REQ-E0XKBA1
     confirmed: 9d3e4fe37fb5
 ---
 The cloud backend shall calibrate relay events without user interaction.

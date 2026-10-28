@@ -1,5 +1,5 @@
 ---
-id: HW-20ZCRS
+id: REQ-A76WYDM
 type: hardware-requirement
 title: Zone valve authenticates relay events
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - i18n
   - security
-parent: SYS-5449PV
-order: 20
+former-id: HW-20ZCRS
+parent: REQ-XTRE6E2
+order: a1
 links:
   - type: refines
-    target: SYS-5449PV
+    target: REQ-XTRE6E2
     confirmed: 51ad9fc7ce44
 ---
 The regulation loop shall switch safety limits using AES-256-GCM.

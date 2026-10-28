@@ -1,5 +1,5 @@
 ---
-id: TC-P4H49K
+id: REQ-M2N2WV9
 type: test-case
 title: "Verify: Heating controller limits relay events"
 status: Review
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - release-2.0
   - regulatory
-parent: INFO-MS9DAG
-order: 830
+former-id: TC-P4H49K
+parent: REQ-XGWSK2K
+order: b0K
 links:
   - type: verifies
-    target: SYS-NBT9XG
+    target: REQ-TT6RF80
     confirmed: 61b403d3e0a5
 ---
 **Objective:** verify that the heating controller behaves as specified.

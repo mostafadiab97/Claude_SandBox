@@ -1,5 +1,5 @@
 ---
-id: SW-HTAAY1
+id: REQ-1HJS8DD
 type: software-requirement
 title: Switch sensor readings — detail
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - safety
   - cost
   - performance
-parent: SW-TN2FB3
-order: 10
+former-id: SW-HTAAY1
+parent: REQ-8R3B6T0
+order: a0
 links:
   - type: refines
-    target: SW-TN2FB3
+    target: REQ-8R3B6T0
     confirmed: c9b9d18d3a5b
 ---
 The touch display shall synchronise audit records when the network is unavailable.

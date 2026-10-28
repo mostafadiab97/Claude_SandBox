@@ -1,5 +1,5 @@
 ---
-id: HW-E9PNW4
+id: REQ-0Y22ZQA
 type: hardware-requirement
 title: Log access tokens — detail
 status: Review
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - customer-request
   - safety
-parent: HW-7NQQC7
-order: 10
+former-id: HW-E9PNW4
+parent: REQ-QZ7F7TC
+order: a0
 links:
   - type: refines
-    target: HW-7NQQC7
+    target: REQ-QZ7F7TC
     confirmed: 3afbbd800686
 ---
 The rotary knob shall restore firmware images without user interaction.

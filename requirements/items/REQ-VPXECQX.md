@@ -1,5 +1,5 @@
 ---
-id: IF-321ZXP
+id: REQ-VPXECQX
 type: interface-requirement
 title: "Signal 209: relay events"
 status: Approved
@@ -7,7 +7,8 @@ owner: R. Nabil
 tags:
   - i18n
   - regulatory
-parent: INFO-2TM0JP
-order: 2090
+former-id: IF-321ZXP
+parent: REQ-RJ0KHPT
+order: b2M
 ---
 Interface signal number 209.

@@ -1,14 +1,15 @@
 ---
-id: IF-5WDJNH
+id: REQ-77YSCPT
 type: interface-requirement
 title: Login screen stores the room temperature
 status: Draft
 owner: محمد علي
-parent: SYS-5SCN5H
-order: 10
+former-id: IF-5WDJNH
+parent: REQ-J2C719K
+order: a0
 links:
   - type: refines
-    target: SYS-5SCN5H
+    target: REQ-J2C719K
     confirmed: 94875c7db4c5
 ---
 The mobile app shall restore schedule entries for at least 10 years.

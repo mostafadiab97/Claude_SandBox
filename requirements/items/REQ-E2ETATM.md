@@ -1,5 +1,5 @@
 ---
-id: SW-HZXQVD
+id: REQ-E2ETATM
 type: software-requirement
 title: Detect audit records — detail
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: K. Tanaka
 tags:
   - ux
-parent: SW-5888FG
-order: 10
+former-id: SW-HZXQVD
+parent: REQ-89S1TT0
+order: a0
 links:
   - type: refines
-    target: SW-5888FG
+    target: REQ-89S1TT0
     confirmed: 4a23f5f2c8c5
 ---
 The tamper detection shall calibrate the set point when the network is unavailable.

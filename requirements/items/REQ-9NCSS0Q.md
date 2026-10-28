@@ -1,5 +1,5 @@
 ---
-id: TC-X79C78
+id: REQ-9NCSS0Q
 type: test-case
 title: "Verify: Status LED calibrates the operating mode"
 status: Approved
@@ -7,14 +7,15 @@ priority: High
 owner: K. Tanaka
 tags:
   - cost
-parent: INFO-HTSZ15
-order: 930
+former-id: TC-X79C78
+parent: REQ-Y9VHHKA
+order: b0U
 links:
   - type: verifies
-    target: SYS-BF1ZYT
+    target: REQ-82MZ9V5
     confirmed: a41f5627def3
   - type: verifies
-    target: SW-HY8JBJ
+    target: REQ-KK02X7A
     confirmed: e18e4ba5d45b
 ---
 **Objective:** verify that the status LED behaves as specified.

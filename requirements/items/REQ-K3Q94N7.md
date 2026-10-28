@@ -1,5 +1,5 @@
 ---
-id: TC-812KQQ
+id: REQ-K3Q94N7
 type: test-case
 title: "Verify: Status LED restores the room temperature"
 status: Approved
@@ -8,14 +8,15 @@ owner: A. Hassan
 tags:
   - release-2.0
   - customer-request
-parent: INFO-HTSZ15
-order: 420
+former-id: TC-812KQQ
+parent: REQ-Y9VHHKA
+order: af
 links:
   - type: verifies
-    target: SYS-PY3FTT
+    target: REQ-ND2B61F
     confirmed: 028b4e4661e2
   - type: verifies
-    target: SW-JH3JZR
+    target: REQ-60ZFB33
     confirmed: dbe3045309c3
 ---
 **Objective:** verify that the status LED behaves as specified.

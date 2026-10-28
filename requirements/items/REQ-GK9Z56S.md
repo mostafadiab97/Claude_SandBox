@@ -1,5 +1,5 @@
 ---
-id: HW-A6BDVV
+id: REQ-GK9Z56S
 type: hardware-requirement
 title: Main PCB switchs access tokens
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - ux
-parent: SYS-EC99RK
-order: 20
+former-id: HW-A6BDVV
+parent: REQ-9DQ3XFA
+order: a1
 links:
   - type: refines
-    target: SYS-EC99RK
+    target: REQ-9DQ3XFA
     confirmed: efe95468b71a
 ---
 The enclosure shall authenticate the connection state in all supported languages.

@@ -1,19 +1,20 @@
 ---
-id: TC-PPV4GZ
+id: REQ-47A8YB9
 type: test-case
 title: "Verify: Tamper detection restores the connection state"
 status: Approved
 tags:
   - customer-request
   - regulatory
-parent: INFO-Z4TW4B
-order: 160
+former-id: TC-PPV4GZ
+parent: REQ-K6FGAY0
+order: aF
 links:
   - type: verifies
-    target: SYS-ABZP07
+    target: REQ-RB03G7X
     confirmed: fada4baa41ba
   - type: verifies
-    target: SW-1VRPBQ
+    target: REQ-GRMS05G
     confirmed: ea080242c245
 ---
 **Objective:** verify that the tamper detection behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: HW-4K3E26
+id: REQ-22JPM0K
 type: hardware-requirement
 title: Device registry validates sensor readings
 status: Draft
@@ -7,11 +7,12 @@ owner: R. Nabil
 tags:
   - regulatory
   - cost
-parent: SYS-59MM6H
-order: 30
+former-id: HW-4K3E26
+parent: REQ-D6CAXH8
+order: a2
 links:
   - type: refines
-    target: SYS-59MM6H
+    target: REQ-D6CAXH8
     confirmed: 45d68bfca0bb
 ---
 The OTA server shall display humidity values below 0.5 W in standby.

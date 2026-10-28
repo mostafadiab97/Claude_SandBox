@@ -1,15 +1,16 @@
 ---
-id: IF-QZFD8N
+id: REQ-RK294TE
 type: interface-requirement
 title: Encryption layer reports the connection state
 status: Obsolete
 priority: Medium
 owner: M. Farouk
-parent: SYS-15TR5S
-order: 20
+former-id: IF-QZFD8N
+parent: REQ-H1QRFBB
+order: a1
 links:
   - type: refines
-    target: SYS-15TR5S
+    target: REQ-H1QRFBB
     confirmed: 5313fbec9423
 ---
 The encryption layer shall log the operating mode for at least 10 years.

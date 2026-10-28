@@ -1,5 +1,5 @@
 ---
-id: DE-A432RX
+id: REQ-YHSAAZ9
 type: design-element
 title: Module device_registry_84
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - ux
   - accessibility
-parent: SW-G99T17
-order: 10
+former-id: DE-A432RX
+parent: REQ-9EPFCCC
+order: a0
 links:
   - type: implements
-    target: SW-G99T17
+    target: REQ-9EPFCCC
     confirmed: 68ed9e0cc612
 ---
 Implemented in `src/cloud/device_registry.c`.

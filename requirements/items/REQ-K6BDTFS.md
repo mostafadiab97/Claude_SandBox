@@ -1,18 +1,19 @@
 ---
-id: TC-6SD55V
+id: REQ-K6BDTFS
 type: test-case
 title: "Verify: Main PCB notifys audit records"
 status: Approved
 priority: High
 owner: N. Kamal
-parent: INFO-MACGC3
-order: 1250
+former-id: TC-6SD55V
+parent: REQ-F9Z1FYS
+order: b10
 links:
   - type: verifies
-    target: SYS-3PN7YS
+    target: REQ-M9BPS8Z
     confirmed: 54565cf8f7c8
   - type: verifies
-    target: SW-4ZJDE1
+    target: REQ-BMDEZ0J
     confirmed: 512e543b4ca6
 ---
 **Objective:** verify that the main PCB behaves as specified.

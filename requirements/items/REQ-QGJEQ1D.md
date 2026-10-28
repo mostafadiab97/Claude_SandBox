@@ -1,15 +1,16 @@
 ---
-id: CR-RVD0Z0
+id: REQ-QGJEQ1D
 type: change-request
 title: "CR: extend status LED to synchronise safety limits"
 status: Obsolete
 priority: High
 owner: M. Farouk
-parent: INFO-7HY7F9
-order: 130
+former-id: CR-RVD0Z0
+parent: REQ-HFYH0KW
+order: aC
 links:
   - type: relates-to
-    target: SYS-T689CT
+    target: REQ-WRWV27H
     confirmed: dafb2a2d5621
 ---
 Requested by customer support (ticket #17015).

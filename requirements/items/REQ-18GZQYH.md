@@ -1,5 +1,5 @@
 ---
-id: SW-VQ355E
+id: REQ-18GZQYH
 type: software-requirement
 title: Rotary knob synchronises relay events
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 tags:
   - cost
   - security
-parent: SYS-933SE3
-order: 40
+former-id: SW-VQ355E
+parent: REQ-3668YHF
+order: a3
 links:
   - type: refines
-    target: SYS-933SE3
+    target: REQ-3668YHF
     confirmed: 87639e58a5eb
 ---
 The status LED shall restore safety limits at least once per minute.

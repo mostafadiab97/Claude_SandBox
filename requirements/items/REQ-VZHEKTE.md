@@ -1,5 +1,5 @@
 ---
-id: SW-YRZQTT
+id: REQ-VZHEKTE
 type: software-requirement
 title: Synchronise humidity values — detail
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - release-2.0
-parent: SW-74FH7T
-order: 10
+former-id: SW-YRZQTT
+parent: REQ-AAE8RAX
+order: a0
 links:
   - type: refines
-    target: SW-74FH7T
+    target: REQ-AAE8RAX
     confirmed: 89ab6af8e498
 ---
 The OTA server shall validate relay events at least once per minute.

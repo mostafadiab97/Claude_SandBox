@@ -1,15 +1,16 @@
 ---
-id: TC-95M7JW
+id: REQ-KV3QY0R
 type: test-case
 title: "Verify: Watchdog detects firmware images"
 status: Approved
 priority: High
 owner: R. Nabil
-parent: INFO-Z4TW4B
-order: 850
+former-id: TC-95M7JW
+parent: REQ-K6FGAY0
+order: b0M
 links:
   - type: verifies
-    target: SYS-JN1V9K
+    target: REQ-QDFDQ3R
     confirmed: 648ea81ae922
 ---
 **Objective:** verify that the watchdog behaves as specified.

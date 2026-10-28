@@ -1,13 +1,14 @@
 ---
-id: TC-3HSDD7
+id: REQ-9JW6VJ9
 type: test-case
 title: "Regression: Login screen notifys the room temperature"
 status: Obsolete
-parent: INFO-ECHASH
-order: 1970
+former-id: TC-3HSDD7
+parent: REQ-6H15AV2
+order: b2A
 links:
   - type: verifies
-    target: SYS-QHMT67
+    target: REQ-4GW7FRK
     confirmed: 77747505e6c0
 ---
 **Objective:** verify that the device behaves as specified.

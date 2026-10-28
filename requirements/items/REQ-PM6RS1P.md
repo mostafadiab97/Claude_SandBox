@@ -1,5 +1,5 @@
 ---
-id: HW-MHRF79
+id: REQ-PM6RS1P
 type: hardware-requirement
 title: Watchdog displays access tokens
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: L. Samir
 tags:
   - safety
-parent: SYS-MR5CRK
-order: 40
+former-id: HW-MHRF79
+parent: REQ-TDHYBJS
+order: a3
 links:
   - type: refines
-    target: SYS-MR5CRK
+    target: REQ-TDHYBJS
     confirmed: ff67b7696602
 ---
 The tamper detection shall validate sensor readings with an accuracy of ±0.5 °C.

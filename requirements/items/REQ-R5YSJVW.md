@@ -1,5 +1,5 @@
 ---
-id: SW-WRPYK6
+id: REQ-R5YSJVW
 type: software-requirement
 title: Regulation loop notifys access tokens
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - release-1.0
   - security
   - EMC
-parent: SYS-EPQX5G
-order: 10
+former-id: SW-WRPYK6
+parent: REQ-WT15HBZ
+order: a0
 links:
   - type: refines
-    target: SYS-EPQX5G
+    target: REQ-WT15HBZ
     confirmed: 839c3250cb67
 ---
 The zone valve shall measure safety limits using AES-256-GCM.

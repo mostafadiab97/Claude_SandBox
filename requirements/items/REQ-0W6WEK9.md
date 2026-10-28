@@ -1,5 +1,5 @@
 ---
-id: TC-DDJ6JZ
+id: REQ-0W6WEK9
 type: test-case
 title: "Verify: Device registry calibrates error conditions"
 status: Review
@@ -9,11 +9,12 @@ tags:
   - EMC
   - regulatory
   - cost
-parent: INFO-7P4D8D
-order: 550
+former-id: TC-DDJ6JZ
+parent: REQ-8351896
+order: as
 links:
   - type: verifies
-    target: SYS-G8M4SE
+    target: REQ-9W3N8PR
     confirmed: df8c85150795
 ---
 **Objective:** verify that the device registry behaves as specified.

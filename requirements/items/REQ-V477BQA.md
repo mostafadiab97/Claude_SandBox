@@ -1,5 +1,5 @@
 ---
-id: TC-K2BKV7
+id: REQ-V477BQA
 type: test-case
 title: "Verify: Watchdog synchronises schedule entries"
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Low
 owner: J. Müller
 tags:
   - i18n
-parent: INFO-Z4TW4B
-order: 1230
+former-id: TC-K2BKV7
+parent: REQ-K6FGAY0
+order: b0y
 links:
   - type: verifies
-    target: SYS-RGCFDP
+    target: REQ-3ZM1N85
     confirmed: 703711cfcecf
 ---
 **Objective:** verify that the watchdog behaves as specified.

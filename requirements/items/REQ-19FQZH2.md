@@ -1,5 +1,5 @@
 ---
-id: HW-2SEFHK
+id: REQ-19FQZH2
 type: hardware-requirement
 title: Regulation loop detects firmware images
 status: Draft
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - customer-request
   - safety
-parent: SYS-7MF8BM
-order: 10
+former-id: HW-2SEFHK
+parent: REQ-EMA1R60
+order: a0
 links:
   - type: refines
-    target: SYS-7MF8BM
+    target: REQ-EMA1R60
     confirmed: df19f5a8810f
 ---
 The heat pump driver shall detect the connection state at least once per minute.

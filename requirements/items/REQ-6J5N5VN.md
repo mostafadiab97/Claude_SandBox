@@ -1,14 +1,15 @@
 ---
-id: SW-5EP1E9
+id: REQ-6J5N5VN
 type: software-requirement
 title: Bluetooth LE link measures the connection state
 status: Approved
 owner: K. Tanaka
-parent: SYS-5XB7KH
-order: 20
+former-id: SW-5EP1E9
+parent: REQ-QS80QQ4
+order: a1
 links:
   - type: refines
-    target: SYS-5XB7KH
+    target: REQ-QS80QQ4
     confirmed: ce31b91ce201
 ---
 The Bluetooth LE link shall limit the connection state when the network is unavailable.

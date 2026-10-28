@@ -1,5 +1,5 @@
 ---
-id: CR-WR6V1T
+id: REQ-01CCA3N
 type: change-request
 title: "CR: extend touch display to store safety limits"
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: محمد علي
 tags:
   - customer-request
-parent: INFO-7HY7F9
-order: 220
+former-id: CR-WR6V1T
+parent: REQ-HFYH0KW
+order: aL
 links:
   - type: relates-to
-    target: SYS-Q32CFF
+    target: REQ-6F9V39K
     confirmed: 178903f1a8f4
 ---
 Requested by customer support (ticket #10738).

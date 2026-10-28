@@ -1,11 +1,12 @@
 ---
-id: IF-X6RD0V
+id: REQ-PPZ8QCG
 type: interface-requirement
 title: "Signal 375: error conditions"
 status: Approved
 priority: High
 owner: A. Hassan
-parent: INFO-2TM0JP
-order: 3750
+former-id: IF-X6RD0V
+parent: REQ-RJ0KHPT
+order: b52
 ---
 Interface signal number 375.

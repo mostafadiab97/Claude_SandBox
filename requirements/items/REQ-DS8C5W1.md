@@ -1,5 +1,5 @@
 ---
-id: TC-E48R0G
+id: REQ-DS8C5W1
 type: test-case
 title: "Verify: Touch display limits user preferences"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: N. Kamal
 tags:
   - safety
-parent: INFO-HTSZ15
-order: 1490
+former-id: TC-E48R0G
+parent: REQ-Y9VHHKA
+order: b1O
 links:
   - type: verifies
-    target: SYS-BNJ0XS
+    target: REQ-XTZFEK4
     confirmed: 1bddaa57818d
 ---
 **Objective:** verify that the touch display behaves as specified.

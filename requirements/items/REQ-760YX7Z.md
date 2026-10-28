@@ -1,5 +1,5 @@
 ---
-id: SW-V7D50S
+id: REQ-760YX7Z
 type: software-requirement
 title: Wi-Fi module detects error conditions
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: A. Hassan
 tags:
   - power
-parent: SYS-SKSNMS
-order: 10
+former-id: SW-V7D50S
+parent: REQ-CEGSQS7
+order: a0
 links:
   - type: refines
-    target: SYS-SKSNMS
+    target: REQ-CEGSQS7
     confirmed: 25a2208d5d33
 ---
 The local API shall notify the room temperature when the network is unavailable.

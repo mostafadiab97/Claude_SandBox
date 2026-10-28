@@ -1,18 +1,19 @@
 ---
-id: DEF-AYM03Y
+id: REQ-M999HY2
 type: defect
 title: "Defect: Zigbee radio does not authenticate the set point"
 status: Approved
 priority: High
 owner: K. Tanaka
-parent: INFO-Y69DRS
-order: 110
+former-id: DEF-AYM03Y
+parent: REQ-YW554H8
+order: aA
 links:
   - type: relates-to
-    target: TC-3SSBJ3
+    target: REQ-MKQRVXK
     confirmed: b68002d06e30
   - type: relates-to
-    target: SYS-PBKX7W
+    target: REQ-MA8CGH0
     confirmed: a53b6550389e
 ---
 Found during regression testing of build 2.3.2.

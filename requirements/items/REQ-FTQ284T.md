@@ -1,5 +1,5 @@
 ---
-id: IF-E9PVJS
+id: REQ-FTQ284T
 type: interface-requirement
 title: Heat pump driver reports audit records
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - EMC
-parent: SYS-Z0ETS8
-order: 10
+former-id: IF-E9PVJS
+parent: REQ-ZEM6K15
+order: a0
 links:
   - type: refines
-    target: SYS-Z0ETS8
+    target: REQ-ZEM6K15
     confirmed: f371d67ea5c2
 ---
 The zone valve shall store the room temperature at least once per minute.

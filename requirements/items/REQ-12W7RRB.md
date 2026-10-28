@@ -1,17 +1,18 @@
 ---
-id: DEF-GTHZ98
+id: REQ-12W7RRB
 type: defect
 title: "Defect: schedule editor does not notify humidity values"
 status: Obsolete
 owner: K. Tanaka
-parent: INFO-FH5FB3
-order: 140
+former-id: DEF-GTHZ98
+parent: REQ-MWRPGWA
+order: aD
 links:
   - type: relates-to
-    target: TC-AZDHZP
+    target: REQ-WXZHS74
     confirmed: 602767348f3e
   - type: relates-to
-    target: SYS-WZPXT3
+    target: REQ-GMRFA4Q
     confirmed: 758f34cfcd04
 ---
 Found during regression testing of build 2.7.13.

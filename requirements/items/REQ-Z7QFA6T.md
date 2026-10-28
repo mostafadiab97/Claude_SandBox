@@ -1,5 +1,5 @@
 ---
-id: SYS-C7XPC7
+id: REQ-Z7QFA6T
 type: system-requirement
 title: Wi-Fi module logs user preferences
 status: Draft
@@ -7,11 +7,12 @@ owner: H. Mostafa
 tags:
   - performance
   - release-2.0
-parent: INFO-NRVHA2
-order: 1820
+former-id: SYS-C7XPC7
+parent: REQ-6R94HFM
+order: b1v
 links:
   - type: refines
-    target: STK-Q9RBYT
+    target: REQ-B31NWSC
     confirmed: a67c8b718d88
 ---
 The Wi-Fi module shall restore the connection state when the network is unavailable.

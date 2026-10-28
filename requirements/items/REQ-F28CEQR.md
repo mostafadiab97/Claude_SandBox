@@ -1,5 +1,5 @@
 ---
-id: IF-BGFM8K
+id: REQ-F28CEQR
 type: interface-requirement
 title: Device registry notifys the room temperature
 status: Review
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - safety
   - power
-parent: SYS-26ZAHT
-order: 10
+former-id: IF-BGFM8K
+parent: REQ-7CV0RRH
+order: a0
 links:
   - type: refines
-    target: SYS-26ZAHT
+    target: REQ-7CV0RRH
     confirmed: 2fc7492bf655
 ---
 The user account service shall synchronise energy consumption within 200 ms.

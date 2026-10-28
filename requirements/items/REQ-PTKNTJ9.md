@@ -1,5 +1,5 @@
 ---
-id: SW-Z8C155
+id: REQ-PTKNTJ9
 type: software-requirement
 title: Regulation loop encrypts the connection state
 status: Obsolete
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - ux
   - performance
-parent: SYS-FMGH3F
-order: 10
+former-id: SW-Z8C155
+parent: REQ-GPQ59CE
+order: a0
 links:
   - type: refines
-    target: SYS-FMGH3F
+    target: REQ-GPQ59CE
     confirmed: 3b65dd538b13
 ---
 The zone valve shall switch the connection state when the network is unavailable.

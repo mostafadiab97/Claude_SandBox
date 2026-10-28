@@ -1,5 +1,5 @@
 ---
-id: SYS-GZM0K2
+id: REQ-PX27PFK
 type: system-requirement
 title: Zigbee radio switchs relay events
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - safety
   - connectivity
   - accessibility
-parent: INFO-NRVHA2
-order: 580
+former-id: SYS-GZM0K2
+parent: REQ-6R94HFM
+order: av
 links:
   - type: refines
-    target: STK-1R2QT3
+    target: REQ-3MGNW4R
     confirmed: 7ca04f22a1b8
 ---
 The Zigbee radio shall authenticate the set point with an accuracy of ±0.5 °C.

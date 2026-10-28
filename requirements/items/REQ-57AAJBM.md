@@ -1,15 +1,16 @@
 ---
-id: DE-M0ECJT
+id: REQ-57AAJBM
 type: design-element
 title: Module heating_controller_64
 status: Draft
 priority: Medium
 owner: R. Nabil
-parent: SW-GQSMTJ
-order: 10
+former-id: DE-M0ECJT
+parent: REQ-6CYFH0Y
+order: a0
 links:
   - type: implements
-    target: SW-GQSMTJ
+    target: REQ-6CYFH0Y
     confirmed: e4cf643afdc6
 ---
 Implemented in `src/heat/heating_controller.c`.

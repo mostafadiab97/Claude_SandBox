@@ -1,5 +1,5 @@
 ---
-id: SW-WKP9NJ
+id: REQ-45N0DBR
 type: software-requirement
 title: Telemetry pipeline calibrates safety limits
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 tags:
   - EMC
   - connectivity
-parent: SYS-BA2G1M
-order: 20
+former-id: SW-WKP9NJ
+parent: REQ-H73126C
+order: a1
 links:
   - type: refines
-    target: SYS-BA2G1M
+    target: REQ-H73126C
     confirmed: f603768ac45b
 ---
 The telemetry pipeline shall measure audit records below 0.5 W in standby.

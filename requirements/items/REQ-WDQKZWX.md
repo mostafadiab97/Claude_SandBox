@@ -1,5 +1,5 @@
 ---
-id: TC-QD7CCK
+id: REQ-WDQKZWX
 type: test-case
 title: "Regression: Battery backup authenticates the room temperature"
 status: Review
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - security
   - cost
-parent: INFO-ECHASH
-order: 1160
+former-id: TC-QD7CCK
+parent: REQ-6H15AV2
+order: b0r
 links:
   - type: verifies
-    target: SYS-R6T7X1
+    target: REQ-29AAAGW
     confirmed: 03767e5db5f8
 ---
 **Objective:** verify that the device behaves as specified.

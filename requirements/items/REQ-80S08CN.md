@@ -1,15 +1,16 @@
 ---
-id: IF-24F4VV
+id: REQ-80S08CN
 type: interface-requirement
 title: Boiler interface detects the set point
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: SYS-7AKQK2
-order: 30
+former-id: IF-24F4VV
+parent: REQ-KSTR6EY
+order: a2
 links:
   - type: refines
-    target: SYS-7AKQK2
+    target: REQ-KSTR6EY
     confirmed: 0a4c44bfead6
 ---
 The boiler interface shall encrypt safety limits at least once per minute.

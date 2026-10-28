@@ -1,5 +1,5 @@
 ---
-id: IF-YPYV16
+id: REQ-SWZETC1
 type: interface-requirement
 title: "Signal 425: energy consumption"
 status: Approved
@@ -9,7 +9,8 @@ tags:
   - EMC
   - customer-request
   - performance
-parent: INFO-2TM0JP
-order: 4250
+former-id: IF-YPYV16
+parent: REQ-RJ0KHPT
+order: b5q
 ---
 Interface signal number 425.

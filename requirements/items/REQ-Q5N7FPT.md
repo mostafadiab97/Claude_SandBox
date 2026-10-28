@@ -1,18 +1,19 @@
 ---
-id: SYS-BRW2HG
+id: REQ-Q5N7FPT
 type: system-requirement
 title: Rotary knob reports sensor readings
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: INFO-PDR6FV
-order: 1720
+former-id: SYS-BRW2HG
+parent: REQ-2ZA2TRZ
+order: b1l
 links:
   - type: refines
-    target: STK-HH6ZNR
+    target: REQ-PPDBMB4
     confirmed: caa77fe9df1c
   - type: mitigates
-    target: RSK-S88NZ1
+    target: REQ-4HTMT91
     confirmed: 257f5def6363
 ---
 The rotary knob shall authenticate the connection state using AES-256-GCM.

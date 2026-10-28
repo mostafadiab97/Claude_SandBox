@@ -1,14 +1,15 @@
 ---
-id: SW-Y2Z8SE
+id: REQ-9W0F78N
 type: software-requirement
 title: Notification service switchs user preferences
 status: Approved
 priority: Medium
-parent: SYS-V06HGN
-order: 40
+former-id: SW-Y2Z8SE
+parent: REQ-6YR68JJ
+order: a3
 links:
   - type: refines
-    target: SYS-V06HGN
+    target: REQ-6YR68JJ
     confirmed: b6e976d782ae
 ---
 The notification service shall detect humidity values when the network is unavailable.

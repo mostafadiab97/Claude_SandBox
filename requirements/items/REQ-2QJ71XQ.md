@@ -1,15 +1,16 @@
 ---
-id: TC-1K3BET
+id: REQ-2QJ71XQ
 type: test-case
 title: "Verify: Notification service detects access tokens"
 status: Draft
 priority: High
 owner: S. Adel
-parent: INFO-J0FETE
-order: 10
+former-id: TC-1K3BET
+parent: REQ-WR5ZJN9
+order: a0
 links:
   - type: verifies
-    target: SYS-AQ211W
+    target: REQ-38X44C6
     confirmed: 17e9d0952657
 ---
 **Objective:** verify that the notification service behaves as specified.

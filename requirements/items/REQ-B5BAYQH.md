@@ -1,5 +1,5 @@
 ---
-id: TC-QGJBH3
+id: REQ-B5BAYQH
 type: test-case
 title: "Verify: Device registry reports the room temperature"
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - customer-request
   - connectivity
-parent: INFO-7P4D8D
-order: 980
+former-id: TC-QGJBH3
+parent: REQ-8351896
+order: b0Z
 links:
   - type: verifies
-    target: SYS-PYK237
+    target: REQ-NRJAH0X
     confirmed: 8258f49e00ae
 ---
 **Objective:** verify that the device registry behaves as specified.

@@ -1,18 +1,19 @@
 ---
-id: DEF-XKZMBM
+id: REQ-8KASN11
 type: defect
 title: "Defect: menu system does not measure energy consumption"
 status: Approved
 priority: High
 owner: A. Hassan
-parent: INFO-7HY7F9
-order: 40
+former-id: DEF-XKZMBM
+parent: REQ-HFYH0KW
+order: a3
 links:
   - type: relates-to
-    target: TC-7G1SQH
+    target: REQ-YRKKPZ0
     confirmed: 348a4d12d826
   - type: relates-to
-    target: SYS-E8YWD2
+    target: REQ-1GC83E9
     confirmed: 5ab6d3697437
 ---
 Found during regression testing of build 2.0.31.

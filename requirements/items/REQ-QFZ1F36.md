@@ -1,15 +1,16 @@
 ---
-id: SYS-NVKX9K
+id: REQ-QFZ1F36
 type: system-requirement
 title: Over-temperature monitor limits sensor readings
 status: Draft
 priority: Medium
 owner: K. Tanaka
-parent: INFO-0229G8
-order: 1170
+former-id: SYS-NVKX9K
+parent: REQ-H9113WA
+order: b0s
 links:
   - type: refines
-    target: STK-SM9B7Z
+    target: REQ-Z2QF8WD
     confirmed: 44235e2789f0
 ---
 The over-temperature monitor shall detect safety limits with an accuracy of ±0.5 °C.

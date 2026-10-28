@@ -1,16 +1,17 @@
 ---
-id: SYS-MQR6RF
+id: REQ-QFBNWQ4
 type: system-requirement
 title: Relay board detects firmware images
 status: Approved
 priority: Medium
 tags:
   - regulatory
-parent: INFO-A6P9A8
-order: 1720
+former-id: SYS-MQR6RF
+parent: REQ-CMCS31A
+order: b1l
 links:
   - type: refines
-    target: STK-KEP05J
+    target: REQ-PRMNGRJ
     confirmed: 74304e03fe52
 ---
 The relay board shall switch user preferences within 200 ms.

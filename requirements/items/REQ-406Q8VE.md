@@ -1,5 +1,5 @@
 ---
-id: IF-FJG1SR
+id: REQ-406Q8VE
 type: interface-requirement
 title: Limit humidity values — detail
 status: Review
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - connectivity
   - performance
-parent: IF-0VMFCD
-order: 10
+former-id: IF-FJG1SR
+parent: REQ-HS3BSSK
+order: a0
 links:
   - type: refines
-    target: IF-0VMFCD
+    target: REQ-HS3BSSK
     confirmed: 3996412c5183
 ---
 The notification service shall authenticate schedule entries after a power loss.

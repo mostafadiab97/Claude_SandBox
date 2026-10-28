@@ -1,18 +1,19 @@
 ---
-id: TC-BBN8M9
+id: REQ-0C83VNC
 type: test-case
 title: "Verify: Heating controller reports humidity values"
 status: Draft
 priority: High
 owner: K. Tanaka
-parent: INFO-MS9DAG
-order: 750
+former-id: TC-BBN8M9
+parent: REQ-XGWSK2K
+order: b0C
 links:
   - type: verifies
-    target: SYS-9RTKP2
+    target: REQ-R2V07V4
     confirmed: 3379698ed305
   - type: verifies
-    target: SW-VSSHW5
+    target: REQ-MXN6AV4
     confirmed: 00f068d4e6d7
 ---
 **Objective:** verify that the heating controller behaves as specified.

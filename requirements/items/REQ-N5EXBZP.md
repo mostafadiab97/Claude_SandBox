@@ -1,15 +1,16 @@
 ---
-id: SW-KGMCW7
+id: REQ-N5EXBZP
 type: software-requirement
 title: Heating controller switchs audit records
 status: Review
 priority: Low
 owner: محمد علي
-parent: SYS-CJV9ZN
-order: 20
+former-id: SW-KGMCW7
+parent: REQ-4B3WXK7
+order: a1
 links:
   - type: refines
-    target: SYS-CJV9ZN
+    target: REQ-4B3WXK7
     confirmed: e434b413fdbf
 ---
 The heat pump driver shall authenticate sensor readings in all supported languages.

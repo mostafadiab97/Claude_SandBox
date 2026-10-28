@@ -1,17 +1,18 @@
 ---
-id: TC-C6GNXF
+id: REQ-HRZWR46
 type: test-case
 title: "Verify: Main PCB switchs energy consumption"
 status: Approved
 owner: R. Nabil
-parent: INFO-MACGC3
-order: 1490
+former-id: TC-C6GNXF
+parent: REQ-F9Z1FYS
+order: b1O
 links:
   - type: verifies
-    target: SYS-ENSJB5
+    target: REQ-7GP9R9J
     confirmed: da484be59d82
   - type: verifies
-    target: SW-W52A2H
+    target: REQ-ZEKWVQK
     confirmed: a470245f4ac9
 ---
 **Objective:** verify that the main PCB behaves as specified.

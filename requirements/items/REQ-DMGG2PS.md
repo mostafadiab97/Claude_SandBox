@@ -1,18 +1,19 @@
 ---
-id: TC-PRHZF8
+id: REQ-DMGG2PS
 type: test-case
 title: "Verify: Wi-Fi module stores the connection state"
 status: Approved
 priority: Low
 owner: L. Samir
-parent: INFO-F0M7VC
-order: 270
+former-id: TC-PRHZF8
+parent: REQ-67RQXCK
+order: aQ
 links:
   - type: verifies
-    target: SYS-KC9B1E
+    target: REQ-7XX0BJN
     confirmed: 3ee066e79e6d
   - type: verifies
-    target: SW-V9M4HQ
+    target: REQ-X0W28NE
     confirmed: d723cbbbf1bb
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: TC-G2Y6Q1
+id: REQ-CBAW9W2
 type: test-case
 title: "Verify: Mobile app reports safety limits"
 status: Approved
 priority: Low
 owner: R. Nabil
-parent: INFO-J0FETE
-order: 1380
+former-id: TC-G2Y6Q1
+parent: REQ-WR5ZJN9
+order: b1D
 links:
   - type: verifies
-    target: SYS-367JHA
+    target: REQ-K9JV17T
     confirmed: bf84f865fd8d
 ---
 **Objective:** verify that the mobile app behaves as specified.

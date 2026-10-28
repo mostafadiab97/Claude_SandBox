@@ -1,5 +1,5 @@
 ---
-id: TC-B5N1TK
+id: REQ-9KW1QYC
 type: test-case
 title: "Verify: Regulation loop measures access tokens"
 status: Obsolete
@@ -7,14 +7,15 @@ priority: Medium
 owner: É. Laurent
 tags:
   - release-2.0
-parent: INFO-MS9DAG
-order: 890
+former-id: TC-B5N1TK
+parent: REQ-XGWSK2K
+order: b0Q
 links:
   - type: verifies
-    target: SYS-PPY5Z1
+    target: REQ-ZM76EGY
     confirmed: 0c11557d1e86
   - type: verifies
-    target: SW-TR8QMF
+    target: REQ-ZX039CQ
     confirmed: 6c24b6afc923
 ---
 **Objective:** verify that the regulation loop behaves as specified.

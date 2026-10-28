@@ -1,5 +1,5 @@
 ---
-id: TC-1Q677N
+id: REQ-SA77T00
 type: test-case
 title: "Verify: Boiler interface switchs relay events"
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: R. Nabil
 tags:
   - customer-request
-parent: INFO-MS9DAG
-order: 940
+former-id: TC-1Q677N
+parent: REQ-XGWSK2K
+order: b0V
 links:
   - type: verifies
-    target: SYS-0P0DNN
+    target: REQ-MKJBG9X
     confirmed: fb01b79aacb5
 ---
 **Objective:** verify that the boiler interface behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: HW-BDYFM5
+id: REQ-KDGQ3M7
 type: hardware-requirement
 title: Notification service reports the set point
 status: Review
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - safety
   - i18n
-parent: SYS-6HD5PY
-order: 30
+former-id: HW-BDYFM5
+parent: REQ-R5GMTBJ
+order: a2
 links:
   - type: refines
-    target: SYS-6HD5PY
+    target: REQ-R5GMTBJ
     confirmed: c27b6629ca65
 ---
 The home dashboard shall log the operating mode for up to 8 zones.

@@ -1,5 +1,5 @@
 ---
-id: HW-19CJKF
+id: REQ-1N991NT
 type: hardware-requirement
 title: Detect safety limits — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - regulatory
   - accessibility
-parent: HW-SXC135
-order: 10
+former-id: HW-19CJKF
+parent: REQ-ZXFW8XY
+order: a0
 links:
   - type: refines
-    target: HW-SXC135
+    target: REQ-ZXFW8XY
     confirmed: 042a46f7caf3
 ---
 The OTA server shall log firmware images with an accuracy of ±0.5 °C.

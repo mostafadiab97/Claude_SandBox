@@ -1,5 +1,5 @@
 ---
-id: IF-DGWZKX
+id: REQ-ZDYC948
 type: interface-requirement
 title: Heating controller logs the room temperature
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - cost
   - ux
-parent: SYS-HZRAQ2
-order: 10
+former-id: IF-DGWZKX
+parent: REQ-MN0BSTQ
+order: a0
 links:
   - type: refines
-    target: SYS-HZRAQ2
+    target: REQ-MN0BSTQ
     confirmed: 67e08d743ee6
 ---
 The heating controller shall limit humidity values with an accuracy of ±0.5 °C.

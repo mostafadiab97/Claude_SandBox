@@ -1,5 +1,5 @@
 ---
-id: IF-7E53AN
+id: REQ-8M8ZCBX
 type: interface-requirement
 title: "Signal 309: humidity values"
 status: Draft
@@ -9,7 +9,8 @@ tags:
   - performance
   - accessibility
   - ux
-parent: INFO-2TM0JP
-order: 3090
+former-id: IF-7E53AN
+parent: REQ-RJ0KHPT
+order: b3y
 ---
 Interface signal number 309.

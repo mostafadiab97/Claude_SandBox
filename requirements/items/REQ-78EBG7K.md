@@ -1,16 +1,17 @@
 ---
-id: HW-JA4MQ1
+id: REQ-78EBG7K
 type: hardware-requirement
 title: Pairing process logs the set point
 status: Approved
 priority: High
 tags:
   - connectivity
-parent: SYS-BPCY60
-order: 20
+former-id: HW-JA4MQ1
+parent: REQ-XPCV023
+order: a1
 links:
   - type: refines
-    target: SYS-BPCY60
+    target: REQ-XPCV023
     confirmed: a39478942b51
 ---
 The Zigbee radio shall validate energy consumption without user interaction.

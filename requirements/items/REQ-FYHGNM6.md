@@ -1,5 +1,5 @@
 ---
-id: TC-9DBPTK
+id: REQ-FYHGNM6
 type: test-case
 title: "Verify: Pairing process validates sensor readings"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - performance
   - i18n
   - release-2.0
-parent: INFO-F0M7VC
-order: 20
+former-id: TC-9DBPTK
+parent: REQ-67RQXCK
+order: a1
 links:
   - type: verifies
-    target: SYS-B9VTJR
+    target: REQ-EK8RFSG
     confirmed: 07a4ebe67d81
 ---
 **Objective:** verify that the pairing process behaves as specified.

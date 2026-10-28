@@ -1,5 +1,5 @@
 ---
-id: SYS-GE17MH
+id: REQ-YV57A0Z
 type: system-requirement
 title: Boiler interface stores user preferences
 status: Draft
@@ -7,14 +7,15 @@ owner: N. Kamal
 tags:
   - security
   - power
-parent: INFO-6DQTKV
-order: 600
+former-id: SYS-GE17MH
+parent: REQ-7ED7ZET
+order: ax
 links:
   - type: refines
-    target: STK-Q8BNKR
+    target: REQ-FY0A6ZE
     confirmed: 6deaa78e6ab3
   - type: mitigates
-    target: RSK-CMYE51
+    target: REQ-MSZ8QFP
     confirmed: b0be101f1b7b
 ---
 The boiler interface shall encrypt relay events when the network is unavailable.

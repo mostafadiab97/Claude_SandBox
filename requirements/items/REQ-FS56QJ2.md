@@ -1,5 +1,5 @@
 ---
-id: SYS-S2CZRZ
+id: REQ-FS56QJ2
 type: system-requirement
 title: Enclosure synchronises the room temperature
 status: Draft
@@ -7,11 +7,12 @@ owner: É. Laurent
 tags:
   - performance
   - EMC
-parent: INFO-A6P9A8
-order: 1750
+former-id: SYS-S2CZRZ
+parent: REQ-CMCS31A
+order: b1o
 links:
   - type: refines
-    target: STK-CDR1Y9
+    target: REQ-QC1Z78M
     confirmed: d9857f8b33bf
 ---
 The enclosure shall limit the operating mode for up to 8 zones.

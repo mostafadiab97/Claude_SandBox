@@ -1,19 +1,20 @@
 ---
-id: TC-0WHVXH
+id: REQ-T81Y42D
 type: test-case
 title: "Verify: Heating controller synchronises the set point"
 status: Approved
 owner: É. Laurent
 tags:
   - EMC
-parent: INFO-MS9DAG
-order: 260
+former-id: TC-0WHVXH
+parent: REQ-XGWSK2K
+order: aP
 links:
   - type: verifies
-    target: SYS-HS7YMC
+    target: REQ-MWZKPDC
     confirmed: 0b69395daa11
   - type: verifies
-    target: SW-XMXYED
+    target: REQ-7M5B8KR
     confirmed: f55c6eef03e6
 ---
 **Objective:** verify that the heating controller behaves as specified.

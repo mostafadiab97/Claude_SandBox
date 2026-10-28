@@ -1,15 +1,16 @@
 ---
-id: SW-6EB0ET
+id: REQ-YS5GE7V
 type: software-requirement
 title: Store the operating mode — detail
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: SW-H71N1T
-order: 10
+former-id: SW-6EB0ET
+parent: REQ-WVSG698
+order: a0
 links:
   - type: refines
-    target: SW-H71N1T
+    target: REQ-WVSG698
     confirmed: 0448e6c3fca0
 ---
 The menu system shall synchronise user preferences in all supported languages.

@@ -1,5 +1,5 @@
 ---
-id: IF-AH9RHB
+id: REQ-54KJ3AE
 type: interface-requirement
 title: Relay board synchronises access tokens
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: J. Müller
 tags:
   - power
-parent: SYS-3C07C0
-order: 10
+former-id: IF-AH9RHB
+parent: REQ-M6BQQQ2
+order: a0
 links:
   - type: refines
-    target: SYS-3C07C0
+    target: REQ-M6BQQQ2
     confirmed: 3f05968a7403
 ---
 The main PCB shall report audit records for up to 8 zones.

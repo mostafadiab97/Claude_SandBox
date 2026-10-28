@@ -1,15 +1,16 @@
 ---
-id: TC-S78MNR
+id: REQ-FNTM17J
 type: test-case
 title: "Verify: Battery backup encrypts safety limits"
 status: Draft
 tags:
   - release-1.0
-parent: INFO-MACGC3
-order: 1110
+former-id: TC-S78MNR
+parent: REQ-F9Z1FYS
+order: b0m
 links:
   - type: verifies
-    target: SYS-CR4P8R
+    target: REQ-W641QVG
     confirmed: 4c3ba50b83be
 ---
 **Objective:** verify that the battery backup behaves as specified.

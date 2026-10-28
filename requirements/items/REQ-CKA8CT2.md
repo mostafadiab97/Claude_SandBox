@@ -1,15 +1,16 @@
 ---
-id: IF-0KXPKD
+id: REQ-CKA8CT2
 type: interface-requirement
 title: Enclosure switchs firmware images
 status: Approved
 priority: Medium
 owner: S. Adel
-parent: SYS-R6BCVX
-order: 30
+former-id: IF-0KXPKD
+parent: REQ-CHSRQQ4
+order: a2
 links:
   - type: refines
-    target: SYS-R6BCVX
+    target: REQ-CHSRQQ4
     confirmed: 22f4af60b62c
 ---
 The power supply shall report firmware images at least once per minute.

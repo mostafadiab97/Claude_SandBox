@@ -1,5 +1,5 @@
 ---
-id: HW-Z5G5XA
+id: REQ-JEBXTED
 type: hardware-requirement
 title: Main PCB displays audit records
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: É. Laurent
 tags:
   - release-1.0
-parent: SYS-61BADB
-order: 10
+former-id: HW-Z5G5XA
+parent: REQ-2E6GAGR
+order: a0
 links:
   - type: refines
-    target: SYS-61BADB
+    target: REQ-2E6GAGR
     confirmed: 8aabb6fc11d2
 ---
 The relay board shall synchronise the set point for at least 10 years.

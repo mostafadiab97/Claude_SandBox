@@ -1,5 +1,5 @@
 ---
-id: IF-NZ8CWQ
+id: REQ-ZZC34P4
 type: interface-requirement
 title: Synchronise energy consumption — detail
 status: Review
@@ -9,11 +9,12 @@ tags:
   - cost
   - accessibility
   - safety
-parent: IF-H8HMR2
-order: 10
+former-id: IF-NZ8CWQ
+parent: REQ-1RG6FXB
+order: a0
 links:
   - type: refines
-    target: IF-H8HMR2
+    target: REQ-1RG6FXB
     confirmed: 0f536e68c0e9
 ---
 The Zigbee radio shall switch sensor readings for at least 10 years.

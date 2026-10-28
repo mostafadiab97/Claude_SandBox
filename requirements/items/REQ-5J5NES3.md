@@ -1,5 +1,5 @@
 ---
-id: TC-ZGWF4S
+id: REQ-5J5NES3
 type: test-case
 title: "Verify: Backlight reports the operating mode"
 status: Review
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - performance
   - ux
-parent: INFO-HTSZ15
-order: 630
+former-id: TC-ZGWF4S
+parent: REQ-Y9VHHKA
+order: b00
 links:
   - type: verifies
-    target: SYS-E3DH60
+    target: REQ-E069M01
     confirmed: 2a4bbbe46324
 ---
 **Objective:** verify that the backlight behaves as specified.

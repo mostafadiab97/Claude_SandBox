@@ -1,5 +1,5 @@
 ---
-id: HW-V3SATV
+id: REQ-2WJ49YW
 type: hardware-requirement
 title: Enclosure displays user preferences
 status: Review
@@ -7,11 +7,12 @@ owner: K. Tanaka
 tags:
   - release-2.0
   - ux
-parent: SYS-42GJXH
-order: 10
+former-id: HW-V3SATV
+parent: REQ-EMXTY67
+order: a0
 links:
   - type: refines
-    target: SYS-42GJXH
+    target: REQ-EMXTY67
     confirmed: a0e9ce534d79
 ---
 The enclosure shall calibrate energy consumption below 0.5 W in standby.

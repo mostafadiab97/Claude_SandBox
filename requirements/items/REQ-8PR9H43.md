@@ -1,5 +1,5 @@
 ---
-id: HW-FRX9D6
+id: REQ-8PR9H43
 type: hardware-requirement
 title: Display safety limits — detail
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - release-2.0
   - power
   - cost
-parent: HW-6QW5X0
-order: 10
+former-id: HW-FRX9D6
+parent: REQ-GNJ649B
+order: a0
 links:
   - type: refines
-    target: HW-6QW5X0
+    target: REQ-GNJ649B
     confirmed: f081a7be4767
 ---
 The Zigbee radio shall display firmware images with an accuracy of ±0.5 °C.

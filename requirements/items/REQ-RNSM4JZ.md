@@ -1,13 +1,14 @@
 ---
-id: IF-TNF1YK
+id: REQ-RNSM4JZ
 type: interface-requirement
 title: Main PCB synchronises sensor readings
 status: Draft
-parent: SYS-DK3Y4R
-order: 30
+former-id: IF-TNF1YK
+parent: REQ-SQ5X7CQ
+order: a2
 links:
   - type: refines
-    target: SYS-DK3Y4R
+    target: REQ-SQ5X7CQ
     confirmed: 85f6bb475fe2
 ---
 The relay board shall limit schedule entries without user interaction.

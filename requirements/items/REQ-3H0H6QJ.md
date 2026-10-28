@@ -1,14 +1,15 @@
 ---
-id: SYS-KFPJKE
+id: REQ-3H0H6QJ
 type: system-requirement
 title: Over-temperature monitor limits user preferences
 status: Review
 priority: High
-parent: INFO-0229G8
-order: 2030
+former-id: SYS-KFPJKE
+parent: REQ-H9113WA
+order: b2G
 links:
   - type: refines
-    target: STK-ZJRWCQ
+    target: REQ-9YG77WV
     confirmed: 080168ea99ae
 ---
 The over-temperature monitor shall display safety limits in all supported languages.

@@ -1,5 +1,5 @@
 ---
-id: SYS-32PD6V
+id: REQ-DV0Z40E
 type: system-requirement
 title: Status LED stores energy consumption
 status: Review
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - i18n
   - release-2.0
-parent: INFO-PDR6FV
-order: 920
+former-id: SYS-32PD6V
+parent: REQ-2ZA2TRZ
+order: b0T
 links:
   - type: refines
-    target: STK-HH6ZNR
+    target: REQ-PPDBMB4
     confirmed: 8a0ce5d354df
 ---
 The status LED shall log humidity values when the network is unavailable.

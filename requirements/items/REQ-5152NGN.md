@@ -1,5 +1,5 @@
 ---
-id: IF-7XBYMY
+id: REQ-5152NGN
 type: interface-requirement
 title: Zone valve displays firmware images
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - release-2.0
   - performance
-parent: SYS-1EZV5G
-order: 10
+former-id: IF-7XBYMY
+parent: REQ-389SR14
+order: a0
 links:
   - type: refines
-    target: SYS-1EZV5G
+    target: REQ-389SR14
     confirmed: 3dec0cd02007
 ---
 The boiler interface shall detect access tokens after a power loss.

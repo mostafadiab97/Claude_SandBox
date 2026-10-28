@@ -1,15 +1,16 @@
 ---
-id: SYS-RAD6T2
+id: REQ-CJT5KJQ
 type: system-requirement
 title: Pairing process authenticates user preferences
 status: Review
 tags:
   - safety
-parent: INFO-NRVHA2
-order: 1940
+former-id: SYS-RAD6T2
+parent: REQ-6R94HFM
+order: b27
 links:
   - type: refines
-    target: STK-0AD5XP
+    target: REQ-W8GJYMQ
     confirmed: 30e7f07df0d1
 ---
 The pairing process shall synchronise the set point for at least 10 years.

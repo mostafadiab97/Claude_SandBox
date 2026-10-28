@@ -1,5 +1,5 @@
 ---
-id: HW-KBATVP
+id: REQ-A53MNTF
 type: hardware-requirement
 title: Battery backup calibrates the set point
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Low
 tags:
   - power
   - customer-request
-parent: SYS-VKCBQY
-order: 10
+former-id: HW-KBATVP
+parent: REQ-7DPR7Z9
+order: a0
 links:
   - type: refines
-    target: SYS-VKCBQY
+    target: REQ-7DPR7Z9
     confirmed: d1b5e6f293be
 ---
 The enclosure shall authenticate the connection state after a power loss.

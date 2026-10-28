@@ -1,16 +1,17 @@
 ---
-id: TC-S3NG9W
+id: REQ-DY7D8CG
 type: test-case
 title: "Verify: Tamper detection calibrates safety limits"
 status: Review
 owner: É. Laurent
 tags:
   - i18n
-parent: INFO-Z4TW4B
-order: 1000
+former-id: TC-S3NG9W
+parent: REQ-K6FGAY0
+order: b0b
 links:
   - type: verifies
-    target: SYS-XM6K6N
+    target: REQ-NH579MT
     confirmed: 2dfa982258c0
 ---
 **Objective:** verify that the tamper detection behaves as specified.

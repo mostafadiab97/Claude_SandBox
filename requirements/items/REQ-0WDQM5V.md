@@ -1,5 +1,5 @@
 ---
-id: HW-NE5TQK
+id: REQ-0WDQM5V
 type: hardware-requirement
 title: Main PCB notifys humidity values
 status: Review
@@ -9,11 +9,12 @@ tags:
   - i18n
   - safety
   - power
-parent: SYS-T9M88W
-order: 20
+former-id: HW-NE5TQK
+parent: REQ-N0KC5GA
+order: a1
 links:
   - type: refines
-    target: SYS-T9M88W
+    target: REQ-N0KC5GA
     confirmed: d3225946a824
 ---
 The enclosure shall measure the connection state within 200 ms.

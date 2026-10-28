@@ -1,14 +1,15 @@
 ---
-id: SW-VBCR4R
+id: REQ-E4BFBCB
 type: software-requirement
 title: Notification service limits the operating mode
 status: Approved
 priority: High
-parent: SYS-EVBYJ7
-order: 30
+former-id: SW-VBCR4R
+parent: REQ-58A23KV
+order: a2
 links:
   - type: refines
-    target: SYS-EVBYJ7
+    target: REQ-58A23KV
     confirmed: 11120bfddd2b
 ---
 The login screen shall synchronise the set point in under 3 s.

@@ -1,7 +1,8 @@
 ---
-id: INFO-ZBHTYF
+id: REQ-XJDN42Y
 type: information
-title: 1.5 Defects and change requests
-parent: INFO-FBGE35
-order: 50
+title: Defects and change requests
+former-id: INFO-ZBHTYF
+parent: REQ-7VTYWPY
+order: a4
 ---

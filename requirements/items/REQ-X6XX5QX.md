@@ -1,5 +1,5 @@
 ---
-id: TC-YRZK2Q
+id: REQ-X6XX5QX
 type: test-case
 title: "Verify: Backlight calibrates safety limits"
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - release-2.0
   - EMC
-parent: INFO-HTSZ15
-order: 520
+former-id: TC-YRZK2Q
+parent: REQ-Y9VHHKA
+order: ap
 links:
   - type: verifies
-    target: SYS-W9R8ZQ
+    target: REQ-SH3K9A3
     confirmed: 38b79a7f1e8e
 ---
 **Objective:** verify that the backlight behaves as specified.

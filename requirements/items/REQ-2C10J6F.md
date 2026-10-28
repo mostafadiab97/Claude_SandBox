@@ -1,5 +1,5 @@
 ---
-id: IF-M7VMNS
+id: REQ-2C10J6F
 type: interface-requirement
 title: Tamper detection restores safety limits
 status: Review
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - EMC
   - security
-parent: SYS-BHD8S6
-order: 30
+former-id: IF-M7VMNS
+parent: REQ-YC34KJR
+order: a2
 links:
   - type: refines
-    target: SYS-BHD8S6
+    target: REQ-YC34KJR
     confirmed: b4b9539a5d88
 ---
 The encryption layer shall store audit records without user interaction.

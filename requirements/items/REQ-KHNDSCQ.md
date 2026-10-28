@@ -1,5 +1,5 @@
 ---
-id: IF-725QBQ
+id: REQ-KHNDSCQ
 type: interface-requirement
 title: Zone valve authenticates the set point
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - regulatory
   - EMC
-parent: SYS-EC5N2Y
-order: 10
+former-id: IF-725QBQ
+parent: REQ-QZW142T
+order: a0
 links:
   - type: refines
-    target: SYS-EC5N2Y
+    target: REQ-QZW142T
     confirmed: 450d9078b1b0
 ---
 The regulation loop shall validate safety limits in all supported languages.

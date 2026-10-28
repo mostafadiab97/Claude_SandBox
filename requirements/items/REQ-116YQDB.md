@@ -1,14 +1,15 @@
 ---
-id: TC-W18XN3
+id: REQ-116YQDB
 type: test-case
 title: "Verify: Schedule editor reports the connection state"
 status: Obsolete
 owner: K. Tanaka
-parent: INFO-J0FETE
-order: 1090
+former-id: TC-W18XN3
+parent: REQ-WR5ZJN9
+order: b0k
 links:
   - type: verifies
-    target: SYS-MTM77X
+    target: REQ-1AETXCX
     confirmed: 9fccf544d618
 ---
 **Objective:** verify that the schedule editor behaves as specified.

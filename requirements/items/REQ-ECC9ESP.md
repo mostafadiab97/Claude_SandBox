@@ -1,5 +1,5 @@
 ---
-id: SYS-2TCHQB
+id: REQ-ECC9ESP
 type: system-requirement
 title: Tamper detection restores the connection state
 status: Review
@@ -8,11 +8,12 @@ tags:
   - performance
   - cost
   - ux
-parent: INFO-0229G8
-order: 1850
+former-id: SYS-2TCHQB
+parent: REQ-H9113WA
+order: b1y
 links:
   - type: refines
-    target: STK-XSQC89
+    target: REQ-Y7E2CS3
     confirmed: 66c246d6b1dc
 ---
 The tamper detection shall switch error conditions using AES-256-GCM.

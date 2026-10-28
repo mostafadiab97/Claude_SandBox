@@ -1,11 +1,12 @@
 ---
-id: IF-5QQRMY
+id: REQ-Z81S5KA
 type: interface-requirement
 title: "Signal 524: energy consumption"
 status: Approved
 priority: Medium
 owner: H. Mostafa
-parent: INFO-2TM0JP
-order: 5240
+former-id: IF-5QQRMY
+parent: REQ-RJ0KHPT
+order: b7R
 ---
 Interface signal number 524.

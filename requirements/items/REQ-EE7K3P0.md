@@ -1,5 +1,5 @@
 ---
-id: IF-BSYWKF
+id: REQ-EE7K3P0
 type: interface-requirement
 title: "Signal 346: energy consumption"
 status: Draft
@@ -9,7 +9,8 @@ tags:
   - EMC
   - security
   - cost
-parent: INFO-2TM0JP
-order: 3460
+former-id: IF-BSYWKF
+parent: REQ-RJ0KHPT
+order: b4Z
 ---
 Interface signal number 346.

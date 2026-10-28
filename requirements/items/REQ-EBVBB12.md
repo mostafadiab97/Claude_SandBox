@@ -1,15 +1,16 @@
 ---
-id: SYS-7X9ABB
+id: REQ-EBVBB12
 type: system-requirement
 title: Power supply synchronises user preferences
 status: Obsolete
 priority: High
 owner: H. Mostafa
-parent: INFO-A6P9A8
-order: 1990
+former-id: SYS-7X9ABB
+parent: REQ-CMCS31A
+order: b2C
 links:
   - type: refines
-    target: STK-4NGQJ5
+    target: REQ-4H1F9N3
     confirmed: 96640a7e340d
 ---
 The power supply shall detect the connection state using AES-256-GCM.

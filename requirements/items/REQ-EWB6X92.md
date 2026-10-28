@@ -1,17 +1,18 @@
 ---
-id: DEF-3YDSXD
+id: REQ-EWB6X92
 type: defect
 title: "Defect: Zigbee radio does not detect error conditions"
 status: Draft
 priority: High
-parent: INFO-Y69DRS
-order: 40
+former-id: DEF-3YDSXD
+parent: REQ-YW554H8
+order: a3
 links:
   - type: relates-to
-    target: TC-MG81PS
+    target: REQ-T06S0RQ
     confirmed: 19d41a91be36
   - type: relates-to
-    target: SYS-RB6KMZ
+    target: REQ-AKMXCSZ
     confirmed: 9e9699c7ff42
 ---
 Found during regression testing of build 2.1.36.

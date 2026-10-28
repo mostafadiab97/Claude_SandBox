@@ -1,5 +1,5 @@
 ---
-id: SW-J3J8BZ
+id: REQ-1YMYFNM
 type: software-requirement
 title: Bluetooth LE link switchs user preferences
 status: Review
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - EMC
   - cost
-parent: SYS-02QRPZ
-order: 20
+former-id: SW-J3J8BZ
+parent: REQ-3FVG1HH
+order: a1
 links:
   - type: refines
-    target: SYS-02QRPZ
+    target: REQ-3FVG1HH
     confirmed: 82506165b903
 ---
 The local API shall encrypt the connection state at least once per minute.

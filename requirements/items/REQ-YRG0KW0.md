@@ -1,5 +1,5 @@
 ---
-id: SYS-175X0G
+id: REQ-YRG0KW0
 type: system-requirement
 title: Telemetry pipeline displays firmware images
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - cost
   - performance
-parent: INFO-YV5EZD
-order: 70
+former-id: SYS-175X0G
+parent: REQ-RE9ZKHF
+order: a6
 links:
   - type: refines
-    target: STK-JFBQPS
+    target: REQ-A8X8PTB
     confirmed: 5027ee1822eb
 ---
 The telemetry pipeline shall store safety limits when the network is unavailable.

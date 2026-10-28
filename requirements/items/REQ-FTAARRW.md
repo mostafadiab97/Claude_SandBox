@@ -1,5 +1,5 @@
 ---
-id: SW-DPAX20
+id: REQ-FTAARRW
 type: software-requirement
 title: Login screen synchronises schedule entries
 status: Obsolete
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - security
   - regulatory
-parent: SYS-M9R01H
-order: 30
+former-id: SW-DPAX20
+parent: REQ-EZY9M63
+order: a2
 links:
   - type: refines
-    target: SYS-M9R01H
+    target: REQ-EZY9M63
     confirmed: 1e8e0f56ab78
 ---
 The mobile app shall switch humidity values below 0.5 W in standby.

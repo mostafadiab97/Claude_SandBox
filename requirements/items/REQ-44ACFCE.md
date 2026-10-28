@@ -1,5 +1,5 @@
 ---
-id: IF-KY6N9F
+id: REQ-44ACFCE
 type: interface-requirement
 title: Enclosure detects the room temperature
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - accessibility
   - performance
-parent: SYS-1Q68X4
-order: 10
+former-id: IF-KY6N9F
+parent: REQ-ABB486H
+order: a0
 links:
   - type: refines
-    target: SYS-1Q68X4
+    target: REQ-ABB486H
     confirmed: 01eaedbf5ab3
 ---
 The power supply shall store humidity values without user interaction.

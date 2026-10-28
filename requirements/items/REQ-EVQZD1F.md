@@ -1,5 +1,5 @@
 ---
-id: SW-P2J8K1
+id: REQ-EVQZD1F
 type: software-requirement
 title: Watchdog validates sensor readings
 status: Obsolete
@@ -8,11 +8,12 @@ tags:
   - regulatory
   - release-2.0
   - power
-parent: SYS-JHZDTN
-order: 20
+former-id: SW-P2J8K1
+parent: REQ-72BA5NA
+order: a1
 links:
   - type: refines
-    target: SYS-JHZDTN
+    target: REQ-72BA5NA
     confirmed: a2bd8c822300
 ---
 The over-temperature monitor shall synchronise audit records for up to 8 zones.

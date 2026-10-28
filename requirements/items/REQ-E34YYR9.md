@@ -1,5 +1,5 @@
 ---
-id: TC-CMHNKQ
+id: REQ-E34YYR9
 type: test-case
 title: "Regression: Home dashboard synchronises schedule entries"
 status: Review
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - customer-request
   - accessibility
-parent: INFO-ECHASH
-order: 1980
+former-id: TC-CMHNKQ
+parent: REQ-6H15AV2
+order: b2B
 links:
   - type: verifies
-    target: SYS-QBP134
+    target: REQ-JYSBE1D
     confirmed: 6e1a778017fa
 ---
 **Objective:** verify that the device behaves as specified.

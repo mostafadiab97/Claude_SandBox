@@ -1,5 +1,5 @@
 ---
-id: SW-TH8P9M
+id: REQ-G1N7WG2
 type: software-requirement
 title: Heating controller measures schedule entries
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - EMC
   - accessibility
   - power
-parent: SYS-9QT5AW
-order: 20
+former-id: SW-TH8P9M
+parent: REQ-R47232G
+order: a1
 links:
   - type: refines
-    target: SYS-9QT5AW
+    target: REQ-R47232G
     confirmed: 29ca05a07a2d
 ---
 The zone valve shall validate firmware images for up to 8 zones.

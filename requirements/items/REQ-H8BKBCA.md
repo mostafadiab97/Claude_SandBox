@@ -1,5 +1,5 @@
 ---
-id: SW-TNS385
+id: REQ-H8BKBCA
 type: software-requirement
 title: Log the room temperature — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - connectivity
   - power
-parent: SW-B0ZR00
-order: 10
+former-id: SW-TNS385
+parent: REQ-R21C1CE
+order: a0
 links:
   - type: refines
-    target: SW-B0ZR00
+    target: REQ-R21C1CE
     confirmed: c96720884726
 ---
 The menu system shall measure humidity values with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: TC-B1B2Z5
+id: REQ-DGDBWAD
 type: test-case
 title: "Verify: Backlight restores humidity values"
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: R. Nabil
 tags:
   - release-2.0
-parent: INFO-HTSZ15
-order: 490
+former-id: TC-B1B2Z5
+parent: REQ-Y9VHHKA
+order: am
 links:
   - type: verifies
-    target: SYS-3J52W8
+    target: REQ-A10PCXF
     confirmed: 92ce5ba8e9a8
 ---
 **Objective:** verify that the backlight behaves as specified.

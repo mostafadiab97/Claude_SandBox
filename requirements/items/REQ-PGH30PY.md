@@ -1,18 +1,19 @@
 ---
-id: TC-BJRPJW
+id: REQ-PGH30PY
 type: test-case
 title: "Verify: Enclosure measures error conditions"
 status: Draft
 priority: Medium
 owner: S. Adel
-parent: INFO-MACGC3
-order: 1640
+former-id: TC-BJRPJW
+parent: REQ-F9Z1FYS
+order: b1d
 links:
   - type: verifies
-    target: SYS-J667FF
+    target: REQ-QCJ3WMP
     confirmed: 1d8cfb08af6f
   - type: verifies
-    target: SW-NK493Q
+    target: REQ-J2ZK72J
     confirmed: f40caf35bcf0
 ---
 **Objective:** verify that the enclosure behaves as specified.

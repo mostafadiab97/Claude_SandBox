@@ -1,5 +1,5 @@
 ---
-id: TC-G1P6SQ
+id: REQ-D24EG6Z
 type: test-case
 title: "Verify: Main PCB encrypts the connection state"
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: S. Adel
 tags:
   - customer-request
-parent: INFO-MACGC3
-order: 510
+former-id: TC-G1P6SQ
+parent: REQ-F9Z1FYS
+order: ao
 links:
   - type: verifies
-    target: SYS-98SWXJ
+    target: REQ-KS0C193
     confirmed: 2eaf1870cc5d
 ---
 **Objective:** verify that the main PCB behaves as specified.

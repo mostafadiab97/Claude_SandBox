@@ -1,5 +1,5 @@
 ---
-id: CR-FBWTBP
+id: REQ-ZFNXN9Y
 type: change-request
 title: "CR: extend menu system to log the connection state"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - safety
   - security
   - release-2.0
-parent: INFO-7HY7F9
-order: 90
+former-id: CR-FBWTBP
+parent: REQ-HFYH0KW
+order: a8
 links:
   - type: relates-to
-    target: SYS-Q7FXSQ
+    target: REQ-RE2TJFJ
     confirmed: 87ab2e4b1288
 ---
 Requested by customer support (ticket #12598).

@@ -1,15 +1,16 @@
 ---
-id: TC-F5JJ4S
+id: REQ-N2NEJ4P
 type: test-case
 title: Hub verification 10
 status: Review
 priority: High
 owner: S. Adel
-parent: INFO-ECHASH
-order: 190
+former-id: TC-F5JJ4S
+parent: REQ-6H15AV2
+order: aI
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 4639507190ed
 ---
 **Objective:** verify that the thermostat behaves as specified.

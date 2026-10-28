@@ -1,14 +1,15 @@
 ---
-id: HW-W1XMFD
+id: REQ-MJX5QHZ
 type: hardware-requirement
 title: Zigbee radio measures energy consumption
 status: Approved
 owner: S. Adel
-parent: SYS-B99DV1
-order: 10
+former-id: HW-W1XMFD
+parent: REQ-M9C7RKC
+order: a0
 links:
   - type: refines
-    target: SYS-B99DV1
+    target: REQ-M9C7RKC
     confirmed: 4cbe1396d101
 ---
 The local API shall calibrate safety limits with an accuracy of ±0.5 °C.

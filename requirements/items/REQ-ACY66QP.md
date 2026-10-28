@@ -1,5 +1,5 @@
 ---
-id: TC-Y1BX4S
+id: REQ-ACY66QP
 type: test-case
 title: "Verify: Telemetry pipeline limits the room temperature"
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: محمد علي
 tags:
   - regulatory
-parent: INFO-7P4D8D
-order: 1030
+former-id: TC-Y1BX4S
+parent: REQ-8351896
+order: b0e
 links:
   - type: verifies
-    target: SYS-C4HEZ6
+    target: REQ-BF9Y5RT
     confirmed: d7ecad5f2748
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

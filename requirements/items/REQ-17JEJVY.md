@@ -1,15 +1,16 @@
 ---
-id: SW-BDJ1DZ
+id: REQ-17JEJVY
 type: software-requirement
 title: Zigbee radio calibrates firmware images
 status: Review
 priority: High
 owner: M. Farouk
-parent: SYS-WTMBDQ
-order: 20
+former-id: SW-BDJ1DZ
+parent: REQ-M7ZKWK6
+order: a1
 links:
   - type: refines
-    target: SYS-WTMBDQ
+    target: REQ-M7ZKWK6
     confirmed: 58aa56d32867
 ---
 The Bluetooth LE link shall display firmware images without user interaction.

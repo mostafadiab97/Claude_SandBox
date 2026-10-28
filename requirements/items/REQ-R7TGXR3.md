@@ -1,5 +1,5 @@
 ---
-id: SW-TBE47G
+id: REQ-R7TGXR3
 type: software-requirement
 title: Tamper detection validates user preferences
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - performance
   - cost
   - release-2.0
-parent: SYS-NW2H4K
-order: 30
+former-id: SW-TBE47G
+parent: REQ-RSNHK9N
+order: a2
 links:
   - type: refines
-    target: SYS-NW2H4K
+    target: REQ-RSNHK9N
     confirmed: 061c07f59466
 ---
 The encryption layer shall log user preferences with an accuracy of ±0.5 °C.

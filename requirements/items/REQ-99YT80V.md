@@ -1,14 +1,15 @@
 ---
-id: SW-02C7YB
+id: REQ-99YT80V
 type: software-requirement
 title: Status LED limits schedule entries
 status: Draft
 priority: Medium
-parent: SYS-7C3GR4
-order: 20
+former-id: SW-02C7YB
+parent: REQ-TEEHWEZ
+order: a1
 links:
   - type: refines
-    target: SYS-7C3GR4
+    target: REQ-TEEHWEZ
     confirmed: d6385afd3348
 ---
 The backlight shall synchronise relay events for up to 8 zones.

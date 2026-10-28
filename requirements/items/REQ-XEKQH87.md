@@ -1,15 +1,16 @@
 ---
-id: SYS-C8D1CH
+id: REQ-XEKQH87
 type: system-requirement
 title: Power supply detects humidity values
 status: Review
 priority: Medium
 owner: A. Hassan
-parent: INFO-A6P9A8
-order: 210
+former-id: SYS-C8D1CH
+parent: REQ-CMCS31A
+order: aK
 links:
   - type: refines
-    target: STK-CDR1Y9
+    target: REQ-QC1Z78M
     confirmed: d9857f8b33bf
 ---
 The power supply shall switch the connection state with an accuracy of ±0.5 °C.

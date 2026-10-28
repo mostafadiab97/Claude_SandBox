@@ -1,15 +1,16 @@
 ---
-id: DE-QF4TTQ
+id: REQ-RQ54QC1
 type: design-element
 title: Module tamper_detection_62
 status: Draft
 priority: Medium
 owner: É. Laurent
-parent: SW-18NMC0
-order: 10
+former-id: DE-QF4TTQ
+parent: REQ-KVCTPZX
+order: a0
 links:
   - type: implements
-    target: SW-18NMC0
+    target: REQ-KVCTPZX
     confirmed: 700ab0f7eb1f
 ---
 Implemented in `src/safe/tamper_detection.c`.

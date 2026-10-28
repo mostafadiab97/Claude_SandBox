@@ -1,11 +1,12 @@
 ---
-id: IF-BHDPHH
+id: REQ-ME4MVJJ
 type: interface-requirement
 title: "Signal 280: humidity values"
 status: Draft
 priority: Medium
 owner: J. Müller
-parent: INFO-2TM0JP
-order: 2800
+former-id: IF-BHDPHH
+parent: REQ-RJ0KHPT
+order: b3V
 ---
 Interface signal number 280.

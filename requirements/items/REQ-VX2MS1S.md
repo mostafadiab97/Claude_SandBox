@@ -1,5 +1,5 @@
 ---
-id: IF-HQWHDN
+id: REQ-VX2MS1S
 type: interface-requirement
 title: "Signal 307: user preferences"
 status: Draft
@@ -8,7 +8,8 @@ owner: Y. Saber
 tags:
   - i18n
   - security
-parent: INFO-2TM0JP
-order: 3070
+former-id: IF-HQWHDN
+parent: REQ-RJ0KHPT
+order: b3w
 ---
 Interface signal number 307.

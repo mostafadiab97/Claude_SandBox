@@ -1,18 +1,19 @@
 ---
-id: TC-ABJM07
+id: REQ-6K5GZ6B
 type: test-case
 title: "Verify: Login screen notifys error conditions"
 status: Review
 priority: Medium
 owner: J. Müller
-parent: INFO-J0FETE
-order: 220
+former-id: TC-ABJM07
+parent: REQ-WR5ZJN9
+order: aL
 links:
   - type: verifies
-    target: SYS-61AT7T
+    target: REQ-V02ZDCW
     confirmed: 3112309b1698
   - type: verifies
-    target: SW-A11K9R
+    target: REQ-FKXQWD9
     confirmed: 24ff723bc647
 ---
 **Objective:** verify that the login screen behaves as specified.

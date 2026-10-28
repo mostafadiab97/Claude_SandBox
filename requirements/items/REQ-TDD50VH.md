@@ -1,5 +1,5 @@
 ---
-id: TC-DN9JE4
+id: REQ-TDD50VH
 type: test-case
 title: "Verify: Over-temperature monitor validates the room temperature"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: N. Kamal
 tags:
   - release-1.0
-parent: INFO-Z4TW4B
-order: 1030
+former-id: TC-DN9JE4
+parent: REQ-K6FGAY0
+order: b0e
 links:
   - type: verifies
-    target: SYS-KRN3ZP
+    target: REQ-WKEP01A
     confirmed: 85ba3b9261c1
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

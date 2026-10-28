@@ -1,15 +1,16 @@
 ---
-id: IF-HF6AT6
+id: REQ-1TYM536
 type: interface-requirement
 title: Tamper detection stores the room temperature
 status: Approved
 priority: Low
 owner: L. Samir
-parent: SYS-WQRW57
-order: 20
+former-id: IF-HF6AT6
+parent: REQ-J1452PB
+order: a1
 links:
   - type: refines
-    target: SYS-WQRW57
+    target: REQ-J1452PB
     confirmed: a077b95b29b8
 ---
 The over-temperature monitor shall restore the room temperature for up to 8 zones.

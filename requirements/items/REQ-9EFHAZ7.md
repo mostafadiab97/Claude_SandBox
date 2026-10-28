@@ -1,15 +1,16 @@
 ---
-id: SW-JC0MR9
+id: REQ-9EFHAZ7
 type: software-requirement
 title: Display the operating mode — detail
 status: Review
 priority: Medium
 owner: J. Müller
-parent: SW-8748WT
-order: 10
+former-id: SW-JC0MR9
+parent: REQ-Q00TFNT
+order: a0
 links:
   - type: refines
-    target: SW-8748WT
+    target: REQ-Q00TFNT
     confirmed: 7ecbb4e96d40
 ---
 The status LED shall log relay events in all supported languages.

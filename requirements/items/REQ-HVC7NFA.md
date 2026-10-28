@@ -1,5 +1,5 @@
 ---
-id: IF-KPRY2S
+id: REQ-HVC7NFA
 type: interface-requirement
 title: Status LED switchs safety limits
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - EMC
   - performance
-parent: SYS-76BVFJ
-order: 10
+former-id: IF-KPRY2S
+parent: REQ-N13Q3PD
+order: a0
 links:
   - type: refines
-    target: SYS-76BVFJ
+    target: REQ-N13Q3PD
     confirmed: 3214f1c9f970
 ---
 The touch display shall notify firmware images without user interaction.

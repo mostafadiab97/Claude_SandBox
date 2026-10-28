@@ -1,14 +1,15 @@
 ---
-id: IF-3XF609
+id: REQ-T70YD89
 type: interface-requirement
 title: Cloud backend validates audit records
 status: Draft
 owner: L. Samir
-parent: SYS-NAZA59
-order: 20
+former-id: IF-3XF609
+parent: REQ-NV308S7
+order: a1
 links:
   - type: refines
-    target: SYS-NAZA59
+    target: REQ-NV308S7
     confirmed: 0b0c80c7d5cf
 ---
 The cloud backend shall detect the operating mode when the network is unavailable.

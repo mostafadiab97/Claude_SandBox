@@ -1,15 +1,16 @@
 ---
-id: SYS-3MCFDD
+id: REQ-89S1J9Z
 type: system-requirement
 title: Telemetry pipeline notifys schedule entries
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: INFO-YV5EZD
-order: 720
+former-id: SYS-3MCFDD
+parent: REQ-RE9ZKHF
+order: b09
 links:
   - type: refines
-    target: STK-SKPX7F
+    target: REQ-M17BCB3
     confirmed: ff820400e2f9
 ---
 The telemetry pipeline shall synchronise schedule entries when the network is unavailable.

@@ -1,5 +1,5 @@
 ---
-id: TC-W63TB3
+id: REQ-W7VQHXH
 type: test-case
 title: "Regression: User account service synchronises humidity values"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - performance
   - i18n
   - power
-parent: INFO-ECHASH
-order: 610
+former-id: TC-W63TB3
+parent: REQ-6H15AV2
+order: ay
 links:
   - type: verifies
-    target: SYS-J6RJYD
+    target: REQ-JFVQGH6
     confirmed: a893bb1c8e2d
 ---
 **Objective:** verify that the device behaves as specified.

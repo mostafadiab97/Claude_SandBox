@@ -1,15 +1,16 @@
 ---
-id: TC-FZQT97
+id: REQ-945YPYP
 type: test-case
 title: "Verify: Menu system encrypts sensor readings"
 status: Approved
 priority: Low
 owner: K. Tanaka
-parent: INFO-HTSZ15
-order: 190
+former-id: TC-FZQT97
+parent: REQ-Y9VHHKA
+order: aI
 links:
   - type: verifies
-    target: SYS-9YAX2Y
+    target: REQ-VK5ZJ33
     confirmed: b8ba4474f101
 ---
 **Objective:** verify that the menu system behaves as specified.

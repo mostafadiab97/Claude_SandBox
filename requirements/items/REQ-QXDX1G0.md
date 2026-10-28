@@ -1,5 +1,5 @@
 ---
-id: TC-HMBA5X
+id: REQ-QXDX1G0
 type: test-case
 title: "Verify: Secure boot validates audit records"
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: N. Kamal
 tags:
   - ux
-parent: INFO-Z4TW4B
-order: 1220
+former-id: TC-HMBA5X
+parent: REQ-K6FGAY0
+order: b0x
 links:
   - type: verifies
-    target: SYS-9ECYTV
+    target: REQ-3DHTHXM
     confirmed: 7b9cca966730
 ---
 **Objective:** verify that the secure boot behaves as specified.

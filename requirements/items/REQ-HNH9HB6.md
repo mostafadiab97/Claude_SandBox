@@ -1,15 +1,16 @@
 ---
-id: SW-VMTD6V
+id: REQ-HNH9HB6
 type: software-requirement
 title: Login screen synchronises schedule entries
 status: Draft
 priority: High
 owner: محمد علي
-parent: SYS-QBP134
-order: 10
+former-id: SW-VMTD6V
+parent: REQ-JYSBE1D
+order: a0
 links:
   - type: refines
-    target: SYS-QBP134
+    target: REQ-JYSBE1D
     confirmed: 6e1a778017fa
 ---
 The home dashboard shall synchronise the set point after a power loss.

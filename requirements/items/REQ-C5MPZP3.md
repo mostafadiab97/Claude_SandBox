@@ -1,14 +1,15 @@
 ---
-id: SW-G5SAF2
+id: REQ-C5MPZP3
 type: software-requirement
 title: Zigbee radio restores the operating mode
 status: Draft
 priority: Medium
-parent: SYS-RAD6T2
-order: 40
+former-id: SW-G5SAF2
+parent: REQ-CJT5KJQ
+order: a3
 links:
   - type: refines
-    target: SYS-RAD6T2
+    target: REQ-CJT5KJQ
     confirmed: 05d37b4e999b
 ---
 The pairing process shall switch access tokens using AES-256-GCM.

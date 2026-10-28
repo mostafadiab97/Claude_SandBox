@@ -1,5 +1,5 @@
 ---
-id: TC-DZGRST
+id: REQ-8VT30F2
 type: test-case
 title: "Verify: Home dashboard stores the set point"
 status: Review
@@ -9,11 +9,12 @@ tags:
   - i18n
   - release-2.0
   - cost
-parent: INFO-J0FETE
-order: 440
+former-id: TC-DZGRST
+parent: REQ-WR5ZJN9
+order: ah
 links:
   - type: verifies
-    target: SYS-AY7604
+    target: REQ-TVYEGT2
     confirmed: b500de19135f
 ---
 **Objective:** verify that the home dashboard behaves as specified.

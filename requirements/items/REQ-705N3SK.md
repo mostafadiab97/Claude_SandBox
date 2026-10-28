@@ -1,5 +1,5 @@
 ---
-id: HW-WVBGSG
+id: REQ-705N3SK
 type: hardware-requirement
 title: Battery backup authenticates user preferences
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - security
   - cost
   - connectivity
-parent: SYS-FHYWXP
-order: 30
+former-id: HW-WVBGSG
+parent: REQ-7FNG430
+order: a2
 links:
   - type: refines
-    target: SYS-FHYWXP
+    target: REQ-7FNG430
     confirmed: 3d63ea693d7b
 ---
 The power supply shall report the room temperature using AES-256-GCM.

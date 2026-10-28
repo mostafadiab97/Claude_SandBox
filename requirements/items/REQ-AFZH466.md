@@ -1,5 +1,5 @@
 ---
-id: TC-7CVCPA
+id: REQ-AFZH466
 type: test-case
 title: "Verify: Over-temperature monitor limits user preferences"
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - ux
   - cost
-parent: INFO-Z4TW4B
-order: 1450
+former-id: TC-7CVCPA
+parent: REQ-K6FGAY0
+order: b1K
 links:
   - type: verifies
-    target: SYS-KFPJKE
+    target: REQ-3H0H6QJ
     confirmed: bd64fc054017
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

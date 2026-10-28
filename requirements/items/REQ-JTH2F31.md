@@ -1,5 +1,5 @@
 ---
-id: SYS-6FZH1S
+id: REQ-JTH2F31
 type: system-requirement
 title: Home dashboard limits humidity values
 status: Review
@@ -8,14 +8,15 @@ tags:
   - ux
   - release-1.0
   - i18n
-parent: INFO-2XXBRS
-order: 1500
+former-id: SYS-6FZH1S
+parent: REQ-QYXGSQ4
+order: b1P
 links:
   - type: refines
-    target: STK-55M3CZ
+    target: REQ-HTVZXH2
     confirmed: 45f1b5fe0502
   - type: mitigates
-    target: RSK-02ER1G
+    target: REQ-93G1CW4
     confirmed: dd7df6052676
 ---
 The home dashboard shall report error conditions after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: IF-8W61CT
+id: REQ-30V3SF3
 type: interface-requirement
 title: OTA server limits relay events
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - customer-request
-parent: SYS-0DEP77
-order: 30
+former-id: IF-8W61CT
+parent: REQ-RH9ZCGV
+order: a2
 links:
   - type: refines
-    target: SYS-0DEP77
+    target: REQ-RH9ZCGV
     confirmed: 7dbcbeef3d13
 ---
 The device registry shall authenticate user preferences for at least 10 years.

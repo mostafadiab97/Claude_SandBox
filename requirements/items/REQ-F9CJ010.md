@@ -1,5 +1,5 @@
 ---
-id: SW-FFF0MT
+id: REQ-F9CJ010
 type: software-requirement
 title: Backlight calibrates humidity values
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - ux
   - accessibility
-parent: SYS-CH0H2M
-order: 10
+former-id: SW-FFF0MT
+parent: REQ-6PD797G
+order: a0
 links:
   - type: refines
-    target: SYS-CH0H2M
+    target: REQ-6PD797G
     confirmed: dcde66db1e30
 ---
 The status LED shall display audit records at least once per minute.

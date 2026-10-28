@@ -1,15 +1,16 @@
 ---
-id: HW-7QHV7Q
+id: REQ-7XECJ54
 type: hardware-requirement
 title: Tamper detection validates the operating mode
 status: Approved
 priority: Medium
 owner: M. Farouk
-parent: SYS-PE30TZ
-order: 10
+former-id: HW-7QHV7Q
+parent: REQ-815NS80
+order: a0
 links:
   - type: refines
-    target: SYS-PE30TZ
+    target: REQ-815NS80
     confirmed: a28dc7cfde25
 ---
 The tamper detection shall authenticate schedule entries when the network is unavailable.

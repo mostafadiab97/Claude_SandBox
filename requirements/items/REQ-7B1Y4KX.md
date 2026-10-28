@@ -1,15 +1,16 @@
 ---
-id: TC-PSPCG1
+id: REQ-7B1Y4KX
 type: test-case
 title: "Verify: Heating controller encrypts user preferences"
 status: Obsolete
 priority: Medium
 owner: H. Mostafa
-parent: INFO-MS9DAG
-order: 320
+former-id: TC-PSPCG1
+parent: REQ-XGWSK2K
+order: aV
 links:
   - type: verifies
-    target: SYS-4JQMJS
+    target: REQ-F23HYQP
     confirmed: 5acdb7574d9f
 ---
 **Objective:** verify that the heating controller behaves as specified.

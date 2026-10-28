@@ -1,5 +1,5 @@
 ---
-id: HW-6WP114
+id: REQ-THSM62T
 type: hardware-requirement
 title: Pairing process logs error conditions
 status: Review
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - i18n
   - release-1.0
-parent: SYS-4T8ANS
-order: 20
+former-id: HW-6WP114
+parent: REQ-XED1QNH
+order: a1
 links:
   - type: refines
-    target: SYS-4T8ANS
+    target: REQ-XED1QNH
     confirmed: 400a2ed062a9
 ---
 The Bluetooth LE link shall restore error conditions in under 3 s.

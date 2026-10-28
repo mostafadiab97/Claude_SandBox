@@ -1,5 +1,5 @@
 ---
-id: IF-P10P55
+id: REQ-FTBAK82
 type: interface-requirement
 title: Cloud backend notifys the set point
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - cost
   - regulatory
   - connectivity
-parent: SYS-4FGGM0
-order: 30
+former-id: IF-P10P55
+parent: REQ-F0X7ER4
+order: a2
 links:
   - type: refines
-    target: SYS-4FGGM0
+    target: REQ-F0X7ER4
     confirmed: 08bb9f68e463
 ---
 The cloud backend shall calibrate energy consumption at least once per minute.

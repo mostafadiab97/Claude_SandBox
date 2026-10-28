@@ -1,5 +1,5 @@
 ---
-id: IF-1CBAMV
+id: REQ-BM7070Z
 type: interface-requirement
 title: Schedule editor calibrates access tokens
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 tags:
   - security
   - cost
-parent: SYS-0N6C2D
-order: 20
+former-id: IF-1CBAMV
+parent: REQ-G9QWE5X
+order: a1
 links:
   - type: refines
-    target: SYS-0N6C2D
+    target: REQ-G9QWE5X
     confirmed: 50615d725109
 ---
 The login screen shall encrypt access tokens when the network is unavailable.

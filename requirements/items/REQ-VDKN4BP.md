@@ -1,5 +1,5 @@
 ---
-id: SYS-HSBZEM
+id: REQ-VDKN4BP
 type: system-requirement
 title: OTA server switchs sensor readings
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - i18n
   - ux
-parent: INFO-YV5EZD
-order: 900
+former-id: SYS-HSBZEM
+parent: REQ-RE9ZKHF
+order: b0R
 links:
   - type: refines
-    target: STK-DKX022
+    target: REQ-YP9KVDK
     confirmed: a534e573be6a
 ---
 The OTA server shall encrypt the set point in all supported languages.

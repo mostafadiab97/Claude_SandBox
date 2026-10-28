@@ -1,15 +1,16 @@
 ---
-id: IF-EM3EFY
+id: REQ-DX00AHG
 type: interface-requirement
 title: Telemetry pipeline calibrates safety limits
 status: Review
 priority: High
 owner: Y. Saber
-parent: SYS-WER09P
-order: 20
+former-id: IF-EM3EFY
+parent: REQ-48R9ZCK
+order: a1
 links:
   - type: refines
-    target: SYS-WER09P
+    target: REQ-48R9ZCK
     confirmed: cc0a86c8c57b
 ---
 The device registry shall detect schedule entries in under 3 s.

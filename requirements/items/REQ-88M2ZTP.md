@@ -1,5 +1,5 @@
 ---
-id: IF-1MS5E1
+id: REQ-88M2ZTP
 type: interface-requirement
 title: Zigbee radio logs user preferences
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - safety
   - connectivity
   - security
-parent: SYS-A3STJH
-order: 30
+former-id: IF-1MS5E1
+parent: REQ-1054S3M
+order: a2
 links:
   - type: refines
-    target: SYS-A3STJH
+    target: REQ-1054S3M
     confirmed: 01e4f44d3a9c
 ---
 The Wi-Fi module shall synchronise safety limits below 0.5 W in standby.

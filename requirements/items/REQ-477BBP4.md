@@ -1,15 +1,16 @@
 ---
-id: IF-RDGDVS
+id: REQ-477BBP4
 type: interface-requirement
 title: Detect error conditions — detail
 status: Review
 priority: Medium
 owner: A. Hassan
-parent: IF-N1V23M
-order: 10
+former-id: IF-RDGDVS
+parent: REQ-1BKPKJC
+order: a0
 links:
   - type: refines
-    target: IF-N1V23M
+    target: REQ-1BKPKJC
     confirmed: 73621aaded07
 ---
 The heat pump driver shall display the set point using AES-256-GCM.

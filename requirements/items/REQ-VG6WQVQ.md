@@ -1,5 +1,5 @@
 ---
-id: SW-NJQ8D8
+id: REQ-VG6WQVQ
 type: software-requirement
 title: Tamper detection calibrates relay events
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - customer-request
   - connectivity
-parent: SYS-12Y20P
-order: 30
+former-id: SW-NJQ8D8
+parent: REQ-0C64JCK
+order: a2
 links:
   - type: refines
-    target: SYS-12Y20P
+    target: REQ-0C64JCK
     confirmed: 83d1b44e122c
 ---
 The encryption layer shall measure schedule entries in all supported languages.

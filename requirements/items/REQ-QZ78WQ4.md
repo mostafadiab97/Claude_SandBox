@@ -1,5 +1,5 @@
 ---
-id: SW-4CD22X
+id: REQ-QZ78WQ4
 type: software-requirement
 title: Rotary knob notifys schedule entries
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - ux
   - security
-parent: SYS-7C9J06
-order: 30
+former-id: SW-4CD22X
+parent: REQ-8BHKC2G
+order: a2
 links:
   - type: refines
-    target: SYS-7C9J06
+    target: REQ-8BHKC2G
     confirmed: cd6745f84064
 ---
 The backlight shall encrypt the operating mode with an accuracy of ±0.5 °C.

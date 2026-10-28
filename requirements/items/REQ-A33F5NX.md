@@ -1,14 +1,15 @@
 ---
-id: SW-RZD9YZ
+id: REQ-A33F5NX
 type: software-requirement
 title: Status LED displays safety limits
 status: Approved
 owner: J. Müller
-parent: SYS-045KKD
-order: 20
+former-id: SW-RZD9YZ
+parent: REQ-96ATVAV
+order: a1
 links:
   - type: refines
-    target: SYS-045KKD
+    target: REQ-96ATVAV
     confirmed: 1b2f3a28be4f
 ---
 The status LED shall detect error conditions when the network is unavailable.

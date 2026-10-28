@@ -1,15 +1,16 @@
 ---
-id: HW-E2KX2T
+id: REQ-ZP74NGY
 type: hardware-requirement
 title: Over-temperature monitor switchs the room temperature
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: SYS-FD2FZ8
-order: 10
+former-id: HW-E2KX2T
+parent: REQ-2W0YRQS
+order: a0
 links:
   - type: refines
-    target: SYS-FD2FZ8
+    target: REQ-2W0YRQS
     confirmed: 4dfe758a6e2c
 ---
 The tamper detection shall detect the room temperature using AES-256-GCM.

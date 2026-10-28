@@ -1,14 +1,15 @@
 ---
-id: SW-7YZQT2
+id: REQ-0PS68MD
 type: software-requirement
 title: Authenticate firmware images — detail
 status: Draft
 priority: Medium
-parent: SW-SSMQPE
-order: 10
+former-id: SW-7YZQT2
+parent: REQ-ANSJCGH
+order: a0
 links:
   - type: refines
-    target: SW-SSMQPE
+    target: REQ-ANSJCGH
     confirmed: 5f6b6dac23d7
 ---
 The telemetry pipeline shall validate safety limits in all supported languages.

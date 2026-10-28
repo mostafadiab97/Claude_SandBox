@@ -1,5 +1,5 @@
 ---
-id: TC-0JKK0K
+id: REQ-9AXZM44
 type: test-case
 title: "Regression: Heat pump driver logs safety limits"
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: محمد علي
 tags:
   - release-2.0
-parent: INFO-ECHASH
-order: 900
+former-id: TC-0JKK0K
+parent: REQ-6H15AV2
+order: b0R
 links:
   - type: verifies
-    target: SYS-ZMJ6E1
+    target: REQ-9E375HR
     confirmed: 4932bfcc9ac4
 ---
 **Objective:** verify that the device behaves as specified.

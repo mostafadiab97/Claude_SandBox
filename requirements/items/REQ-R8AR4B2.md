@@ -1,5 +1,5 @@
 ---
-id: SYS-90Z9AA
+id: REQ-R8AR4B2
 type: system-requirement
 title: Schedule editor synchronises the set point
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - power
   - customer-request
   - EMC
-parent: INFO-2XXBRS
-order: 280
+former-id: SYS-90Z9AA
+parent: REQ-QYXGSQ4
+order: aR
 links:
   - type: refines
-    target: STK-B9Y7CM
+    target: REQ-YGQ30E7
     confirmed: 2e83dea5db22
 ---
 The schedule editor shall detect schedule entries without user interaction.

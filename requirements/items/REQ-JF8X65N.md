@@ -1,13 +1,14 @@
 ---
-id: IF-A3MNRR
+id: REQ-JF8X65N
 type: interface-requirement
 title: Schedule editor stores the set point
 status: Review
-parent: SYS-VT2YB8
-order: 30
+former-id: IF-A3MNRR
+parent: REQ-T5AFT29
+order: a2
 links:
   - type: refines
-    target: SYS-VT2YB8
+    target: REQ-T5AFT29
     confirmed: 4eec0ee8940e
 ---
 The mobile app shall store schedule entries at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: HW-807YVK
+id: REQ-YG3H6AY
 type: hardware-requirement
 title: Schedule editor measures audit records
 status: Review
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - regulatory
   - performance
-parent: SYS-KFH2GP
-order: 30
+former-id: HW-807YVK
+parent: REQ-1ZYXNNF
+order: a2
 links:
   - type: refines
-    target: SYS-KFH2GP
+    target: REQ-1ZYXNNF
     confirmed: a8dcaf0bf6d6
 ---
 The login screen shall store user preferences with an accuracy of ±0.5 °C.

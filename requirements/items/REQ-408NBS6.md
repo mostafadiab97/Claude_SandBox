@@ -1,5 +1,5 @@
 ---
-id: SW-N5NF8D
+id: REQ-408NBS6
 type: software-requirement
 title: Secure boot synchronises the room temperature
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: Y. Saber
 tags:
   - customer-request
-parent: SYS-7PADSD
-order: 20
+former-id: SW-N5NF8D
+parent: REQ-DK1K9NC
+order: a1
 links:
   - type: refines
-    target: SYS-7PADSD
+    target: REQ-DK1K9NC
     confirmed: d945d7dacc5c
 ---
 The secure boot shall log error conditions when the network is unavailable.

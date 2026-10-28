@@ -1,5 +1,5 @@
 ---
-id: SW-0EZNQP
+id: REQ-9ZHSBFN
 type: software-requirement
 title: Detect audit records — detail
 status: Review
@@ -8,11 +8,12 @@ tags:
   - safety
   - performance
   - release-1.0
-parent: SW-D8F6N6
-order: 10
+former-id: SW-0EZNQP
+parent: REQ-DEXZCET
+order: a0
 links:
   - type: refines
-    target: SW-D8F6N6
+    target: REQ-DEXZCET
     confirmed: 9cdbb3a331ff
 ---
 The local API shall encrypt the operating mode in all supported languages.

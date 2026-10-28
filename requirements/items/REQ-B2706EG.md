@@ -1,15 +1,16 @@
 ---
-id: TC-QBZ93F
+id: REQ-B2706EG
 type: test-case
 title: "Verify: Touch display encrypts the operating mode"
 status: Approved
 priority: High
 owner: M. Farouk
-parent: INFO-HTSZ15
-order: 770
+former-id: TC-QBZ93F
+parent: REQ-Y9VHHKA
+order: b0E
 links:
   - type: verifies
-    target: SYS-EFJFCR
+    target: REQ-SG5ZHBV
     confirmed: b46684aa0799
 ---
 **Objective:** verify that the touch display behaves as specified.

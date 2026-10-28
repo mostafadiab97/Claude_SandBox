@@ -1,5 +1,5 @@
 ---
-id: SYS-JN1V9K
+id: REQ-QDFDQ3R
 type: system-requirement
 title: Watchdog detects firmware images
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - performance
   - security
-parent: INFO-0229G8
-order: 1180
+former-id: SYS-JN1V9K
+parent: REQ-H9113WA
+order: b0t
 links:
   - type: refines
-    target: STK-1TB226
+    target: REQ-QAY0F49
     confirmed: ea29425b18b7
 ---
 The watchdog shall authenticate relay events in under 3 s.

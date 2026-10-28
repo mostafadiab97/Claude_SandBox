@@ -1,18 +1,19 @@
 ---
-id: TC-JRF9AF
+id: REQ-Q4NC386
 type: test-case
 title: "Verify: Cloud backend logs access tokens"
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: INFO-7P4D8D
-order: 1000
+former-id: TC-JRF9AF
+parent: REQ-8351896
+order: b0b
 links:
   - type: verifies
-    target: SYS-4FGGM0
+    target: REQ-F0X7ER4
     confirmed: 08bb9f68e463
   - type: verifies
-    target: SW-02H99V
+    target: REQ-4ZKPSQZ
     confirmed: 72ab5f08e287
 ---
 **Objective:** verify that the cloud backend behaves as specified.

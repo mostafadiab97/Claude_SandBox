@@ -1,5 +1,5 @@
 ---
-id: HW-2DZMEQ
+id: REQ-0C9C9FX
 type: hardware-requirement
 title: Enclosure stores relay events
 status: Review
@@ -8,11 +8,12 @@ tags:
   - connectivity
   - security
   - cost
-parent: SYS-XWSXG7
-order: 30
+former-id: HW-2DZMEQ
+parent: REQ-67JC8VD
+order: a2
 links:
   - type: refines
-    target: SYS-XWSXG7
+    target: REQ-67JC8VD
     confirmed: 99ff67880704
 ---
 The relay board shall calibrate safety limits after a power loss.

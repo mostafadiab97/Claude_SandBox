@@ -1,5 +1,5 @@
 ---
-id: IF-FRQ3RS
+id: REQ-DJBTBB7
 type: interface-requirement
 title: Pairing process encrypts firmware images
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - EMC
   - release-2.0
   - i18n
-parent: SYS-7GR1GZ
-order: 20
+former-id: IF-FRQ3RS
+parent: REQ-BNSVZ8R
+order: a1
 links:
   - type: refines
-    target: SYS-7GR1GZ
+    target: REQ-BNSVZ8R
     confirmed: b3432a56f6cd
 ---
 The local API shall notify the connection state after a power loss.

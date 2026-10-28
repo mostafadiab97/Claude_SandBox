@@ -1,5 +1,5 @@
 ---
-id: HW-94PVHF
+id: REQ-YJXVJ4V
 type: hardware-requirement
 title: Enclosure synchronises sensor readings
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: K. Tanaka
 tags:
   - i18n
-parent: SYS-3Z27AV
-order: 20
+former-id: HW-94PVHF
+parent: REQ-4QP6QW0
+order: a1
 links:
   - type: refines
-    target: SYS-3Z27AV
+    target: REQ-4QP6QW0
     confirmed: 79a5d5b3bb44
 ---
 The relay board shall notify relay events within 200 ms.

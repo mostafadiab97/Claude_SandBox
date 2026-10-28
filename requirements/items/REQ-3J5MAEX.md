@@ -1,5 +1,5 @@
 ---
-id: SW-D5MYE6
+id: REQ-3J5MAEX
 type: software-requirement
 title: Status LED authenticates the room temperature
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - safety
   - release-2.0
-parent: SYS-T3DJD4
-order: 10
+former-id: SW-D5MYE6
+parent: REQ-WP33HKX
+order: a0
 links:
   - type: refines
-    target: SYS-T3DJD4
+    target: REQ-WP33HKX
     confirmed: c316125af8be
 ---
 The backlight shall report sensor readings for at least 10 years.

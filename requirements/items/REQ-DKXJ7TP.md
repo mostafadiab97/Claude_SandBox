@@ -1,15 +1,16 @@
 ---
-id: SW-8JW0ZC
+id: REQ-DKXJ7TP
 type: software-requirement
 title: Notify error conditions — detail
 status: Review
 priority: High
 owner: A. Hassan
-parent: SW-9PJX5M
-order: 10
+former-id: SW-8JW0ZC
+parent: REQ-9G1WE2Q
+order: a0
 links:
   - type: refines
-    target: SW-9PJX5M
+    target: REQ-9G1WE2Q
     confirmed: ca583718977b
 ---
 The OTA server shall restore firmware images for up to 8 zones.

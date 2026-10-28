@@ -1,5 +1,5 @@
 ---
-id: DE-BE2BBB
+id: REQ-M87F6CQ
 type: design-element
 title: Module touch_display_23
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - ux
   - cost
-parent: SW-W8PK6X
-order: 10
+former-id: DE-BE2BBB
+parent: REQ-49QRMRC
+order: a0
 links:
   - type: implements
-    target: SW-W8PK6X
+    target: REQ-49QRMRC
     confirmed: eca855aac5d8
 ---
 Implemented in `src/ui/touch_display.c`.

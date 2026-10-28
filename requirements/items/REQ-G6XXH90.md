@@ -1,15 +1,16 @@
 ---
-id: SW-9JYG3E
+id: REQ-G6XXH90
 type: software-requirement
 title: Pairing process limits audit records
 status: Approved
 priority: Medium
 owner: M. Farouk
-parent: SYS-AMSJGT
-order: 20
+former-id: SW-9JYG3E
+parent: REQ-45JD696
+order: a1
 links:
   - type: refines
-    target: SYS-AMSJGT
+    target: REQ-45JD696
     confirmed: 05b4b00427a0
 ---
 The Zigbee radio shall detect energy consumption without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: HW-WESN49
+id: REQ-Q98MYYX
 type: hardware-requirement
 title: Power supply validates audit records
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - accessibility
-parent: SYS-77M8EH
-order: 20
+former-id: HW-WESN49
+parent: REQ-5C0M7H2
+order: a1
 links:
   - type: refines
-    target: SYS-77M8EH
+    target: REQ-5C0M7H2
     confirmed: fd9c2898d69c
 ---
 The battery backup shall calibrate firmware images in all supported languages.

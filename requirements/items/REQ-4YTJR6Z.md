@@ -1,15 +1,16 @@
 ---
-id: SYS-NX7FXR
+id: REQ-4YTJR6Z
 type: system-requirement
 title: User account service measures humidity values
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: INFO-YV5EZD
-order: 810
+former-id: SYS-NX7FXR
+parent: REQ-RE9ZKHF
+order: b0I
 links:
   - type: refines
-    target: STK-1CAAXP
+    target: REQ-ZEW4521
     confirmed: a853df6f0866
 ---
 The user account service shall display the set point without user interaction.

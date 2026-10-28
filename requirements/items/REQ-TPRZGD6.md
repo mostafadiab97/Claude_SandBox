@@ -1,5 +1,5 @@
 ---
-id: SW-C5MKHT
+id: REQ-TPRZGD6
 type: software-requirement
 title: Secure boot validates access tokens
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - performance
   - EMC
   - customer-request
-parent: SYS-FMVZ4N
-order: 30
+former-id: SW-C5MKHT
+parent: REQ-QXZYXCA
+order: a2
 links:
   - type: refines
-    target: SYS-FMVZ4N
+    target: REQ-QXZYXCA
     confirmed: 64d198139b67
 ---
 The over-temperature monitor shall validate audit records after a power loss.

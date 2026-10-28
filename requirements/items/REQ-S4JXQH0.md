@@ -1,15 +1,16 @@
 ---
-id: DE-CJM29Y
+id: REQ-S4JXQH0
 type: design-element
 title: Module telemetry_pipeline_46
 status: Draft
 priority: High
 owner: Y. Saber
-parent: SW-2T3SDJ
-order: 20
+former-id: DE-CJM29Y
+parent: REQ-PCJ25KM
+order: a1
 links:
   - type: implements
-    target: SW-2T3SDJ
+    target: REQ-PCJ25KM
     confirmed: 97ade53ddf7b
 ---
 Implemented in `src/cloud/telemetry_pipeline.c`.

@@ -1,14 +1,15 @@
 ---
-id: SYS-9RTKP2
+id: REQ-R2V07V4
 type: system-requirement
 title: Heating controller reports humidity values
 status: Review
 owner: A. Hassan
-parent: INFO-6DQTKV
-order: 1040
+former-id: SYS-9RTKP2
+parent: REQ-7ED7ZET
+order: b0f
 links:
   - type: refines
-    target: STK-M7S0HJ
+    target: REQ-219619F
     confirmed: 000356d5d38b
 ---
 The heating controller shall notify access tokens within 200 ms.

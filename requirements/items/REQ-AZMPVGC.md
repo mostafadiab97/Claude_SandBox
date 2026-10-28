@@ -1,15 +1,16 @@
 ---
-id: IF-8QVMQG
+id: REQ-AZMPVGC
 type: interface-requirement
 title: Menu system calibrates audit records
 status: Obsolete
 priority: Medium
 owner: A. Hassan
-parent: SYS-TYCMRT
-order: 20
+former-id: IF-8QVMQG
+parent: REQ-RJXG4JV
+order: a1
 links:
   - type: refines
-    target: SYS-TYCMRT
+    target: REQ-RJXG4JV
     confirmed: cd494a5f904a
 ---
 The status LED shall display sensor readings without user interaction.

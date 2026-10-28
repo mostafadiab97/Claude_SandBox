@@ -1,15 +1,16 @@
 ---
-id: SW-5N1WQE
+id: REQ-EH304PY
 type: software-requirement
 title: OTA server limits the connection state
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: SYS-G8M4SE
-order: 20
+former-id: SW-5N1WQE
+parent: REQ-9W3N8PR
+order: a1
 links:
   - type: refines
-    target: SYS-G8M4SE
+    target: REQ-9W3N8PR
     confirmed: df8c85150795
 ---
 The device registry shall report schedule entries below 0.5 W in standby.

@@ -1,5 +1,5 @@
 ---
-id: HW-4WNG91
+id: REQ-GFKQMAH
 type: hardware-requirement
 title: Zigbee radio authenticates energy consumption
 status: Review
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - ux
   - cost
-parent: SYS-SXS3JV
-order: 10
+former-id: HW-4WNG91
+parent: REQ-SJ53H5D
+order: a0
 links:
   - type: refines
-    target: SYS-SXS3JV
+    target: REQ-SJ53H5D
     confirmed: 67410b786182
 ---
 The local API shall detect relay events for at least 10 years.

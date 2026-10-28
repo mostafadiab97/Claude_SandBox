@@ -1,11 +1,12 @@
 ---
-id: IF-CHG5HR
+id: REQ-934MR7T
 type: interface-requirement
 title: "Signal 004: the connection state"
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: INFO-2TM0JP
-order: 40
+former-id: IF-CHG5HR
+parent: REQ-RJ0KHPT
+order: a3
 ---
 Interface signal number 4.

@@ -1,5 +1,5 @@
 ---
-id: SW-PBCS94
+id: REQ-90MCNCR
 type: software-requirement
 title: Restore error conditions — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: M. Farouk
 tags:
   - safety
-parent: SW-87EW4E
-order: 10
+former-id: SW-PBCS94
+parent: REQ-BPW5VFY
+order: a0
 links:
   - type: refines
-    target: SW-87EW4E
+    target: REQ-BPW5VFY
     confirmed: 2c0f1742743a
 ---
 The encryption layer shall report access tokens when the network is unavailable.

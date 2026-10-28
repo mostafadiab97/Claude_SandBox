@@ -1,5 +1,5 @@
 ---
-id: SYS-7J9J7C
+id: REQ-N8MVGME
 type: system-requirement
 title: Secure boot stores energy consumption
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - i18n
   - EMC
   - customer-request
-parent: INFO-0229G8
-order: 1010
+former-id: SYS-7J9J7C
+parent: REQ-H9113WA
+order: b0c
 links:
   - type: refines
-    target: STK-92HHJV
+    target: REQ-Z7761RK
     confirmed: 260bd01800c6
 ---
 The secure boot shall store the room temperature in all supported languages.

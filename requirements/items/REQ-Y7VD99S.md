@@ -1,5 +1,5 @@
 ---
-id: SW-ZNH861
+id: REQ-Y7VD99S
 type: software-requirement
 title: Touch display calibrates humidity values
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - security
   - power
-parent: SYS-V1S2ND
-order: 10
+former-id: SW-ZNH861
+parent: REQ-727CVG0
+order: a0
 links:
   - type: refines
-    target: SYS-V1S2ND
+    target: REQ-727CVG0
     confirmed: 4aae50eaee58
 ---
 The menu system shall detect safety limits within 200 ms.

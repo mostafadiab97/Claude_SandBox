@@ -1,11 +1,12 @@
 ---
-id: IF-6DP0WV
+id: REQ-MGRDT0J
 type: interface-requirement
 title: "Signal 081: the set point"
 status: Obsolete
 priority: High
 owner: L. Samir
-parent: INFO-2TM0JP
-order: 810
+former-id: IF-6DP0WV
+parent: REQ-RJ0KHPT
+order: b0I
 ---
 Interface signal number 81.

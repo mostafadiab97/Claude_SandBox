@@ -1,5 +1,5 @@
 ---
-id: SW-FRKJ0T
+id: REQ-K2JH601
 type: software-requirement
 title: Over-temperature monitor authenticates firmware images
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: É. Laurent
 tags:
   - accessibility
-parent: SYS-E1XEK0
-order: 20
+former-id: SW-FRKJ0T
+parent: REQ-0AC6NR8
+order: a1
 links:
   - type: refines
-    target: SYS-E1XEK0
+    target: REQ-0AC6NR8
     confirmed: 74460965be9f
 ---
 The secure boot shall restore safety limits for up to 8 zones.

@@ -1,5 +1,5 @@
 ---
-id: SW-MYRVYN
+id: REQ-R45WBK3
 type: software-requirement
 title: Mobile app synchronises sensor readings
 status: Review
@@ -8,11 +8,12 @@ tags:
   - release-2.0
   - EMC
   - regulatory
-parent: SYS-CP5K95
-order: 10
+former-id: SW-MYRVYN
+parent: REQ-XH2ZZ0N
+order: a0
 links:
   - type: refines
-    target: SYS-CP5K95
+    target: REQ-XH2ZZ0N
     confirmed: 278409ef24f8
 ---
 The home dashboard shall authenticate humidity values within 200 ms.

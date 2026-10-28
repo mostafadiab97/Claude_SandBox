@@ -1,14 +1,15 @@
 ---
-id: TC-NGN392
+id: REQ-XQ03WXB
 type: test-case
 title: "Verify: User account service measures the set point"
 status: Approved
 priority: Medium
-parent: INFO-7P4D8D
-order: 200
+former-id: TC-NGN392
+parent: REQ-8351896
+order: aJ
 links:
   - type: verifies
-    target: SYS-CZQB2K
+    target: REQ-07DNFZE
     confirmed: 3322889d2361
 ---
 **Objective:** verify that the user account service behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: SW-5WZRHV
+id: REQ-ZB5AGFN
 type: software-requirement
 title: Over-temperature monitor restores error conditions
 status: Draft
 priority: Medium
 owner: N. Kamal
-parent: SYS-H80NAW
-order: 10
+former-id: SW-5WZRHV
+parent: REQ-NZV7M9Z
+order: a0
 links:
   - type: refines
-    target: SYS-H80NAW
+    target: REQ-NZV7M9Z
     confirmed: d4703e1835f9
 ---
 The encryption layer shall limit error conditions without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: TC-GP1M0D
+id: REQ-1NTJDJJ
 type: test-case
 title: "Verify: Boiler interface calibrates energy consumption"
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: R. Nabil
 tags:
   - release-1.0
-parent: INFO-MS9DAG
-order: 1240
+former-id: TC-GP1M0D
+parent: REQ-XGWSK2K
+order: b0z
 links:
   - type: verifies
-    target: SYS-XRXTDN
+    target: REQ-0VXPJV5
     confirmed: ad932a195f5d
 ---
 **Objective:** verify that the boiler interface behaves as specified.

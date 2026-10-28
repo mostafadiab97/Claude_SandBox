@@ -1,5 +1,5 @@
 ---
-id: IF-E3YFM9
+id: REQ-QDG4A41
 type: interface-requirement
 title: Relay board limits the connection state
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - accessibility
   - security
-parent: SYS-6PYBJD
-order: 10
+former-id: IF-E3YFM9
+parent: REQ-E7EV6P4
+order: a0
 links:
   - type: refines
-    target: SYS-6PYBJD
+    target: REQ-E7EV6P4
     confirmed: fd85d789dbcd
 ---
 The main PCB shall detect the set point within 200 ms.

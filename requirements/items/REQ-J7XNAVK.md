@@ -1,15 +1,16 @@
 ---
-id: DE-JRMKJK
+id: REQ-J7XNAVK
 type: design-element
 title: Module rotary_knob_30
 status: Approved
 priority: Low
 owner: N. Kamal
-parent: SW-9KZ8NH
-order: 10
+former-id: DE-JRMKJK
+parent: REQ-QAM3SNW
+order: a0
 links:
   - type: implements
-    target: SW-9KZ8NH
+    target: REQ-QAM3SNW
     confirmed: fa9b0d8df34a
 ---
 Implemented in `src/ui/rotary_knob.c`.

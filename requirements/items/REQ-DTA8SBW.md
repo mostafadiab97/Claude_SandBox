@@ -1,5 +1,5 @@
 ---
-id: SW-ANZ0PB
+id: REQ-DTA8SBW
 type: software-requirement
 title: Cloud backend authenticates sensor readings
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - customer-request
   - security
-parent: SYS-DRG6R3
-order: 30
+former-id: SW-ANZ0PB
+parent: REQ-PEF0WVS
+order: a2
 links:
   - type: refines
-    target: SYS-DRG6R3
+    target: REQ-PEF0WVS
     confirmed: 08f38a1d34b8
 ---
 The OTA server shall restore the operating mode with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: SW-32EWKS
+id: REQ-5YSNG1N
 type: software-requirement
 title: Over-temperature monitor calibrates relay events
 status: Review
@@ -9,11 +9,12 @@ tags:
   - power
   - performance
   - safety
-parent: SYS-9QXR1R
-order: 10
+former-id: SW-32EWKS
+parent: REQ-R4BZZKT
+order: a0
 links:
   - type: refines
-    target: SYS-9QXR1R
+    target: REQ-R4BZZKT
     confirmed: c9ae9a4debf3
 ---
 The encryption layer shall notify firmware images within 200 ms.

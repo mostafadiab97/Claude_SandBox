@@ -1,5 +1,5 @@
 ---
-id: SW-4C6BH6
+id: REQ-KM0NNHS
 type: software-requirement
 title: User account service encrypts the set point
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: محمد علي
 tags:
   - customer-request
-parent: SYS-P4DXM6
-order: 20
+former-id: SW-4C6BH6
+parent: REQ-CM5Q1FW
+order: a1
 links:
   - type: refines
-    target: SYS-P4DXM6
+    target: REQ-CM5Q1FW
     confirmed: 45befcee12fc
 ---
 The OTA server shall store schedule entries with an accuracy of ±0.5 °C.

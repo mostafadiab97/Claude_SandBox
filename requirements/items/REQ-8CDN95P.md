@@ -1,5 +1,5 @@
 ---
-id: TC-CMXWE1
+id: REQ-8CDN95P
 type: test-case
 title: "Verify: Local API limits the operating mode"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - accessibility
-parent: INFO-F0M7VC
-order: 1020
+former-id: TC-CMXWE1
+parent: REQ-67RQXCK
+order: b0d
 links:
   - type: verifies
-    target: SYS-FD82WN
+    target: REQ-B2JJXAA
     confirmed: f55a56f18a08
 ---
 **Objective:** verify that the local API behaves as specified.

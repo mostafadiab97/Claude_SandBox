@@ -1,15 +1,16 @@
 ---
-id: TC-69QRY2
+id: REQ-NB5HQDE
 type: test-case
 title: "Verify: Touch display synchronises the operating mode"
 status: Obsolete
 priority: Medium
 owner: L. Samir
-parent: INFO-HTSZ15
-order: 540
+former-id: TC-69QRY2
+parent: REQ-Y9VHHKA
+order: ar
 links:
   - type: verifies
-    target: SYS-RJBYTY
+    target: REQ-ZMW8ERN
     confirmed: 8b795ddb3eaf
 ---
 **Objective:** verify that the touch display behaves as specified.

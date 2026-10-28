@@ -1,5 +1,5 @@
 ---
-id: IF-ED9Z7H
+id: REQ-VZCFMAM
 type: interface-requirement
 title: "Signal 623: energy consumption"
 status: Draft
@@ -8,7 +8,8 @@ owner: J. Müller
 tags:
   - safety
   - release-1.0
-parent: INFO-2TM0JP
-order: 6230
+former-id: IF-ED9Z7H
+parent: REQ-RJ0KHPT
+order: b92
 ---
 Interface signal number 623.

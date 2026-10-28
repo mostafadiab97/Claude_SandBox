@@ -1,14 +1,15 @@
 ---
-id: TC-EA9BER
+id: REQ-7A4P5VV
 type: test-case
 title: "Verify: Menu system logs user preferences"
 status: Obsolete
 priority: Medium
-parent: INFO-HTSZ15
-order: 280
+former-id: TC-EA9BER
+parent: REQ-Y9VHHKA
+order: aR
 links:
   - type: verifies
-    target: SYS-NDHES6
+    target: REQ-G2BN668
     confirmed: 93697423a54b
 ---
 **Objective:** verify that the menu system behaves as specified.

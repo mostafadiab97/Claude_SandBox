@@ -1,17 +1,18 @@
 ---
-id: TC-V2NG4D
+id: REQ-6RD0PJ9
 type: test-case
 title: "Verify: Zone valve measures the connection state"
 status: Review
 owner: M. Farouk
-parent: INFO-MS9DAG
-order: 80
+former-id: TC-V2NG4D
+parent: REQ-XGWSK2K
+order: a7
 links:
   - type: verifies
-    target: SYS-0GKFAB
+    target: REQ-1AQ8AT5
     confirmed: b42a1b2bb89f
   - type: verifies
-    target: SW-MGBSAX
+    target: REQ-M552WMH
     confirmed: 02768e075c96
 ---
 **Objective:** verify that the zone valve behaves as specified.

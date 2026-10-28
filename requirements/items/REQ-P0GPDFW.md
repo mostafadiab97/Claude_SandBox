@@ -1,5 +1,5 @@
 ---
-id: TC-02FGWR
+id: REQ-P0GPDFW
 type: test-case
 title: "Verify: Tamper detection notifys the set point"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - cost
   - connectivity
   - EMC
-parent: INFO-Z4TW4B
-order: 810
+former-id: TC-02FGWR
+parent: REQ-K6FGAY0
+order: b0I
 links:
   - type: verifies
-    target: SYS-MR5CRK
+    target: REQ-TDHYBJS
     confirmed: ff67b7696602
 ---
 **Objective:** verify that the tamper detection behaves as specified.

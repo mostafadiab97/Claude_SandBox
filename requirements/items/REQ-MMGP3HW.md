@@ -1,5 +1,5 @@
 ---
-id: SW-RXW002
+id: REQ-MMGP3HW
 type: software-requirement
 title: Wi-Fi module validates schedule entries
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: L. Samir
 tags:
   - release-2.0
-parent: SYS-SB9M68
-order: 30
+former-id: SW-RXW002
+parent: REQ-NFGD374
+order: a2
 links:
   - type: refines
-    target: SYS-SB9M68
+    target: REQ-NFGD374
     confirmed: f26633d7c346
 ---
 The Bluetooth LE link shall detect humidity values for at least 10 years.

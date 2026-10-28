@@ -1,5 +1,5 @@
 ---
-id: IF-2P8TNQ
+id: REQ-G4BJP9Y
 type: interface-requirement
 title: Relay board displays energy consumption
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - safety
   - cost
-parent: SYS-S1NYQA
-order: 20
+former-id: IF-2P8TNQ
+parent: REQ-EC78EH1
+order: a1
 links:
   - type: refines
-    target: SYS-S1NYQA
+    target: REQ-EC78EH1
     confirmed: 1b9d0d62784e
 ---
 The relay board shall calibrate humidity values when the network is unavailable.

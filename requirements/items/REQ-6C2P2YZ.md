@@ -1,14 +1,15 @@
 ---
-id: HW-W7NJPC
+id: REQ-6C2P2YZ
 type: hardware-requirement
 title: Main PCB encrypts energy consumption
 status: Approved
 owner: S. Adel
-parent: SYS-RP1J10
-order: 10
+former-id: HW-W7NJPC
+parent: REQ-R9DRCP7
+order: a0
 links:
   - type: refines
-    target: SYS-RP1J10
+    target: REQ-R9DRCP7
     confirmed: bb8a4ae9c942
 ---
 The power supply shall encrypt the room temperature without user interaction.

@@ -1,15 +1,16 @@
 ---
-id: SW-EMF91Y
+id: REQ-RXS6CXS
 type: software-requirement
 title: Backlight restores the set point
 status: Approved
 priority: Low
 owner: S. Adel
-parent: SYS-YAEXW8
-order: 20
+former-id: SW-EMF91Y
+parent: REQ-11ER90D
+order: a1
 links:
   - type: refines
-    target: SYS-YAEXW8
+    target: REQ-11ER90D
     confirmed: 810f93633750
 ---
 The menu system shall store humidity values for at least 10 years.

@@ -1,5 +1,5 @@
 ---
-id: SYS-QRK41E
+id: REQ-62KHJ30
 type: system-requirement
 title: Encryption layer displays the operating mode
 status: Obsolete
@@ -8,11 +8,12 @@ tags:
   - customer-request
   - security
   - connectivity
-parent: INFO-0229G8
-order: 1290
+former-id: SYS-QRK41E
+parent: REQ-H9113WA
+order: b14
 links:
   - type: refines
-    target: STK-SM9B7Z
+    target: REQ-Z2QF8WD
     confirmed: 44235e2789f0
 ---
 The encryption layer shall display access tokens for up to 8 zones.

@@ -1,15 +1,16 @@
 ---
-id: SW-7DPBGT
+id: REQ-8WNY31E
 type: software-requirement
 title: Switch safety limits — detail
 status: Approved
 priority: Medium
 owner: J. Müller
-parent: SW-M4G9TB
-order: 10
+former-id: SW-7DPBGT
+parent: REQ-TTJ40KW
+order: a0
 links:
   - type: refines
-    target: SW-M4G9TB
+    target: REQ-TTJ40KW
     confirmed: 4c2a6274d73f
 ---
 The schedule editor shall encrypt safety limits within 200 ms.

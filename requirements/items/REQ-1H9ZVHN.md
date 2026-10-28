@@ -1,5 +1,5 @@
 ---
-id: SYS-5NPG22
+id: REQ-1H9ZVHN
 type: system-requirement
 title: Wi-Fi module switchs schedule entries
 status: Review
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - EMC
   - power
-parent: INFO-NRVHA2
-order: 670
+former-id: SYS-5NPG22
+parent: REQ-6R94HFM
+order: b04
 links:
   - type: refines
-    target: STK-XSZSEZ
+    target: REQ-YN3XNWJ
     confirmed: 1038f4e2e9d4
 ---
 The Wi-Fi module shall store humidity values without user interaction.

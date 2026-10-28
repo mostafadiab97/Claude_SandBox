@@ -1,15 +1,16 @@
 ---
-id: TC-ZGE6VD
+id: REQ-V0ZYATH
 type: test-case
 title: "Regression: Mobile app authenticates safety limits"
 status: Approved
 priority: High
 owner: A. Hassan
-parent: INFO-ECHASH
-order: 1880
+former-id: TC-ZGE6VD
+parent: REQ-6H15AV2
+order: b21
 links:
   - type: verifies
-    target: SYS-CRRCSR
+    target: REQ-DQBXXZR
     confirmed: e29ae9264b3a
 ---
 **Objective:** verify that the device behaves as specified.

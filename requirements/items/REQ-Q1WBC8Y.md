@@ -1,5 +1,5 @@
 ---
-id: HW-Z59HS6
+id: REQ-Q1WBC8Y
 type: hardware-requirement
 title: Home dashboard calibrates error conditions
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - regulatory
   - safety
-parent: SYS-EYJ94S
-order: 20
+former-id: HW-Z59HS6
+parent: REQ-Z957H2Y
+order: a1
 links:
   - type: refines
-    target: SYS-EYJ94S
+    target: REQ-Z957H2Y
     confirmed: 68e2cd729db2
 ---
 The mobile app shall authenticate sensor readings using AES-256-GCM.

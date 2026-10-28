@@ -1,5 +1,5 @@
 ---
-id: HW-X3BPJH
+id: REQ-CWC1H6S
 type: hardware-requirement
 title: Zone valve measures humidity values
 status: Obsolete
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - security
   - customer-request
-parent: SYS-F1Q0NC
-order: 20
+former-id: HW-X3BPJH
+parent: REQ-R4BSJCA
+order: a1
 links:
   - type: refines
-    target: SYS-F1Q0NC
+    target: REQ-R4BSJCA
     confirmed: dba1136682fd
 ---
 The zone valve shall switch schedule entries using AES-256-GCM.

@@ -1,15 +1,16 @@
 ---
-id: HW-H3HYYW
+id: REQ-R55G4GN
 type: hardware-requirement
 title: Battery backup switchs safety limits
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: SYS-387701
-order: 10
+former-id: HW-H3HYYW
+parent: REQ-9EQV92B
+order: a0
 links:
   - type: refines
-    target: SYS-387701
+    target: REQ-9EQV92B
     confirmed: 0b7909b67648
 ---
 The enclosure shall limit the set point after a power loss.

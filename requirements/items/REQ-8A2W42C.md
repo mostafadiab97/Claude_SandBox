@@ -1,11 +1,12 @@
 ---
-id: RSK-07S1SA
+id: REQ-8A2W42C
 type: risk
 title: "Risk: enclosure fails to report the room temperature"
 status: Draft
 owner: R. Nabil
-parent: INFO-2G41PE
-order: 90
+former-id: RSK-07S1SA
+parent: REQ-Z74CXEK
+order: a8
 ---
 **Hazard:** the enclosure could fail to store safety limits.
 

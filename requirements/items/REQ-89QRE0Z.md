@@ -1,15 +1,16 @@
 ---
-id: SW-ZZA93B
+id: REQ-89QRE0Z
 type: software-requirement
 title: Home dashboard measures relay events
 status: Approved
 priority: High
 owner: M. Farouk
-parent: SYS-BS5G2C
-order: 20
+former-id: SW-ZZA93B
+parent: REQ-BHV7AVF
+order: a1
 links:
   - type: refines
-    target: SYS-BS5G2C
+    target: REQ-BHV7AVF
     confirmed: 19954ae1e0af
 ---
 The notification service shall display the room temperature for up to 8 zones.

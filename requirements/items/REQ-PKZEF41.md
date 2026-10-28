@@ -1,5 +1,5 @@
 ---
-id: IF-7Y4C1K
+id: REQ-PKZEF41
 type: interface-requirement
 title: Mobile app detects the set point
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - connectivity
   - cost
-parent: SYS-T44M5X
-order: 30
+former-id: IF-7Y4C1K
+parent: REQ-ED1Z2TR
+order: a2
 links:
   - type: refines
-    target: SYS-T44M5X
+    target: REQ-ED1Z2TR
     confirmed: b93a511f8f0f
 ---
 The notification service shall validate error conditions after a power loss.

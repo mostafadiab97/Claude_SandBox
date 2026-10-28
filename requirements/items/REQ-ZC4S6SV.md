@@ -1,5 +1,5 @@
 ---
-id: RSK-9BAEZR
+id: REQ-ZC4S6SV
 type: risk
 title: "Risk: device registry fails to report energy consumption"
 status: Draft
@@ -9,8 +9,9 @@ tags:
   - performance
   - customer-request
   - accessibility
-parent: INFO-5BPX0K
-order: 80
+former-id: RSK-9BAEZR
+parent: REQ-RSBFCPW
+order: a7
 ---
 **Hazard:** the device registry could fail to limit safety limits.
 

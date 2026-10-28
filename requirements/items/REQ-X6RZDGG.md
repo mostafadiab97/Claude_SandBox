@@ -1,15 +1,16 @@
 ---
-id: IF-CP4CG7
+id: REQ-X6RZDGG
 type: interface-requirement
 title: OTA server switchs sensor readings
 status: Obsolete
 priority: Medium
 owner: A. Hassan
-parent: SYS-06G288
-order: 30
+former-id: IF-CP4CG7
+parent: REQ-NGQ979G
+order: a2
 links:
   - type: refines
-    target: SYS-06G288
+    target: REQ-NGQ979G
     confirmed: 3805c8343c55
 ---
 The device registry shall encrypt sensor readings after a power loss.

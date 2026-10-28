@@ -1,5 +1,5 @@
 ---
-id: HW-QVDG9R
+id: REQ-38YZSHS
 type: hardware-requirement
 title: Heat pump driver detects user preferences
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - cost
   - safety
-parent: SYS-3FCPBN
-order: 40
+former-id: HW-QVDG9R
+parent: REQ-73J6WMM
+order: a3
 links:
   - type: refines
-    target: SYS-3FCPBN
+    target: REQ-73J6WMM
     confirmed: 53e5304c7666
 ---
 The boiler interface shall log user preferences for at least 10 years.

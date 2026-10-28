@@ -1,5 +1,5 @@
 ---
-id: SW-57C46N
+id: REQ-FZJWKRE
 type: software-requirement
 title: Backlight displays the connection state
 status: Approved
@@ -7,11 +7,12 @@ owner: Y. Saber
 tags:
   - customer-request
   - security
-parent: SYS-ATYYP2
-order: 10
+former-id: SW-57C46N
+parent: REQ-DC0XM5K
+order: a0
 links:
   - type: refines
-    target: SYS-ATYYP2
+    target: REQ-DC0XM5K
     confirmed: 560200c70caf
 ---
 The menu system shall measure user preferences within 200 ms.

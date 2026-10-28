@@ -1,19 +1,20 @@
 ---
-id: TC-V3S9H0
+id: REQ-3VQZQNH
 type: test-case
 title: "Verify: Home dashboard switchs the set point"
 status: Approved
 tags:
   - safety
   - security
-parent: INFO-J0FETE
-order: 490
+former-id: TC-V3S9H0
+parent: REQ-WR5ZJN9
+order: am
 links:
   - type: verifies
-    target: SYS-AZ9A6C
+    target: REQ-99CMHK3
     confirmed: 2e121d1569dc
   - type: verifies
-    target: SW-SR4AH2
+    target: REQ-SCHPP4G
     confirmed: b8c4df9f7e55
 ---
 **Objective:** verify that the home dashboard behaves as specified.

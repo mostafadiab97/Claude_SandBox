@@ -1,15 +1,16 @@
 ---
-id: SYS-KMXB94
+id: REQ-6CVFK0C
 type: system-requirement
 title: Pairing process stores humidity values
 status: Draft
 priority: High
 owner: Y. Saber
-parent: INFO-NRVHA2
-order: 1560
+former-id: SYS-KMXB94
+parent: REQ-6R94HFM
+order: b1V
 links:
   - type: refines
-    target: STK-0AD5XP
+    target: REQ-W8GJYMQ
     confirmed: 30e7f07df0d1
 ---
 The pairing process shall detect firmware images below 0.5 W in standby.

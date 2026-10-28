@@ -1,5 +1,5 @@
 ---
-id: DEF-ZA89BW
+id: REQ-1MY08AW
 type: defect
 title: "Defect: main PCB does not switch sensor readings"
 status: Draft
@@ -8,14 +8,15 @@ owner: M. Farouk
 tags:
   - release-2.0
   - connectivity
-parent: INFO-BB7M2N
-order: 30
+former-id: DEF-ZA89BW
+parent: REQ-995FBPM
+order: a2
 links:
   - type: relates-to
-    target: TC-VJM4H0
+    target: REQ-BCR3JPV
     confirmed: 1c92eef6b4af
   - type: relates-to
-    target: SYS-H9YARC
+    target: REQ-7DP8FH8
     confirmed: 65250d626484
 ---
 Found during regression testing of build 2.6.33.

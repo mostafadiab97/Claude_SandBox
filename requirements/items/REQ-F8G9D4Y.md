@@ -1,5 +1,5 @@
 ---
-id: TC-GF2R06
+id: REQ-F8G9D4Y
 type: test-case
 title: "Verify: Local API synchronises error conditions"
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - connectivity
   - accessibility
-parent: INFO-F0M7VC
-order: 210
+former-id: TC-GF2R06
+parent: REQ-67RQXCK
+order: aK
 links:
   - type: verifies
-    target: SYS-02QRPZ
+    target: REQ-3FVG1HH
     confirmed: 82506165b903
 ---
 **Objective:** verify that the local API behaves as specified.

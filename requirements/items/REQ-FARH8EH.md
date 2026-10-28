@@ -1,5 +1,5 @@
 ---
-id: HW-PP0BCC
+id: REQ-FARH8EH
 type: hardware-requirement
 title: Secure boot limits relay events
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - customer-request
   - security
-parent: SYS-RW42CM
-order: 10
+former-id: HW-PP0BCC
+parent: REQ-TXG6AVW
+order: a0
 links:
   - type: refines
-    target: SYS-RW42CM
+    target: REQ-TXG6AVW
     confirmed: 28c35d155880
 ---
 The encryption layer shall authenticate relay events after a power loss.

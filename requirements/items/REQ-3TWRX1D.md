@@ -1,5 +1,5 @@
 ---
-id: DE-01V731
+id: REQ-3TWRX1D
 type: design-element
 title: Module tamper_detection_27
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - customer-request
   - i18n
-parent: SW-J9S9TQ
-order: 20
+former-id: DE-01V731
+parent: REQ-E11S3J4
+order: a1
 links:
   - type: implements
-    target: SW-J9S9TQ
+    target: REQ-E11S3J4
     confirmed: 7c01852e2a80
 ---
 Implemented in `src/safe/tamper_detection.c`.

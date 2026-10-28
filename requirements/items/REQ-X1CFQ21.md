@@ -1,5 +1,5 @@
 ---
-id: SW-N06E4P
+id: REQ-X1CFQ21
 type: software-requirement
 title: Bluetooth LE link synchronises safety limits
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - performance
   - security
-parent: SYS-PX6WZT
-order: 30
+former-id: SW-N06E4P
+parent: REQ-D0AFD98
+order: a2
 links:
   - type: refines
-    target: SYS-PX6WZT
+    target: REQ-D0AFD98
     confirmed: 922ee7acccc0
 ---
 The Bluetooth LE link shall calibrate energy consumption within 200 ms.

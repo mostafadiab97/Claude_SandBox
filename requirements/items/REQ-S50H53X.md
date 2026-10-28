@@ -1,5 +1,5 @@
 ---
-id: TC-TEWJ6D
+id: REQ-S50H53X
 type: test-case
 title: "Verify: Bluetooth LE link measures sensor readings"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: L. Samir
 tags:
   - regulatory
-parent: INFO-F0M7VC
-order: 360
+former-id: TC-TEWJ6D
+parent: REQ-67RQXCK
+order: aZ
 links:
   - type: verifies
-    target: SYS-34QNYE
+    target: REQ-93GSKTC
     confirmed: f6e72f885951
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

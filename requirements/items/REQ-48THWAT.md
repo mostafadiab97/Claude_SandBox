@@ -1,5 +1,5 @@
 ---
-id: CR-C9YPR8
+id: REQ-48THWAT
 type: change-request
 title: "CR: extend mobile app to encrypt schedule entries"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - regulatory
-parent: INFO-FH5FB3
-order: 170
+former-id: CR-C9YPR8
+parent: REQ-MWRPGWA
+order: aG
 links:
   - type: relates-to
-    target: SYS-QHMFA6
+    target: REQ-K2S78AW
     confirmed: 9375eb52bc71
 ---
 Requested by customer support (ticket #17374).

@@ -1,5 +1,5 @@
 ---
-id: SW-YKR030
+id: REQ-6GYT774
 type: software-requirement
 title: Log the room temperature — detail
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: K. Tanaka
 tags:
   - EMC
-parent: SW-8NMEER
-order: 10
+former-id: SW-YKR030
+parent: REQ-3Q1CVXG
+order: a0
 links:
   - type: refines
-    target: SW-8NMEER
+    target: REQ-3Q1CVXG
     confirmed: 7e2bfb083d08
 ---
 The backlight shall report humidity values without user interaction.

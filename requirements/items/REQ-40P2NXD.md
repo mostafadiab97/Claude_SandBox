@@ -1,5 +1,5 @@
 ---
-id: IF-C6EYSE
+id: REQ-40P2NXD
 type: interface-requirement
 title: Pairing process reports relay events
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - regulatory
   - cost
-parent: SYS-JWQ89P
-order: 10
+former-id: IF-C6EYSE
+parent: REQ-NKFJ115
+order: a0
 links:
   - type: refines
-    target: SYS-JWQ89P
+    target: REQ-NKFJ115
     confirmed: 8d8f328abb5c
 ---
 The Bluetooth LE link shall detect safety limits in all supported languages.

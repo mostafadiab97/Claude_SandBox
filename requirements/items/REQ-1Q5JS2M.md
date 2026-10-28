@@ -1,15 +1,16 @@
 ---
-id: IF-C7YA4Q
+id: REQ-1Q5JS2M
 type: interface-requirement
 title: Zigbee radio calibrates relay events
 status: Approved
 priority: High
 owner: K. Tanaka
-parent: SYS-558WVB
-order: 10
+former-id: IF-C7YA4Q
+parent: REQ-YSKSPN3
+order: a0
 links:
   - type: refines
-    target: SYS-558WVB
+    target: REQ-YSKSPN3
     confirmed: 244554b45f3a
 ---
 The pairing process shall restore schedule entries in all supported languages.

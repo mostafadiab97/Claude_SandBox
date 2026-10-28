@@ -1,11 +1,12 @@
 ---
-id: IF-VHM333
+id: REQ-WZRBBC6
 type: interface-requirement
 title: "Signal 611: error conditions"
 status: Review
 priority: High
 owner: A. Hassan
-parent: INFO-2TM0JP
-order: 6110
+former-id: IF-VHM333
+parent: REQ-RJ0KHPT
+order: b8q
 ---
 Interface signal number 611.

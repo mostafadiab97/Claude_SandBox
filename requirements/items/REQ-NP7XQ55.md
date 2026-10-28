@@ -1,5 +1,5 @@
 ---
-id: SW-2VZ7MW
+id: REQ-NP7XQ55
 type: software-requirement
 title: Watchdog calibrates error conditions
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: L. Samir
 tags:
   - EMC
-parent: SYS-XHYQN4
-order: 30
+former-id: SW-2VZ7MW
+parent: REQ-SP2XMBQ
+order: a2
 links:
   - type: refines
-    target: SYS-XHYQN4
+    target: REQ-SP2XMBQ
     confirmed: 3a60145a886a
 ---
 The secure boot shall authenticate error conditions in all supported languages.

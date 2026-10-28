@@ -1,16 +1,17 @@
 ---
-id: UC-QG87RB
+id: REQ-JEABM61
 type: use-case
 title: "UC: Detect humidity values with the battery backup"
 status: Draft
 priority: High
 tags:
   - regulatory
-parent: INFO-6W132E
-order: 170
+former-id: UC-QG87RB
+parent: REQ-QV7VW2A
+order: aG
 links:
   - type: relates-to
-    target: STK-W18EQ4
+    target: REQ-GPRWN7N
     confirmed: aeec35e06317
 ---
 **Actor:** home owner

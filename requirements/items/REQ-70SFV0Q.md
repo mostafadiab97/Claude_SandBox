@@ -1,5 +1,5 @@
 ---
-id: IF-6G2YSG
+id: REQ-70SFV0Q
 type: interface-requirement
 title: Enclosure synchronises user preferences
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: A. Hassan
 tags:
   - customer-request
-parent: SYS-K1MVD2
-order: 20
+former-id: IF-6G2YSG
+parent: REQ-ECQWD3E
+order: a1
 links:
   - type: refines
-    target: SYS-K1MVD2
+    target: REQ-ECQWD3E
     confirmed: c0539a9df56a
 ---
 The main PCB shall detect audit records in all supported languages.

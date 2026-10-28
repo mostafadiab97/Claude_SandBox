@@ -1,5 +1,5 @@
 ---
-id: IF-XEGZ0J
+id: REQ-31ZNFBT
 type: interface-requirement
 title: "Signal 569: error conditions"
 status: Approved
@@ -9,7 +9,8 @@ tags:
   - EMC
   - regulatory
   - customer-request
-parent: INFO-2TM0JP
-order: 5690
+former-id: IF-XEGZ0J
+parent: REQ-RJ0KHPT
+order: b8A
 ---
 Interface signal number 569.

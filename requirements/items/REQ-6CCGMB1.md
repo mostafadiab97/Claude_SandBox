@@ -1,5 +1,5 @@
 ---
-id: TC-S9WZEN
+id: REQ-6CCGMB1
 type: test-case
 title: "Verify: Zone valve logs the set point"
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: N. Kamal
 tags:
   - safety
-parent: INFO-MS9DAG
-order: 770
+former-id: TC-S9WZEN
+parent: REQ-XGWSK2K
+order: b0E
 links:
   - type: verifies
-    target: SYS-QNW27Q
+    target: REQ-NBF8HWW
     confirmed: cd250a20af9f
 ---
 **Objective:** verify that the zone valve behaves as specified.

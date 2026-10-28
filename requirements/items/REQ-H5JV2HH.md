@@ -1,5 +1,5 @@
 ---
-id: HW-NMG7R7
+id: REQ-H5JV2HH
 type: hardware-requirement
 title: Backlight switchs humidity values
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - EMC
   - i18n
-parent: SYS-7C3GR4
-order: 10
+former-id: HW-NMG7R7
+parent: REQ-TEEHWEZ
+order: a0
 links:
   - type: refines
-    target: SYS-7C3GR4
+    target: REQ-TEEHWEZ
     confirmed: d6385afd3348
 ---
 The backlight shall store the connection state with an accuracy of ±0.5 °C.

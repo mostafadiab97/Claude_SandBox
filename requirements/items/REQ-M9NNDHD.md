@@ -1,15 +1,16 @@
 ---
-id: SYS-GGXREM
+id: REQ-M9NNDHD
 type: system-requirement
 title: Zigbee radio notifys user preferences
 status: Draft
 tags:
   - i18n
-parent: INFO-NRVHA2
-order: 1140
+former-id: SYS-GGXREM
+parent: REQ-6R94HFM
+order: b0p
 links:
   - type: refines
-    target: STK-AAZ4HV
+    target: REQ-M9DYEF5
     confirmed: 44fc7956dbf8
 ---
 The Zigbee radio shall notify schedule entries in all supported languages.

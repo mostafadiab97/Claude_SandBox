@@ -1,5 +1,5 @@
 ---
-id: SW-XK9HVN
+id: REQ-81SC32G
 type: software-requirement
 title: Notification service stores the set point
 status: Review
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - cost
   - ux
-parent: SYS-CG6CRR
-order: 20
+former-id: SW-XK9HVN
+parent: REQ-EJX4F3B
+order: a1
 links:
   - type: refines
-    target: SYS-CG6CRR
+    target: REQ-EJX4F3B
     confirmed: 221cd3163355
 ---
 The home dashboard shall detect firmware images using AES-256-GCM.

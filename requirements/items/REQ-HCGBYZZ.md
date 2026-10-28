@@ -1,5 +1,5 @@
 ---
-id: HW-AF2NZS
+id: REQ-HCGBYZZ
 type: hardware-requirement
 title: Enclosure synchronises user preferences
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - release-1.0
   - connectivity
-parent: SYS-ZM6EM1
-order: 30
+former-id: HW-AF2NZS
+parent: REQ-HTQ6KCV
+order: a2
 links:
   - type: refines
-    target: SYS-ZM6EM1
+    target: REQ-HTQ6KCV
     confirmed: bc2cbad41247
 ---
 The enclosure shall validate relay events within 200 ms.

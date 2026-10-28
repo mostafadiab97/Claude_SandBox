@@ -1,16 +1,17 @@
 ---
-id: TC-S0X8X9
+id: REQ-9MRDACT
 type: test-case
 title: "Verify: Home dashboard stores safety limits"
 status: Obsolete
 owner: S. Adel
 tags:
   - power
-parent: INFO-J0FETE
-order: 560
+former-id: TC-S0X8X9
+parent: REQ-WR5ZJN9
+order: at
 links:
   - type: verifies
-    target: SYS-EB0Q7V
+    target: REQ-NY8TNSE
     confirmed: 7707b9c36b9c
 ---
 **Objective:** verify that the home dashboard behaves as specified.

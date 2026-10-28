@@ -1,5 +1,5 @@
 ---
-id: HW-P5TT8Q
+id: REQ-8JW6FA5
 type: hardware-requirement
 title: Main PCB reports the connection state
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - power
-parent: SYS-VCX096
-order: 20
+former-id: HW-P5TT8Q
+parent: REQ-NPB13E0
+order: a1
 links:
   - type: refines
-    target: SYS-VCX096
+    target: REQ-NPB13E0
     confirmed: 63d283d89339
 ---
 The enclosure shall restore the operating mode within 200 ms.

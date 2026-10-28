@@ -1,15 +1,16 @@
 ---
-id: SW-59VNQ4
+id: REQ-8HHVQK7
 type: software-requirement
 title: Touch display calibrates the operating mode
 status: Approved
 priority: Low
 owner: H. Mostafa
-parent: SYS-60DWBJ
-order: 10
+former-id: SW-59VNQ4
+parent: REQ-03HCDE5
+order: a0
 links:
   - type: refines
-    target: SYS-60DWBJ
+    target: REQ-03HCDE5
     confirmed: 6642ffcbd2f7
 ---
 The touch display shall restore the operating mode for up to 8 zones.

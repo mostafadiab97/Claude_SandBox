@@ -1,15 +1,16 @@
 ---
-id: SW-BCKCQE
+id: REQ-BFFVMD7
 type: software-requirement
 title: Bluetooth LE link encrypts schedule entries
 status: Draft
 priority: High
 owner: É. Laurent
-parent: SYS-0R6VPN
-order: 20
+former-id: SW-BCKCQE
+parent: REQ-RGJYQ7H
+order: a1
 links:
   - type: refines
-    target: SYS-0R6VPN
+    target: REQ-RGJYQ7H
     confirmed: 1c57ac548887
 ---
 The Bluetooth LE link shall display firmware images in under 3 s.

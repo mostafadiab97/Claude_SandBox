@@ -1,17 +1,18 @@
 ---
-id: TC-TP8GMD
+id: REQ-96EDQBR
 type: test-case
 title: "Verify: Regulation loop calibrates the room temperature"
 status: Approved
 priority: High
-parent: INFO-MS9DAG
-order: 1120
+former-id: TC-TP8GMD
+parent: REQ-XGWSK2K
+order: b0n
 links:
   - type: verifies
-    target: SYS-M4QAQY
+    target: REQ-FWFRZ9W
     confirmed: 4fabc5aa13e6
   - type: verifies
-    target: SW-E0C6CJ
+    target: REQ-C58NWQ8
     confirmed: 54e0e57fc0f2
 ---
 **Objective:** verify that the regulation loop behaves as specified.

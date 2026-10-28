@@ -1,16 +1,17 @@
 ---
-id: SYS-V9VR90
+id: REQ-TNHZNKF
 type: system-requirement
 title: Pairing process stores humidity values
 status: Approved
 owner: L. Samir
 tags:
   - accessibility
-parent: INFO-NRVHA2
-order: 2030
+former-id: SYS-V9VR90
+parent: REQ-6R94HFM
+order: b2G
 links:
   - type: refines
-    target: STK-Q9RBYT
+    target: REQ-B31NWSC
     confirmed: a67c8b718d88
 ---
 The pairing process shall switch audit records with an accuracy of ±0.5 °C.

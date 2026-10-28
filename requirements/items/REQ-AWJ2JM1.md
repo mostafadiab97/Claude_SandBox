@@ -1,15 +1,16 @@
 ---
-id: IF-1SJ8YB
+id: REQ-AWJ2JM1
 type: interface-requirement
 title: Validate the set point — detail
 status: Draft
 priority: Medium
 owner: R. Nabil
-parent: IF-HRGRT7
-order: 10
+former-id: IF-1SJ8YB
+parent: REQ-R765XA0
+order: a0
 links:
   - type: refines
-    target: IF-HRGRT7
+    target: REQ-R765XA0
     confirmed: 6272a36b2035
 ---
 The pairing process shall log firmware images within 200 ms.

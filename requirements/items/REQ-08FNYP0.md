@@ -1,15 +1,16 @@
 ---
-id: SYS-2SXPK4
+id: REQ-08FNYP0
 type: system-requirement
 title: Main PCB restores humidity values
 status: Review
 priority: Medium
 owner: J. Müller
-parent: INFO-A6P9A8
-order: 1160
+former-id: SYS-2SXPK4
+parent: REQ-CMCS31A
+order: b0r
 links:
   - type: refines
-    target: STK-M28XWW
+    target: REQ-2678XV5
     confirmed: bcf262f10744
 ---
 The main PCB shall limit relay events with an accuracy of ±0.5 °C.

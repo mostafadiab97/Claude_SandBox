@@ -1,5 +1,5 @@
 ---
-id: HW-RSE2EY
+id: REQ-QRDRZJQ
 type: hardware-requirement
 title: Switch energy consumption — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: L. Samir
 tags:
   - cost
-parent: HW-RM8EM1
-order: 10
+former-id: HW-RSE2EY
+parent: REQ-8RES2NS
+order: a0
 links:
   - type: refines
-    target: HW-RM8EM1
+    target: REQ-8RES2NS
     confirmed: 464ef221678f
 ---
 The mobile app shall synchronise schedule entries within 200 ms.

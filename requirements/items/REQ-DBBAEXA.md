@@ -1,5 +1,5 @@
 ---
-id: DE-4GS11Z
+id: REQ-DBBAEXA
 type: design-element
 title: Module schedule_editor_16
 status: Review
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - EMC
   - security
-parent: SW-QGJY9V
-order: 10
+former-id: DE-4GS11Z
+parent: REQ-ABNAEMW
+order: a0
 links:
   - type: implements
-    target: SW-QGJY9V
+    target: REQ-ABNAEMW
     confirmed: 503c8c1c1a7f
 ---
 Implemented in `src/app/schedule_editor.c`.

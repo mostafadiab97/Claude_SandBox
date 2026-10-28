@@ -1,5 +1,5 @@
 ---
-id: TC-54G4EA
+id: REQ-6Z0APZ2
 type: test-case
 title: "Verify: Battery backup calibrates error conditions"
 status: Review
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - safety
   - performance
-parent: INFO-MACGC3
-order: 1140
+former-id: TC-54G4EA
+parent: REQ-F9Z1FYS
+order: b0p
 links:
   - type: verifies
-    target: SYS-PNS6E7
+    target: REQ-V2FX8Q3
     confirmed: 67545fb801f7
 ---
 **Objective:** verify that the battery backup behaves as specified.

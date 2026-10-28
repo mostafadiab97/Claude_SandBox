@@ -1,18 +1,19 @@
 ---
-id: SYS-XDP32K
+id: REQ-101EMQW
 type: system-requirement
 title: Relay board restores safety limits
 status: Draft
 priority: High
 owner: R. Nabil
-parent: INFO-A6P9A8
-order: 2360
+former-id: SYS-XDP32K
+parent: REQ-CMCS31A
+order: b2n
 links:
   - type: refines
-    target: STK-KEP05J
+    target: REQ-PRMNGRJ
     confirmed: 74304e03fe52
   - type: mitigates
-    target: RSK-P3EG5Z
+    target: REQ-D0QP1BW
     confirmed: 24cf773c2491
 ---
 The relay board shall calibrate the set point in all supported languages.

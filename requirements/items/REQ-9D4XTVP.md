@@ -1,15 +1,16 @@
 ---
-id: SW-FHMAYW
+id: REQ-9D4XTVP
 type: software-requirement
 title: Heating controller encrypts user preferences
 status: Review
 priority: Medium
 owner: Y. Saber
-parent: SYS-NEEMPT
-order: 10
+former-id: SW-FHMAYW
+parent: REQ-CSQ5WDR
+order: a0
 links:
   - type: refines
-    target: SYS-NEEMPT
+    target: REQ-CSQ5WDR
     confirmed: 0bcec31c69de
 ---
 The heat pump driver shall notify audit records for up to 8 zones.

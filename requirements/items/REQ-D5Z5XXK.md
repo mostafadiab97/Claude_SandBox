@@ -1,5 +1,5 @@
 ---
-id: SW-EWCQXY
+id: REQ-D5Z5XXK
 type: software-requirement
 title: Backlight logs energy consumption
 status: Approved
@@ -7,11 +7,12 @@ owner: M. Farouk
 tags:
   - EMC
   - safety
-parent: SYS-SSBZ7T
-order: 10
+former-id: SW-EWCQXY
+parent: REQ-AV4FMXQ
+order: a0
 links:
   - type: refines
-    target: SYS-SSBZ7T
+    target: REQ-AV4FMXQ
     confirmed: 4a88e60caee9
 ---
 The rotary knob shall authenticate the operating mode with an accuracy of ±0.5 °C.

@@ -1,15 +1,16 @@
 ---
-id: SYS-GGKGZ3
+id: REQ-QQ9G38G
 type: system-requirement
 title: Secure boot stores relay events
 status: Approved
 priority: Low
 owner: A. Hassan
-parent: INFO-0229G8
-order: 760
+former-id: SYS-GGKGZ3
+parent: REQ-H9113WA
+order: b0D
 links:
   - type: refines
-    target: STK-XSQC89
+    target: REQ-Y7E2CS3
     confirmed: 66c246d6b1dc
 ---
 The secure boot shall store the set point in under 3 s.

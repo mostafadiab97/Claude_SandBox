@@ -1,5 +1,5 @@
 ---
-id: SW-MFYEE3
+id: REQ-FMP1Y2F
 type: software-requirement
 title: Device registry stores sensor readings
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - regulatory
-parent: SYS-6QFCF2
-order: 10
+former-id: SW-MFYEE3
+parent: REQ-3P9VR9B
+order: a0
 links:
   - type: refines
-    target: SYS-6QFCF2
+    target: REQ-3P9VR9B
     confirmed: d9f6d0d7d66b
 ---
 The OTA server shall restore access tokens after a power loss.

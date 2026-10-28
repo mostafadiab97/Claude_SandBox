@@ -1,5 +1,5 @@
 ---
-id: SYS-0Z0CN7
+id: REQ-JKGPFHC
 type: system-requirement
 title: Bluetooth LE link validates firmware images
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - performance
   - accessibility
   - i18n
-parent: INFO-NRVHA2
-order: 330
+former-id: SYS-0Z0CN7
+parent: REQ-6R94HFM
+order: aW
 links:
   - type: refines
-    target: STK-71VSKB
+    target: REQ-8TVXMWR
     confirmed: 994ecb1eff6f
 ---
 The Bluetooth LE link shall log the connection state with an accuracy of ±0.5 °C.

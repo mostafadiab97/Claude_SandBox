@@ -1,5 +1,5 @@
 ---
-id: IF-MT3X0V
+id: REQ-S74MJJ9
 type: interface-requirement
 title: Device registry restores safety limits
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - power
   - cost
-parent: SYS-KC8K49
-order: 30
+former-id: IF-MT3X0V
+parent: REQ-7JRJWMP
+order: a2
 links:
   - type: refines
-    target: SYS-KC8K49
+    target: REQ-7JRJWMP
     confirmed: d331f9bc5a8a
 ---
 The OTA server shall store energy consumption without user interaction.

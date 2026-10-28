@@ -1,5 +1,5 @@
 ---
-id: SYS-PPY5Z1
+id: REQ-ZM76EGY
 type: system-requirement
 title: Regulation loop measures access tokens
 status: Approved
@@ -7,14 +7,15 @@ owner: محمد علي
 tags:
   - security
   - accessibility
-parent: INFO-6DQTKV
-order: 1260
+former-id: SYS-PPY5Z1
+parent: REQ-7ED7ZET
+order: b11
 links:
   - type: refines
-    target: STK-M7S0HJ
+    target: REQ-219619F
     confirmed: 000356d5d38b
   - type: mitigates
-    target: RSK-WWC15S
+    target: REQ-32EKAJH
     confirmed: efbd8931aaa2
 ---
 The regulation loop shall display the operating mode after a power loss.

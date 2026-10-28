@@ -1,5 +1,5 @@
 ---
-id: HW-2E61JK
+id: REQ-3NHVCY9
 type: hardware-requirement
 title: Status LED synchronises relay events
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - EMC
   - ux
-parent: SYS-KMZ032
-order: 30
+former-id: HW-2E61JK
+parent: REQ-2E3JP7D
+order: a2
 links:
   - type: refines
-    target: SYS-KMZ032
+    target: REQ-2E3JP7D
     confirmed: 604e69a0125a
 ---
 The menu system shall authenticate humidity values at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: SW-SYVSE6
+id: REQ-SPJY3H0
 type: software-requirement
 title: Over-temperature monitor detects access tokens
 status: Review
@@ -9,11 +9,12 @@ tags:
   - security
   - EMC
   - accessibility
-parent: SYS-4AZ7BD
-order: 20
+former-id: SW-SYVSE6
+parent: REQ-KVE2D34
+order: a1
 links:
   - type: refines
-    target: SYS-4AZ7BD
+    target: REQ-KVE2D34
     confirmed: cd9c225e18ad
 ---
 The tamper detection shall notify the room temperature below 0.5 W in standby.

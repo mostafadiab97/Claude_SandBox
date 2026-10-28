@@ -1,15 +1,16 @@
 ---
-id: TC-DXNCAK
+id: REQ-F4HD24T
 type: test-case
 title: "Regression: Home dashboard restores user preferences"
 status: Draft
 priority: Medium
 owner: K. Tanaka
-parent: INFO-ECHASH
-order: 2040
+former-id: TC-DXNCAK
+parent: REQ-6H15AV2
+order: b2H
 links:
   - type: verifies
-    target: SYS-0MK9ZW
+    target: REQ-YW090BX
     confirmed: 5727fec8b08d
 ---
 **Objective:** verify that the device behaves as specified.

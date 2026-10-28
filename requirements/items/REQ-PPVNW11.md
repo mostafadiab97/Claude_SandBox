@@ -1,5 +1,5 @@
 ---
-id: SW-YQX38M
+id: REQ-PPVNW11
 type: software-requirement
 title: Over-temperature monitor notifys schedule entries
 status: Draft
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - release-1.0
   - regulatory
-parent: SYS-2MTE37
-order: 10
+former-id: SW-YQX38M
+parent: REQ-A9SASCC
+order: a0
 links:
   - type: refines
-    target: SYS-2MTE37
+    target: REQ-A9SASCC
     confirmed: 8c19b40a40ed
 ---
 The encryption layer shall notify the room temperature with an accuracy of ±0.5 °C.

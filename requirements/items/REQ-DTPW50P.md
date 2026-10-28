@@ -1,5 +1,5 @@
 ---
-id: SYS-RZQXR0
+id: REQ-DTPW50P
 type: system-requirement
 title: Secure boot displays firmware images
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - security
   - customer-request
   - EMC
-parent: INFO-0229G8
-order: 970
+former-id: SYS-RZQXR0
+parent: REQ-H9113WA
+order: b0Y
 links:
   - type: refines
-    target: STK-G2H1B9
+    target: REQ-Q8ZRB9S
     confirmed: fce33b342585
   - type: mitigates
-    target: RSK-RV8KBD
+    target: REQ-VYYM5AA
     confirmed: 637ec5e39d53
 ---
 The secure boot shall limit error conditions using AES-256-GCM.

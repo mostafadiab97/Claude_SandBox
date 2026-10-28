@@ -1,15 +1,16 @@
 ---
-id: UC-VHBY9J
+id: REQ-FVCV1ME
 type: use-case
 title: "UC: Calibrate sensor readings with the status LED"
 status: Review
 priority: Medium
 owner: محمد علي
-parent: INFO-MK4XMC
-order: 160
+former-id: UC-VHBY9J
+parent: REQ-6JKVVN1
+order: aF
 links:
   - type: relates-to
-    target: STK-4K2NE4
+    target: REQ-1DHEN00
     confirmed: 7cfb31353d89
 ---
 **Actor:** home owner

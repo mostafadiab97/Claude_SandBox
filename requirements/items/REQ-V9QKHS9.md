@@ -1,14 +1,15 @@
 ---
-id: IF-E6C28C
+id: REQ-V9QKHS9
 type: interface-requirement
 title: Display the room temperature — detail
 status: Review
 priority: Low
-parent: IF-RY666A
-order: 10
+former-id: IF-E6C28C
+parent: REQ-CP05FXV
+order: a0
 links:
   - type: refines
-    target: IF-RY666A
+    target: REQ-CP05FXV
     confirmed: 82e01a0e0bfd
 ---
 The heat pump driver shall validate the room temperature below 0.5 W in standby.

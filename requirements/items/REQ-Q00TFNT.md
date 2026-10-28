@@ -1,15 +1,16 @@
 ---
-id: SW-8748WT
+id: REQ-Q00TFNT
 type: software-requirement
 title: Status LED measures relay events
 status: Draft
 priority: High
 owner: S. Adel
-parent: SYS-PTCT1E
-order: 20
+former-id: SW-8748WT
+parent: REQ-ENMW2RV
+order: a1
 links:
   - type: refines
-    target: SYS-PTCT1E
+    target: REQ-ENMW2RV
     confirmed: bb8fa59c4991
 ---
 The status LED shall switch schedule entries at least once per minute.

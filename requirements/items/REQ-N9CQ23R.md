@@ -1,5 +1,5 @@
 ---
-id: IF-CTHBXS
+id: REQ-N9CQ23R
 type: interface-requirement
 title: Boiler interface notifys humidity values
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - customer-request
   - connectivity
-parent: SYS-069B79
-order: 20
+former-id: IF-CTHBXS
+parent: REQ-FV37PCV
+order: a1
 links:
   - type: refines
-    target: SYS-069B79
+    target: REQ-FV37PCV
     confirmed: b68bfd68f8d5
 ---
 The heat pump driver shall store the connection state in all supported languages.

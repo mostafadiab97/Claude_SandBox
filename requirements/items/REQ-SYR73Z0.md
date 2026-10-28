@@ -1,5 +1,5 @@
 ---
-id: TC-GQMB0Y
+id: REQ-SYR73Z0
 type: test-case
 title: Hub verification 7
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - EMC
   - cost
-parent: INFO-ECHASH
-order: 160
+former-id: TC-GQMB0Y
+parent: REQ-6H15AV2
+order: aF
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 4639507190ed
 ---
 **Objective:** verify that the thermostat behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: TC-A2RJJX
+id: REQ-HVFBTJT
 type: test-case
 title: "Verify: Telemetry pipeline detects the set point"
 status: Review
@@ -8,14 +8,15 @@ owner: L. Samir
 tags:
   - EMC
   - power
-parent: INFO-7P4D8D
-order: 500
+former-id: TC-A2RJJX
+parent: REQ-8351896
+order: an
 links:
   - type: verifies
-    target: SYS-3ZGG1G
+    target: REQ-4Z5Y12M
     confirmed: 805d152578fb
   - type: verifies
-    target: SW-7KW60G
+    target: REQ-ZBGDWCB
     confirmed: 7a9b0fc62add
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-Q1N0S0
+id: REQ-R2ZFTF4
 type: software-requirement
 title: Touch display logs humidity values
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - accessibility
   - release-2.0
-parent: SYS-56D65V
-order: 20
+former-id: SW-Q1N0S0
+parent: REQ-FMXF1V3
+order: a1
 links:
   - type: refines
-    target: SYS-56D65V
+    target: REQ-FMXF1V3
     confirmed: 2b18c8ee9832
 ---
 The touch display shall limit access tokens when the network is unavailable.

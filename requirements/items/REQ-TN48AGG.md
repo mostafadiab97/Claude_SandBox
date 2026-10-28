@@ -1,5 +1,5 @@
 ---
-id: TC-7XJ6DA
+id: REQ-TN48AGG
 type: test-case
 title: "Verify: Battery backup validates the operating mode"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - power
-parent: INFO-MACGC3
-order: 890
+former-id: TC-7XJ6DA
+parent: REQ-F9Z1FYS
+order: b0Q
 links:
   - type: verifies
-    target: SYS-V3KNC0
+    target: REQ-WKVWY99
     confirmed: c71efbcdb7bc
 ---
 **Objective:** verify that the battery backup behaves as specified.

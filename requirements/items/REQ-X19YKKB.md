@@ -1,5 +1,5 @@
 ---
-id: SW-NVEM04
+id: REQ-X19YKKB
 type: software-requirement
 title: Secure boot encrypts the operating mode
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: S. Adel
 tags:
   - i18n
-parent: SYS-2XXCCW
-order: 20
+former-id: SW-NVEM04
+parent: REQ-M5MCMA7
+order: a1
 links:
   - type: refines
-    target: SYS-2XXCCW
+    target: REQ-M5MCMA7
     confirmed: 8a24cf881fb1
 ---
 The encryption layer shall encrypt user preferences in all supported languages.

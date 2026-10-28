@@ -1,15 +1,16 @@
 ---
-id: HW-K1EAQW
+id: REQ-QGSJEE6
 type: hardware-requirement
 title: Store user preferences — detail
 status: Approved
 priority: High
 owner: Y. Saber
-parent: HW-4MXTGT
-order: 10
+former-id: HW-K1EAQW
+parent: REQ-RV1Z4G3
+order: a0
 links:
   - type: refines
-    target: HW-4MXTGT
+    target: REQ-RV1Z4G3
     confirmed: 649b3c8ef7d1
 ---
 The home dashboard shall encrypt schedule entries at least once per minute.

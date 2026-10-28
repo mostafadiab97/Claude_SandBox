@@ -1,5 +1,5 @@
 ---
-id: TC-FVBDCB
+id: REQ-NSWSB9G
 type: test-case
 title: "Verify: Main PCB encrypts the room temperature"
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - customer-request
   - ux
-parent: INFO-MACGC3
-order: 1650
+former-id: TC-FVBDCB
+parent: REQ-F9Z1FYS
+order: b1e
 links:
   - type: verifies
-    target: SYS-3C07C0
+    target: REQ-M6BQQQ2
     confirmed: 3f05968a7403
 ---
 **Objective:** verify that the main PCB behaves as specified.

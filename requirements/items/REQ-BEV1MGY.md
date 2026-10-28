@@ -1,5 +1,5 @@
 ---
-id: IF-8WTM4T
+id: REQ-BEV1MGY
 type: interface-requirement
 title: Schedule editor displays the set point
 status: Obsolete
@@ -8,11 +8,12 @@ tags:
   - release-2.0
   - power
   - accessibility
-parent: SYS-5T7DGP
-order: 30
+former-id: IF-8WTM4T
+parent: REQ-DG88HFJ
+order: a2
 links:
   - type: refines
-    target: SYS-5T7DGP
+    target: REQ-DG88HFJ
     confirmed: 65eb9c0bc016
 ---
 The schedule editor shall authenticate audit records in all supported languages.

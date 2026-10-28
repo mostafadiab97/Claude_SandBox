@@ -1,18 +1,19 @@
 ---
-id: TC-XVZ3TE
+id: REQ-8SD6VN3
 type: test-case
 title: "Verify: Enclosure calibrates firmware images"
 status: Draft
 priority: Low
 owner: É. Laurent
-parent: INFO-MACGC3
-order: 140
+former-id: TC-XVZ3TE
+parent: REQ-F9Z1FYS
+order: aD
 links:
   - type: verifies
-    target: SYS-TTC476
+    target: REQ-79Q9433
     confirmed: c20a655c1dc7
   - type: verifies
-    target: SW-XR8SYF
+    target: REQ-SH5BNSJ
     confirmed: eac962e658d0
 ---
 **Objective:** verify that the enclosure behaves as specified.

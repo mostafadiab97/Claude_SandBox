@@ -1,15 +1,16 @@
 ---
-id: TC-K31Q9K
+id: REQ-HC25B4Q
 type: test-case
 title: "Regression: Heat pump driver logs safety limits"
 status: Draft
 priority: Low
 owner: R. Nabil
-parent: INFO-ECHASH
-order: 720
+former-id: TC-K31Q9K
+parent: REQ-6H15AV2
+order: b09
 links:
   - type: verifies
-    target: SYS-ZMJ6E1
+    target: REQ-9E375HR
     confirmed: 4932bfcc9ac4
 ---
 **Objective:** verify that the device behaves as specified.

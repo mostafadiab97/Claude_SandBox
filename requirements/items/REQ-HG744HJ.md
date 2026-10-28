@@ -1,15 +1,16 @@
 ---
-id: SYS-2KGJFW
+id: REQ-HG744HJ
 type: system-requirement
 title: Status LED calibrates the operating mode
 status: Obsolete
 priority: Medium
 owner: S. Adel
-parent: INFO-PDR6FV
-order: 30
+former-id: SYS-2KGJFW
+parent: REQ-2ZA2TRZ
+order: a2
 links:
   - type: refines
-    target: STK-PCP268
+    target: REQ-DMRJS9A
     confirmed: 74f66b1bb8e8
 ---
 The status LED shall encrypt humidity values for up to 8 zones.

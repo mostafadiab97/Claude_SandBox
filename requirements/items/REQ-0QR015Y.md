@@ -1,18 +1,19 @@
 ---
-id: TC-4MN8KY
+id: REQ-0QR015Y
 type: test-case
 title: "Verify: Enclosure calibrates relay events"
 status: Review
 priority: High
 owner: R. Nabil
-parent: INFO-MACGC3
-order: 20
+former-id: TC-4MN8KY
+parent: REQ-F9Z1FYS
+order: a1
 links:
   - type: verifies
-    target: SYS-42GJXH
+    target: REQ-EMXTY67
     confirmed: a0e9ce534d79
   - type: verifies
-    target: SW-DCD4TG
+    target: REQ-MFWJADQ
     confirmed: 5e11b806d907
 ---
 **Objective:** verify that the enclosure behaves as specified.

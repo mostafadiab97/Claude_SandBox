@@ -1,15 +1,16 @@
 ---
-id: IF-WHB1NV
+id: REQ-83AZM0Q
 type: interface-requirement
 title: Pairing process validates energy consumption
 status: Review
 priority: Medium
 owner: J. Müller
-parent: SYS-B9WH28
-order: 40
+former-id: IF-WHB1NV
+parent: REQ-Q1BR7H4
+order: a3
 links:
   - type: refines
-    target: SYS-B9WH28
+    target: REQ-Q1BR7H4
     confirmed: e4a2c3843dd6
 ---
 The Bluetooth LE link shall display schedule entries below 0.5 W in standby.

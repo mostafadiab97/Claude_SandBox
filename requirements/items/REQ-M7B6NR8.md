@@ -1,16 +1,17 @@
 ---
-id: TC-7NEFRV
+id: REQ-M7B6NR8
 type: test-case
 title: "Verify: User account service measures error conditions"
 status: Approved
 priority: Medium
 tags:
   - release-2.0
-parent: INFO-7P4D8D
-order: 950
+former-id: TC-7NEFRV
+parent: REQ-8351896
+order: b0W
 links:
   - type: verifies
-    target: SYS-XZE9DK
+    target: REQ-YGYNCGG
     confirmed: 7345ac77c8fe
 ---
 **Objective:** verify that the user account service behaves as specified.

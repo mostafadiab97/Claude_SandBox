@@ -1,5 +1,5 @@
 ---
-id: TC-4TVWBK
+id: REQ-JCTKC9P
 type: test-case
 title: "Verify: Status LED validates audit records"
 status: Review
@@ -7,14 +7,15 @@ owner: Y. Saber
 tags:
   - customer-request
   - ux
-parent: INFO-HTSZ15
-order: 1350
+former-id: TC-4TVWBK
+parent: REQ-Y9VHHKA
+order: b1A
 links:
   - type: verifies
-    target: SYS-E66142
+    target: REQ-Q14ETWF
     confirmed: 02e2558f5021
   - type: verifies
-    target: SW-WF85KZ
+    target: REQ-S2WSAFK
     confirmed: 76bbdf417470
 ---
 **Objective:** verify that the status LED behaves as specified.

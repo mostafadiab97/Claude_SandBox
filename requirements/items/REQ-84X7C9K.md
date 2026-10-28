@@ -1,5 +1,5 @@
 ---
-id: IF-29HAX7
+id: REQ-84X7C9K
 type: interface-requirement
 title: Menu system displays sensor readings
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - ux
   - regulatory
   - accessibility
-parent: SYS-S7RBP0
-order: 40
+former-id: IF-29HAX7
+parent: REQ-KKDV44Z
+order: a3
 links:
   - type: refines
-    target: SYS-S7RBP0
+    target: REQ-KKDV44Z
     confirmed: 4e24c6222487
 ---
 The backlight shall synchronise safety limits when the network is unavailable.

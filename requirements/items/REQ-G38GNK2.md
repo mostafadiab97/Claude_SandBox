@@ -1,5 +1,5 @@
 ---
-id: IF-NV584D
+id: REQ-G38GNK2
 type: interface-requirement
 title: Home dashboard synchronises the set point
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - performance
   - accessibility
-parent: SYS-4A8MB5
-order: 10
+former-id: IF-NV584D
+parent: REQ-P92XCH2
+order: a0
 links:
   - type: refines
-    target: SYS-4A8MB5
+    target: REQ-P92XCH2
     confirmed: d3a0ef011ed2
 ---
 The home dashboard shall detect schedule entries for at least 10 years.

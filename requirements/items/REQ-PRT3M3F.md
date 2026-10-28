@@ -1,5 +1,5 @@
 ---
-id: TC-48J29E
+id: REQ-PRT3M3F
 type: test-case
 title: "Verify: Encryption layer switchs schedule entries"
 status: Review
@@ -7,14 +7,15 @@ priority: High
 tags:
   - safety
   - performance
-parent: INFO-Z4TW4B
-order: 550
+former-id: TC-48J29E
+parent: REQ-K6FGAY0
+order: as
 links:
   - type: verifies
-    target: SYS-12Y20P
+    target: REQ-0C64JCK
     confirmed: 83d1b44e122c
   - type: verifies
-    target: SW-PNAXXQ
+    target: REQ-06TSPA6
     confirmed: da50ffeb4c30
 ---
 **Objective:** verify that the encryption layer behaves as specified.

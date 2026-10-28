@@ -1,15 +1,16 @@
 ---
-id: HW-M6DSJQ
+id: REQ-VNJMQYV
 type: hardware-requirement
 title: Enclosure measures the room temperature
 status: Review
 priority: Low
 owner: H. Mostafa
-parent: SYS-G05WA7
-order: 10
+former-id: HW-M6DSJQ
+parent: REQ-TA12WYD
+order: a0
 links:
   - type: refines
-    target: SYS-G05WA7
+    target: REQ-TA12WYD
     confirmed: c37aca9c7e04
 ---
 The battery backup shall notify energy consumption after a power loss.

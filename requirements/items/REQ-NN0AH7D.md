@@ -1,5 +1,5 @@
 ---
-id: SW-1WTEKS
+id: REQ-NN0AH7D
 type: software-requirement
 title: Schedule editor calibrates energy consumption
 status: Approved
@@ -7,11 +7,12 @@ owner: J. Müller
 tags:
   - connectivity
   - safety
-parent: SYS-TNP510
-order: 40
+former-id: SW-1WTEKS
+parent: REQ-4E6KP0H
+order: a3
 links:
   - type: refines
-    target: SYS-TNP510
+    target: REQ-4E6KP0H
     confirmed: 342a56df9a48
 ---
 The notification service shall detect humidity values below 0.5 W in standby.

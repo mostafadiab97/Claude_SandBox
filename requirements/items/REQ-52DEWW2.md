@@ -1,5 +1,5 @@
 ---
-id: IF-Q13X3M
+id: REQ-52DEWW2
 type: interface-requirement
 title: "Signal 243: safety limits"
 status: Obsolete
@@ -8,7 +8,8 @@ owner: J. Müller
 tags:
   - customer-request
   - connectivity
-parent: INFO-2TM0JP
-order: 2430
+former-id: IF-Q13X3M
+parent: REQ-RJ0KHPT
+order: b2u
 ---
 Interface signal number 243.

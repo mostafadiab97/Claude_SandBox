@@ -1,5 +1,5 @@
 ---
-id: SYS-E70SS0
+id: REQ-NFV2K0G
 type: system-requirement
 title: Heat pump driver calibrates schedule entries
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - i18n
   - regulatory
   - security
-parent: INFO-6DQTKV
-order: 880
+former-id: SYS-E70SS0
+parent: REQ-7ED7ZET
+order: b0P
 links:
   - type: refines
-    target: STK-EWSQ9Z
+    target: REQ-GXKEHF3
     confirmed: aa5e4143dbe7
 ---
 The heat pump driver shall measure user preferences using AES-256-GCM.

@@ -1,15 +1,16 @@
 ---
-id: HW-XNTYED
+id: REQ-Q1YZCDY
 type: hardware-requirement
 title: Main PCB limits the connection state
 status: Approved
 priority: High
 owner: A. Hassan
-parent: SYS-SA1DH7
-order: 40
+former-id: HW-XNTYED
+parent: REQ-H28Q7YZ
+order: a3
 links:
   - type: refines
-    target: SYS-SA1DH7
+    target: REQ-H28Q7YZ
     confirmed: 339efbb2167c
 ---
 The battery backup shall validate the connection state for up to 8 zones.

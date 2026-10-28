@@ -1,15 +1,16 @@
 ---
-id: SW-3NDE5Q
+id: REQ-DR2JB38
 type: software-requirement
 title: Notification service limits the set point
 status: Approved
 priority: High
 owner: S. Adel
-parent: SYS-RV3J4H
-order: 30
+former-id: SW-3NDE5Q
+parent: REQ-2PXRV1Y
+order: a2
 links:
   - type: refines
-    target: SYS-RV3J4H
+    target: REQ-2PXRV1Y
     confirmed: c844415dcddc
 ---
 The mobile app shall limit audit records using AES-256-GCM.

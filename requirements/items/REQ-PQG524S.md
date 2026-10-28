@@ -1,5 +1,5 @@
 ---
-id: SW-J9Y6N8
+id: REQ-PQG524S
 type: software-requirement
 title: Cloud backend logs access tokens
 status: Draft
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - safety
   - power
-parent: SYS-BA2G1M
-order: 10
+former-id: SW-J9Y6N8
+parent: REQ-H73126C
+order: a0
 links:
   - type: refines
-    target: SYS-BA2G1M
+    target: REQ-H73126C
     confirmed: f603768ac45b
 ---
 The telemetry pipeline shall authenticate user preferences within 200 ms.

@@ -1,18 +1,19 @@
 ---
-id: TC-1N848H
+id: REQ-8BHJE76
 type: test-case
 title: "Verify: Pairing process measures audit records"
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: INFO-F0M7VC
-order: 850
+former-id: TC-1N848H
+parent: REQ-67RQXCK
+order: b0M
 links:
   - type: verifies
-    target: SYS-XBES39
+    target: REQ-3EZE86Y
     confirmed: bc98487a5cdc
   - type: verifies
-    target: SW-NGNJD8
+    target: REQ-7C91C22
     confirmed: 0210b675a2d9
 ---
 **Objective:** verify that the pairing process behaves as specified.

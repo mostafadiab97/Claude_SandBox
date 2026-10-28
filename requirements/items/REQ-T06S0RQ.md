@@ -1,5 +1,5 @@
 ---
-id: TC-MG81PS
+id: REQ-T06S0RQ
 type: test-case
 title: "Verify: Main PCB detects the connection state"
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - safety
   - release-2.0
-parent: INFO-MACGC3
-order: 590
+former-id: TC-MG81PS
+parent: REQ-F9Z1FYS
+order: aw
 links:
   - type: verifies
-    target: SYS-1NBRAQ
+    target: REQ-VTAD1DF
     confirmed: e3d201ead13c
 ---
 **Objective:** verify that the main PCB behaves as specified.

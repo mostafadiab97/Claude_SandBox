@@ -1,5 +1,5 @@
 ---
-id: SYS-RW42CM
+id: REQ-TXG6AVW
 type: system-requirement
 title: Encryption layer stores safety limits
 status: Review
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - safety
   - EMC
-parent: INFO-0229G8
-order: 10
+former-id: SYS-RW42CM
+parent: REQ-H9113WA
+order: a0
 links:
   - type: refines
-    target: STK-92HHJV
+    target: REQ-Z7761RK
     confirmed: 260bd01800c6
 ---
 The encryption layer shall detect relay events below 0.5 W in standby.

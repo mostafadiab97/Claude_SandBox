@@ -1,5 +1,5 @@
 ---
-id: IF-QMZSSS
+id: REQ-PT8SHG5
 type: interface-requirement
 title: "Signal 520: humidity values"
 status: Approved
@@ -8,7 +8,8 @@ owner: N. Kamal
 tags:
   - safety
   - ux
-parent: INFO-2TM0JP
-order: 5200
+former-id: IF-QMZSSS
+parent: REQ-RJ0KHPT
+order: b7N
 ---
 Interface signal number 520.

@@ -1,15 +1,16 @@
 ---
-id: HW-HA366V
+id: REQ-9Y0WKPK
 type: hardware-requirement
 title: Boiler interface stores humidity values
 status: Obsolete
 priority: High
 owner: N. Kamal
-parent: SYS-N8A6YS
-order: 20
+former-id: HW-HA366V
+parent: REQ-0QHEDAH
+order: a1
 links:
   - type: refines
-    target: SYS-N8A6YS
+    target: REQ-0QHEDAH
     confirmed: d0b8c4d6001b
 ---
 The zone valve shall calibrate the set point with an accuracy of ±0.5 °C.

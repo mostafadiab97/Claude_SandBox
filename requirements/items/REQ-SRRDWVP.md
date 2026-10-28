@@ -1,15 +1,16 @@
 ---
-id: HW-JYYFHB
+id: REQ-SRRDWVP
 type: hardware-requirement
 title: Main PCB logs audit records
 status: Draft
 priority: Low
 owner: K. Tanaka
-parent: SYS-2SXPK4
-order: 20
+former-id: HW-JYYFHB
+parent: REQ-08FNYP0
+order: a1
 links:
   - type: refines
-    target: SYS-2SXPK4
+    target: REQ-08FNYP0
     confirmed: a35d491379ed
 ---
 The main PCB shall report access tokens at least once per minute.

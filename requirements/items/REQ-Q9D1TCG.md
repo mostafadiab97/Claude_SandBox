@@ -1,5 +1,5 @@
 ---
-id: SW-Z5W432
+id: REQ-Q9D1TCG
 type: software-requirement
 title: Backlight authenticates user preferences
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - release-1.0
   - regulatory
-parent: SYS-8DNBZZ
-order: 10
+former-id: SW-Z5W432
+parent: REQ-163RBQF
+order: a0
 links:
   - type: refines
-    target: SYS-8DNBZZ
+    target: REQ-163RBQF
     confirmed: 56dd9201bfb6
 ---
 The status LED shall measure safety limits for at least 10 years.

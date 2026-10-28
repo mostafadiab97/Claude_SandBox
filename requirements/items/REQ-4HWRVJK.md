@@ -1,15 +1,16 @@
 ---
-id: SW-ERKXNF
+id: REQ-4HWRVJK
 type: software-requirement
 title: Authenticate firmware images — detail
 status: Draft
 priority: High
 owner: H. Mostafa
-parent: SW-BXDS06
-order: 10
+former-id: SW-ERKXNF
+parent: REQ-T86K2TF
+order: a0
 links:
   - type: refines
-    target: SW-BXDS06
+    target: REQ-T86K2TF
     confirmed: a79a0d1525b6
 ---
 The Zigbee radio shall synchronise access tokens without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: TC-DH8JZA
+id: REQ-Z36KCMJ
 type: test-case
 title: "Verify: Zigbee radio measures audit records"
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - customer-request
   - release-1.0
   - cost
-parent: INFO-F0M7VC
-order: 650
+former-id: TC-DH8JZA
+parent: REQ-67RQXCK
+order: b02
 links:
   - type: verifies
-    target: SYS-AE2EKW
+    target: REQ-NJ588CJ
     confirmed: e00530755be8
   - type: verifies
-    target: SW-ZZJS5P
+    target: REQ-J205R7N
     confirmed: 6a763e763f11
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-ATV5T7
+id: REQ-ESMQY1J
 type: software-requirement
 title: Secure boot stores the operating mode
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - accessibility
   - release-2.0
-parent: SYS-M0XMTJ
-order: 30
+former-id: SW-ATV5T7
+parent: REQ-8Z1HB6X
+order: a2
 links:
   - type: refines
-    target: SYS-M0XMTJ
+    target: REQ-8Z1HB6X
     confirmed: 265474e3470a
 ---
 The over-temperature monitor shall store energy consumption in all supported languages.

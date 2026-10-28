@@ -1,15 +1,16 @@
 ---
-id: SW-VK0JSQ
+id: REQ-0YZWMEH
 type: software-requirement
 title: Local API calibrates humidity values
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: SYS-PDA2DJ
-order: 10
+former-id: SW-VK0JSQ
+parent: REQ-M49RZWY
+order: a0
 links:
   - type: refines
-    target: SYS-PDA2DJ
+    target: REQ-M49RZWY
     confirmed: 6c392c4860e1
 ---
 The Zigbee radio shall limit schedule entries using AES-256-GCM.

@@ -1,5 +1,5 @@
 ---
-id: IF-406CN0
+id: REQ-FY7J5ER
 type: interface-requirement
 title: Notify access tokens — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - i18n
   - accessibility
   - customer-request
-parent: IF-XF7QV6
-order: 10
+former-id: IF-406CN0
+parent: REQ-QNBCAN7
+order: a0
 links:
   - type: refines
-    target: IF-XF7QV6
+    target: REQ-QNBCAN7
     confirmed: 7b6c7007a89d
 ---
 The pairing process shall log user preferences within 200 ms.

@@ -1,15 +1,16 @@
 ---
-id: TC-05EA1D
+id: REQ-DS4HMT9
 type: test-case
 title: "Verify: Relay board reports user preferences"
 status: Draft
 priority: Medium
 owner: H. Mostafa
-parent: INFO-MACGC3
-order: 60
+former-id: TC-05EA1D
+parent: REQ-F9Z1FYS
+order: a5
 links:
   - type: verifies
-    target: SYS-BD00HF
+    target: REQ-H1CFNB4
     confirmed: c1fda425d923
 ---
 **Objective:** verify that the relay board behaves as specified.

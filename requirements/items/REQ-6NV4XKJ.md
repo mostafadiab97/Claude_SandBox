@@ -1,14 +1,15 @@
 ---
-id: DE-GXRBPJ
+id: REQ-6NV4XKJ
 type: design-element
 title: Module pairing_process_27
 status: Approved
 priority: Medium
-parent: SW-JE2GH1
-order: 20
+former-id: DE-GXRBPJ
+parent: REQ-08SFWPE
+order: a1
 links:
   - type: implements
-    target: SW-JE2GH1
+    target: REQ-08SFWPE
     confirmed: 00c6a3ef7be5
 ---
 Implemented in `src/conn/pairing_process.c`.

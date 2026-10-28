@@ -1,15 +1,16 @@
 ---
-id: TC-AE03E9
+id: REQ-MNGGYEB
 type: test-case
 title: "Verify: Watchdog displays error conditions"
 status: Approved
 priority: Low
 owner: N. Kamal
-parent: INFO-Z4TW4B
-order: 470
+former-id: TC-AE03E9
+parent: REQ-K6FGAY0
+order: ak
 links:
   - type: verifies
-    target: SYS-ZQYMN8
+    target: REQ-RHW7HNJ
     confirmed: a257d6fd1501
 ---
 **Objective:** verify that the watchdog behaves as specified.

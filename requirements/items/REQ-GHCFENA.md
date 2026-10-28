@@ -1,5 +1,5 @@
 ---
-id: SYS-SQC74W
+id: REQ-GHCFENA
 type: system-requirement
 title: Heat pump driver switchs audit records
 status: Obsolete
@@ -8,14 +8,15 @@ tags:
   - power
   - safety
   - accessibility
-parent: INFO-6DQTKV
-order: 1850
+former-id: SYS-SQC74W
+parent: REQ-7ED7ZET
+order: b1y
 links:
   - type: refines
-    target: STK-9YF5RE
+    target: REQ-FGZGBY5
     confirmed: 43643c03020f
   - type: mitigates
-    target: RSK-G8ARKV
+    target: REQ-N90PXTW
     confirmed: dd1f8627cbb6
 ---
 The heat pump driver shall authenticate access tokens when the network is unavailable.

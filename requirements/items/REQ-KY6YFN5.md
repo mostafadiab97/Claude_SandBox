@@ -1,14 +1,15 @@
 ---
-id: IF-YKSFPK
+id: REQ-KY6YFN5
 type: interface-requirement
 title: Status LED measures safety limits
 status: Approved
 priority: Medium
-parent: SYS-Z7FHQ2
-order: 20
+former-id: IF-YKSFPK
+parent: REQ-X5P461Y
+order: a1
 links:
   - type: refines
-    target: SYS-Z7FHQ2
+    target: REQ-X5P461Y
     confirmed: c3ef2cb2745a
 ---
 The backlight shall report sensor readings without user interaction.

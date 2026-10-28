@@ -1,5 +1,5 @@
 ---
-id: TC-FVP7V3
+id: REQ-DJ5KR59
 type: test-case
 title: "Verify: Heat pump driver restores error conditions"
 status: Review
@@ -7,11 +7,12 @@ owner: A. Hassan
 tags:
   - performance
   - safety
-parent: INFO-MS9DAG
-order: 800
+former-id: TC-FVP7V3
+parent: REQ-XGWSK2K
+order: b0H
 links:
   - type: verifies
-    target: SYS-JAAEVD
+    target: REQ-0E44T2M
     confirmed: 9e43edd3ff39
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

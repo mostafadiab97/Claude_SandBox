@@ -1,15 +1,16 @@
 ---
-id: TC-4E721R
+id: REQ-VF06A8J
 type: test-case
 title: "Verify: Menu system measures firmware images"
 status: Approved
 priority: Medium
 owner: S. Adel
-parent: INFO-HTSZ15
-order: 1360
+former-id: TC-4E721R
+parent: REQ-Y9VHHKA
+order: b1B
 links:
   - type: verifies
-    target: SYS-Y4YCS0
+    target: REQ-XWFNNXT
     confirmed: a080ef16fc5e
 ---
 **Objective:** verify that the menu system behaves as specified.

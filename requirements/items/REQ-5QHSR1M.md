@@ -1,5 +1,5 @@
 ---
-id: TC-M081Z4
+id: REQ-5QHSR1M
 type: test-case
 title: "Verify: Pairing process switchs safety limits"
 status: Approved
@@ -7,14 +7,15 @@ priority: Low
 owner: Y. Saber
 tags:
   - EMC
-parent: INFO-F0M7VC
-order: 350
+former-id: TC-M081Z4
+parent: REQ-67RQXCK
+order: aY
 links:
   - type: verifies
-    target: SYS-558WVB
+    target: REQ-YSKSPN3
     confirmed: 244554b45f3a
   - type: verifies
-    target: SW-6PB6KG
+    target: REQ-C8T6DKJ
     confirmed: 0a4b2ea82845
 ---
 **Objective:** verify that the pairing process behaves as specified.

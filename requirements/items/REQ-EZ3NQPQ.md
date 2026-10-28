@@ -1,5 +1,5 @@
 ---
-id: TC-Y1QQZB
+id: REQ-EZ3NQPQ
 type: test-case
 title: "Regression: Watchdog authenticates error conditions"
 status: Review
@@ -7,11 +7,12 @@ tags:
   - i18n
   - connectivity
   - ux
-parent: INFO-ECHASH
-order: 1390
+former-id: TC-Y1QQZB
+parent: REQ-6H15AV2
+order: b1E
 links:
   - type: verifies
-    target: SYS-KH549P
+    target: REQ-4WF01SA
     confirmed: 7b84e6500217
 ---
 **Objective:** verify that the device behaves as specified.

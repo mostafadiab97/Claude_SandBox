@@ -1,5 +1,5 @@
 ---
-id: IF-E8M70J
+id: REQ-95FXNTE
 type: interface-requirement
 title: "Signal 523: humidity values"
 status: Obsolete
@@ -8,7 +8,8 @@ owner: N. Kamal
 tags:
   - connectivity
   - i18n
-parent: INFO-2TM0JP
-order: 5230
+former-id: IF-E8M70J
+parent: REQ-RJ0KHPT
+order: b7Q
 ---
 Interface signal number 523.

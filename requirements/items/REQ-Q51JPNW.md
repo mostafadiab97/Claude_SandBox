@@ -1,5 +1,5 @@
 ---
-id: TC-C0C8EJ
+id: REQ-Q51JPNW
 type: test-case
 title: "Verify: Status LED displays the room temperature"
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - cost
   - release-1.0
-parent: INFO-HTSZ15
-order: 1000
+former-id: TC-C0C8EJ
+parent: REQ-Y9VHHKA
+order: b0b
 links:
   - type: verifies
-    target: SYS-36NNDJ
+    target: REQ-FC279X0
     confirmed: 100c60ddc325
 ---
 **Objective:** verify that the status LED behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: CR-TPBNJB
+id: REQ-ST83R8T
 type: change-request
 title: "CR: extend OTA server to limit the set point"
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - i18n
   - accessibility
-parent: INFO-M91889
-order: 70
+former-id: CR-TPBNJB
+parent: REQ-9FNWH0D
+order: a6
 links:
   - type: relates-to
-    target: SYS-0K19ZT
+    target: REQ-NKHMC95
     confirmed: 46a84c8b4189
 ---
 Requested by customer support (ticket #16059).

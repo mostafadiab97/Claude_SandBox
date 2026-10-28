@@ -1,5 +1,5 @@
 ---
-id: DE-EH6Q1X
+id: REQ-XWKEPS3
 type: design-element
 title: Module notification_service_94
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - cost
   - i18n
-parent: SW-X2EZWN
-order: 10
+former-id: DE-EH6Q1X
+parent: REQ-29RGZEZ
+order: a0
 links:
   - type: implements
-    target: SW-X2EZWN
+    target: REQ-29RGZEZ
     confirmed: ecbeef0727d0
 ---
 Implemented in `src/app/notification_service.c`.

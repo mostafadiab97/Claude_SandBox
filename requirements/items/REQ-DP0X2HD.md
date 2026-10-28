@@ -1,5 +1,5 @@
 ---
-id: IF-XAQZYE
+id: REQ-DP0X2HD
 type: interface-requirement
 title: "Signal 501: the operating mode"
 status: Review
@@ -8,7 +8,8 @@ owner: J. Müller
 tags:
   - security
   - customer-request
-parent: INFO-2TM0JP
-order: 5010
+former-id: IF-XAQZYE
+parent: REQ-RJ0KHPT
+order: b74
 ---
 Interface signal number 501.

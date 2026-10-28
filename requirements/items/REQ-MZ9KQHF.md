@@ -1,16 +1,17 @@
 ---
-id: DE-8XWB6E
+id: REQ-MZ9KQHF
 type: design-element
 title: Module telemetry_pipeline_93
 status: Obsolete
 tags:
   - i18n
   - power
-parent: SW-F763R6
-order: 20
+former-id: DE-8XWB6E
+parent: REQ-Z8BNFGD
+order: a1
 links:
   - type: implements
-    target: SW-F763R6
+    target: REQ-Z8BNFGD
     confirmed: 8f4a455a76a6
 ---
 Implemented in `src/cloud/telemetry_pipeline.c`.

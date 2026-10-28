@@ -1,18 +1,19 @@
 ---
-id: TC-N51Z5K
+id: REQ-ZPC25YW
 type: test-case
 title: "Verify: Home dashboard limits humidity values"
 status: Review
 priority: Medium
 owner: S. Adel
-parent: INFO-J0FETE
-order: 1110
+former-id: TC-N51Z5K
+parent: REQ-WR5ZJN9
+order: b0m
 links:
   - type: verifies
-    target: SYS-6FZH1S
+    target: REQ-JTH2F31
     confirmed: d02bd019a00a
   - type: verifies
-    target: SW-HY00X4
+    target: REQ-K5CNP9H
     confirmed: 505e19c52e40
 ---
 **Objective:** verify that the home dashboard behaves as specified.

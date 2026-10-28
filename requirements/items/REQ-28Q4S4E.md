@@ -1,14 +1,15 @@
 ---
-id: SW-FT9SM6
+id: REQ-28Q4S4E
 type: software-requirement
 title: Status LED encrypts the room temperature
 status: Approved
 owner: N. Kamal
-parent: SYS-KMZ032
-order: 40
+former-id: SW-FT9SM6
+parent: REQ-2E3JP7D
+order: a3
 links:
   - type: refines
-    target: SYS-KMZ032
+    target: REQ-2E3JP7D
     confirmed: 604e69a0125a
 ---
 The menu system shall validate audit records at least once per minute.

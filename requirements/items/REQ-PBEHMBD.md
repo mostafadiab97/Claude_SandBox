@@ -1,5 +1,5 @@
 ---
-id: TC-NE2KW2
+id: REQ-PBEHMBD
 type: test-case
 title: "Verify: Secure boot authenticates firmware images"
 status: Approved
@@ -7,11 +7,12 @@ owner: A. Hassan
 tags:
   - accessibility
   - power
-parent: INFO-Z4TW4B
-order: 1540
+former-id: TC-NE2KW2
+parent: REQ-K6FGAY0
+order: b1T
 links:
   - type: verifies
-    target: SYS-7PADSD
+    target: REQ-DK1K9NC
     confirmed: d945d7dacc5c
 ---
 **Objective:** verify that the secure boot behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: TC-AF9W82
+id: REQ-GS9P7RC
 type: test-case
 title: "Verify: Enclosure authenticates firmware images"
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - performance
   - release-1.0
-parent: INFO-MACGC3
-order: 990
+former-id: TC-AF9W82
+parent: REQ-F9Z1FYS
+order: b0a
 links:
   - type: verifies
-    target: SYS-ES2T78
+    target: REQ-MZPRC42
     confirmed: 96c465893601
 ---
 **Objective:** verify that the enclosure behaves as specified.

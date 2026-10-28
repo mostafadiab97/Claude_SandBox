@@ -1,5 +1,5 @@
 ---
-id: IF-GQ5Q3F
+id: REQ-XG0M4N5
 type: interface-requirement
 title: Status LED encrypts access tokens
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: É. Laurent
 tags:
   - i18n
-parent: SYS-G1EY1S
-order: 30
+former-id: IF-GQ5Q3F
+parent: REQ-FBSGHBG
+order: a2
 links:
   - type: refines
-    target: SYS-G1EY1S
+    target: REQ-FBSGHBG
     confirmed: 0765f686e186
 ---
 The menu system shall report audit records for at least 10 years.

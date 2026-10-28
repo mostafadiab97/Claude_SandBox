@@ -1,15 +1,16 @@
 ---
-id: HW-P0WN85
+id: REQ-CF5A6VJ
 type: hardware-requirement
 title: Synchronise schedule entries — detail
 status: Review
 priority: Medium
 owner: S. Adel
-parent: HW-8A6J2S
-order: 10
+former-id: HW-P0WN85
+parent: REQ-AD2QN2G
+order: a0
 links:
   - type: refines
-    target: HW-8A6J2S
+    target: REQ-AD2QN2G
     confirmed: e71fab5032e0
 ---
 The main PCB shall authenticate user preferences using AES-256-GCM.

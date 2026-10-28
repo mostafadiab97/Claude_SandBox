@@ -1,5 +1,5 @@
 ---
-id: DE-2NW7FE
+id: REQ-5H67DE7
 type: design-element
 title: Module status_LED_19
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - regulatory
   - release-2.0
-parent: SW-9BE21E
-order: 10
+former-id: DE-2NW7FE
+parent: REQ-1ESFC7K
+order: a0
 links:
   - type: implements
-    target: SW-9BE21E
+    target: REQ-1ESFC7K
     confirmed: 53842303fe29
 ---
 Implemented in `src/ui/status_LED.c`.

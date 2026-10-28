@@ -1,5 +1,5 @@
 ---
-id: SW-GNFS1Z
+id: REQ-1ZF71B9
 type: software-requirement
 title: Mobile app validates energy consumption
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - EMC
   - ux
   - cost
-parent: SYS-AW0CHS
-order: 20
+former-id: SW-GNFS1Z
+parent: REQ-PTAM8D9
+order: a1
 links:
   - type: refines
-    target: SYS-AW0CHS
+    target: REQ-PTAM8D9
     confirmed: "565684011683"
 ---
 The schedule editor shall encrypt the set point below 0.5 W in standby.

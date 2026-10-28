@@ -1,5 +1,5 @@
 ---
-id: SW-G8W2N1
+id: REQ-4QZCRRX
 type: software-requirement
 title: Login screen authenticates the room temperature
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - cost
   - performance
-parent: SYS-QHMT67
-order: 30
+former-id: SW-G8W2N1
+parent: REQ-4GW7FRK
+order: a2
 links:
   - type: refines
-    target: SYS-QHMT67
+    target: REQ-4GW7FRK
     confirmed: 77747505e6c0
 ---
 The login screen shall log user preferences with an accuracy of ±0.5 °C.

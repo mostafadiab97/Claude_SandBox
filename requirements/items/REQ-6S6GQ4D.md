@@ -1,16 +1,17 @@
 ---
-id: TC-ZBQGT9
+id: REQ-6S6GQ4D
 type: test-case
 title: "Verify: Relay board detects the room temperature"
 status: Approved
 priority: Medium
 tags:
   - release-2.0
-parent: INFO-MACGC3
-order: 290
+former-id: TC-ZBQGT9
+parent: REQ-F9Z1FYS
+order: aS
 links:
   - type: verifies
-    target: SYS-1JDYJJ
+    target: REQ-3KY28T4
     confirmed: 3aea3876253d
 ---
 **Objective:** verify that the relay board behaves as specified.

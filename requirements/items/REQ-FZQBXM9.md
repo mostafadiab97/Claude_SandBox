@@ -1,5 +1,5 @@
 ---
-id: SW-3ZT7T8
+id: REQ-FZQBXM9
 type: software-requirement
 title: Restore humidity values — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - customer-request
   - regulatory
-parent: SW-Y0EG7Y
-order: 10
+former-id: SW-3ZT7T8
+parent: REQ-RDTETXC
+order: a0
 links:
   - type: refines
-    target: SW-Y0EG7Y
+    target: REQ-RDTETXC
     confirmed: b7fb987c4397
 ---
 The over-temperature monitor shall calibrate safety limits after a power loss.

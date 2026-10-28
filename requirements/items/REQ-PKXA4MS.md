@@ -1,5 +1,5 @@
 ---
-id: DE-9K7C4F
+id: REQ-PKXA4MS
 type: design-element
 title: Module local_API_40
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - cost
   - connectivity
-parent: SW-3ASG6E
-order: 10
+former-id: DE-9K7C4F
+parent: REQ-HHXNP2F
+order: a0
 links:
   - type: implements
-    target: SW-3ASG6E
+    target: REQ-HHXNP2F
     confirmed: f902b30888e5
 ---
 Implemented in `src/conn/local_API.c`.

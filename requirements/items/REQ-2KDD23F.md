@@ -1,5 +1,5 @@
 ---
-id: SW-3D0FDE
+id: REQ-2KDD23F
 type: software-requirement
 title: Menu system stores safety limits
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - ux
   - power
-parent: SYS-DJE020
-order: 20
+former-id: SW-3D0FDE
+parent: REQ-ZV45D9H
+order: a1
 links:
   - type: refines
-    target: SYS-DJE020
+    target: REQ-ZV45D9H
     confirmed: e34a209cad5c
 ---
 The rotary knob shall authenticate user preferences using AES-256-GCM.

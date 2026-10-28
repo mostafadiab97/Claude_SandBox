@@ -1,15 +1,16 @@
 ---
-id: TC-3GA7K8
+id: REQ-43BAAEV
 type: test-case
 title: "Verify: Enclosure displays user preferences"
 status: Approved
 priority: High
 owner: R. Nabil
-parent: INFO-MACGC3
-order: 1150
+former-id: TC-3GA7K8
+parent: REQ-F9Z1FYS
+order: b0q
 links:
   - type: verifies
-    target: SYS-901PZX
+    target: REQ-62ERE1Q
     confirmed: e93fd5180ace
 ---
 **Objective:** verify that the enclosure behaves as specified.

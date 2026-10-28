@@ -1,15 +1,16 @@
 ---
-id: DE-W1BPR7
+id: REQ-QEVN2H4
 type: design-element
 title: Module watchdog_79
 status: Approved
 priority: Medium
 owner: M. Farouk
-parent: SW-9WHHTC
-order: 20
+former-id: DE-W1BPR7
+parent: REQ-V5FSQTW
+order: a1
 links:
   - type: implements
-    target: SW-9WHHTC
+    target: REQ-V5FSQTW
     confirmed: 052fbe0267af
 ---
 Implemented in `src/safe/watchdog.c`.

@@ -1,14 +1,15 @@
 ---
-id: SYS-91G81P
+id: REQ-S43FYEQ
 type: system-requirement
 title: Mobile app displays energy consumption
 status: Draft
 priority: Medium
-parent: INFO-2XXBRS
-order: 1830
+former-id: SYS-91G81P
+parent: REQ-QYXGSQ4
+order: b1w
 links:
   - type: refines
-    target: STK-B9Y7CM
+    target: REQ-YGQ30E7
     confirmed: 2e83dea5db22
 ---
 The mobile app shall detect humidity values using AES-256-GCM.

@@ -1,5 +1,5 @@
 ---
-id: SYS-CG6CRR
+id: REQ-EJX4F3B
 type: system-requirement
 title: Home dashboard detects humidity values
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - ux
   - customer-request
-parent: INFO-2XXBRS
-order: 1940
+former-id: SYS-CG6CRR
+parent: REQ-QYXGSQ4
+order: b27
 links:
   - type: refines
-    target: STK-SWTYBR
+    target: REQ-DVC5FZZ
     confirmed: 85d99e967934
 ---
 The home dashboard shall authenticate sensor readings for up to 8 zones.

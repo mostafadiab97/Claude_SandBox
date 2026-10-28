@@ -1,14 +1,15 @@
 ---
-id: SYS-NBQQ5Q
+id: REQ-FHP700P
 type: system-requirement
 title: Local API measures access tokens
 status: Obsolete
 owner: محمد علي
-parent: INFO-NRVHA2
-order: 1700
+former-id: SYS-NBQQ5Q
+parent: REQ-6R94HFM
+order: b1j
 links:
   - type: refines
-    target: STK-GMCKMF
+    target: REQ-5EJHVJ8
     confirmed: f47328374a2b
 ---
 The local API shall limit the set point with an accuracy of ±0.5 °C.

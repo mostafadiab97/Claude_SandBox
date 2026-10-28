@@ -1,15 +1,16 @@
 ---
-id: SYS-WRCCVQ
+id: REQ-7AV7MGG
 type: system-requirement
 title: Enclosure stores firmware images
 status: Draft
 priority: High
 owner: J. Müller
-parent: INFO-A6P9A8
-order: 1270
+former-id: SYS-WRCCVQ
+parent: REQ-CMCS31A
+order: b12
 links:
   - type: refines
-    target: STK-M28XWW
+    target: REQ-2678XV5
     confirmed: bcf262f10744
 ---
 The enclosure shall switch energy consumption for at least 10 years.

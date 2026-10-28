@@ -1,5 +1,5 @@
 ---
-id: HW-EYWR30
+id: REQ-FCSHNNJ
 type: hardware-requirement
 title: Store the set point — detail
 status: Review
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - safety
   - performance
-parent: HW-XJN395
-order: 10
+former-id: HW-EYWR30
+parent: REQ-8S51ZHM
+order: a0
 links:
   - type: refines
-    target: HW-XJN395
+    target: REQ-8S51ZHM
     confirmed: 33e6444efb89
 ---
 The relay board shall display the set point within 200 ms.

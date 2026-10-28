@@ -1,5 +1,5 @@
 ---
-id: SW-8NMEER
+id: REQ-3Q1CVXG
 type: software-requirement
 title: Status LED displays access tokens
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - regulatory
   - cost
-parent: SYS-HN5S5X
-order: 20
+former-id: SW-8NMEER
+parent: REQ-NH4F1EN
+order: a1
 links:
   - type: refines
-    target: SYS-HN5S5X
+    target: REQ-NH4F1EN
     confirmed: 98a2a16336ac
 ---
 The backlight shall display the operating mode for at least 10 years.

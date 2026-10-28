@@ -1,5 +1,5 @@
 ---
-id: DE-AQDX15
+id: REQ-5YAVS6T
 type: design-element
 title: Module status_LED_56
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: N. Kamal
 tags:
   - security
-parent: SW-E0VZFJ
-order: 10
+former-id: DE-AQDX15
+parent: REQ-SCG63JP
+order: a0
 links:
   - type: implements
-    target: SW-E0VZFJ
+    target: REQ-SCG63JP
     confirmed: b830011f4109
 ---
 Implemented in `src/ui/status_LED.c`.

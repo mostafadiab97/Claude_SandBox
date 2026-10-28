@@ -1,5 +1,5 @@
 ---
-id: TC-GKX6G2
+id: REQ-GTMGG5Q
 type: test-case
 title: "Regression: Heating controller measures safety limits"
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - connectivity
   - i18n
-parent: INFO-ECHASH
-order: 1280
+former-id: TC-GKX6G2
+parent: REQ-6H15AV2
+order: b13
 links:
   - type: verifies
-    target: SYS-DFR9YD
+    target: REQ-BKYB8D1
     confirmed: 04e59d900da3
 ---
 **Objective:** verify that the device behaves as specified.

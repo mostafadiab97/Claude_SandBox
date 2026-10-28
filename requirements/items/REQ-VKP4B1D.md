@@ -1,5 +1,5 @@
 ---
-id: HW-1JEH31
+id: REQ-VKP4B1D
 type: hardware-requirement
 title: Bluetooth LE link validates access tokens
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - accessibility
   - ux
-parent: SYS-W1MEG3
-order: 20
+former-id: HW-1JEH31
+parent: REQ-VP326G6
+order: a1
 links:
   - type: refines
-    target: SYS-W1MEG3
+    target: REQ-VP326G6
     confirmed: 7ffa04910a1e
 ---
 The pairing process shall validate the set point after a power loss.

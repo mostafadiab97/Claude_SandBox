@@ -1,5 +1,5 @@
 ---
-id: DE-VX2GQ3
+id: REQ-TVXDFP2
 type: design-element
 title: Module pairing_process_14
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - connectivity
   - safety
-parent: SW-5XH32A
-order: 10
+former-id: DE-VX2GQ3
+parent: REQ-NAH5P65
+order: a0
 links:
   - type: implements
-    target: SW-5XH32A
+    target: REQ-NAH5P65
     confirmed: b60352f5d5a1
 ---
 Implemented in `src/conn/pairing_process.c`.

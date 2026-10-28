@@ -1,14 +1,15 @@
 ---
-id: DE-8TGVEE
+id: REQ-1GPJVP6
 type: design-element
 title: Module notification_service_56
 status: Draft
 priority: Low
-parent: SW-YQY8D0
-order: 10
+former-id: DE-8TGVEE
+parent: REQ-TV1N2JZ
+order: a0
 links:
   - type: implements
-    target: SW-YQY8D0
+    target: REQ-TV1N2JZ
     confirmed: 72f81b8d4596
 ---
 Implemented in `src/app/notification_service.c`.

@@ -1,15 +1,16 @@
 ---
-id: TC-FVZEGQ
+id: REQ-90JS4PC
 type: test-case
 title: "Verify: Menu system displays the room temperature"
 status: Obsolete
 priority: Medium
 owner: S. Adel
-parent: INFO-HTSZ15
-order: 130
+former-id: TC-FVZEGQ
+parent: REQ-Y9VHHKA
+order: aC
 links:
   - type: verifies
-    target: SYS-JGZMEV
+    target: REQ-X57Z6YA
     confirmed: 06d6346c072b
 ---
 **Objective:** verify that the menu system behaves as specified.

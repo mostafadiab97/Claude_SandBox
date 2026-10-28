@@ -1,5 +1,5 @@
 ---
-id: HW-8GNGMV
+id: REQ-RE3WBHX
 type: hardware-requirement
 title: Secure boot displays error conditions
 status: Review
@@ -8,11 +8,12 @@ tags:
   - security
   - EMC
   - safety
-parent: SYS-8XZZQ8
-order: 20
+former-id: HW-8GNGMV
+parent: REQ-VCHHJMJ
+order: a1
 links:
   - type: refines
-    target: SYS-8XZZQ8
+    target: REQ-VCHHJMJ
     confirmed: 60302e1ca7b2
 ---
 The secure boot shall measure audit records below 0.5 W in standby.

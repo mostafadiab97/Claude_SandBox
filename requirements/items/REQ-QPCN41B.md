@@ -1,18 +1,19 @@
 ---
-id: TC-4XNTNT
+id: REQ-QPCN41B
 type: test-case
 title: "Verify: Zigbee radio notifys sensor readings"
 status: Approved
 priority: High
 owner: Y. Saber
-parent: INFO-F0M7VC
-order: 610
+former-id: TC-4XNTNT
+parent: REQ-67RQXCK
+order: ay
 links:
   - type: verifies
-    target: SYS-2T9P1T
+    target: REQ-SNC3685
     confirmed: 67011a28308d
   - type: verifies
-    target: SW-A58ZR3
+    target: REQ-4BDGHXM
     confirmed: f7cc69a0ad64
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

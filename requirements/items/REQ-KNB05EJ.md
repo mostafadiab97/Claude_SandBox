@@ -1,15 +1,16 @@
 ---
-id: TC-CT7VNP
+id: REQ-KNB05EJ
 type: test-case
 title: "Verify: Heat pump driver validates the connection state"
 status: Review
 priority: Medium
 owner: محمد علي
-parent: INFO-MS9DAG
-order: 110
+former-id: TC-CT7VNP
+parent: REQ-XGWSK2K
+order: aA
 links:
   - type: verifies
-    target: SYS-28GV7E
+    target: REQ-7EANCXE
     confirmed: c02f405b6878
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

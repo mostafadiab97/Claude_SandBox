@@ -1,5 +1,5 @@
 ---
-id: SW-GG7TYH
+id: REQ-E1YSDX8
 type: software-requirement
 title: Menu system validates audit records
 status: Review
@@ -9,11 +9,12 @@ tags:
   - i18n
   - security
   - customer-request
-parent: SYS-B8BCQN
-order: 10
+former-id: SW-GG7TYH
+parent: REQ-8VXJR77
+order: a0
 links:
   - type: refines
-    target: SYS-B8BCQN
+    target: REQ-8VXJR77
     confirmed: 2a3d9dbc24b6
 ---
 The menu system shall limit audit records within 200 ms.

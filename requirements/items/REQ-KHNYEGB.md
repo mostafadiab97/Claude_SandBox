@@ -1,15 +1,16 @@
 ---
-id: HW-H0QACB
+id: REQ-KHNYEGB
 type: hardware-requirement
 title: Schedule editor notifys the room temperature
 status: Approved
 priority: High
 owner: Y. Saber
-parent: SYS-QDWM3F
-order: 40
+former-id: HW-H0QACB
+parent: REQ-E75SXGC
+order: a3
 links:
   - type: refines
-    target: SYS-QDWM3F
+    target: REQ-E75SXGC
     confirmed: 6815e3fba85c
 ---
 The home dashboard shall store relay events without user interaction.

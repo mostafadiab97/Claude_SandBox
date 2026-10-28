@@ -1,5 +1,5 @@
 ---
-id: HW-P24797
+id: REQ-F8X66A1
 type: hardware-requirement
 title: Relay board measures sensor readings
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - cost
   - customer-request
-parent: SYS-9J0YHF
-order: 30
+former-id: HW-P24797
+parent: REQ-7VK5DXB
+order: a2
 links:
   - type: refines
-    target: SYS-9J0YHF
+    target: REQ-7VK5DXB
     confirmed: 3602ee9aa103
 ---
 The power supply shall validate user preferences without user interaction.

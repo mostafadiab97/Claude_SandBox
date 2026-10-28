@@ -1,5 +1,5 @@
 ---
-id: SYS-6RXFNT
+id: REQ-G6H7R8E
 type: system-requirement
 title: Notification service synchronises the room temperature
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: A. Hassan
 tags:
   - release-2.0
-parent: INFO-2XXBRS
-order: 440
+former-id: SYS-6RXFNT
+parent: REQ-QYXGSQ4
+order: ah
 links:
   - type: refines
-    target: STK-BR4RT9
+    target: REQ-QZME2VX
     confirmed: 16def0c1f947
 ---
 The notification service shall store the set point without user interaction.

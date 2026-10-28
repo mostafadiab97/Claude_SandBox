@@ -1,5 +1,5 @@
 ---
-id: HW-ENR5YZ
+id: REQ-Z2SKXZ7
 type: hardware-requirement
 title: Wi-Fi module limits firmware images
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - release-1.0
   - connectivity
-parent: SYS-8BB6P4
-order: 30
+former-id: HW-ENR5YZ
+parent: REQ-H09Y5DF
+order: a2
 links:
   - type: refines
-    target: SYS-8BB6P4
+    target: REQ-H09Y5DF
     confirmed: 6499795c1519
 ---
 The Zigbee radio shall store sensor readings when the network is unavailable.

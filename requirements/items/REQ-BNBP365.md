@@ -1,18 +1,19 @@
 ---
-id: SYS-4PDJXS
+id: REQ-BNBP365
 type: system-requirement
 title: Bluetooth LE link synchronises the set point
 status: Draft
 priority: High
 owner: S. Adel
-parent: INFO-NRVHA2
-order: 1610
+former-id: SYS-4PDJXS
+parent: REQ-6R94HFM
+order: b1a
 links:
   - type: refines
-    target: STK-G2ZBHW
+    target: REQ-GXR8KE5
     confirmed: fee0d3303478
   - type: mitigates
-    target: RSK-QXX2QH
+    target: REQ-EBPP6TA
     confirmed: ec933cdd5217
 ---
 The Bluetooth LE link shall report error conditions within 200 ms.

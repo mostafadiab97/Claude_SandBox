@@ -1,15 +1,16 @@
 ---
-id: TC-8SG8ME
+id: REQ-Z60MH5N
 type: test-case
 title: "Verify: Watchdog notifys error conditions"
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: INFO-Z4TW4B
-order: 380
+former-id: TC-8SG8ME
+parent: REQ-K6FGAY0
+order: ab
 links:
   - type: verifies
-    target: SYS-KGMJR6
+    target: REQ-3WETC0K
     confirmed: 173f8dfb735a
 ---
 **Objective:** verify that the watchdog behaves as specified.

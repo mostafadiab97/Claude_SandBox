@@ -1,15 +1,16 @@
 ---
-id: CR-WAZ6KR
+id: REQ-S63P9X7
 type: change-request
 title: "CR: extend boiler interface to report relay events"
 status: Draft
 priority: Medium
 owner: J. Müller
-parent: INFO-ZBHTYF
-order: 170
+former-id: CR-WAZ6KR
+parent: REQ-XJDN42Y
+order: aG
 links:
   - type: relates-to
-    target: SYS-5EWC97
+    target: REQ-BD7JAPN
     confirmed: 112d894849fe
 ---
 Requested by customer support (ticket #14447).

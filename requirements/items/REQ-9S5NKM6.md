@@ -1,5 +1,5 @@
 ---
-id: TC-RACC9H
+id: REQ-9S5NKM6
 type: test-case
 title: "Verify: Boiler interface detects access tokens"
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: J. Müller
 tags:
   - safety
-parent: INFO-MS9DAG
-order: 250
+former-id: TC-RACC9H
+parent: REQ-XGWSK2K
+order: aO
 links:
   - type: verifies
-    target: SYS-A6SZV3
+    target: REQ-XW7FZ05
     confirmed: 2cf0a5310219
 ---
 **Objective:** verify that the boiler interface behaves as specified.

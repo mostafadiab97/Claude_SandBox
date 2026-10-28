@@ -1,5 +1,5 @@
 ---
-id: SYS-9PZN49
+id: REQ-FWM1WC5
 type: system-requirement
 title: Login screen notifys energy consumption
 status: Review
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - customer-request
   - performance
-parent: INFO-2XXBRS
-order: 1460
+former-id: SYS-9PZN49
+parent: REQ-QYXGSQ4
+order: b1L
 links:
   - type: refines
-    target: STK-ND3D08
+    target: REQ-BWGMSWJ
     confirmed: df91c673f737
 ---
 The login screen shall calibrate user preferences in under 3 s.

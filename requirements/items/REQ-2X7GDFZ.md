@@ -1,5 +1,5 @@
 ---
-id: SW-RWGTKN
+id: REQ-2X7GDFZ
 type: software-requirement
 title: Encryption layer reports energy consumption
 status: Draft
@@ -7,11 +7,12 @@ owner: محمد علي
 tags:
   - regulatory
   - release-2.0
-parent: SYS-2TCHQB
-order: 20
+former-id: SW-RWGTKN
+parent: REQ-ECC9ESP
+order: a1
 links:
   - type: refines
-    target: SYS-2TCHQB
+    target: REQ-ECC9ESP
     confirmed: d50f8cfb5fb0
 ---
 The tamper detection shall calibrate error conditions for up to 8 zones.

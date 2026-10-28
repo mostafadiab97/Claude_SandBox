@@ -1,5 +1,5 @@
 ---
-id: SYS-82PKWA
+id: REQ-YMRV1JM
 type: system-requirement
 title: Home dashboard limits the connection state
 status: Review
@@ -8,8 +8,9 @@ owner: N. Kamal
 tags:
   - accessibility
   - cost
-parent: INFO-2XXBRS
-order: 1680
+former-id: SYS-82PKWA
+parent: REQ-QYXGSQ4
+order: b1h
 links:
   - type: refines
     target: STK-H87WHA

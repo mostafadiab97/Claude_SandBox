@@ -1,15 +1,16 @@
 ---
-id: IF-XFYQV4
+id: REQ-48BQBYA
 type: interface-requirement
 title: Home dashboard detects the room temperature
 status: Draft
 priority: Low
 owner: محمد علي
-parent: SYS-0847E1
-order: 10
+former-id: IF-XFYQV4
+parent: REQ-5KHGZ49
+order: a0
 links:
   - type: refines
-    target: SYS-0847E1
+    target: REQ-5KHGZ49
     confirmed: d8c0c127c7a5
 ---
 The notification service shall detect the set point for up to 8 zones.

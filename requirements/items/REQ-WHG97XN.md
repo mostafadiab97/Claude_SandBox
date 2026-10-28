@@ -1,5 +1,5 @@
 ---
-id: DE-S1JZ4Q
+id: REQ-WHG97XN
 type: design-element
 title: Module home_dashboard_13
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: É. Laurent
 tags:
   - performance
-parent: SW-7PW4GH
-order: 10
+former-id: DE-S1JZ4Q
+parent: REQ-PK1KB64
+order: a0
 links:
   - type: implements
-    target: SW-7PW4GH
+    target: REQ-PK1KB64
     confirmed: 89257a4d8c41
 ---
 Implemented in `src/app/home_dashboard.c`.

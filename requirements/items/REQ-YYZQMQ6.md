@@ -1,5 +1,5 @@
 ---
-id: SW-N6MNJN
+id: REQ-YYZQMQ6
 type: software-requirement
 title: Heat pump driver synchronises relay events
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - regulatory
   - customer-request
-parent: SYS-PRTYJ3
-order: 10
+former-id: SW-N6MNJN
+parent: REQ-SWQXV55
+order: a0
 links:
   - type: refines
-    target: SYS-PRTYJ3
+    target: REQ-SWQXV55
     confirmed: 93824c965ccd
 ---
 The heat pump driver shall measure error conditions with an accuracy of ±0.5 °C.

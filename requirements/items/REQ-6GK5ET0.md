@@ -1,5 +1,5 @@
 ---
-id: SYS-4BMNYZ
+id: REQ-6GK5ET0
 type: system-requirement
 title: Power supply authenticates access tokens
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - power
   - regulatory
-parent: INFO-A6P9A8
-order: 340
+former-id: SYS-4BMNYZ
+parent: REQ-CMCS31A
+order: aX
 links:
   - type: refines
-    target: STK-7F9256
+    target: REQ-GXZBB32
     confirmed: 5588db2eb80a
 ---
 The power supply shall switch schedule entries in under 3 s.

@@ -1,15 +1,16 @@
 ---
-id: SW-QRFPC8
+id: REQ-JQTGFE6
 type: software-requirement
 title: Heat pump driver measures relay events
 status: Review
 priority: Medium
 owner: R. Nabil
-parent: SYS-R873ZE
-order: 40
+former-id: SW-QRFPC8
+parent: REQ-SS6STC1
+order: a3
 links:
   - type: refines
-    target: SYS-R873ZE
+    target: REQ-SS6STC1
     confirmed: fae59ce68ce5
 ---
 The zone valve shall log audit records in under 3 s.

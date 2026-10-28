@@ -1,5 +1,5 @@
 ---
-id: SW-XBZZ1N
+id: REQ-3RSC8Y1
 type: software-requirement
 title: Zone valve displays access tokens
 status: Review
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - safety
   - release-1.0
-parent: SYS-1DTP29
-order: 30
+former-id: SW-XBZZ1N
+parent: REQ-WWGXTCZ
+order: a2
 links:
   - type: refines
-    target: SYS-1DTP29
+    target: REQ-WWGXTCZ
     confirmed: 076f90a0ea7e
 ---
 The regulation loop shall encrypt access tokens below 0.5 W in standby.

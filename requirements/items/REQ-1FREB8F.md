@@ -1,5 +1,5 @@
 ---
-id: TC-S9VPF9
+id: REQ-1FREB8F
 type: test-case
 title: "Verify: Watchdog switchs relay events"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - performance
   - regulatory
   - EMC
-parent: INFO-Z4TW4B
-order: 860
+former-id: TC-S9VPF9
+parent: REQ-K6FGAY0
+order: b0N
 links:
   - type: verifies
-    target: SYS-CB769Y
+    target: REQ-W7GCRX4
     confirmed: 78ff4291b8f5
 ---
 **Objective:** verify that the watchdog behaves as specified.

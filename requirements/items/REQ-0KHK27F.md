@@ -1,5 +1,5 @@
 ---
-id: HW-RX1TDD
+id: REQ-0KHK27F
 type: hardware-requirement
 title: Enclosure restores access tokens
 status: Review
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - ux
   - customer-request
-parent: SYS-VKCBQY
-order: 20
+former-id: HW-RX1TDD
+parent: REQ-7DPR7Z9
+order: a1
 links:
   - type: refines
-    target: SYS-VKCBQY
+    target: REQ-7DPR7Z9
     confirmed: d1b5e6f293be
 ---
 The enclosure shall measure user preferences within 200 ms.

@@ -1,14 +1,15 @@
 ---
-id: SW-9CP20B
+id: REQ-PQQENJS
 type: software-requirement
 title: Store the room temperature — detail
 status: Approved
 priority: Low
-parent: SW-AXJ7EV
-order: 10
+former-id: SW-9CP20B
+parent: REQ-N3GWWTF
+order: a0
 links:
   - type: refines
-    target: SW-AXJ7EV
+    target: REQ-N3GWWTF
     confirmed: 1068668fe3b8
 ---
 The Bluetooth LE link shall restore the operating mode using AES-256-GCM.

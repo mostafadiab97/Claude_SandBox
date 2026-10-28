@@ -1,14 +1,15 @@
 ---
-id: SW-X362TR
+id: REQ-3S19HWD
 type: software-requirement
 title: Tamper detection displays the room temperature
 status: Approved
 priority: Medium
-parent: SYS-10RD9F
-order: 20
+former-id: SW-X362TR
+parent: REQ-F2PF0EP
+order: a1
 links:
   - type: refines
-    target: SYS-10RD9F
+    target: REQ-F2PF0EP
     confirmed: c65b58fe967d
 ---
 The over-temperature monitor shall synchronise the operating mode using AES-256-GCM.

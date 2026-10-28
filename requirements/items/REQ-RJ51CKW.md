@@ -1,18 +1,19 @@
 ---
-id: TC-18KRFM
+id: REQ-RJ51CKW
 type: test-case
 title: "Verify: Home dashboard reports error conditions"
 status: Obsolete
 priority: High
 owner: Y. Saber
-parent: INFO-J0FETE
-order: 1040
+former-id: TC-18KRFM
+parent: REQ-WR5ZJN9
+order: b0f
 links:
   - type: verifies
-    target: SYS-3KEBNW
+    target: REQ-BF9PRQ8
     confirmed: 79d2c72aebd1
   - type: verifies
-    target: SW-NA4WSY
+    target: REQ-NV41NQC
     confirmed: f3c404d14f3c
 ---
 **Objective:** verify that the home dashboard behaves as specified.

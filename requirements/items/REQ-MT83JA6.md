@@ -1,5 +1,5 @@
 ---
-id: SW-ZE04FD
+id: REQ-MT83JA6
 type: software-requirement
 title: Display schedule entries — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: A. Hassan
 tags:
   - i18n
-parent: SW-NQDF85
-order: 10
+former-id: SW-ZE04FD
+parent: REQ-QTZSPHY
+order: a0
 links:
   - type: refines
-    target: SW-NQDF85
+    target: REQ-QTZSPHY
     confirmed: 215904978b3c
 ---
 The tamper detection shall measure sensor readings after a power loss.

@@ -1,15 +1,16 @@
 ---
-id: SW-ZG8HVV
+id: REQ-0PJBC1T
 type: software-requirement
 title: Heating controller authenticates the set point
 status: Obsolete
 priority: High
 owner: H. Mostafa
-parent: SYS-X39PY1
-order: 10
+former-id: SW-ZG8HVV
+parent: REQ-DCNDFWC
+order: a0
 links:
   - type: refines
-    target: SYS-X39PY1
+    target: REQ-DCNDFWC
     confirmed: faeb181df037
 ---
 The heating controller shall limit the operating mode at least once per minute.

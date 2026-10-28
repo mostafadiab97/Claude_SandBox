@@ -1,5 +1,5 @@
 ---
-id: IF-39S6SC
+id: REQ-AWXWPKG
 type: interface-requirement
 title: "Signal 647: the operating mode"
 status: Approved
@@ -8,7 +8,8 @@ tags:
   - customer-request
   - performance
   - release-2.0
-parent: INFO-2TM0JP
-order: 6470
+former-id: IF-39S6SC
+parent: REQ-RJ0KHPT
+order: b9Q
 ---
 Interface signal number 647.

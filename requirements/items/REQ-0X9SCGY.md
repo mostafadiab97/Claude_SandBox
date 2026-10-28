@@ -1,14 +1,15 @@
 ---
-id: SYS-DTDMRC
+id: REQ-0X9SCGY
 type: system-requirement
 title: Status LED reports sensor readings
 status: Approved
 priority: High
-parent: INFO-PDR6FV
-order: 1630
+former-id: SYS-DTDMRC
+parent: REQ-2ZA2TRZ
+order: b1c
 links:
   - type: refines
-    target: STK-MNQXK0
+    target: REQ-SBV9ENK
     confirmed: d3157dcb9034
 ---
 The status LED shall notify safety limits with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: RSK-81XFR0
+id: REQ-E5T2N3D
 type: risk
 title: "Risk: rotary knob fails to switch safety limits"
 status: Draft
@@ -8,8 +8,9 @@ owner: Y. Saber
 tags:
   - cost
   - connectivity
-parent: INFO-0V9DV4
-order: 50
+former-id: RSK-81XFR0
+parent: REQ-HHCVAFQ
+order: a4
 ---
 **Hazard:** the rotary knob could fail to notify energy consumption.
 

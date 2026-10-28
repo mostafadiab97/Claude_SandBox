@@ -1,15 +1,16 @@
 ---
-id: HW-FHZ6R1
+id: REQ-KRJMQVJ
 type: hardware-requirement
 title: Battery backup measures the room temperature
 status: Approved
 priority: High
 owner: K. Tanaka
-parent: SYS-HEVMYH
-order: 10
+former-id: HW-FHZ6R1
+parent: REQ-6F2ZZC7
+order: a0
 links:
   - type: refines
-    target: SYS-HEVMYH
+    target: REQ-6F2ZZC7
     confirmed: 5cd34b16673e
 ---
 The battery backup shall limit schedule entries in all supported languages.

@@ -1,14 +1,15 @@
 ---
-id: SW-7XYB8V
+id: REQ-6YBNFF8
 type: software-requirement
 title: Status LED displays schedule entries
 status: Obsolete
 owner: J. Müller
-parent: SYS-H53211
-order: 30
+former-id: SW-7XYB8V
+parent: REQ-DTEFJYX
+order: a2
 links:
   - type: refines
-    target: SYS-H53211
+    target: REQ-DTEFJYX
     confirmed: af6e93d43894
 ---
 The rotary knob shall restore the set point for up to 8 zones.

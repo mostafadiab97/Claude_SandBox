@@ -1,15 +1,16 @@
 ---
-id: TC-Q08B77
+id: REQ-JX7HW5T
 type: test-case
 title: "Regression: Power supply calibrates audit records"
 status: Obsolete
 priority: High
 owner: N. Kamal
-parent: INFO-ECHASH
-order: 1560
+former-id: TC-Q08B77
+parent: REQ-6H15AV2
+order: b1V
 links:
   - type: verifies
-    target: SYS-1Q68X4
+    target: REQ-ABB486H
     confirmed: 01eaedbf5ab3
 ---
 **Objective:** verify that the device behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: IF-KBVJNT
+id: REQ-M1GZJCM
 type: interface-requirement
 title: Menu system notifys the room temperature
 status: Obsolete
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - cost
   - accessibility
-parent: SYS-E8YWD2
-order: 30
+former-id: IF-KBVJNT
+parent: REQ-1GC83E9
+order: a2
 links:
   - type: refines
-    target: SYS-E8YWD2
+    target: REQ-1GC83E9
     confirmed: 5ab6d3697437
 ---
 The menu system shall notify safety limits in all supported languages.

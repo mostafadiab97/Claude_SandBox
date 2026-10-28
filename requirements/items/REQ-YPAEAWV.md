@@ -1,14 +1,15 @@
 ---
-id: SW-4E66T1
+id: REQ-YPAEAWV
 type: software-requirement
 title: Pairing process encrypts the connection state
 status: Approved
 priority: Low
-parent: SYS-4JFYE9
-order: 20
+former-id: SW-4E66T1
+parent: REQ-NB1HFHW
+order: a1
 links:
   - type: refines
-    target: SYS-4JFYE9
+    target: REQ-NB1HFHW
     confirmed: 71656e024c3b
 ---
 The pairing process shall measure error conditions for up to 8 zones.

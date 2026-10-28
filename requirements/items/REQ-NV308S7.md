@@ -1,15 +1,16 @@
 ---
-id: SYS-NAZA59
+id: REQ-NV308S7
 type: system-requirement
 title: Cloud backend notifys humidity values
 status: Review
 priority: Medium
 owner: محمد علي
-parent: INFO-YV5EZD
-order: 1260
+former-id: SYS-NAZA59
+parent: REQ-RE9ZKHF
+order: b11
 links:
   - type: refines
-    target: STK-VT1KVD
+    target: REQ-36Y9ND0
     confirmed: fbcfb8475f32
 ---
 The cloud backend shall limit user preferences for at least 10 years.

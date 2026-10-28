@@ -1,15 +1,16 @@
 ---
-id: TC-FPCEZA
+id: REQ-5T0ZM9R
 type: test-case
 title: "Verify: Home dashboard authenticates audit records"
 status: Draft
 priority: Low
 owner: محمد علي
-parent: INFO-J0FETE
-order: 710
+former-id: TC-FPCEZA
+parent: REQ-WR5ZJN9
+order: b08
 links:
   - type: verifies
-    target: SYS-QDWM3F
+    target: REQ-E75SXGC
     confirmed: 6815e3fba85c
 ---
 **Objective:** verify that the home dashboard behaves as specified.

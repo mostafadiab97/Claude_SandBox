@@ -1,5 +1,5 @@
 ---
-id: IF-8GA9Q5
+id: REQ-JYAD7M7
 type: interface-requirement
 title: Tamper detection switchs the set point
 status: Review
@@ -9,11 +9,12 @@ tags:
   - i18n
   - security
   - release-2.0
-parent: SYS-ABZP07
-order: 40
+former-id: IF-8GA9Q5
+parent: REQ-RB03G7X
+order: a3
 links:
   - type: refines
-    target: SYS-ABZP07
+    target: REQ-RB03G7X
     confirmed: fada4baa41ba
 ---
 The tamper detection shall notify schedule entries in all supported languages.

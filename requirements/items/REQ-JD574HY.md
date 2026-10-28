@@ -1,5 +1,5 @@
 ---
-id: IF-4SCFBS
+id: REQ-JD574HY
 type: interface-requirement
 title: Over-temperature monitor stores access tokens
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - security
   - performance
-parent: SYS-9GHKM6
-order: 30
+former-id: IF-4SCFBS
+parent: REQ-17NBDW7
+order: a2
 links:
   - type: refines
-    target: SYS-9GHKM6
+    target: REQ-17NBDW7
     confirmed: ab9f96efc9a0
 ---
 The watchdog shall validate sensor readings when the network is unavailable.

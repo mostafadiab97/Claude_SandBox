@@ -1,18 +1,19 @@
 ---
-id: TC-Z3VV6X
+id: REQ-BW7MDFP
 type: test-case
 title: "Verify: Heat pump driver restores error conditions"
 status: Draft
 priority: Medium
 owner: J. Müller
-parent: INFO-MS9DAG
-order: 470
+former-id: TC-Z3VV6X
+parent: REQ-XGWSK2K
+order: ak
 links:
   - type: verifies
-    target: SYS-XSDXN6
+    target: REQ-BFGS1K4
     confirmed: b0286a82c3c7
   - type: verifies
-    target: SW-R9KVRR
+    target: REQ-G6XE2MB
     confirmed: 999f2b19f22a
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

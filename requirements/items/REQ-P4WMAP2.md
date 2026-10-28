@@ -1,17 +1,18 @@
 ---
-id: TC-EZF6PB
+id: REQ-P4WMAP2
 type: test-case
 title: "Verify: Telemetry pipeline displays the connection state"
 status: Approved
 owner: K. Tanaka
-parent: INFO-7P4D8D
-order: 250
+former-id: TC-EZF6PB
+parent: REQ-8351896
+order: aO
 links:
   - type: verifies
-    target: SYS-X491FT
+    target: REQ-YYB3TCA
     confirmed: 8674f6feb478
   - type: verifies
-    target: SW-V8G75G
+    target: REQ-A4C1RDV
     confirmed: 9bbfacd2c8bc
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

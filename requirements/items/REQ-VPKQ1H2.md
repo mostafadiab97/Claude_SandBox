@@ -1,16 +1,17 @@
 ---
-id: HW-CN172X
+id: REQ-VPKQ1H2
 type: hardware-requirement
 title: Calibrate the connection state — detail
 status: Draft
 priority: Low
 tags:
   - safety
-parent: HW-V8S80Q
-order: 10
+former-id: HW-CN172X
+parent: REQ-7BEMQ1V
+order: a0
 links:
   - type: refines
-    target: HW-V8S80Q
+    target: REQ-7BEMQ1V
     confirmed: 13fd2f862ff8
 ---
 The heating controller shall report access tokens for up to 8 zones.

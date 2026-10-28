@@ -1,5 +1,5 @@
 ---
-id: TC-FY5MVC
+id: REQ-1KDQARA
 type: test-case
 title: "Verify: Regulation loop limits sensor readings"
 status: Review
@@ -7,14 +7,15 @@ priority: Medium
 owner: L. Samir
 tags:
   - release-1.0
-parent: INFO-MS9DAG
-order: 270
+former-id: TC-FY5MVC
+parent: REQ-XGWSK2K
+order: aQ
 links:
   - type: verifies
-    target: SYS-Y62PFM
+    target: REQ-3NYYTRF
     confirmed: daa058155ad3
   - type: verifies
-    target: SW-GF9YJW
+    target: REQ-4AGJ55F
     confirmed: f757c2d54080
 ---
 **Objective:** verify that the regulation loop behaves as specified.

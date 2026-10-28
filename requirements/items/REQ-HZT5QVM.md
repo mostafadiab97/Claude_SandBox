@@ -1,15 +1,16 @@
 ---
-id: UC-QJM0ZS
+id: REQ-HZT5QVM
 type: use-case
 title: "UC: Synchronise the set point with the user account service"
 status: Approved
 priority: High
 owner: K. Tanaka
-parent: INFO-Y8G953
-order: 150
+former-id: UC-QJM0ZS
+parent: REQ-Y9XT61E
+order: aF
 links:
   - type: relates-to
-    target: STK-QN5QGR
+    target: REQ-BY89KNK
     confirmed: ae0f58e089a1
 ---
 **Actor:** home owner

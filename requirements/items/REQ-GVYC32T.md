@@ -1,5 +1,5 @@
 ---
-id: SW-DR9063
+id: REQ-GVYC32T
 type: software-requirement
 title: Log energy consumption — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - i18n
   - accessibility
-parent: SW-MVV5XH
-order: 10
+former-id: SW-DR9063
+parent: REQ-8MRW05Y
+order: a0
 links:
   - type: refines
-    target: SW-MVV5XH
+    target: REQ-8MRW05Y
     confirmed: 7ff641b5c685
 ---
 The touch display shall measure audit records using AES-256-GCM.

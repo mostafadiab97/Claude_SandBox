@@ -1,5 +1,5 @@
 ---
-id: HW-3MCNKM
+id: REQ-589EV3R
 type: hardware-requirement
 title: Local API calibrates the room temperature
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - ux
   - i18n
-parent: SYS-M1RMNM
-order: 10
+former-id: HW-3MCNKM
+parent: REQ-QTV0SK9
+order: a0
 links:
   - type: refines
-    target: SYS-M1RMNM
+    target: REQ-QTV0SK9
     confirmed: 6d9e9d1dc1e4
 ---
 The Bluetooth LE link shall store the set point without user interaction.

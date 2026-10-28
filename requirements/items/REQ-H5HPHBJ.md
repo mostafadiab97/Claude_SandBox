@@ -1,5 +1,5 @@
 ---
-id: SW-P275FE
+id: REQ-H5HPHBJ
 type: software-requirement
 title: Schedule editor authenticates schedule entries
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 tags:
   - connectivity
   - release-1.0
-parent: SYS-MTM77X
-order: 40
+former-id: SW-P275FE
+parent: REQ-1AETXCX
+order: a3
 links:
   - type: refines
-    target: SYS-MTM77X
+    target: REQ-1AETXCX
     confirmed: 9fccf544d618
 ---
 The schedule editor shall report schedule entries using AES-256-GCM.

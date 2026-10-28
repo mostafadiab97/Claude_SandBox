@@ -1,5 +1,5 @@
 ---
-id: IF-462B1K
+id: REQ-DQ83VFP
 type: interface-requirement
 title: "Signal 481: access tokens"
 status: Approved
@@ -8,7 +8,8 @@ owner: É. Laurent
 tags:
   - customer-request
   - regulatory
-parent: INFO-2TM0JP
-order: 4810
+former-id: IF-462B1K
+parent: REQ-RJ0KHPT
+order: b6k
 ---
 Interface signal number 481.

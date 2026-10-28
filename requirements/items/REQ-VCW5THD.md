@@ -1,5 +1,5 @@
 ---
-id: TC-0X0N26
+id: REQ-VCW5THD
 type: test-case
 title: "Verify: Status LED displays the room temperature"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - i18n
   - connectivity
-parent: INFO-HTSZ15
-order: 110
+former-id: TC-0X0N26
+parent: REQ-Y9VHHKA
+order: aA
 links:
   - type: verifies
-    target: SYS-65T3V9
+    target: REQ-4YNA756
     confirmed: ccd727c8c684
 ---
 **Objective:** verify that the status LED behaves as specified.

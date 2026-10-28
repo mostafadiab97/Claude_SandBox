@@ -1,5 +1,5 @@
 ---
-id: HW-R4TTN5
+id: REQ-4D43YVF
 type: hardware-requirement
 title: Notify sensor readings — detail
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 tags:
   - security
   - EMC
-parent: HW-SJVQBM
-order: 10
+former-id: HW-R4TTN5
+parent: REQ-0TQ1X0C
+order: a0
 links:
   - type: refines
-    target: HW-SJVQBM
+    target: REQ-0TQ1X0C
     confirmed: 16f087762a47
 ---
 The tamper detection shall encrypt the room temperature at least once per minute.

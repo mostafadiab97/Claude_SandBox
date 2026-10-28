@@ -1,5 +1,5 @@
 ---
-id: TC-XPQ955
+id: REQ-EPB8RTF
 type: test-case
 title: "Verify: Local API detects the operating mode"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - cost
   - regulatory
   - ux
-parent: INFO-F0M7VC
-order: 1450
+former-id: TC-XPQ955
+parent: REQ-67RQXCK
+order: b1K
 links:
   - type: verifies
-    target: SYS-0MGEHH
+    target: REQ-HY0DZ5N
     confirmed: 342197138fa1
 ---
 **Objective:** verify that the local API behaves as specified.

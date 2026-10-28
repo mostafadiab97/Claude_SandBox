@@ -1,18 +1,19 @@
 ---
-id: SYS-8HSDWQ
+id: REQ-Z8ERP87
 type: system-requirement
 title: Mobile app restores energy consumption
 status: Draft
 priority: Medium
 owner: S. Adel
-parent: INFO-2XXBRS
-order: 60
+former-id: SYS-8HSDWQ
+parent: REQ-QYXGSQ4
+order: a5
 links:
   - type: refines
-    target: STK-4F6B1Y
+    target: REQ-5P7JDVE
     confirmed: 4a1d76b1da2c
   - type: mitigates
-    target: RSK-040M7X
+    target: REQ-0CSS0FS
     confirmed: fdb267eb1465
 ---
 The mobile app shall synchronise access tokens for up to 8 zones.

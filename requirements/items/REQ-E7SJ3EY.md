@@ -1,5 +1,5 @@
 ---
-id: IF-VMA938
+id: REQ-E7SJ3EY
 type: interface-requirement
 title: Over-temperature monitor stores the set point
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - safety
   - i18n
   - customer-request
-parent: SYS-B10NCR
-order: 20
+former-id: IF-VMA938
+parent: REQ-FC06TMM
+order: a1
 links:
   - type: refines
-    target: SYS-B10NCR
+    target: REQ-FC06TMM
     confirmed: 9a60e2a0df86
 ---
 The encryption layer shall synchronise the set point in under 3 s.

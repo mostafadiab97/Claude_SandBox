@@ -1,15 +1,16 @@
 ---
-id: HW-KF98B5
+id: REQ-3V4E70X
 type: hardware-requirement
 title: Notify error conditions — detail
 status: Draft
 priority: Medium
 owner: N. Kamal
-parent: HW-1HXVG6
-order: 10
+former-id: HW-KF98B5
+parent: REQ-6MYY7DB
+order: a0
 links:
   - type: refines
-    target: HW-1HXVG6
+    target: REQ-6MYY7DB
     confirmed: 6d0d839ebdb4
 ---
 The battery backup shall detect user preferences at least once per minute.

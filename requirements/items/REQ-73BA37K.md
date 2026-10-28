@@ -1,15 +1,16 @@
 ---
-id: IF-BYWE4V
+id: REQ-73BA37K
 type: interface-requirement
 title: Device registry encrypts schedule entries
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: SYS-SQM30D
-order: 10
+former-id: IF-BYWE4V
+parent: REQ-GHZMBVK
+order: a0
 links:
   - type: refines
-    target: SYS-SQM30D
+    target: REQ-GHZMBVK
     confirmed: 61b33a5fb3c5
 ---
 The telemetry pipeline shall detect access tokens in all supported languages.

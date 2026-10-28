@@ -1,5 +1,5 @@
 ---
-id: SW-4TR0HS
+id: REQ-TA82QB4
 type: software-requirement
 title: Display the operating mode — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - accessibility
   - regulatory
-parent: SW-7B2FV2
-order: 10
+former-id: SW-4TR0HS
+parent: REQ-N50B5GV
+order: a0
 links:
   - type: refines
-    target: SW-7B2FV2
+    target: REQ-N50B5GV
     confirmed: 31b6db799d67
 ---
 The menu system shall store the room temperature after a power loss.

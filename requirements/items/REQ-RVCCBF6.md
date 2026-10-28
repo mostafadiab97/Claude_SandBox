@@ -1,5 +1,5 @@
 ---
-id: SW-DZBTHB
+id: REQ-RVCCBF6
 type: software-requirement
 title: Log error conditions — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - cost
   - release-1.0
-parent: SW-C331FN
-order: 10
+former-id: SW-DZBTHB
+parent: REQ-D9WZPSF
+order: a0
 links:
   - type: refines
-    target: SW-C331FN
+    target: REQ-D9WZPSF
     confirmed: dbad8e7adb28
 ---
 The telemetry pipeline shall display the set point using AES-256-GCM.

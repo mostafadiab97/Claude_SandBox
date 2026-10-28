@@ -1,5 +1,5 @@
 ---
-id: TC-V8PNPQ
+id: REQ-FQAAXFB
 type: test-case
 title: "Verify: Telemetry pipeline displays error conditions"
 status: Obsolete
@@ -7,11 +7,12 @@ owner: Y. Saber
 tags:
   - security
   - release-2.0
-parent: INFO-7P4D8D
-order: 1670
+former-id: TC-V8PNPQ
+parent: REQ-8351896
+order: b1g
 links:
   - type: verifies
-    target: SYS-REMSS6
+    target: REQ-A3KEMF8
     confirmed: 987d596109aa
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

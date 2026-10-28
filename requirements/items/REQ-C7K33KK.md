@@ -1,5 +1,5 @@
 ---
-id: SW-9AQ6F8
+id: REQ-C7K33KK
 type: software-requirement
 title: Backlight validates audit records
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - i18n
   - security
-parent: SYS-TYH61D
-order: 20
+former-id: SW-9AQ6F8
+parent: REQ-92WJY75
+order: a1
 links:
   - type: refines
-    target: SYS-TYH61D
+    target: REQ-92WJY75
     confirmed: be2e7216bf63
 ---
 The touch display shall measure sensor readings below 0.5 W in standby.

@@ -1,15 +1,16 @@
 ---
-id: TC-7HH1KZ
+id: REQ-Q3PS521
 type: test-case
 title: Hub verification 16
 status: Approved
 priority: High
 owner: É. Laurent
-parent: INFO-ECHASH
-order: 250
+former-id: TC-7HH1KZ
+parent: REQ-6H15AV2
+order: aO
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

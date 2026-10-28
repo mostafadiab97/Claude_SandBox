@@ -1,5 +1,5 @@
 ---
-id: SW-DPB83C
+id: REQ-Y4VAR1Q
 type: software-requirement
 title: OTA server measures user preferences
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - regulatory
   - safety
-parent: SYS-AWQ3YN
-order: 20
+former-id: SW-DPB83C
+parent: REQ-BWMZ077
+order: a1
 links:
   - type: refines
-    target: SYS-AWQ3YN
+    target: REQ-BWMZ077
     confirmed: f3aedc76f0ed
 ---
 The user account service shall calibrate sensor readings in all supported languages.

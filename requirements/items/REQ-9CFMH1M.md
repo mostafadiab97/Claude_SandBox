@@ -1,5 +1,5 @@
 ---
-id: IF-VB3RPC
+id: REQ-9CFMH1M
 type: interface-requirement
 title: Encryption layer calibrates schedule entries
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - connectivity
   - release-1.0
-parent: SYS-ZAZTW7
-order: 30
+former-id: IF-VB3RPC
+parent: REQ-6HWZA41
+order: a2
 links:
   - type: refines
-    target: SYS-ZAZTW7
+    target: REQ-6HWZA41
     confirmed: d837048ec1c4
 ---
 The secure boot shall store firmware images after a power loss.

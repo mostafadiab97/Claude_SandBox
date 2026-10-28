@@ -1,15 +1,16 @@
 ---
-id: SW-EZ2P81
+id: REQ-50WXM5S
 type: software-requirement
 title: User account service displays sensor readings
 status: Approved
 priority: Medium
 owner: N. Kamal
-parent: SYS-ERJC40
-order: 20
+former-id: SW-EZ2P81
+parent: REQ-FGY59FP
+order: a1
 links:
   - type: refines
-    target: SYS-ERJC40
+    target: REQ-FGY59FP
     confirmed: f027b997b7f0
 ---
 The telemetry pipeline shall restore audit records for at least 10 years.

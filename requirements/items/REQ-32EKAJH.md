@@ -1,13 +1,14 @@
 ---
-id: RSK-WWC15S
+id: REQ-32EKAJH
 type: risk
 title: "Risk: heating controller fails to switch humidity values"
 status: Review
 priority: Medium
 tags:
   - connectivity
-parent: INFO-YNFB8N
-order: 100
+former-id: RSK-WWC15S
+parent: REQ-M63G69B
+order: a9
 ---
 **Hazard:** the heating controller could fail to authenticate the operating mode.
 

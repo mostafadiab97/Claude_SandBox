@@ -1,5 +1,5 @@
 ---
-id: DE-CT4J6R
+id: REQ-6QYJ02A
 type: design-element
 title: Module rotary_knob_81
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - cost
   - release-1.0
   - EMC
-parent: SW-MMXZS9
-order: 10
+former-id: DE-CT4J6R
+parent: REQ-P9MEPW0
+order: a0
 links:
   - type: implements
-    target: SW-MMXZS9
+    target: REQ-P9MEPW0
     confirmed: 4d7de777e332
 ---
 Implemented in `src/ui/rotary_knob.c`.

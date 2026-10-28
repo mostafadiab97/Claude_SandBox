@@ -1,5 +1,5 @@
 ---
-id: TC-FRZ3JJ
+id: REQ-0RY7R0P
 type: test-case
 title: "Verify: Mobile app stores humidity values"
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - performance
   - EMC
   - ux
-parent: INFO-J0FETE
-order: 430
+former-id: TC-FRZ3JJ
+parent: REQ-WR5ZJN9
+order: ag
 links:
   - type: verifies
-    target: SYS-ZM1TJV
+    target: REQ-TK8PFSP
     confirmed: d30e404e164e
   - type: verifies
-    target: SW-3Z17MT
+    target: REQ-GWHHVB1
     confirmed: 9c00155f291a
 ---
 **Objective:** verify that the mobile app behaves as specified.

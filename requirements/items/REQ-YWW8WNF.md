@@ -1,5 +1,5 @@
 ---
-id: SW-1K81MW
+id: REQ-YWW8WNF
 type: software-requirement
 title: Backlight synchronises humidity values
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - security
   - performance
   - safety
-parent: SYS-MVY23C
-order: 10
+former-id: SW-1K81MW
+parent: REQ-8G4VY21
+order: a0
 links:
   - type: refines
-    target: SYS-MVY23C
+    target: REQ-8G4VY21
     confirmed: c547c82cf252
 ---
 The backlight shall log user preferences within 200 ms.

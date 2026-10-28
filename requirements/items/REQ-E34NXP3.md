@@ -1,5 +1,5 @@
 ---
-id: TC-4WZDA4
+id: REQ-E34NXP3
 type: test-case
 title: "Verify: Watchdog measures relay events"
 status: Review
@@ -8,14 +8,15 @@ owner: N. Kamal
 tags:
   - safety
   - release-1.0
-parent: INFO-Z4TW4B
-order: 30
+former-id: TC-4WZDA4
+parent: REQ-K6FGAY0
+order: a2
 links:
   - type: verifies
-    target: SYS-V7ZK4B
+    target: REQ-EJBN4HC
     confirmed: d3ae0a8a942d
   - type: verifies
-    target: SW-720QYN
+    target: REQ-YNKMXPP
     confirmed: e0f62860c276
 ---
 **Objective:** verify that the watchdog behaves as specified.

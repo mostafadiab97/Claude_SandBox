@@ -1,16 +1,17 @@
 ---
-id: SW-HF72V9
+id: REQ-NCS2ES3
 type: software-requirement
 title: Measure access tokens — detail
 status: Approved
 owner: K. Tanaka
 tags:
   - accessibility
-parent: SW-FHMAYW
-order: 10
+former-id: SW-HF72V9
+parent: REQ-9D4XTVP
+order: a0
 links:
   - type: refines
-    target: SW-FHMAYW
+    target: REQ-9D4XTVP
     confirmed: bc7c21d025c0
 ---
 The heat pump driver shall encrypt the operating mode in all supported languages.

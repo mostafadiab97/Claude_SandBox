@@ -1,5 +1,5 @@
 ---
-id: DE-BCSQVZ
+id: REQ-2QK4KGN
 type: design-element
 title: Module telemetry_pipeline_67
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - connectivity
   - customer-request
-parent: SW-0H7T74
-order: 10
+former-id: DE-BCSQVZ
+parent: REQ-STC1968
+order: a0
 links:
   - type: implements
-    target: SW-0H7T74
+    target: REQ-STC1968
     confirmed: 907df0f7fe19
 ---
 Implemented in `src/cloud/telemetry_pipeline.c`.

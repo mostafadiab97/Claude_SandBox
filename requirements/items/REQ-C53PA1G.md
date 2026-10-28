@@ -1,14 +1,15 @@
 ---
-id: HW-NVGZHH
+id: REQ-C53PA1G
 type: hardware-requirement
 title: Main PCB logs relay events
 status: Draft
 owner: S. Adel
-parent: SYS-0033FV
-order: 40
+former-id: HW-NVGZHH
+parent: REQ-0K8FF43
+order: a3
 links:
   - type: refines
-    target: SYS-0033FV
+    target: REQ-0K8FF43
     confirmed: c4f0539f5269
 ---
 The main PCB shall store access tokens at least once per minute.

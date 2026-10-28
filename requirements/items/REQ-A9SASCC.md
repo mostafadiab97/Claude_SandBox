@@ -1,5 +1,5 @@
 ---
-id: SYS-2MTE37
+id: REQ-A9SASCC
 type: system-requirement
 title: Encryption layer encrypts energy consumption
 status: Obsolete
@@ -8,14 +8,15 @@ owner: R. Nabil
 tags:
   - security
   - safety
-parent: INFO-0229G8
-order: 1210
+former-id: SYS-2MTE37
+parent: REQ-H9113WA
+order: b0w
 links:
   - type: refines
-    target: STK-B4ZH98
+    target: REQ-PGNNV26
     confirmed: c19c22627f21
   - type: mitigates
-    target: RSK-WMRVBA
+    target: REQ-ADGDEYK
     confirmed: fb726ed12a32
 ---
 The encryption layer shall notify firmware images below 0.5 W in standby.

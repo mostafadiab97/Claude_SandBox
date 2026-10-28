@@ -1,5 +1,5 @@
 ---
-id: HW-BY7VKH
+id: REQ-7VNBZGW
 type: hardware-requirement
 title: Login screen switchs schedule entries
 status: Review
@@ -8,11 +8,12 @@ tags:
   - release-1.0
   - security
   - i18n
-parent: SYS-J17HQ6
-order: 20
+former-id: HW-BY7VKH
+parent: REQ-53SHBXS
+order: a1
 links:
   - type: refines
-    target: SYS-J17HQ6
+    target: REQ-53SHBXS
     confirmed: e0be285eec93
 ---
 The login screen shall encrypt the room temperature within 200 ms.

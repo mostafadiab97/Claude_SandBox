@@ -1,5 +1,5 @@
 ---
-id: TC-YB2WYW
+id: REQ-XK7VK2F
 type: test-case
 title: "Verify: Notification service validates the room temperature"
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: S. Adel
 tags:
   - performance
-parent: INFO-J0FETE
-order: 1120
+former-id: TC-YB2WYW
+parent: REQ-WR5ZJN9
+order: b0n
 links:
   - type: verifies
-    target: SYS-8AGCNN
+    target: REQ-NE4H9GZ
     confirmed: 494337b838a6
 ---
 **Objective:** verify that the notification service behaves as specified.

@@ -1,16 +1,17 @@
 ---
-id: SW-26TY15
+id: REQ-96S91BR
 type: software-requirement
 title: Secure boot restores the connection state
 status: Approved
 owner: J. Müller
 tags:
   - release-1.0
-parent: SYS-ABZP07
-order: 20
+former-id: SW-26TY15
+parent: REQ-RB03G7X
+order: a1
 links:
   - type: refines
-    target: SYS-ABZP07
+    target: REQ-RB03G7X
     confirmed: fada4baa41ba
 ---
 The tamper detection shall restore schedule entries for at least 10 years.

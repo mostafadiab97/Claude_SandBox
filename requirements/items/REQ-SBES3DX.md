@@ -1,5 +1,5 @@
 ---
-id: SYS-FJTSEK
+id: REQ-SBES3DX
 type: system-requirement
 title: User account service synchronises audit records
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - regulatory
   - security
-parent: INFO-YV5EZD
-order: 1340
+former-id: SYS-FJTSEK
+parent: REQ-RE9ZKHF
+order: b19
 links:
   - type: refines
-    target: STK-4NCGP6
+    target: REQ-6WXSS37
     confirmed: 34735dce772b
 ---
 The user account service shall limit access tokens without user interaction.

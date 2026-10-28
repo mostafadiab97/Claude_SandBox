@@ -1,14 +1,15 @@
 ---
-id: TC-H22W0B
+id: REQ-2SWMJSK
 type: test-case
 title: "Verify: Enclosure stores humidity values"
 status: Obsolete
 owner: N. Kamal
-parent: INFO-MACGC3
-order: 250
+former-id: TC-H22W0B
+parent: REQ-F9Z1FYS
+order: aO
 links:
   - type: verifies
-    target: SYS-SSMA7A
+    target: REQ-6G1HCGG
     confirmed: 5a9608084436
 ---
 **Objective:** verify that the enclosure behaves as specified.

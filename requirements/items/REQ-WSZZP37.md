@@ -1,5 +1,5 @@
 ---
-id: SYS-YFE8GX
+id: REQ-WSZZP37
 type: system-requirement
 title: Power supply restores error conditions
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - performance
   - release-2.0
-parent: INFO-A6P9A8
-order: 120
+former-id: SYS-YFE8GX
+parent: REQ-CMCS31A
+order: aB
 links:
   - type: refines
-    target: STK-TT8FXG
+    target: REQ-S1GZKZX
     confirmed: 85d87c7e9a76
 ---
 The power supply shall encrypt the room temperature at least once per minute.

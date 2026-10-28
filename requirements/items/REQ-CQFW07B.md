@@ -1,5 +1,5 @@
 ---
-id: SW-4TXYAM
+id: REQ-CQFW07B
 type: software-requirement
 title: Restore audit records — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - cost
   - safety
-parent: SW-WE02C8
-order: 10
+former-id: SW-4TXYAM
+parent: REQ-DX9KP7R
+order: a0
 links:
   - type: refines
-    target: SW-WE02C8
+    target: REQ-DX9KP7R
     confirmed: d3a35f35c442
 ---
 The Zigbee radio shall limit relay events using AES-256-GCM.

@@ -1,5 +1,5 @@
 ---
-id: HW-71FW12
+id: REQ-CETFPK8
 type: hardware-requirement
 title: Display the operating mode — detail
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - cost
   - performance
   - safety
-parent: HW-2X6N3X
-order: 10
+former-id: HW-71FW12
+parent: REQ-F4JHXWH
+order: a0
 links:
   - type: refines
-    target: HW-2X6N3X
+    target: REQ-F4JHXWH
     confirmed: 2a680cc4c92e
 ---
 The OTA server shall synchronise relay events after a power loss.

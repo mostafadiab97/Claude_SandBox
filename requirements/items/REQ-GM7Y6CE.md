@@ -1,19 +1,20 @@
 ---
-id: SYS-WFZVWZ
+id: REQ-GM7Y6CE
 type: system-requirement
 title: Battery backup encrypts the room temperature
 status: Approved
 priority: Medium
 tags:
   - connectivity
-parent: INFO-A6P9A8
-order: 260
+former-id: SYS-WFZVWZ
+parent: REQ-CMCS31A
+order: aP
 links:
   - type: refines
-    target: STK-ZWN5M8
+    target: REQ-Z2PYD5A
     confirmed: 994b9d44bde8
   - type: mitigates
-    target: RSK-07S1SA
+    target: REQ-8A2W42C
     confirmed: 750339751af7
 ---
 The battery backup shall measure sensor readings with an accuracy of ±0.5 °C.

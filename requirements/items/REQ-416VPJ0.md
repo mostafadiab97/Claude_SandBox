@@ -1,15 +1,16 @@
 ---
-id: TC-XHP8D2
+id: REQ-416VPJ0
 type: test-case
 title: "Regression: Cloud backend detects audit records"
 status: Approved
 priority: Low
 owner: محمد علي
-parent: INFO-ECHASH
-order: 2130
+former-id: TC-XHP8D2
+parent: REQ-6H15AV2
+order: b2Q
 links:
   - type: verifies
-    target: SYS-1F54XW
+    target: REQ-5FT15N5
     confirmed: 63e961a2987d
 ---
 **Objective:** verify that the device behaves as specified.

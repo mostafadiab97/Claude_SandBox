@@ -1,15 +1,16 @@
 ---
-id: TC-YN4Q7J
+id: REQ-AG5VSMG
 type: test-case
 title: "Verify: Battery backup encrypts access tokens"
 status: Review
 priority: High
 owner: J. Müller
-parent: INFO-MACGC3
-order: 490
+former-id: TC-YN4Q7J
+parent: REQ-F9Z1FYS
+order: am
 links:
   - type: verifies
-    target: SYS-XF4596
+    target: REQ-CAS9GKT
     confirmed: a0439b97be28
 ---
 **Objective:** verify that the battery backup behaves as specified.

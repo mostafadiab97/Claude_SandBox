@@ -1,15 +1,16 @@
 ---
-id: HW-4M82G1
+id: REQ-BQYNN75
 type: hardware-requirement
 title: Power supply calibrates energy consumption
 status: Approved
 priority: High
 owner: M. Farouk
-parent: SYS-5C94DF
-order: 30
+former-id: HW-4M82G1
+parent: REQ-4CBY78D
+order: a2
 links:
   - type: refines
-    target: SYS-5C94DF
+    target: REQ-4CBY78D
     confirmed: c00f25df31a0
 ---
 The main PCB shall encrypt firmware images after a power loss.

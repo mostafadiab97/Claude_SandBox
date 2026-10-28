@@ -1,5 +1,5 @@
 ---
-id: SYS-6QFCF2
+id: REQ-3P9VR9B
 type: system-requirement
 title: OTA server stores audit records
 status: Draft
@@ -7,14 +7,15 @@ priority: High
 owner: L. Samir
 tags:
   - i18n
-parent: INFO-YV5EZD
-order: 540
+former-id: SYS-6QFCF2
+parent: REQ-RE9ZKHF
+order: ar
 links:
   - type: refines
-    target: STK-JFBQPS
+    target: REQ-A8X8PTB
     confirmed: 5027ee1822eb
   - type: mitigates
-    target: RSK-HKANA4
+    target: REQ-W55MEDH
     confirmed: dc7034353f37
 ---
 The OTA server shall authenticate relay events for at least 10 years.

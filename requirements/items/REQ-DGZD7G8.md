@@ -1,15 +1,16 @@
 ---
-id: SYS-MNWAKG
+id: REQ-DGZD7G8
 type: system-requirement
 title: OTA server measures the set point
 status: Approved
 priority: High
 owner: R. Nabil
-parent: INFO-YV5EZD
-order: 360
+former-id: SYS-MNWAKG
+parent: REQ-RE9ZKHF
+order: aZ
 links:
   - type: refines
-    target: STK-DKX022
+    target: REQ-YP9KVDK
     confirmed: a534e573be6a
 ---
 The OTA server shall limit relay events for up to 8 zones.

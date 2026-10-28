@@ -1,15 +1,16 @@
 ---
-id: TC-DSMCJ9
+id: REQ-YT5MCPX
 type: test-case
 title: "Verify: OTA server validates relay events"
 status: Obsolete
 priority: High
 owner: Y. Saber
-parent: INFO-7P4D8D
-order: 1350
+former-id: TC-DSMCJ9
+parent: REQ-8351896
+order: b1A
 links:
   - type: verifies
-    target: SYS-9BKWE6
+    target: REQ-2ERK7CD
     confirmed: 69aa4344ccec
 ---
 **Objective:** verify that the OTA server behaves as specified.

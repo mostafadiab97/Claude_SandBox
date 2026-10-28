@@ -1,5 +1,5 @@
 ---
-id: SW-7WZ77J
+id: REQ-XJP4GDS
 type: software-requirement
 title: Pairing process synchronises access tokens
 status: Review
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - cost
   - EMC
-parent: SYS-4VCYRM
-order: 40
+former-id: SW-7WZ77J
+parent: REQ-Y5TQ0M6
+order: a3
 links:
   - type: refines
-    target: SYS-4VCYRM
+    target: REQ-Y5TQ0M6
     confirmed: d32333e735ba
 ---
 The Wi-Fi module shall authenticate schedule entries for at least 10 years.

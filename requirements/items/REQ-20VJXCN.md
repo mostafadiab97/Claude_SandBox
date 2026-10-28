@@ -1,5 +1,5 @@
 ---
-id: DE-3590H0
+id: REQ-20VJXCN
 type: design-element
 title: Module encryption_layer_8
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - safety
   - i18n
-parent: SW-655NXX
-order: 10
+former-id: DE-3590H0
+parent: REQ-AG5CXRA
+order: a0
 links:
   - type: implements
-    target: SW-655NXX
+    target: REQ-AG5CXRA
     confirmed: 17d4a1abb013
 ---
 Implemented in `src/safe/encryption_layer.c`.

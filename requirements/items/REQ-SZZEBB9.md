@@ -1,14 +1,15 @@
 ---
-id: IF-9Q9943
+id: REQ-SZZEBB9
 type: interface-requirement
 title: Zigbee radio synchronises energy consumption
 status: Draft
 priority: Medium
-parent: SYS-ZKTQQ8
-order: 10
+former-id: IF-9Q9943
+parent: REQ-GAN1A2X
+order: a0
 links:
   - type: refines
-    target: SYS-ZKTQQ8
+    target: REQ-GAN1A2X
     confirmed: 495d5a5d64dd
 ---
 The local API shall store error conditions for at least 10 years.

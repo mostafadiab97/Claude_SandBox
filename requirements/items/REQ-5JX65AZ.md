@@ -1,5 +1,5 @@
 ---
-id: TC-VM6XAF
+id: REQ-5JX65AZ
 type: test-case
 title: "Verify: Mobile app switchs the operating mode"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - i18n
   - performance
   - security
-parent: INFO-J0FETE
-order: 1010
+former-id: TC-VM6XAF
+parent: REQ-WR5ZJN9
+order: b0c
 links:
   - type: verifies
-    target: SYS-ZENQH5
+    target: REQ-XDK478A
     confirmed: 2ab203b72e19
 ---
 **Objective:** verify that the mobile app behaves as specified.

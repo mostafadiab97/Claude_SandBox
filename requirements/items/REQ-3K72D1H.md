@@ -1,5 +1,5 @@
 ---
-id: SYS-TKG0RV
+id: REQ-3K72D1H
 type: system-requirement
 title: Backlight authenticates access tokens
 status: Approved
@@ -8,14 +8,15 @@ owner: J. Müller
 tags:
   - connectivity
   - accessibility
-parent: INFO-PDR6FV
-order: 1930
+former-id: SYS-TKG0RV
+parent: REQ-2ZA2TRZ
+order: b26
 links:
   - type: refines
-    target: STK-XZPKF8
+    target: REQ-3QFE217
     confirmed: f082d5e65a7a
   - type: mitigates
-    target: RSK-81XFR0
+    target: REQ-E5T2N3D
     confirmed: df837fe8b253
 ---
 The backlight shall limit the connection state after a power loss.

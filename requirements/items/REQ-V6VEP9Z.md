@@ -1,15 +1,16 @@
 ---
-id: SW-J5T77Z
+id: REQ-V6VEP9Z
 type: software-requirement
 title: Calibrate the room temperature — detail
 status: Draft
 priority: High
 owner: H. Mostafa
-parent: SW-6NN6D8
-order: 10
+former-id: SW-J5T77Z
+parent: REQ-44RVAVQ
+order: a0
 links:
   - type: refines
-    target: SW-6NN6D8
+    target: REQ-44RVAVQ
     confirmed: c1cec029ee21
 ---
 The menu system shall limit audit records below 0.5 W in standby.

@@ -1,5 +1,5 @@
 ---
-id: DEF-58P0G1
+id: REQ-D6SG4SB
 type: defect
 title: "Defect: Zigbee radio does not log error conditions"
 status: Review
@@ -8,14 +8,15 @@ tags:
   - safety
   - cost
   - customer-request
-parent: INFO-Y69DRS
-order: 90
+former-id: DEF-58P0G1
+parent: REQ-YW554H8
+order: a8
 links:
   - type: relates-to
-    target: TC-DS30DM
+    target: REQ-HCBWGQC
     confirmed: 2b097e682e6c
   - type: relates-to
-    target: SYS-3PRD5R
+    target: REQ-3HC3EJ1
     confirmed: 582bb4e31c0f
 ---
 Found during regression testing of build 2.5.21.

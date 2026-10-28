@@ -1,14 +1,15 @@
 ---
-id: TC-5DJV59
+id: REQ-TQ7D67B
 type: test-case
 title: "Verify: Local API stores the connection state"
 status: Approved
 owner: L. Samir
-parent: INFO-F0M7VC
-order: 1000
+former-id: TC-5DJV59
+parent: REQ-67RQXCK
+order: b0b
 links:
   - type: verifies
-    target: SYS-XFHV81
+    target: REQ-6Y7ZTW0
     confirmed: cd27f13dbcce
 ---
 **Objective:** verify that the local API behaves as specified.

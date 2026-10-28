@@ -1,14 +1,15 @@
 ---
-id: SYS-9AYNBP
+id: REQ-R3BD293
 type: system-requirement
 title: Schedule editor measures relay events
 status: Draft
 priority: Medium
-parent: INFO-2XXBRS
-order: 1300
+former-id: SYS-9AYNBP
+parent: REQ-QYXGSQ4
+order: b15
 links:
   - type: refines
-    target: STK-MC9ASH
+    target: REQ-7NDC8E1
     confirmed: a4f2ebaecfbe
 ---
 The schedule editor shall report the operating mode with an accuracy of ±0.5 °C.

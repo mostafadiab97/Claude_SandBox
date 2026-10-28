@@ -1,5 +1,5 @@
 ---
-id: SW-3KW0YD
+id: REQ-G218DN1
 type: software-requirement
 title: Login screen restores humidity values
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: R. Nabil
 tags:
   - regulatory
-parent: SYS-MW6N7P
-order: 40
+former-id: SW-3KW0YD
+parent: REQ-7P088ZG
+order: a3
 links:
   - type: refines
-    target: SYS-MW6N7P
+    target: REQ-7P088ZG
     confirmed: 1f77718986ec
 ---
 The home dashboard shall validate energy consumption with an accuracy of ±0.5 °C.

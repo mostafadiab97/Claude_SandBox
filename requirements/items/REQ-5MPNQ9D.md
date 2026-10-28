@@ -1,5 +1,5 @@
 ---
-id: SW-JWM6SP
+id: REQ-5MPNQ9D
 type: software-requirement
 title: Cloud backend logs user preferences
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - cost
   - customer-request
-parent: SYS-DQWVMQ
-order: 30
+former-id: SW-JWM6SP
+parent: REQ-0HCJCVP
+order: a2
 links:
   - type: refines
-    target: SYS-DQWVMQ
+    target: REQ-0HCJCVP
     confirmed: 7c9cac507365
 ---
 The user account service shall store the room temperature using AES-256-GCM.

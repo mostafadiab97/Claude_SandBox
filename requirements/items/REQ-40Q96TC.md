@@ -1,15 +1,16 @@
 ---
-id: SW-59W6NC
+id: REQ-40Q96TC
 type: software-requirement
 title: Watchdog stores firmware images
 status: Approved
 priority: Low
 owner: L. Samir
-parent: SYS-8JRVNP
-order: 10
+former-id: SW-59W6NC
+parent: REQ-WN9V1AY
+order: a0
 links:
   - type: refines
-    target: SYS-8JRVNP
+    target: REQ-WN9V1AY
     confirmed: 947f4568b2cf
 ---
 The encryption layer shall measure user preferences at least once per minute.

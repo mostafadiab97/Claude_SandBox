@@ -1,15 +1,16 @@
 ---
-id: HW-VW80WA
+id: REQ-3W441VR
 type: hardware-requirement
 title: Encrypt the set point — detail
 status: Approved
 priority: High
 owner: A. Hassan
-parent: HW-0C67M1
-order: 10
+former-id: HW-VW80WA
+parent: REQ-M95A6SS
+order: a0
 links:
   - type: refines
-    target: HW-0C67M1
+    target: REQ-M95A6SS
     confirmed: bc43b8bf2879
 ---
 The battery backup shall log firmware images using AES-256-GCM.

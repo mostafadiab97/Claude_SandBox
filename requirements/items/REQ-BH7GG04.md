@@ -1,5 +1,5 @@
 ---
-id: TC-1JG1XK
+id: REQ-BH7GG04
 type: test-case
 title: "Verify: Regulation loop displays sensor readings"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - cost
   - safety
   - ux
-parent: INFO-MS9DAG
-order: 1550
+former-id: TC-1JG1XK
+parent: REQ-XGWSK2K
+order: b1U
 links:
   - type: verifies
-    target: SYS-SBQD9X
+    target: REQ-XYGBK0A
     confirmed: b68c6c32bb30
 ---
 **Objective:** verify that the regulation loop behaves as specified.

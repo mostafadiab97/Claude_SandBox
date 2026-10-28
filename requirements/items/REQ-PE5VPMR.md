@@ -1,5 +1,5 @@
 ---
-id: IF-87FPP7
+id: REQ-PE5VPMR
 type: interface-requirement
 title: Relay board validates audit records
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - cost
-parent: SYS-1T0TAM
-order: 30
+former-id: IF-87FPP7
+parent: REQ-Z7WZKTX
+order: a2
 links:
   - type: refines
-    target: SYS-1T0TAM
+    target: REQ-Z7WZKTX
     confirmed: 834d1bdeda5b
 ---
 The battery backup shall notify energy consumption with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: SW-HGBJZZ
+id: REQ-EPMMJ7J
 type: software-requirement
 title: Heating controller displays safety limits
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - performance
   - accessibility
-parent: SYS-G3EJDX
-order: 10
+former-id: SW-HGBJZZ
+parent: REQ-42QCGS2
+order: a0
 links:
   - type: refines
-    target: SYS-G3EJDX
+    target: REQ-42QCGS2
     confirmed: 949315efbc71
 ---
 The regulation loop shall synchronise audit records below 0.5 W in standby.

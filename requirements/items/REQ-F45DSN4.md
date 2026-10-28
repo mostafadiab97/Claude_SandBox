@@ -1,5 +1,5 @@
 ---
-id: TC-RKHR01
+id: REQ-F45DSN4
 type: test-case
 title: "Verify: Pairing process calibrates sensor readings"
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: K. Tanaka
 tags:
   - regulatory
-parent: INFO-F0M7VC
-order: 100
+former-id: TC-RKHR01
+parent: REQ-67RQXCK
+order: a9
 links:
   - type: verifies
-    target: SYS-ZM6XAB
+    target: REQ-TYX8GHS
     confirmed: c51c3d1319da
 ---
 **Objective:** verify that the pairing process behaves as specified.

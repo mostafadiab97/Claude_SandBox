@@ -1,5 +1,5 @@
 ---
-id: SW-8Y660V
+id: REQ-QK81C4N
 type: software-requirement
 title: Zone valve notifys energy consumption
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: A. Hassan
 tags:
   - release-2.0
-parent: SYS-NBT9XG
-order: 10
+former-id: SW-8Y660V
+parent: REQ-TT6RF80
+order: a0
 links:
   - type: refines
-    target: SYS-NBT9XG
+    target: REQ-TT6RF80
     confirmed: 61b403d3e0a5
 ---
 The heating controller shall validate the connection state for at least 10 years.

@@ -1,5 +1,5 @@
 ---
-id: TC-6H818Z
+id: REQ-8BPH1VX
 type: test-case
 title: "Verify: Zigbee radio authenticates error conditions"
 status: Review
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - EMC
   - release-2.0
-parent: INFO-F0M7VC
-order: 250
+former-id: TC-6H818Z
+parent: REQ-67RQXCK
+order: aO
 links:
   - type: verifies
-    target: SYS-322R8M
+    target: REQ-4M2X9JP
     confirmed: 1d6119b63fd8
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

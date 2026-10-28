@@ -1,16 +1,17 @@
 ---
-id: SW-G4NP41
+id: REQ-P1S9PBT
 type: software-requirement
 title: Bluetooth LE link stores firmware images
 status: Draft
 owner: J. Müller
 tags:
   - ux
-parent: SYS-QKH3DT
-order: 10
+former-id: SW-G4NP41
+parent: REQ-RHQ31WJ
+order: a0
 links:
   - type: refines
-    target: SYS-QKH3DT
+    target: REQ-RHQ31WJ
     confirmed: 531d33ab57d8
 ---
 The Wi-Fi module shall limit error conditions in under 3 s.

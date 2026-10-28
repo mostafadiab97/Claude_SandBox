@@ -1,15 +1,16 @@
 ---
-id: TC-BZM3TM
+id: REQ-BVR7RCM
 type: test-case
 title: "Verify: Over-temperature monitor logs access tokens"
 status: Obsolete
 priority: High
 owner: É. Laurent
-parent: INFO-Z4TW4B
-order: 510
+former-id: TC-BZM3TM
+parent: REQ-K6FGAY0
+order: ao
 links:
   - type: verifies
-    target: SYS-MK13B0
+    target: REQ-7XBRPQY
     confirmed: 37b1ff049bc6
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: TC-GVAWSP
+id: REQ-XJMBZGS
 type: test-case
 title: "Verify: Zone valve validates safety limits"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - safety
   - i18n
   - security
-parent: INFO-MS9DAG
-order: 30
+former-id: TC-GVAWSP
+parent: REQ-XGWSK2K
+order: a2
 links:
   - type: verifies
-    target: SYS-HT1YEZ
+    target: REQ-86H3X48
     confirmed: 55deeba83d7e
 ---
 **Objective:** verify that the zone valve behaves as specified.

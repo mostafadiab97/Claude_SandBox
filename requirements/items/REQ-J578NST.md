@@ -1,5 +1,5 @@
 ---
-id: HW-6ZPT2V
+id: REQ-J578NST
 type: hardware-requirement
 title: Login screen authenticates humidity values
 status: Obsolete
@@ -8,11 +8,12 @@ tags:
   - performance
   - connectivity
   - release-2.0
-parent: SYS-C7F4NR
-order: 30
+former-id: HW-6ZPT2V
+parent: REQ-ZZSZP4X
+order: a2
 links:
   - type: refines
-    target: SYS-C7F4NR
+    target: REQ-ZZSZP4X
     confirmed: 4dbda585baa8
 ---
 The schedule editor shall detect energy consumption below 0.5 W in standby.

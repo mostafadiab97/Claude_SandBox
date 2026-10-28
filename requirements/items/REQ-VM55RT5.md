@@ -1,5 +1,5 @@
 ---
-id: SW-A2KNB8
+id: REQ-VM55RT5
 type: software-requirement
 title: Home dashboard stores error conditions
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - EMC
   - security
-parent: SYS-APGJQA
-order: 20
+former-id: SW-A2KNB8
+parent: REQ-NQHP2YC
+order: a1
 links:
   - type: refines
-    target: SYS-APGJQA
+    target: REQ-NQHP2YC
     confirmed: "45019195e843"
 ---
 The login screen shall restore audit records in under 3 s.

@@ -1,5 +1,5 @@
 ---
-id: HW-B4S4RW
+id: REQ-E3SJ5JS
 type: hardware-requirement
 title: Battery backup authenticates the room temperature
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - cost
   - security
   - connectivity
-parent: SYS-RAHT6W
-order: 20
+former-id: HW-B4S4RW
+parent: REQ-NY9MZ17
+order: a1
 links:
   - type: refines
-    target: SYS-RAHT6W
+    target: REQ-NY9MZ17
     confirmed: 3ed84532df89
 ---
 The main PCB shall switch safety limits when the network is unavailable.

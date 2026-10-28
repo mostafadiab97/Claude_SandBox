@@ -1,5 +1,5 @@
 ---
-id: SW-WC2ECV
+id: REQ-FPJ4X5D
 type: software-requirement
 title: Menu system limits energy consumption
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - ux
   - release-1.0
-parent: SYS-7BE6SJ
-order: 20
+former-id: SW-WC2ECV
+parent: REQ-RGWCAM4
+order: a1
 links:
   - type: refines
-    target: SYS-7BE6SJ
+    target: REQ-RGWCAM4
     confirmed: 39695d94f21a
 ---
 The rotary knob shall limit the connection state after a power loss.

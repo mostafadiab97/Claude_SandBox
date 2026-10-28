@@ -1,18 +1,19 @@
 ---
-id: DEF-WYS1MT
+id: REQ-TDV3VSY
 type: defect
 title: "Defect: enclosure does not authenticate audit records"
 status: Approved
 priority: High
 owner: Y. Saber
-parent: INFO-BB7M2N
-order: 120
+former-id: DEF-WYS1MT
+parent: REQ-995FBPM
+order: aB
 links:
   - type: relates-to
-    target: TC-XJAF7S
+    target: REQ-7MZ77RW
     confirmed: 90e1c054b755
   - type: relates-to
-    target: SYS-FN6K6C
+    target: REQ-GWKMKHF
     confirmed: de635490bacc
 ---
 Found during regression testing of build 2.5.10.

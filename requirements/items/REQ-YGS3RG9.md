@@ -1,5 +1,5 @@
 ---
-id: TC-30HZ7Q
+id: REQ-YGS3RG9
 type: test-case
 title: "Verify: OTA server stores audit records"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - accessibility
   - EMC
-parent: INFO-7P4D8D
-order: 450
+former-id: TC-30HZ7Q
+parent: REQ-8351896
+order: ai
 links:
   - type: verifies
-    target: SYS-6QFCF2
+    target: REQ-3P9VR9B
     confirmed: d9f6d0d7d66b
 ---
 **Objective:** verify that the OTA server behaves as specified.

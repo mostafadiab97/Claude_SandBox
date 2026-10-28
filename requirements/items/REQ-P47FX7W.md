@@ -1,5 +1,5 @@
 ---
-id: TC-W0G022
+id: REQ-P47FX7W
 type: test-case
 title: "Verify: Zigbee radio authenticates sensor readings"
 status: Approved
@@ -7,14 +7,15 @@ priority: High
 tags:
   - power
   - performance
-parent: INFO-F0M7VC
-order: 820
+former-id: TC-W0G022
+parent: REQ-67RQXCK
+order: b0J
 links:
   - type: verifies
-    target: SYS-BCDQHB
+    target: REQ-V7MAHMN
     confirmed: ed0bba187a94
   - type: verifies
-    target: SW-CP2WPQ
+    target: REQ-TBRYG7Y
     confirmed: cc0d6741f1cb
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

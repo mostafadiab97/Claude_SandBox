@@ -1,5 +1,5 @@
 ---
-id: TC-DVP3JC
+id: REQ-3SRQM22
 type: test-case
 title: "Verify: OTA server logs error conditions"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - release-2.0
-parent: INFO-7P4D8D
-order: 350
+former-id: TC-DVP3JC
+parent: REQ-8351896
+order: aY
 links:
   - type: verifies
-    target: SYS-58H7WQ
+    target: REQ-HZVK2C0
     confirmed: 4ec07940ffd5
 ---
 **Objective:** verify that the OTA server behaves as specified.

@@ -1,14 +1,15 @@
 ---
-id: IF-BJ75HA
+id: REQ-BT1T9T2
 type: interface-requirement
 title: Main PCB logs error conditions
 status: Obsolete
 priority: High
-parent: SYS-RK543Q
-order: 20
+former-id: IF-BJ75HA
+parent: REQ-4BYNG6Z
+order: a1
 links:
   - type: refines
-    target: SYS-RK543Q
+    target: REQ-4BYNG6Z
     confirmed: fe331aa72f1d
 ---
 The main PCB shall switch access tokens after a power loss.

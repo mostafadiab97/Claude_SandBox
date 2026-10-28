@@ -1,5 +1,5 @@
 ---
-id: SYS-NDHES6
+id: REQ-G2BN668
 type: system-requirement
 title: Menu system logs user preferences
 status: Obsolete
@@ -8,11 +8,12 @@ tags:
   - regulatory
   - cost
   - accessibility
-parent: INFO-PDR6FV
-order: 350
+former-id: SYS-NDHES6
+parent: REQ-2ZA2TRZ
+order: aY
 links:
   - type: refines
-    target: STK-BV5YMS
+    target: REQ-XR7FDXB
     confirmed: 07434b0b5615
 ---
 The menu system shall switch relay events below 0.5 W in standby.

@@ -1,15 +1,16 @@
 ---
-id: SW-8MTYX9
+id: REQ-WXKFWYP
 type: software-requirement
 title: Zigbee radio displays humidity values
 status: Approved
 priority: High
 owner: A. Hassan
-parent: SYS-V3JY7R
-order: 30
+former-id: SW-8MTYX9
+parent: REQ-Y2QCE6V
+order: a2
 links:
   - type: refines
-    target: SYS-V3JY7R
+    target: REQ-Y2QCE6V
     confirmed: a0359a8db234
 ---
 The Zigbee radio shall authenticate firmware images without user interaction.

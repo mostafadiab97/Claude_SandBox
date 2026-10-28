@@ -1,15 +1,16 @@
 ---
-id: IF-K6G3WB
+id: REQ-TTTP05G
 type: interface-requirement
 title: Pairing process encrypts access tokens
 status: Approved
 priority: Low
 owner: S. Adel
-parent: SYS-A7YDK8
-order: 20
+former-id: IF-K6G3WB
+parent: REQ-T2F4GRB
+order: a1
 links:
   - type: refines
-    target: SYS-A7YDK8
+    target: REQ-T2F4GRB
     confirmed: 7e2bc805b2de
 ---
 The pairing process shall measure relay events in all supported languages.

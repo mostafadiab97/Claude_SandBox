@@ -1,15 +1,16 @@
 ---
-id: HW-ATA4KC
+id: REQ-VP2VW4A
 type: hardware-requirement
 title: Schedule editor logs firmware images
 status: Review
 priority: High
 owner: H. Mostafa
-parent: SYS-Y5A2W4
-order: 10
+former-id: HW-ATA4KC
+parent: REQ-AYS83WR
+order: a0
 links:
   - type: refines
-    target: SYS-Y5A2W4
+    target: REQ-AYS83WR
     confirmed: 2f4f67b6a494
 ---
 The notification service shall log schedule entries below 0.5 W in standby.

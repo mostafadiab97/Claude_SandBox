@@ -1,5 +1,5 @@
 ---
-id: TC-1RD5AV
+id: REQ-82NB2AE
 type: test-case
 title: "Verify: Home dashboard restores energy consumption"
 status: Draft
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - security
   - regulatory
-parent: INFO-J0FETE
-order: 500
+former-id: TC-1RD5AV
+parent: REQ-WR5ZJN9
+order: an
 links:
   - type: verifies
-    target: SYS-S2EZJF
+    target: REQ-6ESJ1D4
     confirmed: b0a3b18f1cfd
 ---
 **Objective:** verify that the home dashboard behaves as specified.

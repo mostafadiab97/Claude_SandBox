@@ -1,18 +1,19 @@
 ---
-id: DEF-XFSBBS
+id: REQ-WAPA61F
 type: defect
 title: "Defect: touch display does not display sensor readings"
 status: Draft
 priority: Medium
 owner: محمد علي
-parent: INFO-7HY7F9
-order: 180
+former-id: DEF-XFSBBS
+parent: REQ-HFYH0KW
+order: aH
 links:
   - type: relates-to
-    target: TC-7TQASG
+    target: REQ-BPH9EEW
     confirmed: d369cf7315f8
   - type: relates-to
-    target: SYS-56D65V
+    target: REQ-FMXF1V3
     confirmed: 2b18c8ee9832
 ---
 Found during regression testing of build 2.8.31.

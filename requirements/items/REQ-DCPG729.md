@@ -1,5 +1,5 @@
 ---
-id: TC-AQCVKV
+id: REQ-DCPG729
 type: test-case
 title: "Verify: Zone valve detects access tokens"
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - accessibility
   - release-1.0
-parent: INFO-MS9DAG
-order: 1320
+former-id: TC-AQCVKV
+parent: REQ-XGWSK2K
+order: b17
 links:
   - type: verifies
-    target: SYS-TC4ZEM
+    target: REQ-PYT0J5S
     confirmed: 36689a624b77
 ---
 **Objective:** verify that the zone valve behaves as specified.

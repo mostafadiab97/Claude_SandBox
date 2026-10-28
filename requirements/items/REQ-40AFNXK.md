@@ -1,5 +1,5 @@
 ---
-id: SW-RB976T
+id: REQ-40AFNXK
 type: software-requirement
 title: Backlight logs the set point
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - EMC
   - performance
-parent: SYS-M3FMZZ
-order: 20
+former-id: SW-RB976T
+parent: REQ-2965TER
+order: a1
 links:
   - type: refines
-    target: SYS-M3FMZZ
+    target: REQ-2965TER
     confirmed: 462438fa0d84
 ---
 The status LED shall log user preferences without user interaction.

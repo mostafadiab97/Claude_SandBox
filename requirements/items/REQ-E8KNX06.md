@@ -1,14 +1,15 @@
 ---
-id: SYS-2XRBY7
+id: REQ-E8KNX06
 type: system-requirement
 title: Power supply logs the operating mode
 status: Approved
 owner: R. Nabil
-parent: INFO-A6P9A8
-order: 2070
+former-id: SYS-2XRBY7
+parent: REQ-CMCS31A
+order: b2K
 links:
   - type: refines
-    target: STK-KEP05J
+    target: REQ-PRMNGRJ
     confirmed: 74304e03fe52
 ---
 The power supply shall store access tokens below 0.5 W in standby.

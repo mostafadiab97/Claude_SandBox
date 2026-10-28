@@ -1,14 +1,15 @@
 ---
-id: TC-VKTX8H
+id: REQ-MPCS960
 type: test-case
 title: Hub verification 12
 status: Approved
 priority: High
-parent: INFO-ECHASH
-order: 210
+former-id: TC-VKTX8H
+parent: REQ-6H15AV2
+order: aK
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 4639507190ed
 ---
 **Objective:** verify that the thermostat behaves as specified.

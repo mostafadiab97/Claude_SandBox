@@ -1,5 +1,5 @@
 ---
-id: IF-NX4KQJ
+id: REQ-CZR1WYC
 type: interface-requirement
 title: Heating controller limits the connection state
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - i18n
-parent: SYS-HWK1PW
-order: 40
+former-id: IF-NX4KQJ
+parent: REQ-0857XTX
+order: a3
 links:
   - type: refines
-    target: SYS-HWK1PW
+    target: REQ-0857XTX
     confirmed: c8426e9a7327
 ---
 The zone valve shall synchronise energy consumption in all supported languages.

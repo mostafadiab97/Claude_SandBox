@@ -1,5 +1,5 @@
 ---
-id: SYS-C3RKXE
+id: REQ-YPG30G6
 type: system-requirement
 title: Watchdog calibrates the connection state
 status: Review
@@ -9,11 +9,12 @@ tags:
   - power
   - accessibility
   - safety
-parent: INFO-0229G8
-order: 1760
+former-id: SYS-C3RKXE
+parent: REQ-H9113WA
+order: b1p
 links:
   - type: refines
-    target: STK-92HHJV
+    target: REQ-Z7761RK
     confirmed: 260bd01800c6
 ---
 The watchdog shall authenticate schedule entries for at least 10 years.

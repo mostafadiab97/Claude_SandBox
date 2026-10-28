@@ -1,5 +1,5 @@
 ---
-id: IF-Q7GV86
+id: REQ-JMHBMTH
 type: interface-requirement
 title: "Signal 284: access tokens"
 status: Approved
@@ -8,7 +8,8 @@ owner: J. Müller
 tags:
   - accessibility
   - regulatory
-parent: INFO-2TM0JP
-order: 2840
+former-id: IF-Q7GV86
+parent: REQ-RJ0KHPT
+order: b3Z
 ---
 Interface signal number 284.

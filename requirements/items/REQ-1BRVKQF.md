@@ -1,5 +1,5 @@
 ---
-id: IF-2F2R8P
+id: REQ-1BRVKQF
 type: interface-requirement
 title: "Signal 570: safety limits"
 status: Approved
@@ -8,7 +8,8 @@ tags:
   - release-2.0
   - cost
   - performance
-parent: INFO-2TM0JP
-order: 5700
+former-id: IF-2F2R8P
+parent: REQ-RJ0KHPT
+order: b8B
 ---
 Interface signal number 570.

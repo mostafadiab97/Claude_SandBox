@@ -1,5 +1,5 @@
 ---
-id: SW-5X87YC
+id: REQ-0NWX3AE
 type: software-requirement
 title: Schedule editor reports energy consumption
 status: Review
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - EMC
   - regulatory
-parent: SYS-YZPPWS
-order: 20
+former-id: SW-5X87YC
+parent: REQ-Z546S1T
+order: a1
 links:
   - type: refines
-    target: SYS-YZPPWS
+    target: REQ-Z546S1T
     confirmed: 91020cf1f7b8
 ---
 The home dashboard shall log humidity values within 200 ms.

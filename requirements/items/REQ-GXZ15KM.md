@@ -1,14 +1,15 @@
 ---
-id: HW-9CA5B5
+id: REQ-GXZ15KM
 type: hardware-requirement
 title: Log error conditions — detail
 status: Approved
 priority: Medium
-parent: HW-06FEKS
-order: 10
+former-id: HW-9CA5B5
+parent: REQ-BZM7NRV
+order: a0
 links:
   - type: refines
-    target: HW-06FEKS
+    target: REQ-BZM7NRV
     confirmed: e4d548740c3d
 ---
 The watchdog shall log error conditions within 200 ms.

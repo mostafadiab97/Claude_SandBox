@@ -1,14 +1,15 @@
 ---
-id: HW-VVKBJM
+id: REQ-Q50EJZQ
 type: hardware-requirement
 title: Rotary knob displays the connection state
 status: Approved
 owner: J. Müller
-parent: SYS-6Y9BHS
-order: 10
+former-id: HW-VVKBJM
+parent: REQ-DVVNZG6
+order: a0
 links:
   - type: refines
-    target: SYS-6Y9BHS
+    target: REQ-DVVNZG6
     confirmed: cb3485657a51
 ---
 The backlight shall measure sensor readings below 0.5 W in standby.

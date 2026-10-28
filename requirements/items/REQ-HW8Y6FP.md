@@ -1,5 +1,5 @@
 ---
-id: IF-H6WW36
+id: REQ-HW8Y6FP
 type: interface-requirement
 title: Power supply reports safety limits
 status: Review
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - release-2.0
   - ux
-parent: SYS-MQR6RF
-order: 30
+former-id: IF-H6WW36
+parent: REQ-QFBNWQ4
+order: a2
 links:
   - type: refines
-    target: SYS-MQR6RF
+    target: REQ-QFBNWQ4
     confirmed: d9d4b12d67de
 ---
 The relay board shall calibrate safety limits for at least 10 years.

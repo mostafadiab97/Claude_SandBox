@@ -1,5 +1,5 @@
 ---
-id: SW-WNWSQY
+id: REQ-ZT4WGB2
 type: software-requirement
 title: Display relay events — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - regulatory
   - security
-parent: SW-HBG6Z0
-order: 10
+former-id: SW-WNWSQY
+parent: REQ-C7CPH5R
+order: a0
 links:
   - type: refines
-    target: SW-HBG6Z0
+    target: REQ-C7CPH5R
     confirmed: e118d060d311
 ---
 The Zigbee radio shall notify user preferences below 0.5 W in standby.

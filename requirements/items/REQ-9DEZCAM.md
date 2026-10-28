@@ -1,5 +1,5 @@
 ---
-id: TC-QP7RE2
+id: REQ-9DEZCAM
 type: test-case
 title: "Verify: OTA server switchs sensor readings"
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 tags:
   - power
   - customer-request
-parent: INFO-7P4D8D
-order: 750
+former-id: TC-QP7RE2
+parent: REQ-8351896
+order: b0C
 links:
   - type: verifies
-    target: SYS-HSBZEM
+    target: REQ-VDKN4BP
     confirmed: 22cdb66e683a
 ---
 **Objective:** verify that the OTA server behaves as specified.

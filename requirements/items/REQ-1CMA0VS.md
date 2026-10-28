@@ -1,5 +1,5 @@
 ---
-id: IF-Q8F0ZV
+id: REQ-1CMA0VS
 type: interface-requirement
 title: Relay board restores safety limits
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - safety
-parent: SYS-SJNR25
-order: 30
+former-id: IF-Q8F0ZV
+parent: REQ-PKF3YBD
+order: a2
 links:
   - type: refines
-    target: SYS-SJNR25
+    target: REQ-PKF3YBD
     confirmed: 387a89ed8e59
 ---
 The main PCB shall synchronise the set point in all supported languages.

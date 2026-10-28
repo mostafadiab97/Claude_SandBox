@@ -1,5 +1,5 @@
 ---
-id: SW-YENQEB
+id: REQ-GDGYR3Z
 type: software-requirement
 title: Heat pump driver reports safety limits
 status: Review
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - i18n
   - accessibility
-parent: SYS-VNH1K0
-order: 30
+former-id: SW-YENQEB
+parent: REQ-58E6B2T
+order: a2
 links:
   - type: refines
-    target: SYS-VNH1K0
+    target: REQ-58E6B2T
     confirmed: ebf4ae33f617
 ---
 The heating controller shall authenticate audit records at least once per minute.

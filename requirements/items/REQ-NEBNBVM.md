@@ -1,15 +1,16 @@
 ---
-id: TC-4JSQ6J
+id: REQ-NEBNBVM
 type: test-case
 title: "Verify: User account service switchs schedule entries"
 status: Approved
 priority: High
 owner: S. Adel
-parent: INFO-7P4D8D
-order: 440
+former-id: TC-4JSQ6J
+parent: REQ-8351896
+order: ah
 links:
   - type: verifies
-    target: SYS-DXQ6WK
+    target: REQ-QS7RS41
     confirmed: c10fd23a93b0
 ---
 **Objective:** verify that the user account service behaves as specified.

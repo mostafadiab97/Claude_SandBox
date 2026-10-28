@@ -1,5 +1,5 @@
 ---
-id: SW-Y142P2
+id: REQ-GVDHZBR
 type: software-requirement
 title: Bluetooth LE link validates access tokens
 status: Draft
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - customer-request
   - regulatory
-parent: SYS-K61Y1H
-order: 10
+former-id: SW-Y142P2
+parent: REQ-PKDYEYJ
+order: a0
 links:
   - type: refines
-    target: SYS-K61Y1H
+    target: REQ-PKDYEYJ
     confirmed: 05248eb02fec
 ---
 The Bluetooth LE link shall restore sensor readings within 200 ms.

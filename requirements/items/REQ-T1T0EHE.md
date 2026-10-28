@@ -1,15 +1,16 @@
 ---
-id: HW-D3K2TF
+id: REQ-T1T0EHE
 type: hardware-requirement
 title: Power supply notifys energy consumption
 status: Draft
 priority: Medium
 owner: L. Samir
-parent: SYS-GRPZ1J
-order: 20
+former-id: HW-D3K2TF
+parent: REQ-4VDYVAN
+order: a1
 links:
   - type: refines
-    target: SYS-GRPZ1J
+    target: REQ-4VDYVAN
     confirmed: 5728c75e8b12
 ---
 The battery backup shall restore the operating mode using AES-256-GCM.

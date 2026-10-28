@@ -1,14 +1,15 @@
 ---
-id: TC-28F230
+id: REQ-Z3ESANE
 type: test-case
 title: "Verify: Wi-Fi module stores relay events"
 status: Draft
 priority: Low
-parent: INFO-F0M7VC
-order: 760
+former-id: TC-28F230
+parent: REQ-67RQXCK
+order: b0D
 links:
   - type: verifies
-    target: SYS-TXTNG4
+    target: REQ-K8WPAJM
     confirmed: bd9a41e3d87b
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

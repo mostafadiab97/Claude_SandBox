@@ -1,5 +1,5 @@
 ---
-id: SW-HSJWDM
+id: REQ-1VW5QQE
 type: software-requirement
 title: Wi-Fi module validates firmware images
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - i18n
   - accessibility
   - ux
-parent: SYS-A3STJH
-order: 20
+former-id: SW-HSJWDM
+parent: REQ-1054S3M
+order: a1
 links:
   - type: refines
-    target: SYS-A3STJH
+    target: REQ-1054S3M
     confirmed: 01e4f44d3a9c
 ---
 The Wi-Fi module shall limit sensor readings within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: TC-BZ13NF
+id: REQ-E2H7XJ2
 type: test-case
 title: "Verify: Local API reports audit records"
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - connectivity
   - ux
-parent: INFO-F0M7VC
-order: 420
+former-id: TC-BZ13NF
+parent: REQ-67RQXCK
+order: af
 links:
   - type: verifies
-    target: SYS-B99DV1
+    target: REQ-M9C7RKC
     confirmed: 4cbe1396d101
 ---
 **Objective:** verify that the local API behaves as specified.

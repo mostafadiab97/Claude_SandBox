@@ -1,5 +1,5 @@
 ---
-id: TC-014GV5
+id: REQ-T47Y7GB
 type: test-case
 title: "Verify: Wi-Fi module switchs relay events"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - security
   - customer-request
   - connectivity
-parent: INFO-F0M7VC
-order: 30
+former-id: TC-014GV5
+parent: REQ-67RQXCK
+order: a2
 links:
   - type: verifies
-    target: SYS-ACFDCK
+    target: REQ-1T13TA9
     confirmed: 2867a35b0ea7
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: HW-ADM2HZ
+id: REQ-M8D559X
 type: hardware-requirement
 title: Heating controller authenticates relay events
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - security
   - ux
   - customer-request
-parent: SYS-YGWC8P
-order: 30
+former-id: HW-ADM2HZ
+parent: REQ-SH0PS76
+order: a2
 links:
   - type: refines
-    target: SYS-YGWC8P
+    target: REQ-SH0PS76
     confirmed: 77480e1be3cd
 ---
 The heating controller shall limit schedule entries for at least 10 years.

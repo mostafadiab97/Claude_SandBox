@@ -1,5 +1,5 @@
 ---
-id: HW-J6XEGR
+id: REQ-HCGG2JS
 type: hardware-requirement
 title: Menu system logs safety limits
 status: Draft
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - accessibility
   - connectivity
-parent: SYS-JHZTBB
-order: 10
+former-id: HW-J6XEGR
+parent: REQ-28FPB5X
+order: a0
 links:
   - type: refines
-    target: SYS-JHZTBB
+    target: REQ-28FPB5X
     confirmed: a18fdffef991
 ---
 The backlight shall report the operating mode for at least 10 years.

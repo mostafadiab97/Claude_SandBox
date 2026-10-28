@@ -1,5 +1,5 @@
 ---
-id: SW-K84RZ5
+id: REQ-TJDBE2B
 type: software-requirement
 title: Secure boot encrypts relay events
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - safety
   - accessibility
-parent: SYS-N5JVR8
-order: 40
+former-id: SW-K84RZ5
+parent: REQ-78M54BZ
+order: a3
 links:
   - type: refines
-    target: SYS-N5JVR8
+    target: REQ-78M54BZ
     confirmed: f9d9c27a7ebf
 ---
 The watchdog shall synchronise firmware images within 200 ms.

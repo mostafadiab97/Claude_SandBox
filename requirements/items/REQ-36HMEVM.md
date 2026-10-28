@@ -1,5 +1,5 @@
 ---
-id: TC-XTC78C
+id: REQ-36HMEVM
 type: test-case
 title: "Regression: Tamper detection stores audit records"
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - performance
   - i18n
-parent: INFO-ECHASH
-order: 2120
+former-id: TC-XTC78C
+parent: REQ-6H15AV2
+order: b2P
 links:
   - type: verifies
-    target: SYS-SAV1GY
+    target: REQ-0JTCYEX
     confirmed: 01ce30983654
 ---
 **Objective:** verify that the device behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: HW-QT4WRZ
+id: REQ-MM1S63Y
 type: hardware-requirement
 title: Local API validates schedule entries
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: A. Hassan
 tags:
   - i18n
-parent: SYS-XT9RX8
-order: 10
+former-id: HW-QT4WRZ
+parent: REQ-0WQ07SG
+order: a0
 links:
   - type: refines
-    target: SYS-XT9RX8
+    target: REQ-0WQ07SG
     confirmed: ba8e9786a00b
 ---
 The local API shall synchronise energy consumption when the network is unavailable.

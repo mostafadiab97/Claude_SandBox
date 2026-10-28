@@ -1,16 +1,17 @@
 ---
-id: HW-30T3KY
+id: REQ-0RKYC46
 type: hardware-requirement
 title: Relay board limits user preferences
 status: Approved
 owner: É. Laurent
 tags:
   - release-2.0
-parent: SYS-VCX096
-order: 30
+former-id: HW-30T3KY
+parent: REQ-NPB13E0
+order: a2
 links:
   - type: refines
-    target: SYS-VCX096
+    target: REQ-NPB13E0
     confirmed: 63d283d89339
 ---
 The enclosure shall notify user preferences using AES-256-GCM.

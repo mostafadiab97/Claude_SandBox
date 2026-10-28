@@ -1,5 +1,5 @@
 ---
-id: SYS-VNNXE8
+id: REQ-VQQJASQ
 type: system-requirement
 title: Status LED measures the operating mode
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - performance
   - cost
-parent: INFO-PDR6FV
-order: 1450
+former-id: SYS-VNNXE8
+parent: REQ-2ZA2TRZ
+order: b1K
 links:
   - type: refines
-    target: STK-4K2NE4
+    target: REQ-1DHEN00
     confirmed: 7cfb31353d89
 ---
 The status LED shall switch access tokens below 0.5 W in standby.

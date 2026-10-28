@@ -1,15 +1,16 @@
 ---
-id: HW-RX1AVG
+id: REQ-84WZ92X
 type: hardware-requirement
 title: Local API encrypts sensor readings
 status: Review
 priority: Medium
 owner: A. Hassan
-parent: SYS-Y8RNAD
-order: 10
+former-id: HW-RX1AVG
+parent: REQ-H0CKF26
+order: a0
 links:
   - type: refines
-    target: SYS-Y8RNAD
+    target: REQ-H0CKF26
     confirmed: e21c897550a0
 ---
 The Zigbee radio shall synchronise the operating mode using AES-256-GCM.

@@ -1,5 +1,5 @@
 ---
-id: IF-VW7BS8
+id: REQ-CP5ZR4Q
 type: interface-requirement
 title: Bluetooth LE link measures the set point
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - cost
   - ux
-parent: SYS-4T8ANS
-order: 10
+former-id: IF-VW7BS8
+parent: REQ-XED1QNH
+order: a0
 links:
   - type: refines
-    target: SYS-4T8ANS
+    target: REQ-XED1QNH
     confirmed: 400a2ed062a9
 ---
 The Bluetooth LE link shall display the set point for up to 8 zones.

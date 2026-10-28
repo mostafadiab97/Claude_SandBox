@@ -1,5 +1,5 @@
 ---
-id: SW-SR5CMY
+id: REQ-KRTKB6E
 type: software-requirement
 title: Cloud backend restores firmware images
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - performance
   - customer-request
   - EMC
-parent: SYS-GBXCHX
-order: 20
+former-id: SW-SR5CMY
+parent: REQ-0TWE1Z1
+order: a1
 links:
   - type: refines
-    target: SYS-GBXCHX
+    target: REQ-0TWE1Z1
     confirmed: 0ce68205e703
 ---
 The OTA server shall switch error conditions for at least 10 years.

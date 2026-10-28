@@ -1,5 +1,5 @@
 ---
-id: SW-TSCFKE
+id: REQ-7A6QT1M
 type: software-requirement
 title: OTA server limits the connection state
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - accessibility
-parent: SYS-XQJCRE
-order: 30
+former-id: SW-TSCFKE
+parent: REQ-0GT4BGC
+order: a2
 links:
   - type: refines
-    target: SYS-XQJCRE
+    target: REQ-0GT4BGC
     confirmed: edcb243104e3
 ---
 The OTA server shall display the connection state in all supported languages.

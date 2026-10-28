@@ -1,5 +1,5 @@
 ---
-id: SW-RB7KFG
+id: REQ-6HK6DV7
 type: software-requirement
 title: Display the set point — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - ux
   - power
-parent: SW-Y76ZWG
-order: 10
+former-id: SW-RB7KFG
+parent: REQ-TDA71KX
+order: a0
 links:
   - type: refines
-    target: SW-Y76ZWG
+    target: REQ-TDA71KX
     confirmed: 02659392bbf1
 ---
 The tamper detection shall validate the operating mode using AES-256-GCM.

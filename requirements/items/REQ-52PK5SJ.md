@@ -1,5 +1,5 @@
 ---
-id: CR-4PTNNB
+id: REQ-52PK5SJ
 type: change-request
 title: "CR: extend heating controller to log the operating mode"
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - i18n
-parent: INFO-ZBHTYF
-order: 190
+former-id: CR-4PTNNB
+parent: REQ-XJDN42Y
+order: aI
 links:
   - type: relates-to
-    target: SYS-X39PY1
+    target: REQ-DCNDFWC
     confirmed: faeb181df037
 ---
 Requested by customer support (ticket #14605).

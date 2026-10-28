@@ -1,15 +1,16 @@
 ---
-id: HW-742FHB
+id: REQ-VMC39NR
 type: hardware-requirement
 title: Enclosure calibrates access tokens
 status: Approved
 priority: High
 owner: J. Müller
-parent: SYS-QRF69W
-order: 10
+former-id: HW-742FHB
+parent: REQ-2D06W8P
+order: a0
 links:
   - type: refines
-    target: SYS-QRF69W
+    target: REQ-2D06W8P
     confirmed: 3f29c139da8b
 ---
 The enclosure shall calibrate the connection state using AES-256-GCM.

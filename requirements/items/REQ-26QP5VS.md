@@ -1,5 +1,5 @@
 ---
-id: TC-CWNBX8
+id: REQ-26QP5VS
 type: test-case
 title: "Verify: Notification service calibrates the set point"
 status: Review
@@ -7,14 +7,15 @@ priority: Low
 owner: A. Hassan
 tags:
   - accessibility
-parent: INFO-J0FETE
-order: 1060
+former-id: TC-CWNBX8
+parent: REQ-WR5ZJN9
+order: b0h
 links:
   - type: verifies
-    target: SYS-TETJ5F
+    target: REQ-2JC31WQ
     confirmed: c924d6e8986e
   - type: verifies
-    target: SW-H2FV48
+    target: REQ-QX28PB0
     confirmed: 946291b1e196
 ---
 **Objective:** verify that the notification service behaves as specified.

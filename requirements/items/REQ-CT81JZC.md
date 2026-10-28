@@ -1,14 +1,15 @@
 ---
-id: SW-QES37D
+id: REQ-CT81JZC
 type: software-requirement
 title: Boiler interface switchs the set point
 status: Review
 owner: J. Müller
-parent: SYS-5449PV
-order: 40
+former-id: SW-QES37D
+parent: REQ-XTRE6E2
+order: a3
 links:
   - type: refines
-    target: SYS-5449PV
+    target: REQ-XTRE6E2
     confirmed: 51ad9fc7ce44
 ---
 The regulation loop shall switch relay events at least once per minute.

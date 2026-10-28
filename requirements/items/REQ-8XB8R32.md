@@ -1,5 +1,5 @@
 ---
-id: TC-489800
+id: REQ-8XB8R32
 type: test-case
 title: "Verify: Wi-Fi module detects energy consumption"
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - accessibility
-parent: INFO-F0M7VC
-order: 1100
+former-id: TC-489800
+parent: REQ-67RQXCK
+order: b0l
 links:
   - type: verifies
-    target: SYS-0536MA
+    target: REQ-P411WTK
     confirmed: c760f3df8901
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

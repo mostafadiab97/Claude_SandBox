@@ -1,15 +1,16 @@
 ---
-id: IF-ZV02TT
+id: REQ-RS5BPK6
 type: interface-requirement
 title: Touch display reports energy consumption
 status: Approved
 priority: Low
 owner: L. Samir
-parent: SYS-MJ3RPH
-order: 40
+former-id: IF-ZV02TT
+parent: REQ-KCK5CFQ
+order: a3
 links:
   - type: refines
-    target: SYS-MJ3RPH
+    target: REQ-KCK5CFQ
     confirmed: 1ebca403ec7b
 ---
 The rotary knob shall validate relay events without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: IF-QHP16Q
+id: REQ-NBF9JYS
 type: interface-requirement
 title: "Signal 467: error conditions"
 status: Review
@@ -9,7 +9,8 @@ tags:
   - customer-request
   - ux
   - accessibility
-parent: INFO-2TM0JP
-order: 4670
+former-id: IF-QHP16Q
+parent: REQ-RJ0KHPT
+order: b6W
 ---
 Interface signal number 467.

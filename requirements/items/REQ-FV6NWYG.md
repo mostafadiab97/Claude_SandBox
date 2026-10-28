@@ -1,5 +1,5 @@
 ---
-id: IF-2CHZT9
+id: REQ-FV6NWYG
 type: interface-requirement
 title: "Signal 038: schedule entries"
 status: Approved
@@ -7,7 +7,8 @@ priority: Low
 owner: محمد علي
 tags:
   - customer-request
-parent: INFO-2TM0JP
-order: 380
+former-id: IF-2CHZT9
+parent: REQ-RJ0KHPT
+order: ab
 ---
 Interface signal number 38.

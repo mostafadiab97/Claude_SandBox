@@ -1,5 +1,5 @@
 ---
-id: TC-WZ6XG2
+id: REQ-9J8RCGC
 type: test-case
 title: "Verify: Pairing process measures safety limits"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - customer-request
   - accessibility
   - regulatory
-parent: INFO-F0M7VC
-order: 1240
+former-id: TC-WZ6XG2
+parent: REQ-67RQXCK
+order: b0z
 links:
   - type: verifies
-    target: SYS-NJ73ZK
+    target: REQ-M3BR6KY
     confirmed: cda235c01515
   - type: verifies
-    target: SW-M4Q7EZ
+    target: REQ-1VRMR6D
     confirmed: 0f3b5272ad4b
 ---
 **Objective:** verify that the pairing process behaves as specified.

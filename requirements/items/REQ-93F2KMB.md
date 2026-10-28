@@ -1,5 +1,5 @@
 ---
-id: TC-HP4Q0C
+id: REQ-93F2KMB
 type: test-case
 title: "Verify: Zone valve validates error conditions"
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 owner: J. Müller
 tags:
   - connectivity
-parent: INFO-MS9DAG
-order: 240
+former-id: TC-HP4Q0C
+parent: REQ-XGWSK2K
+order: aN
 links:
   - type: verifies
-    target: SYS-7THG7S
+    target: REQ-8XAB9X3
     confirmed: c2a2db34ec62
   - type: verifies
-    target: SW-WRPYK6
+    target: REQ-R5YSJVW
     confirmed: 54253c7ea624
 ---
 **Objective:** verify that the zone valve behaves as specified.

@@ -1,10 +1,11 @@
 ---
-id: IF-BVYVBW
+id: REQ-Z19E6X7
 type: interface-requirement
 title: "Signal 176: energy consumption"
 status: Approved
 priority: High
-parent: INFO-2TM0JP
-order: 1760
+former-id: IF-BVYVBW
+parent: REQ-RJ0KHPT
+order: b1p
 ---
 Interface signal number 176.

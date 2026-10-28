@@ -1,12 +1,13 @@
 ---
-id: IF-Z9A6P7
+id: REQ-HGTAQ9W
 type: interface-requirement
 title: "Signal 549: humidity values"
 status: Approved
 owner: R. Nabil
 tags:
   - release-2.0
-parent: INFO-2TM0JP
-order: 5490
+former-id: IF-Z9A6P7
+parent: REQ-RJ0KHPT
+order: b7q
 ---
 Interface signal number 549.

@@ -1,5 +1,5 @@
 ---
-id: SYS-0F1D8X
+id: REQ-HQCFJ0J
 type: system-requirement
 title: Enclosure switchs audit records
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - performance
   - ux
-parent: INFO-A6P9A8
-order: 1390
+former-id: SYS-0F1D8X
+parent: REQ-CMCS31A
+order: b1E
 links:
   - type: refines
-    target: STK-ZWN5M8
+    target: REQ-Z2PYD5A
     confirmed: 994b9d44bde8
 ---
 The enclosure shall measure audit records in under 3 s.

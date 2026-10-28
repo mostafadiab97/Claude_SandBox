@@ -1,5 +1,5 @@
 ---
-id: HW-Y8D40Y
+id: REQ-165CXZ8
 type: hardware-requirement
 title: Power supply reports sensor readings
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: S. Adel
 tags:
   - i18n
-parent: SYS-JRYFKW
-order: 10
+former-id: HW-Y8D40Y
+parent: REQ-YED15DF
+order: a0
 links:
   - type: refines
-    target: SYS-JRYFKW
+    target: REQ-YED15DF
     confirmed: eaf4dadef412
 ---
 The power supply shall detect the room temperature using AES-256-GCM.

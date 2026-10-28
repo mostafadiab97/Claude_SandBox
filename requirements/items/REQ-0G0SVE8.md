@@ -1,5 +1,5 @@
 ---
-id: IF-ME7VX0
+id: REQ-0G0SVE8
 type: interface-requirement
 title: Secure boot logs the connection state
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: L. Samir
 tags:
   - regulatory
-parent: SYS-PN5J1K
-order: 10
+former-id: IF-ME7VX0
+parent: REQ-C0Z47PJ
+order: a0
 links:
   - type: refines
-    target: SYS-PN5J1K
+    target: REQ-C0Z47PJ
     confirmed: 3969f39acf44
 ---
 The encryption layer shall store error conditions with an accuracy of ±0.5 °C.

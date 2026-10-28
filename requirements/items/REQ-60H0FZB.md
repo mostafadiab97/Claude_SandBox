@@ -1,5 +1,5 @@
 ---
-id: SYS-C66JCG
+id: REQ-60H0FZB
 type: system-requirement
 title: Watchdog limits energy consumption
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: S. Adel
 tags:
   - i18n
-parent: INFO-0229G8
-order: 1650
+former-id: SYS-C66JCG
+parent: REQ-H9113WA
+order: b1e
 links:
   - type: refines
-    target: STK-SM9B7Z
+    target: REQ-Z2QF8WD
     confirmed: 44235e2789f0
 ---
 The watchdog shall authenticate the room temperature without user interaction.

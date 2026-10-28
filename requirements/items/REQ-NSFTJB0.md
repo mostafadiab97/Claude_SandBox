@@ -1,15 +1,16 @@
 ---
-id: SW-ECFS03
+id: REQ-NSFTJB0
 type: software-requirement
 title: Mobile app notifys user preferences
 status: Obsolete
 priority: Medium
 owner: محمد علي
-parent: SYS-970YNT
-order: 20
+former-id: SW-ECFS03
+parent: REQ-5ZJK737
+order: a1
 links:
   - type: refines
-    target: SYS-970YNT
+    target: REQ-5ZJK737
     confirmed: dd3cd885e5b3
 ---
 The schedule editor shall log the operating mode when the network is unavailable.

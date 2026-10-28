@@ -1,5 +1,5 @@
 ---
-id: TC-W5PBRC
+id: REQ-T8E5NJX
 type: test-case
 title: "Verify: Telemetry pipeline restores schedule entries"
 status: Approved
@@ -8,14 +8,15 @@ owner: J. Müller
 tags:
   - release-1.0
   - safety
-parent: INFO-7P4D8D
-order: 400
+former-id: TC-W5PBRC
+parent: REQ-8351896
+order: ad
 links:
   - type: verifies
-    target: SYS-QTE64V
+    target: REQ-DQ0W5RA
     confirmed: 27661a1b1fc7
   - type: verifies
-    target: SW-DK6ZZF
+    target: REQ-5ERHXB0
     confirmed: 3b32dc108d16
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

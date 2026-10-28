@@ -1,15 +1,16 @@
 ---
-id: TC-TZWW7W
+id: REQ-080BVZ1
 type: test-case
 title: "Regression: Schedule editor encrypts energy consumption"
 status: Obsolete
 priority: High
 owner: Y. Saber
-parent: INFO-ECHASH
-order: 1030
+former-id: TC-TZWW7W
+parent: REQ-6H15AV2
+order: b0e
 links:
   - type: verifies
-    target: SYS-QKGZJJ
+    target: REQ-M6ARR9M
     confirmed: b92b84803641
 ---
 **Objective:** verify that the device behaves as specified.

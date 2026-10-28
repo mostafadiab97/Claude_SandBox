@@ -1,15 +1,16 @@
 ---
-id: HW-HAHK2K
+id: REQ-FB1N97W
 type: hardware-requirement
 title: Mobile app synchronises audit records
 status: Draft
 priority: Medium
 owner: محمد علي
-parent: SYS-VA9RN1
-order: 10
+former-id: HW-HAHK2K
+parent: REQ-7DAZ6VS
+order: a0
 links:
   - type: refines
-    target: SYS-VA9RN1
+    target: REQ-7DAZ6VS
     confirmed: 93a4d8e298aa
 ---
 The notification service shall notify safety limits without user interaction.

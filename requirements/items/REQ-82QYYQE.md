@@ -1,5 +1,5 @@
 ---
-id: SW-14TZR2
+id: REQ-82QYYQE
 type: software-requirement
 title: Bluetooth LE link measures energy consumption
 status: Review
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - release-2.0
   - customer-request
-parent: SYS-7GR1GZ
-order: 30
+former-id: SW-14TZR2
+parent: REQ-BNSVZ8R
+order: a2
 links:
   - type: refines
-    target: SYS-7GR1GZ
+    target: REQ-BNSVZ8R
     confirmed: b3432a56f6cd
 ---
 The local API shall detect the operating mode in all supported languages.

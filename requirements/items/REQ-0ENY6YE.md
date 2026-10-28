@@ -1,5 +1,5 @@
 ---
-id: HW-RTHYW2
+id: REQ-0ENY6YE
 type: hardware-requirement
 title: Mobile app switchs audit records
 status: Review
@@ -9,11 +9,12 @@ tags:
   - cost
   - release-2.0
   - performance
-parent: SYS-8AGCNN
-order: 20
+former-id: HW-RTHYW2
+parent: REQ-NE4H9GZ
+order: a1
 links:
   - type: refines
-    target: SYS-8AGCNN
+    target: REQ-NE4H9GZ
     confirmed: 494337b838a6
 ---
 The notification service shall switch error conditions in all supported languages.

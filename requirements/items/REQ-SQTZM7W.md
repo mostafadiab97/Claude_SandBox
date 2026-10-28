@@ -1,5 +1,5 @@
 ---
-id: TC-TE3N73
+id: REQ-SQTZM7W
 type: test-case
 title: "Verify: Notification service switchs schedule entries"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: É. Laurent
 tags:
   - accessibility
-parent: INFO-J0FETE
-order: 690
+former-id: TC-TE3N73
+parent: REQ-WR5ZJN9
+order: b06
 links:
   - type: verifies
-    target: SYS-4W17YE
+    target: REQ-8S71RF1
     confirmed: 91763bba0bd6
 ---
 **Objective:** verify that the notification service behaves as specified.

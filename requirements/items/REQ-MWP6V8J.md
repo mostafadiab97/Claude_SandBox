@@ -1,16 +1,17 @@
 ---
-id: IF-4RXAG9
+id: REQ-MWP6V8J
 type: interface-requirement
 title: Enclosure stores the room temperature
 status: Approved
 owner: H. Mostafa
 tags:
   - connectivity
-parent: SYS-FDZDPZ
-order: 20
+former-id: IF-4RXAG9
+parent: REQ-MZKPTF9
+order: a1
 links:
   - type: refines
-    target: SYS-FDZDPZ
+    target: REQ-MZKPTF9
     confirmed: 6777c9b563e8
 ---
 The power supply shall encrypt sensor readings in under 3 s.

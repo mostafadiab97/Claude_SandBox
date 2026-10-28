@@ -1,5 +1,5 @@
 ---
-id: SW-G3188Z
+id: REQ-HPRGSDE
 type: software-requirement
 title: Regulation loop restores safety limits
 status: Approved
@@ -7,11 +7,12 @@ owner: A. Hassan
 tags:
   - regulatory
   - connectivity
-parent: SYS-JFB5KX
-order: 10
+former-id: SW-G3188Z
+parent: REQ-TCY4CJ0
+order: a0
 links:
   - type: refines
-    target: SYS-JFB5KX
+    target: REQ-TCY4CJ0
     confirmed: 270d776a5c32
 ---
 The heat pump driver shall synchronise schedule entries after a power loss.

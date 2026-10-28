@@ -1,16 +1,17 @@
 ---
-id: SW-CR1PZ7
+id: REQ-NMH20GX
 type: software-requirement
 title: Authenticate firmware images — detail
 status: Approved
 priority: High
 tags:
   - release-2.0
-parent: SW-0PS1TF
-order: 10
+former-id: SW-CR1PZ7
+parent: REQ-Q6ZPKSB
+order: a0
 links:
   - type: refines
-    target: SW-0PS1TF
+    target: REQ-Q6ZPKSB
     confirmed: d759aa88e6e1
 ---
 The cloud backend shall report the set point when the network is unavailable.

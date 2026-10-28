@@ -1,13 +1,14 @@
 ---
-id: IF-KJRVES
+id: REQ-EXSY25Q
 type: interface-requirement
 title: Backlight detects the set point
 status: Obsolete
-parent: SYS-7Q4FYP
-order: 40
+former-id: IF-KJRVES
+parent: REQ-RBJSQM3
+order: a3
 links:
   - type: refines
-    target: SYS-7Q4FYP
+    target: REQ-RBJSQM3
     confirmed: af798c8aaa0c
 ---
 The backlight shall notify schedule entries within 200 ms.

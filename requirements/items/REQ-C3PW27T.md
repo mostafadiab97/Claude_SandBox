@@ -1,15 +1,16 @@
 ---
-id: IF-Y1CF55
+id: REQ-C3PW27T
 type: interface-requirement
 title: Validate access tokens — detail
 status: Obsolete
 priority: High
 owner: K. Tanaka
-parent: IF-ECCB1C
-order: 10
+former-id: IF-Y1CF55
+parent: REQ-CQ621YQ
+order: a0
 links:
   - type: refines
-    target: IF-ECCB1C
+    target: REQ-CQ621YQ
     confirmed: e3b7028754f0
 ---
 The Zigbee radio shall restore the set point at least once per minute.

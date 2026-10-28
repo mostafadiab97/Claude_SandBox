@@ -1,18 +1,19 @@
 ---
-id: TC-BA9XXR
+id: REQ-TAZDDAQ
 type: test-case
 title: "Verify: Encryption layer measures the room temperature"
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: INFO-Z4TW4B
-order: 750
+former-id: TC-BA9XXR
+parent: REQ-K6FGAY0
+order: b0C
 links:
   - type: verifies
-    target: SYS-C2GRZK
+    target: REQ-4KFD407
     confirmed: 83098b4942a6
   - type: verifies
-    target: SW-XP397S
+    target: REQ-A7BN875
     confirmed: 9014314d84cc
 ---
 **Objective:** verify that the encryption layer behaves as specified.

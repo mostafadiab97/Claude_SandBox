@@ -1,5 +1,5 @@
 ---
-id: DEF-2KMYBG
+id: REQ-Q5XP7QC
 type: defect
 title: "Defect: notification service does not display energy consumption"
 status: Draft
@@ -8,14 +8,15 @@ owner: A. Hassan
 tags:
   - regulatory
   - customer-request
-parent: INFO-FH5FB3
-order: 160
+former-id: DEF-2KMYBG
+parent: REQ-MWRPGWA
+order: aF
 links:
   - type: relates-to
-    target: TC-SJEY8T
+    target: REQ-PDJ6CM3
     confirmed: e3c9ed4962ad
   - type: relates-to
-    target: SYS-BS5G2C
+    target: REQ-BHV7AVF
     confirmed: 19954ae1e0af
 ---
 Found during regression testing of build 2.2.21.

@@ -1,5 +1,5 @@
 ---
-id: TC-QKQY5N
+id: REQ-QFHRY0X
 type: test-case
 title: "Verify: Status LED calibrates firmware images"
 status: Draft
@@ -7,14 +7,15 @@ priority: Low
 owner: É. Laurent
 tags:
   - ux
-parent: INFO-HTSZ15
-order: 910
+former-id: TC-QKQY5N
+parent: REQ-Y9VHHKA
+order: b0S
 links:
   - type: verifies
-    target: SYS-D5BE23
+    target: REQ-AYKW2SY
     confirmed: 909e2792e686
   - type: verifies
-    target: SW-JQFSRA
+    target: REQ-W8W3BM0
     confirmed: 6fff5afcb2fa
 ---
 **Objective:** verify that the status LED behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: HW-JG6JBY
+id: REQ-VWE97K3
 type: hardware-requirement
 title: Watchdog restores the operating mode
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: S. Adel
 tags:
   - ux
-parent: SYS-C66JCG
-order: 20
+former-id: HW-JG6JBY
+parent: REQ-60H0FZB
+order: a1
 links:
   - type: refines
-    target: SYS-C66JCG
+    target: REQ-60H0FZB
     confirmed: 7ce4fa00052a
 ---
 The watchdog shall validate access tokens after a power loss.

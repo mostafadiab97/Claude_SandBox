@@ -1,15 +1,16 @@
 ---
-id: TC-NG6T88
+id: REQ-QB9E0S9
 type: test-case
 title: "Verify: Device registry authenticates humidity values"
 status: Draft
 priority: High
 owner: A. Hassan
-parent: INFO-7P4D8D
-order: 1520
+former-id: TC-NG6T88
+parent: REQ-8351896
+order: b1R
 links:
   - type: verifies
-    target: SYS-6892JV
+    target: REQ-901RZ6N
     confirmed: 75d4ba20cb76
 ---
 **Objective:** verify that the device registry behaves as specified.

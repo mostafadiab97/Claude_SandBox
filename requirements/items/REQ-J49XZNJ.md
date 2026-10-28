@@ -1,5 +1,5 @@
 ---
-id: SW-K9JE0C
+id: REQ-J49XZNJ
 type: software-requirement
 title: Mobile app detects error conditions
 status: Draft
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - performance
   - EMC
-parent: SYS-TNP510
-order: 10
+former-id: SW-K9JE0C
+parent: REQ-4E6KP0H
+order: a0
 links:
   - type: refines
-    target: SYS-TNP510
+    target: REQ-4E6KP0H
     confirmed: 342a56df9a48
 ---
 The notification service shall synchronise relay events when the network is unavailable.

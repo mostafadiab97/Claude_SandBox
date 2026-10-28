@@ -1,15 +1,16 @@
 ---
-id: SYS-F2DJDC
+id: REQ-W18RFR4
 type: system-requirement
 title: Watchdog logs the connection state
 status: Draft
 priority: Medium
 owner: H. Mostafa
-parent: INFO-0229G8
-order: 780
+former-id: SYS-F2DJDC
+parent: REQ-H9113WA
+order: b0F
 links:
   - type: refines
-    target: STK-XSQC89
+    target: REQ-Y7E2CS3
     confirmed: 66c246d6b1dc
 ---
 The watchdog shall restore firmware images below 0.5 W in standby.

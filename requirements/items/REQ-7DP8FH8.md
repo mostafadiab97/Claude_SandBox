@@ -1,5 +1,5 @@
 ---
-id: SYS-H9YARC
+id: REQ-7DP8FH8
 type: system-requirement
 title: Main PCB measures user preferences
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - EMC
   - release-1.0
-parent: INFO-A6P9A8
-order: 240
+former-id: SYS-H9YARC
+parent: REQ-CMCS31A
+order: aN
 links:
   - type: refines
-    target: STK-4NGQJ5
+    target: REQ-4H1F9N3
     confirmed: 96640a7e340d
 ---
 The main PCB shall detect the set point at least once per minute.

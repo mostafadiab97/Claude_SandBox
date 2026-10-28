@@ -1,15 +1,16 @@
 ---
-id: TC-WMK7QV
+id: REQ-PQP7V30
 type: test-case
 title: "Verify: Telemetry pipeline validates sensor readings"
 status: Approved
 tags:
   - cost
-parent: INFO-7P4D8D
-order: 1380
+former-id: TC-WMK7QV
+parent: REQ-8351896
+order: b1D
 links:
   - type: verifies
-    target: SYS-25VHBZ
+    target: REQ-KDPSCQK
     confirmed: b66a06d6db09
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

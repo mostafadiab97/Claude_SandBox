@@ -1,5 +1,5 @@
 ---
-id: SW-6RS2D2
+id: REQ-X9Z01C6
 type: software-requirement
 title: Log access tokens — detail
 status: Review
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - connectivity
   - performance
-parent: SW-WHR27K
-order: 10
+former-id: SW-6RS2D2
+parent: REQ-9EAJVGZ
+order: a0
 links:
   - type: refines
-    target: SW-WHR27K
+    target: REQ-9EAJVGZ
     confirmed: a2de404f9c89
 ---
 The heating controller shall limit sensor readings when the network is unavailable.

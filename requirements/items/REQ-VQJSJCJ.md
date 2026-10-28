@@ -1,5 +1,5 @@
 ---
-id: SW-8VE2PH
+id: REQ-VQJSJCJ
 type: software-requirement
 title: Calibrate audit records — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - performance
   - safety
-parent: SW-F4XGXW
-order: 10
+former-id: SW-8VE2PH
+parent: REQ-Z15HRNN
+order: a0
 links:
   - type: refines
-    target: SW-F4XGXW
+    target: REQ-Z15HRNN
     confirmed: 0bd6fa290bf4
 ---
 The backlight shall report firmware images for up to 8 zones.

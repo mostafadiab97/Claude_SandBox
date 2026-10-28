@@ -1,5 +1,5 @@
 ---
-id: TC-VRSJ7Y
+id: REQ-GE0DTQR
 type: test-case
 title: "Verify: Heat pump driver synchronises user preferences"
 status: Review
@@ -8,14 +8,15 @@ owner: H. Mostafa
 tags:
   - release-2.0
   - regulatory
-parent: INFO-MS9DAG
-order: 370
+former-id: TC-VRSJ7Y
+parent: REQ-XGWSK2K
+order: aa
 links:
   - type: verifies
-    target: SYS-GECB0Q
+    target: REQ-FJ1M55T
     confirmed: 76c8ecd5a548
   - type: verifies
-    target: SW-MGBSAX
+    target: REQ-M552WMH
     confirmed: 02768e075c96
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

@@ -1,14 +1,15 @@
 ---
-id: SW-99AAP4
+id: REQ-R7NN846
 type: software-requirement
 title: Regulation loop restores the connection state
 status: Review
 priority: Low
-parent: SYS-NNMYTF
-order: 30
+former-id: SW-99AAP4
+parent: REQ-QXDGC48
+order: a2
 links:
   - type: refines
-    target: SYS-NNMYTF
+    target: REQ-QXDGC48
     confirmed: e726f1ea8987
 ---
 The heat pump driver shall detect error conditions without user interaction.

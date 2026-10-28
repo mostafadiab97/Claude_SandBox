@@ -1,5 +1,5 @@
 ---
-id: IF-9S5YCP
+id: REQ-4MH2JTY
 type: interface-requirement
 title: "Signal 540: relay events"
 status: Approved
@@ -8,7 +8,8 @@ owner: S. Adel
 tags:
   - release-2.0
   - cost
-parent: INFO-2TM0JP
-order: 5400
+former-id: IF-9S5YCP
+parent: REQ-RJ0KHPT
+order: b7h
 ---
 Interface signal number 540.

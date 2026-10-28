@@ -1,15 +1,16 @@
 ---
-id: SW-BXDAEC
+id: REQ-ND8XMPB
 type: software-requirement
 title: Secure boot switchs firmware images
 status: Approved
 priority: Medium
 owner: M. Farouk
-parent: SYS-5D666J
-order: 30
+former-id: SW-BXDAEC
+parent: REQ-2ZR5V0B
+order: a2
 links:
   - type: refines
-    target: SYS-5D666J
+    target: REQ-2ZR5V0B
     confirmed: cfe3f145e294
 ---
 The encryption layer shall restore the connection state using AES-256-GCM.

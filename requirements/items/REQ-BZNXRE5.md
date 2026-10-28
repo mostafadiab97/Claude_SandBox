@@ -1,5 +1,5 @@
 ---
-id: TC-GE7BFV
+id: REQ-BZNXRE5
 type: test-case
 title: "Regression: Heat pump driver restores error conditions"
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - cost
   - connectivity
-parent: INFO-ECHASH
-order: 1690
+former-id: TC-GE7BFV
+parent: REQ-6H15AV2
+order: b1i
 links:
   - type: verifies
-    target: SYS-XSDXN6
+    target: REQ-BFGS1K4
     confirmed: b0286a82c3c7
 ---
 **Objective:** verify that the device behaves as specified.

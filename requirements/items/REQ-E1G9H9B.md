@@ -1,15 +1,16 @@
 ---
-id: TC-JXFDK2
+id: REQ-E1G9H9B
 type: test-case
 title: "Regression: Pairing process switchs safety limits"
 status: Approved
 priority: High
 owner: A. Hassan
-parent: INFO-ECHASH
-order: 740
+former-id: TC-JXFDK2
+parent: REQ-6H15AV2
+order: b0B
 links:
   - type: verifies
-    target: SYS-558WVB
+    target: REQ-YSKSPN3
     confirmed: 244554b45f3a
 ---
 **Objective:** verify that the device behaves as specified.

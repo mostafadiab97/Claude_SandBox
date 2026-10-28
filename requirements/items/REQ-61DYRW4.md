@@ -1,5 +1,5 @@
 ---
-id: IF-C00ABY
+id: REQ-61DYRW4
 type: interface-requirement
 title: Device registry notifys audit records
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: L. Samir
 tags:
   - release-2.0
-parent: SYS-59QMSN
-order: 20
+former-id: IF-C00ABY
+parent: REQ-ZFPAEZP
+order: a1
 links:
   - type: refines
-    target: SYS-59QMSN
+    target: REQ-ZFPAEZP
     confirmed: 261ae2911413
 ---
 The device registry shall report schedule entries when the network is unavailable.

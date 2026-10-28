@@ -1,5 +1,5 @@
 ---
-id: SW-0VTNBZ
+id: REQ-0MS307F
 type: software-requirement
 title: Synchronise safety limits — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - power
   - EMC
-parent: SW-EBK5B5
-order: 10
+former-id: SW-0VTNBZ
+parent: REQ-WAFVESE
+order: a0
 links:
   - type: refines
-    target: SW-EBK5B5
+    target: REQ-WAFVESE
     confirmed: d60faf52179b
 ---
 The encryption layer shall display error conditions after a power loss.

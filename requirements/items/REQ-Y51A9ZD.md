@@ -1,5 +1,5 @@
 ---
-id: HW-EFWPS0
+id: REQ-Y51A9ZD
 type: hardware-requirement
 title: Menu system displays firmware images
 status: Review
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - ux
   - i18n
-parent: SYS-A1EMZ9
-order: 10
+former-id: HW-EFWPS0
+parent: REQ-8MD3CMA
+order: a0
 links:
   - type: refines
-    target: SYS-A1EMZ9
+    target: REQ-8MD3CMA
     confirmed: a04194db67ef
 ---
 The backlight shall measure firmware images without user interaction.

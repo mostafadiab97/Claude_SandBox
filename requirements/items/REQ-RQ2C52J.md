@@ -1,5 +1,5 @@
 ---
-id: TC-17K4ZC
+id: REQ-RQ2C52J
 type: test-case
 title: "Verify: Enclosure switchs user preferences"
 status: Draft
@@ -7,14 +7,15 @@ owner: N. Kamal
 tags:
   - ux
   - connectivity
-parent: INFO-MACGC3
-order: 730
+former-id: TC-17K4ZC
+parent: REQ-F9Z1FYS
+order: b0A
 links:
   - type: verifies
-    target: SYS-A4N3W7
+    target: REQ-NAFYXZ5
     confirmed: c7593929dc3f
   - type: verifies
-    target: SW-T021M5
+    target: REQ-BBVMMFN
     confirmed: 0c3dd50dc291
 ---
 **Objective:** verify that the enclosure behaves as specified.

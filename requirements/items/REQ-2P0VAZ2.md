@@ -1,5 +1,5 @@
 ---
-id: SW-6PQRZJ
+id: REQ-2P0VAZ2
 type: software-requirement
 title: Watchdog displays audit records
 status: Review
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - power
   - performance
-parent: SYS-QNMZ6J
-order: 30
+former-id: SW-6PQRZJ
+parent: REQ-Y549YXR
+order: a2
 links:
   - type: refines
-    target: SYS-QNMZ6J
+    target: REQ-Y549YXR
     confirmed: 988a557fd818
 ---
 The tamper detection shall display the connection state below 0.5 W in standby.

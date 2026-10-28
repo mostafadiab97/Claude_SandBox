@@ -1,5 +1,5 @@
 ---
-id: IF-XMA1TG
+id: REQ-TD9FJWV
 type: interface-requirement
 title: "Signal 478: firmware images"
 status: Review
@@ -8,7 +8,8 @@ owner: K. Tanaka
 tags:
   - security
   - power
-parent: INFO-2TM0JP
-order: 4780
+former-id: IF-XMA1TG
+parent: REQ-RJ0KHPT
+order: b6h
 ---
 Interface signal number 478.

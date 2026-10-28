@@ -1,5 +1,5 @@
 ---
-id: IF-VQYHAW
+id: REQ-G2XGNJH
 type: interface-requirement
 title: Over-temperature monitor switchs audit records
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - release-1.0
   - regulatory
   - connectivity
-parent: SYS-8T3EWK
-order: 20
+former-id: IF-VQYHAW
+parent: REQ-C27RMWM
+order: a1
 links:
   - type: refines
-    target: SYS-8T3EWK
+    target: REQ-C27RMWM
     confirmed: 6237143aa404
 ---
 The secure boot shall authenticate error conditions when the network is unavailable.

@@ -1,5 +1,5 @@
 ---
-id: TC-X44GFQ
+id: REQ-4Q3GY25
 type: test-case
 title: Hub verification 3
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - power
-parent: INFO-ECHASH
-order: 120
+former-id: TC-X44GFQ
+parent: REQ-6H15AV2
+order: aB
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 4639507190ed
 ---
 **Objective:** verify that the thermostat behaves as specified.

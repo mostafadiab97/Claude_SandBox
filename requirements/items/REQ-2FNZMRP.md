@@ -1,5 +1,5 @@
 ---
-id: TC-CDENPW
+id: REQ-2FNZMRP
 type: test-case
 title: "Verify: Notification service limits sensor readings"
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - performance
-parent: INFO-J0FETE
-order: 820
+former-id: TC-CDENPW
+parent: REQ-WR5ZJN9
+order: b0J
 links:
   - type: verifies
-    target: SYS-99Z4G3
+    target: REQ-39K6DTS
     confirmed: 7b8278116333
 ---
 **Objective:** verify that the notification service behaves as specified.

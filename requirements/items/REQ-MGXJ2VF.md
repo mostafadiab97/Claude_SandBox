@@ -1,18 +1,19 @@
 ---
-id: TC-A7YFWS
+id: REQ-MGXJ2VF
 type: test-case
 title: "Verify: Power supply detects error conditions"
 status: Draft
 priority: High
 owner: N. Kamal
-parent: INFO-MACGC3
-order: 950
+former-id: TC-A7YFWS
+parent: REQ-F9Z1FYS
+order: b0W
 links:
   - type: verifies
-    target: SYS-CB7E79
+    target: REQ-SHTW6AT
     confirmed: 1e8a0199df87
   - type: verifies
-    target: SW-2JRDMJ
+    target: REQ-WR6W86R
     confirmed: 37b64617ffc6
 ---
 **Objective:** verify that the power supply behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: SYS-JRTNVS
+id: REQ-QCZF6RT
 type: system-requirement
 title: Enclosure encrypts the set point
 status: Review
 priority: Medium
 owner: H. Mostafa
-parent: INFO-A6P9A8
-order: 2220
+former-id: SYS-JRTNVS
+parent: REQ-CMCS31A
+order: b2Z
 links:
   - type: refines
-    target: STK-ZWN5M8
+    target: REQ-Z2PYD5A
     confirmed: 994b9d44bde8
 ---
 The enclosure shall calibrate humidity values in under 3 s.

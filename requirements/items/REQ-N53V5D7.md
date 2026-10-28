@@ -1,5 +1,5 @@
 ---
-id: IF-ZA1CYH
+id: REQ-N53V5D7
 type: interface-requirement
 title: Mobile app logs user preferences
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - customer-request
   - power
-parent: SYS-EYJ94S
-order: 10
+former-id: IF-ZA1CYH
+parent: REQ-Z957H2Y
+order: a0
 links:
   - type: refines
-    target: SYS-EYJ94S
+    target: REQ-Z957H2Y
     confirmed: 68e2cd729db2
 ---
 The mobile app shall synchronise humidity values when the network is unavailable.

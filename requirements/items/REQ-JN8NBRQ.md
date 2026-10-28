@@ -1,15 +1,16 @@
 ---
-id: HW-59106T
+id: REQ-JN8NBRQ
 type: hardware-requirement
 title: Encryption layer notifys relay events
 status: Review
 priority: Medium
 owner: K. Tanaka
-parent: SYS-KJ0P5E
-order: 20
+former-id: HW-59106T
+parent: REQ-MHAMGQ2
+order: a1
 links:
   - type: refines
-    target: SYS-KJ0P5E
+    target: REQ-MHAMGQ2
     confirmed: 877e6818b0de
 ---
 The over-temperature monitor shall encrypt energy consumption using AES-256-GCM.

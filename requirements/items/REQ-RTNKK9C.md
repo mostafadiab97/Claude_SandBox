@@ -1,15 +1,16 @@
 ---
-id: DE-EHRG0R
+id: REQ-RTNKK9C
 type: design-element
 title: Module boiler_interface_2
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: SW-KZQTY6
-order: 10
+former-id: DE-EHRG0R
+parent: REQ-YMMXAK8
+order: a0
 links:
   - type: implements
-    target: SW-KZQTY6
+    target: REQ-YMMXAK8
     confirmed: 2d0abae3753b
 ---
 Implemented in `src/heat/boiler_interface.c`.

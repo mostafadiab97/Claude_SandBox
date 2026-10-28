@@ -1,5 +1,5 @@
 ---
-id: SW-3J5SQ9
+id: REQ-YS7GV8P
 type: software-requirement
 title: Zigbee radio validates error conditions
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - EMC
   - accessibility
-parent: SYS-Y0WZNP
-order: 10
+former-id: SW-3J5SQ9
+parent: REQ-SM8PJM5
+order: a0
 links:
   - type: refines
-    target: SYS-Y0WZNP
+    target: REQ-SM8PJM5
     confirmed: 2ca18a0adf4f
 ---
 The pairing process shall detect audit records below 0.5 W in standby.

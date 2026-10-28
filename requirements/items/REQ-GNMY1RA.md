@@ -1,5 +1,5 @@
 ---
-id: SW-F1Q8MF
+id: REQ-GNMY1RA
 type: software-requirement
 title: Watchdog logs audit records
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - cost
   - customer-request
   - accessibility
-parent: SYS-T8M3T5
-order: 30
+former-id: SW-F1Q8MF
+parent: REQ-5XTHHVF
+order: a2
 links:
   - type: refines
-    target: SYS-T8M3T5
+    target: REQ-5XTHHVF
     confirmed: 6f66a4941544
 ---
 The over-temperature monitor shall notify audit records within 200 ms.

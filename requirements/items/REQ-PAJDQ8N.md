@@ -1,5 +1,5 @@
 ---
-id: TC-6Y57DS
+id: REQ-PAJDQ8N
 type: test-case
 title: "Verify: Boiler interface limits energy consumption"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - ux
   - connectivity
-parent: INFO-MS9DAG
-order: 1000
+former-id: TC-6Y57DS
+parent: REQ-XGWSK2K
+order: b0b
 links:
   - type: verifies
-    target: SYS-9PBJ8Z
+    target: REQ-CA89FGT
     confirmed: c99a3d587d22
 ---
 **Objective:** verify that the boiler interface behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: HW-CNGCHP
+id: REQ-5X539VW
 type: hardware-requirement
 title: Home dashboard measures relay events
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: N. Kamal
 tags:
   - safety
-parent: SYS-1T01KA
-order: 10
+former-id: HW-CNGCHP
+parent: REQ-QWPHA6K
+order: a0
 links:
   - type: refines
-    target: SYS-1T01KA
+    target: REQ-QWPHA6K
     confirmed: b90824328e7a
 ---
 The schedule editor shall restore humidity values for up to 8 zones.

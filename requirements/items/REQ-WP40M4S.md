@@ -1,15 +1,16 @@
 ---
-id: HW-VYT47T
+id: REQ-WP40M4S
 type: hardware-requirement
 title: Home dashboard detects user preferences
 status: Approved
 priority: High
 owner: A. Hassan
-parent: SYS-79RQTT
-order: 10
+former-id: HW-VYT47T
+parent: REQ-D25K9RZ
+order: a0
 links:
   - type: refines
-    target: SYS-79RQTT
+    target: REQ-D25K9RZ
     confirmed: 3ba90f93afa0
 ---
 The schedule editor shall calibrate energy consumption below 0.5 W in standby.

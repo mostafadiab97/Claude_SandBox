@@ -1,15 +1,16 @@
 ---
-id: IF-8VZW3M
+id: REQ-EDET38C
 type: interface-requirement
 title: Relay board limits access tokens
 status: Approved
 priority: Low
 owner: H. Mostafa
-parent: SYS-84WAA6
-order: 20
+former-id: IF-8VZW3M
+parent: REQ-DDVX1KJ
+order: a1
 links:
   - type: refines
-    target: SYS-84WAA6
+    target: REQ-DDVX1KJ
     confirmed: 34578fd70293
 ---
 The battery backup shall synchronise user preferences for at least 10 years.

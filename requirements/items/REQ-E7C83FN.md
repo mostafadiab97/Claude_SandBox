@@ -1,18 +1,19 @@
 ---
-id: SYS-ZTJGBY
+id: REQ-E7C83FN
 type: system-requirement
 title: Pairing process validates energy consumption
 status: Review
 priority: Medium
 owner: R. Nabil
-parent: INFO-NRVHA2
-order: 610
+former-id: SYS-ZTJGBY
+parent: REQ-6R94HFM
+order: ay
 links:
   - type: refines
-    target: STK-5CT2VD
+    target: REQ-YDX9MVW
     confirmed: 51ca0f7a80ed
   - type: mitigates
-    target: RSK-QP0EFZ
+    target: REQ-JX165DV
     confirmed: b4372c636b9e
 ---
 The pairing process shall measure sensor readings in all supported languages.

@@ -1,5 +1,5 @@
 ---
-id: SYS-9YAX2Y
+id: REQ-VK5ZJ33
 type: system-requirement
 title: Menu system encrypts sensor readings
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - customer-request
   - safety
   - performance
-parent: INFO-PDR6FV
-order: 250
+former-id: SYS-9YAX2Y
+parent: REQ-2ZA2TRZ
+order: aO
 links:
   - type: refines
-    target: STK-35QR7F
+    target: REQ-QCK2ZS7
     confirmed: bc1aebb7918d
 ---
 The menu system shall notify the room temperature without user interaction.

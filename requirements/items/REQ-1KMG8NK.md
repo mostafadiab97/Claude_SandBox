@@ -1,15 +1,16 @@
 ---
-id: SW-8ZKFBP
+id: REQ-1KMG8NK
 type: software-requirement
 title: Rotary knob measures safety limits
 status: Review
 priority: Medium
 owner: K. Tanaka
-parent: SYS-QT1CFV
-order: 10
+former-id: SW-8ZKFBP
+parent: REQ-BBDCX27
+order: a0
 links:
   - type: refines
-    target: SYS-QT1CFV
+    target: REQ-BBDCX27
     confirmed: ee55a0dd3a84
 ---
 The status LED shall restore energy consumption below 0.5 W in standby.

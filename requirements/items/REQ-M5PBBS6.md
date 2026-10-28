@@ -1,5 +1,5 @@
 ---
-id: SYS-9C06SC
+id: REQ-M5PBBS6
 type: system-requirement
 title: Cloud backend detects humidity values
 status: Draft
@@ -7,14 +7,15 @@ priority: Medium
 owner: محمد علي
 tags:
   - performance
-parent: INFO-YV5EZD
-order: 860
+former-id: SYS-9C06SC
+parent: REQ-RE9ZKHF
+order: b0N
 links:
   - type: refines
-    target: STK-JFBQPS
+    target: REQ-A8X8PTB
     confirmed: 5027ee1822eb
   - type: mitigates
-    target: RSK-M50SEK
+    target: REQ-RGWQXYM
     confirmed: 2cdadc33fb4f
 ---
 The cloud backend shall limit humidity values in all supported languages.

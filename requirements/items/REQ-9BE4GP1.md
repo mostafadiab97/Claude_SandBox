@@ -1,5 +1,5 @@
 ---
-id: SW-ZZJXG9
+id: REQ-9BE4GP1
 type: software-requirement
 title: Wi-Fi module stores sensor readings
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - i18n
   - customer-request
   - connectivity
-parent: SYS-FD82WN
-order: 30
+former-id: SW-ZZJXG9
+parent: REQ-B2JJXAA
+order: a2
 links:
   - type: refines
-    target: SYS-FD82WN
+    target: REQ-B2JJXAA
     confirmed: f55a56f18a08
 ---
 The local API shall report the set point after a power loss.

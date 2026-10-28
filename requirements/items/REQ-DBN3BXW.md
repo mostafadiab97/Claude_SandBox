@@ -1,16 +1,17 @@
 ---
-id: HW-0SWSW9
+id: REQ-DBN3BXW
 type: hardware-requirement
 title: Report humidity values — detail
 status: Approved
 owner: Y. Saber
 tags:
   - connectivity
-parent: HW-1HAQPP
-order: 10
+former-id: HW-0SWSW9
+parent: REQ-JDGT6W9
+order: a0
 links:
   - type: refines
-    target: HW-1HAQPP
+    target: REQ-JDGT6W9
     confirmed: 2733514c361e
 ---
 The power supply shall limit schedule entries after a power loss.

@@ -1,17 +1,18 @@
 ---
-id: TC-XYXDAE
+id: REQ-FEKNX2W
 type: test-case
 title: "Verify: Mobile app measures access tokens"
 status: Draft
 owner: N. Kamal
-parent: INFO-J0FETE
-order: 1340
+former-id: TC-XYXDAE
+parent: REQ-WR5ZJN9
+order: b19
 links:
   - type: verifies
-    target: SYS-M63JNN
+    target: REQ-QHBE7KX
     confirmed: 5a464a8782e6
   - type: verifies
-    target: SW-V0S8WJ
+    target: REQ-20R2M14
     confirmed: 198dc1abe424
 ---
 **Objective:** verify that the mobile app behaves as specified.

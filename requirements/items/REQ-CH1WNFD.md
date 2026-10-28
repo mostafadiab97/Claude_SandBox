@@ -1,5 +1,5 @@
 ---
-id: SW-KX8D6R
+id: REQ-CH1WNFD
 type: software-requirement
 title: Validate safety limits — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - performance
-parent: SW-2JXWJW
-order: 10
+former-id: SW-KX8D6R
+parent: REQ-8CK0YD6
+order: a0
 links:
   - type: refines
-    target: SW-2JXWJW
+    target: REQ-8CK0YD6
     confirmed: de8b2ae7c14f
 ---
 The OTA server shall report access tokens in under 3 s.

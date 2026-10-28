@@ -1,5 +1,5 @@
 ---
-id: IF-0ZB5E0
+id: REQ-M8YY9Y5
 type: interface-requirement
 title: Notification service restores access tokens
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: J. Müller
 tags:
   - release-2.0
-parent: SYS-3TWJPP
-order: 10
+former-id: IF-0ZB5E0
+parent: REQ-RR2A2CN
+order: a0
 links:
   - type: refines
-    target: SYS-3TWJPP
+    target: REQ-RR2A2CN
     confirmed: 618b62b567a5
 ---
 The login screen shall detect access tokens at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: TC-55H7FH
+id: REQ-QFWHBZZ
 type: test-case
 title: "Verify: Heating controller synchronises safety limits"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - performance
   - customer-request
-parent: INFO-MS9DAG
-order: 20
+former-id: TC-55H7FH
+parent: REQ-XGWSK2K
+order: a1
 links:
   - type: verifies
-    target: SYS-338WGX
+    target: REQ-W7QMTWA
     confirmed: ba9b4f21444e
 ---
 **Objective:** verify that the heating controller behaves as specified.

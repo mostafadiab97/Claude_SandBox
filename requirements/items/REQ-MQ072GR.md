@@ -1,14 +1,15 @@
 ---
-id: SW-4K537B
+id: REQ-MQ072GR
 type: software-requirement
 title: Heat pump driver authenticates audit records
 status: Approved
 priority: Medium
-parent: SYS-7JZD7P
-order: 20
+former-id: SW-4K537B
+parent: REQ-2K5K4N4
+order: a1
 links:
   - type: refines
-    target: SYS-7JZD7P
+    target: REQ-2K5K4N4
     confirmed: 3d215316f1d7
 ---
 The heating controller shall switch relay events when the network is unavailable.

@@ -1,5 +1,5 @@
 ---
-id: SYS-D4MGRN
+id: REQ-1ENW8WA
 type: system-requirement
 title: User account service stores safety limits
 status: Obsolete
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - accessibility
   - i18n
-parent: INFO-YV5EZD
-order: 600
+former-id: SYS-D4MGRN
+parent: REQ-RE9ZKHF
+order: ax
 links:
   - type: refines
-    target: STK-JFBQPS
+    target: REQ-A8X8PTB
     confirmed: 5027ee1822eb
 ---
 The user account service shall display the room temperature in all supported languages.

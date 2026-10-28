@@ -1,5 +1,5 @@
 ---
-id: TC-W94VPK
+id: REQ-M3VDZQ0
 type: test-case
 title: "Verify: Heating controller synchronises safety limits"
 status: Draft
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - accessibility
   - i18n
-parent: INFO-MS9DAG
-order: 980
+former-id: TC-W94VPK
+parent: REQ-XGWSK2K
+order: b0Z
 links:
   - type: verifies
-    target: SYS-19PGBF
+    target: REQ-MEZG2J4
     confirmed: ae3b18f7d74c
 ---
 **Objective:** verify that the heating controller behaves as specified.

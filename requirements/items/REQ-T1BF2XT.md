@@ -1,15 +1,16 @@
 ---
-id: TC-D5A27K
+id: REQ-T1BF2XT
 type: test-case
 title: "Verify: Regulation loop stores energy consumption"
 status: Draft
 priority: Low
 owner: Y. Saber
-parent: INFO-MS9DAG
-order: 1030
+former-id: TC-D5A27K
+parent: REQ-XGWSK2K
+order: b0e
 links:
   - type: verifies
-    target: SYS-2X1F3V
+    target: REQ-YBTYEC4
     confirmed: 2c4d5f93b13d
 ---
 **Objective:** verify that the regulation loop behaves as specified.

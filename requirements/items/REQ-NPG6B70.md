@@ -1,14 +1,15 @@
 ---
-id: TC-RN8CXV
+id: REQ-NPG6B70
 type: test-case
 title: "Verify: Watchdog authenticates error conditions"
 status: Review
 owner: L. Samir
-parent: INFO-Z4TW4B
-order: 170
+former-id: TC-RN8CXV
+parent: REQ-K6FGAY0
+order: aG
 links:
   - type: verifies
-    target: SYS-8MMGZP
+    target: REQ-PAY0TEM
     confirmed: 2ba99c4bfc3a
 ---
 **Objective:** verify that the watchdog behaves as specified.

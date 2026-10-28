@@ -1,5 +1,5 @@
 ---
-id: TC-01BGNA
+id: REQ-SY3Z8AJ
 type: test-case
 title: "Verify: Login screen validates relay events"
 status: Review
@@ -7,11 +7,12 @@ tags:
   - accessibility
   - safety
   - performance
-parent: INFO-J0FETE
-order: 520
+former-id: TC-01BGNA
+parent: REQ-WR5ZJN9
+order: ap
 links:
   - type: verifies
-    target: SYS-5N9QWY
+    target: REQ-P07CV0Z
     confirmed: d6dd62a6b8eb
 ---
 **Objective:** verify that the login screen behaves as specified.

@@ -1,11 +1,12 @@
 ---
-id: IF-GGKGVC
+id: REQ-AXZ3MG5
 type: interface-requirement
 title: "Signal 316: the operating mode"
 status: Obsolete
 priority: Low
 owner: K. Tanaka
-parent: INFO-2TM0JP
-order: 3160
+former-id: IF-GGKGVC
+parent: REQ-RJ0KHPT
+order: b45
 ---
 Interface signal number 316.

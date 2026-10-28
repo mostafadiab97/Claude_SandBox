@@ -1,5 +1,5 @@
 ---
-id: IF-TV3EFC
+id: REQ-JXAKCC3
 type: interface-requirement
 title: OTA server switchs the room temperature
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Low
 owner: K. Tanaka
 tags:
   - EMC
-parent: SYS-G85CT4
-order: 20
+former-id: IF-TV3EFC
+parent: REQ-3485MQF
+order: a1
 links:
   - type: refines
-    target: SYS-G85CT4
+    target: REQ-3485MQF
     confirmed: 278fe2b83855
 ---
 The telemetry pipeline shall report audit records below 0.5 W in standby.

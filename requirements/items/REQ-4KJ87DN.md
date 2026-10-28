@@ -1,5 +1,5 @@
 ---
-id: HW-2HZAHF
+id: REQ-4KJ87DN
 type: hardware-requirement
 title: Heat pump driver measures firmware images
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - regulatory
   - cost
-parent: SYS-RAP7Z6
-order: 40
+former-id: HW-2HZAHF
+parent: REQ-YBS8MW9
+order: a3
 links:
   - type: refines
-    target: SYS-RAP7Z6
+    target: REQ-YBS8MW9
     confirmed: 8158ead818f6
 ---
 The heating controller shall switch relay events using AES-256-GCM.

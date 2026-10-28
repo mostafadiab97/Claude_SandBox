@@ -1,18 +1,19 @@
 ---
-id: TC-FCJMXF
+id: REQ-EGPCCBX
 type: test-case
 title: "Verify: Boiler interface validates relay events"
 status: Obsolete
 priority: Medium
 owner: J. Müller
-parent: INFO-MS9DAG
-order: 910
+former-id: TC-FCJMXF
+parent: REQ-XGWSK2K
+order: b0S
 links:
   - type: verifies
-    target: SYS-QN4W49
+    target: REQ-QT5K7YB
     confirmed: 6a7a9fdc0288
   - type: verifies
-    target: SW-2TBDPG
+    target: REQ-A2DSQ6Q
     confirmed: a13f7b1862ac
 ---
 **Objective:** verify that the boiler interface behaves as specified.

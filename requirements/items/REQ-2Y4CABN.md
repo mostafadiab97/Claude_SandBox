@@ -1,5 +1,5 @@
 ---
-id: SW-3TCVFW
+id: REQ-2Y4CABN
 type: software-requirement
 title: OTA server displays error conditions
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - release-1.0
   - regulatory
-parent: SYS-3ZGG1G
-order: 20
+former-id: SW-3TCVFW
+parent: REQ-4Z5Y12M
+order: a1
 links:
   - type: refines
-    target: SYS-3ZGG1G
+    target: REQ-4Z5Y12M
     confirmed: 805d152578fb
 ---
 The telemetry pipeline shall restore access tokens after a power loss.

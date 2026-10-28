@@ -1,5 +1,5 @@
 ---
-id: DE-FW766Z
+id: REQ-Q4FFT5Z
 type: design-element
 title: Module pairing_process_64
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - security
   - customer-request
   - performance
-parent: SW-913VEK
-order: 10
+former-id: DE-FW766Z
+parent: REQ-XPPZ821
+order: a0
 links:
   - type: implements
-    target: SW-913VEK
+    target: REQ-XPPZ821
     confirmed: 791be17ead25
 ---
 Implemented in `src/conn/pairing_process.c`.

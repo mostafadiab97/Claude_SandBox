@@ -1,5 +1,5 @@
 ---
-id: HW-7NPZNG
+id: REQ-AMBXXX7
 type: hardware-requirement
 title: User account service limits error conditions
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - performance
   - ux
-parent: SYS-K93N9B
-order: 30
+former-id: HW-7NPZNG
+parent: REQ-ME66BDW
+order: a2
 links:
   - type: refines
-    target: SYS-K93N9B
+    target: REQ-ME66BDW
     confirmed: e0ece5df8764
 ---
 The telemetry pipeline shall calibrate the connection state within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: TC-Z344D4
+id: REQ-8H6EPVC
 type: test-case
 title: "Verify: Notification service restores safety limits"
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - i18n
   - EMC
   - release-1.0
-parent: INFO-J0FETE
-order: 880
+former-id: TC-Z344D4
+parent: REQ-WR5ZJN9
+order: b0P
 links:
   - type: verifies
-    target: SYS-0R8DVR
+    target: REQ-5JA2JPE
     confirmed: 008c7842cee7
 ---
 **Objective:** verify that the notification service behaves as specified.

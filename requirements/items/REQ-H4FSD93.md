@@ -1,5 +1,5 @@
 ---
-id: IF-2TKYWA
+id: REQ-H4FSD93
 type: interface-requirement
 title: "Signal 543: the set point"
 status: Review
@@ -8,7 +8,8 @@ owner: R. Nabil
 tags:
   - release-2.0
   - EMC
-parent: INFO-2TM0JP
-order: 5430
+former-id: IF-2TKYWA
+parent: REQ-RJ0KHPT
+order: b7k
 ---
 Interface signal number 543.

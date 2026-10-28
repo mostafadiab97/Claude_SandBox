@@ -1,5 +1,5 @@
 ---
-id: HW-JJV041
+id: REQ-AWGNZ2S
 type: hardware-requirement
 title: Secure boot notifys humidity values
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: A. Hassan
 tags:
   - power
-parent: SYS-2XXCCW
-order: 10
+former-id: HW-JJV041
+parent: REQ-M5MCMA7
+order: a0
 links:
   - type: refines
-    target: SYS-2XXCCW
+    target: REQ-M5MCMA7
     confirmed: 8a24cf881fb1
 ---
 The encryption layer shall detect user preferences when the network is unavailable.

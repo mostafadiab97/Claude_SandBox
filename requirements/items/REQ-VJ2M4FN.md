@@ -1,5 +1,5 @@
 ---
-id: DE-ASWMA2
+id: REQ-VJ2M4FN
 type: design-element
 title: Module login_screen_25
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - security
   - regulatory
   - EMC
-parent: SW-D8ZPBJ
-order: 10
+former-id: DE-ASWMA2
+parent: REQ-JM66AX5
+order: a0
 links:
   - type: implements
-    target: SW-D8ZPBJ
+    target: REQ-JM66AX5
     confirmed: 108303a36b9c
 ---
 Implemented in `src/app/login_screen.c`.

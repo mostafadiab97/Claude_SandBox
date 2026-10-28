@@ -1,14 +1,15 @@
 ---
-id: DE-TYXARC
+id: REQ-P6Q15Y9
 type: design-element
 title: Module backlight_20
 status: Approved
 priority: Low
-parent: SW-N2ESSA
-order: 10
+former-id: DE-TYXARC
+parent: REQ-KCY22W0
+order: a0
 links:
   - type: implements
-    target: SW-N2ESSA
+    target: REQ-KCY22W0
     confirmed: ef2d3be43b21
 ---
 Implemented in `src/ui/backlight.c`.

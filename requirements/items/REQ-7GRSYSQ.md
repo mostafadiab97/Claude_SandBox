@@ -1,15 +1,16 @@
 ---
-id: TC-JH6NGD
+id: REQ-7GRSYSQ
 type: test-case
 title: "Verify: Encryption layer detects the operating mode"
 status: Review
 priority: High
 owner: M. Farouk
-parent: INFO-Z4TW4B
-order: 1350
+former-id: TC-JH6NGD
+parent: REQ-K6FGAY0
+order: b1A
 links:
   - type: verifies
-    target: SYS-NA1SC7
+    target: REQ-8Z0EM4F
     confirmed: 5bf0247d7ebd
 ---
 **Objective:** verify that the encryption layer behaves as specified.

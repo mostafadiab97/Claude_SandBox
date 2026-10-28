@@ -1,15 +1,16 @@
 ---
-id: SYS-5M0EN6
+id: REQ-KVVV60P
 type: system-requirement
 title: Regulation loop encrypts the set point
 status: Approved
 priority: High
 owner: Y. Saber
-parent: INFO-6DQTKV
-order: 910
+former-id: SYS-5M0EN6
+parent: REQ-7ED7ZET
+order: b0S
 links:
   - type: refines
-    target: STK-AA05P4
+    target: REQ-REA5VGA
     confirmed: e2bec3bcd11c
 ---
 The regulation loop shall authenticate energy consumption with an accuracy of ±0.5 °C.

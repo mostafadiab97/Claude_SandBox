@@ -1,14 +1,15 @@
 ---
-id: SW-D0FHZG
+id: REQ-TGDGSKA
 type: software-requirement
 title: Over-temperature monitor restores energy consumption
 status: Obsolete
 owner: Y. Saber
-parent: SYS-ZQYMN8
-order: 10
+former-id: SW-D0FHZG
+parent: REQ-RHW7HNJ
+order: a0
 links:
   - type: refines
-    target: SYS-ZQYMN8
+    target: REQ-RHW7HNJ
     confirmed: a257d6fd1501
 ---
 The watchdog shall calibrate schedule entries using AES-256-GCM.

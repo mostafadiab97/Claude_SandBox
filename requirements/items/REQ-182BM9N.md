@@ -1,15 +1,16 @@
 ---
-id: TC-529E16
+id: REQ-182BM9N
 type: test-case
 title: "Verify: Notification service measures the connection state"
 status: Review
 priority: High
 owner: R. Nabil
-parent: INFO-J0FETE
-order: 590
+former-id: TC-529E16
+parent: REQ-WR5ZJN9
+order: aw
 links:
   - type: verifies
-    target: SYS-HJM62M
+    target: REQ-ZHKWT4C
     confirmed: 1d6deddc1634
 ---
 **Objective:** verify that the notification service behaves as specified.

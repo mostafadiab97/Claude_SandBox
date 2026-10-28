@@ -1,14 +1,15 @@
 ---
-id: IF-6VP33S
+id: REQ-ERWVMAK
 type: interface-requirement
 title: Limit humidity values — detail
 status: Obsolete
 owner: R. Nabil
-parent: IF-HY881D
-order: 10
+former-id: IF-6VP33S
+parent: REQ-4A3ZKMH
+order: a0
 links:
   - type: refines
-    target: IF-HY881D
+    target: REQ-4A3ZKMH
     confirmed: d47c5a3e2dee
 ---
 The login screen shall notify sensor readings when the network is unavailable.

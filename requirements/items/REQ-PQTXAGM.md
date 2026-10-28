@@ -1,5 +1,5 @@
 ---
-id: SYS-TKV6VE
+id: REQ-PQTXAGM
 type: system-requirement
 title: Pairing process logs schedule entries
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - cost
-parent: INFO-NRVHA2
-order: 720
+former-id: SYS-TKV6VE
+parent: REQ-6R94HFM
+order: b09
 links:
   - type: refines
-    target: STK-71VSKB
+    target: REQ-8TVXMWR
     confirmed: 994ecb1eff6f
 ---
 The pairing process shall synchronise relay events in all supported languages.

@@ -1,5 +1,5 @@
 ---
-id: TC-Y1NZ9E
+id: REQ-WVJ6810
 type: test-case
 title: "Regression: Battery backup reports the operating mode"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - cost
   - regulatory
-parent: INFO-ECHASH
-order: 1530
+former-id: TC-Y1NZ9E
+parent: REQ-6H15AV2
+order: b1S
 links:
   - type: verifies
-    target: SYS-PT1QDH
+    target: REQ-6EYT1EP
     confirmed: a94dbe6fcdb1
 ---
 **Objective:** verify that the device behaves as specified.

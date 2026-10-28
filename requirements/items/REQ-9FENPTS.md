@@ -1,5 +1,5 @@
 ---
-id: HW-KWY22K
+id: REQ-9FENPTS
 type: hardware-requirement
 title: Enclosure validates humidity values
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - accessibility
   - performance
-parent: SYS-FPCM4D
-order: 10
+former-id: HW-KWY22K
+parent: REQ-30CQF62
+order: a0
 links:
   - type: refines
-    target: SYS-FPCM4D
+    target: REQ-30CQF62
     confirmed: 2cecb0d5058b
 ---
 The battery backup shall detect audit records at least once per minute.

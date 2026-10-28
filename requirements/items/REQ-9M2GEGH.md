@@ -1,5 +1,5 @@
 ---
-id: TC-NMYSVT
+id: REQ-9M2GEGH
 type: test-case
 title: "Verify: Main PCB authenticates sensor readings"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - connectivity
-parent: INFO-MACGC3
-order: 1450
+former-id: TC-NMYSVT
+parent: REQ-F9Z1FYS
+order: b1K
 links:
   - type: verifies
-    target: SYS-2RJ62J
+    target: REQ-JYRD71Q
     confirmed: 86b1e408d2e0
 ---
 **Objective:** verify that the main PCB behaves as specified.

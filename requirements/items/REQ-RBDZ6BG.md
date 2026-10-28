@@ -1,5 +1,5 @@
 ---
-id: SW-PAPX57
+id: REQ-RBDZ6BG
 type: software-requirement
 title: Encryption layer limits sensor readings
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - customer-request
   - accessibility
-parent: SYS-NA1SC7
-order: 10
+former-id: SW-PAPX57
+parent: REQ-8Z0EM4F
+order: a0
 links:
   - type: refines
-    target: SYS-NA1SC7
+    target: REQ-8Z0EM4F
     confirmed: 5bf0247d7ebd
 ---
 The encryption layer shall switch the operating mode in under 3 s.

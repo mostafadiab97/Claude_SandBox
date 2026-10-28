@@ -1,5 +1,5 @@
 ---
-id: TC-SW4102
+id: REQ-13Z0VAD
 type: test-case
 title: Hub verification 19
 status: Obsolete
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - regulatory
   - EMC
-parent: INFO-ECHASH
-order: 280
+former-id: TC-SW4102
+parent: REQ-6H15AV2
+order: aR
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

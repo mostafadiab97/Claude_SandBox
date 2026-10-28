@@ -1,15 +1,16 @@
 ---
-id: SYS-4JV7MY
+id: REQ-EKP7AXG
 type: system-requirement
 title: Battery backup notifys the operating mode
 status: Review
 priority: Low
 owner: M. Farouk
-parent: INFO-A6P9A8
-order: 1220
+former-id: SYS-4JV7MY
+parent: REQ-CMCS31A
+order: b0x
 links:
   - type: refines
-    target: STK-7F9256
+    target: REQ-GXZBB32
     confirmed: 5588db2eb80a
 ---
 The battery backup shall switch schedule entries after a power loss.

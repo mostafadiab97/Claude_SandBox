@@ -1,14 +1,15 @@
 ---
-id: DE-Y8WKWQ
+id: REQ-CVZACE7
 type: design-element
 title: Module touch_display_73
 status: Obsolete
 owner: محمد علي
-parent: SW-CG561N
-order: 10
+former-id: DE-Y8WKWQ
+parent: REQ-0J4QGV8
+order: a0
 links:
   - type: implements
-    target: SW-CG561N
+    target: REQ-0J4QGV8
     confirmed: 4b3c6be9e118
 ---
 Implemented in `src/ui/touch_display.c`.

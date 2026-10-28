@@ -1,5 +1,5 @@
 ---
-id: TC-9SNAP0
+id: REQ-XT8HXRR
 type: test-case
 title: "Regression: Main PCB restores sensor readings"
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - release-1.0
   - release-2.0
   - safety
-parent: INFO-ECHASH
-order: 1210
+former-id: TC-9SNAP0
+parent: REQ-6H15AV2
+order: b0w
 links:
   - type: verifies
-    target: SYS-75ZSGD
+    target: REQ-NHG4VB7
     confirmed: 58f0d670cbc1
 ---
 **Objective:** verify that the device behaves as specified.

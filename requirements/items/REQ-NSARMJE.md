@@ -1,5 +1,5 @@
 ---
-id: SW-T2CN6R
+id: REQ-NSARMJE
 type: software-requirement
 title: Over-temperature monitor detects energy consumption
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: S. Adel
 tags:
   - ux
-parent: SYS-G9BVND
-order: 20
+former-id: SW-T2CN6R
+parent: REQ-2MDHG1E
+order: a1
 links:
   - type: refines
-    target: SYS-G9BVND
+    target: REQ-2MDHG1E
     confirmed: 1ecbcf641074
 ---
 The secure boot shall display the room temperature without user interaction.

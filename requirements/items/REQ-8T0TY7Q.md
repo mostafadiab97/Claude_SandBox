@@ -1,5 +1,5 @@
 ---
-id: TC-76MZHY
+id: REQ-8T0TY7Q
 type: test-case
 title: "Verify: Backlight switchs schedule entries"
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 owner: M. Farouk
 tags:
   - customer-request
-parent: INFO-HTSZ15
-order: 180
+former-id: TC-76MZHY
+parent: REQ-Y9VHHKA
+order: aH
 links:
   - type: verifies
-    target: SYS-HN5S5X
+    target: REQ-NH4F1EN
     confirmed: 98a2a16336ac
 ---
 **Objective:** verify that the backlight behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: TC-TQPZAQ
+id: REQ-N9TXCW3
 type: test-case
 title: "Verify: Status LED stores energy consumption"
 status: Approved
 priority: Low
 owner: A. Hassan
-parent: INFO-HTSZ15
-order: 670
+former-id: TC-TQPZAQ
+parent: REQ-Y9VHHKA
+order: b04
 links:
   - type: verifies
-    target: SYS-32PD6V
+    target: REQ-DV0Z40E
     confirmed: 09e351121e5d
 ---
 **Objective:** verify that the status LED behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: TC-KR7J47
+id: REQ-NDQTXPE
 type: test-case
 title: "Verify: Home dashboard calibrates audit records"
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - connectivity
   - regulatory
   - ux
-parent: INFO-J0FETE
-order: 1520
+former-id: TC-KR7J47
+parent: REQ-WR5ZJN9
+order: b1R
 links:
   - type: verifies
-    target: SYS-6085Y8
+    target: REQ-HZ7KKKF
     confirmed: d22ffa0b21da
   - type: verifies
-    target: SW-8EV7YV
+    target: REQ-BSHBHB5
     confirmed: f952008b8233
 ---
 **Objective:** verify that the home dashboard behaves as specified.

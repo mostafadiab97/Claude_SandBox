@@ -1,5 +1,5 @@
 ---
-id: TC-7CFRGA
+id: REQ-MD6P6RQ
 type: test-case
 title: "Verify: Main PCB authenticates relay events"
 status: Review
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - accessibility
   - security
-parent: INFO-MACGC3
-order: 1610
+former-id: TC-7CFRGA
+parent: REQ-F9Z1FYS
+order: b1a
 links:
   - type: verifies
-    target: SYS-61H36K
+    target: REQ-86ACT2C
     confirmed: c34ac0cd30f1
 ---
 **Objective:** verify that the main PCB behaves as specified.

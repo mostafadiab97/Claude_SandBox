@@ -1,5 +1,5 @@
 ---
-id: HW-A31FNP
+id: REQ-9JYX283
 type: hardware-requirement
 title: Relay board measures access tokens
 status: Draft
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - accessibility
   - EMC
-parent: SYS-WFZVWZ
-order: 10
+former-id: HW-A31FNP
+parent: REQ-GM7Y6CE
+order: a0
 links:
   - type: refines
-    target: SYS-WFZVWZ
+    target: REQ-GM7Y6CE
     confirmed: 66917eb2d4db
 ---
 The battery backup shall notify audit records in under 3 s.

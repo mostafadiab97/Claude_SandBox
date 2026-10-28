@@ -1,16 +1,17 @@
 ---
-id: TC-YS6V2T
+id: REQ-7A8HTT9
 type: test-case
 title: "Regression: Heating controller synchronises the set point"
 status: Approved
 owner: A. Hassan
 tags:
   - customer-request
-parent: INFO-ECHASH
-order: 690
+former-id: TC-YS6V2T
+parent: REQ-6H15AV2
+order: b06
 links:
   - type: verifies
-    target: SYS-HS7YMC
+    target: REQ-MWZKPDC
     confirmed: 0b69395daa11
 ---
 **Objective:** verify that the device behaves as specified.

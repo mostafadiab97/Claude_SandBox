@@ -1,5 +1,5 @@
 ---
-id: SYS-BJZPAW
+id: REQ-7Y5KMWX
 type: system-requirement
 title: Pairing process authenticates the set point
 status: Draft
@@ -8,14 +8,15 @@ owner: R. Nabil
 tags:
   - security
   - ux
-parent: INFO-NRVHA2
-order: 430
+former-id: SYS-BJZPAW
+parent: REQ-6R94HFM
+order: ag
 links:
   - type: refines
-    target: STK-AAZ4HV
+    target: REQ-M9DYEF5
     confirmed: 44fc7956dbf8
   - type: mitigates
-    target: RSK-6FVAYV
+    target: REQ-1H5BZ3M
     confirmed: 0c5515bf4edc
 ---
 The pairing process shall store the operating mode without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: HW-KCPT13
+id: REQ-TR2A8EP
 type: hardware-requirement
 title: Authenticate the operating mode — detail
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - power
   - connectivity
   - i18n
-parent: HW-ERQREG
-order: 10
+former-id: HW-KCPT13
+parent: REQ-SW75TSZ
+order: a0
 links:
   - type: refines
-    target: HW-ERQREG
+    target: REQ-SW75TSZ
     confirmed: c207e35a249f
 ---
 The status LED shall restore relay events using AES-256-GCM.

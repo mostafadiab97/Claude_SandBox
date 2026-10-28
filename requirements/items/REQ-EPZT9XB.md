@@ -1,5 +1,5 @@
 ---
-id: SW-CY7DE4
+id: REQ-EPZT9XB
 type: software-requirement
 title: Wi-Fi module limits the operating mode
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - accessibility
-parent: SYS-TC0THB
-order: 30
+former-id: SW-CY7DE4
+parent: REQ-M54QCCE
+order: a2
 links:
   - type: refines
-    target: SYS-TC0THB
+    target: REQ-M54QCCE
     confirmed: c7a17f22b84b
 ---
 The Wi-Fi module shall authenticate error conditions using AES-256-GCM.

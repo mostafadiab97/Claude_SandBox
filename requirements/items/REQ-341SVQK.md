@@ -1,5 +1,5 @@
 ---
-id: TC-CHSNPW
+id: REQ-341SVQK
 type: test-case
 title: "Verify: Heating controller calibrates audit records"
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - customer-request
   - release-2.0
-parent: INFO-MS9DAG
-order: 380
+former-id: TC-CHSNPW
+parent: REQ-XGWSK2K
+order: ab
 links:
   - type: verifies
-    target: SYS-KS8K75
+    target: REQ-Q8HHQ1E
     confirmed: 6713f81a0fb0
 ---
 **Objective:** verify that the heating controller behaves as specified.

@@ -1,11 +1,12 @@
 ---
-id: IF-G243A9
+id: REQ-T19K1CA
 type: interface-requirement
 title: "Signal 408: energy consumption"
 status: Draft
 priority: High
 owner: K. Tanaka
-parent: INFO-2TM0JP
-order: 4080
+former-id: IF-G243A9
+parent: REQ-RJ0KHPT
+order: b5Z
 ---
 Interface signal number 408.

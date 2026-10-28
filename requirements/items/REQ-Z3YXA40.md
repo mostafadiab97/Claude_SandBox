@@ -1,5 +1,5 @@
 ---
-id: DEF-PBN087
+id: REQ-Z3YXA40
 type: defect
 title: "Defect: battery backup does not synchronise energy consumption"
 status: Draft
@@ -8,14 +8,15 @@ owner: N. Kamal
 tags:
   - release-2.0
   - safety
-parent: INFO-BB7M2N
-order: 70
+former-id: DEF-PBN087
+parent: REQ-995FBPM
+order: a6
 links:
   - type: relates-to
-    target: TC-2JT1HY
+    target: REQ-SZ18J24
     confirmed: 63a7abf9e733
   - type: relates-to
-    target: SYS-1T0TAM
+    target: REQ-Z7WZKTX
     confirmed: 834d1bdeda5b
 ---
 Found during regression testing of build 2.5.30.

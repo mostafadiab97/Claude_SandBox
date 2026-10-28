@@ -1,5 +1,5 @@
 ---
-id: TC-R5RJG0
+id: REQ-ZED68JF
 type: test-case
 title: "Verify: Secure boot restores access tokens"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - customer-request
   - release-2.0
-parent: INFO-Z4TW4B
-order: 1410
+former-id: TC-R5RJG0
+parent: REQ-K6FGAY0
+order: b1G
 links:
   - type: verifies
-    target: SYS-82XYZM
+    target: REQ-BZPV0PM
     confirmed: 7f8ed4700350
 ---
 **Objective:** verify that the secure boot behaves as specified.

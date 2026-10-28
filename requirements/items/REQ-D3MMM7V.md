@@ -1,17 +1,18 @@
 ---
-id: TC-1XKN4K
+id: REQ-D3MMM7V
 type: test-case
 title: "Verify: Zigbee radio synchronises the connection state"
 status: Approved
 owner: محمد علي
-parent: INFO-F0M7VC
-order: 450
+former-id: TC-1XKN4K
+parent: REQ-67RQXCK
+order: ai
 links:
   - type: verifies
-    target: SYS-RB6KMZ
+    target: REQ-AKMXCSZ
     confirmed: 9e9699c7ff42
   - type: verifies
-    target: SW-CT0KF3
+    target: REQ-7ZDJAAS
     confirmed: b023bd0bf70c
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

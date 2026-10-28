@@ -1,5 +1,5 @@
 ---
-id: TC-K6QBDM
+id: REQ-D7D4HS5
 type: test-case
 title: "Verify: Enclosure logs audit records"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - security
   - release-1.0
   - customer-request
-parent: INFO-MACGC3
-order: 600
+former-id: TC-K6QBDM
+parent: REQ-F9Z1FYS
+order: ax
 links:
   - type: verifies
-    target: SYS-GW4A7W
+    target: REQ-P550GQC
     confirmed: 81dfb0ea3083
 ---
 **Objective:** verify that the enclosure behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: DE-RZ2T15
+id: REQ-A9X8C1E
 type: design-element
 title: Module device_registry_50
 status: Review
@@ -9,11 +9,12 @@ tags:
   - cost
   - ux
   - customer-request
-parent: SW-QPQPPM
-order: 10
+former-id: DE-RZ2T15
+parent: REQ-R7GXPJA
+order: a0
 links:
   - type: implements
-    target: SW-QPQPPM
+    target: REQ-R7GXPJA
     confirmed: cccfd4c3a197
 ---
 Implemented in `src/cloud/device_registry.c`.

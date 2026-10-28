@@ -1,16 +1,17 @@
 ---
-id: HW-5C3YZJ
+id: REQ-S2K3TAJ
 type: hardware-requirement
 title: Encrypt sensor readings — detail
 status: Draft
 priority: Low
 tags:
   - regulatory
-parent: HW-AZDNFC
-order: 10
+former-id: HW-5C3YZJ
+parent: REQ-E690X8D
+order: a0
 links:
   - type: refines
-    target: HW-AZDNFC
+    target: REQ-E690X8D
     confirmed: 61b9a64d7e7b
 ---
 The battery backup shall switch user preferences without user interaction.

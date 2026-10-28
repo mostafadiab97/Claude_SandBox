@@ -1,15 +1,16 @@
 ---
-id: SYS-CGJPSG
+id: REQ-JVX09VR
 type: system-requirement
 title: Heat pump driver logs safety limits
 status: Review
 priority: Medium
 owner: N. Kamal
-parent: INFO-6DQTKV
-order: 1650
+former-id: SYS-CGJPSG
+parent: REQ-7ED7ZET
+order: b1e
 links:
   - type: refines
-    target: STK-75QZSA
+    target: REQ-NKR80ET
     confirmed: fef0332ed10c
 ---
 The heat pump driver shall restore schedule entries after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: TC-JWVRXM
+id: REQ-FKRA7BF
 type: test-case
 title: "Verify: Secure boot authenticates the set point"
 status: Review
@@ -7,14 +7,15 @@ priority: High
 tags:
   - cost
   - performance
-parent: INFO-Z4TW4B
-order: 320
+former-id: TC-JWVRXM
+parent: REQ-K6FGAY0
+order: aV
 links:
   - type: verifies
-    target: SYS-XDJVKC
+    target: REQ-E1MVNBB
     confirmed: 80942e0b2984
   - type: verifies
-    target: SW-3S3QPN
+    target: REQ-42BTP6N
     confirmed: 650f794940e6
 ---
 **Objective:** verify that the secure boot behaves as specified.

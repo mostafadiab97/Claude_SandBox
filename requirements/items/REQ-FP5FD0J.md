@@ -1,14 +1,15 @@
 ---
-id: SYS-Q3NWSK
+id: REQ-FP5FD0J
 type: system-requirement
 title: Power supply notifys relay events
 status: Draft
 priority: Medium
-parent: INFO-A6P9A8
-order: 1100
+former-id: SYS-Q3NWSK
+parent: REQ-CMCS31A
+order: b0l
 links:
   - type: refines
-    target: STK-M28XWW
+    target: REQ-2678XV5
     confirmed: bcf262f10744
 ---
 The power supply shall report error conditions in all supported languages.

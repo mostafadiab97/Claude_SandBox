@@ -1,5 +1,5 @@
 ---
-id: HW-87FE0Y
+id: REQ-Y52D5JS
 type: hardware-requirement
 title: Bluetooth LE link authenticates the connection state
 status: Review
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - connectivity
   - release-2.0
-parent: SYS-ZH89V8
-order: 20
+former-id: HW-87FE0Y
+parent: REQ-0HP2Y9D
+order: a1
 links:
   - type: refines
-    target: SYS-ZH89V8
+    target: REQ-0HP2Y9D
     confirmed: 777482c845de
 ---
 The pairing process shall limit the connection state when the network is unavailable.

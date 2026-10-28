@@ -1,5 +1,5 @@
 ---
-id: SW-677MHF
+id: REQ-C19ECNK
 type: software-requirement
 title: Notification service stores the operating mode
 status: Draft
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - cost
   - regulatory
-parent: SYS-5SCN5H
-order: 20
+former-id: SW-677MHF
+parent: REQ-J2C719K
+order: a1
 links:
   - type: refines
-    target: SYS-5SCN5H
+    target: REQ-J2C719K
     confirmed: 63ca700aa7c9
 ---
 The mobile app shall limit the set point after a power loss.

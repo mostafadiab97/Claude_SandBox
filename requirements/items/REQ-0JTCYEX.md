@@ -1,5 +1,5 @@
 ---
-id: SYS-SAV1GY
+id: REQ-0JTCYEX
 type: system-requirement
 title: Tamper detection stores audit records
 status: Review
@@ -9,14 +9,15 @@ tags:
   - security
   - EMC
   - customer-request
-parent: INFO-0229G8
-order: 550
+former-id: SYS-SAV1GY
+parent: REQ-H9113WA
+order: as
 links:
   - type: refines
-    target: STK-B4ZH98
+    target: REQ-PGNNV26
     confirmed: c19c22627f21
   - type: mitigates
-    target: RSK-QEHK9Y
+    target: REQ-856R3KM
     confirmed: bdb182195008
 ---
 The tamper detection shall notify error conditions within 200 ms.

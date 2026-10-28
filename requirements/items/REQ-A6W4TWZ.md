@@ -1,15 +1,16 @@
 ---
-id: IF-GTKZCE
+id: REQ-A6W4TWZ
 type: interface-requirement
 title: Watchdog reports user preferences
 status: Review
 priority: High
 owner: A. Hassan
-parent: SYS-98RRJK
-order: 40
+former-id: IF-GTKZCE
+parent: REQ-WCKSQ17
+order: a3
 links:
   - type: refines
-    target: SYS-98RRJK
+    target: REQ-WCKSQ17
     confirmed: 8ad7032cb1f0
 ---
 The tamper detection shall calibrate firmware images for up to 8 zones.

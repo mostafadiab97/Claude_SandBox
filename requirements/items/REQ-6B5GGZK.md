@@ -1,15 +1,16 @@
 ---
-id: HW-BB92W9
+id: REQ-6B5GGZK
 type: hardware-requirement
 title: Bluetooth LE link validates the operating mode
 status: Draft
 priority: High
 owner: Y. Saber
-parent: SYS-610ZXV
-order: 20
+former-id: HW-BB92W9
+parent: REQ-QFQR7WB
+order: a1
 links:
   - type: refines
-    target: SYS-610ZXV
+    target: REQ-QFQR7WB
     confirmed: 6280da70f001
 ---
 The local API shall notify the connection state for up to 8 zones.

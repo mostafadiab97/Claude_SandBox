@@ -1,5 +1,5 @@
 ---
-id: SW-S5ZG11
+id: REQ-HSC5FHD
 type: software-requirement
 title: Backlight limits sensor readings
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 owner: S. Adel
 tags:
   - release-1.0
-parent: SYS-2G338Q
-order: 40
+former-id: SW-S5ZG11
+parent: REQ-EEDEFB1
+order: a3
 links:
   - type: refines
-    target: SYS-2G338Q
+    target: REQ-EEDEFB1
     confirmed: 1802c342a6a4
 ---
 The touch display shall detect safety limits within 200 ms.

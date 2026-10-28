@@ -1,15 +1,16 @@
 ---
-id: DE-QFMG8C
+id: REQ-9PZSJPM
 type: design-element
 title: Module Bluetooth_LE_link_67
 status: Obsolete
 priority: Medium
 owner: R. Nabil
-parent: SW-RTTMR2
-order: 10
+former-id: DE-QFMG8C
+parent: REQ-30N3QR4
+order: a0
 links:
   - type: implements
-    target: SW-RTTMR2
+    target: REQ-30N3QR4
     confirmed: 1b45fe5bd3cb
 ---
 Implemented in `src/conn/Bluetooth_LE_link.c`.

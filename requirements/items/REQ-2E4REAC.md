@@ -1,5 +1,5 @@
 ---
-id: HW-MNSH1E
+id: REQ-2E4REAC
 type: hardware-requirement
 title: Device registry switchs relay events
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - regulatory
   - ux
-parent: SYS-175X0G
-order: 10
+former-id: HW-MNSH1E
+parent: REQ-YRG0KW0
+order: a0
 links:
   - type: refines
-    target: SYS-175X0G
+    target: REQ-YRG0KW0
     confirmed: 3e7e54a5d4f3
 ---
 The telemetry pipeline shall calibrate firmware images below 0.5 W in standby.

@@ -1,5 +1,5 @@
 ---
-id: TC-6FYW45
+id: REQ-ZHWSBXS
 type: test-case
 title: "Verify: User account service measures the room temperature"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - accessibility
   - release-1.0
-parent: INFO-7P4D8D
-order: 810
+former-id: TC-6FYW45
+parent: REQ-8351896
+order: b0I
 links:
   - type: verifies
-    target: SYS-A10V0R
+    target: REQ-13K6ME8
     confirmed: ff47382f2bba
 ---
 **Objective:** verify that the user account service behaves as specified.

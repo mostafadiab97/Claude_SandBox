@@ -1,15 +1,16 @@
 ---
-id: SW-4FWHTQ
+id: REQ-WZFN9T3
 type: software-requirement
 title: Restore sensor readings — detail
 status: Approved
 priority: Medium
 owner: É. Laurent
-parent: SW-ECFS03
-order: 10
+former-id: SW-4FWHTQ
+parent: REQ-NSFTJB0
+order: a0
 links:
   - type: refines
-    target: SW-ECFS03
+    target: REQ-NSFTJB0
     confirmed: b4e6c19774a0
 ---
 The schedule editor shall restore user preferences without user interaction.

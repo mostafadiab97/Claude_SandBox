@@ -1,15 +1,16 @@
 ---
-id: IF-ABJVHS
+id: REQ-HXMPBY8
 type: interface-requirement
 title: Tamper detection synchronises the connection state
 status: Draft
 priority: High
 owner: Y. Saber
-parent: SYS-3WAZ8X
-order: 20
+former-id: IF-ABJVHS
+parent: REQ-RG2YE7H
+order: a1
 links:
   - type: refines
-    target: SYS-3WAZ8X
+    target: REQ-RG2YE7H
     confirmed: ddf8200f8a83
 ---
 The encryption layer shall detect the room temperature without user interaction.

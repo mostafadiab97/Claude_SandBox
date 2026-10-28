@@ -1,5 +1,5 @@
 ---
-id: SW-WS0G13
+id: REQ-9Q0WZBD
 type: software-requirement
 title: Notification service validates error conditions
 status: Review
@@ -9,11 +9,12 @@ tags:
   - i18n
   - performance
   - connectivity
-parent: SYS-CNV2JW
-order: 30
+former-id: SW-WS0G13
+parent: REQ-7VFXD8W
+order: a2
 links:
   - type: refines
-    target: SYS-CNV2JW
+    target: REQ-7VFXD8W
     confirmed: 09c297344cc8
 ---
 The schedule editor shall encrypt the set point at least once per minute.

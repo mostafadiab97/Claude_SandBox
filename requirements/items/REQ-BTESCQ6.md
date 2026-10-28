@@ -1,18 +1,19 @@
 ---
-id: TC-R1JH7F
+id: REQ-BTESCQ6
 type: test-case
 title: "Verify: Relay board switchs schedule entries"
 status: Draft
 priority: High
 owner: A. Hassan
-parent: INFO-MACGC3
-order: 920
+former-id: TC-R1JH7F
+parent: REQ-F9Z1FYS
+order: b0T
 links:
   - type: verifies
-    target: SYS-DK3Y4R
+    target: REQ-SQ5X7CQ
     confirmed: 85f6bb475fe2
   - type: verifies
-    target: SW-HWXS3J
+    target: REQ-DXBCVRY
     confirmed: cbc211e398ee
 ---
 **Objective:** verify that the relay board behaves as specified.

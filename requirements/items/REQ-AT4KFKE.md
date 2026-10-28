@@ -1,5 +1,5 @@
 ---
-id: SW-D7GB9Z
+id: REQ-AT4KFKE
 type: software-requirement
 title: Boiler interface reports audit records
 status: Review
@@ -7,11 +7,12 @@ owner: É. Laurent
 tags:
   - regulatory
   - customer-request
-parent: SYS-A02XBZ
-order: 40
+former-id: SW-D7GB9Z
+parent: REQ-DKJAD8R
+order: a3
 links:
   - type: refines
-    target: SYS-A02XBZ
+    target: REQ-DKJAD8R
     confirmed: a8363ba9fa7b
 ---
 The heating controller shall store audit records within 200 ms.

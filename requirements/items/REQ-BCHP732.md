@@ -1,15 +1,16 @@
 ---
-id: SW-F8C2TG
+id: REQ-BCHP732
 type: software-requirement
 title: Login screen logs the set point
 status: Draft
 priority: Medium
 owner: A. Hassan
-parent: SYS-ZK10Z4
-order: 20
+former-id: SW-F8C2TG
+parent: REQ-AN2GRAB
+order: a1
 links:
   - type: refines
-    target: SYS-ZK10Z4
+    target: REQ-AN2GRAB
     confirmed: 0f09ad7fec21
 ---
 The notification service shall store relay events for at least 10 years.

@@ -1,15 +1,16 @@
 ---
-id: SW-Y87VBS
+id: REQ-TTW5ENC
 type: software-requirement
 title: Notification service encrypts humidity values
 status: Review
 priority: Medium
 owner: محمد علي
-parent: SYS-H6D9Y3
-order: 30
+former-id: SW-Y87VBS
+parent: REQ-5YMNSFC
+order: a2
 links:
   - type: refines
-    target: SYS-H6D9Y3
+    target: REQ-5YMNSFC
     confirmed: 01ab1874e635
 ---
 The home dashboard shall display audit records at least once per minute.

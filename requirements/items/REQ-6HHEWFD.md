@@ -1,5 +1,5 @@
 ---
-id: SW-HNZY72
+id: REQ-6HHEWFD
 type: software-requirement
 title: Telemetry pipeline encrypts safety limits
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - power
   - release-2.0
   - connectivity
-parent: SYS-XPPCMH
-order: 10
+former-id: SW-HNZY72
+parent: REQ-4QRKTH2
+order: a0
 links:
   - type: refines
-    target: SYS-XPPCMH
+    target: REQ-4QRKTH2
     confirmed: 5128bf667abb
 ---
 The user account service shall detect user preferences for at least 10 years.

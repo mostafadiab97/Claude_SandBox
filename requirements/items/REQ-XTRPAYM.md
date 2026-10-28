@@ -1,18 +1,19 @@
 ---
-id: TC-803RWP
+id: REQ-XTRPAYM
 type: test-case
 title: "Verify: Battery backup stores the room temperature"
 status: Approved
 priority: Medium
 owner: N. Kamal
-parent: INFO-MACGC3
-order: 260
+former-id: TC-803RWP
+parent: REQ-F9Z1FYS
+order: aP
 links:
   - type: verifies
-    target: SYS-K2NWME
+    target: REQ-PGMDNV9
     confirmed: e03e8a7a7686
   - type: verifies
-    target: SW-SV5WNT
+    target: REQ-T440D0C
     confirmed: 3601ce92e4e2
 ---
 **Objective:** verify that the battery backup behaves as specified.

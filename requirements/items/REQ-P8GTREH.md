@@ -1,15 +1,16 @@
 ---
-id: TC-AHXS9C
+id: REQ-P8GTREH
 type: test-case
 title: "Verify: Telemetry pipeline detects safety limits"
 status: Review
 priority: Medium
 owner: H. Mostafa
-parent: INFO-7P4D8D
-order: 90
+former-id: TC-AHXS9C
+parent: REQ-8351896
+order: a8
 links:
   - type: verifies
-    target: SYS-GK8E6S
+    target: REQ-PRHYJ2F
     confirmed: 3497825150a9
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

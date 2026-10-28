@@ -1,18 +1,19 @@
 ---
-id: TC-MN2E0S
+id: REQ-ZS7NSV4
 type: test-case
 title: "Verify: Cloud backend validates audit records"
 status: Draft
 priority: Medium
 owner: J. Müller
-parent: INFO-7P4D8D
-order: 840
+former-id: TC-MN2E0S
+parent: REQ-8351896
+order: b0L
 links:
   - type: verifies
-    target: SYS-KACHNP
+    target: REQ-RCET7JB
     confirmed: 6d9bc192ec13
   - type: verifies
-    target: SW-TNE9RX
+    target: REQ-PY4KK5N
     confirmed: d2e84a822cf8
 ---
 **Objective:** verify that the cloud backend behaves as specified.

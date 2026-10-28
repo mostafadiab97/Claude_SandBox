@@ -1,5 +1,5 @@
 ---
-id: HW-WZPR5B
+id: REQ-X00JZ9J
 type: hardware-requirement
 title: Measure the room temperature — detail
 status: Review
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - customer-request
   - release-2.0
-parent: HW-7M18GD
-order: 10
+former-id: HW-WZPR5B
+parent: REQ-QWEB56D
+order: a0
 links:
   - type: refines
-    target: HW-7M18GD
+    target: REQ-QWEB56D
     confirmed: 2192ad1d14bf
 ---
 The battery backup shall report error conditions after a power loss.

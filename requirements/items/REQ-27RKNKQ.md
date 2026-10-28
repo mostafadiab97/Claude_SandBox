@@ -1,15 +1,16 @@
 ---
-id: SW-YH3CS4
+id: REQ-27RKNKQ
 type: software-requirement
 title: Heating controller reports user preferences
 status: Approved
 priority: High
 owner: L. Samir
-parent: SYS-YN2K60
-order: 20
+former-id: SW-YH3CS4
+parent: REQ-QRWZEWA
+order: a1
 links:
   - type: refines
-    target: SYS-YN2K60
+    target: REQ-QRWZEWA
     confirmed: 2659248bd16e
 ---
 The heat pump driver shall calibrate error conditions at least once per minute.

@@ -1,9 +1,10 @@
 ---
-id: INFO-JMY913
+id: REQ-XJR05BR
 type: information
 title: Revision history
-parent: INFO-G6W4NC
-order: 20
+former-id: INFO-JMY913
+parent: REQ-82JBFRP
+order: a1
 ---
 - 0.1 — first draft
 - 0.2 — added safety chapter

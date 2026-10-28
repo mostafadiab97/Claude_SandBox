@@ -1,5 +1,5 @@
 ---
-id: TC-5RVPR6
+id: REQ-VSGECWC
 type: test-case
 title: "Verify: Battery backup restores schedule entries"
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 tags:
   - accessibility
   - release-2.0
-parent: INFO-MACGC3
-order: 470
+former-id: TC-5RVPR6
+parent: REQ-F9Z1FYS
+order: ak
 links:
   - type: verifies
-    target: SYS-QJNNZD
+    target: REQ-2ST0NQA
     confirmed: 220d5e428bbc
 ---
 **Objective:** verify that the battery backup behaves as specified.

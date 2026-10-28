@@ -1,5 +1,5 @@
 ---
-id: IF-Z8EZ06
+id: REQ-Q56T5KM
 type: interface-requirement
 title: Switch the room temperature — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - customer-request
   - ux
-parent: IF-J6HW83
-order: 10
+former-id: IF-Z8EZ06
+parent: REQ-NGH6DFZ
+order: a0
 links:
   - type: refines
-    target: IF-J6HW83
+    target: REQ-NGH6DFZ
     confirmed: b1ddcf75c950
 ---
 The schedule editor shall limit the connection state in all supported languages.

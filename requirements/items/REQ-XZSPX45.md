@@ -1,5 +1,5 @@
 ---
-id: HW-QGZJ3Z
+id: REQ-XZSPX45
 type: hardware-requirement
 title: Menu system encrypts humidity values
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - ux
   - release-1.0
-parent: SYS-26VKCE
-order: 10
+former-id: HW-QGZJ3Z
+parent: REQ-SV28FZ6
+order: a0
 links:
   - type: refines
-    target: SYS-26VKCE
+    target: REQ-SV28FZ6
     confirmed: 5c68d7d11bea
 ---
 The menu system shall log error conditions below 0.5 W in standby.

@@ -1,15 +1,16 @@
 ---
-id: TC-6SJD3D
+id: REQ-MNM0J82
 type: test-case
 title: "Verify: Home dashboard encrypts firmware images"
 status: Obsolete
 priority: High
 owner: محمد علي
-parent: INFO-J0FETE
-order: 270
+former-id: TC-6SJD3D
+parent: REQ-WR5ZJN9
+order: aQ
 links:
   - type: verifies
-    target: SYS-SKM5Z9
+    target: REQ-F11HQ72
     confirmed: 832b55acc75f
 ---
 **Objective:** verify that the home dashboard behaves as specified.

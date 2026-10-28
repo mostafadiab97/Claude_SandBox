@@ -1,5 +1,5 @@
 ---
-id: SYS-AB1WG2
+id: REQ-WQ6EFZQ
 type: system-requirement
 title: Watchdog logs schedule entries
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: É. Laurent
 tags:
   - release-2.0
-parent: INFO-0229G8
-order: 1360
+former-id: SYS-AB1WG2
+parent: REQ-H9113WA
+order: b1B
 links:
   - type: refines
-    target: STK-92HHJV
+    target: REQ-Z7761RK
     confirmed: 260bd01800c6
 ---
 The watchdog shall switch access tokens for up to 8 zones.

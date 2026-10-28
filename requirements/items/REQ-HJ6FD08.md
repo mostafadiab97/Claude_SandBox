@@ -1,5 +1,5 @@
 ---
-id: IF-TMX193
+id: REQ-HJ6FD08
 type: interface-requirement
 title: Main PCB encrypts access tokens
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 tags:
   - EMC
   - regulatory
-parent: SYS-387701
-order: 20
+former-id: IF-TMX193
+parent: REQ-9EQV92B
+order: a1
 links:
   - type: refines
-    target: SYS-387701
+    target: REQ-9EQV92B
     confirmed: 0b7909b67648
 ---
 The enclosure shall report the room temperature in all supported languages.

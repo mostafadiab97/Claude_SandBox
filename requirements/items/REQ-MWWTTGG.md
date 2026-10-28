@@ -1,17 +1,18 @@
 ---
-id: TC-GEF7BY
+id: REQ-MWWTTGG
 type: test-case
 title: "Verify: Backlight authenticates the operating mode"
 status: Review
 owner: N. Kamal
-parent: INFO-HTSZ15
-order: 510
+former-id: TC-GEF7BY
+parent: REQ-Y9VHHKA
+order: ao
 links:
   - type: verifies
-    target: SYS-VB3BED
+    target: REQ-JKJ9QCV
     confirmed: 7ba2d9f9c3fd
   - type: verifies
-    target: SW-6KEF7V
+    target: REQ-2FV6DQF
     confirmed: 3b26921fc961
 ---
 **Objective:** verify that the backlight behaves as specified.

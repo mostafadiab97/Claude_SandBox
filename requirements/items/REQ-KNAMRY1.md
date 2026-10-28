@@ -1,14 +1,15 @@
 ---
-id: IF-9A1CH0
+id: REQ-KNAMRY1
 type: interface-requirement
 title: Notification service restores the operating mode
 status: Approved
 owner: A. Hassan
-parent: SYS-S2EZJF
-order: 20
+former-id: IF-9A1CH0
+parent: REQ-6ESJ1D4
+order: a1
 links:
   - type: refines
-    target: SYS-S2EZJF
+    target: REQ-6ESJ1D4
     confirmed: b0a3b18f1cfd
 ---
 The home dashboard shall log user preferences in all supported languages.

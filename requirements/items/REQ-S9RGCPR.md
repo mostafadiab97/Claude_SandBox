@@ -1,15 +1,16 @@
 ---
-id: DE-ANTFGV
+id: REQ-S9RGCPR
 type: design-element
 title: Module encryption_layer_60
 status: Review
 priority: High
 owner: R. Nabil
-parent: SW-MX7TQD
-order: 20
+former-id: DE-ANTFGV
+parent: REQ-636J42N
+order: a1
 links:
   - type: implements
-    target: SW-MX7TQD
+    target: REQ-636J42N
     confirmed: 22def05f9849
 ---
 Implemented in `src/safe/encryption_layer.c`.

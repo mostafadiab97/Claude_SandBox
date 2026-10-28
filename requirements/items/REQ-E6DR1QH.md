@@ -1,5 +1,5 @@
 ---
-id: HW-MQB1D9
+id: REQ-E6DR1QH
 type: hardware-requirement
 title: Rotary knob restores error conditions
 status: Obsolete
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - ux
   - security
-parent: SYS-BR6W9Y
-order: 20
+former-id: HW-MQB1D9
+parent: REQ-FT2D5DC
+order: a1
 links:
   - type: refines
-    target: SYS-BR6W9Y
+    target: REQ-FT2D5DC
     confirmed: 2465c089a968
 ---
 The backlight shall encrypt access tokens in under 3 s.

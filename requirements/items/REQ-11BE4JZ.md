@@ -1,5 +1,5 @@
 ---
-id: TC-380EB2
+id: REQ-11BE4JZ
 type: test-case
 title: "Regression: Menu system measures firmware images"
 status: Approved
@@ -7,11 +7,12 @@ owner: J. Müller
 tags:
   - EMC
   - accessibility
-parent: INFO-ECHASH
-order: 550
+former-id: TC-380EB2
+parent: REQ-6H15AV2
+order: as
 links:
   - type: verifies
-    target: SYS-Y4YCS0
+    target: REQ-XWFNNXT
     confirmed: a080ef16fc5e
 ---
 **Objective:** verify that the device behaves as specified.

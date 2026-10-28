@@ -1,5 +1,5 @@
 ---
-id: SW-BC6S3M
+id: REQ-ZVWNPVG
 type: software-requirement
 title: Detect sensor readings — detail
 status: Obsolete
@@ -7,11 +7,12 @@ owner: S. Adel
 tags:
   - EMC
   - safety
-parent: SW-W9JKKF
-order: 10
+former-id: SW-BC6S3M
+parent: REQ-7CH03RK
+order: a0
 links:
   - type: refines
-    target: SW-W9JKKF
+    target: REQ-7CH03RK
     confirmed: cc33ff5a3ddf
 ---
 The secure boot shall validate access tokens for at least 10 years.

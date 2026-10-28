@@ -1,15 +1,16 @@
 ---
-id: SW-BG63HZ
+id: REQ-6AWW766
 type: software-requirement
 title: Heating controller reports the room temperature
 status: Draft
 priority: High
 owner: S. Adel
-parent: SYS-J8Q01T
-order: 10
+former-id: SW-BG63HZ
+parent: REQ-66SD5Y0
+order: a0
 links:
   - type: refines
-    target: SYS-J8Q01T
+    target: REQ-66SD5Y0
     confirmed: d85270700def
 ---
 The zone valve shall encrypt the set point in all supported languages.

@@ -1,14 +1,15 @@
 ---
-id: SW-GVQCHR
+id: REQ-WJSTQYS
 type: software-requirement
 title: Schedule editor synchronises the set point
 status: Draft
 priority: High
-parent: SYS-CHKY3X
-order: 20
+former-id: SW-GVQCHR
+parent: REQ-A3PZBKA
+order: a1
 links:
   - type: refines
-    target: SYS-CHKY3X
+    target: REQ-A3PZBKA
     confirmed: 3654ea6dcd35
 ---
 The mobile app shall notify firmware images at least once per minute.

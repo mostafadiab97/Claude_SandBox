@@ -1,5 +1,5 @@
 ---
-id: IF-DR280M
+id: REQ-XH7JJAW
 type: interface-requirement
 title: "Signal 292: user preferences"
 status: Approved
@@ -8,7 +8,8 @@ owner: H. Mostafa
 tags:
   - EMC
   - safety
-parent: INFO-2TM0JP
-order: 2920
+former-id: IF-DR280M
+parent: REQ-RJ0KHPT
+order: b3h
 ---
 Interface signal number 292.

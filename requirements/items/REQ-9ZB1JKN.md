@@ -1,14 +1,15 @@
 ---
-id: TC-S11N88
+id: REQ-9ZB1JKN
 type: test-case
 title: "Verify: Bluetooth LE link logs audit records"
 status: Draft
 priority: Medium
-parent: INFO-F0M7VC
-order: 510
+former-id: TC-S11N88
+parent: REQ-67RQXCK
+order: ao
 links:
   - type: verifies
-    target: SYS-B7X9NT
+    target: REQ-891HRQ1
     confirmed: 3dbe2b5d8662
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

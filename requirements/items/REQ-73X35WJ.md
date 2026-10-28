@@ -1,15 +1,16 @@
 ---
-id: TC-2RZ6M5
+id: REQ-73X35WJ
 type: test-case
 title: "Regression: Main PCB measures firmware images"
 status: Draft
 priority: Low
 owner: M. Farouk
-parent: INFO-ECHASH
-order: 1440
+former-id: TC-2RZ6M5
+parent: REQ-6H15AV2
+order: b1J
 links:
   - type: verifies
-    target: SYS-FFTATD
+    target: REQ-8WGXNDY
     confirmed: 95a8578d9835
 ---
 **Objective:** verify that the device behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: SW-V98JPV
+id: REQ-S991TGD
 type: software-requirement
 title: Encryption layer calibrates relay events
 status: Approved
 priority: Medium
 owner: محمد علي
-parent: SYS-RZQXR0
-order: 30
+former-id: SW-V98JPV
+parent: REQ-DTPW50P
+order: a2
 links:
   - type: refines
-    target: SYS-RZQXR0
+    target: REQ-DTPW50P
     confirmed: 12216b2c0a19
 ---
 The secure boot shall restore the set point for up to 8 zones.

@@ -1,5 +1,5 @@
 ---
-id: SW-AFZJ0N
+id: REQ-VTR97W1
 type: software-requirement
 title: Report relay events — detail
 status: Obsolete
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - performance
   - ux
-parent: SW-857E25
-order: 10
+former-id: SW-AFZJ0N
+parent: REQ-BQ9DABF
+order: a0
 links:
   - type: refines
-    target: SW-857E25
+    target: REQ-BQ9DABF
     confirmed: 22719db22bc1
 ---
 The heat pump driver shall measure audit records for up to 8 zones.

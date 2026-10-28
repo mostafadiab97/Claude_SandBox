@@ -1,5 +1,5 @@
 ---
-id: SYS-8KE9F2
+id: REQ-RJT2C4K
 type: system-requirement
 title: Heat pump driver synchronises the set point
 status: Review
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - performance
   - cost
-parent: INFO-6DQTKV
-order: 520
+former-id: SYS-8KE9F2
+parent: REQ-7ED7ZET
+order: ap
 links:
   - type: refines
-    target: STK-ESBN30
+    target: REQ-HY1GZK0
     confirmed: 8a56cb48b6c3
 ---
 The heat pump driver shall encrypt the connection state within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: TC-PKKPAS
+id: REQ-Q0B1BEN
 type: test-case
 title: "Verify: Battery backup logs error conditions"
 status: Obsolete
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - connectivity
   - i18n
-parent: INFO-MACGC3
-order: 540
+former-id: TC-PKKPAS
+parent: REQ-F9Z1FYS
+order: ar
 links:
   - type: verifies
-    target: SYS-GRPZ1J
+    target: REQ-4VDYVAN
     confirmed: 5728c75e8b12
 ---
 **Objective:** verify that the battery backup behaves as specified.

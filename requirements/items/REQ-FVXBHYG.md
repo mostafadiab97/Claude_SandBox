@@ -1,5 +1,5 @@
 ---
-id: HW-1TMT2M
+id: REQ-FVXBHYG
 type: hardware-requirement
 title: Wi-Fi module synchronises the set point
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - EMC
   - release-2.0
-parent: SYS-749A38
-order: 20
+former-id: HW-1TMT2M
+parent: REQ-GHJK43J
+order: a1
 links:
   - type: refines
-    target: SYS-749A38
+    target: REQ-GHJK43J
     confirmed: a8274ea6218e
 ---
 The Wi-Fi module shall limit audit records below 0.5 W in standby.

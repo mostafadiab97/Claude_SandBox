@@ -1,18 +1,19 @@
 ---
-id: SYS-BGBCA1
+id: REQ-RBWFBZ4
 type: system-requirement
 title: Home dashboard logs safety limits
 status: Review
 priority: Low
 owner: Y. Saber
-parent: INFO-2XXBRS
-order: 1770
+former-id: SYS-BGBCA1
+parent: REQ-QYXGSQ4
+order: b1q
 links:
   - type: refines
-    target: STK-639N9T
+    target: REQ-EMZ19WQ
     confirmed: 252da9caa62c
   - type: mitigates
-    target: RSK-KX4Z8F
+    target: REQ-1CKR5QB
     confirmed: ce36fe2999cf
 ---
 The home dashboard shall report audit records using AES-256-GCM.

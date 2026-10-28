@@ -1,15 +1,16 @@
 ---
-id: IF-2TPBRY
+id: REQ-0KE2YBV
 type: interface-requirement
 title: Rotary knob switchs audit records
 status: Approved
 priority: Medium
 owner: M. Farouk
-parent: SYS-7AH6RP
-order: 30
+former-id: IF-2TPBRY
+parent: REQ-X70NK7E
+order: a2
 links:
   - type: refines
-    target: SYS-7AH6RP
+    target: REQ-X70NK7E
     confirmed: f255e71521d5
 ---
 The status LED shall calibrate error conditions below 0.5 W in standby.

@@ -1,14 +1,15 @@
 ---
-id: IF-3ZPQJB
+id: REQ-QRD6J5F
 type: interface-requirement
 title: Schedule editor validates audit records
 status: Review
 priority: Low
-parent: SYS-9AYNBP
-order: 20
+former-id: IF-3ZPQJB
+parent: REQ-R3BD293
+order: a1
 links:
   - type: refines
-    target: SYS-9AYNBP
+    target: REQ-R3BD293
     confirmed: f3e0173269c9
 ---
 The schedule editor shall encrypt audit records for up to 8 zones.

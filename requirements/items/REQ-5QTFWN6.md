@@ -1,5 +1,5 @@
 ---
-id: HW-321BK9
+id: REQ-5QTFWN6
 type: hardware-requirement
 title: Home dashboard notifys the operating mode
 status: Review
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - performance
   - security
-parent: SYS-ZNDMZ4
-order: 20
+former-id: HW-321BK9
+parent: REQ-D8TX3Z0
+order: a1
 links:
   - type: refines
-    target: SYS-ZNDMZ4
+    target: REQ-D8TX3Z0
     confirmed: 57cabc46b0d2
 ---
 The schedule editor shall store energy consumption without user interaction.

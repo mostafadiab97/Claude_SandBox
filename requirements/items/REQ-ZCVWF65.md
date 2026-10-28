@@ -1,5 +1,5 @@
 ---
-id: IF-GG3V3Z
+id: REQ-ZCVWF65
 type: interface-requirement
 title: "Signal 527: humidity values"
 status: Draft
@@ -8,7 +8,8 @@ tags:
   - EMC
   - release-1.0
   - connectivity
-parent: INFO-2TM0JP
-order: 5270
+former-id: IF-GG3V3Z
+parent: REQ-RJ0KHPT
+order: b7U
 ---
 Interface signal number 527.

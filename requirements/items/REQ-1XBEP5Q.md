@@ -1,15 +1,16 @@
 ---
-id: IF-H7A7F0
+id: REQ-1XBEP5Q
 type: interface-requirement
 title: Synchronise user preferences — detail
 status: Draft
 priority: Medium
 owner: A. Hassan
-parent: IF-9DX8M6
-order: 10
+former-id: IF-H7A7F0
+parent: REQ-VKQ10QG
+order: a0
 links:
   - type: refines
-    target: IF-9DX8M6
+    target: REQ-VKQ10QG
     confirmed: f35cddf50d67
 ---
 The boiler interface shall detect energy consumption after a power loss.

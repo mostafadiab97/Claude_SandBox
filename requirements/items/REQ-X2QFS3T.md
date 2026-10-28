@@ -1,5 +1,5 @@
 ---
-id: SW-TQ408P
+id: REQ-X2QFS3T
 type: software-requirement
 title: Boiler interface logs the room temperature
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Low
 owner: M. Farouk
 tags:
   - performance
-parent: SYS-HS7YMC
-order: 20
+former-id: SW-TQ408P
+parent: REQ-MWZKPDC
+order: a1
 links:
   - type: refines
-    target: SYS-HS7YMC
+    target: REQ-MWZKPDC
     confirmed: 0b69395daa11
 ---
 The heating controller shall restore access tokens within 200 ms.

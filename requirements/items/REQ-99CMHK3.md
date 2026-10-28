@@ -1,5 +1,5 @@
 ---
-id: SYS-AZ9A6C
+id: REQ-99CMHK3
 type: system-requirement
 title: Home dashboard switchs the set point
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - ux
   - performance
-parent: INFO-2XXBRS
-order: 620
+former-id: SYS-AZ9A6C
+parent: REQ-QYXGSQ4
+order: az
 links:
   - type: refines
-    target: STK-4F6B1Y
+    target: REQ-5P7JDVE
     confirmed: 4a1d76b1da2c
 ---
 The home dashboard shall store safety limits without user interaction.

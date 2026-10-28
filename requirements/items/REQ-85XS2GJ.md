@@ -1,5 +1,5 @@
 ---
-id: SW-1XT0NN
+id: REQ-85XS2GJ
 type: software-requirement
 title: Notification service limits humidity values
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: H. Mostafa
 tags:
   - performance
-parent: SYS-7BRVTY
-order: 40
+former-id: SW-1XT0NN
+parent: REQ-FRE9B15
+order: a3
 links:
   - type: refines
-    target: SYS-7BRVTY
+    target: REQ-FRE9B15
     confirmed: f003d27313f2
 ---
 The home dashboard shall calibrate error conditions in all supported languages.

@@ -1,15 +1,16 @@
 ---
-id: IF-78YFET
+id: REQ-6HCR7F0
 type: interface-requirement
 title: Main PCB switchs audit records
 status: Obsolete
 priority: Low
 owner: J. Müller
-parent: SYS-R8S84Y
-order: 30
+former-id: IF-78YFET
+parent: REQ-VTMBTS5
+order: a2
 links:
   - type: refines
-    target: SYS-R8S84Y
+    target: REQ-VTMBTS5
     confirmed: 1adc29377b0d
 ---
 The power supply shall store error conditions with an accuracy of ±0.5 °C.

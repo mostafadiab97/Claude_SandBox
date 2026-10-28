@@ -1,13 +1,14 @@
 ---
-id: SYS-C4HEZ6
+id: REQ-BF9Y5RT
 type: system-requirement
 title: Telemetry pipeline limits the room temperature
 status: Approved
-parent: INFO-YV5EZD
-order: 1210
+former-id: SYS-C4HEZ6
+parent: REQ-RE9ZKHF
+order: b0w
 links:
   - type: refines
-    target: STK-CJBDWK
+    target: REQ-KR6ZHYR
     confirmed: b9e9b89c87b3
 ---
 The telemetry pipeline shall switch safety limits when the network is unavailable.

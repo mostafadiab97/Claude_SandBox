@@ -1,5 +1,5 @@
 ---
-id: SW-H9TQJM
+id: REQ-MN93TW7
 type: software-requirement
 title: Cloud backend detects the room temperature
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - EMC
   - i18n
   - performance
-parent: SYS-0AQ1WN
-order: 10
+former-id: SW-H9TQJM
+parent: REQ-P6D29TG
+order: a0
 links:
   - type: refines
-    target: SYS-0AQ1WN
+    target: REQ-P6D29TG
     confirmed: 7e00d0c5709a
 ---
 The OTA server shall detect schedule entries at least once per minute.

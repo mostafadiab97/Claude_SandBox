@@ -1,15 +1,16 @@
 ---
-id: TC-3PRAAJ
+id: REQ-QMQDPV8
 type: test-case
 title: "Verify: Backlight authenticates the operating mode"
 status: Obsolete
 priority: High
 owner: N. Kamal
-parent: INFO-HTSZ15
-order: 860
+former-id: TC-3PRAAJ
+parent: REQ-Y9VHHKA
+order: b0N
 links:
   - type: verifies
-    target: SYS-1SK52W
+    target: REQ-R2DDK30
     confirmed: 27622b3cf4f9
 ---
 **Objective:** verify that the backlight behaves as specified.

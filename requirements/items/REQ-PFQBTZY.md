@@ -1,15 +1,16 @@
 ---
-id: TC-2XDG5Q
+id: REQ-PFQBTZY
 type: test-case
 title: "Regression: Status LED measures schedule entries"
 status: Approved
 priority: High
 owner: S. Adel
-parent: INFO-ECHASH
-order: 820
+former-id: TC-2XDG5Q
+parent: REQ-6H15AV2
+order: b0J
 links:
   - type: verifies
-    target: SYS-D26GKZ
+    target: REQ-055THBY
     confirmed: 5ddece9ce40b
 ---
 **Objective:** verify that the device behaves as specified.

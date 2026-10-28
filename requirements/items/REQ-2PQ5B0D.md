@@ -1,18 +1,19 @@
 ---
-id: SYS-EGXJY6
+id: REQ-2PQ5B0D
 type: system-requirement
 title: User account service reports schedule entries
 status: Approved
 priority: High
 owner: M. Farouk
-parent: INFO-YV5EZD
-order: 1760
+former-id: SYS-EGXJY6
+parent: REQ-RE9ZKHF
+order: b1p
 links:
   - type: refines
-    target: STK-JFBQPS
+    target: REQ-A8X8PTB
     confirmed: 5027ee1822eb
   - type: mitigates
-    target: RSK-9BAEZR
+    target: REQ-ZC4S6SV
     confirmed: 09af4dd83b7f
 ---
 The user account service shall synchronise the operating mode for at least 10 years.

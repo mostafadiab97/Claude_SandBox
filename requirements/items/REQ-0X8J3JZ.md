@@ -1,5 +1,5 @@
 ---
-id: TC-372NKJ
+id: REQ-0X8J3JZ
 type: test-case
 title: Hub verification 17
 status: Review
@@ -7,11 +7,12 @@ owner: M. Farouk
 tags:
   - accessibility
   - release-2.0
-parent: INFO-ECHASH
-order: 260
+former-id: TC-372NKJ
+parent: REQ-6H15AV2
+order: aP
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

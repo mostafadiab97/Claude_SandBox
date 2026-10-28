@@ -1,5 +1,5 @@
 ---
-id: SW-FJNHTZ
+id: REQ-R3R7FXA
 type: software-requirement
 title: OTA server validates relay events
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - safety
   - connectivity
-parent: SYS-F5DVP4
-order: 20
+former-id: SW-FJNHTZ
+parent: REQ-7MXJ7E0
+order: a1
 links:
   - type: refines
-    target: SYS-F5DVP4
+    target: REQ-7MXJ7E0
     confirmed: fd7bc4fcdfea
 ---
 The cloud backend shall validate schedule entries at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: SW-7CP90S
+id: REQ-H99DRES
 type: software-requirement
 title: Bluetooth LE link encrypts schedule entries
 status: Review
@@ -8,11 +8,12 @@ tags:
   - accessibility
   - i18n
   - release-1.0
-parent: SYS-XKACBR
-order: 30
+former-id: SW-7CP90S
+parent: REQ-4JV3MM5
+order: a2
 links:
   - type: refines
-    target: SYS-XKACBR
+    target: REQ-4JV3MM5
     confirmed: aaffd1e53d20
 ---
 The Bluetooth LE link shall authenticate the connection state for at least 10 years.

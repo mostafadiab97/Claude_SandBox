@@ -1,5 +1,5 @@
 ---
-id: TC-H555MM
+id: REQ-QYVZTZV
 type: test-case
 title: "Verify: Relay board logs sensor readings"
 status: Review
@@ -7,11 +7,12 @@ owner: محمد علي
 tags:
   - release-2.0
   - safety
-parent: INFO-MACGC3
-order: 1500
+former-id: TC-H555MM
+parent: REQ-F9Z1FYS
+order: b1P
 links:
   - type: verifies
-    target: SYS-X20Q9Q
+    target: REQ-Q5CSCWN
     confirmed: 872e82d5e322
 ---
 **Objective:** verify that the relay board behaves as specified.

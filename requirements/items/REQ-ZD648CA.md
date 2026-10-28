@@ -1,15 +1,16 @@
 ---
-id: SW-NT6Q8V
+id: REQ-ZD648CA
 type: software-requirement
 title: Login screen logs firmware images
 status: Approved
 priority: Medium
 owner: M. Farouk
-parent: SYS-XTSYX5
-order: 20
+former-id: SW-NT6Q8V
+parent: REQ-Y5YXWYJ
+order: a1
 links:
   - type: refines
-    target: SYS-XTSYX5
+    target: REQ-Y5YXWYJ
     confirmed: dc17ae1784ef
 ---
 The home dashboard shall synchronise schedule entries with an accuracy of ±0.5 °C.

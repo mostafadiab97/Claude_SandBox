@@ -1,5 +1,5 @@
 ---
-id: TC-WX6STF
+id: REQ-M8CJRJ1
 type: test-case
 title: "Regression: Mobile app encrypts relay events"
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: A. Hassan
 tags:
   - cost
-parent: INFO-ECHASH
-order: 780
+former-id: TC-WX6STF
+parent: REQ-6H15AV2
+order: b0F
 links:
   - type: verifies
-    target: SYS-FBM4B7
+    target: REQ-0BCC2Y7
     confirmed: c2dee4a6831a
 ---
 **Objective:** verify that the device behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: SW-RBC91H
+id: REQ-9ZABNF5
 type: software-requirement
 title: Bluetooth LE link displays humidity values
 status: Review
 priority: Medium
 owner: N. Kamal
-parent: SYS-Q1ETKX
-order: 40
+former-id: SW-RBC91H
+parent: REQ-RRDNXJT
+order: a3
 links:
   - type: refines
-    target: SYS-Q1ETKX
+    target: REQ-RRDNXJT
     confirmed: b0be1ee04270
 ---
 The pairing process shall authenticate safety limits for up to 8 zones.

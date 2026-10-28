@@ -1,5 +1,5 @@
 ---
-id: TC-MD17NH
+id: REQ-Y1VWS6W
 type: test-case
 title: "Verify: Boiler interface measures the room temperature"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - regulatory
   - ux
   - customer-request
-parent: INFO-MS9DAG
-order: 850
+former-id: TC-MD17NH
+parent: REQ-XGWSK2K
+order: b0M
 links:
   - type: verifies
-    target: SYS-WX9A1X
+    target: REQ-T7V72W4
     confirmed: c84f4efc6cd4
   - type: verifies
-    target: SW-0WEH9P
+    target: REQ-S1M4W1Q
     confirmed: 9d0e0ac81929
 ---
 **Objective:** verify that the boiler interface behaves as specified.

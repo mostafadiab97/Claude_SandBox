@@ -1,15 +1,16 @@
 ---
-id: IF-JR9TQE
+id: REQ-TCAPXX6
 type: interface-requirement
 title: Notification service notifys audit records
 status: Review
 priority: Low
 owner: L. Samir
-parent: SYS-8HSDWQ
-order: 20
+former-id: IF-JR9TQE
+parent: REQ-Z8ERP87
+order: a1
 links:
   - type: refines
-    target: SYS-8HSDWQ
+    target: REQ-Z8ERP87
     confirmed: 410ee1c6bb84
 ---
 The mobile app shall calibrate energy consumption within 200 ms.

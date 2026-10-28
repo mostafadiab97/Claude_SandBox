@@ -1,5 +1,5 @@
 ---
-id: TC-EEYPTP
+id: REQ-HQHB2TB
 type: test-case
 title: "Regression: Schedule editor detects firmware images"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - cost
   - EMC
-parent: INFO-ECHASH
-order: 1910
+former-id: TC-EEYPTP
+parent: REQ-6H15AV2
+order: b24
 links:
   - type: verifies
-    target: SYS-YW7JJY
+    target: REQ-A9MQHYC
     confirmed: eb4dd1b8dfac
 ---
 **Objective:** verify that the device behaves as specified.

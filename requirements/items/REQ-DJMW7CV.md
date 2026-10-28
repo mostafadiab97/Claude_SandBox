@@ -1,5 +1,5 @@
 ---
-id: IF-H9WS19
+id: REQ-DJMW7CV
 type: interface-requirement
 title: "Signal 013: schedule entries"
 status: Draft
@@ -8,7 +8,8 @@ owner: S. Adel
 tags:
   - release-1.0
   - connectivity
-parent: INFO-2TM0JP
-order: 130
+former-id: IF-H9WS19
+parent: REQ-RJ0KHPT
+order: aC
 ---
 Interface signal number 13.

@@ -1,5 +1,5 @@
 ---
-id: SW-E06JPF
+id: REQ-T76MD46
 type: software-requirement
 title: Display access tokens — detail
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - EMC
-parent: SW-5P6H4R
-order: 10
+former-id: SW-E06JPF
+parent: REQ-CK0WXFA
+order: a0
 links:
   - type: refines
-    target: SW-5P6H4R
+    target: REQ-CK0WXFA
     confirmed: db65368aad26
 ---
 The schedule editor shall switch access tokens for up to 8 zones.

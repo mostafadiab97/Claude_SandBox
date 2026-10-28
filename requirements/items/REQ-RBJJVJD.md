@@ -1,5 +1,5 @@
 ---
-id: SYS-QKZP7T
+id: REQ-RBJJVJD
 type: system-requirement
 title: Status LED validates humidity values
 status: Review
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - release-1.0
   - customer-request
-parent: INFO-PDR6FV
-order: 1350
+former-id: SYS-QKZP7T
+parent: REQ-2ZA2TRZ
+order: b1A
 links:
   - type: refines
-    target: STK-KPV71Q
+    target: REQ-VQBZQVC
     confirmed: 10d9c216aea2
 ---
 The status LED shall validate schedule entries for up to 8 zones.

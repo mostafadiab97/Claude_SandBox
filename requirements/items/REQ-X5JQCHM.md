@@ -1,5 +1,5 @@
 ---
-id: HW-1SK22Q
+id: REQ-X5JQCHM
 type: hardware-requirement
 title: Display the connection state — detail
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 tags:
   - release-2.0
   - connectivity
-parent: HW-8HGRRA
-order: 10
+former-id: HW-1SK22Q
+parent: REQ-8248JB0
+order: a0
 links:
   - type: refines
-    target: HW-8HGRRA
+    target: REQ-8248JB0
     confirmed: 214852eb4b23
 ---
 The power supply shall restore the operating mode when the network is unavailable.

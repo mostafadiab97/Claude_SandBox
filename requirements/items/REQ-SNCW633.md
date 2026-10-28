@@ -1,5 +1,5 @@
 ---
-id: SW-Y8GJ6B
+id: REQ-SNCW633
 type: software-requirement
 title: Encrypt sensor readings — detail
 status: Review
@@ -8,11 +8,12 @@ tags:
   - i18n
   - release-2.0
   - performance
-parent: SW-Y1MQKX
-order: 10
+former-id: SW-Y8GJ6B
+parent: REQ-CT03VN1
+order: a0
 links:
   - type: refines
-    target: SW-Y1MQKX
+    target: REQ-CT03VN1
     confirmed: 0050a7c0baf3
 ---
 The encryption layer shall notify schedule entries after a power loss.

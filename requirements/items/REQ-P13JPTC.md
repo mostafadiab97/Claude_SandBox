@@ -1,5 +1,5 @@
 ---
-id: SW-W9M3AN
+id: REQ-P13JPTC
 type: software-requirement
 title: Notification service measures schedule entries
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 tags:
   - security
   - regulatory
-parent: SYS-RV3J4H
-order: 20
+former-id: SW-W9M3AN
+parent: REQ-2PXRV1Y
+order: a1
 links:
   - type: refines
-    target: SYS-RV3J4H
+    target: REQ-2PXRV1Y
     confirmed: c844415dcddc
 ---
 The mobile app shall synchronise error conditions for at least 10 years.

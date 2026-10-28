@@ -1,5 +1,5 @@
 ---
-id: IF-R2R50T
+id: REQ-25CBHWM
 type: interface-requirement
 title: Wi-Fi module authenticates firmware images
 status: Review
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - cost
   - power
-parent: SYS-DHYCNS
-order: 10
+former-id: IF-R2R50T
+parent: REQ-M5V5PF1
+order: a0
 links:
   - type: refines
-    target: SYS-DHYCNS
+    target: REQ-M5V5PF1
     confirmed: 9466532a35e3
 ---
 The Zigbee radio shall store access tokens when the network is unavailable.

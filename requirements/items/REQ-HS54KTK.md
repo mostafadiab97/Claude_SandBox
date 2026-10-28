@@ -1,5 +1,5 @@
 ---
-id: HW-G73MF0
+id: REQ-HS54KTK
 type: hardware-requirement
 title: Rotary knob measures error conditions
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - performance
   - EMC
-parent: SYS-HN5S5X
-order: 30
+former-id: HW-G73MF0
+parent: REQ-NH4F1EN
+order: a2
 links:
   - type: refines
-    target: SYS-HN5S5X
+    target: REQ-NH4F1EN
     confirmed: 98a2a16336ac
 ---
 The backlight shall limit sensor readings in all supported languages.

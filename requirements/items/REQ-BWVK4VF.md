@@ -1,5 +1,5 @@
 ---
-id: IF-401XP3
+id: REQ-BWVK4VF
 type: interface-requirement
 title: Relay board switchs humidity values
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - EMC
   - power
   - i18n
-parent: SYS-HRRNGW
-order: 40
+former-id: IF-401XP3
+parent: REQ-P7EBBT6
+order: a3
 links:
   - type: refines
-    target: SYS-HRRNGW
+    target: REQ-P7EBBT6
     confirmed: afbcfeedc1e2
 ---
 The power supply shall authenticate access tokens using AES-256-GCM.

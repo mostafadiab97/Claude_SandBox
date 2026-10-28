@@ -1,15 +1,16 @@
 ---
-id: TC-489E21
+id: REQ-GCD39WY
 type: test-case
 title: "Verify: Zone valve displays humidity values"
 status: Obsolete
 priority: High
 owner: L. Samir
-parent: INFO-MS9DAG
-order: 170
+former-id: TC-489E21
+parent: REQ-XGWSK2K
+order: aG
 links:
   - type: verifies
-    target: SYS-2VJXMH
+    target: REQ-851RY2T
     confirmed: 83f4124c0709
 ---
 **Objective:** verify that the zone valve behaves as specified.

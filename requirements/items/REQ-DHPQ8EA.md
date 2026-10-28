@@ -1,5 +1,5 @@
 ---
-id: TC-5T25JV
+id: REQ-DHPQ8EA
 type: test-case
 title: "Verify: Heating controller displays the connection state"
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - accessibility
   - customer-request
   - performance
-parent: INFO-MS9DAG
-order: 400
+former-id: TC-5T25JV
+parent: REQ-XGWSK2K
+order: ad
 links:
   - type: verifies
-    target: SYS-F5RTF4
+    target: REQ-KA1D06R
     confirmed: 72eb3d42eaa8
 ---
 **Objective:** verify that the heating controller behaves as specified.

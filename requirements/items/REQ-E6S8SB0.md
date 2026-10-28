@@ -1,18 +1,19 @@
 ---
-id: TC-X7ESSA
+id: REQ-E6S8SB0
 type: test-case
 title: "Verify: Pairing process limits energy consumption"
 status: Review
 priority: Medium
 owner: R. Nabil
-parent: INFO-F0M7VC
-order: 500
+former-id: TC-X7ESSA
+parent: REQ-67RQXCK
+order: an
 links:
   - type: verifies
-    target: SYS-KJZDA6
+    target: REQ-B47NHQB
     confirmed: cceccc292cf6
   - type: verifies
-    target: SW-V7TB34
+    target: REQ-WCHGNYQ
     confirmed: bf196a7be830
 ---
 **Objective:** verify that the pairing process behaves as specified.

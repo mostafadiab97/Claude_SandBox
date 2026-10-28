@@ -1,5 +1,5 @@
 ---
-id: SW-AJ2W4D
+id: REQ-ZHK5FKX
 type: software-requirement
 title: Wi-Fi module limits access tokens
 status: Obsolete
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - i18n
   - customer-request
-parent: SYS-7RZPD7
-order: 10
+former-id: SW-AJ2W4D
+parent: REQ-84ZV56S
+order: a0
 links:
   - type: refines
-    target: SYS-7RZPD7
+    target: REQ-84ZV56S
     confirmed: ff918beefe64
 ---
 The Bluetooth LE link shall notify firmware images for at least 10 years.

@@ -1,5 +1,5 @@
 ---
-id: HW-HZCN9G
+id: REQ-NDJXCT6
 type: hardware-requirement
 title: Encryption layer notifys the operating mode
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - performance
   - security
-parent: SYS-RX90D9
-order: 20
+former-id: HW-HZCN9G
+parent: REQ-P0BX3RG
+order: a1
 links:
   - type: refines
-    target: SYS-RX90D9
+    target: REQ-P0BX3RG
     confirmed: b0d94cbcb216
 ---
 The tamper detection shall synchronise firmware images at least once per minute.

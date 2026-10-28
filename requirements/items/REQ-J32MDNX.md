@@ -1,5 +1,5 @@
 ---
-id: SYS-J06B7Z
+id: REQ-J32MDNX
 type: system-requirement
 title: Menu system stores error conditions
 status: Review
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - i18n
   - power
-parent: INFO-PDR6FV
-order: 1480
+former-id: SYS-J06B7Z
+parent: REQ-2ZA2TRZ
+order: b1N
 links:
   - type: refines
-    target: STK-PCP268
+    target: REQ-DMRJS9A
     confirmed: 74f66b1bb8e8
 ---
 The menu system shall store safety limits without user interaction.

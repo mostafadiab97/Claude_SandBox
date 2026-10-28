@@ -1,15 +1,16 @@
 ---
-id: HW-JB6NKK
+id: REQ-B2VSGQ4
 type: hardware-requirement
 title: Schedule editor logs the operating mode
 status: Approved
 priority: High
 owner: É. Laurent
-parent: SYS-14RRJP
-order: 10
+former-id: HW-JB6NKK
+parent: REQ-6HJ8YSE
+order: a0
 links:
   - type: refines
-    target: SYS-14RRJP
+    target: REQ-6HJ8YSE
     confirmed: 6d7d6ad41e6e
 ---
 The schedule editor shall calibrate the connection state without user interaction.

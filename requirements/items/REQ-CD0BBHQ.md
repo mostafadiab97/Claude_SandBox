@@ -1,15 +1,16 @@
 ---
-id: TC-ERQ9Q0
+id: REQ-CD0BBHQ
 type: test-case
 title: "Verify: Heating controller displays firmware images"
 status: Review
 priority: High
 owner: N. Kamal
-parent: INFO-MS9DAG
-order: 580
+former-id: TC-ERQ9Q0
+parent: REQ-XGWSK2K
+order: av
 links:
   - type: verifies
-    target: SYS-DWKSH2
+    target: REQ-X195VF2
     confirmed: 3f3b61efc945
 ---
 **Objective:** verify that the heating controller behaves as specified.

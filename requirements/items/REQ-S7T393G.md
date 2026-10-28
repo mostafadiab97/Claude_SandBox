@@ -1,15 +1,16 @@
 ---
-id: HW-KR83ET
+id: REQ-S7T393G
 type: hardware-requirement
 title: Main PCB displays audit records
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: SYS-DK3Y4R
-order: 40
+former-id: HW-KR83ET
+parent: REQ-SQ5X7CQ
+order: a3
 links:
   - type: refines
-    target: SYS-DK3Y4R
+    target: REQ-SQ5X7CQ
     confirmed: 85f6bb475fe2
 ---
 The relay board shall calibrate audit records below 0.5 W in standby.

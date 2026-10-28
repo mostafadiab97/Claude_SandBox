@@ -1,5 +1,5 @@
 ---
-id: SYS-4X1SRM
+id: REQ-SHYGEGX
 type: system-requirement
 title: Wi-Fi module reports humidity values
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - accessibility
   - performance
-parent: INFO-NRVHA2
-order: 1330
+former-id: SYS-4X1SRM
+parent: REQ-6R94HFM
+order: b18
 links:
   - type: refines
-    target: STK-AAZ4HV
+    target: REQ-M9DYEF5
     confirmed: 44fc7956dbf8
 ---
 The Wi-Fi module shall restore energy consumption with an accuracy of ±0.5 °C.

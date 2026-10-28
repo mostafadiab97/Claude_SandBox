@@ -1,5 +1,5 @@
 ---
-id: IF-SJBRGZ
+id: REQ-4T426VW
 type: interface-requirement
 title: Zone valve logs safety limits
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - cost
   - performance
-parent: SYS-0DYZ84
-order: 20
+former-id: IF-SJBRGZ
+parent: REQ-DY2HTMY
+order: a1
 links:
   - type: refines
-    target: SYS-0DYZ84
+    target: REQ-DY2HTMY
     confirmed: 520e6515ec8d
 ---
 The heat pump driver shall limit safety limits in under 3 s.

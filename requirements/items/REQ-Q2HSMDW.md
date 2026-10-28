@@ -1,5 +1,5 @@
 ---
-id: SW-QCWFD1
+id: REQ-Q2HSMDW
 type: software-requirement
 title: Pairing process logs firmware images
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: S. Adel
 tags:
   - regulatory
-parent: SYS-EXGREK
-order: 10
+former-id: SW-QCWFD1
+parent: REQ-66QAKAS
+order: a0
 links:
   - type: refines
-    target: SYS-EXGREK
+    target: REQ-66QAKAS
     confirmed: 8ef97aae583c
 ---
 The Bluetooth LE link shall switch the set point within 200 ms.

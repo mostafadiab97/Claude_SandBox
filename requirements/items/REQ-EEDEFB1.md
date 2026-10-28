@@ -1,5 +1,5 @@
 ---
-id: SYS-2G338Q
+id: REQ-EEDEFB1
 type: system-requirement
 title: Touch display notifys the set point
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - performance
   - safety
-parent: INFO-PDR6FV
-order: 1400
+former-id: SYS-2G338Q
+parent: REQ-2ZA2TRZ
+order: b1F
 links:
   - type: refines
-    target: STK-35QR7F
+    target: REQ-QCK2ZS7
     confirmed: bc1aebb7918d
 ---
 The touch display shall encrypt the operating mode below 0.5 W in standby.

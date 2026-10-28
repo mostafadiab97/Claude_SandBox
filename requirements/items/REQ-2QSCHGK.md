@@ -1,16 +1,17 @@
 ---
-id: SW-C9V4XY
+id: REQ-2QSCHGK
 type: software-requirement
 title: Regulation loop logs relay events
 status: Approved
 priority: Low
 tags:
   - performance
-parent: SYS-XGYXWY
-order: 30
+former-id: SW-C9V4XY
+parent: REQ-JTJVT7P
+order: a2
 links:
   - type: refines
-    target: SYS-XGYXWY
+    target: REQ-JTJVT7P
     confirmed: fb88a89b54aa
 ---
 The heating controller shall notify relay events at least once per minute.

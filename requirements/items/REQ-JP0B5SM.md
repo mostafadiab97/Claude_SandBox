@@ -1,5 +1,5 @@
 ---
-id: IF-W2N6XB
+id: REQ-JP0B5SM
 type: interface-requirement
 title: Switch energy consumption — detail
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - i18n
   - cost
   - performance
-parent: IF-BW3X78
-order: 10
+former-id: IF-W2N6XB
+parent: REQ-076ZKE7
+order: a0
 links:
   - type: refines
-    target: IF-BW3X78
+    target: REQ-076ZKE7
     confirmed: 12312a10774b
 ---
 The power supply shall report relay events after a power loss.

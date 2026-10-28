@@ -1,14 +1,15 @@
 ---
-id: HW-2FZ4CS
+id: REQ-79TDWGX
 type: hardware-requirement
 title: Enclosure calibrates error conditions
 status: Obsolete
 owner: S. Adel
-parent: SYS-RA27Q3
-order: 10
+former-id: HW-2FZ4CS
+parent: REQ-DP8XWC8
+order: a0
 links:
   - type: refines
-    target: SYS-RA27Q3
+    target: REQ-DP8XWC8
     confirmed: "8625e4999737"
 ---
 The main PCB shall notify sensor readings when the network is unavailable.

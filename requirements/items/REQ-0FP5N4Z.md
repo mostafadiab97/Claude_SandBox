@@ -1,5 +1,5 @@
 ---
-id: TC-E5RNVJ
+id: REQ-0FP5N4Z
 type: test-case
 title: "Verify: Backlight restores the operating mode"
 status: Approved
@@ -7,11 +7,12 @@ owner: K. Tanaka
 tags:
   - safety
   - ux
-parent: INFO-HTSZ15
-order: 80
+former-id: TC-E5RNVJ
+parent: REQ-Y9VHHKA
+order: a7
 links:
   - type: verifies
-    target: SYS-8FP865
+    target: REQ-80WBXJW
     confirmed: c59e7f0fde76
 ---
 **Objective:** verify that the backlight behaves as specified.

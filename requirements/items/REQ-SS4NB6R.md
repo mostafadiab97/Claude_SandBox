@@ -1,5 +1,5 @@
 ---
-id: SW-MRV1W4
+id: REQ-SS4NB6R
 type: software-requirement
 title: Wi-Fi module authenticates audit records
 status: Review
@@ -9,11 +9,12 @@ tags:
   - cost
   - security
   - i18n
-parent: SYS-1BABK1
-order: 40
+former-id: SW-MRV1W4
+parent: REQ-2TYTJBP
+order: a3
 links:
   - type: refines
-    target: SYS-1BABK1
+    target: REQ-2TYTJBP
     confirmed: 2abcea762c88
 ---
 The pairing process shall authenticate audit records for up to 8 zones.

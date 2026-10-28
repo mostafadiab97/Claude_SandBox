@@ -1,5 +1,5 @@
 ---
-id: SYS-Q1ETKX
+id: REQ-RRDNXJT
 type: system-requirement
 title: Pairing process measures access tokens
 status: Approved
@@ -7,11 +7,12 @@ tags:
   - cost
   - release-1.0
   - accessibility
-parent: INFO-NRVHA2
-order: 470
+former-id: SYS-Q1ETKX
+parent: REQ-6R94HFM
+order: ak
 links:
   - type: refines
-    target: STK-1R2QT3
+    target: REQ-3MGNW4R
     confirmed: 7ca04f22a1b8
 ---
 The pairing process shall limit error conditions below 0.5 W in standby.

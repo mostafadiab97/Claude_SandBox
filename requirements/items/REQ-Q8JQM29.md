@@ -1,14 +1,15 @@
 ---
-id: TC-RQB4CN
+id: REQ-Q8JQM29
 type: test-case
 title: "Verify: Over-temperature monitor detects audit records"
 status: Draft
 owner: S. Adel
-parent: INFO-Z4TW4B
-order: 80
+former-id: TC-RQB4CN
+parent: REQ-K6FGAY0
+order: a7
 links:
   - type: verifies
-    target: SYS-YHR5KF
+    target: REQ-5TMVTPD
     confirmed: 660a8488c508
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: SW-G2DZD2
+id: REQ-8QAVQAS
 type: software-requirement
 title: Device registry detects energy consumption
 status: Approved
 priority: High
 owner: A. Hassan
-parent: SYS-VEFG9D
-order: 10
+former-id: SW-G2DZD2
+parent: REQ-9T1P54R
+order: a0
 links:
   - type: refines
-    target: SYS-VEFG9D
+    target: REQ-9T1P54R
     confirmed: f2ed11769dc3
 ---
 The OTA server shall display safety limits for up to 8 zones.

@@ -1,5 +1,5 @@
 ---
-id: SYS-33WX8J
+id: REQ-38QNR1B
 type: system-requirement
 title: Schedule editor validates audit records
 status: Review
@@ -8,14 +8,15 @@ tags:
   - power
   - security
   - release-1.0
-parent: INFO-2XXBRS
-order: 610
+former-id: SYS-33WX8J
+parent: REQ-QYXGSQ4
+order: ay
 links:
   - type: refines
-    target: STK-BR4RT9
+    target: REQ-QZME2VX
     confirmed: 16def0c1f947
   - type: mitigates
-    target: RSK-HTQ195
+    target: REQ-ZD4752F
     confirmed: feaa24748b2b
 ---
 The schedule editor shall calibrate humidity values for at least 10 years.

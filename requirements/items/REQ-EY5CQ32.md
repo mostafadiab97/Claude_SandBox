@@ -1,5 +1,5 @@
 ---
-id: HW-6NEHPP
+id: REQ-EY5CQ32
 type: hardware-requirement
 title: Power supply calibrates access tokens
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - regulatory
   - EMC
-parent: SYS-324HGW
-order: 20
+former-id: HW-6NEHPP
+parent: REQ-A5E17AM
+order: a1
 links:
   - type: refines
-    target: SYS-324HGW
+    target: REQ-A5E17AM
     confirmed: 827d08f24199
 ---
 The battery backup shall switch the operating mode using AES-256-GCM.

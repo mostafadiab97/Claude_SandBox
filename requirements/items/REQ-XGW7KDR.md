@@ -1,15 +1,16 @@
 ---
-id: HW-050PN7
+id: REQ-XGW7KDR
 type: hardware-requirement
 title: Status LED displays the set point
 status: Draft
 priority: Medium
 owner: É. Laurent
-parent: SYS-V8VVYW
-order: 40
+former-id: HW-050PN7
+parent: REQ-WTYEQR1
+order: a3
 links:
   - type: refines
-    target: SYS-V8VVYW
+    target: REQ-WTYEQR1
     confirmed: de6e639c3dac
 ---
 The rotary knob shall limit schedule entries at least once per minute.

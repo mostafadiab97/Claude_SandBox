@@ -1,5 +1,5 @@
 ---
-id: DEF-WR9S36
+id: REQ-MEMSYJ5
 type: defect
 title: "Defect: user account service does not encrypt firmware images"
 status: Obsolete
@@ -8,14 +8,15 @@ owner: A. Hassan
 tags:
   - power
   - accessibility
-parent: INFO-M91889
-order: 110
+former-id: DEF-WR9S36
+parent: REQ-9FNWH0D
+order: aA
 links:
   - type: relates-to
-    target: TC-FW3SHK
+    target: REQ-ZYZXE2S
     confirmed: 37bf125acf75
   - type: relates-to
-    target: SYS-3CAV4T
+    target: REQ-STD2M46
     confirmed: e3cc68adfaa3
 ---
 Found during regression testing of build 2.5.28.

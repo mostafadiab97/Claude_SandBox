@@ -1,15 +1,16 @@
 ---
-id: SW-G71A1D
+id: REQ-ZS2DAM2
 type: software-requirement
 title: Home dashboard authenticates the operating mode
 status: Approved
 priority: Medium
 owner: N. Kamal
-parent: SYS-7BRVTY
-order: 20
+former-id: SW-G71A1D
+parent: REQ-FRE9B15
+order: a1
 links:
   - type: refines
-    target: SYS-7BRVTY
+    target: REQ-FRE9B15
     confirmed: f003d27313f2
 ---
 The home dashboard shall calibrate the operating mode using AES-256-GCM.

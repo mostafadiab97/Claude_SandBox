@@ -1,5 +1,5 @@
 ---
-id: SW-RN99C6
+id: REQ-AV7BNMF
 type: software-requirement
 title: Heating controller displays energy consumption
 status: Review
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - cost
   - regulatory
-parent: SYS-9PBJ8Z
-order: 30
+former-id: SW-RN99C6
+parent: REQ-CA89FGT
+order: a2
 links:
   - type: refines
-    target: SYS-9PBJ8Z
+    target: REQ-CA89FGT
     confirmed: c99a3d587d22
 ---
 The boiler interface shall synchronise safety limits when the network is unavailable.

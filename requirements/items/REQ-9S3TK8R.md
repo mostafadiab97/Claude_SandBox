@@ -1,5 +1,5 @@
 ---
-id: SW-9JAT6D
+id: REQ-9S3TK8R
 type: software-requirement
 title: User account service synchronises relay events
 status: Review
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - release-2.0
   - safety
-parent: SYS-ANP21Y
-order: 30
+former-id: SW-9JAT6D
+parent: REQ-VGBPCZD
+order: a2
 links:
   - type: refines
-    target: SYS-ANP21Y
+    target: REQ-VGBPCZD
     confirmed: 3e91619f12fb
 ---
 The cloud backend shall log error conditions with an accuracy of ±0.5 °C.

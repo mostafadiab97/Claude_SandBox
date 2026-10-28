@@ -1,14 +1,15 @@
 ---
-id: SW-R4QT7A
+id: REQ-SADWD7A
 type: software-requirement
 title: Rotary knob switchs energy consumption
 status: Obsolete
 priority: Medium
-parent: SYS-G1WQ30
-order: 10
+former-id: SW-R4QT7A
+parent: REQ-KDBFG7Y
+order: a0
 links:
   - type: refines
-    target: SYS-G1WQ30
+    target: REQ-KDBFG7Y
     confirmed: 6324bbe48da8
 ---
 The menu system shall measure schedule entries in all supported languages.

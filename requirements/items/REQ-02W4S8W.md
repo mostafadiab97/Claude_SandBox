@@ -1,5 +1,5 @@
 ---
-id: TC-W7PXYY
+id: REQ-02W4S8W
 type: test-case
 title: "Verify: Status LED displays humidity values"
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 owner: J. Müller
 tags:
   - security
-parent: INFO-HTSZ15
-order: 1510
+former-id: TC-W7PXYY
+parent: REQ-Y9VHHKA
+order: b1Q
 links:
   - type: verifies
-    target: SYS-7AH6RP
+    target: REQ-X70NK7E
     confirmed: f255e71521d5
 ---
 **Objective:** verify that the status LED behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: SYS-B522T0
+id: REQ-2ZWJ0AY
 type: system-requirement
 title: Battery backup logs the operating mode
 status: Draft
 priority: Low
 owner: A. Hassan
-parent: INFO-A6P9A8
-order: 890
+former-id: SYS-B522T0
+parent: REQ-CMCS31A
+order: b0Q
 links:
   - type: refines
-    target: STK-KEP05J
+    target: REQ-PRMNGRJ
     confirmed: 74304e03fe52
 ---
 The battery backup shall synchronise the connection state with an accuracy of ±0.5 °C.

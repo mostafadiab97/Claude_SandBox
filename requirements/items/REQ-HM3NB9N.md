@@ -1,5 +1,5 @@
 ---
-id: HW-YT6D5T
+id: REQ-HM3NB9N
 type: hardware-requirement
 title: Relay board detects access tokens
 status: Review
@@ -9,11 +9,12 @@ tags:
   - performance
   - release-1.0
   - power
-parent: SYS-BP947W
-order: 20
+former-id: HW-YT6D5T
+parent: REQ-Y7VXC9H
+order: a1
 links:
   - type: refines
-    target: SYS-BP947W
+    target: REQ-Y7VXC9H
     confirmed: f8fcab8bd387
 ---
 The power supply shall limit humidity values in all supported languages.

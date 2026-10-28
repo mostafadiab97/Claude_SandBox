@@ -1,12 +1,13 @@
 ---
-id: IF-JE5AS3
+id: REQ-NPNAPSH
 type: interface-requirement
 title: "Signal 204: the set point"
 status: Draft
 priority: Medium
 tags:
   - accessibility
-parent: INFO-2TM0JP
-order: 2040
+former-id: IF-JE5AS3
+parent: REQ-RJ0KHPT
+order: b2H
 ---
 Interface signal number 204.

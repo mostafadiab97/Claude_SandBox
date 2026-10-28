@@ -1,5 +1,5 @@
 ---
-id: HW-FCADCY
+id: REQ-5RE0E5R
 type: hardware-requirement
 title: Store user preferences — detail
 status: Obsolete
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - EMC
   - cost
-parent: HW-SKT58D
-order: 10
+former-id: HW-FCADCY
+parent: REQ-GA0KYDD
+order: a0
 links:
   - type: refines
-    target: HW-SKT58D
+    target: REQ-GA0KYDD
     confirmed: ad6d91cef1bc
 ---
 The enclosure shall switch schedule entries when the network is unavailable.

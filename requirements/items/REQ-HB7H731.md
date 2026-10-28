@@ -1,15 +1,16 @@
 ---
-id: SW-MNS0WV
+id: REQ-HB7H731
 type: software-requirement
 title: Over-temperature monitor limits the operating mode
 status: Draft
 priority: Medium
 owner: J. Müller
-parent: SYS-RGCFDP
-order: 20
+former-id: SW-MNS0WV
+parent: REQ-3ZM1N85
+order: a1
 links:
   - type: refines
-    target: SYS-RGCFDP
+    target: REQ-3ZM1N85
     confirmed: 703711cfcecf
 ---
 The watchdog shall store user preferences at least once per minute.

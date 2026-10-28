@@ -1,14 +1,15 @@
 ---
-id: TC-EKWE21
+id: REQ-WRPZQV6
 type: test-case
 title: "Verify: Heat pump driver logs safety limits"
 status: Review
 priority: Medium
-parent: INFO-MS9DAG
-order: 960
+former-id: TC-EKWE21
+parent: REQ-XGWSK2K
+order: b0X
 links:
   - type: verifies
-    target: SYS-ZMJ6E1
+    target: REQ-9E375HR
     confirmed: 4932bfcc9ac4
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

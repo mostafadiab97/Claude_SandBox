@@ -1,14 +1,15 @@
 ---
-id: SW-JEH5MB
+id: REQ-SAAP44E
 type: software-requirement
 title: Touch display stores firmware images
 status: Approved
 owner: S. Adel
-parent: SYS-08Q79Y
-order: 30
+former-id: SW-JEH5MB
+parent: REQ-CWJJDSN
+order: a2
 links:
   - type: refines
-    target: SYS-08Q79Y
+    target: REQ-CWJJDSN
     confirmed: 8a374fcf4b3a
 ---
 The status LED shall measure firmware images with an accuracy of ±0.5 °C.

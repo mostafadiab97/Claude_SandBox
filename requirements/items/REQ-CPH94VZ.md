@@ -1,5 +1,5 @@
 ---
-id: TC-M6DJ1Z
+id: REQ-CPH94VZ
 type: test-case
 title: "Verify: Zone valve displays the operating mode"
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - security
   - cost
-parent: INFO-MS9DAG
-order: 440
+former-id: TC-M6DJ1Z
+parent: REQ-XGWSK2K
+order: ah
 links:
   - type: verifies
-    target: SYS-ZQSPB3
+    target: REQ-7638CXD
     confirmed: c8c012d7096b
 ---
 **Objective:** verify that the zone valve behaves as specified.

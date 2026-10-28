@@ -1,5 +1,5 @@
 ---
-id: SYS-B7X9NT
+id: REQ-891HRQ1
 type: system-requirement
 title: Bluetooth LE link logs audit records
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: S. Adel
 tags:
   - accessibility
-parent: INFO-NRVHA2
-order: 760
+former-id: SYS-B7X9NT
+parent: REQ-6R94HFM
+order: b0D
 links:
   - type: refines
-    target: STK-G2ZBHW
+    target: REQ-GXR8KE5
     confirmed: 732d30096e0a
 ---
 The Bluetooth LE link shall restore error conditions after a power loss.

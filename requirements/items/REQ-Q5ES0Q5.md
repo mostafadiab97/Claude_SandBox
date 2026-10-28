@@ -1,15 +1,16 @@
 ---
-id: IF-7YFE11
+id: REQ-Q5ES0Q5
 type: interface-requirement
 title: Relay board stores access tokens
 status: Draft
 priority: Medium
 owner: Y. Saber
-parent: SYS-5YM37Q
-order: 30
+former-id: IF-7YFE11
+parent: REQ-6TF36Q1
+order: a2
 links:
   - type: refines
-    target: SYS-5YM37Q
+    target: REQ-6TF36Q1
     confirmed: ccb715f06c33
 ---
 The power supply shall detect humidity values after a power loss.

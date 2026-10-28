@@ -1,16 +1,17 @@
 ---
-id: TC-YBS1JN
+id: REQ-HDFZSGS
 type: test-case
 title: Hub verification 11
 status: Approved
 priority: Medium
 tags:
   - connectivity
-parent: INFO-ECHASH
-order: 200
+former-id: TC-YBS1JN
+parent: REQ-6H15AV2
+order: aJ
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 4639507190ed
 ---
 **Objective:** verify that the thermostat behaves as specified.

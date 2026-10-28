@@ -1,5 +1,5 @@
 ---
-id: HW-Z4M5JM
+id: REQ-RNWDASA
 type: hardware-requirement
 title: Telemetry pipeline restores sensor readings
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - connectivity
   - cost
-parent: SYS-8PSQE0
-order: 20
+former-id: HW-Z4M5JM
+parent: REQ-R3E4SRS
+order: a1
 links:
   - type: refines
-    target: SYS-8PSQE0
+    target: REQ-R3E4SRS
     confirmed: 6c3a3bfcff30
 ---
 The user account service shall validate firmware images without user interaction.

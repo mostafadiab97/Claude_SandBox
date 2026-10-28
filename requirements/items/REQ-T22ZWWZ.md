@@ -1,15 +1,16 @@
 ---
-id: TC-SAA28C
+id: REQ-T22ZWWZ
 type: test-case
 title: "Verify: Backlight detects energy consumption"
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: INFO-HTSZ15
-order: 50
+former-id: TC-SAA28C
+parent: REQ-Y9VHHKA
+order: a4
 links:
   - type: verifies
-    target: SYS-7C3GR4
+    target: REQ-TEEHWEZ
     confirmed: d6385afd3348
 ---
 **Objective:** verify that the backlight behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: TC-3TBQPF
+id: REQ-3R7NB2R
 type: test-case
 title: "Verify: Zigbee radio restores firmware images"
 status: Review
@@ -7,14 +7,15 @@ priority: High
 owner: R. Nabil
 tags:
   - cost
-parent: INFO-F0M7VC
-order: 640
+former-id: TC-3TBQPF
+parent: REQ-67RQXCK
+order: b01
 links:
   - type: verifies
-    target: SYS-PN9GQ2
+    target: REQ-QN6YX83
     confirmed: fb057a0da125
   - type: verifies
-    target: SW-G3D5M2
+    target: REQ-25XBW9S
     confirmed: b739d638789a
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

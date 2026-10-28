@@ -1,15 +1,16 @@
 ---
-id: TC-53NNVQ
+id: REQ-S1NJ4DC
 type: test-case
 title: "Verify: Heat pump driver measures the connection state"
 status: Review
 priority: High
 owner: É. Laurent
-parent: INFO-MS9DAG
-order: 1170
+former-id: TC-53NNVQ
+parent: REQ-XGWSK2K
+order: b0s
 links:
   - type: verifies
-    target: SYS-0DYZ84
+    target: REQ-DY2HTMY
     confirmed: 520e6515ec8d
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

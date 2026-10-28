@@ -1,19 +1,20 @@
 ---
-id: TC-JFPXCD
+id: REQ-Y1GTKX5
 type: test-case
 title: "Verify: Secure boot authenticates the set point"
 status: Draft
 owner: M. Farouk
 tags:
   - safety
-parent: INFO-Z4TW4B
-order: 630
+former-id: TC-JFPXCD
+parent: REQ-K6FGAY0
+order: b00
 links:
   - type: verifies
-    target: SYS-RZ204B
+    target: REQ-VKX7BXX
     confirmed: a414dd799ef0
   - type: verifies
-    target: SW-BS2GHY
+    target: REQ-XE6TT98
     confirmed: 06a9377c89bf
 ---
 **Objective:** verify that the secure boot behaves as specified.

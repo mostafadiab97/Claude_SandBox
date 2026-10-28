@@ -1,14 +1,15 @@
 ---
-id: HW-CCP1GS
+id: REQ-M9SGEHR
 type: hardware-requirement
 title: Notify energy consumption — detail
 status: Approved
 priority: High
-parent: HW-4Y34BS
-order: 10
+former-id: HW-CCP1GS
+parent: REQ-R0TE5ME
+order: a0
 links:
   - type: refines
-    target: HW-4Y34BS
+    target: REQ-R0TE5ME
     confirmed: 65e5a26add85
 ---
 The zone valve shall display the operating mode for up to 8 zones.

@@ -1,15 +1,16 @@
 ---
-id: TC-CG50DG
+id: REQ-26VZBXJ
 type: test-case
 title: "Verify: Local API encrypts user preferences"
 status: Draft
 priority: Low
 owner: N. Kamal
-parent: INFO-F0M7VC
-order: 1070
+former-id: TC-CG50DG
+parent: REQ-67RQXCK
+order: b0i
 links:
   - type: verifies
-    target: SYS-SKSNMS
+    target: REQ-CEGSQS7
     confirmed: 25a2208d5d33
 ---
 **Objective:** verify that the local API behaves as specified.

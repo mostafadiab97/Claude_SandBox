@@ -1,5 +1,5 @@
 ---
-id: TC-Q84Z2S
+id: REQ-GZQX4DK
 type: test-case
 title: "Regression: Heating controller synchronises the set point"
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - cost
-parent: INFO-ECHASH
-order: 960
+former-id: TC-Q84Z2S
+parent: REQ-6H15AV2
+order: b0X
 links:
   - type: verifies
-    target: SYS-HS7YMC
+    target: REQ-MWZKPDC
     confirmed: 0b69395daa11
 ---
 **Objective:** verify that the device behaves as specified.

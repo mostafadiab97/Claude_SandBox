@@ -1,15 +1,16 @@
 ---
-id: HW-KGER7E
+id: REQ-EE39BEH
 type: hardware-requirement
 title: Mobile app displays sensor readings
 status: Approved
 priority: High
 owner: J. Müller
-parent: SYS-6FPHXN
-order: 10
+former-id: HW-KGER7E
+parent: REQ-76MCBAQ
+order: a0
 links:
   - type: refines
-    target: SYS-6FPHXN
+    target: REQ-76MCBAQ
     confirmed: 13b34afb2e0e
 ---
 The login screen shall validate audit records below 0.5 W in standby.

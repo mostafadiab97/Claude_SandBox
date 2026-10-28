@@ -1,15 +1,16 @@
 ---
-id: SW-5SXDZC
+id: REQ-2DPX7G9
 type: software-requirement
 title: Measure user preferences — detail
 status: Review
 priority: High
 owner: S. Adel
-parent: SW-BYV6KE
-order: 10
+former-id: SW-5SXDZC
+parent: REQ-BWS0YBS
+order: a0
 links:
   - type: refines
-    target: SW-BYV6KE
+    target: REQ-BWS0YBS
     confirmed: a241069de6f9
 ---
 The device registry shall report access tokens after a power loss.

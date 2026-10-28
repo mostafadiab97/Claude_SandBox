@@ -1,5 +1,5 @@
 ---
-id: DE-H52H2D
+id: REQ-Q3DW081
 type: design-element
 title: Module menu_system_71
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - customer-request
   - release-2.0
-parent: SW-VH9D5V
-order: 10
+former-id: DE-H52H2D
+parent: REQ-WHKS5TA
+order: a0
 links:
   - type: implements
-    target: SW-VH9D5V
+    target: REQ-WHKS5TA
     confirmed: 69f0379e70f4
 ---
 Implemented in `src/ui/menu_system.c`.

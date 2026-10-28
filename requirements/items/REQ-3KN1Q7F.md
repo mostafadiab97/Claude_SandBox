@@ -1,5 +1,5 @@
 ---
-id: HW-M60TZ4
+id: REQ-3KN1Q7F
 type: hardware-requirement
 title: Log safety limits — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - power
   - ux
-parent: HW-2VRJ0H
-order: 10
+former-id: HW-M60TZ4
+parent: REQ-3ATMSNC
+order: a0
 links:
   - type: refines
-    target: HW-2VRJ0H
+    target: REQ-3ATMSNC
     confirmed: 5d16b6dd3076
 ---
 The over-temperature monitor shall encrypt the room temperature without user interaction.

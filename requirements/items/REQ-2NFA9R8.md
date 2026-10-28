@@ -1,5 +1,5 @@
 ---
-id: IF-GJSPC4
+id: REQ-2NFA9R8
 type: interface-requirement
 title: Watchdog switchs firmware images
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - cost
   - power
   - security
-parent: SYS-E7QPGB
-order: 10
+former-id: IF-GJSPC4
+parent: REQ-9RX4SNK
+order: a0
 links:
   - type: refines
-    target: SYS-E7QPGB
+    target: REQ-9RX4SNK
     confirmed: 07d5643ef6c8
 ---
 The over-temperature monitor shall log access tokens within 200 ms.

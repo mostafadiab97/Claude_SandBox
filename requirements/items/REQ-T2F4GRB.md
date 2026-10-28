@@ -1,5 +1,5 @@
 ---
-id: SYS-A7YDK8
+id: REQ-T2F4GRB
 type: system-requirement
 title: Pairing process calibrates relay events
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - power
   - release-2.0
   - performance
-parent: INFO-NRVHA2
-order: 600
+former-id: SYS-A7YDK8
+parent: REQ-6R94HFM
+order: ax
 links:
   - type: refines
-    target: STK-G2ZBHW
+    target: REQ-GXR8KE5
     confirmed: fee0d3303478
   - type: mitigates
-    target: RSK-RW5E05
+    target: REQ-6C1BJKS
     confirmed: 2efae5362c64
 ---
 The pairing process shall notify relay events with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: HW-WX29CV
+id: REQ-79TNZYR
 type: hardware-requirement
 title: Log schedule entries — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - safety
   - i18n
   - release-2.0
-parent: HW-EM7BEC
-order: 10
+former-id: HW-WX29CV
+parent: REQ-QKDCRPK
+order: a0
 links:
   - type: refines
-    target: HW-EM7BEC
+    target: REQ-QKDCRPK
     confirmed: 8f4c22812167
 ---
 The relay board shall synchronise humidity values at least once per minute.

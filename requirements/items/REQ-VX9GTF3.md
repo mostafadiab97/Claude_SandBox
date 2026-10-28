@@ -1,5 +1,5 @@
 ---
-id: SW-FF2CHX
+id: REQ-VX9GTF3
 type: software-requirement
 title: Bluetooth LE link switchs schedule entries
 status: Draft
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - power
   - accessibility
-parent: SYS-JF6ZTH
-order: 10
+former-id: SW-FF2CHX
+parent: REQ-4C2NNAK
+order: a0
 links:
   - type: refines
-    target: SYS-JF6ZTH
+    target: REQ-4C2NNAK
     confirmed: 75977e61ed0b
 ---
 The local API shall log relay events for at least 10 years.

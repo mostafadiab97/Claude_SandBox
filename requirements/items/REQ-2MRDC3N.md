@@ -1,5 +1,5 @@
 ---
-id: HW-GH5KW7
+id: REQ-2MRDC3N
 type: hardware-requirement
 title: Power supply notifys schedule entries
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - cost
-parent: SYS-61H36K
-order: 30
+former-id: HW-GH5KW7
+parent: REQ-86ACT2C
+order: a2
 links:
   - type: refines
-    target: SYS-61H36K
+    target: REQ-86ACT2C
     confirmed: c34ac0cd30f1
 ---
 The main PCB shall restore error conditions with an accuracy of ±0.5 °C.

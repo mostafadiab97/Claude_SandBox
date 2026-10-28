@@ -1,5 +1,5 @@
 ---
-id: IF-0PC3VY
+id: REQ-B7A3VDV
 type: interface-requirement
 title: Main PCB synchronises the room temperature
 status: Draft
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - release-1.0
   - EMC
-parent: SYS-76VDPG
-order: 20
+former-id: IF-0PC3VY
+parent: REQ-1Y42YEX
+order: a1
 links:
   - type: refines
-    target: SYS-76VDPG
+    target: REQ-1Y42YEX
     confirmed: ff6ec08a24da
 ---
 The enclosure shall restore error conditions below 0.5 W in standby.

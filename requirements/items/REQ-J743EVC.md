@@ -1,5 +1,5 @@
 ---
-id: TC-QGG4X6
+id: REQ-J743EVC
 type: test-case
 title: "Verify: Boiler interface logs firmware images"
 status: Review
@@ -9,14 +9,15 @@ tags:
   - cost
   - release-1.0
   - accessibility
-parent: INFO-MS9DAG
-order: 520
+former-id: TC-QGG4X6
+parent: REQ-XGWSK2K
+order: ap
 links:
   - type: verifies
-    target: SYS-CE57ME
+    target: REQ-VH5J2HY
     confirmed: 4e23886933b6
   - type: verifies
-    target: SW-NWS6XP
+    target: REQ-CXG5TN3
     confirmed: 5f492f9366b1
 ---
 **Objective:** verify that the boiler interface behaves as specified.

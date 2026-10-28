@@ -1,5 +1,5 @@
 ---
-id: IF-X36RMM
+id: REQ-D4XA44C
 type: interface-requirement
 title: Over-temperature monitor reports schedule entries
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - release-1.0
   - release-2.0
-parent: SYS-8FK5CW
-order: 10
+former-id: IF-X36RMM
+parent: REQ-1XQXMWT
+order: a0
 links:
   - type: refines
-    target: SYS-8FK5CW
+    target: REQ-1XQXMWT
     confirmed: a4a8351402a3
 ---
 The encryption layer shall switch the room temperature with an accuracy of ±0.5 °C.

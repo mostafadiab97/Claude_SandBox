@@ -1,5 +1,5 @@
 ---
-id: SW-ED127W
+id: REQ-QRT1029
 type: software-requirement
 title: Synchronise sensor readings — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - connectivity
   - i18n
-parent: SW-4W2WJ0
-order: 10
+former-id: SW-ED127W
+parent: REQ-PFSGGGW
+order: a0
 links:
   - type: refines
-    target: SW-4W2WJ0
+    target: REQ-PFSGGGW
     confirmed: 78b75dc46152
 ---
 The watchdog shall switch relay events for up to 8 zones.

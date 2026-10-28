@@ -1,5 +1,5 @@
 ---
-id: IF-YHNQJ6
+id: REQ-H5SVFYD
 type: interface-requirement
 title: Main PCB encrypts user preferences
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - connectivity
   - release-2.0
   - regulatory
-parent: SYS-CPG2EW
-order: 30
+former-id: IF-YHNQJ6
+parent: REQ-G8Z58Z4
+order: a2
 links:
   - type: refines
-    target: SYS-CPG2EW
+    target: REQ-G8Z58Z4
     confirmed: e993ebab475d
 ---
 The enclosure shall encrypt error conditions in all supported languages.

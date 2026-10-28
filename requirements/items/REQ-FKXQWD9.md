@@ -1,15 +1,16 @@
 ---
-id: SW-A11K9R
+id: REQ-FKXQWD9
 type: software-requirement
 title: Home dashboard displays relay events
 status: Draft
 priority: Medium
 owner: É. Laurent
-parent: SYS-Y2RP9E
-order: 10
+former-id: SW-A11K9R
+parent: REQ-AGZTEW3
+order: a0
 links:
   - type: refines
-    target: SYS-Y2RP9E
+    target: REQ-AGZTEW3
     confirmed: e9c58e7ee304
 ---
 The notification service shall report sensor readings using AES-256-GCM.

@@ -1,5 +1,5 @@
 ---
-id: SYS-N54KFA
+id: REQ-HJS4CX9
 type: system-requirement
 title: Backlight restores safety limits
 status: Review
@@ -8,14 +8,15 @@ owner: Y. Saber
 tags:
   - i18n
   - EMC
-parent: INFO-PDR6FV
-order: 1600
+former-id: SYS-N54KFA
+parent: REQ-2ZA2TRZ
+order: b1Z
 links:
   - type: refines
-    target: STK-8PN4VS
+    target: REQ-WQB5JT6
     confirmed: a3e83ac40678
   - type: mitigates
-    target: RSK-H5P7DK
+    target: REQ-19NM7SG
     confirmed: 071ef93a7be9
 ---
 The backlight shall calibrate error conditions at least once per minute.

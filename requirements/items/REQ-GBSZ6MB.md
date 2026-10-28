@@ -1,5 +1,5 @@
 ---
-id: SYS-W2WVAG
+id: REQ-GBSZ6MB
 type: system-requirement
 title: Mobile app restores humidity values
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - cost
   - accessibility
-parent: INFO-2XXBRS
-order: 1250
+former-id: SYS-W2WVAG
+parent: REQ-QYXGSQ4
+order: b10
 links:
   - type: refines
-    target: STK-B9Y7CM
+    target: REQ-YGQ30E7
     confirmed: 2e83dea5db22
 ---
 The mobile app shall authenticate user preferences within 200 ms.

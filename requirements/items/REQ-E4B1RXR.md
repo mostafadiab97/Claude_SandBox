@@ -1,13 +1,14 @@
 ---
-id: TC-2JBGRT
+id: REQ-E4B1RXR
 type: test-case
 title: "Verify: Wi-Fi module synchronises sensor readings"
 status: Approved
-parent: INFO-F0M7VC
-order: 550
+former-id: TC-2JBGRT
+parent: REQ-67RQXCK
+order: as
 links:
   - type: verifies
-    target: SYS-0C2S4D
+    target: REQ-A2XPEJG
     confirmed: 306846e9f601
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

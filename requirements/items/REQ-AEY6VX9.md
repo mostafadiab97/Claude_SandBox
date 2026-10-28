@@ -1,5 +1,5 @@
 ---
-id: HW-G0DX00
+id: REQ-AEY6VX9
 type: hardware-requirement
 title: Power supply logs error conditions
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: Y. Saber
 tags:
   - customer-request
-parent: SYS-7WCAWK
-order: 10
+former-id: HW-G0DX00
+parent: REQ-QMV6ZXP
+order: a0
 links:
   - type: refines
-    target: SYS-7WCAWK
+    target: REQ-QMV6ZXP
     confirmed: 872381f1db9b
 ---
 The battery backup shall detect sensor readings at least once per minute.

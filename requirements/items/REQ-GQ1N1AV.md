@@ -1,5 +1,5 @@
 ---
-id: SW-BTSTAB
+id: REQ-GQ1N1AV
 type: software-requirement
 title: Over-temperature monitor detects schedule entries
 status: Review
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - connectivity
   - regulatory
-parent: SYS-0VY277
-order: 30
+former-id: SW-BTSTAB
+parent: REQ-XQMR5HW
+order: a2
 links:
   - type: refines
-    target: SYS-0VY277
+    target: REQ-XQMR5HW
     confirmed: 14b68369c30c
 ---
 The over-temperature monitor shall notify sensor readings when the network is unavailable.

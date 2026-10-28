@@ -1,5 +1,5 @@
 ---
-id: HW-NHT0NH
+id: REQ-5QG0RFK
 type: hardware-requirement
 title: Menu system limits user preferences
 status: Review
@@ -8,11 +8,12 @@ tags:
   - cost
   - release-1.0
   - regulatory
-parent: SYS-SS4F7X
-order: 10
+former-id: HW-NHT0NH
+parent: REQ-H1M276S
+order: a0
 links:
   - type: refines
-    target: SYS-SS4F7X
+    target: REQ-H1M276S
     confirmed: 072a30500dc2
 ---
 The touch display shall store user preferences after a power loss.

@@ -1,15 +1,16 @@
 ---
-id: SW-1PYSMQ
+id: REQ-JWV5DE7
 type: software-requirement
 title: Device registry restores relay events
 status: Draft
 priority: Low
 owner: L. Samir
-parent: SYS-V9TTZK
-order: 20
+former-id: SW-1PYSMQ
+parent: REQ-W2575G6
+order: a1
 links:
   - type: refines
-    target: SYS-V9TTZK
+    target: REQ-W2575G6
     confirmed: 19606134e5ee
 ---
 The telemetry pipeline shall validate access tokens at least once per minute.

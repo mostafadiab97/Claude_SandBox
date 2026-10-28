@@ -1,15 +1,16 @@
 ---
-id: HW-WE2X6P
+id: REQ-J8G4NPF
 type: hardware-requirement
 title: Login screen stores sensor readings
 status: Approved
 priority: Medium
 owner: L. Samir
-parent: SYS-KEKD2W
-order: 20
+former-id: HW-WE2X6P
+parent: REQ-31S5CV1
+order: a1
 links:
   - type: refines
-    target: SYS-KEKD2W
+    target: REQ-31S5CV1
     confirmed: dce36b139246
 ---
 The mobile app shall switch the operating mode in under 3 s.

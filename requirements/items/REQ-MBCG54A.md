@@ -1,17 +1,18 @@
 ---
-id: TC-WW065V
+id: REQ-MBCG54A
 type: test-case
 title: "Verify: Device registry synchronises energy consumption"
 status: Draft
 owner: A. Hassan
-parent: INFO-7P4D8D
-order: 1650
+former-id: TC-WW065V
+parent: REQ-8351896
+order: b1e
 links:
   - type: verifies
-    target: SYS-7V2N1W
+    target: REQ-TKRRV78
     confirmed: 595fd0fcde8d
   - type: verifies
-    target: SW-2JRDMJ
+    target: REQ-WR6W86R
     confirmed: 37b64617ffc6
 ---
 **Objective:** verify that the device registry behaves as specified.

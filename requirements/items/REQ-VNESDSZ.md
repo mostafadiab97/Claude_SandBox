@@ -1,15 +1,16 @@
 ---
-id: HW-W86ATR
+id: REQ-VNESDSZ
 type: hardware-requirement
 title: Enclosure encrypts schedule entries
 status: Draft
 priority: High
 owner: M. Farouk
-parent: SYS-S2CZRZ
-order: 10
+former-id: HW-W86ATR
+parent: REQ-FS56QJ2
+order: a0
 links:
   - type: refines
-    target: SYS-S2CZRZ
+    target: REQ-FS56QJ2
     confirmed: 9cc8d8fe0b96
 ---
 The enclosure shall synchronise the set point at least once per minute.

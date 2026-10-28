@@ -1,15 +1,16 @@
 ---
-id: TC-6P7XYR
+id: REQ-HE01S1T
 type: test-case
 title: "Verify: Device registry authenticates user preferences"
 status: Approved
 priority: High
 owner: N. Kamal
-parent: INFO-7P4D8D
-order: 1310
+former-id: TC-6P7XYR
+parent: REQ-8351896
+order: b16
 links:
   - type: verifies
-    target: SYS-569DVN
+    target: REQ-A5ZTQEE
     confirmed: 9f9a37d9b20d
 ---
 **Objective:** verify that the device registry behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-ER96VB
+id: REQ-6RMQP9G
 type: software-requirement
 title: Store the operating mode — detail
 status: Review
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - security
   - i18n
-parent: SW-6M9X9N
-order: 10
+former-id: SW-ER96VB
+parent: REQ-KH6X7FH
+order: a0
 links:
   - type: refines
-    target: SW-6M9X9N
+    target: REQ-KH6X7FH
     confirmed: 2a2857a71beb
 ---
 The watchdog shall limit the connection state within 200 ms.

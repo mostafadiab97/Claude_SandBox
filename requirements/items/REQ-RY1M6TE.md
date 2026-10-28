@@ -1,5 +1,5 @@
 ---
-id: SW-JSCRCZ
+id: REQ-RY1M6TE
 type: software-requirement
 title: Regulation loop detects energy consumption
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 tags:
   - i18n
   - security
-parent: SYS-3NA7W8
-order: 10
+former-id: SW-JSCRCZ
+parent: REQ-X79WZPJ
+order: a0
 links:
   - type: refines
-    target: SYS-3NA7W8
+    target: REQ-X79WZPJ
     confirmed: 303f8590e242
 ---
 The heat pump driver shall measure sensor readings for up to 8 zones.

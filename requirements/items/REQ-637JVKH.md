@@ -1,5 +1,5 @@
 ---
-id: IF-YZY90W
+id: REQ-637JVKH
 type: interface-requirement
 title: "Signal 139: the room temperature"
 status: Draft
@@ -8,7 +8,8 @@ owner: É. Laurent
 tags:
   - regulatory
   - EMC
-parent: INFO-2TM0JP
-order: 1390
+former-id: IF-YZY90W
+parent: REQ-RJ0KHPT
+order: b1E
 ---
 Interface signal number 139.

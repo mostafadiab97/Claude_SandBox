@@ -1,15 +1,16 @@
 ---
-id: SW-Q55R7Z
+id: REQ-EHGC9D4
 type: software-requirement
 title: Bluetooth LE link stores sensor readings
 status: Draft
 priority: Low
 owner: A. Hassan
-parent: SYS-NJ73ZK
-order: 20
+former-id: SW-Q55R7Z
+parent: REQ-M3BR6KY
+order: a1
 links:
   - type: refines
-    target: SYS-NJ73ZK
+    target: REQ-M3BR6KY
     confirmed: cda235c01515
 ---
 The pairing process shall log access tokens below 0.5 W in standby.

@@ -1,15 +1,16 @@
 ---
-id: HW-RRWR50
+id: REQ-0SC0MVK
 type: hardware-requirement
 title: Schedule editor synchronises the room temperature
 status: Obsolete
 priority: High
 owner: K. Tanaka
-parent: SYS-1T01KA
-order: 20
+former-id: HW-RRWR50
+parent: REQ-QWPHA6K
+order: a1
 links:
   - type: refines
-    target: SYS-1T01KA
+    target: REQ-QWPHA6K
     confirmed: b90824328e7a
 ---
 The schedule editor shall limit audit records after a power loss.

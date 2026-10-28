@@ -1,5 +1,5 @@
 ---
-id: SW-938TVY
+id: REQ-2TXCV60
 type: software-requirement
 title: Rotary knob calibrates audit records
 status: Review
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - cost
   - release-1.0
-parent: SYS-S7RBP0
-order: 30
+former-id: SW-938TVY
+parent: REQ-KKDV44Z
+order: a2
 links:
   - type: refines
-    target: SYS-S7RBP0
+    target: REQ-KKDV44Z
     confirmed: 4e24c6222487
 ---
 The backlight shall synchronise schedule entries for at least 10 years.

@@ -1,5 +1,5 @@
 ---
-id: SYS-3W1S3B
+id: REQ-7A42WZ4
 type: system-requirement
 title: Enclosure reports relay events
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - i18n
   - release-2.0
-parent: INFO-A6P9A8
-order: 1850
+former-id: SYS-3W1S3B
+parent: REQ-CMCS31A
+order: b1y
 links:
   - type: refines
-    target: STK-922G3A
+    target: REQ-XZNTF7S
     confirmed: ea4a6a665922
 ---
 The enclosure shall restore error conditions when the network is unavailable.

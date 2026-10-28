@@ -1,5 +1,5 @@
 ---
-id: TC-SDBN3F
+id: REQ-YMA9T4M
 type: test-case
 title: "Regression: Mobile app encrypts relay events"
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: S. Adel
 tags:
   - ux
-parent: INFO-ECHASH
-order: 1000
+former-id: TC-SDBN3F
+parent: REQ-6H15AV2
+order: b0b
 links:
   - type: verifies
-    target: SYS-FBM4B7
+    target: REQ-0BCC2Y7
     confirmed: 17a1840f1286
 ---
 **Objective:** verify that the device behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SYS-BKCGFY
+id: REQ-9B3KSET
 type: system-requirement
 title: Schedule editor measures energy consumption
 status: Review
@@ -8,14 +8,15 @@ owner: K. Tanaka
 tags:
   - security
   - regulatory
-parent: INFO-2XXBRS
-order: 1620
+former-id: SYS-BKCGFY
+parent: REQ-QYXGSQ4
+order: b1b
 links:
   - type: refines
-    target: STK-639N9T
+    target: REQ-EMZ19WQ
     confirmed: 252da9caa62c
   - type: mitigates
-    target: RSK-040M7X
+    target: REQ-0CSS0FS
     confirmed: fdb267eb1465
 ---
 The schedule editor shall switch sensor readings for up to 8 zones.

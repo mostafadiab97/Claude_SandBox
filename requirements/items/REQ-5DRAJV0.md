@@ -1,14 +1,15 @@
 ---
-id: SYS-EX11HN
+id: REQ-5DRAJV0
 type: system-requirement
 title: Telemetry pipeline switchs relay events
 status: Draft
 priority: High
-parent: INFO-YV5EZD
-order: 1680
+former-id: SYS-EX11HN
+parent: REQ-RE9ZKHF
+order: b1h
 links:
   - type: refines
-    target: STK-VT1KVD
+    target: REQ-36Y9ND0
     confirmed: fbcfb8475f32
 ---
 The telemetry pipeline shall measure safety limits at least once per minute.

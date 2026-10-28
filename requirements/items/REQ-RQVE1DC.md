@@ -1,5 +1,5 @@
 ---
-id: IF-Y2V589
+id: REQ-RQVE1DC
 type: interface-requirement
 title: "Signal 582: firmware images"
 status: Draft
@@ -9,7 +9,8 @@ tags:
   - customer-request
   - release-2.0
   - safety
-parent: INFO-2TM0JP
-order: 5820
+former-id: IF-Y2V589
+parent: REQ-RJ0KHPT
+order: b8N
 ---
 Interface signal number 582.

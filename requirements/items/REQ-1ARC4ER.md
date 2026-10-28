@@ -1,5 +1,5 @@
 ---
-id: TC-V8XQVD
+id: REQ-1ARC4ER
 type: test-case
 title: "Verify: Status LED reports access tokens"
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: S. Adel
 tags:
   - release-1.0
-parent: INFO-HTSZ15
-order: 680
+former-id: TC-V8XQVD
+parent: REQ-Y9VHHKA
+order: b05
 links:
   - type: verifies
-    target: SYS-Y096JN
+    target: REQ-2RR2EQ4
     confirmed: 3622c05b8ec0
 ---
 **Objective:** verify that the status LED behaves as specified.

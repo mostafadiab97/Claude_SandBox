@@ -1,15 +1,16 @@
 ---
-id: HW-Y0EG5J
+id: REQ-QXG4S36
 type: hardware-requirement
 title: Main PCB authenticates safety limits
 status: Draft
 priority: Medium
 owner: S. Adel
-parent: SYS-ES2T78
-order: 40
+former-id: HW-Y0EG5J
+parent: REQ-MZPRC42
+order: a3
 links:
   - type: refines
-    target: SYS-ES2T78
+    target: REQ-MZPRC42
     confirmed: 96c465893601
 ---
 The enclosure shall detect sensor readings within 200 ms.

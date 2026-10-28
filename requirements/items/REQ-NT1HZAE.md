@@ -1,5 +1,5 @@
 ---
-id: DE-3ZZXCD
+id: REQ-NT1HZAE
 type: design-element
 title: Module status_LED_53
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: R. Nabil
 tags:
   - security
-parent: SW-E3KVB3
-order: 20
+former-id: DE-3ZZXCD
+parent: REQ-R3PBA6B
+order: a1
 links:
   - type: implements
-    target: SW-E3KVB3
+    target: REQ-R3PBA6B
     confirmed: e1114f8fa16b
 ---
 Implemented in `src/ui/status_LED.c`.

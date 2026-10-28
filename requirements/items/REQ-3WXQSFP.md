@@ -1,18 +1,19 @@
 ---
-id: TC-EV8YPT
+id: REQ-3WXQSFP
 type: test-case
 title: "Verify: Watchdog validates safety limits"
 status: Review
 priority: Medium
 owner: M. Farouk
-parent: INFO-Z4TW4B
-order: 1300
+former-id: TC-EV8YPT
+parent: REQ-K6FGAY0
+order: b15
 links:
   - type: verifies
-    target: SYS-MNZNT7
+    target: REQ-SFE2NN9
     confirmed: 694f89dba807
   - type: verifies
-    target: SW-H10MBQ
+    target: REQ-P2B7CH2
     confirmed: 1c06138d71e9
 ---
 **Objective:** verify that the watchdog behaves as specified.

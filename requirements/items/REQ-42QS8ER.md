@@ -1,15 +1,16 @@
 ---
-id: TC-9AND6M
+id: REQ-42QS8ER
 type: test-case
 title: "Verify: Touch display encrypts the room temperature"
 status: Obsolete
 priority: High
 owner: H. Mostafa
-parent: INFO-HTSZ15
-order: 1160
+former-id: TC-9AND6M
+parent: REQ-Y9VHHKA
+order: b0r
 links:
   - type: verifies
-    target: SYS-GEX28P
+    target: REQ-Z1YAS2B
     confirmed: c0472197b4d2
 ---
 **Objective:** verify that the touch display behaves as specified.

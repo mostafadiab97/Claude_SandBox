@@ -1,5 +1,5 @@
 ---
-id: IF-BFGH2F
+id: REQ-06M0KHK
 type: interface-requirement
 title: Bluetooth LE link calibrates access tokens
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - safety
   - release-1.0
   - security
-parent: SYS-X1DW4B
-order: 30
+former-id: IF-BFGH2F
+parent: REQ-CFX186J
+order: a2
 links:
   - type: refines
-    target: SYS-X1DW4B
+    target: REQ-CFX186J
     confirmed: ac324fd128ba
 ---
 The pairing process shall restore the room temperature for at least 10 years.

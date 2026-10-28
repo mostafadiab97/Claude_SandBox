@@ -1,18 +1,19 @@
 ---
-id: TC-9Y4JJE
+id: REQ-4R058YT
 type: test-case
 title: "Verify: Cloud backend validates relay events"
 status: Draft
 priority: Medium
 owner: K. Tanaka
-parent: INFO-7P4D8D
-order: 1640
+former-id: TC-9Y4JJE
+parent: REQ-8351896
+order: b1d
 links:
   - type: verifies
-    target: SYS-12P0BS
+    target: REQ-0G1800J
     confirmed: d8b351a5c8e8
   - type: verifies
-    target: SW-XZXZCK
+    target: REQ-8Z0F6ZY
     confirmed: e5b68f543837
 ---
 **Objective:** verify that the cloud backend behaves as specified.

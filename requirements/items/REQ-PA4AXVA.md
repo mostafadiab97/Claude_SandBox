@@ -1,15 +1,16 @@
 ---
-id: SW-0H1XQE
+id: REQ-PA4AXVA
 type: software-requirement
 title: Telemetry pipeline stores relay events
 status: Approved
 priority: Low
 owner: Y. Saber
-parent: SYS-Y57EAP
-order: 10
+former-id: SW-0H1XQE
+parent: REQ-7HZ3W72
+order: a0
 links:
   - type: refines
-    target: SYS-Y57EAP
+    target: REQ-7HZ3W72
     confirmed: 6b2c6923c4ae
 ---
 The cloud backend shall display audit records using AES-256-GCM.

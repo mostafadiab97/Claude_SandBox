@@ -1,13 +1,14 @@
 ---
-id: DE-H954A4
+id: REQ-DEY7QHX
 type: design-element
 title: Module telemetry_pipeline_5
 status: Draft
-parent: SW-0WB8B8
-order: 10
+former-id: DE-H954A4
+parent: REQ-KKQ0B04
+order: a0
 links:
   - type: implements
-    target: SW-0WB8B8
+    target: REQ-KKQ0B04
     confirmed: 5f6db9d75f22
 ---
 Implemented in `src/cloud/telemetry_pipeline.c`.

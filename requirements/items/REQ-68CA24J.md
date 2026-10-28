@@ -1,13 +1,14 @@
 ---
-id: SW-VTH82Z
+id: REQ-68CA24J
 type: software-requirement
 title: Log user preferences — detail
 status: Obsolete
-parent: SW-KY9MTZ
-order: 10
+former-id: SW-VTH82Z
+parent: REQ-1YEDZTD
+order: a0
 links:
   - type: refines
-    target: SW-KY9MTZ
+    target: REQ-1YEDZTD
     confirmed: 3c0da9b16201
 ---
 The home dashboard shall switch the operating mode without user interaction.

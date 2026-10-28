@@ -1,5 +1,5 @@
 ---
-id: SW-VHWR9A
+id: REQ-J0N5BWH
 type: software-requirement
 title: Notification service limits energy consumption
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - power
   - safety
-parent: SYS-GQMSWY
-order: 40
+former-id: SW-VHWR9A
+parent: REQ-RZ2KZMV
+order: a3
 links:
   - type: refines
-    target: SYS-GQMSWY
+    target: REQ-RZ2KZMV
     confirmed: 25ed5bb60995
 ---
 The schedule editor shall authenticate the set point when the network is unavailable.

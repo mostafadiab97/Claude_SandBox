@@ -1,5 +1,5 @@
 ---
-id: HW-SZ75P4
+id: REQ-3N2JV8P
 type: hardware-requirement
 title: Main PCB calibrates energy consumption
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - cost
   - release-2.0
   - connectivity
-parent: SYS-4TS5VE
-order: 30
+former-id: HW-SZ75P4
+parent: REQ-SV2ZSHT
+order: a2
 links:
   - type: refines
-    target: SYS-4TS5VE
+    target: REQ-SV2ZSHT
     confirmed: 8de75c1b0368
 ---
 The power supply shall store the room temperature for at least 10 years.

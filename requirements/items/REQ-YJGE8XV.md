@@ -1,14 +1,15 @@
 ---
-id: SW-XYE84J
+id: REQ-YJGE8XV
 type: software-requirement
 title: Log access tokens — detail
 status: Draft
 owner: A. Hassan
-parent: SW-KEMB29
-order: 10
+former-id: SW-XYE84J
+parent: REQ-T0PHY3D
+order: a0
 links:
   - type: refines
-    target: SW-KEMB29
+    target: REQ-T0PHY3D
     confirmed: d9a584e6b704
 ---
 The encryption layer shall log schedule entries for at least 10 years.

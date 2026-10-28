@@ -1,5 +1,5 @@
 ---
-id: TC-NFTTC1
+id: REQ-S2FZ9VH
 type: test-case
 title: "Verify: Zigbee radio calibrates error conditions"
 status: Review
@@ -8,14 +8,15 @@ owner: M. Farouk
 tags:
   - release-2.0
   - power
-parent: INFO-F0M7VC
-order: 1220
+former-id: TC-NFTTC1
+parent: REQ-67RQXCK
+order: b0x
 links:
   - type: verifies
-    target: SYS-V3JY7R
+    target: REQ-Y2QCE6V
     confirmed: a0359a8db234
   - type: verifies
-    target: SW-8RHSPC
+    target: REQ-SC1D0JT
     confirmed: 35cf08e99025
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

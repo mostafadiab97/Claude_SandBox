@@ -1,5 +1,5 @@
 ---
-id: TC-RCNMFM
+id: REQ-Z4EYJ9G
 type: test-case
 title: "Verify: Bluetooth LE link switchs safety limits"
 status: Draft
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - performance
   - power
-parent: INFO-F0M7VC
-order: 1280
+former-id: TC-RCNMFM
+parent: REQ-67RQXCK
+order: b13
 links:
   - type: verifies
-    target: SYS-3PY964
+    target: REQ-DXNDNNZ
     confirmed: 3718c9e5d8ae
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

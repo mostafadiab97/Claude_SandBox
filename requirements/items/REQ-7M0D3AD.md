@@ -1,5 +1,5 @@
 ---
-id: TC-VAJSZT
+id: REQ-7M0D3AD
 type: test-case
 title: "Verify: Bluetooth LE link measures sensor readings"
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - cost
   - security
-parent: INFO-F0M7VC
-order: 380
+former-id: TC-VAJSZT
+parent: REQ-67RQXCK
+order: ab
 links:
   - type: verifies
-    target: SYS-10AYV7
+    target: REQ-PYT4632
     confirmed: 05e0bb495f40
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

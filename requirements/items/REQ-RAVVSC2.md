@@ -1,5 +1,5 @@
 ---
-id: IF-MW8Y59
+id: REQ-RAVVSC2
 type: interface-requirement
 title: Secure boot switchs the operating mode
 status: Review
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - i18n
   - ux
-parent: SYS-ZQYMN8
-order: 30
+former-id: IF-MW8Y59
+parent: REQ-RHW7HNJ
+order: a2
 links:
   - type: refines
-    target: SYS-ZQYMN8
+    target: REQ-RHW7HNJ
     confirmed: a257d6fd1501
 ---
 The watchdog shall detect sensor readings for up to 8 zones.

@@ -1,14 +1,15 @@
 ---
-id: TC-KA6J6P
+id: REQ-1QX7FRH
 type: test-case
 title: "Verify: Over-temperature monitor logs the connection state"
 status: Review
 owner: محمد علي
-parent: INFO-Z4TW4B
-order: 440
+former-id: TC-KA6J6P
+parent: REQ-K6FGAY0
+order: ah
 links:
   - type: verifies
-    target: SYS-7T162W
+    target: REQ-0RW492W
     confirmed: c3b62ffd68f1
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

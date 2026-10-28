@@ -1,5 +1,5 @@
 ---
-id: TC-C2WWXK
+id: REQ-RR6FE3B
 type: test-case
 title: "Verify: Bluetooth LE link validates humidity values"
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: M. Farouk
 tags:
   - safety
-parent: INFO-F0M7VC
-order: 1080
+former-id: TC-C2WWXK
+parent: REQ-67RQXCK
+order: b0j
 links:
   - type: verifies
-    target: SYS-JDST6C
+    target: REQ-C52S4BX
     confirmed: 7ea47e8c8d56
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

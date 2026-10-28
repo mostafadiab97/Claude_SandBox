@@ -1,5 +1,5 @@
 ---
-id: SW-698WDK
+id: REQ-1SPCKRG
 type: software-requirement
 title: Device registry detects the connection state
 status: Draft
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - power
   - accessibility
-parent: SYS-G0JBM8
-order: 10
+former-id: SW-698WDK
+parent: REQ-V6198RX
+order: a0
 links:
   - type: refines
-    target: SYS-G0JBM8
+    target: REQ-V6198RX
     confirmed: 4d23af5c0f84
 ---
 The cloud backend shall measure sensor readings below 0.5 W in standby.

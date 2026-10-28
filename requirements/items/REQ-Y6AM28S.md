@@ -1,14 +1,15 @@
 ---
-id: SW-8S81RT
+id: REQ-Y6AM28S
 type: software-requirement
 title: Boiler interface limits the set point
 status: Approved
 owner: محمد علي
-parent: SYS-HDSJK7
-order: 10
+former-id: SW-8S81RT
+parent: REQ-3E2Z93D
+order: a0
 links:
   - type: refines
-    target: SYS-HDSJK7
+    target: REQ-3E2Z93D
     confirmed: 051a9b0bce58
 ---
 The boiler interface shall synchronise the connection state after a power loss.

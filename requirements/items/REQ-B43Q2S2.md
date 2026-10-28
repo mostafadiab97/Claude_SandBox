@@ -1,5 +1,5 @@
 ---
-id: TC-2ZFGW1
+id: REQ-B43Q2S2
 type: test-case
 title: "Verify: Bluetooth LE link stores firmware images"
 status: Draft
@@ -7,11 +7,12 @@ owner: Y. Saber
 tags:
   - connectivity
   - ux
-parent: INFO-F0M7VC
-order: 280
+former-id: TC-2ZFGW1
+parent: REQ-67RQXCK
+order: aR
 links:
   - type: verifies
-    target: SYS-K61Y1H
+    target: REQ-PKDYEYJ
     confirmed: 05248eb02fec
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: TC-Y8D9BB
+id: REQ-N5ZKSM8
 type: test-case
 title: "Verify: Touch display displays the connection state"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - security
-parent: INFO-HTSZ15
-order: 400
+former-id: TC-Y8D9BB
+parent: REQ-Y9VHHKA
+order: ad
 links:
   - type: verifies
-    target: SYS-19PSY9
+    target: REQ-HHTRF9W
     confirmed: 6a61bda8a792
 ---
 **Objective:** verify that the touch display behaves as specified.

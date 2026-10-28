@@ -1,14 +1,15 @@
 ---
-id: TC-3SD2NY
+id: REQ-NCV4HRH
 type: test-case
 title: "Regression: Telemetry pipeline restores schedule entries"
 status: Approved
 owner: É. Laurent
-parent: INFO-ECHASH
-order: 1820
+former-id: TC-3SD2NY
+parent: REQ-6H15AV2
+order: b1v
 links:
   - type: verifies
-    target: SYS-QTE64V
+    target: REQ-DQ0W5RA
     confirmed: 27661a1b1fc7
 ---
 **Objective:** verify that the device behaves as specified.

@@ -1,11 +1,12 @@
 ---
-id: IF-1Q6MM7
+id: REQ-4ZW1NKD
 type: interface-requirement
 title: "Signal 434: access tokens"
 status: Approved
 priority: High
 owner: Y. Saber
-parent: INFO-2TM0JP
-order: 4340
+former-id: IF-1Q6MM7
+parent: REQ-RJ0KHPT
+order: b5z
 ---
 Interface signal number 434.

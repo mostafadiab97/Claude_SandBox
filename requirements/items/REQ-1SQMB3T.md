@@ -1,16 +1,17 @@
 ---
-id: SW-30XZME
+id: REQ-1SQMB3T
 type: software-requirement
 title: Switch the set point — detail
 status: Review
 priority: Medium
 tags:
   - release-1.0
-parent: SW-9JBTA8
-order: 10
+former-id: SW-30XZME
+parent: REQ-ADF4RTP
+order: a0
 links:
   - type: refines
-    target: SW-9JBTA8
+    target: REQ-ADF4RTP
     confirmed: 6e566e3ac796
 ---
 The device registry shall display the room temperature for up to 8 zones.

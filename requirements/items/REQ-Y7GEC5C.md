@@ -1,5 +1,5 @@
 ---
-id: IF-RDATGY
+id: REQ-Y7GEC5C
 type: interface-requirement
 title: Enclosure displays error conditions
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - accessibility
   - power
-parent: SYS-7XYG17
-order: 40
+former-id: IF-RDATGY
+parent: REQ-BPM72GK
+order: a3
 links:
   - type: refines
-    target: SYS-7XYG17
+    target: REQ-BPM72GK
     confirmed: b02cb0cbf227
 ---
 The battery backup shall store audit records for at least 10 years.

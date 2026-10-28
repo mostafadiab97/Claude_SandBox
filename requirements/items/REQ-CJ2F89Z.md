@@ -1,5 +1,5 @@
 ---
-id: IF-KGCW6K
+id: REQ-CJ2F89Z
 type: interface-requirement
 title: Backlight calibrates the room temperature
 status: Approved
@@ -7,11 +7,12 @@ owner: Y. Saber
 tags:
   - performance
   - release-1.0
-parent: SYS-YNQ51V
-order: 40
+former-id: IF-KGCW6K
+parent: REQ-R42X213
+order: a3
 links:
   - type: refines
-    target: SYS-YNQ51V
+    target: REQ-R42X213
     confirmed: d66b7da9d253
 ---
 The menu system shall detect relay events for up to 8 zones.

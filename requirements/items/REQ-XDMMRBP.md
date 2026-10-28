@@ -1,14 +1,15 @@
 ---
-id: TC-1X7RCS
+id: REQ-XDMMRBP
 type: test-case
 title: "Verify: Cloud backend switchs sensor readings"
 status: Draft
 owner: H. Mostafa
-parent: INFO-7P4D8D
-order: 1130
+former-id: TC-1X7RCS
+parent: REQ-8351896
+order: b0o
 links:
   - type: verifies
-    target: SYS-X09T8H
+    target: REQ-K9CPZEQ
     confirmed: 1d9be0f6bc96
 ---
 **Objective:** verify that the cloud backend behaves as specified.

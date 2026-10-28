@@ -1,5 +1,5 @@
 ---
-id: SYS-TXF8EG
+id: REQ-JB7W2BD
 type: system-requirement
 title: Regulation loop detects energy consumption
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - EMC
   - security
-parent: INFO-6DQTKV
-order: 1630
+former-id: SYS-TXF8EG
+parent: REQ-7ED7ZET
+order: b1c
 links:
   - type: refines
-    target: STK-9YF5RE
+    target: REQ-FGZGBY5
     confirmed: 43643c03020f
 ---
 The regulation loop shall measure the set point when the network is unavailable.

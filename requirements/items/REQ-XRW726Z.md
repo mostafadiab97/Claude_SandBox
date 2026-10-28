@@ -1,5 +1,5 @@
 ---
-id: IF-R109W8
+id: REQ-XRW726Z
 type: interface-requirement
 title: "Signal 599: user preferences"
 status: Draft
@@ -8,7 +8,8 @@ owner: R. Nabil
 tags:
   - EMC
   - cost
-parent: INFO-2TM0JP
-order: 5990
+former-id: IF-R109W8
+parent: REQ-RJ0KHPT
+order: b8e
 ---
 Interface signal number 599.

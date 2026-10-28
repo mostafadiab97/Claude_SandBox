@@ -1,5 +1,5 @@
 ---
-id: IF-KEJZAG
+id: REQ-8TNKVY6
 type: interface-requirement
 title: Battery backup synchronises the set point
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - ux
   - power
-parent: SYS-901PZX
-order: 10
+former-id: IF-KEJZAG
+parent: REQ-62ERE1Q
+order: a0
 links:
   - type: refines
-    target: SYS-901PZX
+    target: REQ-62ERE1Q
     confirmed: e93fd5180ace
 ---
 The enclosure shall display energy consumption within 200 ms.

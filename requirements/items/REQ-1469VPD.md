@@ -1,14 +1,15 @@
 ---
-id: SW-8V8BVW
+id: REQ-1469VPD
 type: software-requirement
 title: Boiler interface stores energy consumption
 status: Draft
 priority: High
-parent: SYS-NZJKH0
-order: 20
+former-id: SW-8V8BVW
+parent: REQ-693E6M9
+order: a1
 links:
   - type: refines
-    target: SYS-NZJKH0
+    target: REQ-693E6M9
     confirmed: 3f0107cdd84c
 ---
 The zone valve shall log the operating mode for at least 10 years.

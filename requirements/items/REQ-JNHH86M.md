@@ -1,5 +1,5 @@
 ---
-id: SYS-91NRJ9
+id: REQ-JNHH86M
 type: system-requirement
 title: Wi-Fi module notifys the room temperature
 status: Approved
@@ -7,14 +7,15 @@ priority: Low
 owner: K. Tanaka
 tags:
   - ux
-parent: INFO-NRVHA2
-order: 520
+former-id: SYS-91NRJ9
+parent: REQ-6R94HFM
+order: ap
 links:
   - type: refines
-    target: STK-5CT2VD
+    target: REQ-YDX9MVW
     confirmed: 51ca0f7a80ed
   - type: mitigates
-    target: RSK-QXX2QH
+    target: REQ-EBPP6TA
     confirmed: ec933cdd5217
 ---
 The Wi-Fi module shall switch user preferences with an accuracy of ±0.5 °C.

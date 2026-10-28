@@ -1,5 +1,5 @@
 ---
-id: IF-BK0XD1
+id: REQ-ZRKM0QK
 type: interface-requirement
 title: Calibrate schedule entries — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - safety
   - release-2.0
-parent: IF-ZJD6N6
-order: 10
+former-id: IF-BK0XD1
+parent: REQ-TACVENM
+order: a0
 links:
   - type: refines
-    target: IF-ZJD6N6
+    target: REQ-TACVENM
     confirmed: 9a48002d3b72
 ---
 The regulation loop shall report safety limits in under 3 s.

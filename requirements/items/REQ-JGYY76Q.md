@@ -1,5 +1,5 @@
 ---
-id: TC-V6CR6K
+id: REQ-JGYY76Q
 type: test-case
 title: "Verify: Menu system restores the operating mode"
 status: Draft
@@ -7,11 +7,12 @@ owner: M. Farouk
 tags:
   - cost
   - connectivity
-parent: INFO-HTSZ15
-order: 40
+former-id: TC-V6CR6K
+parent: REQ-Y9VHHKA
+order: a3
 links:
   - type: verifies
-    target: SYS-8PHDX1
+    target: REQ-ANNWVEX
     confirmed: 1bfc1bb5e4d7
 ---
 **Objective:** verify that the menu system behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-E3QHJ3
+id: REQ-AM0H1AZ
 type: software-requirement
 title: Detect humidity values — detail
 status: Review
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - customer-request
   - security
-parent: SW-DGP00F
-order: 10
+former-id: SW-E3QHJ3
+parent: REQ-GZJFFHG
+order: a0
 links:
   - type: refines
-    target: SW-DGP00F
+    target: REQ-GZJFFHG
     confirmed: a66a55402e6a
 ---
 The Bluetooth LE link shall limit relay events when the network is unavailable.

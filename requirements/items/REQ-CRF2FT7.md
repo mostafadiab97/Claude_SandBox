@@ -1,5 +1,5 @@
 ---
-id: SW-5825CB
+id: REQ-CRF2FT7
 type: software-requirement
 title: Home dashboard reports safety limits
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - power
   - cost
   - release-1.0
-parent: SYS-YW7JJY
-order: 30
+former-id: SW-5825CB
+parent: REQ-A9MQHYC
+order: a2
 links:
   - type: refines
-    target: SYS-YW7JJY
+    target: REQ-A9MQHYC
     confirmed: eb4dd1b8dfac
 ---
 The schedule editor shall measure access tokens when the network is unavailable.

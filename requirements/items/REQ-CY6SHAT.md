@@ -1,18 +1,19 @@
 ---
-id: TC-GHYMVV
+id: REQ-CY6SHAT
 type: test-case
 title: "Verify: Boiler interface stores audit records"
 status: Approved
 tags:
   - customer-request
-parent: INFO-MS9DAG
-order: 490
+former-id: TC-GHYMVV
+parent: REQ-XGWSK2K
+order: am
 links:
   - type: verifies
-    target: SYS-B37VY2
+    target: REQ-T1AHZJK
     confirmed: 06bc752da75c
   - type: verifies
-    target: SW-R9FW76
+    target: REQ-JV3FCEW
     confirmed: 4a784bcd2cf6
 ---
 **Objective:** verify that the boiler interface behaves as specified.

@@ -1,14 +1,15 @@
 ---
-id: HW-3CRSGY
+id: REQ-89VB5XC
 type: hardware-requirement
 title: Status LED measures the room temperature
 status: Review
 priority: Medium
-parent: SYS-K5036G
-order: 30
+former-id: HW-3CRSGY
+parent: REQ-5ZJJJWX
+order: a2
 links:
   - type: refines
-    target: SYS-K5036G
+    target: REQ-5ZJJJWX
     confirmed: 028aea2d56ab
 ---
 The menu system shall validate energy consumption within 200 ms.

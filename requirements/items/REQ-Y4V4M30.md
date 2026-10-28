@@ -1,5 +1,5 @@
 ---
-id: SW-47QNMN
+id: REQ-Y4V4M30
 type: software-requirement
 title: Zone valve restores access tokens
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: N. Kamal
 tags:
   - power
-parent: SYS-QNW27Q
-order: 10
+former-id: SW-47QNMN
+parent: REQ-NBF8HWW
+order: a0
 links:
   - type: refines
-    target: SYS-QNW27Q
+    target: REQ-NBF8HWW
     confirmed: 560625c6b46e
 ---
 The zone valve shall notify the room temperature in under 3 s.

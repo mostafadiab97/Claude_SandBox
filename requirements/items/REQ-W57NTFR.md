@@ -1,5 +1,5 @@
 ---
-id: RSK-0929HC
+id: REQ-W57NTFR
 type: risk
 title: "Risk: touch display fails to calibrate relay events"
 status: Approved
@@ -8,8 +8,9 @@ owner: É. Laurent
 tags:
   - customer-request
   - cost
-parent: INFO-0V9DV4
-order: 60
+former-id: RSK-0929HC
+parent: REQ-HHCVAFQ
+order: a5
 ---
 **Hazard:** the touch display could fail to store the room temperature.
 

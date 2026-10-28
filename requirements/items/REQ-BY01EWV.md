@@ -1,5 +1,5 @@
 ---
-id: SW-9NYCMA
+id: REQ-BY01EWV
 type: software-requirement
 title: Report humidity values — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - customer-request
   - i18n
-parent: SW-9EEFDN
-order: 10
+former-id: SW-9NYCMA
+parent: REQ-3MNYEMC
+order: a0
 links:
   - type: refines
-    target: SW-9EEFDN
+    target: REQ-3MNYEMC
     confirmed: 94ba9510fda2
 ---
 The notification service shall limit relay events for at least 10 years.

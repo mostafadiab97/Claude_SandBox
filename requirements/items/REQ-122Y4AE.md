@@ -1,14 +1,15 @@
 ---
-id: SW-JEMGC0
+id: REQ-122Y4AE
 type: software-requirement
 title: Calibrate the set point — detail
 status: Draft
 owner: É. Laurent
-parent: SW-B40EWB
-order: 10
+former-id: SW-JEMGC0
+parent: REQ-EG1N35P
+order: a0
 links:
   - type: refines
-    target: SW-B40EWB
+    target: REQ-EG1N35P
     confirmed: ed06aa4da27a
 ---
 The secure boot shall limit energy consumption for up to 8 zones.

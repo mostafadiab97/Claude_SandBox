@@ -1,5 +1,5 @@
 ---
-id: TC-CP8R2S
+id: REQ-GACN1X1
 type: test-case
 title: "Verify: Menu system notifys user preferences"
 status: Review
@@ -7,14 +7,15 @@ priority: Low
 owner: É. Laurent
 tags:
   - cost
-parent: INFO-HTSZ15
-order: 980
+former-id: TC-CP8R2S
+parent: REQ-Y9VHHKA
+order: b0Z
 links:
   - type: verifies
-    target: SYS-5PV5FX
+    target: REQ-0MGJV2W
     confirmed: b948ad16ad2c
   - type: verifies
-    target: SW-YSKNAQ
+    target: REQ-DGXYSK3
     confirmed: 1a45908b8b38
 ---
 **Objective:** verify that the menu system behaves as specified.

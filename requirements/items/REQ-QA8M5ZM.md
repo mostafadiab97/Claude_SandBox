@@ -1,5 +1,5 @@
 ---
-id: IF-0PSD11
+id: REQ-QA8M5ZM
 type: interface-requirement
 title: "Signal 025: sensor readings"
 status: Draft
@@ -8,7 +8,8 @@ owner: H. Mostafa
 tags:
   - security
   - safety
-parent: INFO-2TM0JP
-order: 250
+former-id: IF-0PSD11
+parent: REQ-RJ0KHPT
+order: aO
 ---
 Interface signal number 25.

@@ -1,5 +1,5 @@
 ---
-id: SYS-C7RCJ1
+id: REQ-D556VHF
 type: system-requirement
 title: Battery backup restores sensor readings
 status: Review
@@ -7,14 +7,15 @@ priority: Medium
 owner: A. Hassan
 tags:
   - security
-parent: INFO-A6P9A8
-order: 410
+former-id: SYS-C7RCJ1
+parent: REQ-CMCS31A
+order: ae
 links:
   - type: refines
-    target: STK-CDR1Y9
+    target: REQ-QC1Z78M
     confirmed: d9857f8b33bf
   - type: mitigates
-    target: RSK-4NE1NJ
+    target: REQ-MZ5YCZY
     confirmed: 56f6781ca0d3
 ---
 The battery backup shall notify relay events after a power loss.

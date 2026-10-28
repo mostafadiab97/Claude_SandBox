@@ -1,5 +1,5 @@
 ---
-id: IF-3FAMTJ
+id: REQ-BRSHAZ7
 type: interface-requirement
 title: Telemetry pipeline restores user preferences
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 tags:
   - power
   - accessibility
-parent: SYS-25VHBZ
-order: 20
+former-id: IF-3FAMTJ
+parent: REQ-KDPSCQK
+order: a1
 links:
   - type: refines
-    target: SYS-25VHBZ
+    target: REQ-KDPSCQK
     confirmed: b66a06d6db09
 ---
 The telemetry pipeline shall synchronise sensor readings within 200 ms.

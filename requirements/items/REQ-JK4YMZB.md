@@ -1,5 +1,5 @@
 ---
-id: DE-V62MHX
+id: REQ-JK4YMZB
 type: design-element
 title: Module device_registry_49
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - ux
   - accessibility
   - performance
-parent: SW-EJZMAM
-order: 10
+former-id: DE-V62MHX
+parent: REQ-B6FRCCG
+order: a0
 links:
   - type: implements
-    target: SW-EJZMAM
+    target: REQ-B6FRCCG
     confirmed: 8f2d23323c39
 ---
 Implemented in `src/cloud/device_registry.c`.

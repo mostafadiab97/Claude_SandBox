@@ -1,5 +1,5 @@
 ---
-id: SW-74FH7T
+id: REQ-AAE8RAX
 type: software-requirement
 title: Telemetry pipeline calibrates safety limits
 status: Obsolete
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - regulatory
   - performance
-parent: SYS-58H7WQ
-order: 10
+former-id: SW-74FH7T
+parent: REQ-HZVK2C0
+order: a0
 links:
   - type: refines
-    target: SYS-58H7WQ
+    target: REQ-HZVK2C0
     confirmed: 4ec07940ffd5
 ---
 The OTA server shall log humidity values at least once per minute.

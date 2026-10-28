@@ -1,5 +1,5 @@
 ---
-id: TC-AZDHZP
+id: REQ-WXZHS74
 type: test-case
 title: "Verify: Login screen notifys the set point"
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 owner: S. Adel
 tags:
   - release-2.0
-parent: INFO-J0FETE
-order: 800
+former-id: TC-AZDHZP
+parent: REQ-WR5ZJN9
+order: b0H
 links:
   - type: verifies
-    target: SYS-KFH2GP
+    target: REQ-1ZYXNNF
     confirmed: a8dcaf0bf6d6
   - type: verifies
-    target: SW-6ZNEMR
+    target: REQ-36Q1TB4
     confirmed: 8cdaa51b3615
 ---
 **Objective:** verify that the login screen behaves as specified.

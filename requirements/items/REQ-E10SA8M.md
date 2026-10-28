@@ -1,5 +1,5 @@
 ---
-id: IF-PWP455
+id: REQ-E10SA8M
 type: interface-requirement
 title: Watchdog encrypts access tokens
 status: Review
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - i18n
   - EMC
-parent: SYS-7DMMJ1
-order: 10
+former-id: IF-PWP455
+parent: REQ-CMY8A67
+order: a0
 links:
   - type: refines
-    target: SYS-7DMMJ1
+    target: REQ-CMY8A67
     confirmed: 25d533559e9b
 ---
 The encryption layer shall notify the operating mode without user interaction.

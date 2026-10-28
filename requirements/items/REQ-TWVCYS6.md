@@ -1,15 +1,16 @@
 ---
-id: SW-KJBE0B
+id: REQ-TWVCYS6
 type: software-requirement
 title: Zigbee radio stores the room temperature
 status: Approved
 priority: Medium
 owner: H. Mostafa
-parent: SYS-MA8PA2
-order: 30
+former-id: SW-KJBE0B
+parent: REQ-0N3YVR9
+order: a2
 links:
   - type: refines
-    target: SYS-MA8PA2
+    target: REQ-0N3YVR9
     confirmed: 7c651b78b359
 ---
 The Bluetooth LE link shall notify the room temperature in all supported languages.

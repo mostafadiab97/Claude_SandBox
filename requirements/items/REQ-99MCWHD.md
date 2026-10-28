@@ -1,5 +1,5 @@
 ---
-id: IF-NA63VD
+id: REQ-99MCWHD
 type: interface-requirement
 title: Boiler interface switchs safety limits
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: L. Samir
 tags:
   - customer-request
-parent: SYS-391421
-order: 10
+former-id: IF-NA63VD
+parent: REQ-EJ5V11S
+order: a0
 links:
   - type: refines
-    target: SYS-391421
+    target: REQ-EJ5V11S
     confirmed: 4a1f14a81457
 ---
 The heat pump driver shall authenticate the connection state using AES-256-GCM.

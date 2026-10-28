@@ -1,5 +1,5 @@
 ---
-id: DE-3N4ZCQ
+id: REQ-DERVD2B
 type: design-element
 title: Module notification_service_14
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - safety
   - EMC
   - regulatory
-parent: SW-MZ2CT7
-order: 20
+former-id: DE-3N4ZCQ
+parent: REQ-NCT4CR3
+order: a1
 links:
   - type: implements
-    target: SW-MZ2CT7
+    target: REQ-NCT4CR3
     confirmed: fde5746f7b5c
 ---
 Implemented in `src/app/notification_service.c`.

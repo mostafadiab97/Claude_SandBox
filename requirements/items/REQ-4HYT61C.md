@@ -1,15 +1,16 @@
 ---
-id: DE-Q242V0
+id: REQ-4HYT61C
 type: design-element
 title: Module login_screen_76
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: SW-RS7WYD
-order: 10
+former-id: DE-Q242V0
+parent: REQ-XZZJP40
+order: a0
 links:
   - type: implements
-    target: SW-RS7WYD
+    target: REQ-XZZJP40
     confirmed: a0b589ca536a
 ---
 Implemented in `src/app/login_screen.c`.

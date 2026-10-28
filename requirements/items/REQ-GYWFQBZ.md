@@ -1,5 +1,5 @@
 ---
-id: SYS-GCSJ6X
+id: REQ-GYWFQBZ
 type: system-requirement
 title: Regulation loop authenticates access tokens
 status: Approved
@@ -7,11 +7,12 @@ owner: N. Kamal
 tags:
   - release-2.0
   - cost
-parent: INFO-6DQTKV
-order: 860
+former-id: SYS-GCSJ6X
+parent: REQ-7ED7ZET
+order: b0N
 links:
   - type: refines
-    target: STK-75QZSA
+    target: REQ-NKR80ET
     confirmed: fef0332ed10c
 ---
 The regulation loop shall authenticate user preferences below 0.5 W in standby.

@@ -1,15 +1,16 @@
 ---
-id: HW-05WMRX
+id: REQ-2A9W9JF
 type: hardware-requirement
 title: Notify energy consumption — detail
 status: Obsolete
 priority: Low
 owner: É. Laurent
-parent: HW-ENR5YZ
-order: 10
+former-id: HW-05WMRX
+parent: REQ-Z2SKXZ7
+order: a0
 links:
   - type: refines
-    target: HW-ENR5YZ
+    target: REQ-Z2SKXZ7
     confirmed: 8c135bde4ead
 ---
 The Zigbee radio shall notify energy consumption within 200 ms.

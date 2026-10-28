@@ -1,18 +1,19 @@
 ---
-id: TC-8AACCZ
+id: REQ-FAE11J9
 type: test-case
 title: "Verify: Wi-Fi module stores sensor readings"
 status: Approved
 priority: Medium
 owner: L. Samir
-parent: INFO-F0M7VC
-order: 560
+former-id: TC-8AACCZ
+parent: REQ-67RQXCK
+order: at
 links:
   - type: verifies
-    target: SYS-1NHXCW
+    target: REQ-WK5920T
     confirmed: e694361bd48d
   - type: verifies
-    target: SW-Y2C20F
+    target: REQ-WHTZWSZ
     confirmed: 86644ed6fccb
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

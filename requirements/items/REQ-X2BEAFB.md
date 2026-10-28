@@ -1,5 +1,5 @@
 ---
-id: SYS-13AJMY
+id: REQ-X2BEAFB
 type: system-requirement
 title: Backlight displays the operating mode
 status: Approved
@@ -8,14 +8,15 @@ tags:
   - connectivity
   - accessibility
   - release-1.0
-parent: INFO-PDR6FV
-order: 510
+former-id: SYS-13AJMY
+parent: REQ-2ZA2TRZ
+order: ao
 links:
   - type: refines
-    target: STK-FWM06B
+    target: REQ-MM7V23Z
     confirmed: bbd40f488fa4
   - type: mitigates
-    target: RSK-W1W7WX
+    target: REQ-Y2BZ4A5
     confirmed: 902c1cbc8514
 ---
 The backlight shall display schedule entries with an accuracy of ±0.5 °C.

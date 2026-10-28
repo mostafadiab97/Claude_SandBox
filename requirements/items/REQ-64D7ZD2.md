@@ -1,5 +1,5 @@
 ---
-id: SW-Q6FE21
+id: REQ-64D7ZD2
 type: software-requirement
 title: Over-temperature monitor reports the set point
 status: Draft
@@ -7,11 +7,12 @@ owner: K. Tanaka
 tags:
   - release-2.0
   - release-1.0
-parent: SYS-WQRW57
-order: 10
+former-id: SW-Q6FE21
+parent: REQ-J1452PB
+order: a0
 links:
   - type: refines
-    target: SYS-WQRW57
+    target: REQ-J1452PB
     confirmed: a077b95b29b8
 ---
 The over-temperature monitor shall store the connection state after a power loss.

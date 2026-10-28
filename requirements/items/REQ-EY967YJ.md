@@ -1,5 +1,5 @@
 ---
-id: SYS-3ABMNG
+id: REQ-EY967YJ
 type: system-requirement
 title: Notification service authenticates humidity values
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: L. Samir
 tags:
   - release-2.0
-parent: INFO-2XXBRS
-order: 980
+former-id: SYS-3ABMNG
+parent: REQ-QYXGSQ4
+order: b0Z
 links:
   - type: refines
-    target: STK-B9Y7CM
+    target: REQ-YGQ30E7
     confirmed: 2e83dea5db22
 ---
 The notification service shall log schedule entries within 200 ms.

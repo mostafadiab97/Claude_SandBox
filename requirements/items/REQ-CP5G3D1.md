@@ -1,5 +1,5 @@
 ---
-id: IF-E82CRR
+id: REQ-CP5G3D1
 type: interface-requirement
 title: "Signal 272: relay events"
 status: Approved
@@ -9,7 +9,8 @@ tags:
   - release-2.0
   - connectivity
   - ux
-parent: INFO-2TM0JP
-order: 2720
+former-id: IF-E82CRR
+parent: REQ-RJ0KHPT
+order: b3N
 ---
 Interface signal number 272.

@@ -1,14 +1,15 @@
 ---
-id: IF-97ANA5
+id: REQ-YKK1EAC
 type: interface-requirement
 title: Tamper detection reports firmware images
 status: Draft
 priority: Medium
-parent: SYS-G5S6EX
-order: 40
+former-id: IF-97ANA5
+parent: REQ-5HPPTRY
+order: a3
 links:
   - type: refines
-    target: SYS-G5S6EX
+    target: REQ-5HPPTRY
     confirmed: e5867026fabe
 ---
 The secure boot shall validate energy consumption at least once per minute.

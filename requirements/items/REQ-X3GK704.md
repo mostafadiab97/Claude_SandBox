@@ -1,14 +1,15 @@
 ---
-id: SW-26HMJF
+id: REQ-X3GK704
 type: software-requirement
 title: Home dashboard measures relay events
 status: Draft
 priority: High
-parent: SYS-Y2RP9E
-order: 20
+former-id: SW-26HMJF
+parent: REQ-AGZTEW3
+order: a1
 links:
   - type: refines
-    target: SYS-Y2RP9E
+    target: REQ-AGZTEW3
     confirmed: e9c58e7ee304
 ---
 The notification service shall detect humidity values in all supported languages.

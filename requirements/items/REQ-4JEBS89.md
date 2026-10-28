@@ -1,5 +1,5 @@
 ---
-id: IF-1ASX5R
+id: REQ-4JEBS89
 type: interface-requirement
 title: Tamper detection restores the set point
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - cost
   - EMC
-parent: SYS-N7H58H
-order: 10
+former-id: IF-1ASX5R
+parent: REQ-9T92A3R
+order: a0
 links:
   - type: refines
-    target: SYS-N7H58H
+    target: REQ-9T92A3R
     confirmed: a8a06726344d
 ---
 The watchdog shall display the room temperature when the network is unavailable.

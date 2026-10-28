@@ -1,14 +1,15 @@
 ---
-id: SW-S1QFH7
+id: REQ-6H19SYY
 type: software-requirement
 title: Wi-Fi module switchs schedule entries
 status: Draft
 priority: Medium
-parent: SYS-E3TBDW
-order: 20
+former-id: SW-S1QFH7
+parent: REQ-SN84PTN
+order: a1
 links:
   - type: refines
-    target: SYS-E3TBDW
+    target: REQ-SN84PTN
     confirmed: c0e6f0c26e10
 ---
 The local API shall authenticate relay events below 0.5 W in standby.

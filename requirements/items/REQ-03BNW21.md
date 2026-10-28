@@ -1,5 +1,5 @@
 ---
-id: IF-MP3CNK
+id: REQ-03BNW21
 type: interface-requirement
 title: Power supply reports relay events
 status: Review
@@ -8,11 +8,12 @@ tags:
   - i18n
   - customer-request
   - performance
-parent: SYS-SPCMHW
-order: 10
+former-id: IF-MP3CNK
+parent: REQ-ABKVP5N
+order: a0
 links:
   - type: refines
-    target: SYS-SPCMHW
+    target: REQ-ABKVP5N
     confirmed: 0232f50fadbf
 ---
 The battery backup shall authenticate audit records without user interaction.

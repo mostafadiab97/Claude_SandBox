@@ -1,5 +1,5 @@
 ---
-id: SW-JGDAKD
+id: REQ-Q5MCBVX
 type: software-requirement
 title: Bluetooth LE link authenticates audit records
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - release-2.0
   - cost
-parent: SYS-322R8M
-order: 40
+former-id: SW-JGDAKD
+parent: REQ-4M2X9JP
+order: a3
 links:
   - type: refines
-    target: SYS-322R8M
+    target: REQ-4M2X9JP
     confirmed: 1d6119b63fd8
 ---
 The Zigbee radio shall limit audit records within 200 ms.

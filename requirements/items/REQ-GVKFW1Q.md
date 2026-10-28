@@ -1,14 +1,15 @@
 ---
-id: SW-07M4CR
+id: REQ-GVKFW1Q
 type: software-requirement
 title: Login screen displays audit records
 status: Draft
 priority: Medium
-parent: SYS-263BJQ
-order: 30
+former-id: SW-07M4CR
+parent: REQ-94M0JBB
+order: a2
 links:
   - type: refines
-    target: SYS-263BJQ
+    target: REQ-94M0JBB
     confirmed: 545c48596828
 ---
 The mobile app shall store the connection state when the network is unavailable.

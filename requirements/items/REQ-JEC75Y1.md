@@ -1,5 +1,5 @@
 ---
-id: TC-QS422F
+id: REQ-JEC75Y1
 type: test-case
 title: "Verify: Home dashboard logs the room temperature"
 status: Draft
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - performance
   - release-1.0
-parent: INFO-J0FETE
-order: 550
+former-id: TC-QS422F
+parent: REQ-WR5ZJN9
+order: as
 links:
   - type: verifies
-    target: SYS-HB4GM5
+    target: REQ-60N26XW
     confirmed: 2cd9efe1d517
 ---
 **Objective:** verify that the home dashboard behaves as specified.

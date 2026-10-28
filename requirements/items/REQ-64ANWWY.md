@@ -1,5 +1,5 @@
 ---
-id: IF-PWBJ2E
+id: REQ-64ANWWY
 type: interface-requirement
 title: Watchdog synchronises firmware images
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - release-1.0
   - power
-parent: SYS-M0XMTJ
-order: 20
+former-id: IF-PWBJ2E
+parent: REQ-8Z1HB6X
+order: a1
 links:
   - type: refines
-    target: SYS-M0XMTJ
+    target: REQ-8Z1HB6X
     confirmed: 265474e3470a
 ---
 The over-temperature monitor shall display audit records without user interaction.

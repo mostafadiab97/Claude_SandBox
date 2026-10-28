@@ -1,5 +1,5 @@
 ---
-id: SW-QGFZBR
+id: REQ-4QVYYJ7
 type: software-requirement
 title: Boiler interface encrypts user preferences
 status: Obsolete
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - EMC
   - customer-request
-parent: SYS-E6XBN0
-order: 20
+former-id: SW-QGFZBR
+parent: REQ-X2HPXE2
+order: a1
 links:
   - type: refines
-    target: SYS-E6XBN0
+    target: REQ-X2HPXE2
     confirmed: 7e3fcc9cce70
 ---
 The boiler interface shall restore error conditions in all supported languages.

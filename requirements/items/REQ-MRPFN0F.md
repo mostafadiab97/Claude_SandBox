@@ -1,5 +1,5 @@
 ---
-id: TC-2C47ME
+id: REQ-MRPFN0F
 type: test-case
 title: Hub verification 9
 status: Review
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - release-1.0
   - ux
-parent: INFO-ECHASH
-order: 180
+former-id: TC-2C47ME
+parent: REQ-6H15AV2
+order: aH
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 4639507190ed
 ---
 **Objective:** verify that the thermostat behaves as specified.

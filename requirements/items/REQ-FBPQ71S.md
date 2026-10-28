@@ -1,5 +1,5 @@
 ---
-id: HW-TSSH0R
+id: REQ-FBPQ71S
 type: hardware-requirement
 title: Secure boot limits the operating mode
 status: Obsolete
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - release-2.0
   - release-1.0
-parent: SYS-6DKMVB
-order: 20
+former-id: HW-TSSH0R
+parent: REQ-JEP1255
+order: a1
 links:
   - type: refines
-    target: SYS-6DKMVB
+    target: REQ-JEP1255
     confirmed: 5ee18259fea5
 ---
 The secure boot shall display schedule entries in all supported languages.

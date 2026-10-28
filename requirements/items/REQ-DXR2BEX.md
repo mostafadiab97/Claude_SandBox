@@ -1,5 +1,5 @@
 ---
-id: SW-EKPW3M
+id: REQ-DXR2BEX
 type: software-requirement
 title: Log audit records — detail
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - security
   - accessibility
   - customer-request
-parent: SW-Q6VP56
-order: 10
+former-id: SW-EKPW3M
+parent: REQ-AA797WB
+order: a0
 links:
   - type: refines
-    target: SW-Q6VP56
+    target: REQ-AA797WB
     confirmed: 9ce155de7e49
 ---
 The OTA server shall switch safety limits within 200 ms.

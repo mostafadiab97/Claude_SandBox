@@ -1,5 +1,5 @@
 ---
-id: TC-6BZF52
+id: REQ-Q6MB9B9
 type: test-case
 title: Hub verification 30
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: S. Adel
 tags:
   - customer-request
-parent: INFO-ECHASH
-order: 390
+former-id: TC-6BZF52
+parent: REQ-6H15AV2
+order: ac
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

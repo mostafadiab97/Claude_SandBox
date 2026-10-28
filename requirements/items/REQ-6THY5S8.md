@@ -1,15 +1,16 @@
 ---
-id: SW-EJ1VD0
+id: REQ-6THY5S8
 type: software-requirement
 title: Zone valve stores energy consumption
 status: Review
 priority: High
 owner: H. Mostafa
-parent: SYS-QN4W49
-order: 10
+former-id: SW-EJ1VD0
+parent: REQ-QT5K7YB
+order: a0
 links:
   - type: refines
-    target: SYS-QN4W49
+    target: REQ-QT5K7YB
     confirmed: 6a7a9fdc0288
 ---
 The boiler interface shall log humidity values when the network is unavailable.

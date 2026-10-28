@@ -1,5 +1,5 @@
 ---
-id: TC-VSVXYE
+id: REQ-W7RFTY1
 type: test-case
 title: "Verify: Telemetry pipeline detects error conditions"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - cost
   - security
   - ux
-parent: INFO-7P4D8D
-order: 300
+former-id: TC-VSVXYE
+parent: REQ-8351896
+order: aT
 links:
   - type: verifies
-    target: SYS-3FB1DA
+    target: REQ-FGHND7N
     confirmed: e3f29c8362d3
   - type: verifies
-    target: SW-7NWEV1
+    target: REQ-EWZ9BY7
     confirmed: ad7f11705f94
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-N4Y9W9
+id: REQ-T4QT6RV
 type: software-requirement
 title: Limit error conditions — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - i18n
   - ux
   - release-1.0
-parent: SW-1N6JYM
-order: 10
+former-id: SW-N4Y9W9
+parent: REQ-NC6YP13
+order: a0
 links:
   - type: refines
-    target: SW-1N6JYM
+    target: REQ-NC6YP13
     confirmed: 8a43e2af9dbf
 ---
 The home dashboard shall restore error conditions below 0.5 W in standby.

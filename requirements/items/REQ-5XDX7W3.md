@@ -1,14 +1,15 @@
 ---
-id: DE-Y4WYAC
+id: REQ-5XDX7W3
 type: design-element
 title: Module encryption_layer_52
 status: Approved
 owner: H. Mostafa
-parent: SW-Z8KR4V
-order: 20
+former-id: DE-Y4WYAC
+parent: REQ-Z5VG0KS
+order: a1
 links:
   - type: implements
-    target: SW-Z8KR4V
+    target: REQ-Z5VG0KS
     confirmed: 1c2113fd4d52
 ---
 Implemented in `src/safe/encryption_layer.c`.

@@ -1,15 +1,16 @@
 ---
-id: SW-786Q8V
+id: REQ-J3Y3BJ7
 type: software-requirement
 title: Synchronise the room temperature — detail
 status: Draft
 priority: Medium
 owner: K. Tanaka
-parent: SW-JE2GH1
-order: 10
+former-id: SW-786Q8V
+parent: REQ-08SFWPE
+order: a0
 links:
   - type: refines
-    target: SW-JE2GH1
+    target: REQ-08SFWPE
     confirmed: 00c6a3ef7be5
 ---
 The pairing process shall synchronise the set point after a power loss.

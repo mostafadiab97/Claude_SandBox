@@ -1,14 +1,15 @@
 ---
-id: SW-K5Z5T2
+id: REQ-HGBDB98
 type: software-requirement
 title: Log schedule entries — detail
 status: Approved
 owner: L. Samir
-parent: SW-YYD8MJ
-order: 10
+former-id: SW-K5Z5T2
+parent: REQ-AMHVX2H
+order: a0
 links:
   - type: refines
-    target: SW-YYD8MJ
+    target: REQ-AMHVX2H
     confirmed: 73ea54421306
 ---
 The heating controller shall validate the operating mode for at least 10 years.

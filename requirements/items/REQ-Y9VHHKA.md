@@ -1,7 +1,8 @@
 ---
-id: INFO-HTSZ15
+id: REQ-Y9VHHKA
 type: information
-title: 4.3 Verification
-parent: INFO-APHEKT
-order: 30
+title: Verification
+former-id: INFO-HTSZ15
+parent: REQ-1VKER3H
+order: a2
 ---

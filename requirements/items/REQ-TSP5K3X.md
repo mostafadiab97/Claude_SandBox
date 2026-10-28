@@ -1,5 +1,5 @@
 ---
-id: SYS-PS392D
+id: REQ-TSP5K3X
 type: system-requirement
 title: Boiler interface notifys sensor readings
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - release-2.0
-parent: INFO-6DQTKV
-order: 570
+former-id: SYS-PS392D
+parent: REQ-7ED7ZET
+order: au
 links:
   - type: refines
-    target: STK-W8N48B
+    target: REQ-GHEE73G
     confirmed: 00c32cea6ea5
 ---
 The boiler interface shall store firmware images for at least 10 years.

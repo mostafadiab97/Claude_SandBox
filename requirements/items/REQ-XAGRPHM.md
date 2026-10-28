@@ -1,5 +1,5 @@
 ---
-id: TC-CM6FES
+id: REQ-XAGRPHM
 type: test-case
 title: "Verify: Relay board reports audit records"
 status: Obsolete
@@ -9,14 +9,15 @@ tags:
   - regulatory
   - connectivity
   - security
-parent: INFO-MACGC3
-order: 850
+former-id: TC-CM6FES
+parent: REQ-F9Z1FYS
+order: b0M
 links:
   - type: verifies
-    target: SYS-YF7TFF
+    target: REQ-DXJ540R
     confirmed: 7c6e8f945766
   - type: verifies
-    target: SW-WMJ9PD
+    target: REQ-A38Q5JK
     confirmed: 793dc861b61b
 ---
 **Objective:** verify that the relay board behaves as specified.

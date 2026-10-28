@@ -1,5 +1,5 @@
 ---
-id: HW-150DKZ
+id: REQ-3Y79MQF
 type: hardware-requirement
 title: Restore the operating mode — detail
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: É. Laurent
 tags:
   - connectivity
-parent: HW-5Q73EE
-order: 10
+former-id: HW-150DKZ
+parent: REQ-QNREB3K
+order: a0
 links:
   - type: refines
-    target: HW-5Q73EE
+    target: REQ-QNREB3K
     confirmed: 72a17540355c
 ---
 The relay board shall authenticate audit records within 200 ms.

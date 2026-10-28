@@ -1,5 +1,5 @@
 ---
-id: TC-P5YR6R
+id: REQ-E3ACY0R
 type: test-case
 title: Hub verification 28
 status: Review
@@ -8,11 +8,12 @@ tags:
   - ux
   - connectivity
   - i18n
-parent: INFO-ECHASH
-order: 370
+former-id: TC-P5YR6R
+parent: REQ-6H15AV2
+order: aa
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

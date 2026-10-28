@@ -1,5 +1,5 @@
 ---
-id: TC-H9DZYA
+id: REQ-MKX32WE
 type: test-case
 title: "Verify: Telemetry pipeline limits access tokens"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - EMC
   - power
   - regulatory
-parent: INFO-7P4D8D
-order: 1150
+former-id: TC-H9DZYA
+parent: REQ-8351896
+order: b0q
 links:
   - type: verifies
-    target: SYS-AC34S0
+    target: REQ-FJMWQFX
     confirmed: 35daf5402be7
   - type: verifies
-    target: SW-BYV6KE
+    target: REQ-BWS0YBS
     confirmed: a241069de6f9
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

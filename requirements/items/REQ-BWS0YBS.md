@@ -1,5 +1,5 @@
 ---
-id: SW-BYV6KE
+id: REQ-BWS0YBS
 type: software-requirement
 title: Device registry authenticates audit records
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - EMC
   - regulatory
-parent: SYS-2537HM
-order: 10
+former-id: SW-BYV6KE
+parent: REQ-69KD2SB
+order: a0
 links:
   - type: refines
-    target: SYS-2537HM
+    target: REQ-69KD2SB
     confirmed: 757b06263a13
 ---
 The device registry shall synchronise error conditions when the network is unavailable.

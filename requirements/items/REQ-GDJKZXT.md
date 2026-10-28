@@ -1,5 +1,5 @@
 ---
-id: DEF-YH0GV6
+id: REQ-GDJKZXT
 type: defect
 title: "Defect: home dashboard does not synchronise energy consumption"
 status: Draft
@@ -7,14 +7,15 @@ priority: High
 owner: M. Farouk
 tags:
   - ux
-parent: INFO-FH5FB3
-order: 50
+former-id: DEF-YH0GV6
+parent: REQ-MWRPGWA
+order: a4
 links:
   - type: relates-to
-    target: TC-GCB1K2
+    target: REQ-BXWH9GJ
     confirmed: 3c04c4dcf75e
   - type: relates-to
-    target: SYS-EB0Q7V
+    target: REQ-NY8TNSE
     confirmed: 7707b9c36b9c
 ---
 Found during regression testing of build 2.2.13.

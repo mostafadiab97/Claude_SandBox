@@ -1,5 +1,5 @@
 ---
-id: TC-78AZJY
+id: REQ-VDVTN3D
 type: test-case
 title: "Verify: Menu system logs the connection state"
 status: Approved
@@ -7,14 +7,15 @@ owner: É. Laurent
 tags:
   - EMC
   - ux
-parent: INFO-HTSZ15
-order: 660
+former-id: TC-78AZJY
+parent: REQ-Y9VHHKA
+order: b03
 links:
   - type: verifies
-    target: SYS-ATYYP2
+    target: REQ-DC0XM5K
     confirmed: 560200c70caf
   - type: verifies
-    target: SW-ZMFY7T
+    target: REQ-NHV6G7Z
     confirmed: 1be6be8dc44f
 ---
 **Objective:** verify that the menu system behaves as specified.

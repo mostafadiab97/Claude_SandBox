@@ -1,15 +1,16 @@
 ---
-id: TC-Y829BD
+id: REQ-M0VXYCQ
 type: test-case
 title: "Verify: Touch display measures sensor readings"
 status: Draft
 priority: Medium
 owner: J. Müller
-parent: INFO-HTSZ15
-order: 940
+former-id: TC-Y829BD
+parent: REQ-Y9VHHKA
+order: b0V
 links:
   - type: verifies
-    target: SYS-14YX19
+    target: REQ-C7D9Q3R
     confirmed: 06f883a1c81b
 ---
 **Objective:** verify that the touch display behaves as specified.

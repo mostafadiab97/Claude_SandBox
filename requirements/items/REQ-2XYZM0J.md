@@ -1,5 +1,5 @@
 ---
-id: TC-5WJPF9
+id: REQ-2XYZM0J
 type: test-case
 title: "Verify: Boiler interface limits the set point"
 status: Approved
@@ -8,14 +8,15 @@ owner: H. Mostafa
 tags:
   - safety
   - i18n
-parent: INFO-MS9DAG
-order: 970
+former-id: TC-5WJPF9
+parent: REQ-XGWSK2K
+order: b0Y
 links:
   - type: verifies
-    target: SYS-KVWKZF
+    target: REQ-BGM84MK
     confirmed: 9148889bdd96
   - type: verifies
-    target: SW-0B9G6V
+    target: REQ-G9347E5
     confirmed: 4dd853c054a2
 ---
 **Objective:** verify that the boiler interface behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: HW-FB7G52
+id: REQ-EGWGS6S
 type: hardware-requirement
 title: Zigbee radio validates audit records
 status: Review
 priority: Low
 owner: N. Kamal
-parent: SYS-66QHTN
-order: 40
+former-id: HW-FB7G52
+parent: REQ-G5ZVX3X
+order: a3
 links:
   - type: refines
-    target: SYS-66QHTN
+    target: REQ-G5ZVX3X
     confirmed: 65154f9b889c
 ---
 The local API shall authenticate schedule entries in all supported languages.

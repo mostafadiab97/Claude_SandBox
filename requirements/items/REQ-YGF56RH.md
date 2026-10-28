@@ -1,5 +1,5 @@
 ---
-id: SW-1DHCGS
+id: REQ-YGF56RH
 type: software-requirement
 title: Device registry calibrates humidity values
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - power
   - release-1.0
-parent: SYS-2QZKSN
-order: 20
+former-id: SW-1DHCGS
+parent: REQ-MBW1CZM
+order: a1
 links:
   - type: refines
-    target: SYS-2QZKSN
+    target: REQ-MBW1CZM
     confirmed: c4664feed0e6
 ---
 The telemetry pipeline shall restore the room temperature within 200 ms.

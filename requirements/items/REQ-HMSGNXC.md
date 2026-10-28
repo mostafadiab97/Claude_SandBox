@@ -1,5 +1,5 @@
 ---
-id: SYS-6FPGAZ
+id: REQ-HMSGNXC
 type: system-requirement
 title: Mobile app limits the set point
 status: Review
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - performance
   - release-1.0
-parent: INFO-2XXBRS
-order: 120
+former-id: SYS-6FPGAZ
+parent: REQ-QYXGSQ4
+order: aB
 links:
   - type: refines
-    target: STK-5VZRF2
+    target: REQ-AC08V5H
     confirmed: cf78baefa376
 ---
 The mobile app shall log access tokens using AES-256-GCM.

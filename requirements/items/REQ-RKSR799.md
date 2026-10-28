@@ -1,14 +1,15 @@
 ---
-id: HW-PNEQHT
+id: REQ-RKSR799
 type: hardware-requirement
 title: Pairing process encrypts the room temperature
 status: Approved
 owner: N. Kamal
-parent: SYS-BJEV5G
-order: 20
+former-id: HW-PNEQHT
+parent: REQ-1R6WJ3D
+order: a1
 links:
   - type: refines
-    target: SYS-BJEV5G
+    target: REQ-1R6WJ3D
     confirmed: c5698f4c4723
 ---
 The local API shall validate relay events with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: IF-Q45KA3
+id: REQ-7ATNQW1
 type: interface-requirement
 title: "Signal 085: the set point"
 status: Draft
@@ -9,7 +9,8 @@ tags:
   - i18n
   - cost
   - ux
-parent: INFO-2TM0JP
-order: 850
+former-id: IF-Q45KA3
+parent: REQ-RJ0KHPT
+order: b0M
 ---
 Interface signal number 85.

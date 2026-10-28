@@ -1,5 +1,5 @@
 ---
-id: SW-K5KTY4
+id: REQ-RFFS2WG
 type: software-requirement
 title: Notification service displays firmware images
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - cost
   - regulatory
-parent: SYS-QKGZJJ
-order: 20
+former-id: SW-K5KTY4
+parent: REQ-M6ARR9M
+order: a1
 links:
   - type: refines
-    target: SYS-QKGZJJ
+    target: REQ-M6ARR9M
     confirmed: b92b84803641
 ---
 The schedule editor shall detect sensor readings within 200 ms.

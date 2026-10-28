@@ -1,5 +1,5 @@
 ---
-id: SW-XPER34
+id: REQ-XJX69WH
 type: software-requirement
 title: Over-temperature monitor authenticates safety limits
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - ux
   - safety
-parent: SYS-F7SWPF
-order: 30
+former-id: SW-XPER34
+parent: REQ-7W5PV59
+order: a2
 links:
   - type: refines
-    target: SYS-F7SWPF
+    target: REQ-7W5PV59
     confirmed: 89bbd5dd030b
 ---
 The tamper detection shall synchronise access tokens in under 3 s.

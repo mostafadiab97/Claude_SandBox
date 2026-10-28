@@ -1,5 +1,5 @@
 ---
-id: TC-BHBGV4
+id: REQ-R3HNYD7
 type: test-case
 title: "Verify: Tamper detection validates safety limits"
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - cost
-parent: INFO-Z4TW4B
-order: 250
+former-id: TC-BHBGV4
+parent: REQ-K6FGAY0
+order: aO
 links:
   - type: verifies
-    target: SYS-W3VB1X
+    target: REQ-KBZR5EK
     confirmed: 0b387183e7b1
 ---
 **Objective:** verify that the tamper detection behaves as specified.

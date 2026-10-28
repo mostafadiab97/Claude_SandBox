@@ -1,5 +1,5 @@
 ---
-id: TC-4067BQ
+id: REQ-2X7DGPF
 type: test-case
 title: "Verify: Local API synchronises firmware images"
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - EMC
   - safety
-parent: INFO-F0M7VC
-order: 1050
+former-id: TC-4067BQ
+parent: REQ-67RQXCK
+order: b0g
 links:
   - type: verifies
-    target: SYS-N9J3YN
+    target: REQ-19J4DQ3
     confirmed: b028c5e8a190
 ---
 **Objective:** verify that the local API behaves as specified.

@@ -1,14 +1,15 @@
 ---
-id: SW-J2KHB6
+id: REQ-AE2VQAG
 type: software-requirement
 title: Log relay events — detail
 status: Approved
 owner: محمد علي
-parent: SW-2MEXPQ
-order: 10
+former-id: SW-J2KHB6
+parent: REQ-YP61FT2
+order: a0
 links:
   - type: refines
-    target: SW-2MEXPQ
+    target: REQ-YP61FT2
     confirmed: 1e20ac0f135d
 ---
 The login screen shall synchronise safety limits within 200 ms.

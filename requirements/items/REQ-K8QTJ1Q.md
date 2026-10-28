@@ -1,5 +1,5 @@
 ---
-id: TC-Q6QD24
+id: REQ-K8QTJ1Q
 type: test-case
 title: "Verify: Heat pump driver measures audit records"
 status: Draft
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - safety
   - connectivity
-parent: INFO-MS9DAG
-order: 1140
+former-id: TC-Q6QD24
+parent: REQ-XGWSK2K
+order: b0p
 links:
   - type: verifies
-    target: SYS-KD220M
+    target: REQ-V4HM9Q6
     confirmed: 39ba118c88d8
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

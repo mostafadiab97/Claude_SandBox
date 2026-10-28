@@ -1,5 +1,5 @@
 ---
-id: SW-TQSVK3
+id: REQ-5H4CSVK
 type: software-requirement
 title: Menu system calibrates the set point
 status: Approved
@@ -7,11 +7,12 @@ owner: R. Nabil
 tags:
   - ux
   - release-2.0
-parent: SYS-3K76JB
-order: 10
+former-id: SW-TQSVK3
+parent: REQ-4388NPS
+order: a0
 links:
   - type: refines
-    target: SYS-3K76JB
+    target: REQ-4388NPS
     confirmed: b4360e33eebd
 ---
 The touch display shall detect the set point using AES-256-GCM.

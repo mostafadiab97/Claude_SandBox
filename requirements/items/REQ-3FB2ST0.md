@@ -1,15 +1,16 @@
 ---
-id: SW-1NE15M
+id: REQ-3FB2ST0
 type: software-requirement
 title: Login screen validates relay events
 status: Approved
 priority: Medium
 owner: M. Farouk
-parent: SYS-14RRJP
-order: 20
+former-id: SW-1NE15M
+parent: REQ-6HJ8YSE
+order: a1
 links:
   - type: refines
-    target: SYS-14RRJP
+    target: REQ-6HJ8YSE
     confirmed: 6d7d6ad41e6e
 ---
 The schedule editor shall authenticate the room temperature at least once per minute.

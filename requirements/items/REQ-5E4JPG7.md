@@ -1,5 +1,5 @@
 ---
-id: SYS-2NPFB8
+id: REQ-5E4JPG7
 type: system-requirement
 title: User account service switchs the connection state
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - performance
   - i18n
-parent: INFO-YV5EZD
-order: 800
+former-id: SYS-2NPFB8
+parent: REQ-RE9ZKHF
+order: b0H
 links:
   - type: refines
-    target: STK-Y5PMTC
+    target: REQ-FPBMKN9
     confirmed: 047439fb0db8
 ---
 The user account service shall display error conditions for at least 10 years.

@@ -1,14 +1,15 @@
 ---
-id: TC-EPQAH9
+id: REQ-6HDY0AY
 type: test-case
 title: "Verify: Zone valve logs the operating mode"
 status: Draft
 priority: Medium
-parent: INFO-MS9DAG
-order: 1480
+former-id: TC-EPQAH9
+parent: REQ-XGWSK2K
+order: b1N
 links:
   - type: verifies
-    target: SYS-WQ0CE1
+    target: REQ-EA1DV1V
     confirmed: 876eb172799e
 ---
 **Objective:** verify that the zone valve behaves as specified.

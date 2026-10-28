@@ -1,15 +1,16 @@
 ---
-id: IF-VF2Q27
+id: REQ-1SQYE9Z
 type: interface-requirement
 title: Cloud backend stores user preferences
 status: Draft
 priority: Low
 owner: N. Kamal
-parent: SYS-E60WCX
-order: 20
+former-id: IF-VF2Q27
+parent: REQ-SDZFT6Q
+order: a1
 links:
   - type: refines
-    target: SYS-E60WCX
+    target: REQ-SDZFT6Q
     confirmed: 52a4389d660e
 ---
 The device registry shall authenticate the connection state without user interaction.

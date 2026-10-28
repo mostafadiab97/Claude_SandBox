@@ -1,5 +1,5 @@
 ---
-id: SYS-3TWJPP
+id: REQ-RR2A2CN
 type: system-requirement
 title: Login screen validates audit records
 status: Approved
@@ -7,8 +7,9 @@ priority: Low
 owner: N. Kamal
 tags:
   - security
-parent: INFO-2XXBRS
-order: 2040
+former-id: SYS-3TWJPP
+parent: REQ-QYXGSQ4
+order: b2H
 links:
   - type: refines
     target: STK-H87WHA

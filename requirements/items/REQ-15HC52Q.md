@@ -1,5 +1,5 @@
 ---
-id: TC-JDWV1Y
+id: REQ-15HC52Q
 type: test-case
 title: "Verify: Heat pump driver logs safety limits"
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - power
-parent: INFO-MS9DAG
-order: 1180
+former-id: TC-JDWV1Y
+parent: REQ-XGWSK2K
+order: b0t
 links:
   - type: verifies
-    target: SYS-CGJPSG
+    target: REQ-JVX09VR
     confirmed: 4edc21a3fb0f
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

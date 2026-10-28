@@ -1,15 +1,16 @@
 ---
-id: IF-K1FF8S
+id: REQ-REZ5PBS
 type: interface-requirement
 title: Relay board notifys the set point
 status: Draft
 tags:
   - connectivity
-parent: SYS-901PZX
-order: 20
+former-id: IF-K1FF8S
+parent: REQ-62ERE1Q
+order: a1
 links:
   - type: refines
-    target: SYS-901PZX
+    target: REQ-62ERE1Q
     confirmed: e93fd5180ace
 ---
 The enclosure shall restore firmware images without user interaction.

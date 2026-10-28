@@ -1,5 +1,5 @@
 ---
-id: IF-MAZAEW
+id: REQ-00EE9M7
 type: interface-requirement
 title: Menu system displays sensor readings
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - release-2.0
   - cost
-parent: SYS-CQEWAD
-order: 20
+former-id: IF-MAZAEW
+parent: REQ-89EGSYK
+order: a1
 links:
   - type: refines
-    target: SYS-CQEWAD
+    target: REQ-89EGSYK
     confirmed: 2cb413be1ed1
 ---
 The rotary knob shall display the connection state using AES-256-GCM.

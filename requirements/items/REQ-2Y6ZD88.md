@@ -1,5 +1,5 @@
 ---
-id: SYS-H1Z00Y
+id: REQ-2Y6ZD88
 type: system-requirement
 title: Zigbee radio restores firmware images
 status: Obsolete
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - safety
   - customer-request
-parent: INFO-NRVHA2
-order: 830
+former-id: SYS-H1Z00Y
+parent: REQ-6R94HFM
+order: b0K
 links:
   - type: refines
-    target: STK-1R2QT3
+    target: REQ-3MGNW4R
     confirmed: 7ca04f22a1b8
 ---
 The Zigbee radio shall restore user preferences using AES-256-GCM.

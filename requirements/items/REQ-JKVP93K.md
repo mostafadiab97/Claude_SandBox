@@ -1,15 +1,16 @@
 ---
-id: TC-97K34G
+id: REQ-JKVP93K
 type: test-case
 title: "Verify: Battery backup encrypts safety limits"
 status: Draft
 priority: Medium
 owner: K. Tanaka
-parent: INFO-MACGC3
-order: 90
+former-id: TC-97K34G
+parent: REQ-F9Z1FYS
+order: a8
 links:
   - type: verifies
-    target: SYS-11FFG3
+    target: REQ-81YFJH6
     confirmed: b87802a5ad61
 ---
 **Objective:** verify that the battery backup behaves as specified.

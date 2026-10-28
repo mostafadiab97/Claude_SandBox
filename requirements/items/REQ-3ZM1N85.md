@@ -1,14 +1,15 @@
 ---
-id: SYS-RGCFDP
+id: REQ-3ZM1N85
 type: system-requirement
 title: Watchdog synchronises schedule entries
 status: Review
 owner: É. Laurent
-parent: INFO-0229G8
-order: 1740
+former-id: SYS-RGCFDP
+parent: REQ-H9113WA
+order: b1n
 links:
   - type: refines
-    target: STK-92HHJV
+    target: REQ-Z7761RK
     confirmed: 260bd01800c6
 ---
 The watchdog shall synchronise audit records using AES-256-GCM.

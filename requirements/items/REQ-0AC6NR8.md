@@ -1,5 +1,5 @@
 ---
-id: SYS-E1XEK0
+id: REQ-0AC6NR8
 type: system-requirement
 title: Secure boot limits schedule entries
 status: Approved
@@ -8,14 +8,15 @@ owner: محمد علي
 tags:
   - connectivity
   - ux
-parent: INFO-0229G8
-order: 840
+former-id: SYS-E1XEK0
+parent: REQ-H9113WA
+order: b0L
 links:
   - type: refines
-    target: STK-SZWQ0A
+    target: REQ-AVJ6PR8
     confirmed: fc1f05b44684
   - type: mitigates
-    target: RSK-MJR7PZ
+    target: REQ-C971M8M
     confirmed: a67337939a06
 ---
 The secure boot shall authenticate schedule entries after a power loss.

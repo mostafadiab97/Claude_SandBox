@@ -1,5 +1,5 @@
 ---
-id: HW-69EGEK
+id: REQ-J4A59YH
 type: hardware-requirement
 title: Telemetry pipeline calibrates the room temperature
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - safety
   - security
-parent: SYS-35NR1X
-order: 20
+former-id: HW-69EGEK
+parent: REQ-5JR8KWF
+order: a1
 links:
   - type: refines
-    target: SYS-35NR1X
+    target: REQ-5JR8KWF
     confirmed: ce0c7ab3d25e
 ---
 The telemetry pipeline shall notify the room temperature in under 3 s.

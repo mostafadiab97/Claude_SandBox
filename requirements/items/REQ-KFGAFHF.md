@@ -1,5 +1,5 @@
 ---
-id: HW-XHD02D
+id: REQ-KFGAFHF
 type: hardware-requirement
 title: Status LED synchronises error conditions
 status: Draft
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - EMC
   - performance
-parent: SYS-TKG0RV
-order: 10
+former-id: HW-XHD02D
+parent: REQ-3K72D1H
+order: a0
 links:
   - type: refines
-    target: SYS-TKG0RV
+    target: REQ-3K72D1H
     confirmed: e777aa6cb619
 ---
 The backlight shall switch error conditions within 200 ms.

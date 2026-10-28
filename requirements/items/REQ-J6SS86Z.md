@@ -1,5 +1,5 @@
 ---
-id: TC-5X7650
+id: REQ-J6SS86Z
 type: test-case
 title: "Verify: Zone valve notifys schedule entries"
 status: Draft
@@ -7,14 +7,15 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - i18n
-parent: INFO-MS9DAG
-order: 530
+former-id: TC-5X7650
+parent: REQ-XGWSK2K
+order: aq
 links:
   - type: verifies
-    target: SYS-MSJYD9
+    target: REQ-0YZEF7C
     confirmed: a4f989d37c98
   - type: verifies
-    target: SW-NWQESS
+    target: REQ-J2K9RV1
     confirmed: 02be29037617
 ---
 **Objective:** verify that the zone valve behaves as specified.

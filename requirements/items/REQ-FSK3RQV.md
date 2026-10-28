@@ -1,5 +1,5 @@
 ---
-id: SYS-T6SZE0
+id: REQ-FSK3RQV
 type: system-requirement
 title: Wi-Fi module switchs audit records
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: L. Samir
 tags:
   - EMC
-parent: INFO-NRVHA2
-order: 1010
+former-id: SYS-T6SZE0
+parent: REQ-6R94HFM
+order: b0c
 links:
   - type: refines
-    target: STK-AAZ4HV
+    target: REQ-M9DYEF5
     confirmed: 44fc7956dbf8
 ---
 The Wi-Fi module shall display access tokens without user interaction.

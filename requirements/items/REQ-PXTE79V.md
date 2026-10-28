@@ -1,5 +1,5 @@
 ---
-id: SW-XKNC5P
+id: REQ-PXTE79V
 type: software-requirement
 title: User account service synchronises humidity values
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: Y. Saber
 tags:
   - release-2.0
-parent: SYS-5N0YKT
-order: 20
+former-id: SW-XKNC5P
+parent: REQ-EFBR2PC
+order: a1
 links:
   - type: refines
-    target: SYS-5N0YKT
+    target: REQ-EFBR2PC
     confirmed: 08567b44affd
 ---
 The OTA server shall store access tokens after a power loss.

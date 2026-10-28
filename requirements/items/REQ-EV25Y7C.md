@@ -1,5 +1,5 @@
 ---
-id: HW-JV3GDD
+id: REQ-EV25Y7C
 type: hardware-requirement
 title: Regulation loop measures access tokens
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - performance
   - accessibility
   - security
-parent: SYS-5S3EBH
-order: 10
+former-id: HW-JV3GDD
+parent: REQ-JHGN5ZT
+order: a0
 links:
   - type: refines
-    target: SYS-5S3EBH
+    target: REQ-JHGN5ZT
     confirmed: f3466e61aac9
 ---
 The heat pump driver shall report relay events within 200 ms.

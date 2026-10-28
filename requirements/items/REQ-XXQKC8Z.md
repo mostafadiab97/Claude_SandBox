@@ -1,5 +1,5 @@
 ---
-id: TC-21Z9E9
+id: REQ-XXQKC8Z
 type: test-case
 title: "Verify: Watchdog logs the connection state"
 status: Approved
@@ -7,11 +7,12 @@ owner: محمد علي
 tags:
   - connectivity
   - i18n
-parent: INFO-Z4TW4B
-order: 590
+former-id: TC-21Z9E9
+parent: REQ-K6FGAY0
+order: aw
 links:
   - type: verifies
-    target: SYS-F2DJDC
+    target: REQ-W18RFR4
     confirmed: 2d379fb34255
 ---
 **Objective:** verify that the watchdog behaves as specified.

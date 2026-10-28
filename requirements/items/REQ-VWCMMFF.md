@@ -1,5 +1,5 @@
 ---
-id: HW-02NCQX
+id: REQ-VWCMMFF
 type: hardware-requirement
 title: Tamper detection notifys safety limits
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - performance
   - regulatory
-parent: SYS-49FF9M
-order: 10
+former-id: HW-02NCQX
+parent: REQ-M1R4HSQ
+order: a0
 links:
   - type: refines
-    target: SYS-49FF9M
+    target: REQ-M1R4HSQ
     confirmed: de1a22bc8031
 ---
 The tamper detection shall limit user preferences after a power loss.

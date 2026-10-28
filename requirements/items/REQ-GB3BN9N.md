@@ -1,5 +1,5 @@
 ---
-id: IF-6BBJFA
+id: REQ-GB3BN9N
 type: interface-requirement
 title: Rotary knob authenticates schedule entries
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: K. Tanaka
 tags:
   - release-2.0
-parent: SYS-PTCT1E
-order: 10
+former-id: IF-6BBJFA
+parent: REQ-ENMW2RV
+order: a0
 links:
   - type: refines
-    target: SYS-PTCT1E
+    target: REQ-ENMW2RV
     confirmed: bb8fa59c4991
 ---
 The status LED shall validate humidity values below 0.5 W in standby.

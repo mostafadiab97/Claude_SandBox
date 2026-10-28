@@ -1,5 +1,5 @@
 ---
-id: SYS-VD95TW
+id: REQ-PVS2KNJ
 type: system-requirement
 title: Bluetooth LE link calibrates the connection state
 status: Approved
@@ -7,14 +7,15 @@ priority: High
 owner: L. Samir
 tags:
   - security
-parent: INFO-NRVHA2
-order: 1400
+former-id: SYS-VD95TW
+parent: REQ-6R94HFM
+order: b1F
 links:
   - type: refines
-    target: STK-G2ZBHW
+    target: REQ-GXR8KE5
     confirmed: fee0d3303478
   - type: mitigates
-    target: RSK-6FVAYV
+    target: REQ-1H5BZ3M
     confirmed: 0c5515bf4edc
 ---
 The Bluetooth LE link shall validate safety limits for up to 8 zones.

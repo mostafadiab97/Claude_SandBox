@@ -1,5 +1,5 @@
 ---
-id: IF-VG3CGA
+id: REQ-XG1H3GZ
 type: interface-requirement
 title: Schedule editor measures relay events
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - safety
   - i18n
-parent: SYS-9WHVE0
-order: 20
+former-id: IF-VG3CGA
+parent: REQ-WDHBVAE
+order: a1
 links:
   - type: refines
-    target: SYS-9WHVE0
+    target: REQ-WDHBVAE
     confirmed: 70c58aa2c950
 ---
 The notification service shall synchronise the operating mode in under 3 s.

@@ -1,5 +1,5 @@
 ---
-id: SYS-Z0ETS8
+id: REQ-ZEM6K15
 type: system-requirement
 title: Zone valve validates sensor readings
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - cost
   - performance
-parent: INFO-6DQTKV
-order: 290
+former-id: SYS-Z0ETS8
+parent: REQ-7ED7ZET
+order: aS
 links:
   - type: refines
-    target: STK-ESBN30
+    target: REQ-HY1GZK0
     confirmed: 8a56cb48b6c3
 ---
 The zone valve shall log error conditions with an accuracy of ±0.5 °C.

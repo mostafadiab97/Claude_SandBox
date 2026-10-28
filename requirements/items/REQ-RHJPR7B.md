@@ -1,15 +1,16 @@
 ---
-id: HW-GH2JBC
+id: REQ-RHJPR7B
 type: hardware-requirement
 title: Relay board encrypts the set point
 status: Draft
 priority: Medium
 owner: A. Hassan
-parent: SYS-K4NJEM
-order: 30
+former-id: HW-GH2JBC
+parent: REQ-PEMQFK5
+order: a2
 links:
   - type: refines
-    target: SYS-K4NJEM
+    target: REQ-PEMQFK5
     confirmed: caa88f61d9bd
 ---
 The enclosure shall encrypt safety limits in all supported languages.

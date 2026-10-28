@@ -1,5 +1,5 @@
 ---
-id: SW-X3F6ZC
+id: REQ-RWFSA65
 type: software-requirement
 title: Menu system limits error conditions
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - customer-request
-parent: SYS-S7RBP0
-order: 10
+former-id: SW-X3F6ZC
+parent: REQ-KKDV44Z
+order: a0
 links:
   - type: refines
-    target: SYS-S7RBP0
+    target: REQ-KKDV44Z
     confirmed: 4e24c6222487
 ---
 The backlight shall limit relay events for up to 8 zones.

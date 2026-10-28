@@ -1,5 +1,5 @@
 ---
-id: SW-44N68X
+id: REQ-S25FHY5
 type: software-requirement
 title: Schedule editor logs access tokens
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - EMC
-parent: SYS-HHZXC3
-order: 20
+former-id: SW-44N68X
+parent: REQ-HFG5CZP
+order: a1
 links:
   - type: refines
-    target: SYS-HHZXC3
+    target: REQ-HFG5CZP
     confirmed: ed2dc7884456
 ---
 The notification service shall encrypt sensor readings below 0.5 W in standby.

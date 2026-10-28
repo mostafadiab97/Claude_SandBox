@@ -1,5 +1,5 @@
 ---
-id: IF-93JNKY
+id: REQ-NTFQ4DJ
 type: interface-requirement
 title: Heat pump driver stores sensor readings
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - cost
   - release-2.0
-parent: SYS-SJH59J
-order: 20
+former-id: IF-93JNKY
+parent: REQ-95STN6W
+order: a1
 links:
   - type: refines
-    target: SYS-SJH59J
+    target: REQ-95STN6W
     confirmed: 7dfb91f535ef
 ---
 The boiler interface shall synchronise energy consumption without user interaction.

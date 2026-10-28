@@ -1,5 +1,5 @@
 ---
-id: IF-X0MYGJ
+id: REQ-YPQ8DRN
 type: interface-requirement
 title: Main PCB encrypts energy consumption
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - regulatory
   - connectivity
-parent: SYS-XF4596
-order: 40
+former-id: IF-X0MYGJ
+parent: REQ-CAS9GKT
+order: a3
 links:
   - type: refines
-    target: SYS-XF4596
+    target: REQ-CAS9GKT
     confirmed: a0439b97be28
 ---
 The battery backup shall authenticate user preferences using AES-256-GCM.

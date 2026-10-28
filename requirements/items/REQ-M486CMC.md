@@ -1,5 +1,5 @@
 ---
-id: SYS-10B2S4
+id: REQ-M486CMC
 type: system-requirement
 title: Enclosure logs the operating mode
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - cost
-parent: INFO-A6P9A8
-order: 2400
+former-id: SYS-10B2S4
+parent: REQ-CMCS31A
+order: b2r
 links:
   - type: refines
-    target: STK-Y4WG9E
+    target: REQ-Z62Y5S5
     confirmed: 9c3c4f9c0995
 ---
 The enclosure shall restore safety limits after a power loss.

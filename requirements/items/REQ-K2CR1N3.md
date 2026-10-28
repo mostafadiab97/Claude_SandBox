@@ -1,5 +1,5 @@
 ---
-id: SW-VAXR8R
+id: REQ-K2CR1N3
 type: software-requirement
 title: Calibrate the operating mode — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - EMC
   - security
   - release-2.0
-parent: SW-FM4SMD
-order: 10
+former-id: SW-VAXR8R
+parent: REQ-10R1WW9
+order: a0
 links:
   - type: refines
-    target: SW-FM4SMD
+    target: REQ-10R1WW9
     confirmed: e433c3217e25
 ---
 The heat pump driver shall notify the room temperature using AES-256-GCM.

@@ -1,15 +1,16 @@
 ---
-id: SW-N4K6A8
+id: REQ-2G8BXK6
 type: software-requirement
 title: User account service measures sensor readings
 status: Review
 priority: High
 owner: É. Laurent
-parent: SYS-498SK9
-order: 40
+former-id: SW-N4K6A8
+parent: REQ-F9D5TH0
+order: a3
 links:
   - type: refines
-    target: SYS-498SK9
+    target: REQ-F9D5TH0
     confirmed: 86d80fd5cb72
 ---
 The device registry shall authenticate firmware images below 0.5 W in standby.

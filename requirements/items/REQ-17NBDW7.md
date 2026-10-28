@@ -1,5 +1,5 @@
 ---
-id: SYS-9GHKM6
+id: REQ-17NBDW7
 type: system-requirement
 title: Watchdog reports safety limits
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - release-2.0
   - regulatory
-parent: INFO-0229G8
-order: 1570
+former-id: SYS-9GHKM6
+parent: REQ-H9113WA
+order: b1W
 links:
   - type: refines
-    target: STK-DJ9M3M
+    target: REQ-375SK1B
     confirmed: ba30e28a130f
 ---
 The watchdog shall calibrate sensor readings within 200 ms.

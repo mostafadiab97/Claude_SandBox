@@ -1,5 +1,5 @@
 ---
-id: IF-HFDQJC
+id: REQ-PAC51V1
 type: interface-requirement
 title: "Signal 382: error conditions"
 status: Draft
@@ -9,7 +9,8 @@ tags:
   - connectivity
   - cost
   - EMC
-parent: INFO-2TM0JP
-order: 3820
+former-id: IF-HFDQJC
+parent: REQ-RJ0KHPT
+order: b59
 ---
 Interface signal number 382.

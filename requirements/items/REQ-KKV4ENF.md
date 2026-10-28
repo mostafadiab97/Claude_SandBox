@@ -1,15 +1,16 @@
 ---
-id: DE-6JK3TB
+id: REQ-KKV4ENF
 type: design-element
 title: Module Bluetooth_LE_link_19
 status: Approved
 priority: Medium
 owner: M. Farouk
-parent: SW-C2H7Z2
-order: 10
+former-id: DE-6JK3TB
+parent: REQ-657SGBR
+order: a0
 links:
   - type: implements
-    target: SW-C2H7Z2
+    target: REQ-657SGBR
     confirmed: 7758d816e391
 ---
 Implemented in `src/conn/Bluetooth_LE_link.c`.

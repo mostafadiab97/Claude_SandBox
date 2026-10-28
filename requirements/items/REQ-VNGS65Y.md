@@ -1,13 +1,14 @@
 ---
-id: SW-BERKW5
+id: REQ-VNGS65Y
 type: software-requirement
 title: Backlight calibrates the operating mode
 status: Draft
-parent: SYS-T3DJD4
-order: 30
+former-id: SW-BERKW5
+parent: REQ-WP33HKX
+order: a2
 links:
   - type: refines
-    target: SYS-T3DJD4
+    target: REQ-WP33HKX
     confirmed: c316125af8be
 ---
 The backlight shall validate the set point for at least 10 years.

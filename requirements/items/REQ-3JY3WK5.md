@@ -1,16 +1,17 @@
 ---
-id: HW-EZQY8B
+id: REQ-3JY3WK5
 type: hardware-requirement
 title: Encrypt access tokens — detail
 status: Approved
 priority: Medium
 tags:
   - customer-request
-parent: HW-03807K
-order: 10
+former-id: HW-EZQY8B
+parent: REQ-7JDWGWC
+order: a0
 links:
   - type: refines
-    target: HW-03807K
+    target: REQ-7JDWGWC
     confirmed: 1088597c2ffb
 ---
 The touch display shall report safety limits in all supported languages.

@@ -1,15 +1,16 @@
 ---
-id: TC-8JWZV1
+id: REQ-CZCHJD3
 type: test-case
 title: "Verify: Status LED measures error conditions"
 status: Approved
 priority: High
 owner: M. Farouk
-parent: INFO-HTSZ15
-order: 830
+former-id: TC-8JWZV1
+parent: REQ-Y9VHHKA
+order: b0K
 links:
   - type: verifies
-    target: SYS-T689CT
+    target: REQ-WRWV27H
     confirmed: dafb2a2d5621
 ---
 **Objective:** verify that the status LED behaves as specified.

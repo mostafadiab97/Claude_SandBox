@@ -1,16 +1,17 @@
 ---
-id: SW-7X2ABC
+id: REQ-Q37WQB2
 type: software-requirement
 title: Watchdog authenticates user preferences
 status: Approved
 priority: High
 tags:
   - power
-parent: SYS-C2GRZK
-order: 20
+former-id: SW-7X2ABC
+parent: REQ-4KFD407
+order: a1
 links:
   - type: refines
-    target: SYS-C2GRZK
+    target: REQ-4KFD407
     confirmed: 83098b4942a6
 ---
 The encryption layer shall authenticate access tokens with an accuracy of ±0.5 °C.

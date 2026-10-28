@@ -1,14 +1,15 @@
 ---
-id: HW-CFZ1ZT
+id: REQ-14NK9Z3
 type: hardware-requirement
 title: Boiler interface synchronises schedule entries
 status: Draft
 owner: Y. Saber
-parent: SYS-4JQMJS
-order: 30
+former-id: HW-CFZ1ZT
+parent: REQ-F23HYQP
+order: a2
 links:
   - type: refines
-    target: SYS-4JQMJS
+    target: REQ-F23HYQP
     confirmed: 5acdb7574d9f
 ---
 The heating controller shall log the operating mode when the network is unavailable.

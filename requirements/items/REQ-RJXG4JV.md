@@ -1,15 +1,16 @@
 ---
-id: SYS-TYCMRT
+id: REQ-RJXG4JV
 type: system-requirement
 title: Status LED switchs firmware images
 status: Review
 priority: High
 owner: A. Hassan
-parent: INFO-PDR6FV
-order: 1640
+former-id: SYS-TYCMRT
+parent: REQ-2ZA2TRZ
+order: b1d
 links:
   - type: refines
-    target: STK-35QR7F
+    target: REQ-QCK2ZS7
     confirmed: bc1aebb7918d
 ---
 The status LED shall report user preferences below 0.5 W in standby.

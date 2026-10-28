@@ -1,5 +1,5 @@
 ---
-id: TC-M60E1R
+id: REQ-MG3CBM3
 type: test-case
 title: "Verify: User account service reports the operating mode"
 status: Review
@@ -8,14 +8,15 @@ owner: محمد علي
 tags:
   - security
   - accessibility
-parent: INFO-7P4D8D
-order: 230
+former-id: TC-M60E1R
+parent: REQ-8351896
+order: aM
 links:
   - type: verifies
-    target: SYS-MS7ER6
+    target: REQ-6PP7HZP
     confirmed: 02dd9854df79
   - type: verifies
-    target: SW-JEHJ48
+    target: REQ-X657499
     confirmed: a9ad8edc6a5a
 ---
 **Objective:** verify that the user account service behaves as specified.

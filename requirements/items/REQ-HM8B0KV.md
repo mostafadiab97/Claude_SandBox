@@ -1,5 +1,5 @@
 ---
-id: IF-20N6K3
+id: REQ-HM8B0KV
 type: interface-requirement
 title: "Signal 136: firmware images"
 status: Approved
@@ -7,7 +7,8 @@ priority: High
 owner: K. Tanaka
 tags:
   - safety
-parent: INFO-2TM0JP
-order: 1360
+former-id: IF-20N6K3
+parent: REQ-RJ0KHPT
+order: b1B
 ---
 Interface signal number 136.

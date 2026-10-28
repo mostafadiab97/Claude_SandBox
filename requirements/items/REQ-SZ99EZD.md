@@ -1,15 +1,16 @@
 ---
-id: SW-DWWPRQ
+id: REQ-SZ99EZD
 type: software-requirement
 title: Menu system measures user preferences
 status: Draft
 priority: Low
 owner: M. Farouk
-parent: SYS-2NNT9F
-order: 10
+former-id: SW-DWWPRQ
+parent: REQ-Z37752H
+order: a0
 links:
   - type: refines
-    target: SYS-2NNT9F
+    target: REQ-Z37752H
     confirmed: 34d488ad75d2
 ---
 The status LED shall encrypt the connection state at least once per minute.

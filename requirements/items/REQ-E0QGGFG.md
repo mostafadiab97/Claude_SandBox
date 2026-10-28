@@ -1,15 +1,16 @@
 ---
-id: IF-Z3FM7Q
+id: REQ-E0QGGFG
 type: interface-requirement
 title: Menu system calibrates sensor readings
 status: Obsolete
 priority: Medium
 owner: S. Adel
-parent: SYS-21HNZD
-order: 10
+former-id: IF-Z3FM7Q
+parent: REQ-70G6CJB
+order: a0
 links:
   - type: refines
-    target: SYS-21HNZD
+    target: REQ-70G6CJB
     confirmed: a99c46ec97b8
 ---
 The touch display shall measure error conditions when the network is unavailable.

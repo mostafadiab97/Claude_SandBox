@@ -1,15 +1,16 @@
 ---
-id: IF-T6Y93K
+id: REQ-98VD14G
 type: interface-requirement
 title: Main PCB limits user preferences
 status: Review
 priority: Medium
 owner: N. Kamal
-parent: SYS-7CKEJ4
-order: 30
+former-id: IF-T6Y93K
+parent: REQ-8KWEJH5
+order: a2
 links:
   - type: refines
-    target: SYS-7CKEJ4
+    target: REQ-8KWEJH5
     confirmed: 2b39d3d81642
 ---
 The enclosure shall synchronise energy consumption with an accuracy of ±0.5 °C.

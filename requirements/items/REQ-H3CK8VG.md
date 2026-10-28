@@ -1,18 +1,19 @@
 ---
-id: DEF-WHMDGA
+id: REQ-H3CK8VG
 type: defect
 title: "Defect: menu system does not measure user preferences"
 status: Obsolete
 priority: High
 owner: K. Tanaka
-parent: INFO-7HY7F9
-order: 160
+former-id: DEF-WHMDGA
+parent: REQ-HFYH0KW
+order: aF
 links:
   - type: relates-to
-    target: TC-STZQDD
+    target: REQ-C1VTA86
     confirmed: d5de4e6a038f
   - type: relates-to
-    target: SYS-J6PC66
+    target: REQ-F26X3E7
     confirmed: b91cd2a500bd
 ---
 Found during regression testing of build 2.2.37.

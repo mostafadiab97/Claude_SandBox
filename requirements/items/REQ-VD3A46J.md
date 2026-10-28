@@ -1,15 +1,16 @@
 ---
-id: SYS-HF856T
+id: REQ-VD3A46J
 type: system-requirement
 title: Secure boot authenticates energy consumption
 status: Approved
 priority: High
 owner: É. Laurent
-parent: INFO-0229G8
-order: 1310
+former-id: SYS-HF856T
+parent: REQ-H9113WA
+order: b16
 links:
   - type: refines
-    target: STK-G2H1B9
+    target: REQ-Q8ZRB9S
     confirmed: fce33b342585
 ---
 The secure boot shall calibrate the room temperature using AES-256-GCM.

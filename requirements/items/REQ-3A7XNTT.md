@@ -1,15 +1,16 @@
 ---
-id: IF-79CA0N
+id: REQ-3A7XNTT
 type: interface-requirement
 title: Status LED calibrates firmware images
 status: Review
 priority: High
 owner: Y. Saber
-parent: SYS-CQEWAD
-order: 10
+former-id: IF-79CA0N
+parent: REQ-89EGSYK
+order: a0
 links:
   - type: refines
-    target: SYS-CQEWAD
+    target: REQ-89EGSYK
     confirmed: 2cb413be1ed1
 ---
 The rotary knob shall calibrate user preferences for at least 10 years.

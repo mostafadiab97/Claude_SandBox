@@ -1,15 +1,16 @@
 ---
-id: SW-GGM2R0
+id: REQ-EADQJNH
 type: software-requirement
 title: Tamper detection synchronises humidity values
 status: Approved
 priority: High
 owner: S. Adel
-parent: SYS-N4MBK3
-order: 20
+former-id: SW-GGM2R0
+parent: REQ-Q3XX7E0
+order: a1
 links:
   - type: refines
-    target: SYS-N4MBK3
+    target: REQ-Q3XX7E0
     confirmed: 55991efb2c92
 ---
 The encryption layer shall validate the operating mode after a power loss.

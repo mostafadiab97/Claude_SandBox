@@ -1,15 +1,16 @@
 ---
-id: SW-F7S27P
+id: REQ-QT4Q7QE
 type: software-requirement
 title: Calibrate relay events — detail
 status: Draft
 priority: High
 owner: L. Samir
-parent: SW-JQFSRA
-order: 10
+former-id: SW-F7S27P
+parent: REQ-W8W3BM0
+order: a0
 links:
   - type: refines
-    target: SW-JQFSRA
+    target: REQ-W8W3BM0
     confirmed: 6fff5afcb2fa
 ---
 The login screen shall authenticate safety limits after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: HW-PZG7N9
+id: REQ-SBJ9W8H
 type: hardware-requirement
 title: Bluetooth LE link authenticates the room temperature
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - power
   - performance
   - regulatory
-parent: SYS-2VEPK9
-order: 40
+former-id: HW-PZG7N9
+parent: REQ-G5GENN6
+order: a3
 links:
   - type: refines
-    target: SYS-2VEPK9
+    target: REQ-G5GENN6
     confirmed: a7e58f20b1a5
 ---
 The pairing process shall authenticate the connection state using AES-256-GCM.

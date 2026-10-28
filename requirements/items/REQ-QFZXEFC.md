@@ -1,5 +1,5 @@
 ---
-id: IF-NC9YT7
+id: REQ-QFZXEFC
 type: interface-requirement
 title: Battery backup notifys sensor readings
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: A. Hassan
 tags:
   - regulatory
-parent: SYS-FMNTZ0
-order: 10
+former-id: IF-NC9YT7
+parent: REQ-Q01BYF2
+order: a0
 links:
   - type: refines
-    target: SYS-FMNTZ0
+    target: REQ-Q01BYF2
     confirmed: 07a6530c6e8f
 ---
 The battery backup shall notify firmware images below 0.5 W in standby.

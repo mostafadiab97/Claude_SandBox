@@ -1,16 +1,17 @@
 ---
-id: HW-SWMSQ8
+id: REQ-RJER6HR
 type: hardware-requirement
 title: Home dashboard limits error conditions
 status: Review
 owner: N. Kamal
 tags:
   - EMC
-parent: SYS-BG5HSX
-order: 10
+former-id: HW-SWMSQ8
+parent: REQ-W9VM7CC
+order: a0
 links:
   - type: refines
-    target: SYS-BG5HSX
+    target: REQ-W9VM7CC
     confirmed: ca78fcddf889
 ---
 The home dashboard shall calibrate user preferences when the network is unavailable.

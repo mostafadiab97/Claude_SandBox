@@ -1,5 +1,5 @@
 ---
-id: SW-3VP4JD
+id: REQ-X7BEC4E
 type: software-requirement
 title: Zigbee radio encrypts audit records
 status: Approved
@@ -7,11 +7,12 @@ tags:
   - customer-request
   - i18n
   - accessibility
-parent: SYS-CM44AM
-order: 30
+former-id: SW-3VP4JD
+parent: REQ-PR70XPC
+order: a2
 links:
   - type: refines
-    target: SYS-CM44AM
+    target: REQ-PR70XPC
     confirmed: 2a3acc022feb
 ---
 The pairing process shall switch safety limits without user interaction.

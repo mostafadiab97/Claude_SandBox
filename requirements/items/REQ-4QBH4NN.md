@@ -1,16 +1,17 @@
 ---
-id: IF-RW0VM7
+id: REQ-4QBH4NN
 type: interface-requirement
 title: Mobile app detects safety limits
 status: Approved
 tags:
   - performance
   - regulatory
-parent: SYS-JD8TXM
-order: 20
+former-id: IF-RW0VM7
+parent: REQ-670N5PW
+order: a1
 links:
   - type: refines
-    target: SYS-JD8TXM
+    target: REQ-670N5PW
     confirmed: f81d3e3b2c08
 ---
 The login screen shall validate the set point without user interaction.

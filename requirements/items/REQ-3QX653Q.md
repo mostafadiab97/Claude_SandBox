@@ -1,5 +1,5 @@
 ---
-id: HW-9YBC36
+id: REQ-3QX653Q
 type: hardware-requirement
 title: Touch display measures schedule entries
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - security
   - EMC
-parent: SYS-1YMXAH
-order: 30
+former-id: HW-9YBC36
+parent: REQ-JQ3RHFQ
+order: a2
 links:
   - type: refines
-    target: SYS-1YMXAH
+    target: REQ-JQ3RHFQ
     confirmed: 4e76eb2ccede
 ---
 The backlight shall notify the room temperature below 0.5 W in standby.

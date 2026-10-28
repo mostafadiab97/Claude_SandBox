@@ -1,5 +1,5 @@
 ---
-id: SW-49KE52
+id: REQ-0BH0X38
 type: software-requirement
 title: Tamper detection authenticates access tokens
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - ux
   - safety
-parent: SYS-5XEZ64
-order: 40
+former-id: SW-49KE52
+parent: REQ-BS6TC1D
+order: a3
 links:
   - type: refines
-    target: SYS-5XEZ64
+    target: REQ-BS6TC1D
     confirmed: 6b7714cc0542
 ---
 The watchdog shall display error conditions when the network is unavailable.

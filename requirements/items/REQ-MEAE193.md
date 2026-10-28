@@ -1,15 +1,16 @@
 ---
-id: SW-56P9P7
+id: REQ-MEAE193
 type: software-requirement
 title: Over-temperature monitor detects the set point
 status: Obsolete
 priority: Medium
 owner: A. Hassan
-parent: SYS-7T162W
-order: 20
+former-id: SW-56P9P7
+parent: REQ-0RW492W
+order: a1
 links:
   - type: refines
-    target: SYS-7T162W
+    target: REQ-0RW492W
     confirmed: c3b62ffd68f1
 ---
 The over-temperature monitor shall limit relay events within 200 ms.

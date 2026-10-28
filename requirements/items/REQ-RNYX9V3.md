@@ -1,5 +1,5 @@
 ---
-id: DE-J22FHQ
+id: REQ-RNYX9V3
 type: design-element
 title: Module OTA_server_69
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - release-2.0
   - release-1.0
   - ux
-parent: SW-15A8A3
-order: 10
+former-id: DE-J22FHQ
+parent: REQ-D6V3KHV
+order: a0
 links:
   - type: implements
-    target: SW-15A8A3
+    target: REQ-D6V3KHV
     confirmed: cc248766ef79
 ---
 Implemented in `src/cloud/OTA_server.c`.

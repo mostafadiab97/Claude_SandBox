@@ -1,5 +1,5 @@
 ---
-id: DEF-H1QMJR
+id: REQ-RNGNB1T
 type: defect
 title: "Defect: mobile app does not synchronise the connection state"
 status: Approved
@@ -8,14 +8,15 @@ owner: L. Samir
 tags:
   - ux
   - cost
-parent: INFO-FH5FB3
-order: 90
+former-id: DEF-H1QMJR
+parent: REQ-MWRPGWA
+order: a8
 links:
   - type: relates-to
-    target: TC-Q6QD24
+    target: REQ-K8QTJ1Q
     confirmed: 01121f023aa6
   - type: relates-to
-    target: SYS-FBM4B7
+    target: REQ-0BCC2Y7
     confirmed: c2dee4a6831a
 ---
 Found during regression testing of build 2.4.2.

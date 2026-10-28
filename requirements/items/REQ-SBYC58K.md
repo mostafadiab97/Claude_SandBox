@@ -1,5 +1,5 @@
 ---
-id: TC-6J7W41
+id: REQ-SBYC58K
 type: test-case
 title: "Verify: Telemetry pipeline synchronises sensor readings"
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - connectivity
   - performance
-parent: INFO-7P4D8D
-order: 1490
+former-id: TC-6J7W41
+parent: REQ-8351896
+order: b1O
 links:
   - type: verifies
-    target: SYS-TE6FDF
+    target: REQ-TF5DFFZ
     confirmed: 11c446c78b24
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

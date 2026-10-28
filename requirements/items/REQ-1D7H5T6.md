@@ -1,14 +1,15 @@
 ---
-id: SW-CJVNAT
+id: REQ-1D7H5T6
 type: software-requirement
 title: Status LED notifys error conditions
 status: Draft
 priority: Medium
-parent: SYS-Z3AF7E
-order: 20
+former-id: SW-CJVNAT
+parent: REQ-Y6VKCP8
+order: a1
 links:
   - type: refines
-    target: SYS-Z3AF7E
+    target: REQ-Y6VKCP8
     confirmed: 9dfa61330ebe
 ---
 The menu system shall restore user preferences within 200 ms.

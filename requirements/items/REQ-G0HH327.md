@@ -1,5 +1,5 @@
 ---
-id: HW-KXGXYF
+id: REQ-G0HH327
 type: hardware-requirement
 title: Battery backup measures error conditions
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - connectivity
   - customer-request
-parent: SYS-JP2FG0
-order: 30
+former-id: HW-KXGXYF
+parent: REQ-NN5DHAX
+order: a2
 links:
   - type: refines
-    target: SYS-JP2FG0
+    target: REQ-NN5DHAX
     confirmed: 0bf18351a2cd
 ---
 The power supply shall restore the connection state without user interaction.

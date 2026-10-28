@@ -1,5 +1,5 @@
 ---
-id: IF-E04X59
+id: REQ-FXEQR7A
 type: interface-requirement
 title: Over-temperature monitor notifys firmware images
 status: Obsolete
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - connectivity
   - cost
-parent: SYS-7PADSD
-order: 40
+former-id: IF-E04X59
+parent: REQ-DK1K9NC
+order: a3
 links:
   - type: refines
-    target: SYS-7PADSD
+    target: REQ-DK1K9NC
     confirmed: d945d7dacc5c
 ---
 The secure boot shall limit error conditions when the network is unavailable.

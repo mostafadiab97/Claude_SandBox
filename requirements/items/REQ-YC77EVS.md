@@ -1,5 +1,5 @@
 ---
-id: SW-J3EKW6
+id: REQ-YC77EVS
 type: software-requirement
 title: Home dashboard logs the set point
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - i18n
   - accessibility
-parent: SYS-MN0YG6
-order: 30
+former-id: SW-J3EKW6
+parent: REQ-PN0PDWX
+order: a2
 links:
   - type: refines
-    target: SYS-MN0YG6
+    target: REQ-PN0PDWX
     confirmed: abb306df2814
 ---
 The login screen shall detect the operating mode in all supported languages.

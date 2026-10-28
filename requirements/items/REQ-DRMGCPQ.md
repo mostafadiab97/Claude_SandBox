@@ -1,5 +1,5 @@
 ---
-id: SW-H4074H
+id: REQ-DRMGCPQ
 type: software-requirement
 title: Limit audit records — detail
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: A. Hassan
 tags:
   - accessibility
-parent: SW-64ZTJ6
-order: 10
+former-id: SW-H4074H
+parent: REQ-ZJSE16E
+order: a0
 links:
   - type: refines
-    target: SW-64ZTJ6
+    target: REQ-ZJSE16E
     confirmed: 48f84e0eebcb
 ---
 The boiler interface shall synchronise the room temperature using AES-256-GCM.

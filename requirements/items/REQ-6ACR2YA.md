@@ -1,18 +1,19 @@
 ---
-id: TC-V9J7D8
+id: REQ-6ACR2YA
 type: test-case
 title: "Verify: Main PCB encrypts the connection state"
 status: Draft
 priority: High
 owner: J. Müller
-parent: INFO-MACGC3
-order: 1280
+former-id: TC-V9J7D8
+parent: REQ-F9Z1FYS
+order: b13
 links:
   - type: verifies
-    target: SYS-T8N5MR
+    target: REQ-2TWCMP8
     confirmed: 1d9e96e23af9
   - type: verifies
-    target: SW-3S3JPB
+    target: REQ-1PTY36G
     confirmed: 0d5286c028bc
 ---
 **Objective:** verify that the main PCB behaves as specified.

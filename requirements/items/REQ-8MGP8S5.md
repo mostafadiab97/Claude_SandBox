@@ -1,15 +1,16 @@
 ---
-id: IF-5FT9DJ
+id: REQ-8MGP8S5
 type: interface-requirement
 title: Bluetooth LE link encrypts the room temperature
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: SYS-PN9GQ2
-order: 20
+former-id: IF-5FT9DJ
+parent: REQ-QN6YX83
+order: a1
 links:
   - type: refines
-    target: SYS-PN9GQ2
+    target: REQ-QN6YX83
     confirmed: fb057a0da125
 ---
 The Zigbee radio shall restore energy consumption in under 3 s.

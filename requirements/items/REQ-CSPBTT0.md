@@ -1,5 +1,5 @@
 ---
-id: SW-BG7MTP
+id: REQ-CSPBTT0
 type: software-requirement
 title: Status LED stores schedule entries
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - EMC
   - release-1.0
   - power
-parent: SYS-AE5DCT
-order: 30
+former-id: SW-BG7MTP
+parent: REQ-G7FNBP6
+order: a2
 links:
   - type: refines
-    target: SYS-AE5DCT
+    target: REQ-G7FNBP6
     confirmed: 5733321e8c53
 ---
 The rotary knob shall limit the operating mode using AES-256-GCM.

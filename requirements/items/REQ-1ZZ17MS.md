@@ -1,5 +1,5 @@
 ---
-id: IF-TW68CD
+id: REQ-1ZZ17MS
 type: interface-requirement
 title: Telemetry pipeline validates sensor readings
 status: Draft
@@ -7,11 +7,12 @@ owner: Y. Saber
 tags:
   - customer-request
   - security
-parent: SYS-YWXHFA
-order: 10
+former-id: IF-TW68CD
+parent: REQ-RVXMF1V
+order: a0
 links:
   - type: refines
-    target: SYS-YWXHFA
+    target: REQ-RVXMF1V
     confirmed: ee4bee4c5185
 ---
 The device registry shall calibrate schedule entries for up to 8 zones.

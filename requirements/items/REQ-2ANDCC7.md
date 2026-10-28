@@ -1,14 +1,15 @@
 ---
-id: SW-1VVQ02
+id: REQ-2ANDCC7
 type: software-requirement
 title: Over-temperature monitor logs relay events
 status: Draft
 priority: Medium
-parent: SYS-JN1V9K
-order: 10
+former-id: SW-1VVQ02
+parent: REQ-QDFDQ3R
+order: a0
 links:
   - type: refines
-    target: SYS-JN1V9K
+    target: REQ-QDFDQ3R
     confirmed: 648ea81ae922
 ---
 The watchdog shall limit the set point in all supported languages.

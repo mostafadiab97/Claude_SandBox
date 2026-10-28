@@ -1,5 +1,5 @@
 ---
-id: SW-6M9X9N
+id: REQ-KH6X7FH
 type: software-requirement
 title: Watchdog calibrates sensor readings
 status: Obsolete
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - customer-request
   - performance
-parent: SYS-X0S745
-order: 20
+former-id: SW-6M9X9N
+parent: REQ-TDYXMKP
+order: a1
 links:
   - type: refines
-    target: SYS-X0S745
+    target: REQ-TDYXMKP
     confirmed: 45b34f17241c
 ---
 The watchdog shall restore audit records in under 3 s.

@@ -1,5 +1,5 @@
 ---
-id: SW-NSQJT0
+id: REQ-71X6D8D
 type: software-requirement
 title: Login screen restores error conditions
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - safety
   - performance
-parent: SYS-1A7QWR
-order: 20
+former-id: SW-NSQJT0
+parent: REQ-T46YH4A
+order: a1
 links:
   - type: refines
-    target: SYS-1A7QWR
+    target: REQ-T46YH4A
     confirmed: 5740f6763e84
 ---
 The mobile app shall validate sensor readings in under 3 s.

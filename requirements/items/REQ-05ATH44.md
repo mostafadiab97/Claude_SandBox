@@ -1,5 +1,5 @@
 ---
-id: IF-S9NH19
+id: REQ-05ATH44
 type: interface-requirement
 title: Relay board displays the operating mode
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - ux
   - i18n
   - power
-parent: SYS-F961QG
-order: 40
+former-id: IF-S9NH19
+parent: REQ-EVM873T
+order: a3
 links:
   - type: refines
-    target: SYS-F961QG
+    target: REQ-EVM873T
     confirmed: f5b7f4c14067
 ---
 The enclosure shall detect the operating mode using AES-256-GCM.

@@ -1,5 +1,5 @@
 ---
-id: SYS-TC0THB
+id: REQ-M54QCCE
 type: system-requirement
 title: Wi-Fi module restores access tokens
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: محمد علي
 tags:
   - security
-parent: INFO-NRVHA2
-order: 700
+former-id: SYS-TC0THB
+parent: REQ-6R94HFM
+order: b07
 links:
   - type: refines
-    target: STK-0AD5XP
+    target: REQ-W8GJYMQ
     confirmed: 30e7f07df0d1
 ---
 The Wi-Fi module shall authenticate humidity values within 200 ms.

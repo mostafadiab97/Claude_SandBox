@@ -1,14 +1,15 @@
 ---
-id: SYS-V06HGN
+id: REQ-6YR68JJ
 type: system-requirement
 title: Notification service logs sensor readings
 status: Review
 owner: M. Farouk
-parent: INFO-2XXBRS
-order: 1540
+former-id: SYS-V06HGN
+parent: REQ-QYXGSQ4
+order: b1T
 links:
   - type: refines
-    target: STK-639N9T
+    target: REQ-EMZ19WQ
     confirmed: 252da9caa62c
 ---
 The notification service shall synchronise the room temperature at least once per minute.

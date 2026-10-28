@@ -1,5 +1,5 @@
 ---
-id: TC-C29TRF
+id: REQ-XRQKD31
 type: test-case
 title: "Verify: Telemetry pipeline switchs audit records"
 status: Obsolete
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - EMC
   - ux
-parent: INFO-7P4D8D
-order: 570
+former-id: TC-C29TRF
+parent: REQ-8351896
+order: au
 links:
   - type: verifies
-    target: SYS-YTTXB8
+    target: REQ-3S52D2S
     confirmed: c0d19b7ef2ea
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

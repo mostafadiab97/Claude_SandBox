@@ -1,15 +1,16 @@
 ---
-id: TC-FXV92X
+id: REQ-C4RH5XH
 type: test-case
 title: "Verify: Zigbee radio reports relay events"
 status: Draft
 priority: Medium
 owner: É. Laurent
-parent: INFO-F0M7VC
-order: 840
+former-id: TC-FXV92X
+parent: REQ-67RQXCK
+order: b0L
 links:
   - type: verifies
-    target: SYS-ZCATXC
+    target: REQ-8B5T2XZ
     confirmed: b58d7a4ac260
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

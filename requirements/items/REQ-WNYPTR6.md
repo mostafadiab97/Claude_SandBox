@@ -1,5 +1,5 @@
 ---
-id: TC-AFDB4R
+id: REQ-WNYPTR6
 type: test-case
 title: "Verify: Status LED validates humidity values"
 status: Review
@@ -7,14 +7,15 @@ priority: High
 tags:
   - release-2.0
   - cost
-parent: INFO-HTSZ15
-order: 1040
+former-id: TC-AFDB4R
+parent: REQ-Y9VHHKA
+order: b0f
 links:
   - type: verifies
-    target: SYS-QKZP7T
+    target: REQ-RBJJVJD
     confirmed: a1c30d626e9c
   - type: verifies
-    target: SW-EG7512
+    target: REQ-GRW4G0R
     confirmed: 83c09e51223e
 ---
 **Objective:** verify that the status LED behaves as specified.

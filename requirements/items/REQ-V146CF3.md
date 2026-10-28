@@ -1,5 +1,5 @@
 ---
-id: HW-H8GFCX
+id: REQ-V146CF3
 type: hardware-requirement
 title: Over-temperature monitor stores the room temperature
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: É. Laurent
 tags:
   - security
-parent: SYS-E2APKT
-order: 40
+former-id: HW-H8GFCX
+parent: REQ-17DFHE7
+order: a3
 links:
   - type: refines
-    target: SYS-E2APKT
+    target: REQ-17DFHE7
     confirmed: cac0677efc4c
 ---
 The over-temperature monitor shall synchronise firmware images for at least 10 years.

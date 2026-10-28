@@ -1,14 +1,15 @@
 ---
-id: SW-C2CQNC
+id: REQ-NVZ1EWM
 type: software-requirement
 title: Watchdog notifys humidity values
 status: Approved
 priority: Medium
-parent: SYS-1F01HM
-order: 20
+former-id: SW-C2CQNC
+parent: REQ-JNMKGMP
+order: a1
 links:
   - type: refines
-    target: SYS-1F01HM
+    target: REQ-JNMKGMP
     confirmed: 12dbd5ae59ec
 ---
 The encryption layer shall calibrate error conditions using AES-256-GCM.

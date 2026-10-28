@@ -1,5 +1,5 @@
 ---
-id: DE-0MRG43
+id: REQ-4WEN8V5
 type: design-element
 title: Module home_dashboard_18
 status: Review
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - safety
   - accessibility
-parent: SW-337616
-order: 10
+former-id: DE-0MRG43
+parent: REQ-HYGKF89
+order: a0
 links:
   - type: implements
-    target: SW-337616
+    target: REQ-HYGKF89
     confirmed: 725c2feb69e8
 ---
 Implemented in `src/app/home_dashboard.c`.

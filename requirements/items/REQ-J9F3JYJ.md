@@ -1,15 +1,16 @@
 ---
-id: SW-1X1JNY
+id: REQ-J9F3JYJ
 type: software-requirement
 title: Zone valve limits the connection state
 status: Review
 priority: High
 owner: H. Mostafa
-parent: SYS-WX9A1X
-order: 20
+former-id: SW-1X1JNY
+parent: REQ-T7V72W4
+order: a1
 links:
   - type: refines
-    target: SYS-WX9A1X
+    target: REQ-T7V72W4
     confirmed: c84f4efc6cd4
 ---
 The boiler interface shall display user preferences for up to 8 zones.

@@ -1,18 +1,19 @@
 ---
-id: TC-ZE7GTA
+id: REQ-5GSR3P0
 type: test-case
 title: "Verify: Zigbee radio displays safety limits"
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: INFO-F0M7VC
-order: 140
+former-id: TC-ZE7GTA
+parent: REQ-67RQXCK
+order: aD
 links:
   - type: verifies
-    target: SYS-GDH96C
+    target: REQ-C7QGA19
     confirmed: dfc6c8083c05
   - type: verifies
-    target: SW-H71N1T
+    target: REQ-WVSG698
     confirmed: 0448e6c3fca0
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

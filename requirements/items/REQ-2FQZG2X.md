@@ -1,5 +1,5 @@
 ---
-id: DE-Y2J6ZS
+id: REQ-2FQZG2X
 type: design-element
 title: Module menu_system_21
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 tags:
   - safety
   - customer-request
-parent: SW-Z49V0N
-order: 20
+former-id: DE-Y2J6ZS
+parent: REQ-J88E9BM
+order: a1
 links:
   - type: implements
-    target: SW-Z49V0N
+    target: REQ-J88E9BM
     confirmed: 360a9921a40f
 ---
 Implemented in `src/ui/menu_system.c`.

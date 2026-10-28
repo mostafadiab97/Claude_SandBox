@@ -1,5 +1,5 @@
 ---
-id: IF-BYY6YC
+id: REQ-VDKS9Q9
 type: interface-requirement
 title: Heating controller stores energy consumption
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: محمد علي
 tags:
   - performance
-parent: SYS-3RSNVX
-order: 40
+former-id: IF-BYY6YC
+parent: REQ-Z4CVF8M
+order: a3
 links:
   - type: refines
-    target: SYS-3RSNVX
+    target: REQ-Z4CVF8M
     confirmed: cb6d695118df
 ---
 The zone valve shall detect humidity values after a power loss.

@@ -1,14 +1,15 @@
 ---
-id: TC-PAPJK4
+id: REQ-1Q7X9M4
 type: test-case
 title: "Verify: Heat pump driver authenticates firmware images"
 status: Obsolete
 owner: M. Farouk
-parent: INFO-MS9DAG
-order: 930
+former-id: TC-PAPJK4
+parent: REQ-XGWSK2K
+order: b0U
 links:
   - type: verifies
-    target: SYS-069B79
+    target: REQ-FV37PCV
     confirmed: b68bfd68f8d5
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

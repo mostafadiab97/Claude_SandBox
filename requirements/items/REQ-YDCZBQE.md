@@ -1,5 +1,5 @@
 ---
-id: IF-HKAYGQ
+id: REQ-YDCZBQE
 type: interface-requirement
 title: "Signal 303: firmware images"
 status: Draft
@@ -7,7 +7,8 @@ owner: L. Samir
 tags:
   - safety
   - power
-parent: INFO-2TM0JP
-order: 3030
+former-id: IF-HKAYGQ
+parent: REQ-RJ0KHPT
+order: b3s
 ---
 Interface signal number 303.

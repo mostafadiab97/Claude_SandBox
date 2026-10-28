@@ -1,5 +1,5 @@
 ---
-id: TC-6WRZDR
+id: REQ-9NYHKKZ
 type: test-case
 title: "Verify: Battery backup logs error conditions"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - release-1.0
   - release-2.0
   - i18n
-parent: INFO-MACGC3
-order: 1290
+former-id: TC-6WRZDR
+parent: REQ-F9Z1FYS
+order: b14
 links:
   - type: verifies
-    target: SYS-NYK3S8
+    target: REQ-KVQ8Z5K
     confirmed: 144fa7466d8d
   - type: verifies
-    target: SW-DWKGYH
+    target: REQ-QKEC0QE
     confirmed: 0dcb4ff55039
 ---
 **Objective:** verify that the battery backup behaves as specified.

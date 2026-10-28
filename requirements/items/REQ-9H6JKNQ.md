@@ -1,5 +1,5 @@
 ---
-id: SYS-WKJRPW
+id: REQ-9H6JKNQ
 type: system-requirement
 title: Pairing process calibrates firmware images
 status: Review
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - i18n
   - safety
-parent: INFO-NRVHA2
-order: 450
+former-id: SYS-WKJRPW
+parent: REQ-6R94HFM
+order: ai
 links:
   - type: refines
-    target: STK-22X165
+    target: REQ-QCFMNYV
     confirmed: 0023c9af8e7d
 ---
 The pairing process shall encrypt error conditions in all supported languages.

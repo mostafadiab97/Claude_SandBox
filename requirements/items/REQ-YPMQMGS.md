@@ -1,15 +1,16 @@
 ---
-id: IF-V34PY9
+id: REQ-YPMQMGS
 type: interface-requirement
 title: Status LED synchronises sensor readings
 status: Approved
 priority: Medium
 owner: L. Samir
-parent: SYS-Q32CFF
-order: 40
+former-id: IF-V34PY9
+parent: REQ-6F9V39K
+order: a3
 links:
   - type: refines
-    target: SYS-Q32CFF
+    target: REQ-6F9V39K
     confirmed: 178903f1a8f4
 ---
 The touch display shall synchronise energy consumption for at least 10 years.

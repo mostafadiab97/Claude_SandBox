@@ -1,5 +1,5 @@
 ---
-id: TC-6VRMEA
+id: REQ-537A9VY
 type: test-case
 title: "Verify: Schedule editor stores user preferences"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - release-1.0
   - power
-parent: INFO-J0FETE
-order: 200
+former-id: TC-6VRMEA
+parent: REQ-WR5ZJN9
+order: aJ
 links:
   - type: verifies
-    target: SYS-JYEJXF
+    target: REQ-0VHXDMS
     confirmed: 4340b120fb96
 ---
 **Objective:** verify that the schedule editor behaves as specified.

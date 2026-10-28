@@ -1,16 +1,17 @@
 ---
-id: HW-0PZJ6H
+id: REQ-DVKS1FJ
 type: hardware-requirement
 title: Power supply logs relay events
 status: Approved
 owner: A. Hassan
 tags:
   - security
-parent: SYS-VMW9A5
-order: 20
+former-id: HW-0PZJ6H
+parent: REQ-XHKV7E4
+order: a1
 links:
   - type: refines
-    target: SYS-VMW9A5
+    target: REQ-XHKV7E4
     confirmed: b407b79e1420
 ---
 The battery backup shall measure relay events using AES-256-GCM.

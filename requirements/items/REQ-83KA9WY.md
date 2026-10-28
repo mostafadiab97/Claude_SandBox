@@ -1,14 +1,15 @@
 ---
-id: IF-4CHEM8
+id: REQ-83KA9WY
 type: interface-requirement
 title: Notification service restores audit records
 status: Approved
 owner: J. Müller
-parent: SYS-E3W7YF
-order: 20
+former-id: IF-4CHEM8
+parent: REQ-CP521FN
+order: a1
 links:
   - type: refines
-    target: SYS-E3W7YF
+    target: REQ-CP521FN
     confirmed: ff8815b3b9ff
 ---
 The notification service shall store the connection state without user interaction.

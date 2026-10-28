@@ -1,15 +1,16 @@
 ---
-id: SW-2GS8S2
+id: REQ-PRWSH2X
 type: software-requirement
 title: Notification service synchronises the set point
 status: Approved
 priority: Medium
 owner: J. Müller
-parent: SYS-QK55NH
-order: 10
+former-id: SW-2GS8S2
+parent: REQ-E79YMDC
+order: a0
 links:
   - type: refines
-    target: SYS-QK55NH
+    target: REQ-E79YMDC
     confirmed: 3934c54c3f62
 ---
 The mobile app shall switch firmware images when the network is unavailable.

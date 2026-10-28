@@ -1,5 +1,5 @@
 ---
-id: IF-KPSFMR
+id: REQ-QNY51Z4
 type: interface-requirement
 title: "Signal 015: relay events"
 status: Obsolete
@@ -9,7 +9,8 @@ tags:
   - connectivity
   - regulatory
   - safety
-parent: INFO-2TM0JP
-order: 150
+former-id: IF-KPSFMR
+parent: REQ-RJ0KHPT
+order: aE
 ---
 Interface signal number 15.

@@ -1,5 +1,5 @@
 ---
-id: SW-E6B9M1
+id: REQ-E80V7FP
 type: software-requirement
 title: Touch display detects energy consumption
 status: Draft
@@ -7,11 +7,12 @@ owner: L. Samir
 tags:
   - i18n
   - EMC
-parent: SYS-6GCZ5P
-order: 20
+former-id: SW-E6B9M1
+parent: REQ-DF485Z2
+order: a1
 links:
   - type: refines
-    target: SYS-6GCZ5P
+    target: REQ-DF485Z2
     confirmed: d0b47df35e0a
 ---
 The status LED shall detect humidity values for at least 10 years.

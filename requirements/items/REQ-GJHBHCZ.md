@@ -1,15 +1,16 @@
 ---
-id: TC-8X1180
+id: REQ-GJHBHCZ
 type: test-case
 title: "Verify: Home dashboard limits energy consumption"
 status: Review
 priority: Medium
 owner: M. Farouk
-parent: INFO-J0FETE
-order: 1430
+former-id: TC-8X1180
+parent: REQ-WR5ZJN9
+order: b1I
 links:
   - type: verifies
-    target: SYS-MW6N7P
+    target: REQ-7P088ZG
     confirmed: 1f77718986ec
 ---
 **Objective:** verify that the home dashboard behaves as specified.

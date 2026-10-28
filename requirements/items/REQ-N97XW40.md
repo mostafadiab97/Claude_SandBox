@@ -1,14 +1,15 @@
 ---
-id: IF-AZQAQ9
+id: REQ-N97XW40
 type: interface-requirement
 title: Menu system stores safety limits
 status: Approved
 owner: A. Hassan
-parent: SYS-B19CRP
-order: 10
+former-id: IF-AZQAQ9
+parent: REQ-YFV227P
+order: a0
 links:
   - type: refines
-    target: SYS-B19CRP
+    target: REQ-YFV227P
     confirmed: 9dc800f53108
 ---
 The status LED shall calibrate access tokens when the network is unavailable.

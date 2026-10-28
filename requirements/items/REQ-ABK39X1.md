@@ -1,5 +1,5 @@
 ---
-id: HW-4N8E0V
+id: REQ-ABK39X1
 type: hardware-requirement
 title: Over-temperature monitor synchronises the connection state
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - security
   - i18n
   - regulatory
-parent: SYS-KRN3ZP
-order: 30
+former-id: HW-4N8E0V
+parent: REQ-WKEP01A
+order: a2
 links:
   - type: refines
-    target: SYS-KRN3ZP
+    target: REQ-WKEP01A
     confirmed: 85ba3b9261c1
 ---
 The over-temperature monitor shall report error conditions in all supported languages.

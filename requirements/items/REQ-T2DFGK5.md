@@ -1,5 +1,5 @@
 ---
-id: TC-BHHX0S
+id: REQ-T2DFGK5
 type: test-case
 title: "Verify: OTA server logs schedule entries"
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - ux
   - cost
-parent: INFO-7P4D8D
-order: 120
+former-id: TC-BHHX0S
+parent: REQ-8351896
+order: aB
 links:
   - type: verifies
-    target: SYS-0J3695
+    target: REQ-FWGAA5Z
     confirmed: b9c7a1a0e56b
 ---
 **Objective:** verify that the OTA server behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: TC-PH7DAY
+id: REQ-JK1GCYF
 type: test-case
 title: "Verify: Local API authenticates safety limits"
 status: Approved
 priority: Low
 owner: H. Mostafa
-parent: INFO-F0M7VC
-order: 520
+former-id: TC-PH7DAY
+parent: REQ-67RQXCK
+order: ap
 links:
   - type: verifies
-    target: SYS-XT9RX8
+    target: REQ-0WQ07SG
     confirmed: ba8e9786a00b
 ---
 **Objective:** verify that the local API behaves as specified.

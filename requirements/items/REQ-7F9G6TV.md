@@ -1,5 +1,5 @@
 ---
-id: SYS-C1GZFQ
+id: REQ-7F9G6TV
 type: system-requirement
 title: Encryption layer limits the connection state
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - power
-parent: INFO-0229G8
-order: 1550
+former-id: SYS-C1GZFQ
+parent: REQ-H9113WA
+order: b1U
 links:
   - type: refines
-    target: STK-XSQC89
+    target: REQ-Y7E2CS3
     confirmed: 66c246d6b1dc
 ---
 The encryption layer shall synchronise user preferences for up to 8 zones.

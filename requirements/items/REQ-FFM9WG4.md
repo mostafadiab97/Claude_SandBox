@@ -1,5 +1,5 @@
 ---
-id: IF-7Q6WC6
+id: REQ-FFM9WG4
 type: interface-requirement
 title: Battery backup reports access tokens
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - power
   - i18n
-parent: SYS-FHYWXP
-order: 40
+former-id: IF-7Q6WC6
+parent: REQ-7FNG430
+order: a3
 links:
   - type: refines
-    target: SYS-FHYWXP
+    target: REQ-7FNG430
     confirmed: 3d63ea693d7b
 ---
 The power supply shall limit audit records for at least 10 years.

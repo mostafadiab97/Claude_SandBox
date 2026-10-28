@@ -1,5 +1,5 @@
 ---
-id: SYS-S1NYQA
+id: REQ-EC78EH1
 type: system-requirement
 title: Relay board restores relay events
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - ux
   - customer-request
-parent: INFO-A6P9A8
-order: 2250
+former-id: SYS-S1NYQA
+parent: REQ-CMCS31A
+order: b2c
 links:
   - type: refines
-    target: STK-4NGQJ5
+    target: REQ-4H1F9N3
     confirmed: 96640a7e340d
 ---
 The relay board shall authenticate humidity values with an accuracy of ±0.5 °C.

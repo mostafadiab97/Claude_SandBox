@@ -1,15 +1,16 @@
 ---
-id: TC-TZKBDN
+id: REQ-P5A31Y2
 type: test-case
 title: "Verify: Relay board displays the connection state"
 status: Approved
 priority: Medium
 owner: M. Farouk
-parent: INFO-MACGC3
-order: 460
+former-id: TC-TZKBDN
+parent: REQ-F9Z1FYS
+order: aj
 links:
   - type: verifies
-    target: SYS-WFQYSE
+    target: REQ-WQSDQ95
     confirmed: 5a5dbeacc343
 ---
 **Objective:** verify that the relay board behaves as specified.

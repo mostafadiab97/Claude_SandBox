@@ -1,5 +1,5 @@
 ---
-id: IF-3JC5PG
+id: REQ-RRWXBB1
 type: interface-requirement
 title: Zigbee radio encrypts the operating mode
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - connectivity
-parent: SYS-AFXTVK
-order: 10
+former-id: IF-3JC5PG
+parent: REQ-HFKWETR
+order: a0
 links:
   - type: refines
-    target: SYS-AFXTVK
+    target: REQ-HFKWETR
     confirmed: f28f5499c8de
 ---
 The local API shall measure safety limits at least once per minute.

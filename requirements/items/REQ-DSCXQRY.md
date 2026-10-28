@@ -1,5 +1,5 @@
 ---
-id: HW-JQ4CG1
+id: REQ-DSCXQRY
 type: hardware-requirement
 title: Zigbee radio notifys humidity values
 status: Review
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - cost
   - customer-request
-parent: SYS-FJYCC7
-order: 10
+former-id: HW-JQ4CG1
+parent: REQ-NR2D9YC
+order: a0
 links:
   - type: refines
-    target: SYS-FJYCC7
+    target: REQ-NR2D9YC
     confirmed: 7f14ac08d029
 ---
 The local API shall restore the set point in all supported languages.

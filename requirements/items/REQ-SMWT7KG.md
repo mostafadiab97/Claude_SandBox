@@ -1,15 +1,16 @@
 ---
-id: DE-Q6KQVC
+id: REQ-SMWT7KG
 type: design-element
 title: Module rotary_knob_16
 status: Draft
 priority: High
 owner: M. Farouk
-parent: SW-MF98G3
-order: 10
+former-id: DE-Q6KQVC
+parent: REQ-RQSR1EK
+order: a0
 links:
   - type: implements
-    target: SW-MF98G3
+    target: REQ-RQSR1EK
     confirmed: c44972060af4
 ---
 Implemented in `src/ui/rotary_knob.c`.

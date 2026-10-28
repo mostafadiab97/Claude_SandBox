@@ -1,5 +1,5 @@
 ---
-id: TC-DTFXBM
+id: REQ-DNPB0CK
 type: test-case
 title: "Verify: Enclosure synchronises energy consumption"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - cost
   - release-1.0
   - accessibility
-parent: INFO-MACGC3
-order: 1180
+former-id: TC-DTFXBM
+parent: REQ-F9Z1FYS
+order: b0t
 links:
   - type: verifies
-    target: SYS-9W5PJ5
+    target: REQ-QT9ZQ3W
     confirmed: f35119afdb2b
 ---
 **Objective:** verify that the enclosure behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: IF-CSZJP0
+id: REQ-9X3SV1T
 type: interface-requirement
 title: "Signal 597: schedule entries"
 status: Approved
@@ -8,7 +8,8 @@ owner: محمد علي
 tags:
   - accessibility
   - cost
-parent: INFO-2TM0JP
-order: 5970
+former-id: IF-CSZJP0
+parent: REQ-RJ0KHPT
+order: b8c
 ---
 Interface signal number 597.

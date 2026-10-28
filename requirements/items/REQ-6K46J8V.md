@@ -1,5 +1,5 @@
 ---
-id: HW-ZB4YEP
+id: REQ-6K46J8V
 type: hardware-requirement
 title: Home dashboard reports energy consumption
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - connectivity
   - EMC
-parent: SYS-0R8DVR
-order: 40
+former-id: HW-ZB4YEP
+parent: REQ-5JA2JPE
+order: a3
 links:
   - type: refines
-    target: SYS-0R8DVR
+    target: REQ-5JA2JPE
     confirmed: 008c7842cee7
 ---
 The notification service shall restore sensor readings for up to 8 zones.

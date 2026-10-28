@@ -1,5 +1,5 @@
 ---
-id: RSK-GX4MEK
+id: REQ-63P4KSY
 type: risk
 title: "Risk: main PCB fails to log the room temperature"
 status: Approved
@@ -8,8 +8,9 @@ owner: Y. Saber
 tags:
   - release-2.0
   - customer-request
-parent: INFO-2G41PE
-order: 30
+former-id: RSK-GX4MEK
+parent: REQ-Z74CXEK
+order: a2
 ---
 **Hazard:** the main PCB could fail to measure the connection state.
 

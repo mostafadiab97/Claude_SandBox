@@ -1,5 +1,5 @@
 ---
-id: SYS-6Y9BHS
+id: REQ-DVVNZG6
 type: system-requirement
 title: Backlight stores the room temperature
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: H. Mostafa
 tags:
   - customer-request
-parent: INFO-PDR6FV
-order: 300
+former-id: SYS-6Y9BHS
+parent: REQ-2ZA2TRZ
+order: aT
 links:
   - type: refines
-    target: STK-MNQXK0
+    target: REQ-SBV9ENK
     confirmed: d3157dcb9034
 ---
 The backlight shall log relay events in all supported languages.

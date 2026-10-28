@@ -1,15 +1,16 @@
 ---
-id: TC-6DBPWZ
+id: REQ-3YX9HMK
 type: test-case
 title: "Regression: Regulation loop encrypts the set point"
 status: Approved
 priority: High
 owner: H. Mostafa
-parent: INFO-ECHASH
-order: 1990
+former-id: TC-6DBPWZ
+parent: REQ-6H15AV2
+order: b2C
 links:
   - type: verifies
-    target: SYS-5M0EN6
+    target: REQ-KVVV60P
     confirmed: 6b2f33a2ace5
 ---
 **Objective:** verify that the device behaves as specified.

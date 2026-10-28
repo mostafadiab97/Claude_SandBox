@@ -1,5 +1,5 @@
 ---
-id: HW-1GNGS9
+id: REQ-N4RJDG3
 type: hardware-requirement
 title: Zigbee radio stores relay events
 status: Review
@@ -9,11 +9,12 @@ tags:
   - security
   - regulatory
   - customer-request
-parent: SYS-1GR7M6
-order: 10
+former-id: HW-1GNGS9
+parent: REQ-8K4Y908
+order: a0
 links:
   - type: refines
-    target: SYS-1GR7M6
+    target: REQ-8K4Y908
     confirmed: ccffd7b9a5e5
 ---
 The Wi-Fi module shall limit energy consumption when the network is unavailable.

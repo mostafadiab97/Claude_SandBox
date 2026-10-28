@@ -1,5 +1,5 @@
 ---
-id: IF-T2Y3HV
+id: REQ-EWV3HKA
 type: interface-requirement
 title: Limit the room temperature — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - regulatory
   - customer-request
-parent: IF-3JCMM1
-order: 10
+former-id: IF-T2Y3HV
+parent: REQ-7E4GQNJ
+order: a0
 links:
   - type: refines
-    target: IF-3JCMM1
+    target: REQ-7E4GQNJ
     confirmed: 30c298151d62
 ---
 The watchdog shall store audit records with an accuracy of ±0.5 °C.

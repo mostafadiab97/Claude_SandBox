@@ -1,18 +1,19 @@
 ---
-id: DEF-18S5SR
+id: REQ-0GSEQG7
 type: defect
 title: "Defect: Bluetooth LE link does not calibrate humidity values"
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: INFO-Y69DRS
-order: 50
+former-id: DEF-18S5SR
+parent: REQ-YW554H8
+order: a4
 links:
   - type: relates-to
-    target: TC-21PVRS
+    target: REQ-W16VR48
     confirmed: 23a3ffec2339
   - type: relates-to
-    target: SYS-B7X9NT
+    target: REQ-891HRQ1
     confirmed: 3dbe2b5d8662
 ---
 Found during regression testing of build 2.7.7.

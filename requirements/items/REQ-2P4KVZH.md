@@ -1,5 +1,5 @@
 ---
-id: TC-KFWNAJ
+id: REQ-2P4KVZH
 type: test-case
 title: "Verify: Rotary knob reports sensor readings"
 status: Review
@@ -9,11 +9,12 @@ tags:
   - power
   - ux
   - cost
-parent: INFO-HTSZ15
-order: 1290
+former-id: TC-KFWNAJ
+parent: REQ-Y9VHHKA
+order: b14
 links:
   - type: verifies
-    target: SYS-BRW2HG
+    target: REQ-Q5N7FPT
     confirmed: 22a91377b933
 ---
 **Objective:** verify that the rotary knob behaves as specified.

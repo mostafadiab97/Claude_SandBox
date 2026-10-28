@@ -1,5 +1,5 @@
 ---
-id: IF-X8N3GQ
+id: REQ-HZ0WRFG
 type: interface-requirement
 title: Battery backup encrypts the connection state
 status: Obsolete
@@ -8,11 +8,12 @@ tags:
   - performance
   - cost
   - EMC
-parent: SYS-CBQBV0
-order: 10
+former-id: IF-X8N3GQ
+parent: REQ-X7ZWA4Y
+order: a0
 links:
   - type: refines
-    target: SYS-CBQBV0
+    target: REQ-X7ZWA4Y
     confirmed: 99b89b8fe048
 ---
 The main PCB shall notify safety limits at least once per minute.

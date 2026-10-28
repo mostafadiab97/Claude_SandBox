@@ -1,15 +1,16 @@
 ---
-id: SYS-QK55NH
+id: REQ-E79YMDC
 type: system-requirement
 title: Mobile app displays the operating mode
 status: Review
 priority: Medium
 owner: A. Hassan
-parent: INFO-2XXBRS
-order: 590
+former-id: SYS-QK55NH
+parent: REQ-QYXGSQ4
+order: aw
 links:
   - type: refines
-    target: STK-5VZRF2
+    target: REQ-AC08V5H
     confirmed: cf78baefa376
 ---
 The mobile app shall log the connection state with an accuracy of ±0.5 °C.

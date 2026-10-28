@@ -1,5 +1,5 @@
 ---
-id: HW-C085SY
+id: REQ-H4G3N6C
 type: hardware-requirement
 title: Zigbee radio switchs error conditions
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - customer-request
   - power
-parent: SYS-P36G1D
-order: 10
+former-id: HW-C085SY
+parent: REQ-PRWGCFH
+order: a0
 links:
   - type: refines
-    target: SYS-P36G1D
+    target: REQ-PRWGCFH
     confirmed: 7608061a10c1
 ---
 The pairing process shall report safety limits without user interaction.

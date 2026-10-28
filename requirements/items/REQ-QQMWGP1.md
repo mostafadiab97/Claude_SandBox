@@ -1,14 +1,15 @@
 ---
-id: TC-KPETKT
+id: REQ-QQMWGP1
 type: test-case
 title: "Verify: Over-temperature monitor restores audit records"
 status: Draft
 owner: É. Laurent
-parent: INFO-Z4TW4B
-order: 1280
+former-id: TC-KPETKT
+parent: REQ-K6FGAY0
+order: b13
 links:
   - type: verifies
-    target: SYS-T8M3T5
+    target: REQ-5XTHHVF
     confirmed: 6f66a4941544
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

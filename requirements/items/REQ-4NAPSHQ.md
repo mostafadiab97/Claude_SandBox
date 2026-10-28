@@ -1,15 +1,16 @@
 ---
-id: SYS-6YK5CA
+id: REQ-4NAPSHQ
 type: system-requirement
 title: Telemetry pipeline stores the operating mode
 status: Review
 priority: High
 owner: L. Samir
-parent: INFO-YV5EZD
-order: 1700
+former-id: SYS-6YK5CA
+parent: REQ-RE9ZKHF
+order: b1j
 links:
   - type: refines
-    target: STK-Y5PMTC
+    target: REQ-FPBMKN9
     confirmed: 047439fb0db8
 ---
 The telemetry pipeline shall notify audit records in under 3 s.

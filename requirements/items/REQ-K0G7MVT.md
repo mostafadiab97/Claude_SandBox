@@ -1,5 +1,5 @@
 ---
-id: TC-1EYX9J
+id: REQ-K0G7MVT
 type: test-case
 title: "Verify: Regulation loop detects energy consumption"
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: Y. Saber
 tags:
   - regulatory
-parent: INFO-MS9DAG
-order: 1160
+former-id: TC-1EYX9J
+parent: REQ-XGWSK2K
+order: b0r
 links:
   - type: verifies
-    target: SYS-TXF8EG
+    target: REQ-JB7W2BD
     confirmed: 941441170ff9
 ---
 **Objective:** verify that the regulation loop behaves as specified.

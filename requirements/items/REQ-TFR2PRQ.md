@@ -1,5 +1,5 @@
 ---
-id: SW-0H3MY0
+id: REQ-TFR2PRQ
 type: software-requirement
 title: Notification service authenticates access tokens
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: S. Adel
 tags:
   - power
-parent: SYS-72RSQG
-order: 10
+former-id: SW-0H3MY0
+parent: REQ-KFEFVBF
+order: a0
 links:
   - type: refines
-    target: SYS-72RSQG
+    target: REQ-KFEFVBF
     confirmed: d9f78fd2af42
 ---
 The home dashboard shall synchronise the connection state for up to 8 zones.

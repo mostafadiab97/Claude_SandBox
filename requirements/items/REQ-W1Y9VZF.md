@@ -1,5 +1,5 @@
 ---
-id: TC-0XBW0B
+id: REQ-W1Y9VZF
 type: test-case
 title: "Verify: Battery backup stores safety limits"
 status: Draft
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - customer-request
   - security
-parent: INFO-MACGC3
-order: 980
+former-id: TC-0XBW0B
+parent: REQ-F9Z1FYS
+order: b0Z
 links:
   - type: verifies
-    target: SYS-HEVMYH
+    target: REQ-6F2ZZC7
     confirmed: 5cd34b16673e
 ---
 **Objective:** verify that the battery backup behaves as specified.

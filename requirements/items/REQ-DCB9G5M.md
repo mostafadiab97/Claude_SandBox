@@ -1,15 +1,16 @@
 ---
-id: SYS-14BTQV
+id: REQ-DCB9G5M
 type: system-requirement
 title: Mobile app stores humidity values
 status: Draft
 priority: High
 owner: R. Nabil
-parent: INFO-2XXBRS
-order: 1170
+former-id: SYS-14BTQV
+parent: REQ-QYXGSQ4
+order: b0s
 links:
   - type: refines
-    target: STK-SWTYBR
+    target: REQ-DVC5FZZ
     confirmed: 85d99e967934
 ---
 The mobile app shall display sensor readings without user interaction.

@@ -1,15 +1,16 @@
 ---
-id: SW-SWVQYB
+id: REQ-0B4FBAQ
 type: software-requirement
 title: Schedule editor logs safety limits
 status: Review
 priority: Low
 owner: Y. Saber
-parent: SYS-0N6C2D
-order: 40
+former-id: SW-SWVQYB
+parent: REQ-G9QWE5X
+order: a3
 links:
   - type: refines
-    target: SYS-0N6C2D
+    target: REQ-G9QWE5X
     confirmed: 50615d725109
 ---
 The login screen shall detect schedule entries within 200 ms.

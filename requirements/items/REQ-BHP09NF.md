@@ -1,14 +1,15 @@
 ---
-id: IF-MXX2V9
+id: REQ-BHP09NF
 type: interface-requirement
 title: Relay board encrypts schedule entries
 status: Approved
 priority: Medium
-parent: SYS-77M8EH
-order: 10
+former-id: IF-MXX2V9
+parent: REQ-5C0M7H2
+order: a0
 links:
   - type: refines
-    target: SYS-77M8EH
+    target: REQ-5C0M7H2
     confirmed: fd9c2898d69c
 ---
 The battery backup shall store safety limits in under 3 s.

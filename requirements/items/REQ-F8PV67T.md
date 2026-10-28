@@ -1,18 +1,19 @@
 ---
-id: TC-SF3RZZ
+id: REQ-F8PV67T
 type: test-case
 title: "Verify: Tamper detection synchronises user preferences"
 status: Approved
 priority: Medium
 owner: J. Müller
-parent: INFO-Z4TW4B
-order: 1180
+former-id: TC-SF3RZZ
+parent: REQ-K6FGAY0
+order: b0t
 links:
   - type: verifies
-    target: SYS-Y6AMBA
+    target: REQ-M8Y2DK0
     confirmed: 9d1ea6b10234
   - type: verifies
-    target: SW-248X4W
+    target: REQ-9Z7K3HD
     confirmed: 9fc54428d2d9
 ---
 **Objective:** verify that the tamper detection behaves as specified.

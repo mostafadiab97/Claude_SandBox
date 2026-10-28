@@ -1,15 +1,16 @@
 ---
-id: SYS-0847E1
+id: REQ-5KHGZ49
 type: system-requirement
 title: Notification service restores sensor readings
 status: Obsolete
 priority: Low
 owner: K. Tanaka
-parent: INFO-2XXBRS
-order: 1050
+former-id: SYS-0847E1
+parent: REQ-QYXGSQ4
+order: b0g
 links:
   - type: refines
-    target: STK-639N9T
+    target: REQ-EMZ19WQ
     confirmed: 252da9caa62c
 ---
 The notification service shall authenticate humidity values below 0.5 W in standby.

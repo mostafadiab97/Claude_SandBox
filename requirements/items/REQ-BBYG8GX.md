@@ -1,18 +1,19 @@
 ---
-id: TC-C9G5AT
+id: REQ-BBYG8GX
 type: test-case
 title: "Verify: Boiler interface validates schedule entries"
 status: Review
 priority: Medium
 owner: L. Samir
-parent: INFO-MS9DAG
-order: 1130
+former-id: TC-C9G5AT
+parent: REQ-XGWSK2K
+order: b0o
 links:
   - type: verifies
-    target: SYS-S4CRQY
+    target: REQ-S85HGV0
     confirmed: 665acc28f34d
   - type: verifies
-    target: SW-GEQD7V
+    target: REQ-X1GZ3E9
     confirmed: b4c2cec05ff8
 ---
 **Objective:** verify that the boiler interface behaves as specified.

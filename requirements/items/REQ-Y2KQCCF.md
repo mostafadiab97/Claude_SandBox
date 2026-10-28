@@ -1,5 +1,5 @@
 ---
-id: TC-7H5N8K
+id: REQ-Y2KQCCF
 type: test-case
 title: "Verify: Boiler interface stores safety limits"
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - regulatory
   - release-1.0
   - cost
-parent: INFO-MS9DAG
-order: 1050
+former-id: TC-7H5N8K
+parent: REQ-XGWSK2K
+order: b0g
 links:
   - type: verifies
-    target: SYS-7VF1VB
+    target: REQ-AYGEVH1
     confirmed: cd08b02dec95
 ---
 **Objective:** verify that the boiler interface behaves as specified.

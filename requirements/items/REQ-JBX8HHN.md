@@ -1,5 +1,5 @@
 ---
-id: SW-61EY0J
+id: REQ-JBX8HHN
 type: software-requirement
 title: Restore the set point — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - customer-request
   - regulatory
-parent: SW-3W6SE7
-order: 10
+former-id: SW-61EY0J
+parent: REQ-1V29QCX
+order: a0
 links:
   - type: refines
-    target: SW-3W6SE7
+    target: REQ-1V29QCX
     confirmed: 8855b7704191
 ---
 The secure boot shall log energy consumption below 0.5 W in standby.

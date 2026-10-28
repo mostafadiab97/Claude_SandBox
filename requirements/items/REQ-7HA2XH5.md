@@ -1,15 +1,16 @@
 ---
-id: TC-VGJJBJ
+id: REQ-7HA2XH5
 type: test-case
 title: "Verify: Enclosure validates humidity values"
 status: Approved
 priority: Low
 owner: A. Hassan
-parent: INFO-MACGC3
-order: 450
+former-id: TC-VGJJBJ
+parent: REQ-F9Z1FYS
+order: ai
 links:
   - type: verifies
-    target: SYS-QGGTRG
+    target: REQ-CNQYTT2
     confirmed: e1c94732a57d
 ---
 **Objective:** verify that the enclosure behaves as specified.

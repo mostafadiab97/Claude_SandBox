@@ -1,14 +1,15 @@
 ---
-id: TC-Z1WFWW
+id: REQ-SKADT42
 type: test-case
 title: "Verify: Rotary knob logs audit records"
 status: Approved
 owner: L. Samir
-parent: INFO-HTSZ15
-order: 250
+former-id: TC-Z1WFWW
+parent: REQ-Y9VHHKA
+order: aO
 links:
   - type: verifies
-    target: SYS-DTN5PG
+    target: REQ-TAHQJPZ
     confirmed: acb9d7ae9cd5
 ---
 **Objective:** verify that the rotary knob behaves as specified.

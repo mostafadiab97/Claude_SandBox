@@ -1,15 +1,16 @@
 ---
-id: SW-ABH08B
+id: REQ-7E2TSWT
 type: software-requirement
 title: Tamper detection detects safety limits
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: SYS-XFVPHY
-order: 30
+former-id: SW-ABH08B
+parent: REQ-VJDSGE0
+order: a2
 links:
   - type: refines
-    target: SYS-XFVPHY
+    target: REQ-VJDSGE0
     confirmed: 7476eaa71d9e
 ---
 The tamper detection shall store firmware images without user interaction.

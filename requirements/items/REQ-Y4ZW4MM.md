@@ -1,5 +1,5 @@
 ---
-id: TC-YRBSD7
+id: REQ-Y4ZW4MM
 type: test-case
 title: "Verify: Schedule editor switchs relay events"
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - EMC
   - release-1.0
   - accessibility
-parent: INFO-J0FETE
-order: 1410
+former-id: TC-YRBSD7
+parent: REQ-WR5ZJN9
+order: b1G
 links:
   - type: verifies
-    target: SYS-C7F4NR
+    target: REQ-ZZSZP4X
     confirmed: 4dbda585baa8
   - type: verifies
-    target: SW-7XM9Y3
+    target: REQ-MDK0P3H
     confirmed: 948f514ebe9e
 ---
 **Objective:** verify that the schedule editor behaves as specified.

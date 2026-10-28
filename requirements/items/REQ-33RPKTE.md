@@ -1,5 +1,5 @@
 ---
-id: IF-579W7K
+id: REQ-33RPKTE
 type: interface-requirement
 title: Power supply displays error conditions
 status: Draft
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - power
   - cost
-parent: SYS-VCX096
-order: 10
+former-id: IF-579W7K
+parent: REQ-NPB13E0
+order: a0
 links:
   - type: refines
-    target: SYS-VCX096
+    target: REQ-NPB13E0
     confirmed: 63d283d89339
 ---
 The enclosure shall measure schedule entries after a power loss.

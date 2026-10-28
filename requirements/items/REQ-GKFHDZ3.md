@@ -1,15 +1,16 @@
 ---
-id: TC-MC7AA5
+id: REQ-GKFHDZ3
 type: test-case
 title: "Verify: Watchdog reports the operating mode"
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: INFO-Z4TW4B
-order: 790
+former-id: TC-MC7AA5
+parent: REQ-K6FGAY0
+order: b0G
 links:
   - type: verifies
-    target: SYS-RT7J5E
+    target: REQ-H6FFXS1
     confirmed: 179cd4fd7511
 ---
 **Objective:** verify that the watchdog behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: IF-G6A5Y2
+id: REQ-AGATPMY
 type: interface-requirement
 title: "Signal 505: the set point"
 status: Approved
@@ -8,7 +8,8 @@ owner: S. Adel
 tags:
   - connectivity
   - security
-parent: INFO-2TM0JP
-order: 5050
+former-id: IF-G6A5Y2
+parent: REQ-RJ0KHPT
+order: b78
 ---
 Interface signal number 505.

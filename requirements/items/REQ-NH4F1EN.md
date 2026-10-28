@@ -1,5 +1,5 @@
 ---
-id: SYS-HN5S5X
+id: REQ-NH4F1EN
 type: system-requirement
 title: Backlight switchs schedule entries
 status: Draft
@@ -8,14 +8,15 @@ owner: Y. Saber
 tags:
   - customer-request
   - connectivity
-parent: INFO-PDR6FV
-order: 220
+former-id: SYS-HN5S5X
+parent: REQ-2ZA2TRZ
+order: aL
 links:
   - type: refines
-    target: STK-XZPKF8
+    target: REQ-3QFE217
     confirmed: f082d5e65a7a
   - type: mitigates
-    target: RSK-5PJGGC
+    target: REQ-DB7V674
     confirmed: 75f8fe6da08d
 ---
 The backlight shall display relay events using AES-256-GCM.

@@ -1,15 +1,16 @@
 ---
-id: IF-BP1ANZ
+id: REQ-V6HQMMS
 type: interface-requirement
 title: Menu system validates schedule entries
 status: Obsolete
 priority: High
 owner: L. Samir
-parent: SYS-JHZTBB
-order: 40
+former-id: IF-BP1ANZ
+parent: REQ-28FPB5X
+order: a3
 links:
   - type: refines
-    target: SYS-JHZTBB
+    target: REQ-28FPB5X
     confirmed: a18fdffef991
 ---
 The backlight shall encrypt energy consumption within 200 ms.

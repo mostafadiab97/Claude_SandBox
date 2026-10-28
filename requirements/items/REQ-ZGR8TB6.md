@@ -1,5 +1,5 @@
 ---
-id: TC-4ZNYTC
+id: REQ-ZGR8TB6
 type: test-case
 title: "Verify: Battery backup measures error conditions"
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - i18n
   - connectivity
-parent: INFO-MACGC3
-order: 1420
+former-id: TC-4ZNYTC
+parent: REQ-F9Z1FYS
+order: b1H
 links:
   - type: verifies
-    target: SYS-FPCM4D
+    target: REQ-30CQF62
     confirmed: 2cecb0d5058b
 ---
 **Objective:** verify that the battery backup behaves as specified.

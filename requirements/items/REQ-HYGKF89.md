@@ -1,5 +1,5 @@
 ---
-id: SW-337616
+id: REQ-HYGKF89
 type: software-requirement
 title: Login screen synchronises safety limits
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - cost
   - safety
   - release-1.0
-parent: SYS-1S2BHB
-order: 10
+former-id: SW-337616
+parent: REQ-59EPM6N
+order: a0
 links:
   - type: refines
-    target: SYS-1S2BHB
+    target: REQ-59EPM6N
     confirmed: 46ab9d294f6f
 ---
 The home dashboard shall store firmware images for at least 10 years.

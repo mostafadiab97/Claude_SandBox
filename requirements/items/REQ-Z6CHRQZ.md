@@ -1,14 +1,15 @@
 ---
-id: CR-623BR9
+id: REQ-Z6CHRQZ
 type: change-request
 title: "CR: extend battery backup to encrypt sensor readings"
 status: Review
 owner: R. Nabil
-parent: INFO-BB7M2N
-order: 100
+former-id: CR-623BR9
+parent: REQ-995FBPM
+order: a9
 links:
   - type: relates-to
-    target: SYS-GYMKHD
+    target: REQ-FZE217Y
     confirmed: 548847d1d9b7
 ---
 Requested by customer support (ticket #10573).

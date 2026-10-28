@@ -1,5 +1,5 @@
 ---
-id: IF-9W0HRM
+id: REQ-6XR695Q
 type: interface-requirement
 title: Encryption layer encrypts safety limits
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - i18n
   - security
-parent: SYS-BT3DXG
-order: 10
+former-id: IF-9W0HRM
+parent: REQ-H94MBY5
+order: a0
 links:
   - type: refines
-    target: SYS-BT3DXG
+    target: REQ-H94MBY5
     confirmed: 762491a5f95a
 ---
 The watchdog shall validate humidity values in all supported languages.

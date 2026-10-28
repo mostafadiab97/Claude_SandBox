@@ -1,5 +1,5 @@
 ---
-id: IF-G22K9Q
+id: REQ-3WMEQA5
 type: interface-requirement
 title: Relay board synchronises the connection state
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - accessibility
   - customer-request
   - connectivity
-parent: SYS-CR4P8R
-order: 20
+former-id: IF-G22K9Q
+parent: REQ-W641QVG
+order: a1
 links:
   - type: refines
-    target: SYS-CR4P8R
+    target: REQ-W641QVG
     confirmed: 4c3ba50b83be
 ---
 The battery backup shall notify firmware images in under 3 s.

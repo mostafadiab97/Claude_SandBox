@@ -1,5 +1,5 @@
 ---
-id: TC-0WQN4Q
+id: REQ-SXJYAC8
 type: test-case
 title: "Verify: Rotary knob stores relay events"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - ux
   - safety
-parent: INFO-HTSZ15
-order: 1180
+former-id: TC-0WQN4Q
+parent: REQ-Y9VHHKA
+order: b0t
 links:
   - type: verifies
-    target: SYS-SSBZ7T
+    target: REQ-AV4FMXQ
     confirmed: 4a88e60caee9
 ---
 **Objective:** verify that the rotary knob behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-RST5KT
+id: REQ-JN73B91
 type: software-requirement
 title: Tamper detection limits audit records
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - EMC
   - customer-request
-parent: SYS-NVKX9K
-order: 20
+former-id: SW-RST5KT
+parent: REQ-QFZ1F36
+order: a1
 links:
   - type: refines
-    target: SYS-NVKX9K
+    target: REQ-QFZ1F36
     confirmed: 720362ab5cfe
 ---
 The over-temperature monitor shall notify relay events without user interaction.

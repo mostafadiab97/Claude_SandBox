@@ -1,5 +1,5 @@
 ---
-id: SYS-KCC5WV
+id: REQ-PSHZ85Z
 type: system-requirement
 title: User account service calibrates relay events
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - power
   - release-1.0
   - cost
-parent: INFO-YV5EZD
-order: 700
+former-id: SYS-KCC5WV
+parent: REQ-RE9ZKHF
+order: b07
 links:
   - type: refines
-    target: STK-1CAAXP
+    target: REQ-ZEW4521
     confirmed: a853df6f0866
 ---
 The user account service shall switch safety limits for at least 10 years.

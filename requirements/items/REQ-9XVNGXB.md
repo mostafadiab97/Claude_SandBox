@@ -1,15 +1,16 @@
 ---
-id: HW-MRDA06
+id: REQ-9XVNGXB
 type: hardware-requirement
 title: Over-temperature monitor validates relay events
 status: Draft
 priority: Medium
 owner: A. Hassan
-parent: SYS-8BT9A5
-order: 10
+former-id: HW-MRDA06
+parent: REQ-SNCRWC2
+order: a0
 links:
   - type: refines
-    target: SYS-8BT9A5
+    target: REQ-SNCRWC2
     confirmed: 768828fca553
 ---
 The watchdog shall synchronise error conditions after a power loss.

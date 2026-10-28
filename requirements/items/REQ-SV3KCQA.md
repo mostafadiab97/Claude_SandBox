@@ -1,15 +1,16 @@
 ---
-id: IF-AGEBFZ
+id: REQ-SV3KCQA
 type: interface-requirement
 title: Heat pump driver reports relay events
 status: Approved
 priority: Low
 owner: A. Hassan
-parent: SYS-3FCPBN
-order: 10
+former-id: IF-AGEBFZ
+parent: REQ-73J6WMM
+order: a0
 links:
   - type: refines
-    target: SYS-3FCPBN
+    target: REQ-73J6WMM
     confirmed: 53e5304c7666
 ---
 The boiler interface shall measure error conditions below 0.5 W in standby.

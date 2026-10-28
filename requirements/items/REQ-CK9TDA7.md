@@ -1,5 +1,5 @@
 ---
-id: TC-J5DPB9
+id: REQ-CK9TDA7
 type: test-case
 title: "Verify: Regulation loop synchronises audit records"
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: محمد علي
 tags:
   - regulatory
-parent: INFO-MS9DAG
-order: 1430
+former-id: TC-J5DPB9
+parent: REQ-XGWSK2K
+order: b1I
 links:
   - type: verifies
-    target: SYS-5FN1TB
+    target: REQ-ACEDPGP
     confirmed: 52219f23d7ef
 ---
 **Objective:** verify that the regulation loop behaves as specified.

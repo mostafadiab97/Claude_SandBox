@@ -1,18 +1,19 @@
 ---
-id: TC-97A80Y
+id: REQ-2RK36P2
 type: test-case
 title: "Verify: Rotary knob authenticates energy consumption"
 status: Draft
 priority: Low
 owner: L. Samir
-parent: INFO-HTSZ15
-order: 820
+former-id: TC-97A80Y
+parent: REQ-Y9VHHKA
+order: b0J
 links:
   - type: verifies
-    target: SYS-WM6GTH
+    target: REQ-9VNZEQ9
     confirmed: f1e98774112c
   - type: verifies
-    target: SW-W6JK8N
+    target: REQ-Y9EE2KF
     confirmed: ce7723cdc2d3
 ---
 **Objective:** verify that the rotary knob behaves as specified.

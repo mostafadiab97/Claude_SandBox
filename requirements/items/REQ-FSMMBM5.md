@@ -1,18 +1,19 @@
 ---
-id: TC-GNTNTC
+id: REQ-FSMMBM5
 type: test-case
 title: "Verify: Mobile app detects safety limits"
 status: Draft
 priority: Medium
 owner: Y. Saber
-parent: INFO-J0FETE
-order: 1170
+former-id: TC-GNTNTC
+parent: REQ-WR5ZJN9
+order: b0s
 links:
   - type: verifies
-    target: SYS-CZF40M
+    target: REQ-7V3TPE0
     confirmed: 463cc60a6f2f
   - type: verifies
-    target: SW-NENQGK
+    target: REQ-673CSJT
     confirmed: 3b6689097f0d
 ---
 **Objective:** verify that the mobile app behaves as specified.

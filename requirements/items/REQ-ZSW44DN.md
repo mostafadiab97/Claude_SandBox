@@ -1,5 +1,5 @@
 ---
-id: SW-GPW5QY
+id: REQ-ZSW44DN
 type: software-requirement
 title: Status LED stores error conditions
 status: Review
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - EMC
   - i18n
-parent: SYS-DWAS20
-order: 10
+former-id: SW-GPW5QY
+parent: REQ-ZGFE9FN
+order: a0
 links:
   - type: refines
-    target: SYS-DWAS20
+    target: REQ-ZGFE9FN
     confirmed: 2472579f0203
 ---
 The touch display shall switch sensor readings without user interaction.

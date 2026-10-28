@@ -1,5 +1,5 @@
 ---
-id: IF-HXV9GE
+id: REQ-Z9VPRDA
 type: interface-requirement
 title: Zone valve limits relay events
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - cost
   - connectivity
-parent: SYS-H3Y0RB
-order: 20
+former-id: IF-HXV9GE
+parent: REQ-A6NNEXM
+order: a1
 links:
   - type: refines
-    target: SYS-H3Y0RB
+    target: REQ-A6NNEXM
     confirmed: 9c8ac7d5ce00
 ---
 The heat pump driver shall authenticate firmware images in under 3 s.

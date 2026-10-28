@@ -1,5 +1,5 @@
 ---
-id: IF-4FF4HC
+id: REQ-PR1RA52
 type: interface-requirement
 title: Device registry stores schedule entries
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - release-2.0
   - accessibility
-parent: SYS-1F54XW
-order: 10
+former-id: IF-4FF4HC
+parent: REQ-5FT15N5
+order: a0
 links:
   - type: refines
-    target: SYS-1F54XW
+    target: REQ-5FT15N5
     confirmed: 63e961a2987d
 ---
 The cloud backend shall synchronise the room temperature for up to 8 zones.

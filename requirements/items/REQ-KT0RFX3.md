@@ -1,5 +1,5 @@
 ---
-id: HW-6RDR0X
+id: REQ-KT0RFX3
 type: hardware-requirement
 title: Store user preferences — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - ux
   - regulatory
-parent: HW-2Z6C9V
-order: 10
+former-id: HW-6RDR0X
+parent: REQ-NY1FP1Y
+order: a0
 links:
   - type: refines
-    target: HW-2Z6C9V
+    target: REQ-NY1FP1Y
     confirmed: 58fbfc45ce54
 ---
 The user account service shall encrypt user preferences using AES-256-GCM.

@@ -1,5 +1,5 @@
 ---
-id: DE-BBGKJ2
+id: REQ-3VK59P5
 type: design-element
 title: Module Zigbee_radio_72
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - performance
   - EMC
   - power
-parent: SW-8MTYX9
-order: 10
+former-id: DE-BBGKJ2
+parent: REQ-WXKFWYP
+order: a0
 links:
   - type: implements
-    target: SW-8MTYX9
+    target: REQ-WXKFWYP
     confirmed: fcb17ef9418b
 ---
 Implemented in `src/conn/Zigbee_radio.c`.

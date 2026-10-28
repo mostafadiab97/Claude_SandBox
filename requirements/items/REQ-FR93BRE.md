@@ -1,5 +1,5 @@
 ---
-id: TC-ZYAF7G
+id: REQ-FR93BRE
 type: test-case
 title: "Verify: Heating controller measures the connection state"
 status: Review
@@ -8,14 +8,15 @@ owner: S. Adel
 tags:
   - security
   - i18n
-parent: INFO-MS9DAG
-order: 740
+former-id: TC-ZYAF7G
+parent: REQ-XGWSK2K
+order: b0B
 links:
   - type: verifies
-    target: SYS-YGWC8P
+    target: REQ-SH0PS76
     confirmed: 77480e1be3cd
   - type: verifies
-    target: SW-JRP90Q
+    target: REQ-9T091V1
     confirmed: 9d94b6822a15
 ---
 **Objective:** verify that the heating controller behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-TV9K0C
+id: REQ-KR8VMN3
 type: software-requirement
 title: Telemetry pipeline switchs humidity values
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - accessibility
   - i18n
-parent: SYS-G85CT4
-order: 10
+former-id: SW-TV9K0C
+parent: REQ-3485MQF
+order: a0
 links:
   - type: refines
-    target: SYS-G85CT4
+    target: REQ-3485MQF
     confirmed: 278fe2b83855
 ---
 The telemetry pipeline shall validate safety limits for up to 8 zones.

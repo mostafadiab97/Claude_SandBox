@@ -1,16 +1,17 @@
 ---
-id: TC-SBN5WH
+id: REQ-4HQMNSX
 type: test-case
 title: "Verify: Heat pump driver synchronises safety limits"
 status: Approved
 owner: J. Müller
 tags:
   - release-1.0
-parent: INFO-MS9DAG
-order: 950
+former-id: TC-SBN5WH
+parent: REQ-XGWSK2K
+order: b0W
 links:
   - type: verifies
-    target: SYS-ZRJGC6
+    target: REQ-DNFKDKS
     confirmed: f533853c62c8
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

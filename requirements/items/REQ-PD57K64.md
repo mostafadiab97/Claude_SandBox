@@ -1,5 +1,5 @@
 ---
-id: CR-BJV1E4
+id: REQ-PD57K64
 type: change-request
 title: "CR: extend status LED to authenticate humidity values"
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: L. Samir
 tags:
   - security
-parent: INFO-7HY7F9
-order: 200
+former-id: CR-BJV1E4
+parent: REQ-HFYH0KW
+order: aJ
 links:
   - type: relates-to
-    target: SYS-DTDMRC
+    target: REQ-0X9SCGY
     confirmed: 001ab42cb872
 ---
 Requested by customer support (ticket #11325).

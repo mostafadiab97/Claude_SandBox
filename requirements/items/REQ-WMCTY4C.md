@@ -1,15 +1,16 @@
 ---
-id: SYS-66NFPS
+id: REQ-WMCTY4C
 type: system-requirement
 title: Pairing process encrypts energy consumption
 status: Review
 priority: High
 owner: محمد علي
-parent: INFO-NRVHA2
-order: 310
+former-id: SYS-66NFPS
+parent: REQ-6R94HFM
+order: aU
 links:
   - type: refines
-    target: STK-71VSKB
+    target: REQ-8TVXMWR
     confirmed: 994ecb1eff6f
 ---
 The pairing process shall encrypt humidity values without user interaction.

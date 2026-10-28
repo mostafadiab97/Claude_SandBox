@@ -1,17 +1,18 @@
 ---
-id: TC-NH9VGM
+id: REQ-QAM33CA
 type: test-case
 title: "Verify: Backlight restores access tokens"
 status: Draft
 priority: Medium
-parent: INFO-HTSZ15
-order: 610
+former-id: TC-NH9VGM
+parent: REQ-Y9VHHKA
+order: ay
 links:
   - type: verifies
-    target: SYS-44HBM9
+    target: REQ-87P89AG
     confirmed: ebc73cf4101f
   - type: verifies
-    target: SW-J9HHJH
+    target: REQ-Y4AYCX4
     confirmed: 509de5a29715
 ---
 **Objective:** verify that the backlight behaves as specified.

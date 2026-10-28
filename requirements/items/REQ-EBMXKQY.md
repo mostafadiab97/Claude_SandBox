@@ -1,15 +1,16 @@
 ---
-id: TC-3WRYSW
+id: REQ-EBMXKQY
 type: test-case
 title: "Verify: Touch display displays access tokens"
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: INFO-HTSZ15
-order: 480
+former-id: TC-3WRYSW
+parent: REQ-Y9VHHKA
+order: al
 links:
   - type: verifies
-    target: SYS-NADNAY
+    target: REQ-5NHNVG1
     confirmed: 7956526ae9f5
 ---
 **Objective:** verify that the touch display behaves as specified.

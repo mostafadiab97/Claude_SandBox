@@ -1,15 +1,16 @@
 ---
-id: SW-M9VESF
+id: REQ-DMCY253
 type: software-requirement
 title: Switch the operating mode — detail
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: SW-ZJ6HPB
-order: 10
+former-id: SW-M9VESF
+parent: REQ-61ASS8M
+order: a0
 links:
   - type: refines
-    target: SW-ZJ6HPB
+    target: REQ-61ASS8M
     confirmed: 3b830706ec65
 ---
 The watchdog shall calibrate the operating mode with an accuracy of ±0.5 °C.

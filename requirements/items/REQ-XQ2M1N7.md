@@ -1,5 +1,5 @@
 ---
-id: SW-VG3R6C
+id: REQ-XQ2M1N7
 type: software-requirement
 title: Bluetooth LE link limits the connection state
 status: Obsolete
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - power
   - accessibility
-parent: SYS-3PY964
-order: 10
+former-id: SW-VG3R6C
+parent: REQ-DXNDNNZ
+order: a0
 links:
   - type: refines
-    target: SYS-3PY964
+    target: REQ-DXNDNNZ
     confirmed: 3718c9e5d8ae
 ---
 The Bluetooth LE link shall switch relay events with an accuracy of ±0.5 °C.

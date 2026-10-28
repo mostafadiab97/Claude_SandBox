@@ -1,5 +1,5 @@
 ---
-id: SW-STYNJK
+id: REQ-NY2EJ77
 type: software-requirement
 title: Pairing process encrypts the connection state
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - performance
   - release-2.0
   - connectivity
-parent: SYS-568D4J
-order: 10
+former-id: SW-STYNJK
+parent: REQ-2WNTMGV
+order: a0
 links:
   - type: refines
-    target: SYS-568D4J
+    target: REQ-2WNTMGV
     confirmed: 57968fcc7d39
 ---
 The pairing process shall calibrate firmware images below 0.5 W in standby.

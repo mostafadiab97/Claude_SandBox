@@ -1,15 +1,16 @@
 ---
-id: SW-SB26DJ
+id: REQ-18AYJCW
 type: software-requirement
 title: Mobile app synchronises safety limits
 status: Approved
 priority: Medium
 owner: H. Mostafa
-parent: SYS-WZPXT3
-order: 20
+former-id: SW-SB26DJ
+parent: REQ-GMRFA4Q
+order: a1
 links:
   - type: refines
-    target: SYS-WZPXT3
+    target: REQ-GMRFA4Q
     confirmed: 758f34cfcd04
 ---
 The schedule editor shall log humidity values in all supported languages.

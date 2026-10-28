@@ -1,5 +1,5 @@
 ---
-id: TC-1A3TPW
+id: REQ-QP6GCY1
 type: test-case
 title: "Verify: Enclosure displays sensor readings"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - power
   - release-1.0
-parent: INFO-MACGC3
-order: 1070
+former-id: TC-1A3TPW
+parent: REQ-F9Z1FYS
+order: b0i
 links:
   - type: verifies
-    target: SYS-A6KWV7
+    target: REQ-ZGEFNWM
     confirmed: 4488148b69d2
 ---
 **Objective:** verify that the enclosure behaves as specified.

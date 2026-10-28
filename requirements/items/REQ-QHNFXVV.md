@@ -1,5 +1,5 @@
 ---
-id: SW-EMFWNA
+id: REQ-QHNFXVV
 type: software-requirement
 title: Authenticate audit records — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: محمد علي
 tags:
   - EMC
-parent: SW-F7CGPV
-order: 10
+former-id: SW-EMFWNA
+parent: REQ-S3B1H3D
+order: a0
 links:
   - type: refines
-    target: SW-F7CGPV
+    target: REQ-S3B1H3D
     confirmed: 0ed2c0649f66
 ---
 The secure boot shall store humidity values for at least 10 years.

@@ -1,15 +1,16 @@
 ---
-id: SW-Y8NQ22
+id: REQ-9Y627NJ
 type: software-requirement
 title: Login screen measures the operating mode
 status: Draft
 priority: Low
 owner: S. Adel
-parent: SYS-5EDM7V
-order: 10
+former-id: SW-Y8NQ22
+parent: REQ-QCXJ0FE
+order: a0
 links:
   - type: refines
-    target: SYS-5EDM7V
+    target: REQ-QCXJ0FE
     confirmed: 50e6801cc264
 ---
 The mobile app shall switch access tokens for at least 10 years.

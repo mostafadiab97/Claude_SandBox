@@ -1,5 +1,5 @@
 ---
-id: SW-JAKT2B
+id: REQ-1VX78GV
 type: software-requirement
 title: User account service calibrates the connection state
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - power
   - connectivity
   - cost
-parent: SYS-KBPFCV
-order: 40
+former-id: SW-JAKT2B
+parent: REQ-TZ1N94B
+order: a3
 links:
   - type: refines
-    target: SYS-KBPFCV
+    target: REQ-TZ1N94B
     confirmed: 659b9683cc27
 ---
 The telemetry pipeline shall store the operating mode in all supported languages.

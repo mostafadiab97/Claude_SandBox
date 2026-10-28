@@ -1,5 +1,5 @@
 ---
-id: TC-BY5FJP
+id: REQ-R0XZXAJ
 type: test-case
 title: "Verify: Zone valve reports energy consumption"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - connectivity
   - security
   - customer-request
-parent: INFO-MS9DAG
-order: 570
+former-id: TC-BY5FJP
+parent: REQ-XGWSK2K
+order: au
 links:
   - type: verifies
-    target: SYS-N8A6YS
+    target: REQ-0QHEDAH
     confirmed: d0b8c4d6001b
   - type: verifies
-    target: SW-TGE2C7
+    target: REQ-FAJCE2B
     confirmed: 3d19be192f78
 ---
 **Objective:** verify that the zone valve behaves as specified.

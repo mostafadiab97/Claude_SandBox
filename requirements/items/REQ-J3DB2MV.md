@@ -1,5 +1,5 @@
 ---
-id: HW-QQKQYS
+id: REQ-J3DB2MV
 type: hardware-requirement
 title: User account service logs the connection state
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - cost
   - release-1.0
   - power
-parent: SYS-XRA360
-order: 20
+former-id: HW-QQKQYS
+parent: REQ-A8A09WQ
+order: a1
 links:
   - type: refines
-    target: SYS-XRA360
+    target: REQ-A8A09WQ
     confirmed: 908f575295da
 ---
 The cloud backend shall encrypt the set point when the network is unavailable.

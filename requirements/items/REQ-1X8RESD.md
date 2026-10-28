@@ -1,5 +1,5 @@
 ---
-id: SYS-RBHXPF
+id: REQ-1X8RESD
 type: system-requirement
 title: Backlight synchronises user preferences
 status: Obsolete
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - power
   - cost
-parent: INFO-PDR6FV
-order: 1410
+former-id: SYS-RBHXPF
+parent: REQ-2ZA2TRZ
+order: b1G
 links:
   - type: refines
-    target: STK-HH6ZNR
+    target: REQ-PPDBMB4
     confirmed: caa77fe9df1c
 ---
 The backlight shall report access tokens in under 3 s.

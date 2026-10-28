@@ -1,5 +1,5 @@
 ---
-id: TC-4TC8EY
+id: REQ-34SH8QN
 type: test-case
 title: "Verify: Heating controller authenticates the connection state"
 status: Review
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - regulatory
   - EMC
-parent: INFO-MS9DAG
-order: 1410
+former-id: TC-4TC8EY
+parent: REQ-XGWSK2K
+order: b1G
 links:
   - type: verifies
-    target: SYS-A4MNF7
+    target: REQ-DMYSH81
     confirmed: 59d89f268e28
 ---
 **Objective:** verify that the heating controller behaves as specified.

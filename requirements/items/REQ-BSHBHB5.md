@@ -1,5 +1,5 @@
 ---
-id: SW-8EV7YV
+id: REQ-BSHBHB5
 type: software-requirement
 title: Heating controller restores the room temperature
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - cost
   - connectivity
-parent: SYS-JZ73HV
-order: 20
+former-id: SW-8EV7YV
+parent: REQ-X50DJJ0
+order: a1
 links:
   - type: refines
-    target: SYS-JZ73HV
+    target: REQ-X50DJJ0
     confirmed: 985c6ecc37fa
 ---
 The heat pump driver shall calibrate energy consumption without user interaction.

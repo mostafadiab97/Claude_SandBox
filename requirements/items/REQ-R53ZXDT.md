@@ -1,15 +1,16 @@
 ---
-id: SYS-EK761P
+id: REQ-R53ZXDT
 type: system-requirement
 title: OTA server displays user preferences
 status: Draft
 priority: Medium
 owner: Y. Saber
-parent: INFO-YV5EZD
-order: 1290
+former-id: SYS-EK761P
+parent: REQ-RE9ZKHF
+order: b14
 links:
   - type: refines
-    target: STK-JFBQPS
+    target: REQ-A8X8PTB
     confirmed: 5027ee1822eb
 ---
 The OTA server shall display energy consumption without user interaction.

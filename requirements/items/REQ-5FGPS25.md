@@ -1,18 +1,19 @@
 ---
-id: TC-CFHX19
+id: REQ-5FGPS25
 type: test-case
 title: "Verify: Backlight switchs the operating mode"
 status: Obsolete
 priority: Medium
 owner: H. Mostafa
-parent: INFO-HTSZ15
-order: 350
+former-id: TC-CFHX19
+parent: REQ-Y9VHHKA
+order: aY
 links:
   - type: verifies
-    target: SYS-BR6W9Y
+    target: REQ-FT2D5DC
     confirmed: 2465c089a968
   - type: verifies
-    target: SW-NCA6J1
+    target: REQ-ZGQDR0K
     confirmed: 4256d1529958
 ---
 **Objective:** verify that the backlight behaves as specified.

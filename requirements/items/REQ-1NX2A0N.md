@@ -1,14 +1,15 @@
 ---
-id: TC-2FCJ24
+id: REQ-1NX2A0N
 type: test-case
 title: "Verify: Touch display stores audit records"
 status: Review
 owner: K. Tanaka
-parent: INFO-HTSZ15
-order: 1390
+former-id: TC-2FCJ24
+parent: REQ-Y9VHHKA
+order: b1E
 links:
   - type: verifies
-    target: SYS-QFCX4V
+    target: REQ-Y9PF6ZF
     confirmed: 0a633adec0ec
 ---
 **Objective:** verify that the touch display behaves as specified.

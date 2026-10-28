@@ -1,15 +1,16 @@
 ---
-id: HW-8EDV6R
+id: REQ-NP838SH
 type: hardware-requirement
 title: Status LED validates audit records
 status: Approved
 tags:
   - performance
-parent: SYS-JKDR8H
-order: 40
+former-id: HW-8EDV6R
+parent: REQ-5KEMH0M
+order: a3
 links:
   - type: refines
-    target: SYS-JKDR8H
+    target: REQ-5KEMH0M
     confirmed: 85d240523d89
 ---
 The backlight shall limit sensor readings below 0.5 W in standby.

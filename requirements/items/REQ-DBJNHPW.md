@@ -1,5 +1,5 @@
 ---
-id: SW-C2FNJX
+id: REQ-DBJNHPW
 type: software-requirement
 title: Bluetooth LE link calibrates user preferences
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - i18n
   - cost
-parent: SYS-VW03TF
-order: 20
+former-id: SW-C2FNJX
+parent: REQ-XB3AB3J
+order: a1
 links:
   - type: refines
-    target: SYS-VW03TF
+    target: REQ-XB3AB3J
     confirmed: 820dbe358ffe
 ---
 The Wi-Fi module shall log schedule entries below 0.5 W in standby.

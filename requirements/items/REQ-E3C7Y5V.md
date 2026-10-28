@@ -1,5 +1,5 @@
 ---
-id: IF-C1ZAN9
+id: REQ-E3C7Y5V
 type: interface-requirement
 title: "Signal 191: audit records"
 status: Approved
@@ -7,7 +7,8 @@ priority: Medium
 owner: J. Müller
 tags:
   - performance
-parent: INFO-2TM0JP
-order: 1910
+former-id: IF-C1ZAN9
+parent: REQ-RJ0KHPT
+order: b24
 ---
 Interface signal number 191.

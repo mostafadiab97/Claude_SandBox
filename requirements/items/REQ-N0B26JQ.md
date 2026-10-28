@@ -1,5 +1,5 @@
 ---
-id: TC-PC4EK6
+id: REQ-N0B26JQ
 type: test-case
 title: "Verify: Home dashboard limits schedule entries"
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 owner: Y. Saber
 tags:
   - i18n
-parent: INFO-J0FETE
-order: 120
+former-id: TC-PC4EK6
+parent: REQ-WR5ZJN9
+order: aB
 links:
   - type: verifies
-    target: SYS-M72RBF
+    target: REQ-J3F7ENB
     confirmed: 9dbd45a382a2
 ---
 **Objective:** verify that the home dashboard behaves as specified.

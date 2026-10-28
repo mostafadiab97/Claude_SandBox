@@ -1,5 +1,5 @@
 ---
-id: TC-3K6B01
+id: REQ-4VS9YGD
 type: test-case
 title: "Verify: Status LED switchs firmware images"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - cost
-parent: INFO-HTSZ15
-order: 330
+former-id: TC-3K6B01
+parent: REQ-Y9VHHKA
+order: aW
 links:
   - type: verifies
-    target: SYS-EZ51ES
+    target: REQ-D27CYAA
     confirmed: e09a5200d69b
 ---
 **Objective:** verify that the status LED behaves as specified.

@@ -1,14 +1,15 @@
 ---
-id: DE-NR2M8E
+id: REQ-NQ76AGT
 type: design-element
 title: Module heating_controller_88
 status: Approved
 priority: Medium
-parent: SW-PZFQGD
-order: 10
+former-id: DE-NR2M8E
+parent: REQ-YTFG90G
+order: a0
 links:
   - type: implements
-    target: SW-PZFQGD
+    target: REQ-YTFG90G
     confirmed: 691fb7a4cd9f
 ---
 Implemented in `src/heat/heating_controller.c`.

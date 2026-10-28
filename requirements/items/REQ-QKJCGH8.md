@@ -1,17 +1,18 @@
 ---
-id: TC-5V70HD
+id: REQ-QKJCGH8
 type: test-case
 title: "Verify: OTA server calibrates the room temperature"
 status: Approved
 priority: Medium
-parent: INFO-7P4D8D
-order: 780
+former-id: TC-5V70HD
+parent: REQ-8351896
+order: b0F
 links:
   - type: verifies
-    target: SYS-YWZ4G6
+    target: REQ-XJ2KRZB
     confirmed: af8070b2a3c3
   - type: verifies
-    target: SW-NSQJT0
+    target: REQ-71X6D8D
     confirmed: d99755f8771b
 ---
 **Objective:** verify that the OTA server behaves as specified.

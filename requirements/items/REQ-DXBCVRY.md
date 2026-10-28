@@ -1,5 +1,5 @@
 ---
-id: SW-HWXS3J
+id: REQ-DXBCVRY
 type: software-requirement
 title: Menu system limits schedule entries
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - ux
   - accessibility
-parent: SYS-JWK81Y
-order: 30
+former-id: SW-HWXS3J
+parent: REQ-2QACV9V
+order: a2
 links:
   - type: refines
-    target: SYS-JWK81Y
+    target: REQ-2QACV9V
     confirmed: 8656508483c4
 ---
 The backlight shall store humidity values for up to 8 zones.

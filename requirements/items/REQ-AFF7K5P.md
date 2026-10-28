@@ -1,5 +1,5 @@
 ---
-id: HW-4V1CMX
+id: REQ-AFF7K5P
 type: hardware-requirement
 title: Encryption layer authenticates the operating mode
 status: Obsolete
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - i18n
   - regulatory
-parent: SYS-01CMP1
-order: 30
+former-id: HW-4V1CMX
+parent: REQ-R8WGBYX
+order: a2
 links:
   - type: refines
-    target: SYS-01CMP1
+    target: REQ-R8WGBYX
     confirmed: 86791af43201
 ---
 The secure boot shall switch audit records in under 3 s.

@@ -1,5 +1,5 @@
 ---
-id: TC-BZFCE0
+id: REQ-QD6CMPQ
 type: test-case
 title: "Verify: Login screen calibrates humidity values"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - accessibility
-parent: INFO-J0FETE
-order: 600
+former-id: TC-BZFCE0
+parent: REQ-WR5ZJN9
+order: ax
 links:
   - type: verifies
-    target: SYS-Y9J3XR
+    target: REQ-39BK840
     confirmed: e9321a9a2b2f
 ---
 **Objective:** verify that the login screen behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: SW-V9FFTN
+id: REQ-XADR38R
 type: software-requirement
 title: Home dashboard detects safety limits
 status: Obsolete
 priority: Low
 owner: محمد علي
-parent: SYS-XYBVJ4
-order: 30
+former-id: SW-V9FFTN
+parent: REQ-CJSXPH6
+order: a2
 links:
   - type: refines
-    target: SYS-XYBVJ4
+    target: REQ-CJSXPH6
     confirmed: 7d080417271e
 ---
 The notification service shall measure the operating mode in under 3 s.

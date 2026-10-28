@@ -1,5 +1,5 @@
 ---
-id: SW-TD25S3
+id: REQ-7AEKGXP
 type: software-requirement
 title: Authenticate access tokens — detail
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - regulatory
   - cost
-parent: SW-7GK72R
-order: 10
+former-id: SW-TD25S3
+parent: REQ-NNWWSVH
+order: a0
 links:
   - type: refines
-    target: SW-7GK72R
+    target: REQ-NNWWSVH
     confirmed: b5dc324db8d2
 ---
 The pairing process shall display the operating mode below 0.5 W in standby.

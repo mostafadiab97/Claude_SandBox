@@ -1,14 +1,15 @@
 ---
-id: TC-MWKBSC
+id: REQ-ND45HE0
 type: test-case
 title: Hub verification 22
 status: Review
 priority: Medium
-parent: INFO-ECHASH
-order: 310
+former-id: TC-MWKBSC
+parent: REQ-6H15AV2
+order: aU
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

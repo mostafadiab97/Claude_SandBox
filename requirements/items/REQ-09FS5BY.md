@@ -1,18 +1,19 @@
 ---
-id: TC-J003SH
+id: REQ-09FS5BY
 type: test-case
 title: "Verify: Telemetry pipeline measures the connection state"
 status: Review
 priority: Medium
 owner: K. Tanaka
-parent: INFO-7P4D8D
-order: 1190
+former-id: TC-J003SH
+parent: REQ-8351896
+order: b0u
 links:
   - type: verifies
-    target: SYS-V9TTZK
+    target: REQ-W2575G6
     confirmed: 19606134e5ee
   - type: verifies
-    target: SW-MFPVJY
+    target: REQ-X3Z0G5P
     confirmed: cae59bc43b0e
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

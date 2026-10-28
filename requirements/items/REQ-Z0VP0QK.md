@@ -1,5 +1,5 @@
 ---
-id: DE-3FF89G
+id: REQ-Z0VP0QK
 type: design-element
 title: Design element with a code block
 status: Approved
@@ -7,8 +7,9 @@ tags:
   - i18n
   - accessibility
   - release-2.0
-parent: INFO-ECHASH
-order: 80
+former-id: DE-3FF89G
+parent: REQ-6H15AV2
+order: a7
 ---
 ```c
 int regulate(float setpoint, float measured) {

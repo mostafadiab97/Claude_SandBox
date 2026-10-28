@@ -1,5 +1,5 @@
 ---
-id: SW-NTME8A
+id: REQ-JNZ86E4
 type: software-requirement
 title: OTA server notifys the room temperature
 status: Review
@@ -7,11 +7,12 @@ priority: High
 tags:
   - i18n
   - customer-request
-parent: SYS-6MTAQR
-order: 30
+former-id: SW-NTME8A
+parent: REQ-H1HVVK4
+order: a2
 links:
   - type: refines
-    target: SYS-6MTAQR
+    target: REQ-H1HVVK4
     confirmed: 76300eb27743
 ---
 The device registry shall store sensor readings within 200 ms.

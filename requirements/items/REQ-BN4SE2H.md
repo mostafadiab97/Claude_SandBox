@@ -1,5 +1,5 @@
 ---
-id: SW-B3GV8K
+id: REQ-BN4SE2H
 type: software-requirement
 title: User account service encrypts relay events
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 tags:
   - power
   - EMC
-parent: SYS-D7FGDK
-order: 10
+former-id: SW-B3GV8K
+parent: REQ-B8N38VD
+order: a0
 links:
   - type: refines
-    target: SYS-D7FGDK
+    target: REQ-B8N38VD
     confirmed: bf329a941699
 ---
 The telemetry pipeline shall report the set point without user interaction.

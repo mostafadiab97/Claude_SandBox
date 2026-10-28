@@ -1,15 +1,16 @@
 ---
-id: SW-85JWTC
+id: REQ-ZJNK4WK
 type: software-requirement
 title: Encryption layer validates sensor readings
 status: Approved
 priority: Medium
 owner: N. Kamal
-parent: SYS-5WJBCW
-order: 10
+former-id: SW-85JWTC
+parent: REQ-GQZG5M8
+order: a0
 links:
   - type: refines
-    target: SYS-5WJBCW
+    target: REQ-GQZG5M8
     confirmed: cd6c90a42873
 ---
 The watchdog shall switch access tokens below 0.5 W in standby.

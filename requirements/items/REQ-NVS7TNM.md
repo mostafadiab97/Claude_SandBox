@@ -1,5 +1,5 @@
 ---
-id: TC-X3AYM5
+id: REQ-NVS7TNM
 type: test-case
 title: "Verify: Power supply stores the room temperature"
 status: Review
@@ -9,11 +9,12 @@ tags:
   - ux
   - accessibility
   - i18n
-parent: INFO-MACGC3
-order: 130
+former-id: TC-X3AYM5
+parent: REQ-F9Z1FYS
+order: aC
 links:
   - type: verifies
-    target: SYS-1ZDBX0
+    target: REQ-S3STR5Z
     confirmed: 665bbcd834f8
 ---
 **Objective:** verify that the power supply behaves as specified.

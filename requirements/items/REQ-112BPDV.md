@@ -1,16 +1,17 @@
 ---
-id: SW-SVW156
+id: REQ-112BPDV
 type: software-requirement
 title: Zone valve displays the operating mode
 status: Approved
 tags:
   - regulatory
   - power
-parent: SYS-3RSNVX
-order: 30
+former-id: SW-SVW156
+parent: REQ-Z4CVF8M
+order: a2
 links:
   - type: refines
-    target: SYS-3RSNVX
+    target: REQ-Z4CVF8M
     confirmed: cb6d695118df
 ---
 The zone valve shall limit firmware images using AES-256-GCM.

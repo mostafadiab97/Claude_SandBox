@@ -1,15 +1,16 @@
 ---
-id: SW-BQNHHE
+id: REQ-C25ZH15
 type: software-requirement
 title: Switch the operating mode — detail
 status: Draft
 priority: High
 owner: S. Adel
-parent: SW-YP5HHR
-order: 10
+former-id: SW-BQNHHE
+parent: REQ-8FW3RQJ
+order: a0
 links:
   - type: refines
-    target: SW-YP5HHR
+    target: REQ-8FW3RQJ
     confirmed: db11b7ac541a
 ---
 The watchdog shall calibrate schedule entries using AES-256-GCM.

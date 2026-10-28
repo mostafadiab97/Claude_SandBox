@@ -1,15 +1,16 @@
 ---
-id: SW-G54R8V
+id: REQ-32Z74PJ
 type: software-requirement
 title: Encryption layer displays sensor readings
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: SYS-8JRVNP
-order: 40
+former-id: SW-G54R8V
+parent: REQ-WN9V1AY
+order: a3
 links:
   - type: refines
-    target: SYS-8JRVNP
+    target: REQ-WN9V1AY
     confirmed: 947f4568b2cf
 ---
 The encryption layer shall measure the room temperature when the network is unavailable.

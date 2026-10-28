@@ -1,5 +1,5 @@
 ---
-id: DE-S14VF3
+id: REQ-RJRYJBH
 type: design-element
 title: Module telemetry_pipeline_16
 status: Approved
@@ -7,11 +7,12 @@ owner: محمد علي
 tags:
   - ux
   - accessibility
-parent: SW-1DHCGS
-order: 10
+former-id: DE-S14VF3
+parent: REQ-YGF56RH
+order: a0
 links:
   - type: implements
-    target: SW-1DHCGS
+    target: REQ-YGF56RH
     confirmed: 7c536d464892
 ---
 Implemented in `src/cloud/telemetry_pipeline.c`.

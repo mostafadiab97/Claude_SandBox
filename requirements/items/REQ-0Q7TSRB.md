@@ -1,5 +1,5 @@
 ---
-id: SW-17SVMP
+id: REQ-0Q7TSRB
 type: software-requirement
 title: Login screen limits humidity values
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - cost
   - security
   - regulatory
-parent: SYS-HPT8TA
-order: 10
+former-id: SW-17SVMP
+parent: REQ-JYNEA7Y
+order: a0
 links:
   - type: refines
-    target: SYS-HPT8TA
+    target: REQ-JYNEA7Y
     confirmed: 55ed01be7cc1
 ---
 The schedule editor shall restore the operating mode using AES-256-GCM.

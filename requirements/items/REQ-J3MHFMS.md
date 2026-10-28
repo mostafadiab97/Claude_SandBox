@@ -1,5 +1,5 @@
 ---
-id: IF-GGMNJS
+id: REQ-J3MHFMS
 type: interface-requirement
 title: "Signal 618: firmware images"
 status: Review
@@ -7,7 +7,8 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - safety
-parent: INFO-2TM0JP
-order: 6180
+former-id: IF-GGMNJS
+parent: REQ-RJ0KHPT
+order: b8x
 ---
 Interface signal number 618.

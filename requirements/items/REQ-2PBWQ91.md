@@ -1,15 +1,16 @@
 ---
-id: TC-WHM8MZ
+id: REQ-2PBWQ91
 type: test-case
 title: "Verify: Schedule editor validates sensor readings"
 status: Draft
 tags:
   - customer-request
-parent: INFO-J0FETE
-order: 160
+former-id: TC-WHM8MZ
+parent: REQ-WR5ZJN9
+order: aF
 links:
   - type: verifies
-    target: SYS-79RQTT
+    target: REQ-D25K9RZ
     confirmed: 3ba90f93afa0
 ---
 **Objective:** verify that the schedule editor behaves as specified.

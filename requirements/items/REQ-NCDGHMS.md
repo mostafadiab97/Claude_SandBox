@@ -1,5 +1,5 @@
 ---
-id: IF-9Q61MM
+id: REQ-NCDGHMS
 type: interface-requirement
 title: Synchronise user preferences — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: É. Laurent
 tags:
   - accessibility
-parent: IF-Z9F3BP
-order: 10
+former-id: IF-9Q61MM
+parent: REQ-TA8S9E5
+order: a0
 links:
   - type: refines
-    target: IF-Z9F3BP
+    target: REQ-TA8S9E5
     confirmed: 91e36a51d578
 ---
 The main PCB shall synchronise access tokens for at least 10 years.

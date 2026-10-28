@@ -1,5 +1,5 @@
 ---
-id: TC-4K9QDR
+id: REQ-QBWTQ0G
 type: test-case
 title: "Verify: Boiler interface detects error conditions"
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 tags:
   - security
   - EMC
-parent: INFO-MS9DAG
-order: 1540
+former-id: TC-4K9QDR
+parent: REQ-XGWSK2K
+order: b1T
 links:
   - type: verifies
-    target: SYS-V1TPCM
+    target: REQ-7HPR7GZ
     confirmed: 66b004f91487
 ---
 **Objective:** verify that the boiler interface behaves as specified.

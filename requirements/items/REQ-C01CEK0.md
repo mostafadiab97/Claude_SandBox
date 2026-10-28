@@ -1,5 +1,5 @@
 ---
-id: SW-7RW0QJ
+id: REQ-C01CEK0
 type: software-requirement
 title: Secure boot stores schedule entries
 status: Review
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - regulatory
   - release-2.0
-parent: SYS-21RSPB
-order: 30
+former-id: SW-7RW0QJ
+parent: REQ-1NZ47K3
+order: a2
 links:
   - type: refines
-    target: SYS-21RSPB
+    target: REQ-1NZ47K3
     confirmed: 6d6c12313a2b
 ---
 The watchdog shall calibrate the room temperature with an accuracy of ±0.5 °C.

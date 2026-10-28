@@ -1,5 +1,5 @@
 ---
-id: SW-2WMVD4
+id: REQ-BE3PYN1
 type: software-requirement
 title: Regulation loop notifys user preferences
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - release-2.0
   - customer-request
-parent: SYS-GWH086
-order: 20
+former-id: SW-2WMVD4
+parent: REQ-J1CKTFG
+order: a2
 links:
   - type: refines
-    target: SYS-GWH086
+    target: REQ-J1CKTFG
     confirmed: 65adf430bd97
 ---
 The heating controller shall display safety limits after a power loss.

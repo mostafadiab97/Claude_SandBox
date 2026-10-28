@@ -1,5 +1,5 @@
 ---
-id: SYS-KZYDJR
+id: REQ-YCQG7EF
 type: system-requirement
 title: Over-temperature monitor logs the connection state
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - ux
   - customer-request
-parent: INFO-0229G8
-order: 90
+former-id: SYS-KZYDJR
+parent: REQ-H9113WA
+order: a8
 links:
   - type: refines
-    target: STK-92HHJV
+    target: REQ-Z7761RK
     confirmed: 260bd01800c6
 ---
 The over-temperature monitor shall detect safety limits after a power loss.

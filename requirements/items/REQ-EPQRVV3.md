@@ -1,5 +1,5 @@
 ---
-id: SW-XYJT2J
+id: REQ-EPQRVV3
 type: software-requirement
 title: Status LED reports the operating mode
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: A. Hassan
 tags:
   - power
-parent: SYS-QKZP7T
-order: 20
+former-id: SW-XYJT2J
+parent: REQ-RBJJVJD
+order: a1
 links:
   - type: refines
-    target: SYS-QKZP7T
+    target: REQ-RBJJVJD
     confirmed: a1c30d626e9c
 ---
 The status LED shall calibrate humidity values for up to 8 zones.

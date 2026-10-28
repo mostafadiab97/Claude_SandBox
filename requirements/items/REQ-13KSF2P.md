@@ -1,5 +1,5 @@
 ---
-id: IF-3BD0AX
+id: REQ-13KSF2P
 type: interface-requirement
 title: "Signal 281: access tokens"
 status: Approved
@@ -8,7 +8,8 @@ owner: N. Kamal
 tags:
   - connectivity
   - cost
-parent: INFO-2TM0JP
-order: 2810
+former-id: IF-3BD0AX
+parent: REQ-RJ0KHPT
+order: b3W
 ---
 Interface signal number 281.

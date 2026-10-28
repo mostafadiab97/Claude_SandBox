@@ -1,14 +1,15 @@
 ---
-id: DE-VECNPG
+id: REQ-ZCGB3S4
 type: design-element
 title: Module menu_system_84
 status: Approved
 owner: N. Kamal
-parent: SW-XAMQJ8
-order: 10
+former-id: DE-VECNPG
+parent: REQ-GAJ9CWY
+order: a0
 links:
   - type: implements
-    target: SW-XAMQJ8
+    target: REQ-GAJ9CWY
     confirmed: 52164cbbe6fc
 ---
 Implemented in `src/ui/menu_system.c`.

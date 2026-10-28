@@ -1,5 +1,5 @@
 ---
-id: TC-Q1RPFF
+id: REQ-5PYBRY8
 type: test-case
 title: "Verify: Login screen detects safety limits"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - release-2.0
   - i18n
   - safety
-parent: INFO-J0FETE
-order: 470
+former-id: TC-Q1RPFF
+parent: REQ-WR5ZJN9
+order: ak
 links:
   - type: verifies
-    target: SYS-MJMPET
+    target: REQ-HZEQDMX
     confirmed: db16e70cbc4d
   - type: verifies
-    target: SW-PW0K7E
+    target: REQ-9322TRE
     confirmed: fd1c6a5bf142
 ---
 **Objective:** verify that the login screen behaves as specified.

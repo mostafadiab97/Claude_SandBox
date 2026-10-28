@@ -1,5 +1,5 @@
 ---
-id: IF-Y689TD
+id: REQ-QHYY09G
 type: interface-requirement
 title: Encrypt humidity values — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - connectivity
   - safety
-parent: IF-P3QXCY
-order: 10
+former-id: IF-Y689TD
+parent: REQ-82S3Y91
+order: a0
 links:
   - type: refines
-    target: IF-P3QXCY
+    target: REQ-82S3Y91
     confirmed: 825318d21aa7
 ---
 The status LED shall measure safety limits using AES-256-GCM.

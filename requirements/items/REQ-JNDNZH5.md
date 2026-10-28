@@ -1,5 +1,5 @@
 ---
-id: SW-7G556P
+id: REQ-JNDNZH5
 type: software-requirement
 title: Status LED restores humidity values
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - release-2.0
-parent: SYS-VN8P2R
-order: 30
+former-id: SW-7G556P
+parent: REQ-Z7KQTPA
+order: a2
 links:
   - type: refines
-    target: SYS-VN8P2R
+    target: REQ-Z7KQTPA
     confirmed: 09343cc43a29
 ---
 The status LED shall switch the operating mode using AES-256-GCM.

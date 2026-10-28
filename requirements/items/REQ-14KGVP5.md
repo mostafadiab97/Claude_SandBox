@@ -1,15 +1,16 @@
 ---
-id: TC-1W7PCE
+id: REQ-14KGVP5
 type: test-case
 title: "Verify: Local API switchs firmware images"
 status: Draft
 priority: Medium
 owner: É. Laurent
-parent: INFO-F0M7VC
-order: 1170
+former-id: TC-1W7PCE
+parent: REQ-67RQXCK
+order: b0s
 links:
   - type: verifies
-    target: SYS-WYF7D8
+    target: REQ-9FPN2X9
     confirmed: 40dbdbb8a1de
 ---
 **Objective:** verify that the local API behaves as specified.

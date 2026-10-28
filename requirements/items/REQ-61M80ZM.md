@@ -1,14 +1,15 @@
 ---
-id: SW-7DNP7H
+id: REQ-61M80ZM
 type: software-requirement
 title: Zigbee radio calibrates error conditions
 status: Obsolete
 owner: K. Tanaka
-parent: SYS-Q1RCFN
-order: 20
+former-id: SW-7DNP7H
+parent: REQ-QG1H972
+order: a1
 links:
   - type: refines
-    target: SYS-Q1RCFN
+    target: REQ-QG1H972
     confirmed: 70b815b71c14
 ---
 The Bluetooth LE link shall report user preferences within 200 ms.

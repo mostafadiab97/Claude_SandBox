@@ -1,15 +1,16 @@
 ---
-id: SYS-S318HE
+id: REQ-HE392GV
 type: system-requirement
 title: Menu system reports sensor readings
 status: Draft
 priority: Medium
 owner: N. Kamal
-parent: INFO-PDR6FV
-order: 1700
+former-id: SYS-S318HE
+parent: REQ-2ZA2TRZ
+order: b1j
 links:
   - type: refines
-    target: STK-HH6ZNR
+    target: REQ-PPDBMB4
     confirmed: caa77fe9df1c
 ---
 The menu system shall calibrate firmware images for up to 8 zones.

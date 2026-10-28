@@ -1,15 +1,16 @@
 ---
-id: SW-T36R94
+id: REQ-HKPPWEW
 type: software-requirement
 title: Mobile app stores sensor readings
 status: Draft
 priority: High
 owner: محمد علي
-parent: SYS-HB2DW1
-order: 30
+former-id: SW-T36R94
+parent: REQ-156Z627
+order: a2
 links:
   - type: refines
-    target: SYS-HB2DW1
+    target: REQ-156Z627
     confirmed: c311446b8020
 ---
 The schedule editor shall limit relay events within 200 ms.

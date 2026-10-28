@@ -1,5 +1,5 @@
 ---
-id: IF-Q3FFK3
+id: REQ-QEYFXFJ
 type: interface-requirement
 title: Battery backup synchronises the set point
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - customer-request
   - EMC
   - security
-parent: SYS-76VDPG
-order: 10
+former-id: IF-Q3FFK3
+parent: REQ-1Y42YEX
+order: a0
 links:
   - type: refines
-    target: SYS-76VDPG
+    target: REQ-1Y42YEX
     confirmed: 6024967bb648
 ---
 The enclosure shall authenticate the set point after a power loss.

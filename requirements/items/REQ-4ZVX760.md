@@ -1,13 +1,14 @@
 ---
-id: IF-8G8YWM
+id: REQ-4ZVX760
 type: interface-requirement
 title: Cloud backend authenticates the operating mode
 status: Approved
-parent: SYS-C4HEZ6
-order: 30
+former-id: IF-8G8YWM
+parent: REQ-BF9Y5RT
+order: a2
 links:
   - type: refines
-    target: SYS-C4HEZ6
+    target: REQ-BF9Y5RT
     confirmed: d7ecad5f2748
 ---
 The telemetry pipeline shall calibrate the connection state for at least 10 years.

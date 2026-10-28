@@ -1,15 +1,16 @@
 ---
-id: HW-2GKWT6
+id: REQ-2TW0PY7
 type: hardware-requirement
 title: Boiler interface notifys safety limits
 status: Approved
 priority: Medium
 owner: L. Samir
-parent: SYS-6CT381
-order: 10
+former-id: HW-2GKWT6
+parent: REQ-22PQVV7
+order: a0
 links:
   - type: refines
-    target: SYS-6CT381
+    target: REQ-22PQVV7
     confirmed: cb9aa6a7b060
 ---
 The heating controller shall detect error conditions with an accuracy of ±0.5 °C.

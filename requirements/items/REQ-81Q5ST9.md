@@ -1,18 +1,19 @@
 ---
-id: TC-63K4F2
+id: REQ-81Q5ST9
 type: test-case
 title: "Verify: Menu system synchronises safety limits"
 status: Review
 priority: High
 owner: A. Hassan
-parent: INFO-HTSZ15
-order: 690
+former-id: TC-63K4F2
+parent: REQ-Y9VHHKA
+order: b06
 links:
   - type: verifies
-    target: SYS-SZGAP0
+    target: REQ-Z7EPBQ5
     confirmed: a7b5b694318d
   - type: verifies
-    target: SW-NRBXH7
+    target: REQ-QHXMEVA
     confirmed: 835c23fa180b
 ---
 **Objective:** verify that the menu system behaves as specified.

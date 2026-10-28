@@ -1,5 +1,5 @@
 ---
-id: IF-7QWWBK
+id: REQ-W24C8WV
 type: interface-requirement
 title: "Signal 190: user preferences"
 status: Draft
@@ -8,7 +8,8 @@ owner: É. Laurent
 tags:
   - cost
   - accessibility
-parent: INFO-2TM0JP
-order: 1900
+former-id: IF-7QWWBK
+parent: REQ-RJ0KHPT
+order: b23
 ---
 Interface signal number 190.

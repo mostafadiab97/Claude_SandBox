@@ -1,5 +1,5 @@
 ---
-id: TC-78JFCD
+id: REQ-PY9BHQT
 type: test-case
 title: "Verify: Watchdog restores humidity values"
 status: Draft
@@ -8,14 +8,15 @@ owner: L. Samir
 tags:
   - ux
   - release-1.0
-parent: INFO-Z4TW4B
-order: 990
+former-id: TC-78JFCD
+parent: REQ-K6FGAY0
+order: b0a
 links:
   - type: verifies
-    target: SYS-37F447
+    target: REQ-7ENS3YJ
     confirmed: ab26978cce76
   - type: verifies
-    target: SW-5P6W1P
+    target: REQ-0ZGTJW4
     confirmed: 97699e3cfebd
 ---
 **Objective:** verify that the watchdog behaves as specified.

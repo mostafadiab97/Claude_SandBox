@@ -1,15 +1,16 @@
 ---
-id: SW-JMFWC3
+id: REQ-ZNC8KEA
 type: software-requirement
 title: Encryption layer calibrates user preferences
 status: Obsolete
 priority: High
 owner: H. Mostafa
-parent: SYS-AB1WG2
-order: 20
+former-id: SW-JMFWC3
+parent: REQ-WQ6EFZQ
+order: a1
 links:
   - type: refines
-    target: SYS-AB1WG2
+    target: REQ-WQ6EFZQ
     confirmed: 70d3053751d1
 ---
 The watchdog shall restore access tokens with an accuracy of ±0.5 °C.

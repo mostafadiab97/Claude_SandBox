@@ -1,5 +1,5 @@
 ---
-id: SYS-5RDA7K
+id: REQ-85GMKSH
 type: system-requirement
 title: Tamper detection reports safety limits
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - ux
   - security
-parent: INFO-0229G8
-order: 80
+former-id: SYS-5RDA7K
+parent: REQ-H9113WA
+order: a7
 links:
   - type: refines
-    target: STK-JBY2BX
+    target: REQ-GCMD4T5
     confirmed: bcce6e51beb4
 ---
 The tamper detection shall encrypt access tokens for up to 8 zones.

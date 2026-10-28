@@ -1,5 +1,5 @@
 ---
-id: IF-7GP2CF
+id: REQ-ZQ2KXT6
 type: interface-requirement
 title: Zigbee radio validates relay events
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - cost
   - customer-request
-parent: SYS-P934M9
-order: 30
+former-id: IF-7GP2CF
+parent: REQ-12HB10G
+order: a2
 links:
   - type: refines
-    target: SYS-P934M9
+    target: REQ-12HB10G
     confirmed: dd9a2dec3b73
 ---
 The Bluetooth LE link shall measure audit records below 0.5 W in standby.

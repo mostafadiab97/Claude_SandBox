@@ -1,15 +1,16 @@
 ---
-id: IF-26V7TS
+id: REQ-6G2ZGCY
 type: interface-requirement
 title: Power supply switchs the operating mode
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: SYS-AYSZZY
-order: 10
+former-id: IF-26V7TS
+parent: REQ-P3JY3GX
+order: a0
 links:
   - type: refines
-    target: SYS-AYSZZY
+    target: REQ-P3JY3GX
     confirmed: 6829857dc6fd
 ---
 The power supply shall synchronise error conditions without user interaction.

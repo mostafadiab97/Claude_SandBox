@@ -1,5 +1,5 @@
 ---
-id: TC-5S3D8A
+id: REQ-6PKH6ZA
 type: test-case
 title: "Verify: User account service switchs the connection state"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - customer-request
   - performance
   - EMC
-parent: INFO-7P4D8D
-order: 670
+former-id: TC-5S3D8A
+parent: REQ-8351896
+order: b04
 links:
   - type: verifies
-    target: SYS-2NPFB8
+    target: REQ-5E4JPG7
     confirmed: 5220caa76f4b
   - type: verifies
-    target: SW-SV5WNT
+    target: REQ-T440D0C
     confirmed: 3601ce92e4e2
 ---
 **Objective:** verify that the user account service behaves as specified.

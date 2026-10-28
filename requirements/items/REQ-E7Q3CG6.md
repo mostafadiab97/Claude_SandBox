@@ -1,15 +1,16 @@
 ---
-id: HW-199SHX
+id: REQ-E7Q3CG6
 type: hardware-requirement
 title: Main PCB detects access tokens
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: SYS-467EA2
-order: 30
+former-id: HW-199SHX
+parent: REQ-SXVZTB3
+order: a2
 links:
   - type: refines
-    target: SYS-467EA2
+    target: REQ-SXVZTB3
     confirmed: 6026bb858910
 ---
 The power supply shall encrypt schedule entries after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: HW-7AAP3Y
+id: REQ-13QX62K
 type: hardware-requirement
 title: Measure the set point — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - connectivity
   - i18n
-parent: HW-4N8E0V
-order: 10
+former-id: HW-7AAP3Y
+parent: REQ-ABK39X1
+order: a0
 links:
   - type: refines
-    target: HW-4N8E0V
+    target: REQ-ABK39X1
     confirmed: 4c9980d2fba5
 ---
 The over-temperature monitor shall limit schedule entries at least once per minute.

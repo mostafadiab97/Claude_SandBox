@@ -1,5 +1,5 @@
 ---
-id: SW-0C148Q
+id: REQ-4BK3FWC
 type: software-requirement
 title: Watchdog validates the set point
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: N. Kamal
 tags:
   - ux
-parent: SYS-Y6AMBA
-order: 10
+former-id: SW-0C148Q
+parent: REQ-M8Y2DK0
+order: a0
 links:
   - type: refines
-    target: SYS-Y6AMBA
+    target: REQ-M8Y2DK0
     confirmed: 9d1ea6b10234
 ---
 The tamper detection shall measure the connection state at least once per minute.

@@ -1,14 +1,15 @@
 ---
-id: SW-Q124TV
+id: REQ-XAFP0V4
 type: software-requirement
 title: Notify energy consumption — detail
 status: Approved
 priority: Medium
-parent: SW-XD35BZ
-order: 10
+former-id: SW-Q124TV
+parent: REQ-EMATTKB
+order: a0
 links:
   - type: refines
-    target: SW-XD35BZ
+    target: REQ-EMATTKB
     confirmed: 2a84ec4789f1
 ---
 The regulation loop shall notify energy consumption after a power loss.

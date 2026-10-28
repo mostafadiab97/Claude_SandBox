@@ -1,5 +1,5 @@
 ---
-id: SW-Y1JN23
+id: REQ-BBS2WW5
 type: software-requirement
 title: Backlight restores relay events
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: N. Kamal
 tags:
   - connectivity
-parent: SYS-VFV0E7
-order: 10
+former-id: SW-Y1JN23
+parent: REQ-8S39EJD
+order: a0
 links:
   - type: refines
-    target: SYS-VFV0E7
+    target: REQ-8S39EJD
     confirmed: 846c545e5032
 ---
 The menu system shall authenticate schedule entries for up to 8 zones.

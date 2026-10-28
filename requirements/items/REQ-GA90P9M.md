@@ -1,15 +1,16 @@
 ---
-id: TC-F7NDES
+id: REQ-GA90P9M
 type: test-case
 title: "Verify: Notification service stores audit records"
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: INFO-J0FETE
-order: 610
+former-id: TC-F7NDES
+parent: REQ-WR5ZJN9
+order: ay
 links:
   - type: verifies
-    target: SYS-9QYAK6
+    target: REQ-DVYCFCN
     confirmed: 18bf33ce8071
 ---
 **Objective:** verify that the notification service behaves as specified.

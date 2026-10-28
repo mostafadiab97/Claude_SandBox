@@ -1,5 +1,5 @@
 ---
-id: TC-9Q2PAR
+id: REQ-40QCVBT
 type: test-case
 title: "Verify: Telemetry pipeline displays the set point"
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: M. Farouk
 tags:
   - accessibility
-parent: INFO-7P4D8D
-order: 1480
+former-id: TC-9Q2PAR
+parent: REQ-8351896
+order: b1N
 links:
   - type: verifies
-    target: SYS-X7Q0GZ
+    target: REQ-EP8W3RT
     confirmed: 1f0c64db8df4
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

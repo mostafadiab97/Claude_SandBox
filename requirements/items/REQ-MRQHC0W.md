@@ -1,5 +1,5 @@
 ---
-id: TC-4JG2S2
+id: REQ-MRQHC0W
 type: test-case
 title: "Regression: User account service synchronises the set point"
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - cost
   - security
-parent: INFO-ECHASH
-order: 1680
+former-id: TC-4JG2S2
+parent: REQ-6H15AV2
+order: b1h
 links:
   - type: verifies
-    target: SYS-J893M9
+    target: REQ-0MFPXB1
     confirmed: 6ba2be2cebf8
 ---
 **Objective:** verify that the device behaves as specified.

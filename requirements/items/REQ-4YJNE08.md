@@ -1,15 +1,16 @@
 ---
-id: SW-77W32Q
+id: REQ-4YJNE08
 type: software-requirement
 title: Zigbee radio authenticates relay events
 status: Draft
 priority: High
 owner: محمد علي
-parent: SYS-DT07VH
-order: 20
+former-id: SW-77W32Q
+parent: REQ-0XRM35H
+order: a1
 links:
   - type: refines
-    target: SYS-DT07VH
+    target: REQ-0XRM35H
     confirmed: 3a34a02e68b2
 ---
 The Zigbee radio shall display schedule entries below 0.5 W in standby.

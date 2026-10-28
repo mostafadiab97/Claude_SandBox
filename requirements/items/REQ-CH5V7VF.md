@@ -1,5 +1,5 @@
 ---
-id: SW-MVT1JX
+id: REQ-CH5V7VF
 type: software-requirement
 title: Encrypt the set point — detail
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - security
   - EMC
-parent: SW-54RD93
-order: 10
+former-id: SW-MVT1JX
+parent: REQ-2VQDWWS
+order: a0
 links:
   - type: refines
-    target: SW-54RD93
+    target: REQ-2VQDWWS
     confirmed: 8da42f132cf2
 ---
 The login screen shall synchronise the connection state without user interaction.

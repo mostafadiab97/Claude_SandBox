@@ -1,5 +1,5 @@
 ---
-id: DEF-KSXW1A
+id: REQ-Q0ZDG78
 type: defect
 title: "Defect: secure boot does not display humidity values"
 status: Draft
@@ -8,14 +8,15 @@ owner: A. Hassan
 tags:
   - safety
   - power
-parent: INFO-6QFMYN
-order: 20
+former-id: DEF-KSXW1A
+parent: REQ-1XKBKFE
+order: a1
 links:
   - type: relates-to
-    target: TC-Q0E7GZ
+    target: REQ-8NGVP88
     confirmed: 60cd3bff904f
   - type: relates-to
-    target: SYS-KF7ZE3
+    target: REQ-6PB57PX
     confirmed: 3dd7a8ccfac1
 ---
 Found during regression testing of build 2.1.19.

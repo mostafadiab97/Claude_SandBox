@@ -1,15 +1,16 @@
 ---
-id: TC-NB52G8
+id: REQ-6PRRXN9
 type: test-case
 title: "Verify: Pairing process authenticates user preferences"
 status: Review
 priority: Medium
 owner: J. Müller
-parent: INFO-F0M7VC
-order: 1340
+former-id: TC-NB52G8
+parent: REQ-67RQXCK
+order: b19
 links:
   - type: verifies
-    target: SYS-RAD6T2
+    target: REQ-CJT5KJQ
     confirmed: 05d37b4e999b
 ---
 **Objective:** verify that the pairing process behaves as specified.

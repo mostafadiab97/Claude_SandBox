@@ -1,15 +1,16 @@
 ---
-id: TC-GENX0F
+id: REQ-4RXAN5E
 type: test-case
 title: "Verify: Menu system synchronises access tokens"
 status: Approved
 priority: High
 owner: K. Tanaka
-parent: INFO-HTSZ15
-order: 950
+former-id: TC-GENX0F
+parent: REQ-Y9VHHKA
+order: b0W
 links:
   - type: verifies
-    target: SYS-J6PC66
+    target: REQ-F26X3E7
     confirmed: b91cd2a500bd
 ---
 **Objective:** verify that the menu system behaves as specified.

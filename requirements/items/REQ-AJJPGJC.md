@@ -1,5 +1,5 @@
 ---
-id: DE-7WFGV9
+id: REQ-AJJPGJC
 type: design-element
 title: Module login_screen_97
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - release-1.0
   - EMC
   - security
-parent: SW-JGAYGS
-order: 10
+former-id: DE-7WFGV9
+parent: REQ-3922FFG
+order: a0
 links:
   - type: implements
-    target: SW-JGAYGS
+    target: REQ-3922FFG
     confirmed: 1523bb419748
 ---
 Implemented in `src/app/login_screen.c`.

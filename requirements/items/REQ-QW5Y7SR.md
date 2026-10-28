@@ -1,5 +1,5 @@
 ---
-id: HW-39RQME
+id: REQ-QW5Y7SR
 type: hardware-requirement
 title: Zigbee radio calibrates relay events
 status: Obsolete
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - performance
   - cost
-parent: SYS-XT9RX8
-order: 20
+former-id: HW-39RQME
+parent: REQ-0WQ07SG
+order: a1
 links:
   - type: refines
-    target: SYS-XT9RX8
+    target: REQ-0WQ07SG
     confirmed: ba8e9786a00b
 ---
 The local API shall restore energy consumption with an accuracy of ±0.5 °C.

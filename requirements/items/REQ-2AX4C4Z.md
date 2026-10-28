@@ -1,5 +1,5 @@
 ---
-id: SW-EYRKXW
+id: REQ-2AX4C4Z
 type: software-requirement
 title: Deep hierarchy — level 3
 status: Approved
@@ -8,7 +8,8 @@ owner: K. Tanaka
 tags:
   - performance
   - release-2.0
-parent: SW-PVC6S4
-order: 10
+former-id: SW-EYRKXW
+parent: REQ-SNTNJPQ
+order: a0
 ---
 Level 3 of 10.

@@ -1,5 +1,5 @@
 ---
-id: TC-B6NW9B
+id: REQ-6YSFEMT
 type: test-case
 title: "Verify: Local API switchs access tokens"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - safety
   - customer-request
-parent: INFO-F0M7VC
-order: 1010
+former-id: TC-B6NW9B
+parent: REQ-67RQXCK
+order: b0c
 links:
   - type: verifies
-    target: SYS-32XAX6
+    target: REQ-WZ5RB4X
     confirmed: 2378f419d8e3
 ---
 **Objective:** verify that the local API behaves as specified.

@@ -1,18 +1,19 @@
 ---
-id: TC-M4J6MT
+id: REQ-PQ3X1SA
 type: test-case
 title: "Verify: Over-temperature monitor notifys firmware images"
 status: Draft
 tags:
   - customer-request
-parent: INFO-Z4TW4B
-order: 140
+former-id: TC-M4J6MT
+parent: REQ-K6FGAY0
+order: aD
 links:
   - type: verifies
-    target: SYS-KJ0P5E
+    target: REQ-MHAMGQ2
     confirmed: 877e6818b0de
   - type: verifies
-    target: SW-3W83V6
+    target: REQ-3DBXTZY
     confirmed: ae495b06e801
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

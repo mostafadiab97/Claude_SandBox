@@ -1,15 +1,16 @@
 ---
-id: HW-CXM94S
+id: REQ-3AC9E1Q
 type: hardware-requirement
 title: Synchronise the operating mode — detail
 status: Draft
 priority: High
 owner: L. Samir
-parent: HW-2DPEVJ
-order: 10
+former-id: HW-CXM94S
+parent: REQ-FWS2CHK
+order: a0
 links:
   - type: refines
-    target: HW-2DPEVJ
+    target: REQ-FWS2CHK
     confirmed: bafa9dced38d
 ---
 The relay board shall synchronise the connection state in all supported languages.

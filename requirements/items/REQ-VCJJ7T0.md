@@ -1,5 +1,5 @@
 ---
-id: SW-7NTG78
+id: REQ-VCJJ7T0
 type: software-requirement
 title: Pairing process reports audit records
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - release-1.0
   - customer-request
-parent: SYS-K61Y1H
-order: 30
+former-id: SW-7NTG78
+parent: REQ-PKDYEYJ
+order: a2
 links:
   - type: refines
-    target: SYS-K61Y1H
+    target: REQ-PKDYEYJ
     confirmed: 05248eb02fec
 ---
 The Bluetooth LE link shall store schedule entries after a power loss.

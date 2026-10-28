@@ -1,5 +1,5 @@
 ---
-id: DEF-9TQC0X
+id: REQ-Y1PKJPQ
 type: defect
 title: "Defect: OTA server does not encrypt access tokens"
 status: Approved
@@ -8,14 +8,15 @@ owner: N. Kamal
 tags:
   - connectivity
   - security
-parent: INFO-M91889
-order: 30
+former-id: DEF-9TQC0X
+parent: REQ-9FNWH0D
+order: a2
 links:
   - type: relates-to
-    target: TC-EPQAH9
+    target: REQ-6HDY0AY
     confirmed: 1a9d8f050c8d
   - type: relates-to
-    target: SYS-QEFT7B
+    target: REQ-VCPXGX6
     confirmed: aafd3f4bb931
 ---
 Found during regression testing of build 2.2.26.

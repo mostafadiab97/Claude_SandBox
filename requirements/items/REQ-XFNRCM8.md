@@ -1,15 +1,16 @@
 ---
-id: HW-5D4FNJ
+id: REQ-XFNRCM8
 type: hardware-requirement
 title: Bluetooth LE link switchs the connection state
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: SYS-B2837M
-order: 30
+former-id: HW-5D4FNJ
+parent: REQ-R0EZ7W0
+order: a2
 links:
   - type: refines
-    target: SYS-B2837M
+    target: REQ-R0EZ7W0
     confirmed: 53bb399bd946
 ---
 The local API shall notify the set point for up to 8 zones.

@@ -1,5 +1,5 @@
 ---
-id: SW-167N5N
+id: REQ-GB9WJWE
 type: software-requirement
 title: Over-temperature monitor reports energy consumption
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - power
   - ux
-parent: SYS-T2DEWW
-order: 10
+former-id: SW-167N5N
+parent: REQ-84GVBQD
+order: a0
 links:
   - type: refines
-    target: SYS-T2DEWW
+    target: REQ-84GVBQD
     confirmed: 4c2247349bae
 ---
 The watchdog shall store the connection state in under 3 s.

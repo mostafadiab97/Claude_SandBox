@@ -1,15 +1,16 @@
 ---
-id: HW-D7ZTT9
+id: REQ-EKS6B6A
 type: hardware-requirement
 title: Bluetooth LE link measures energy consumption
 status: Review
 priority: Low
 owner: S. Adel
-parent: SYS-1GR7M6
-order: 20
+former-id: HW-D7ZTT9
+parent: REQ-8K4Y908
+order: a1
 links:
   - type: refines
-    target: SYS-1GR7M6
+    target: REQ-8K4Y908
     confirmed: ccffd7b9a5e5
 ---
 The Wi-Fi module shall detect energy consumption when the network is unavailable.

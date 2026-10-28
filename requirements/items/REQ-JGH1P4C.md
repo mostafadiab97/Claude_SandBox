@@ -1,15 +1,16 @@
 ---
-id: IF-N7Z0B1
+id: REQ-JGH1P4C
 type: interface-requirement
 title: Calibrate firmware images — detail
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: IF-S0CSYN
-order: 10
+former-id: IF-N7Z0B1
+parent: REQ-MMKZRMT
+order: a0
 links:
   - type: refines
-    target: IF-S0CSYN
+    target: REQ-MMKZRMT
     confirmed: 401917873b7a
 ---
 The Wi-Fi module shall measure the operating mode in all supported languages.

@@ -1,5 +1,5 @@
 ---
-id: SW-JMAFCP
+id: REQ-NC3BZVX
 type: software-requirement
 title: Log error conditions — detail
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - ux
   - safety
   - regulatory
-parent: SW-5GY8XM
-order: 10
+former-id: SW-JMAFCP
+parent: REQ-T05N6MQ
+order: a0
 links:
   - type: refines
-    target: SW-5GY8XM
+    target: REQ-T05N6MQ
     confirmed: f78a2269928e
 ---
 The zone valve shall display the room temperature using AES-256-GCM.

@@ -1,15 +1,16 @@
 ---
-id: SYS-JR1SW0
+id: REQ-8KAKZXP
 type: system-requirement
 title: Relay board displays user preferences
 status: Approved
 priority: High
 owner: N. Kamal
-parent: INFO-A6P9A8
-order: 1730
+former-id: SYS-JR1SW0
+parent: REQ-CMCS31A
+order: b1m
 links:
   - type: refines
-    target: STK-JAQHJP
+    target: REQ-V8PT5BV
     confirmed: b0af11a5c3c2
 ---
 The relay board shall authenticate sensor readings when the network is unavailable.

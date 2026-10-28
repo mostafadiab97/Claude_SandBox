@@ -1,14 +1,15 @@
 ---
-id: TC-MKYFX5
+id: REQ-847SK9Z
 type: test-case
 title: "Regression: Zone valve displays the operating mode"
 status: Review
 priority: Low
-parent: INFO-ECHASH
-order: 890
+former-id: TC-MKYFX5
+parent: REQ-6H15AV2
+order: b0Q
 links:
   - type: verifies
-    target: SYS-ZQSPB3
+    target: REQ-7638CXD
     confirmed: c8c012d7096b
 ---
 **Objective:** verify that the device behaves as specified.

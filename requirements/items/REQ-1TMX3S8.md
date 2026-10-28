@@ -1,16 +1,17 @@
 ---
-id: IF-JE5TW7
+id: REQ-1TMX3S8
 type: interface-requirement
 title: Enclosure authenticates error conditions
 status: Draft
 priority: High
 tags:
   - i18n
-parent: SYS-RP1J10
-order: 20
+former-id: IF-JE5TW7
+parent: REQ-R9DRCP7
+order: a1
 links:
   - type: refines
-    target: SYS-RP1J10
+    target: REQ-R9DRCP7
     confirmed: bb8a4ae9c942
 ---
 The power supply shall limit safety limits within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: TC-DPJ856
+id: REQ-0GRVVME
 type: test-case
 title: "Verify: Heat pump driver synchronises energy consumption"
 status: Approved
@@ -7,14 +7,15 @@ owner: K. Tanaka
 tags:
   - connectivity
   - safety
-parent: INFO-MS9DAG
-order: 430
+former-id: TC-DPJ856
+parent: REQ-XGWSK2K
+order: ag
 links:
   - type: verifies
-    target: SYS-KR7GHB
+    target: REQ-DWD5W03
     confirmed: 8050d4028450
   - type: verifies
-    target: SW-TW2DF9
+    target: REQ-J10GYGS
     confirmed: 914d7cae9637
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

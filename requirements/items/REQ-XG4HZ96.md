@@ -1,19 +1,20 @@
 ---
-id: TC-TEB88Z
+id: REQ-XG4HZ96
 type: test-case
 title: "Verify: Encryption layer logs audit records"
 status: Review
 owner: J. Müller
 tags:
   - release-1.0
-parent: INFO-Z4TW4B
-order: 460
+former-id: TC-TEB88Z
+parent: REQ-K6FGAY0
+order: aj
 links:
   - type: verifies
-    target: SYS-JKF1QX
+    target: REQ-4Q67RJE
     confirmed: ff14b57eee23
   - type: verifies
-    target: SW-FJNHTZ
+    target: REQ-R3R7FXA
     confirmed: e5166e8743b5
 ---
 **Objective:** verify that the encryption layer behaves as specified.

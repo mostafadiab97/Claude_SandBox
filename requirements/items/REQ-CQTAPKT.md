@@ -1,5 +1,5 @@
 ---
-id: SW-3C3WHH
+id: REQ-CQTAPKT
 type: software-requirement
 title: Zigbee radio logs error conditions
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - ux
   - customer-request
-parent: SYS-DGDEYQ
-order: 40
+former-id: SW-3C3WHH
+parent: REQ-4VK134D
+order: a3
 links:
   - type: refines
-    target: SYS-DGDEYQ
+    target: REQ-4VK134D
     confirmed: 3502cbffc9ec
 ---
 The Bluetooth LE link shall validate sensor readings for up to 8 zones.

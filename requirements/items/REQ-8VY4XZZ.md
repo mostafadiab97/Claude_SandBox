@@ -1,5 +1,5 @@
 ---
-id: SYS-VEC1XC
+id: REQ-8VY4XZZ
 type: system-requirement
 title: Zigbee radio displays schedule entries
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 owner: M. Farouk
 tags:
   - customer-request
-parent: INFO-NRVHA2
-order: 790
+former-id: SYS-VEC1XC
+parent: REQ-6R94HFM
+order: b0G
 links:
   - type: refines
-    target: STK-AAZ4HV
+    target: REQ-M9DYEF5
     confirmed: 44fc7956dbf8
   - type: mitigates
-    target: RSK-QP0EFZ
+    target: REQ-JX165DV
     confirmed: b4372c636b9e
 ---
 The Zigbee radio shall switch the operating mode within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: TC-Q414JF
+id: REQ-ZJK60JM
 type: test-case
 title: "Verify: Menu system stores audit records"
 status: Approved
@@ -7,14 +7,15 @@ priority: High
 owner: J. Müller
 tags:
   - performance
-parent: INFO-HTSZ15
-order: 70
+former-id: TC-Q414JF
+parent: REQ-Y9VHHKA
+order: a6
 links:
   - type: verifies
-    target: SYS-F28JAH
+    target: REQ-XY2H6BS
     confirmed: d2f3c3322d09
   - type: verifies
-    target: SW-BPPPDX
+    target: REQ-6865VC7
     confirmed: 7619d6624a37
 ---
 **Objective:** verify that the menu system behaves as specified.

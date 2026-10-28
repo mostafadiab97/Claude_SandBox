@@ -1,5 +1,5 @@
 ---
-id: SYS-N36TB6
+id: REQ-5GC26YT
 type: system-requirement
 title: Regulation loop switchs safety limits
 status: Review
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - security
   - accessibility
-parent: INFO-6DQTKV
-order: 700
+former-id: SYS-N36TB6
+parent: REQ-7ED7ZET
+order: b07
 links:
   - type: refines
-    target: STK-EWSQ9Z
+    target: REQ-GXKEHF3
     confirmed: aa5e4143dbe7
 ---
 The regulation loop shall measure user preferences at least once per minute.

@@ -1,18 +1,19 @@
 ---
-id: TC-6X19JA
+id: REQ-V2TPVWT
 type: test-case
 title: "Verify: Home dashboard restores the set point"
 status: Draft
 priority: Medium
 owner: S. Adel
-parent: INFO-J0FETE
-order: 1070
+former-id: TC-6X19JA
+parent: REQ-WR5ZJN9
+order: b0i
 links:
   - type: verifies
-    target: SYS-7BRVTY
+    target: REQ-FRE9B15
     confirmed: f003d27313f2
   - type: verifies
-    target: SW-VTZYV6
+    target: REQ-331B5CR
     confirmed: 1fc331627e58
 ---
 **Objective:** verify that the home dashboard behaves as specified.

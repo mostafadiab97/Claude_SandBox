@@ -1,5 +1,5 @@
 ---
-id: IF-PWV4J2
+id: REQ-PSP14CR
 type: interface-requirement
 title: Pairing process calibrates the set point
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: محمد علي
 tags:
   - regulatory
-parent: SYS-RP2FET
-order: 20
+former-id: IF-PWV4J2
+parent: REQ-93NME1R
+order: a1
 links:
   - type: refines
-    target: SYS-RP2FET
+    target: REQ-93NME1R
     confirmed: f29685558736
 ---
 The Bluetooth LE link shall notify relay events for at least 10 years.

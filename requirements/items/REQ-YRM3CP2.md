@@ -1,18 +1,19 @@
 ---
-id: TC-Y0JR5E
+id: REQ-YRM3CP2
 type: test-case
 title: "Verify: Relay board encrypts the set point"
 status: Draft
 priority: Medium
 owner: محمد علي
-parent: INFO-MACGC3
-order: 1320
+former-id: TC-Y0JR5E
+parent: REQ-F9Z1FYS
+order: b17
 links:
   - type: verifies
-    target: SYS-J3QEM9
+    target: REQ-TT6G6JA
     confirmed: 78aeb447b6ae
   - type: verifies
-    target: SW-BYVAYF
+    target: REQ-MQK9CB8
     confirmed: 74dc91e27dbd
 ---
 **Objective:** verify that the relay board behaves as specified.

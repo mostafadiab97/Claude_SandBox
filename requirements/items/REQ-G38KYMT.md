@@ -1,5 +1,5 @@
 ---
-id: TC-R5VS77
+id: REQ-G38KYMT
 type: test-case
 title: "Verify: Zone valve switchs energy consumption"
 status: Draft
@@ -8,14 +8,15 @@ owner: K. Tanaka
 tags:
   - performance
   - release-2.0
-parent: INFO-MS9DAG
-order: 1070
+former-id: TC-R5VS77
+parent: REQ-XGWSK2K
+order: b0i
 links:
   - type: verifies
-    target: SYS-37CSVM
+    target: REQ-MHYQ0SN
     confirmed: c35d42070911
   - type: verifies
-    target: SW-FM4SMD
+    target: REQ-10R1WW9
     confirmed: e433c3217e25
 ---
 **Objective:** verify that the zone valve behaves as specified.

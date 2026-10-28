@@ -1,14 +1,15 @@
 ---
-id: TC-YFDBR8
+id: REQ-6VKMS57
 type: test-case
 title: "Verify: Power supply logs access tokens"
 status: Approved
 owner: K. Tanaka
-parent: INFO-MACGC3
-order: 310
+former-id: TC-YFDBR8
+parent: REQ-F9Z1FYS
+order: aU
 links:
   - type: verifies
-    target: SYS-SGE8R7
+    target: REQ-YSKYE18
     confirmed: f0923cc9ca25
 ---
 **Objective:** verify that the power supply behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: CR-ASH9C5
+id: REQ-PBDXNH4
 type: change-request
 title: "CR: extend encryption layer to calibrate schedule entries"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - security
   - customer-request
-parent: INFO-6QFMYN
-order: 10
+former-id: CR-ASH9C5
+parent: REQ-1XKBKFE
+order: a0
 links:
   - type: relates-to
-    target: SYS-RW42CM
+    target: REQ-TXG6AVW
     confirmed: 28c35d155880
 ---
 Requested by customer support (ticket #12339).

@@ -1,5 +1,5 @@
 ---
-id: HW-FKM413
+id: REQ-YCHRJF9
 type: hardware-requirement
 title: Enclosure reports the set point
 status: Review
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - security
   - regulatory
-parent: SYS-7NG4EK
-order: 10
+former-id: HW-FKM413
+parent: REQ-E29MYCT
+order: a0
 links:
   - type: refines
-    target: SYS-7NG4EK
+    target: REQ-E29MYCT
     confirmed: 9b2c415b0097
 ---
 The main PCB shall measure the set point using AES-256-GCM.

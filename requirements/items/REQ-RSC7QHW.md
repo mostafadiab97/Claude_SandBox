@@ -1,14 +1,15 @@
 ---
-id: SW-NKC5M4
+id: REQ-RSC7QHW
 type: software-requirement
 title: Tamper detection authenticates the operating mode
 status: Draft
 priority: High
-parent: SYS-37F447
-order: 30
+former-id: SW-NKC5M4
+parent: REQ-7ENS3YJ
+order: a2
 links:
   - type: refines
-    target: SYS-37F447
+    target: REQ-7ENS3YJ
     confirmed: ab26978cce76
 ---
 The watchdog shall store the connection state when the network is unavailable.

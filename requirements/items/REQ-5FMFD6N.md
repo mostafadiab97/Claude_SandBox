@@ -1,5 +1,5 @@
 ---
-id: SYS-VHT6PY
+id: REQ-5FMFD6N
 type: system-requirement
 title: Main PCB reports relay events
 status: Draft
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - ux
   - security
-parent: INFO-A6P9A8
-order: 1960
+former-id: SYS-VHT6PY
+parent: REQ-CMCS31A
+order: b29
 links:
   - type: refines
-    target: STK-KEP05J
+    target: REQ-PRMNGRJ
     confirmed: 74304e03fe52
 ---
 The main PCB shall limit relay events after a power loss.

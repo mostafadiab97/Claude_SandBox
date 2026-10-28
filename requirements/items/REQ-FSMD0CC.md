@@ -1,5 +1,5 @@
 ---
-id: TC-SRPY18
+id: REQ-FSMD0CC
 type: test-case
 title: "Verify: Secure boot notifys user preferences"
 status: Draft
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - regulatory
   - release-1.0
-parent: INFO-Z4TW4B
-order: 1050
+former-id: TC-SRPY18
+parent: REQ-K6FGAY0
+order: b0g
 links:
   - type: verifies
-    target: SYS-A19YDT
+    target: REQ-4YFGPPR
     confirmed: 102a3545c778
 ---
 **Objective:** verify that the secure boot behaves as specified.

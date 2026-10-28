@@ -1,5 +1,5 @@
 ---
-id: TC-SJXXD9
+id: REQ-EPF57HK
 type: test-case
 title: "Verify: Tamper detection logs error conditions"
 status: Draft
@@ -7,14 +7,15 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - release-1.0
-parent: INFO-Z4TW4B
-order: 360
+former-id: TC-SJXXD9
+parent: REQ-K6FGAY0
+order: aZ
 links:
   - type: verifies
-    target: SYS-49FF9M
+    target: REQ-M1R4HSQ
     confirmed: de1a22bc8031
   - type: verifies
-    target: SW-7NJ840
+    target: REQ-RZEKB35
     confirmed: 598e15ccb9d4
 ---
 **Objective:** verify that the tamper detection behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: HW-HPTWPJ
+id: REQ-5GZHPY9
 type: hardware-requirement
 title: Limit firmware images — detail
 status: Draft
 priority: Low
 owner: A. Hassan
-parent: HW-039DNV
-order: 10
+former-id: HW-HPTWPJ
+parent: REQ-TSDKGK1
+order: a0
 links:
   - type: refines
-    target: HW-039DNV
+    target: REQ-TSDKGK1
     confirmed: ac5ee03c6faa
 ---
 The power supply shall log user preferences in under 3 s.

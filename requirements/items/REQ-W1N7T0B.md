@@ -1,18 +1,19 @@
 ---
-id: DEF-1WPRFG
+id: REQ-W1N7T0B
 type: defect
 title: "Defect: watchdog does not restore the operating mode"
 status: Approved
 priority: Low
 owner: L. Samir
-parent: INFO-6QFMYN
-order: 80
+former-id: DEF-1WPRFG
+parent: REQ-1XKBKFE
+order: a7
 links:
   - type: relates-to
-    target: TC-TDBPB8
+    target: REQ-KF0DQSP
     confirmed: 9787acfe034a
   - type: relates-to
-    target: SYS-BT3DXG
+    target: REQ-H94MBY5
     confirmed: 762491a5f95a
 ---
 Found during regression testing of build 2.7.25.

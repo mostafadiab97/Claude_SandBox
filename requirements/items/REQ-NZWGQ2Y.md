@@ -1,5 +1,5 @@
 ---
-id: TC-BKQ1TF
+id: REQ-NZWGQ2Y
 type: test-case
 title: "Verify: Main PCB stores sensor readings"
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 owner: Y. Saber
 tags:
   - connectivity
-parent: INFO-MACGC3
-order: 1000
+former-id: TC-BKQ1TF
+parent: REQ-F9Z1FYS
+order: b0b
 links:
   - type: verifies
-    target: SYS-JHK0D7
+    target: REQ-42B155Z
     confirmed: a8c42ffc28bc
   - type: verifies
-    target: SW-XM6CSF
+    target: REQ-9VE391F
     confirmed: a824afd3c2ab
 ---
 **Objective:** verify that the main PCB behaves as specified.

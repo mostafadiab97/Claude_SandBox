@@ -1,15 +1,16 @@
 ---
-id: TC-GDJV3Q
+id: REQ-G3D3FES
 type: test-case
 title: "Regression: Wi-Fi module synchronises humidity values"
 status: Draft
 priority: Medium
 owner: K. Tanaka
-parent: INFO-ECHASH
-order: 1900
+former-id: TC-GDJV3Q
+parent: REQ-6H15AV2
+order: b23
 links:
   - type: verifies
-    target: SYS-2GYDBD
+    target: REQ-DYXG5BT
     confirmed: 16a1100da795
 ---
 **Objective:** verify that the device behaves as specified.

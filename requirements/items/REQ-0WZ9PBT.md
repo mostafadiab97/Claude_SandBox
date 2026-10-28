@@ -1,5 +1,5 @@
 ---
-id: IF-W4EQ3X
+id: REQ-0WZ9PBT
 type: interface-requirement
 title: "Signal 023: sensor readings"
 status: Approved
@@ -8,7 +8,8 @@ owner: A. Hassan
 tags:
   - performance
   - accessibility
-parent: INFO-2TM0JP
-order: 230
+former-id: IF-W4EQ3X
+parent: REQ-RJ0KHPT
+order: aM
 ---
 Interface signal number 23.

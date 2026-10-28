@@ -1,15 +1,16 @@
 ---
-id: SYS-CZQB2K
+id: REQ-07DNFZE
 type: system-requirement
 title: User account service measures the set point
 status: Approved
 priority: High
 owner: A. Hassan
-parent: INFO-YV5EZD
-order: 240
+former-id: SYS-CZQB2K
+parent: REQ-RE9ZKHF
+order: aN
 links:
   - type: refines
-    target: STK-4NCGP6
+    target: REQ-6WXSS37
     confirmed: 34735dce772b
 ---
 The user account service shall detect error conditions without user interaction.

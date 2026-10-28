@@ -1,5 +1,5 @@
 ---
-id: SW-567B9T
+id: REQ-EAQXEW3
 type: software-requirement
 title: Heating controller displays energy consumption
 status: Review
@@ -9,11 +9,12 @@ tags:
   - EMC
   - safety
   - security
-parent: SYS-3NA7W8
-order: 20
+former-id: SW-567B9T
+parent: REQ-X79WZPJ
+order: a1
 links:
   - type: refines
-    target: SYS-3NA7W8
+    target: REQ-X79WZPJ
     confirmed: 303f8590e242
 ---
 The heat pump driver shall synchronise energy consumption after a power loss.

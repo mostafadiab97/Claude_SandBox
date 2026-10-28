@@ -1,5 +1,5 @@
 ---
-id: IF-KP8AWE
+id: REQ-VCZZ7GZ
 type: interface-requirement
 title: Calibrate the set point — detail
 status: Review
@@ -9,11 +9,12 @@ tags:
   - power
   - ux
   - release-2.0
-parent: IF-80NQ2F
-order: 10
+former-id: IF-KP8AWE
+parent: REQ-ESJZJD0
+order: a0
 links:
   - type: refines
-    target: IF-80NQ2F
+    target: REQ-ESJZJD0
     confirmed: 5fbfe1e894bd
 ---
 The telemetry pipeline shall log safety limits with an accuracy of ±0.5 °C.

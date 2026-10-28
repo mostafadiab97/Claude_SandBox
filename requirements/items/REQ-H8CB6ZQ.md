@@ -1,18 +1,19 @@
 ---
-id: SYS-JSEPSH
+id: REQ-H8CB6ZQ
 type: system-requirement
 title: Pairing process logs energy consumption
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: INFO-NRVHA2
-order: 2040
+former-id: SYS-JSEPSH
+parent: REQ-6R94HFM
+order: b2H
 links:
   - type: refines
-    target: STK-GMCKMF
+    target: REQ-5EJHVJ8
     confirmed: f47328374a2b
   - type: mitigates
-    target: RSK-QP0EFZ
+    target: REQ-JX165DV
     confirmed: b4372c636b9e
 ---
 The pairing process shall notify sensor readings at least once per minute.

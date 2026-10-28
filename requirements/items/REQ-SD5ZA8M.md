@@ -1,5 +1,5 @@
 ---
-id: TC-7THS3R
+id: REQ-SD5ZA8M
 type: test-case
 title: "Verify: Backlight synchronises user preferences"
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - ux
   - security
-parent: INFO-HTSZ15
-order: 1370
+former-id: TC-7THS3R
+parent: REQ-Y9VHHKA
+order: b1C
 links:
   - type: verifies
-    target: SYS-7Q4FYP
+    target: REQ-RBJSQM3
     confirmed: af798c8aaa0c
 ---
 **Objective:** verify that the backlight behaves as specified.

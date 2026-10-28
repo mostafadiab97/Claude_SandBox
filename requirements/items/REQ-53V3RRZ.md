@@ -1,5 +1,5 @@
 ---
-id: SYS-PEWC57
+id: REQ-53V3RRZ
 type: system-requirement
 title: Status LED synchronises sensor readings
 status: Draft
@@ -8,14 +8,15 @@ owner: M. Farouk
 tags:
   - performance
   - i18n
-parent: INFO-PDR6FV
-order: 2030
+former-id: SYS-PEWC57
+parent: REQ-2ZA2TRZ
+order: b2G
 links:
   - type: refines
-    target: STK-MNQXK0
+    target: REQ-SBV9ENK
     confirmed: d3157dcb9034
   - type: mitigates
-    target: RSK-0929HC
+    target: REQ-W57NTFR
     confirmed: 2975497b38ca
 ---
 The status LED shall notify the operating mode when the network is unavailable.

@@ -1,15 +1,16 @@
 ---
-id: IF-3JCMM1
+id: REQ-7E4GQNJ
 type: interface-requirement
 title: Watchdog authenticates audit records
 status: Obsolete
 priority: Low
 owner: K. Tanaka
-parent: SYS-F2DJDC
-order: 10
+former-id: IF-3JCMM1
+parent: REQ-W18RFR4
+order: a0
 links:
   - type: refines
-    target: SYS-F2DJDC
+    target: REQ-W18RFR4
     confirmed: 2d379fb34255
 ---
 The watchdog shall display access tokens without user interaction.

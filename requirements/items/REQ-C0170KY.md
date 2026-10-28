@@ -1,15 +1,16 @@
 ---
-id: HW-CRDGC3
+id: REQ-C0170KY
 type: hardware-requirement
 title: Tamper detection restores the set point
 status: Draft
 priority: High
 owner: L. Samir
-parent: SYS-MR5CRK
-order: 20
+former-id: HW-CRDGC3
+parent: REQ-TDHYBJS
+order: a1
 links:
   - type: refines
-    target: SYS-MR5CRK
+    target: REQ-TDHYBJS
     confirmed: ff67b7696602
 ---
 The tamper detection shall display energy consumption at least once per minute.

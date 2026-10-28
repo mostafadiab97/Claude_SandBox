@@ -1,5 +1,5 @@
 ---
-id: TC-2JT1HY
+id: REQ-SZ18J24
 type: test-case
 title: "Verify: Battery backup calibrates the operating mode"
 status: Draft
@@ -7,14 +7,15 @@ priority: High
 owner: K. Tanaka
 tags:
   - release-2.0
-parent: INFO-MACGC3
-order: 900
+former-id: TC-2JT1HY
+parent: REQ-F9Z1FYS
+order: b0R
 links:
   - type: verifies
-    target: SYS-7WCAWK
+    target: REQ-QMV6ZXP
     confirmed: 872381f1db9b
   - type: verifies
-    target: SW-VQGWRM
+    target: REQ-WVXXQG5
     confirmed: 3987fa5a3edb
 ---
 **Objective:** verify that the battery backup behaves as specified.

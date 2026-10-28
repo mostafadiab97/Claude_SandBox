@@ -1,15 +1,16 @@
 ---
-id: IF-9H8PSK
+id: REQ-AGB4AKP
 type: interface-requirement
 title: Heating controller stores schedule entries
 status: Draft
 priority: Low
 owner: É. Laurent
-parent: SYS-S4CRQY
-order: 10
+former-id: IF-9H8PSK
+parent: REQ-S85HGV0
+order: a0
 links:
   - type: refines
-    target: SYS-S4CRQY
+    target: REQ-S85HGV0
     confirmed: 665acc28f34d
 ---
 The boiler interface shall display relay events without user interaction.

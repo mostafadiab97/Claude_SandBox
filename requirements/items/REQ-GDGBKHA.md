@@ -1,5 +1,5 @@
 ---
-id: SYS-301R74
+id: REQ-GDGBKHA
 type: system-requirement
 title: Deep hierarchy — level 1
 status: Draft
@@ -7,7 +7,8 @@ priority: High
 owner: Y. Saber
 tags:
   - customer-request
-parent: INFO-ECHASH
-order: 510
+former-id: SYS-301R74
+parent: REQ-6H15AV2
+order: ao
 ---
 Expand ten levels down.

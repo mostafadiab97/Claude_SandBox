@@ -1,5 +1,5 @@
 ---
-id: TC-WS6NJ1
+id: REQ-1RJZ0RK
 type: test-case
 title: "Verify: Rotary knob logs the connection state"
 status: Review
@@ -8,11 +8,12 @@ tags:
   - connectivity
   - power
   - safety
-parent: INFO-HTSZ15
-order: 780
+former-id: TC-WS6NJ1
+parent: REQ-Y9VHHKA
+order: b0F
 links:
   - type: verifies
-    target: SYS-9YBZ5V
+    target: REQ-S8AK061
     confirmed: 50bd568ec960
 ---
 **Objective:** verify that the rotary knob behaves as specified.

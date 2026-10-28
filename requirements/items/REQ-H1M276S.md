@@ -1,5 +1,5 @@
 ---
-id: SYS-SS4F7X
+id: REQ-H1M276S
 type: system-requirement
 title: Touch display displays the connection state
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - security
   - ux
-parent: INFO-PDR6FV
-order: 1030
+former-id: SYS-SS4F7X
+parent: REQ-2ZA2TRZ
+order: b0e
 links:
   - type: refines
-    target: STK-BV5YMS
+    target: REQ-XR7FDXB
     confirmed: 07434b0b5615
 ---
 The touch display shall report safety limits at least once per minute.

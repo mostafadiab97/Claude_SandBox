@@ -1,15 +1,16 @@
 ---
-id: HW-AGS27K
+id: REQ-RX7J1SM
 type: hardware-requirement
 title: Battery backup encrypts the operating mode
 status: Draft
 priority: Low
 owner: L. Samir
-parent: SYS-A6KWV7
-order: 10
+former-id: HW-AGS27K
+parent: REQ-ZGEFNWM
+order: a0
 links:
   - type: refines
-    target: SYS-A6KWV7
+    target: REQ-ZGEFNWM
     confirmed: 4488148b69d2
 ---
 The enclosure shall validate the connection state with an accuracy of ±0.5 °C.

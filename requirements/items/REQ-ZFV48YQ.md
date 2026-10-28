@@ -1,5 +1,5 @@
 ---
-id: HW-PEY03D
+id: REQ-ZFV48YQ
 type: hardware-requirement
 title: Wi-Fi module displays humidity values
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: H. Mostafa
 tags:
   - i18n
-parent: SYS-7F4FY9
-order: 20
+former-id: HW-PEY03D
+parent: REQ-P78AYDQ
+order: a1
 links:
   - type: refines
-    target: SYS-7F4FY9
+    target: REQ-P78AYDQ
     confirmed: a9c0f51b3815
 ---
 The local API shall switch error conditions using AES-256-GCM.

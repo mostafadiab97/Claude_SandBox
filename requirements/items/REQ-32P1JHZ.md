@@ -1,5 +1,5 @@
 ---
-id: IF-JK6B3Z
+id: REQ-32P1JHZ
 type: interface-requirement
 title: Encryption layer logs sensor readings
 status: Review
@@ -8,11 +8,12 @@ tags:
   - ux
   - performance
   - accessibility
-parent: SYS-YHR5KF
-order: 20
+former-id: IF-JK6B3Z
+parent: REQ-5TMVTPD
+order: a1
 links:
   - type: refines
-    target: SYS-YHR5KF
+    target: REQ-5TMVTPD
     confirmed: 660a8488c508
 ---
 The over-temperature monitor shall limit audit records when the network is unavailable.

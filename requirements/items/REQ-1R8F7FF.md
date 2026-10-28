@@ -1,5 +1,5 @@
 ---
-id: TC-YZVPTY
+id: REQ-1R8F7FF
 type: test-case
 title: "Verify: Power supply stores the operating mode"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - safety
-parent: INFO-MACGC3
-order: 710
+former-id: TC-YZVPTY
+parent: REQ-F9Z1FYS
+order: b08
 links:
   - type: verifies
-    target: SYS-C9BFKW
+    target: REQ-X3TS6B3
     confirmed: 0dcc5954ae38
 ---
 **Objective:** verify that the power supply behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: TC-1SZXGN
+id: REQ-KMWWK48
 type: test-case
 title: "Verify: Secure boot restores safety limits"
 status: Approved
 priority: High
 owner: M. Farouk
-parent: INFO-Z4TW4B
-order: 570
+former-id: TC-1SZXGN
+parent: REQ-K6FGAY0
+order: au
 links:
   - type: verifies
-    target: SYS-VR1QT6
+    target: REQ-PKTNB60
     confirmed: b3132101c5d6
 ---
 **Objective:** verify that the secure boot behaves as specified.

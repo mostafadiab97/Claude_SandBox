@@ -1,14 +1,15 @@
 ---
-id: IF-D2WPSF
+id: REQ-6QMQHY0
 type: interface-requirement
 title: Pairing process authenticates schedule entries
 status: Approved
 owner: S. Adel
-parent: SYS-5NPG22
-order: 20
+former-id: IF-D2WPSF
+parent: REQ-1H9ZVHN
+order: a1
 links:
   - type: refines
-    target: SYS-5NPG22
+    target: REQ-1H9ZVHN
     confirmed: de7334e55ef0
 ---
 The Wi-Fi module shall store the operating mode for up to 8 zones.

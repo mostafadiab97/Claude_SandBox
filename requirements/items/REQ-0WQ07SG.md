@@ -1,5 +1,5 @@
 ---
-id: SYS-XT9RX8
+id: REQ-0WQ07SG
 type: system-requirement
 title: Local API authenticates safety limits
 status: Review
@@ -8,14 +8,15 @@ owner: S. Adel
 tags:
   - release-1.0
   - release-2.0
-parent: INFO-NRVHA2
-order: 780
+former-id: SYS-XT9RX8
+parent: REQ-6R94HFM
+order: b0F
 links:
   - type: refines
-    target: STK-1R2QT3
+    target: REQ-3MGNW4R
     confirmed: 7ca04f22a1b8
   - type: mitigates
-    target: RSK-6Q7HV9
+    target: REQ-G7V6B35
     confirmed: 67f9d16d1648
 ---
 The local API shall authenticate firmware images using AES-256-GCM.

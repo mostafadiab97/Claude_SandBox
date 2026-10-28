@@ -1,14 +1,15 @@
 ---
-id: SW-260X0B
+id: REQ-67MFYET
 type: software-requirement
 title: Over-temperature monitor limits safety limits
 status: Approved
 owner: J. Müller
-parent: SYS-5JP4T4
-order: 20
+former-id: SW-260X0B
+parent: REQ-5RZXY01
+order: a1
 links:
   - type: refines
-    target: SYS-5JP4T4
+    target: REQ-5RZXY01
     confirmed: 8b6fa0928d20
 ---
 The encryption layer shall encrypt the connection state after a power loss.

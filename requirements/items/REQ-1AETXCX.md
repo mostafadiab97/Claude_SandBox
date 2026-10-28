@@ -1,5 +1,5 @@
 ---
-id: SYS-MTM77X
+id: REQ-1AETXCX
 type: system-requirement
 title: Schedule editor reports the connection state
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - connectivity
   - customer-request
   - i18n
-parent: INFO-2XXBRS
-order: 1470
+former-id: SYS-MTM77X
+parent: REQ-QYXGSQ4
+order: b1M
 links:
   - type: refines
-    target: STK-639N9T
+    target: REQ-EMZ19WQ
     confirmed: 252da9caa62c
   - type: mitigates
-    target: RSK-02ER1G
+    target: REQ-93G1CW4
     confirmed: 146ad1557070
 ---
 The schedule editor shall limit sensor readings when the network is unavailable.

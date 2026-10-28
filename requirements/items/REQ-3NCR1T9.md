@@ -1,5 +1,5 @@
 ---
-id: SW-W0W05G
+id: REQ-3NCR1T9
 type: software-requirement
 title: Cloud backend validates the set point
 status: Review
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - power
   - customer-request
-parent: SYS-25VHBZ
-order: 10
+former-id: SW-W0W05G
+parent: REQ-KDPSCQK
+order: a0
 links:
   - type: refines
-    target: SYS-25VHBZ
+    target: REQ-KDPSCQK
     confirmed: b66a06d6db09
 ---
 The telemetry pipeline shall calibrate relay events without user interaction.

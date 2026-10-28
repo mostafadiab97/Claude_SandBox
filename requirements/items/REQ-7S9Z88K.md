@@ -1,15 +1,16 @@
 ---
-id: SW-3YRMDF
+id: REQ-7S9Z88K
 type: software-requirement
 title: Wi-Fi module stores schedule entries
 status: Draft
 priority: High
 owner: N. Kamal
-parent: SYS-5XB7KH
-order: 30
+former-id: SW-3YRMDF
+parent: REQ-QS80QQ4
+order: a2
 links:
   - type: refines
-    target: SYS-5XB7KH
+    target: REQ-QS80QQ4
     confirmed: ce31b91ce201
 ---
 The Bluetooth LE link shall report the operating mode for at least 10 years.

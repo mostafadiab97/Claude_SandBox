@@ -1,5 +1,5 @@
 ---
-id: SW-5AHKSR
+id: REQ-EENPQ7M
 type: software-requirement
 title: Menu system calibrates the operating mode
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - safety
   - performance
   - connectivity
-parent: SYS-2G338Q
-order: 20
+former-id: SW-5AHKSR
+parent: REQ-EEDEFB1
+order: a1
 links:
   - type: refines
-    target: SYS-2G338Q
+    target: REQ-EEDEFB1
     confirmed: 1802c342a6a4
 ---
 The touch display shall validate access tokens at least once per minute.

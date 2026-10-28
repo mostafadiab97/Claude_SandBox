@@ -1,5 +1,5 @@
 ---
-id: IF-DRWS8X
+id: REQ-93FRJE1
 type: interface-requirement
 title: Bluetooth LE link switchs the set point
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - connectivity
-parent: SYS-558WVB
-order: 40
+former-id: IF-DRWS8X
+parent: REQ-YSKSPN3
+order: a3
 links:
   - type: refines
-    target: SYS-558WVB
+    target: REQ-YSKSPN3
     confirmed: 244554b45f3a
 ---
 The pairing process shall encrypt humidity values within 200 ms.

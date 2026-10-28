@@ -1,8 +1,9 @@
 ---
-id: SW-A6ZA0W
+id: REQ-5MPEDPH
 type: software-requirement
 title: Requirement with no fields at all
-parent: INFO-ECHASH
-order: 60
+former-id: SW-A6ZA0W
+parent: REQ-6H15AV2
+order: a5
 ---
 No status, priority, owner or tags.

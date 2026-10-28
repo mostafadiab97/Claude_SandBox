@@ -1,18 +1,19 @@
 ---
-id: TC-AD54Z2
+id: REQ-PT4WE8P
 type: test-case
 title: "Verify: Home dashboard synchronises schedule entries"
 status: Review
 priority: Low
 owner: N. Kamal
-parent: INFO-J0FETE
-order: 970
+former-id: TC-AD54Z2
+parent: REQ-WR5ZJN9
+order: b0Y
 links:
   - type: verifies
-    target: SYS-QBP134
+    target: REQ-JYSBE1D
     confirmed: 6e1a778017fa
   - type: verifies
-    target: SW-RKA76Z
+    target: REQ-WRES5AC
     confirmed: f76ca26e4df8
 ---
 **Objective:** verify that the home dashboard behaves as specified.

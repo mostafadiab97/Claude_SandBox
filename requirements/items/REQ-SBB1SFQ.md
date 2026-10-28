@@ -1,5 +1,5 @@
 ---
-id: DE-ZWW6GA
+id: REQ-SBB1SFQ
 type: design-element
 title: Module encryption_layer_0
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - safety
   - power
   - release-1.0
-parent: SW-7X2ABC
-order: 10
+former-id: DE-ZWW6GA
+parent: REQ-Q37WQB2
+order: a0
 links:
   - type: implements
-    target: SW-7X2ABC
+    target: REQ-Q37WQB2
     confirmed: 96174db9b06c
 ---
 Implemented in `src/safe/encryption_layer.c`.

@@ -1,5 +1,5 @@
 ---
-id: SW-M11W6F
+id: REQ-GBNF5HX
 type: software-requirement
 title: Watchdog limits the connection state
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - EMC
   - i18n
-parent: SYS-FRBAX4
-order: 10
+former-id: SW-M11W6F
+parent: REQ-T249YVE
+order: a0
 links:
   - type: refines
-    target: SYS-FRBAX4
+    target: REQ-T249YVE
     confirmed: a6ca038853e0
 ---
 The tamper detection shall restore the connection state below 0.5 W in standby.

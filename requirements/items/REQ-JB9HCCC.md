@@ -1,5 +1,5 @@
 ---
-id: TC-4YEXC2
+id: REQ-JB9HCCC
 type: test-case
 title: "Verify: Relay board detects firmware images"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - customer-request
   - connectivity
   - security
-parent: INFO-MACGC3
-order: 1210
+former-id: TC-4YEXC2
+parent: REQ-F9Z1FYS
+order: b0w
 links:
   - type: verifies
-    target: SYS-MQR6RF
+    target: REQ-QFBNWQ4
     confirmed: d9d4b12d67de
   - type: verifies
-    target: SW-KZQTY6
+    target: REQ-YMMXAK8
     confirmed: 2d0abae3753b
 ---
 **Objective:** verify that the relay board behaves as specified.

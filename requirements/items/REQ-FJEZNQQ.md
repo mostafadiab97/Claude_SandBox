@@ -1,15 +1,16 @@
 ---
-id: IF-40FZW3
+id: REQ-FJEZNQQ
 type: interface-requirement
 title: Telemetry pipeline detects sensor readings
 status: Draft
 priority: Medium
 owner: A. Hassan
-parent: SYS-CZQB2K
-order: 40
+former-id: IF-40FZW3
+parent: REQ-07DNFZE
+order: a3
 links:
   - type: refines
-    target: SYS-CZQB2K
+    target: REQ-07DNFZE
     confirmed: 3322889d2361
 ---
 The user account service shall restore relay events within 200 ms.

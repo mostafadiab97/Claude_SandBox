@@ -1,16 +1,17 @@
 ---
-id: SW-EBK5B5
+id: REQ-WAFVESE
 type: software-requirement
 title: Secure boot detects the connection state
 status: Review
 owner: N. Kamal
 tags:
   - cost
-parent: SYS-3JQGM8
-order: 20
+former-id: SW-EBK5B5
+parent: REQ-0A641HY
+order: a1
 links:
   - type: refines
-    target: SYS-3JQGM8
+    target: REQ-0A641HY
     confirmed: 9748f881870f
 ---
 The encryption layer shall calibrate error conditions after a power loss.

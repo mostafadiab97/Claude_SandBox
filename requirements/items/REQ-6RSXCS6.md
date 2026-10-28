@@ -1,5 +1,5 @@
 ---
-id: UC-FSJDQ1
+id: REQ-6RSXCS6
 type: use-case
 title: "UC: Switch relay events with the regulation loop"
 status: Review
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - regulatory
   - performance
-parent: INFO-10C32K
-order: 130
+former-id: UC-FSJDQ1
+parent: REQ-NER72N9
+order: aC
 links:
   - type: relates-to
-    target: STK-Q8BNKR
+    target: REQ-FY0A6ZE
     confirmed: 6deaa78e6ab3
 ---
 **Actor:** home owner

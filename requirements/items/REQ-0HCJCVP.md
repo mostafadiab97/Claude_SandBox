@@ -1,5 +1,5 @@
 ---
-id: SYS-DQWVMQ
+id: REQ-0HCJCVP
 type: system-requirement
 title: User account service reports humidity values
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - i18n
   - power
   - release-2.0
-parent: INFO-YV5EZD
-order: 820
+former-id: SYS-DQWVMQ
+parent: REQ-RE9ZKHF
+order: b0J
 links:
   - type: refines
-    target: STK-JFBQPS
+    target: REQ-A8X8PTB
     confirmed: 5027ee1822eb
   - type: mitigates
-    target: RSK-MTJ750
+    target: REQ-5Q7WWW2
     confirmed: 9f71d66c1651
 ---
 The user account service shall detect firmware images after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: SW-QPGATH
+id: REQ-KNYEP4K
 type: software-requirement
 title: Local API synchronises the room temperature
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - safety
   - regulatory
-parent: SYS-MY3DCX
-order: 10
+former-id: SW-QPGATH
+parent: REQ-GGT2621
+order: a0
 links:
   - type: refines
-    target: SYS-MY3DCX
+    target: REQ-GGT2621
     confirmed: ace85c596789
 ---
 The Bluetooth LE link shall restore error conditions for at least 10 years.

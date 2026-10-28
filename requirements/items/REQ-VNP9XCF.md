@@ -1,17 +1,18 @@
 ---
-id: TC-R2QZMC
+id: REQ-VNP9XCF
 type: test-case
 title: "Verify: Status LED measures the operating mode"
 status: Approved
 owner: J. Müller
-parent: INFO-HTSZ15
-order: 1100
+former-id: TC-R2QZMC
+parent: REQ-Y9VHHKA
+order: b0l
 links:
   - type: verifies
-    target: SYS-VNNXE8
+    target: REQ-VQQJASQ
     confirmed: 1b092edc3073
   - type: verifies
-    target: SW-E0C6CJ
+    target: REQ-C58NWQ8
     confirmed: 54e0e57fc0f2
 ---
 **Objective:** verify that the status LED behaves as specified.

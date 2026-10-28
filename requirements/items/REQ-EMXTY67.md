@@ -1,15 +1,16 @@
 ---
-id: SYS-42GJXH
+id: REQ-EMXTY67
 type: system-requirement
 title: Enclosure calibrates relay events
 status: Review
 priority: Medium
 owner: N. Kamal
-parent: INFO-A6P9A8
-order: 20
+former-id: SYS-42GJXH
+parent: REQ-CMCS31A
+order: a1
 links:
   - type: refines
-    target: STK-JAQHJP
+    target: REQ-V8PT5BV
     confirmed: b0af11a5c3c2
 ---
 The enclosure shall store schedule entries without user interaction.

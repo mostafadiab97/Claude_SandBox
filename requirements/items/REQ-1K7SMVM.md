@@ -1,5 +1,5 @@
 ---
-id: SW-Y9SATP
+id: REQ-1K7SMVM
 type: software-requirement
 title: Heating controller displays safety limits
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - ux
   - security
-parent: SYS-6CT381
-order: 20
+former-id: SW-Y9SATP
+parent: REQ-22PQVV7
+order: a1
 links:
   - type: refines
-    target: SYS-6CT381
+    target: REQ-22PQVV7
     confirmed: cb9aa6a7b060
 ---
 The heating controller shall log user preferences after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: SYS-4QH9R0
+id: REQ-QQZD5VA
 type: system-requirement
 title: Heating controller limits access tokens
 status: Obsolete
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - security
   - safety
-parent: INFO-6DQTKV
-order: 1230
+former-id: SYS-4QH9R0
+parent: REQ-7ED7ZET
+order: b0y
 links:
   - type: refines
-    target: STK-ESBN30
+    target: REQ-HY1GZK0
     confirmed: 8a56cb48b6c3
 ---
 The heating controller shall validate error conditions with an accuracy of ±0.5 °C.

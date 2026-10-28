@@ -1,5 +1,5 @@
 ---
-id: SW-CH4FQ0
+id: REQ-14CYD64
 type: software-requirement
 title: Log firmware images — detail
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - EMC
   - connectivity
   - cost
-parent: SW-KBN3PB
-order: 10
+former-id: SW-CH4FQ0
+parent: REQ-K50SVDJ
+order: a0
 links:
   - type: refines
-    target: SW-KBN3PB
+    target: REQ-K50SVDJ
     confirmed: "329451810423"
 ---
 The login screen shall measure humidity values below 0.5 W in standby.

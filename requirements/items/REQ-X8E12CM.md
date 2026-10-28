@@ -1,5 +1,5 @@
 ---
-id: SW-TCB8PW
+id: REQ-X8E12CM
 type: software-requirement
 title: Menu system notifys safety limits
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - performance
   - security
-parent: SYS-V6YEW7
-order: 10
+former-id: SW-TCB8PW
+parent: REQ-C2KEYBG
+order: a0
 links:
   - type: refines
-    target: SYS-V6YEW7
+    target: REQ-C2KEYBG
     confirmed: 82cb35726de3
 ---
 The backlight shall validate humidity values at least once per minute.

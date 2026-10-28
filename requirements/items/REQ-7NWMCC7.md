@@ -1,5 +1,5 @@
 ---
-id: HW-W8XVFA
+id: REQ-7NWMCC7
 type: hardware-requirement
 title: Encryption layer calibrates access tokens
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - connectivity
   - release-1.0
   - safety
-parent: SYS-8T3EWK
-order: 10
+former-id: HW-W8XVFA
+parent: REQ-C27RMWM
+order: a0
 links:
   - type: refines
-    target: SYS-8T3EWK
+    target: REQ-C27RMWM
     confirmed: 6237143aa404
 ---
 The secure boot shall log sensor readings for at least 10 years.

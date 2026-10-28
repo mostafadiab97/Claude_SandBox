@@ -1,5 +1,5 @@
 ---
-id: IF-YDC9FX
+id: REQ-S0Z4VFM
 type: interface-requirement
 title: Rotary knob reports schedule entries
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - cost
   - safety
   - regulatory
-parent: SYS-BD9F9G
-order: 20
+former-id: IF-YDC9FX
+parent: REQ-KEYDY74
+order: a1
 links:
   - type: refines
-    target: SYS-BD9F9G
+    target: REQ-KEYDY74
     confirmed: a784b1e17758
 ---
 The touch display shall store the set point below 0.5 W in standby.

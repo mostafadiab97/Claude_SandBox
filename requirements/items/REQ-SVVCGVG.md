@@ -1,5 +1,5 @@
 ---
-id: HW-M698P4
+id: REQ-SVVCGVG
 type: hardware-requirement
 title: Battery backup logs user preferences
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - release-1.0
   - regulatory
-parent: SYS-BD00HF
-order: 20
+former-id: HW-M698P4
+parent: REQ-H1CFNB4
+order: a1
 links:
   - type: refines
-    target: SYS-BD00HF
+    target: REQ-H1CFNB4
     confirmed: c1fda425d923
 ---
 The relay board shall measure energy consumption within 200 ms.

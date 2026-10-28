@@ -1,15 +1,16 @@
 ---
-id: SW-9PZ49R
+id: REQ-W0XSNQD
 type: software-requirement
 title: Touch display encrypts schedule entries
 status: Draft
 priority: High
 owner: J. Müller
-parent: SYS-JGZMEV
-order: 20
+former-id: SW-9PZ49R
+parent: REQ-X57Z6YA
+order: a1
 links:
   - type: refines
-    target: SYS-JGZMEV
+    target: REQ-X57Z6YA
     confirmed: 06d6346c072b
 ---
 The menu system shall detect access tokens for up to 8 zones.

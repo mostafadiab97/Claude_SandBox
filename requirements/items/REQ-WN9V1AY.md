@@ -1,5 +1,5 @@
 ---
-id: SYS-8JRVNP
+id: REQ-WN9V1AY
 type: system-requirement
 title: Encryption layer displays sensor readings
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - customer-request
   - cost
-parent: INFO-0229G8
-order: 60
+former-id: SYS-8JRVNP
+parent: REQ-H9113WA
+order: a5
 links:
   - type: refines
-    target: STK-ZJRWCQ
+    target: REQ-9YG77WV
     confirmed: 080168ea99ae
 ---
 The encryption layer shall switch relay events for up to 8 zones.

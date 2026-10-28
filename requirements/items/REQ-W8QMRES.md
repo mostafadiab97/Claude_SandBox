@@ -1,5 +1,5 @@
 ---
-id: IF-M48Q64
+id: REQ-W8QMRES
 type: interface-requirement
 title: Encryption layer stores the connection state
 status: Obsolete
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - EMC
   - release-1.0
-parent: SYS-HAHB1Q
-order: 30
+former-id: IF-M48Q64
+parent: REQ-ZTVJEZ4
+order: a2
 links:
   - type: refines
-    target: SYS-HAHB1Q
+    target: REQ-ZTVJEZ4
     confirmed: 7a23dee59b18
 ---
 The tamper detection shall log the operating mode within 200 ms.
