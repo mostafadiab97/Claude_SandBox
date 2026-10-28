@@ -1,15 +1,16 @@
 ---
-id: DE-F8C0V4
+id: REQ-Z66Y8X9
 type: design-element
 title: Module heating_controller_72
 status: Draft
 priority: High
 owner: K. Tanaka
-parent: SW-ZCF5H5
-order: 10
+former-id: DE-F8C0V4
+parent: REQ-8F4M764
+order: a0
 links:
   - type: implements
-    target: SW-ZCF5H5
+    target: REQ-8F4M764
     confirmed: 32e7e91c74b7
 ---
 Implemented in `src/heat/heating_controller.c`.

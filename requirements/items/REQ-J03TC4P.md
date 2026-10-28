@@ -1,5 +1,5 @@
 ---
-id: TC-A9Z2J6
+id: REQ-J03TC4P
 type: test-case
 title: "Verify: Cloud backend logs audit records"
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - accessibility
   - release-2.0
-parent: INFO-7P4D8D
-order: 1330
+former-id: TC-A9Z2J6
+parent: REQ-8351896
+order: b18
 links:
   - type: verifies
-    target: SYS-5KZ5DB
+    target: REQ-WFWMCHR
     confirmed: cd9a0ffd7c50
 ---
 **Objective:** verify that the cloud backend behaves as specified.

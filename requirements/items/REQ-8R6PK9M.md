@@ -1,15 +1,16 @@
 ---
-id: SYS-8J1N3D
+id: REQ-8R6PK9M
 type: system-requirement
 title: Menu system detects the connection state
 status: Review
 priority: High
 owner: K. Tanaka
-parent: INFO-PDR6FV
-order: 120
+former-id: SYS-8J1N3D
+parent: REQ-2ZA2TRZ
+order: aB
 links:
   - type: refines
-    target: STK-KPV71Q
+    target: REQ-VQBZQVC
     confirmed: 10d9c216aea2
 ---
 The menu system shall notify sensor readings within 200 ms.

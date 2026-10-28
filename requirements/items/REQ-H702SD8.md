@@ -1,5 +1,5 @@
 ---
-id: TC-7F7BFR
+id: REQ-H702SD8
 type: test-case
 title: "Verify: OTA server stores user preferences"
 status: Draft
@@ -8,14 +8,15 @@ owner: L. Samir
 tags:
   - cost
   - release-2.0
-parent: INFO-7P4D8D
-order: 1200
+former-id: TC-7F7BFR
+parent: REQ-8351896
+order: b0v
 links:
   - type: verifies
-    target: SYS-0AQ1WN
+    target: REQ-P6D29TG
     confirmed: 7e00d0c5709a
   - type: verifies
-    target: SW-9EEFDN
+    target: REQ-3MNYEMC
     confirmed: 94ba9510fda2
 ---
 **Objective:** verify that the OTA server behaves as specified.

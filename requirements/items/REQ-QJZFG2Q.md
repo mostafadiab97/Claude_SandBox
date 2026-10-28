@@ -1,15 +1,16 @@
 ---
-id: HW-BEYK4C
+id: REQ-QJZFG2Q
 type: hardware-requirement
 title: Relay board measures humidity values
 status: Approved
 priority: High
 owner: Y. Saber
-parent: SYS-1NBRAQ
-order: 40
+former-id: HW-BEYK4C
+parent: REQ-VTAD1DF
+order: a3
 links:
   - type: refines
-    target: SYS-1NBRAQ
+    target: REQ-VTAD1DF
     confirmed: e3d201ead13c
 ---
 The main PCB shall store safety limits after a power loss.

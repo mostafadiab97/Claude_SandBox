@@ -1,5 +1,5 @@
 ---
-id: IF-90BAEY
+id: REQ-16PQJ4G
 type: interface-requirement
 title: "Signal 584: the operating mode"
 status: Obsolete
@@ -9,7 +9,8 @@ tags:
   - release-1.0
   - accessibility
   - ux
-parent: INFO-2TM0JP
-order: 5840
+former-id: IF-90BAEY
+parent: REQ-RJ0KHPT
+order: b8P
 ---
 Interface signal number 584.

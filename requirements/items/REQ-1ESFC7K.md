@@ -1,5 +1,5 @@
 ---
-id: SW-9BE21E
+id: REQ-1ESFC7K
 type: software-requirement
 title: Touch display switchs the room temperature
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - regulatory
-parent: SYS-TYCMRT
-order: 40
+former-id: SW-9BE21E
+parent: REQ-RJXG4JV
+order: a3
 links:
   - type: refines
-    target: SYS-TYCMRT
+    target: REQ-RJXG4JV
     confirmed: cd494a5f904a
 ---
 The status LED shall encrypt safety limits within 200 ms.

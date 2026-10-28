@@ -1,5 +1,5 @@
 ---
-id: SW-PFQ8CS
+id: REQ-Z3S5NDZ
 type: software-requirement
 title: User account service limits error conditions
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - accessibility
   - EMC
-parent: SYS-AH9G64
-order: 30
+former-id: SW-PFQ8CS
+parent: REQ-EBK9509
+order: a2
 links:
   - type: refines
-    target: SYS-AH9G64
+    target: REQ-EBK9509
     confirmed: e3199b24d9a9
 ---
 The cloud backend shall store the room temperature with an accuracy of ±0.5 °C.

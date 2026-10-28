@@ -1,5 +1,5 @@
 ---
-id: IF-HZVDMC
+id: REQ-VK2F829
 type: interface-requirement
 title: Encryption layer notifys error conditions
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: A. Hassan
 tags:
   - regulatory
-parent: SYS-9C32EE
-order: 40
+former-id: IF-HZVDMC
+parent: REQ-9JQBZHM
+order: a3
 links:
   - type: refines
-    target: SYS-9C32EE
+    target: REQ-9JQBZHM
     confirmed: 3b09685c237a
 ---
 The over-temperature monitor shall calibrate error conditions for up to 8 zones.

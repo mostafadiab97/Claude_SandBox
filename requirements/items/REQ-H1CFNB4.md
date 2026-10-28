@@ -1,5 +1,5 @@
 ---
-id: SYS-BD00HF
+id: REQ-H1CFNB4
 type: system-requirement
 title: Relay board reports user preferences
 status: Obsolete
@@ -8,14 +8,15 @@ owner: محمد علي
 tags:
   - customer-request
   - regulatory
-parent: INFO-A6P9A8
-order: 60
+former-id: SYS-BD00HF
+parent: REQ-CMCS31A
+order: a5
 links:
   - type: refines
-    target: STK-2STGXE
+    target: REQ-67MQ0AB
     confirmed: c77fe61daf4b
   - type: mitigates
-    target: RSK-5AER0Q
+    target: REQ-PMSQJ45
     confirmed: 7c9168219772
 ---
 The relay board shall switch the operating mode below 0.5 W in standby.

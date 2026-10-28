@@ -1,5 +1,5 @@
 ---
-id: HW-FY6V90
+id: REQ-521MA6B
 type: hardware-requirement
 title: OTA server measures sensor readings
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - i18n
   - ux
-parent: SYS-MK2A6C
-order: 20
+former-id: HW-FY6V90
+parent: REQ-V3SSX4W
+order: a1
 links:
   - type: refines
-    target: SYS-MK2A6C
+    target: REQ-V3SSX4W
     confirmed: f66b9f28edb5
 ---
 The telemetry pipeline shall display firmware images with an accuracy of ±0.5 °C.

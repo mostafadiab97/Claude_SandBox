@@ -1,5 +1,5 @@
 ---
-id: SW-7FWYCR
+id: REQ-DVVBVT1
 type: software-requirement
 title: Status LED logs the set point
 status: Draft
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - power
   - accessibility
-parent: SYS-00WQH9
-order: 20
+former-id: SW-7FWYCR
+parent: REQ-0SY5BMS
+order: a1
 links:
   - type: refines
-    target: SYS-00WQH9
+    target: REQ-0SY5BMS
     confirmed: 5df07efae901
 ---
 The menu system shall display sensor readings in all supported languages.

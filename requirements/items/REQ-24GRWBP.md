@@ -1,15 +1,16 @@
 ---
-id: HW-8NDRNF
+id: REQ-24GRWBP
 type: hardware-requirement
 title: Regulation loop displays energy consumption
 status: Review
 priority: Low
 owner: Y. Saber
-parent: SYS-R95DE9
-order: 10
+former-id: HW-8NDRNF
+parent: REQ-99489MT
+order: a0
 links:
   - type: refines
-    target: SYS-R95DE9
+    target: REQ-99489MT
     confirmed: ed1eb0f9c553
 ---
 The heat pump driver shall detect relay events below 0.5 W in standby.

@@ -1,5 +1,5 @@
 ---
-id: TC-0RJBWZ
+id: REQ-2ZS51MC
 type: test-case
 title: "Regression: Encryption layer displays the operating mode"
 status: Draft
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - release-2.0
   - cost
-parent: INFO-ECHASH
-order: 1090
+former-id: TC-0RJBWZ
+parent: REQ-6H15AV2
+order: b0k
 links:
   - type: verifies
-    target: SYS-8FK5CW
+    target: REQ-1XQXMWT
     confirmed: a4a8351402a3
 ---
 **Objective:** verify that the device behaves as specified.

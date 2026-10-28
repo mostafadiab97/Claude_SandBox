@@ -1,5 +1,5 @@
 ---
-id: SW-DX8PPR
+id: REQ-FPNAE5E
 type: software-requirement
 title: Watchdog limits relay events
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - cost
   - release-1.0
   - i18n
-parent: SYS-7GMJTA
-order: 10
+former-id: SW-DX8PPR
+parent: REQ-XJ84QY3
+order: a0
 links:
   - type: refines
-    target: SYS-7GMJTA
+    target: REQ-XJ84QY3
     confirmed: 3901ff02971d
 ---
 The tamper detection shall notify sensor readings for up to 8 zones.

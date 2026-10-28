@@ -1,5 +1,5 @@
 ---
-id: HW-EM3RBC
+id: REQ-9BPJDER
 type: hardware-requirement
 title: Calibrate firmware images — detail
 status: Obsolete
@@ -8,11 +8,12 @@ tags:
   - release-2.0
   - customer-request
   - i18n
-parent: HW-0C1Q7X
-order: 10
+former-id: HW-EM3RBC
+parent: REQ-V5EFN6K
+order: a0
 links:
   - type: refines
-    target: HW-0C1Q7X
+    target: REQ-V5EFN6K
     confirmed: 4646138416b6
 ---
 The backlight shall store audit records with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: IF-4B80AF
+id: REQ-PRJ8JTY
 type: interface-requirement
 title: Main PCB authenticates energy consumption
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - safety
   - release-1.0
-parent: SYS-7XJ749
-order: 10
+former-id: IF-4B80AF
+parent: REQ-HZHMWR8
+order: a0
 links:
   - type: refines
-    target: SYS-7XJ749
+    target: REQ-HZHMWR8
     confirmed: d23cf0faaaaf
 ---
 The relay board shall authenticate error conditions for at least 10 years.

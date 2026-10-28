@@ -1,15 +1,16 @@
 ---
-id: SW-6CPXNC
+id: REQ-8YNB1N1
 type: software-requirement
 title: Heating controller reports the room temperature
 status: Review
 priority: Medium
 owner: Y. Saber
-parent: SYS-745K9S
-order: 20
+former-id: SW-6CPXNC
+parent: REQ-16HDKES
+order: a1
 links:
   - type: refines
-    target: SYS-745K9S
+    target: REQ-16HDKES
     confirmed: b4b17cd08794
 ---
 The heating controller shall display the room temperature at least once per minute.

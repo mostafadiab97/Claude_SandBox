@@ -1,11 +1,12 @@
 ---
-id: IF-615D32
+id: REQ-NA9B7XV
 type: interface-requirement
 title: "Signal 544: audit records"
 status: Obsolete
 priority: Medium
 owner: Y. Saber
-parent: INFO-2TM0JP
-order: 5440
+former-id: IF-615D32
+parent: REQ-RJ0KHPT
+order: b7l
 ---
 Interface signal number 544.

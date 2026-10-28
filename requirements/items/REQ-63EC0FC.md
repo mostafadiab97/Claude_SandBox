@@ -1,15 +1,16 @@
 ---
-id: SW-X8WEJV
+id: REQ-63EC0FC
 type: software-requirement
 title: Heat pump driver measures error conditions
 status: Review
 priority: High
 owner: K. Tanaka
-parent: SYS-NNMYTF
-order: 40
+former-id: SW-X8WEJV
+parent: REQ-QXDGC48
+order: a3
 links:
   - type: refines
-    target: SYS-NNMYTF
+    target: REQ-QXDGC48
     confirmed: e726f1ea8987
 ---
 The heat pump driver shall display user preferences for at least 10 years.

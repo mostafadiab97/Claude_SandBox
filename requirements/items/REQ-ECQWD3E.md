@@ -1,5 +1,5 @@
 ---
-id: SYS-K1MVD2
+id: REQ-ECQWD3E
 type: system-requirement
 title: Main PCB synchronises humidity values
 status: Draft
@@ -7,14 +7,15 @@ priority: High
 owner: N. Kamal
 tags:
   - ux
-parent: INFO-A6P9A8
-order: 1080
+former-id: SYS-K1MVD2
+parent: REQ-CMCS31A
+order: b0j
 links:
   - type: refines
-    target: STK-CDR1Y9
+    target: REQ-QC1Z78M
     confirmed: d9857f8b33bf
   - type: mitigates
-    target: RSK-P3EG5Z
+    target: REQ-D0QP1BW
     confirmed: 24cf773c2491
 ---
 The main PCB shall detect relay events within 200 ms.

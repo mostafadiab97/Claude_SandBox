@@ -1,15 +1,16 @@
 ---
-id: SW-QWD711
+id: REQ-A7AS1YX
 type: software-requirement
 title: Tamper detection restores safety limits
 status: Review
 priority: Medium
 owner: J. Müller
-parent: SYS-RZQXR0
-order: 40
+former-id: SW-QWD711
+parent: REQ-DTPW50P
+order: a3
 links:
   - type: refines
-    target: SYS-RZQXR0
+    target: REQ-DTPW50P
     confirmed: 12216b2c0a19
 ---
 The secure boot shall calibrate error conditions with an accuracy of ±0.5 °C.

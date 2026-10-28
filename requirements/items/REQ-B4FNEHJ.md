@@ -1,15 +1,16 @@
 ---
-id: IF-KVC4W8
+id: REQ-B4FNEHJ
 type: interface-requirement
 title: Regulation loop switchs safety limits
 status: Obsolete
 priority: Medium
 owner: M. Farouk
-parent: SYS-G7FSDN
-order: 10
+former-id: IF-KVC4W8
+parent: REQ-5Y77BTX
+order: a0
 links:
   - type: refines
-    target: SYS-G7FSDN
+    target: REQ-5Y77BTX
     confirmed: 92674bedf3ac
 ---
 The regulation loop shall notify the set point after a power loss.

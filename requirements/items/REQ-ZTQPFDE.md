@@ -1,5 +1,5 @@
 ---
-id: TC-VCJC3Q
+id: REQ-ZTQPFDE
 type: test-case
 title: "Verify: Touch display reports humidity values"
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - release-2.0
   - cost
-parent: INFO-HTSZ15
-order: 430
+former-id: TC-VCJC3Q
+parent: REQ-Y9VHHKA
+order: ag
 links:
   - type: verifies
-    target: SYS-ASMZ9Q
+    target: REQ-1FQWZ0W
     confirmed: 41b07dbfc705
 ---
 **Objective:** verify that the touch display behaves as specified.

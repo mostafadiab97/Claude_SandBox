@@ -1,5 +1,5 @@
 ---
-id: HW-RQHWDX
+id: REQ-1PFCGR0
 type: hardware-requirement
 title: Detect humidity values — detail
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - security
   - ux
   - customer-request
-parent: HW-NHT0NH
-order: 10
+former-id: HW-RQHWDX
+parent: REQ-5QG0RFK
+order: a0
 links:
   - type: refines
-    target: HW-NHT0NH
+    target: REQ-5QG0RFK
     confirmed: a012a3e73867
 ---
 The touch display shall limit user preferences below 0.5 W in standby.

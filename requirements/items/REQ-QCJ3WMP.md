@@ -1,5 +1,5 @@
 ---
-id: SYS-J667FF
+id: REQ-QCJ3WMP
 type: system-requirement
 title: Enclosure measures error conditions
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: J. Müller
 tags:
   - release-2.0
-parent: INFO-A6P9A8
-order: 2290
+former-id: SYS-J667FF
+parent: REQ-CMCS31A
+order: b2g
 links:
   - type: refines
-    target: STK-KEP05J
+    target: REQ-PRMNGRJ
     confirmed: 74304e03fe52
 ---
 The enclosure shall authenticate the connection state when the network is unavailable.

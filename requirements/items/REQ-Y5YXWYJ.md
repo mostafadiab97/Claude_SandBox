@@ -1,11 +1,12 @@
 ---
-id: SYS-XTSYX5
+id: REQ-Y5YXWYJ
 type: system-requirement
 title: Home dashboard encrypts the operating mode
 status: Review
 owner: R. Nabil
-parent: INFO-2XXBRS
-order: 1990
+former-id: SYS-XTSYX5
+parent: REQ-QYXGSQ4
+order: b2C
 links:
   - type: refines
     target: STK-H87WHA

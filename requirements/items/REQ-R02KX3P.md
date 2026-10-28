@@ -1,14 +1,15 @@
 ---
-id: TC-9XSRQX
+id: REQ-R02KX3P
 type: test-case
 title: "Regression: Bluetooth LE link measures sensor readings"
 status: Obsolete
 priority: Medium
-parent: INFO-ECHASH
-order: 1920
+former-id: TC-9XSRQX
+parent: REQ-6H15AV2
+order: b25
 links:
   - type: verifies
-    target: SYS-34QNYE
+    target: REQ-93GSKTC
     confirmed: f6e72f885951
 ---
 **Objective:** verify that the device behaves as specified.

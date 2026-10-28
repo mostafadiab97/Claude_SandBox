@@ -1,5 +1,5 @@
 ---
-id: SW-E26XKQ
+id: REQ-PVSSAHY
 type: software-requirement
 title: Login screen limits access tokens
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - safety
   - ux
-parent: SYS-EMNHY1
-order: 30
+former-id: SW-E26XKQ
+parent: REQ-KZTR45M
+order: a2
 links:
   - type: refines
-    target: SYS-EMNHY1
+    target: REQ-KZTR45M
     confirmed: 84eef3783091
 ---
 The login screen shall notify the room temperature at least once per minute.

@@ -1,15 +1,16 @@
 ---
-id: IF-VY22H4
+id: REQ-H0JYP4T
 type: interface-requirement
 title: Battery backup measures the room temperature
 status: Approved
 priority: Low
 owner: محمد علي
-parent: SYS-K2NWME
-order: 20
+former-id: IF-VY22H4
+parent: REQ-PGMDNV9
+order: a1
 links:
   - type: refines
-    target: SYS-K2NWME
+    target: REQ-PGMDNV9
     confirmed: e03e8a7a7686
 ---
 The battery backup shall validate user preferences in all supported languages.

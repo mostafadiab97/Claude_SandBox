@@ -1,5 +1,5 @@
 ---
-id: IF-99TBAH
+id: REQ-WX5MKYF
 type: interface-requirement
 title: "Signal 620: relay events"
 status: Draft
@@ -8,7 +8,8 @@ tags:
   - connectivity
   - EMC
   - ux
-parent: INFO-2TM0JP
-order: 6200
+former-id: IF-99TBAH
+parent: REQ-RJ0KHPT
+order: b8z
 ---
 Interface signal number 620.

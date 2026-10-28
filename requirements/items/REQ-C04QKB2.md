@@ -1,5 +1,5 @@
 ---
-id: IF-CMRW60
+id: REQ-C04QKB2
 type: interface-requirement
 title: Status LED stores the set point
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - release-1.0
   - ux
-parent: SYS-8J1N3D
-order: 40
+former-id: IF-CMRW60
+parent: REQ-8R6PK9M
+order: a3
 links:
   - type: refines
-    target: SYS-8J1N3D
+    target: REQ-8R6PK9M
     confirmed: a3b0d4233e0c
 ---
 The menu system shall validate audit records within 200 ms.

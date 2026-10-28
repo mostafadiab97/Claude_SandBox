@@ -1,5 +1,5 @@
 ---
-id: HW-89NPS7
+id: REQ-K1DY3VQ
 type: hardware-requirement
 title: Battery backup synchronises safety limits
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - cost
   - safety
-parent: SYS-J3QEM9
-order: 30
+former-id: HW-89NPS7
+parent: REQ-TT6G6JA
+order: a2
 links:
   - type: refines
-    target: SYS-J3QEM9
+    target: REQ-TT6G6JA
     confirmed: 78aeb447b6ae
 ---
 The relay board shall measure the room temperature within 200 ms.

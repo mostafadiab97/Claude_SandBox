@@ -1,5 +1,5 @@
 ---
-id: SW-ZDMTP8
+id: REQ-HX43KFA
 type: software-requirement
 title: Zone valve detects the connection state
 status: Review
@@ -8,11 +8,12 @@ tags:
   - regulatory
   - accessibility
   - ux
-parent: SYS-JB56QD
-order: 10
+former-id: SW-ZDMTP8
+parent: REQ-3CNNKR0
+order: a0
 links:
   - type: refines
-    target: SYS-JB56QD
+    target: REQ-3CNNKR0
     confirmed: 445531d1bb9c
 ---
 The regulation loop shall switch safety limits without user interaction.

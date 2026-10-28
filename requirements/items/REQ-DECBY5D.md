@@ -1,14 +1,15 @@
 ---
-id: HW-8YXDV2
+id: REQ-DECBY5D
 type: hardware-requirement
 title: Local API displays the set point
 status: Obsolete
 owner: M. Farouk
-parent: SYS-XBES39
-order: 30
+former-id: HW-8YXDV2
+parent: REQ-3EZE86Y
+order: a2
 links:
   - type: refines
-    target: SYS-XBES39
+    target: REQ-3EZE86Y
     confirmed: bc98487a5cdc
 ---
 The pairing process shall detect humidity values below 0.5 W in standby.

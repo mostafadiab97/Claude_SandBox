@@ -1,5 +1,5 @@
 ---
-id: SYS-A45TJB
+id: REQ-GRZK4CZ
 type: system-requirement
 title: Login screen logs the operating mode
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - ux
   - power
-parent: INFO-2XXBRS
-order: 1130
+former-id: SYS-A45TJB
+parent: REQ-QYXGSQ4
+order: b0o
 links:
   - type: refines
-    target: STK-HBX3YS
+    target: REQ-S86K9Q8
     confirmed: b42a2f94d25d
 ---
 The login screen shall restore firmware images with an accuracy of ±0.5 °C.

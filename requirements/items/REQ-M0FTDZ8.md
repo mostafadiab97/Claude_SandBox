@@ -1,5 +1,5 @@
 ---
-id: TC-PZNB8H
+id: REQ-M0FTDZ8
 type: test-case
 title: "Verify: Mobile app displays the operating mode"
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - release-2.0
   - release-1.0
-parent: INFO-J0FETE
-order: 480
+former-id: TC-PZNB8H
+parent: REQ-WR5ZJN9
+order: al
 links:
   - type: verifies
-    target: SYS-QK55NH
+    target: REQ-E79YMDC
     confirmed: 3934c54c3f62
 ---
 **Objective:** verify that the mobile app behaves as specified.

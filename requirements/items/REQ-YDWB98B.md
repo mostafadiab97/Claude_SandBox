@@ -1,15 +1,16 @@
 ---
-id: SW-23V7EB
+id: REQ-YDWB98B
 type: software-requirement
 title: OTA server notifys schedule entries
 status: Review
 priority: High
 owner: S. Adel
-parent: SYS-9MTYDR
-order: 10
+former-id: SW-23V7EB
+parent: REQ-Y0E1P23
+order: a0
 links:
   - type: refines
-    target: SYS-9MTYDR
+    target: REQ-Y0E1P23
     confirmed: 167b541b0a5f
 ---
 The user account service shall validate schedule entries using AES-256-GCM.

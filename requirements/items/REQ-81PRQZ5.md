@@ -1,10 +1,11 @@
 ---
-id: IF-MAX06T
+id: REQ-81PRQZ5
 type: interface-requirement
 title: "Signal 472: user preferences"
 status: Approved
 owner: Y. Saber
-parent: INFO-2TM0JP
-order: 4720
+former-id: IF-MAX06T
+parent: REQ-RJ0KHPT
+order: b6b
 ---
 Interface signal number 472.

@@ -1,15 +1,16 @@
 ---
-id: HW-WN4YQP
+id: REQ-34C0TDF
 type: hardware-requirement
 title: Enclosure restores relay events
 status: Obsolete
 priority: Low
 owner: A. Hassan
-parent: SYS-72QJ2X
-order: 20
+former-id: HW-WN4YQP
+parent: REQ-JKXFW0H
+order: a1
 links:
   - type: refines
-    target: SYS-72QJ2X
+    target: REQ-JKXFW0H
     confirmed: b36914a527ec
 ---
 The power supply shall measure humidity values in under 3 s.

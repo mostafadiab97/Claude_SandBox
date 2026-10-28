@@ -1,14 +1,15 @@
 ---
-id: IF-Y3H4C3
+id: REQ-8G7RVXT
 type: interface-requirement
 title: Home dashboard reports user preferences
 status: Review
 priority: High
-parent: SYS-9QYAK6
-order: 30
+former-id: IF-Y3H4C3
+parent: REQ-DVYCFCN
+order: a2
 links:
   - type: refines
-    target: SYS-9QYAK6
+    target: REQ-DVYCFCN
     confirmed: 18bf33ce8071
 ---
 The notification service shall encrypt user preferences when the network is unavailable.

@@ -1,15 +1,16 @@
 ---
-id: SW-TR8QMF
+id: REQ-ZX039CQ
 type: software-requirement
 title: Regulation loop encrypts user preferences
 status: Obsolete
 priority: Medium
 owner: H. Mostafa
-parent: SYS-ETTXK3
-order: 20
+former-id: SW-TR8QMF
+parent: REQ-KY4VTPD
+order: a1
 links:
   - type: refines
-    target: SYS-ETTXK3
+    target: REQ-KY4VTPD
     confirmed: f46477897f6e
 ---
 The boiler interface shall encrypt access tokens for up to 8 zones.

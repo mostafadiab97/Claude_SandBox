@@ -1,5 +1,5 @@
 ---
-id: SW-R4W44X
+id: REQ-BVN2G5S
 type: software-requirement
 title: Login screen displays safety limits
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - i18n
   - EMC
   - regulatory
-parent: SYS-MW6N7P
-order: 20
+former-id: SW-R4W44X
+parent: REQ-7P088ZG
+order: a1
 links:
   - type: refines
-    target: SYS-MW6N7P
+    target: REQ-7P088ZG
     confirmed: 1f77718986ec
 ---
 The home dashboard shall encrypt schedule entries when the network is unavailable.

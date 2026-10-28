@@ -1,5 +1,5 @@
 ---
-id: SW-GQ9PF6
+id: REQ-WANX09S
 type: software-requirement
 title: Heat pump driver synchronises user preferences
 status: Review
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - performance
   - cost
-parent: SYS-MXKR6Y
-order: 20
+former-id: SW-GQ9PF6
+parent: REQ-VR7ZHR7
+order: a1
 links:
   - type: refines
-    target: SYS-MXKR6Y
+    target: REQ-VR7ZHR7
     confirmed: 93ee1defe30a
 ---
 The zone valve shall switch sensor readings using AES-256-GCM.

@@ -1,5 +1,5 @@
 ---
-id: SW-MGBSAX
+id: REQ-M552WMH
 type: software-requirement
 title: Heating controller reports firmware images
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - customer-request
-parent: SYS-2B13NX
-order: 20
+former-id: SW-MGBSAX
+parent: REQ-SC3ZA54
+order: a1
 links:
   - type: refines
-    target: SYS-2B13NX
+    target: REQ-SC3ZA54
     confirmed: 5fda8f4cc9f5
 ---
 The heating controller shall display the room temperature for up to 8 zones.

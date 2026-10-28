@@ -1,5 +1,5 @@
 ---
-id: SYS-H3FFZV
+id: REQ-WEM21SV
 type: system-requirement
 title: Backlight synchronises safety limits
 status: Review
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - customer-request
   - power
-parent: INFO-PDR6FV
-order: 530
+former-id: SYS-H3FFZV
+parent: REQ-2ZA2TRZ
+order: aq
 links:
   - type: refines
-    target: STK-BSSZ8Z
+    target: REQ-BREZDN1
     confirmed: eb15999e37f0
 ---
 The backlight shall notify relay events below 0.5 W in standby.

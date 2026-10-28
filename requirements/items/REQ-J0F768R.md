@@ -1,5 +1,5 @@
 ---
-id: SW-8J690E
+id: REQ-J0F768R
 type: software-requirement
 title: User account service measures audit records
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - performance
   - i18n
   - release-2.0
-parent: SYS-PYK237
-order: 30
+former-id: SW-8J690E
+parent: REQ-NRJAH0X
+order: a2
 links:
   - type: refines
-    target: SYS-PYK237
+    target: REQ-NRJAH0X
     confirmed: 8258f49e00ae
 ---
 The device registry shall display access tokens below 0.5 W in standby.

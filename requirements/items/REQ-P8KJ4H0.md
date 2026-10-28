@@ -1,5 +1,5 @@
 ---
-id: DEF-HZH23E
+id: REQ-P8KJ4H0
 type: defect
 title: "Defect: enclosure does not validate safety limits"
 status: Review
@@ -9,14 +9,15 @@ tags:
   - i18n
   - power
   - release-2.0
-parent: INFO-BB7M2N
-order: 20
+former-id: DEF-HZH23E
+parent: REQ-995FBPM
+order: a1
 links:
   - type: relates-to
-    target: TC-GWEA2X
+    target: REQ-E48T4TZ
     confirmed: cd3775d15afe
   - type: relates-to
-    target: SYS-EC99RK
+    target: REQ-9DQ3XFA
     confirmed: efe95468b71a
 ---
 Found during regression testing of build 2.1.25.

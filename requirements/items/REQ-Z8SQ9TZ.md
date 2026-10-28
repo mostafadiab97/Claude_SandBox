@@ -1,5 +1,5 @@
 ---
-id: TC-6JRQRQ
+id: REQ-Z8SQ9TZ
 type: test-case
 title: "Verify: Wi-Fi module reports humidity values"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - power
-parent: INFO-F0M7VC
-order: 930
+former-id: TC-6JRQRQ
+parent: REQ-67RQXCK
+order: b0U
 links:
   - type: verifies
-    target: SYS-4X1SRM
+    target: REQ-SHYGEGX
     confirmed: bc96873ba6c1
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

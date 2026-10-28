@@ -1,16 +1,17 @@
 ---
-id: IF-V3ZTFX
+id: REQ-NN1EFVC
 type: interface-requirement
 title: Secure boot calibrates the operating mode
 status: Approved
 priority: High
 tags:
   - connectivity
-parent: SYS-N7H58H
-order: 20
+former-id: IF-V3ZTFX
+parent: REQ-9T92A3R
+order: a1
 links:
   - type: refines
-    target: SYS-N7H58H
+    target: REQ-9T92A3R
     confirmed: a8a06726344d
 ---
 The watchdog shall store the operating mode in all supported languages.

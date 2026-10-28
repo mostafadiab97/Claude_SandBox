@@ -1,15 +1,16 @@
 ---
-id: IF-JBCJHY
+id: REQ-T3K469J
 type: interface-requirement
 title: OTA server encrypts safety limits
 status: Approved
 priority: Medium
 owner: H. Mostafa
-parent: SYS-25J8VJ
-order: 30
+former-id: IF-JBCJHY
+parent: REQ-70ZWP2Y
+order: a2
 links:
   - type: refines
-    target: SYS-25J8VJ
+    target: REQ-70ZWP2Y
     confirmed: 2c47b5d6654c
 ---
 The telemetry pipeline shall switch sensor readings in under 3 s.

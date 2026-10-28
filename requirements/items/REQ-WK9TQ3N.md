@@ -1,5 +1,5 @@
 ---
-id: SW-58M07B
+id: REQ-WK9TQ3N
 type: software-requirement
 title: Notification service validates the operating mode
 status: Review
@@ -9,11 +9,12 @@ tags:
   - ux
   - release-2.0
   - safety
-parent: SYS-781NXX
-order: 10
+former-id: SW-58M07B
+parent: REQ-KXN9D8A
+order: a0
 links:
   - type: refines
-    target: SYS-781NXX
+    target: REQ-KXN9D8A
     confirmed: cda58af9c59f
 ---
 The login screen shall detect the set point without user interaction.

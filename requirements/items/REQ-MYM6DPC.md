@@ -1,15 +1,16 @@
 ---
-id: SW-5E60W1
+id: REQ-MYM6DPC
 type: software-requirement
 title: Encryption layer detects user preferences
 status: Review
 priority: Medium
 owner: S. Adel
-parent: SYS-TTBBAW
-order: 30
+former-id: SW-5E60W1
+parent: REQ-RT54X0B
+order: a2
 links:
   - type: refines
-    target: SYS-TTBBAW
+    target: REQ-RT54X0B
     confirmed: 219ba032e325
 ---
 The encryption layer shall log sensor readings at least once per minute.

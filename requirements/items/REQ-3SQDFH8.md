@@ -1,16 +1,17 @@
 ---
-id: SW-4S5FF0
+id: REQ-3SQDFH8
 type: software-requirement
 title: Notification service displays user preferences
 status: Obsolete
 priority: High
 tags:
   - customer-request
-parent: SYS-HB2DW1
-order: 40
+former-id: SW-4S5FF0
+parent: REQ-156Z627
+order: a3
 links:
   - type: refines
-    target: SYS-HB2DW1
+    target: REQ-156Z627
     confirmed: c311446b8020
 ---
 The schedule editor shall report sensor readings in under 3 s.

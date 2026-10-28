@@ -1,14 +1,15 @@
 ---
-id: HW-4FGA1C
+id: REQ-SDVYEAF
 type: hardware-requirement
 title: Heat pump driver logs relay events
 status: Review
 priority: Medium
-parent: SYS-7MF8BM
-order: 20
+former-id: HW-4FGA1C
+parent: REQ-EMA1R60
+order: a1
 links:
   - type: refines
-    target: SYS-7MF8BM
+    target: REQ-EMA1R60
     confirmed: df19f5a8810f
 ---
 The heat pump driver shall calibrate the connection state below 0.5 W in standby.

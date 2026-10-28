@@ -1,5 +1,5 @@
 ---
-id: SW-Z889A4
+id: REQ-6Y00AAC
 type: software-requirement
 title: Device registry displays error conditions
 status: Approved
@@ -7,11 +7,12 @@ tags:
   - cost
   - ux
   - release-2.0
-parent: SYS-D4MGRN
-order: 20
+former-id: SW-Z889A4
+parent: REQ-1ENW8WA
+order: a1
 links:
   - type: refines
-    target: SYS-D4MGRN
+    target: REQ-1ENW8WA
     confirmed: b3e25b1d60cb
 ---
 The user account service shall log error conditions after a power loss.

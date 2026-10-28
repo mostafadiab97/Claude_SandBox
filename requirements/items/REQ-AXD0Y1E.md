@@ -1,15 +1,16 @@
 ---
-id: IF-FBY2AK
+id: REQ-AXD0Y1E
 type: interface-requirement
 title: Zone valve validates energy consumption
 status: Review
 priority: Medium
 owner: M. Farouk
-parent: SYS-A6Z44C
-order: 10
+former-id: IF-FBY2AK
+parent: REQ-2VGMQ5S
+order: a0
 links:
   - type: refines
-    target: SYS-A6Z44C
+    target: REQ-2VGMQ5S
     confirmed: ac3474515883
 ---
 The heating controller shall switch error conditions after a power loss.

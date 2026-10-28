@@ -1,5 +1,5 @@
 ---
-id: HW-6JH9SE
+id: REQ-NGTF5TY
 type: hardware-requirement
 title: Wi-Fi module measures firmware images
 status: Draft
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - performance
   - accessibility
-parent: SYS-MQPMA3
-order: 20
+former-id: HW-6JH9SE
+parent: REQ-CJE6CS7
+order: a1
 links:
   - type: refines
-    target: SYS-MQPMA3
+    target: REQ-CJE6CS7
     confirmed: 906d4acd43e6
 ---
 The pairing process shall restore the set point when the network is unavailable.

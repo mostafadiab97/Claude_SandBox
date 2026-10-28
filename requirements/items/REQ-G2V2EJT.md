@@ -1,5 +1,5 @@
 ---
-id: SW-9DX51H
+id: REQ-G2V2EJT
 type: software-requirement
 title: Zigbee radio notifys the set point
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - release-2.0
   - regulatory
   - power
-parent: SYS-XFHV81
-order: 30
+former-id: SW-9DX51H
+parent: REQ-6Y7ZTW0
+order: a2
 links:
   - type: refines
-    target: SYS-XFHV81
+    target: REQ-6Y7ZTW0
     confirmed: cd27f13dbcce
 ---
 The local API shall log the room temperature after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: HW-6P5GBC
+id: REQ-H98TRYE
 type: hardware-requirement
 title: Relay board validates user preferences
 status: Review
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - cost
   - accessibility
-parent: SYS-H9YARC
-order: 20
+former-id: HW-6P5GBC
+parent: REQ-7DP8FH8
+order: a1
 links:
   - type: refines
-    target: SYS-H9YARC
+    target: REQ-7DP8FH8
     confirmed: 65250d626484
 ---
 The main PCB shall detect the connection state when the network is unavailable.

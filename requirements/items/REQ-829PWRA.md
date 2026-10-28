@@ -1,15 +1,16 @@
 ---
-id: HW-W6DMCT
+id: REQ-829PWRA
 type: hardware-requirement
 title: Relay board switchs energy consumption
 status: Draft
 priority: Medium
 owner: N. Kamal
-parent: SYS-MB5B23
-order: 20
+former-id: HW-W6DMCT
+parent: REQ-SJRS3E1
+order: a1
 links:
   - type: refines
-    target: SYS-MB5B23
+    target: REQ-SJRS3E1
     confirmed: 7dee66be9e03
 ---
 The main PCB shall authenticate sensor readings at least once per minute.

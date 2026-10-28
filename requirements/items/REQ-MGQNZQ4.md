@@ -1,15 +1,16 @@
 ---
-id: SW-K1AP6H
+id: REQ-MGQNZQ4
 type: software-requirement
 title: Telemetry pipeline restores safety limits
 status: Approved
 priority: High
 owner: محمد علي
-parent: SYS-JGSYAF
-order: 20
+former-id: SW-K1AP6H
+parent: REQ-VQSZ3CB
+order: a1
 links:
   - type: refines
-    target: SYS-JGSYAF
+    target: REQ-VQSZ3CB
     confirmed: 68f515bb8ed8
 ---
 The cloud backend shall measure humidity values using AES-256-GCM.

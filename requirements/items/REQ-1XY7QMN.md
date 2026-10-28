@@ -1,7 +1,8 @@
 ---
-id: INFO-8K830K
+id: REQ-1XY7QMN
 type: information
-title: 2.4 Risks
-parent: INFO-12YCQ1
-order: 40
+title: Risks
+former-id: INFO-8K830K
+parent: REQ-WYM3P1X
+order: a2
 ---

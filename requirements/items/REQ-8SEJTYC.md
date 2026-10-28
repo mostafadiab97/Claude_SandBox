@@ -1,17 +1,18 @@
 ---
-id: SYS-GJM3H6
+id: REQ-8SEJTYC
 type: system-requirement
 title: Pairing process logs the room temperature
 status: Approved
 owner: A. Hassan
-parent: INFO-NRVHA2
-order: 1280
+former-id: SYS-GJM3H6
+parent: REQ-6R94HFM
+order: b13
 links:
   - type: refines
-    target: STK-22X165
+    target: REQ-QCFMNYV
     confirmed: 0023c9af8e7d
   - type: mitigates
-    target: RSK-6H3D9M
+    target: REQ-0HFM6HD
     confirmed: c7f45fccd8d0
 ---
 The pairing process shall detect audit records without user interaction.

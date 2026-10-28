@@ -1,16 +1,17 @@
 ---
-id: SYS-NYK3S8
+id: REQ-KVQ8Z5K
 type: system-requirement
 title: Battery backup logs error conditions
 status: Review
 priority: Medium
 tags:
   - customer-request
-parent: INFO-A6P9A8
-order: 1830
+former-id: SYS-NYK3S8
+parent: REQ-CMCS31A
+order: b1w
 links:
   - type: refines
-    target: STK-W18EQ4
+    target: REQ-GPRWN7N
     confirmed: aeec35e06317
 ---
 The battery backup shall authenticate error conditions at least once per minute.

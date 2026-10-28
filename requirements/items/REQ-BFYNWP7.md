@@ -1,19 +1,20 @@
 ---
-id: TC-WM9SAN
+id: REQ-BFYNWP7
 type: test-case
 title: "Verify: Main PCB stores error conditions"
 status: Obsolete
 owner: A. Hassan
 tags:
   - power
-parent: INFO-MACGC3
-order: 330
+former-id: TC-WM9SAN
+parent: REQ-F9Z1FYS
+order: aW
 links:
   - type: verifies
-    target: SYS-YJCK64
+    target: REQ-VTR2VKC
     confirmed: 3cd2af5ea529
   - type: verifies
-    target: SW-MJ9S9Z
+    target: REQ-FPGRTFY
     confirmed: aac22e3eea6a
 ---
 **Objective:** verify that the main PCB behaves as specified.

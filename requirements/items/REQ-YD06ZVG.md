@@ -1,11 +1,12 @@
 ---
-id: IF-2TJHMN
+id: REQ-YD06ZVG
 type: interface-requirement
 title: "Signal 237: relay events"
 status: Obsolete
 priority: Medium
 owner: K. Tanaka
-parent: INFO-2TM0JP
-order: 2370
+former-id: IF-2TJHMN
+parent: REQ-RJ0KHPT
+order: b2o
 ---
 Interface signal number 237.

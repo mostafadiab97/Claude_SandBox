@@ -1,15 +1,16 @@
 ---
-id: SW-4RSNRB
+id: REQ-V35F9PN
 type: software-requirement
 title: Encrypt safety limits — detail
 status: Review
 priority: Medium
 owner: N. Kamal
-parent: SW-Y5CVYC
-order: 10
+former-id: SW-4RSNRB
+parent: REQ-9ENETPV
+order: a0
 links:
   - type: refines
-    target: SW-Y5CVYC
+    target: REQ-9ENETPV
     confirmed: a553ea66b4a2
 ---
 The cloud backend shall detect the room temperature after a power loss.

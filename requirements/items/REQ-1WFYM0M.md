@@ -1,5 +1,5 @@
 ---
-id: IF-0P3MEZ
+id: REQ-1WFYM0M
 type: interface-requirement
 title: Status LED notifys audit records
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - safety
   - connectivity
   - EMC
-parent: SYS-YKSDDE
-order: 20
+former-id: IF-0P3MEZ
+parent: REQ-YG8BZ77
+order: a1
 links:
   - type: refines
-    target: SYS-YKSDDE
+    target: REQ-YG8BZ77
     confirmed: 631388ab0b1c
 ---
 The touch display shall synchronise energy consumption at least once per minute.

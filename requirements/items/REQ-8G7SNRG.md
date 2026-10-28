@@ -1,11 +1,12 @@
 ---
-id: RSK-BCAGDN
+id: REQ-8G7SNRG
 type: risk
 title: "Risk: boiler interface fails to authenticate sensor readings"
 status: Draft
 priority: Low
-parent: INFO-YNFB8N
-order: 90
+former-id: RSK-BCAGDN
+parent: REQ-M63G69B
+order: a8
 ---
 **Hazard:** the boiler interface could fail to switch audit records.
 

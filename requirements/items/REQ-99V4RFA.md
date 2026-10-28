@@ -1,18 +1,19 @@
 ---
-id: TC-JVAAQY
+id: REQ-99V4RFA
 type: test-case
 title: "Verify: Heating controller notifys relay events"
 status: Review
 priority: Low
 owner: L. Samir
-parent: INFO-MS9DAG
-order: 510
+former-id: TC-JVAAQY
+parent: REQ-XGWSK2K
+order: ao
 links:
   - type: verifies
-    target: SYS-RAP7Z6
+    target: REQ-YBS8MW9
     confirmed: 8158ead818f6
   - type: verifies
-    target: SW-GEQD7V
+    target: REQ-X1GZ3E9
     confirmed: b4c2cec05ff8
 ---
 **Objective:** verify that the heating controller behaves as specified.

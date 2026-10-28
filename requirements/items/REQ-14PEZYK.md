@@ -1,5 +1,5 @@
 ---
-id: SW-C8FAVC
+id: REQ-14PEZYK
 type: software-requirement
 title: Touch display validates energy consumption
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - regulatory
   - i18n
-parent: SYS-H53211
-order: 10
+former-id: SW-C8FAVC
+parent: REQ-DTEFJYX
+order: a0
 links:
   - type: refines
-    target: SYS-H53211
+    target: REQ-DTEFJYX
     confirmed: af6e93d43894
 ---
 The rotary knob shall store audit records in all supported languages.

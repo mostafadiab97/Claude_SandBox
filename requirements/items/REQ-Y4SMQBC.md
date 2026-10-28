@@ -1,5 +1,5 @@
 ---
-id: HW-9KC59P
+id: REQ-Y4SMQBC
 type: hardware-requirement
 title: Power supply calibrates user preferences
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - EMC
   - customer-request
   - release-1.0
-parent: SYS-ZHJT86
-order: 10
+former-id: HW-9KC59P
+parent: REQ-Z350F9P
+order: a0
 links:
   - type: refines
-    target: SYS-ZHJT86
+    target: REQ-Z350F9P
     confirmed: d2ebf70532a7
 ---
 The power supply shall notify the room temperature within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: HW-DG4KDD
+id: REQ-98VX6PV
 type: hardware-requirement
 title: User account service validates relay events
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: N. Kamal
 tags:
   - ux
-parent: SYS-9BKWE6
-order: 10
+former-id: HW-DG4KDD
+parent: REQ-2ERK7CD
+order: a0
 links:
   - type: refines
-    target: SYS-9BKWE6
+    target: REQ-2ERK7CD
     confirmed: 69aa4344ccec
 ---
 The OTA server shall measure audit records at least once per minute.

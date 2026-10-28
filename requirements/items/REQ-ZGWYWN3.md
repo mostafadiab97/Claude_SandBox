@@ -1,14 +1,15 @@
 ---
-id: TC-XA6S9X
+id: REQ-ZGWYWN3
 type: test-case
 title: "Verify: Battery backup limits schedule entries"
 status: Obsolete
 owner: N. Kamal
-parent: INFO-MACGC3
-order: 580
+former-id: TC-XA6S9X
+parent: REQ-F9Z1FYS
+order: av
 links:
   - type: verifies
-    target: SYS-9J39GS
+    target: REQ-71PZPKN
     confirmed: 59241a6dbb43
 ---
 **Objective:** verify that the battery backup behaves as specified.

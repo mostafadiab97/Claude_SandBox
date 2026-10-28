@@ -1,15 +1,16 @@
 ---
-id: SW-Q44Q00
+id: REQ-RCH1FS3
 type: software-requirement
 title: Tamper detection notifys the set point
 status: Review
 priority: Low
 owner: H. Mostafa
-parent: SYS-WF25CP
-order: 20
+former-id: SW-Q44Q00
+parent: REQ-GFFZN3Z
+order: a1
 links:
   - type: refines
-    target: SYS-WF25CP
+    target: REQ-GFFZN3Z
     confirmed: 3f8b6bcfec69
 ---
 The tamper detection shall display safety limits at least once per minute.

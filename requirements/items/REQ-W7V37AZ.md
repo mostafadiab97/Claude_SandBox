@@ -1,5 +1,5 @@
 ---
-id: SW-X86VS5
+id: REQ-W7V37AZ
 type: software-requirement
 title: Over-temperature monitor notifys audit records
 status: Draft
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - i18n
   - regulatory
-parent: SYS-RGCFDP
-order: 40
+former-id: SW-X86VS5
+parent: REQ-3ZM1N85
+order: a3
 links:
   - type: refines
-    target: SYS-RGCFDP
+    target: REQ-3ZM1N85
     confirmed: 703711cfcecf
 ---
 The watchdog shall log humidity values below 0.5 W in standby.

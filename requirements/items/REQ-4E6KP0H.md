@@ -1,19 +1,20 @@
 ---
-id: SYS-TNP510
+id: REQ-4E6KP0H
 type: system-requirement
 title: Notification service displays firmware images
 status: Draft
 priority: High
 tags:
   - power
-parent: INFO-2XXBRS
-order: 1860
+former-id: SYS-TNP510
+parent: REQ-QYXGSQ4
+order: b1z
 links:
   - type: refines
-    target: STK-F8MTPC
+    target: REQ-1ZYN1HD
     confirmed: bbf5b4f56657
   - type: mitigates
-    target: RSK-8FFR90
+    target: REQ-6TFCRWD
     confirmed: 63c04ae06813
 ---
 The notification service shall synchronise the operating mode using AES-256-GCM.

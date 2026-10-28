@@ -1,5 +1,5 @@
 ---
-id: SYS-NKN3QV
+id: REQ-4V8EY3P
 type: system-requirement
 title: User account service measures schedule entries
 status: Review
@@ -7,11 +7,12 @@ priority: High
 tags:
   - power
   - security
-parent: INFO-YV5EZD
-order: 990
+former-id: SYS-NKN3QV
+parent: REQ-RE9ZKHF
+order: b0a
 links:
   - type: refines
-    target: STK-SKPX7F
+    target: REQ-M17BCB3
     confirmed: ff820400e2f9
 ---
 The user account service shall synchronise firmware images after a power loss.

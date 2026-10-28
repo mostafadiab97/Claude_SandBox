@@ -1,5 +1,5 @@
 ---
-id: SYS-6FSERM
+id: REQ-8M8WPB5
 type: system-requirement
 title: Cloud backend measures error conditions
 status: Approved
@@ -7,14 +7,15 @@ priority: Low
 tags:
   - regulatory
   - connectivity
-parent: INFO-YV5EZD
-order: 380
+former-id: SYS-6FSERM
+parent: REQ-RE9ZKHF
+order: ab
 links:
   - type: refines
-    target: STK-JFBQPS
+    target: REQ-A8X8PTB
     confirmed: 5027ee1822eb
   - type: mitigates
-    target: RSK-WPWANY
+    target: REQ-82R56MA
     confirmed: e5572913b0fe
 ---
 The cloud backend shall authenticate firmware images in under 3 s.

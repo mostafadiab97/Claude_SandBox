@@ -1,5 +1,5 @@
 ---
-id: HW-PHT9Y8
+id: REQ-NGGFXF1
 type: hardware-requirement
 title: Notify access tokens — detail
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - release-2.0
   - regulatory
   - security
-parent: HW-AM7QH0
-order: 10
+former-id: HW-PHT9Y8
+parent: REQ-ES5D1B6
+order: a0
 links:
   - type: refines
-    target: HW-AM7QH0
+    target: REQ-ES5D1B6
     confirmed: 51ae89d2a48f
 ---
 The heat pump driver shall authenticate the connection state for at least 10 years.

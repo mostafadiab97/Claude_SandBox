@@ -1,14 +1,15 @@
 ---
-id: SYS-J86K99
+id: REQ-Q9W4EZ1
 type: system-requirement
 title: Device registry calibrates the operating mode
 status: Approved
 priority: Low
-parent: INFO-YV5EZD
-order: 1380
+former-id: SYS-J86K99
+parent: REQ-RE9ZKHF
+order: b1D
 links:
   - type: refines
-    target: STK-Y5PMTC
+    target: REQ-FPBMKN9
     confirmed: 047439fb0db8
 ---
 The device registry shall limit humidity values for at least 10 years.

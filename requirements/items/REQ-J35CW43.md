@@ -1,5 +1,5 @@
 ---
-id: DEF-YG4FBB
+id: REQ-J35CW43
 type: defect
 title: "Defect: over-temperature monitor does not report safety limits"
 status: Review
@@ -8,14 +8,15 @@ owner: S. Adel
 tags:
   - security
   - cost
-parent: INFO-6QFMYN
-order: 170
+former-id: DEF-YG4FBB
+parent: REQ-1XKBKFE
+order: aG
 links:
   - type: relates-to
-    target: TC-VAJSZT
+    target: REQ-7M0D3AD
     confirmed: f6229e64650f
   - type: relates-to
-    target: SYS-8FZWQN
+    target: REQ-CKNG4P8
     confirmed: da1b062f4b9e
 ---
 Found during regression testing of build 2.8.11.

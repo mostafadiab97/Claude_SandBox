@@ -1,5 +1,5 @@
 ---
-id: SW-AKWNNS
+id: REQ-7KRBQZG
 type: software-requirement
 title: Pairing process stores the operating mode
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - release-1.0
   - regulatory
-parent: SYS-2TKSSR
-order: 20
+former-id: SW-AKWNNS
+parent: REQ-6J8J6CK
+order: a1
 links:
   - type: refines
-    target: SYS-2TKSSR
+    target: REQ-6J8J6CK
     confirmed: 7b7bf03ff065
 ---
 The Wi-Fi module shall encrypt safety limits at least once per minute.

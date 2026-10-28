@@ -1,15 +1,16 @@
 ---
-id: SW-C5MNDM
+id: REQ-FB9AH88
 type: software-requirement
 title: Tamper detection limits access tokens
 status: Approved
 priority: High
 owner: J. Müller
-parent: SYS-BBX6H4
-order: 30
+former-id: SW-C5MNDM
+parent: REQ-FN2JXAS
+order: a2
 links:
   - type: refines
-    target: SYS-BBX6H4
+    target: REQ-FN2JXAS
     confirmed: eea34ba9a0b3
 ---
 The encryption layer shall log safety limits using AES-256-GCM.

@@ -1,15 +1,16 @@
 ---
-id: HW-RNWK6Y
+id: REQ-2YJHYFX
 type: hardware-requirement
 title: Calibrate audit records — detail
 status: Review
 priority: Low
 owner: É. Laurent
-parent: HW-TS4REE
-order: 10
+former-id: HW-RNWK6Y
+parent: REQ-2N6FR2R
+order: a0
 links:
   - type: refines
-    target: HW-TS4REE
+    target: REQ-2N6FR2R
     confirmed: 2fe469d1aec2
 ---
 The enclosure shall report humidity values with an accuracy of ±0.5 °C.

@@ -1,15 +1,16 @@
 ---
-id: SYS-BS5G2C
+id: REQ-BHV7AVF
 type: system-requirement
 title: Notification service stores access tokens
 status: Review
 priority: Medium
 owner: محمد علي
-parent: INFO-2XXBRS
-order: 1890
+former-id: SYS-BS5G2C
+parent: REQ-QYXGSQ4
+order: b22
 links:
   - type: refines
-    target: STK-ND3D08
+    target: REQ-BWGMSWJ
     confirmed: df91c673f737
 ---
 The notification service shall log access tokens using AES-256-GCM.

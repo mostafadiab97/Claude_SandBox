@@ -1,14 +1,15 @@
 ---
-id: SW-6T1MBB
+id: REQ-MRZRVZM
 type: software-requirement
 title: Heating controller synchronises the set point
 status: Draft
 priority: Medium
-parent: SYS-7MF8BM
-order: 30
+former-id: SW-6T1MBB
+parent: REQ-EMA1R60
+order: a2
 links:
   - type: refines
-    target: SYS-7MF8BM
+    target: REQ-EMA1R60
     confirmed: df19f5a8810f
 ---
 The heat pump driver shall encrypt user preferences at least once per minute.

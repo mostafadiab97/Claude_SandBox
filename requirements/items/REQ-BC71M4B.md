@@ -1,15 +1,16 @@
 ---
-id: TC-J3W44A
+id: REQ-BC71M4B
 type: test-case
 title: "Verify: Login screen reports the connection state"
 status: Draft
 priority: Medium
 owner: J. Müller
-parent: INFO-J0FETE
-order: 1490
+former-id: TC-J3W44A
+parent: REQ-WR5ZJN9
+order: b1O
 links:
   - type: verifies
-    target: SYS-E9RGPF
+    target: REQ-1PE74PK
     confirmed: f695ac56bd99
 ---
 **Objective:** verify that the login screen behaves as specified.

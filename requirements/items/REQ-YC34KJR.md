@@ -1,5 +1,5 @@
 ---
-id: SYS-BHD8S6
+id: REQ-YC34KJR
 type: system-requirement
 title: Encryption layer limits humidity values
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - i18n
   - regulatory
   - connectivity
-parent: INFO-0229G8
-order: 40
+former-id: SYS-BHD8S6
+parent: REQ-H9113WA
+order: a3
 links:
   - type: refines
-    target: STK-ZJRWCQ
+    target: REQ-9YG77WV
     confirmed: 080168ea99ae
 ---
 The encryption layer shall log the room temperature using AES-256-GCM.

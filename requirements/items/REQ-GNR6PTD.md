@@ -1,5 +1,5 @@
 ---
-id: SW-P1PC3F
+id: REQ-GNR6PTD
 type: software-requirement
 title: Backlight limits audit records
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - cost
   - regulatory
   - connectivity
-parent: SYS-4A9C1C
-order: 30
+former-id: SW-P1PC3F
+parent: REQ-EQ0RF35
+order: a2
 links:
   - type: refines
-    target: SYS-4A9C1C
+    target: REQ-EQ0RF35
     confirmed: 7e8a730cf0b5
 ---
 The touch display shall store the connection state below 0.5 W in standby.

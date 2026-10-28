@@ -1,15 +1,16 @@
 ---
-id: SYS-MSJYD9
+id: REQ-0YZEF7C
 type: system-requirement
 title: Zone valve notifys schedule entries
 status: Obsolete
 priority: Medium
 owner: K. Tanaka
-parent: INFO-6DQTKV
-order: 740
+former-id: SYS-MSJYD9
+parent: REQ-7ED7ZET
+order: b0B
 links:
   - type: refines
-    target: STK-M7S0HJ
+    target: REQ-219619F
     confirmed: 000356d5d38b
 ---
 The zone valve shall calibrate error conditions for up to 8 zones.

@@ -1,14 +1,15 @@
 ---
-id: SYS-7QNRB0
+id: REQ-WEBDC12
 type: system-requirement
 title: Notification service logs user preferences
 status: Approved
 owner: R. Nabil
-parent: INFO-2XXBRS
-order: 890
+former-id: SYS-7QNRB0
+parent: REQ-QYXGSQ4
+order: b0Q
 links:
   - type: refines
-    target: STK-BR4RT9
+    target: REQ-QZME2VX
     confirmed: 16def0c1f947
 ---
 The notification service shall store humidity values when the network is unavailable.

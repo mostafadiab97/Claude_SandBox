@@ -1,7 +1,8 @@
 ---
-id: INFO-Y69DRS
+id: REQ-YW554H8
 type: information
-title: 6.5 Defects and change requests
-parent: INFO-8XMHGD
-order: 50
+title: Defects and change requests
+former-id: INFO-Y69DRS
+parent: REQ-Q9F6VKQ
+order: a4
 ---

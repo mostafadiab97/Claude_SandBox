@@ -1,5 +1,5 @@
 ---
-id: TC-KG8Z7C
+id: REQ-E45BGY8
 type: test-case
 title: "Verify: Regulation loop measures the room temperature"
 status: Draft
@@ -8,14 +8,15 @@ owner: M. Farouk
 tags:
   - connectivity
   - release-2.0
-parent: INFO-MS9DAG
-order: 180
+former-id: TC-KG8Z7C
+parent: REQ-XGWSK2K
+order: aH
 links:
   - type: verifies
-    target: SYS-RE1KVT
+    target: REQ-WXJQC7F
     confirmed: 33051d32765f
   - type: verifies
-    target: SW-2TBDPG
+    target: REQ-A2DSQ6Q
     confirmed: a13f7b1862ac
 ---
 **Objective:** verify that the regulation loop behaves as specified.

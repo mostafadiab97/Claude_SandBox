@@ -1,15 +1,16 @@
 ---
-id: TC-V3AMV5
+id: REQ-K209EPE
 type: test-case
 title: "Verify: Battery backup authenticates sensor readings"
 status: Approved
 priority: High
 owner: M. Farouk
-parent: INFO-MACGC3
-order: 620
+former-id: TC-V3AMV5
+parent: REQ-F9Z1FYS
+order: az
 links:
   - type: verifies
-    target: SYS-ETJ0RM
+    target: REQ-TT5358R
     confirmed: 3cc57eda9250
 ---
 **Objective:** verify that the battery backup behaves as specified.

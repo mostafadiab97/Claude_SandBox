@@ -1,5 +1,5 @@
 ---
-id: SW-3AV07M
+id: REQ-HTCCSRT
 type: software-requirement
 title: Device registry detects safety limits
 status: Draft
@@ -7,11 +7,12 @@ owner: H. Mostafa
 tags:
   - cost
   - customer-request
-parent: SYS-06G288
-order: 10
+former-id: SW-3AV07M
+parent: REQ-NGQ979G
+order: a0
 links:
   - type: refines
-    target: SYS-06G288
+    target: REQ-NGQ979G
     confirmed: 3805c8343c55
 ---
 The device registry shall switch the operating mode at least once per minute.

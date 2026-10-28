@@ -1,14 +1,15 @@
 ---
-id: HW-1SPPTJ
+id: REQ-M1QQBKE
 type: hardware-requirement
 title: Main PCB switchs the connection state
 status: Approved
 priority: Medium
-parent: SYS-J3QEM9
-order: 20
+former-id: HW-1SPPTJ
+parent: REQ-TT6G6JA
+order: a1
 links:
   - type: refines
-    target: SYS-J3QEM9
+    target: REQ-TT6G6JA
     confirmed: 78aeb447b6ae
 ---
 The relay board shall validate firmware images in all supported languages.

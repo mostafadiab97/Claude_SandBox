@@ -1,5 +1,5 @@
 ---
-id: HW-2ACPXT
+id: REQ-BDHHQEB
 type: hardware-requirement
 title: Relay board logs energy consumption
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: M. Farouk
 tags:
   - ux
-parent: SYS-47FSG3
-order: 30
+former-id: HW-2ACPXT
+parent: REQ-M1D0D2X
+order: a2
 links:
   - type: refines
-    target: SYS-47FSG3
+    target: REQ-M1D0D2X
     confirmed: 50f3571b1236
 ---
 The relay board shall validate error conditions in under 3 s.

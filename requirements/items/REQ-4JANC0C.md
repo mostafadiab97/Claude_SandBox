@@ -1,5 +1,5 @@
 ---
-id: SW-1NHVT2
+id: REQ-4JANC0C
 type: software-requirement
 title: Over-temperature monitor encrypts error conditions
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: É. Laurent
 tags:
   - regulatory
-parent: SYS-KJ0P5E
-order: 10
+former-id: SW-1NHVT2
+parent: REQ-MHAMGQ2
+order: a0
 links:
   - type: refines
-    target: SYS-KJ0P5E
+    target: REQ-MHAMGQ2
     confirmed: 877e6818b0de
 ---
 The over-temperature monitor shall log relay events after a power loss.

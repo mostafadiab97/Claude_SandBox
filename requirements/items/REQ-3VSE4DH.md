@@ -1,15 +1,16 @@
 ---
-id: TC-EAEV30
+id: REQ-3VSE4DH
 type: test-case
 title: "Regression: Heat pump driver reports sensor readings"
 status: Draft
 priority: Low
 owner: É. Laurent
-parent: INFO-ECHASH
-order: 2050
+former-id: TC-EAEV30
+parent: REQ-6H15AV2
+order: b2I
 links:
   - type: verifies
-    target: SYS-S1BVE9
+    target: REQ-T9WRD80
     confirmed: 7041e83377a5
 ---
 **Objective:** verify that the device behaves as specified.

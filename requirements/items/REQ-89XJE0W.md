@@ -1,14 +1,15 @@
 ---
-id: SW-VGPSBA
+id: REQ-89XJE0W
 type: software-requirement
 title: Detect error conditions — detail
 status: Draft
 owner: A. Hassan
-parent: SW-B3GV8K
-order: 10
+former-id: SW-VGPSBA
+parent: REQ-BN4SE2H
+order: a0
 links:
   - type: refines
-    target: SW-B3GV8K
+    target: REQ-BN4SE2H
     confirmed: d2b871787073
 ---
 The telemetry pipeline shall authenticate firmware images in all supported languages.

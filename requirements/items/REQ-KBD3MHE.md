@@ -1,5 +1,5 @@
 ---
-id: SW-H8E06T
+id: REQ-KBD3MHE
 type: software-requirement
 title: Bluetooth LE link stores safety limits
 status: Draft
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - accessibility
   - safety
-parent: SYS-FJEMQ2
-order: 20
+former-id: SW-H8E06T
+parent: REQ-AYCB30Y
+order: a1
 links:
   - type: refines
-    target: SYS-FJEMQ2
+    target: REQ-AYCB30Y
     confirmed: 8fcf329b307d
 ---
 The Bluetooth LE link shall validate the room temperature when the network is unavailable.

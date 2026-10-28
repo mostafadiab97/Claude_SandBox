@@ -1,15 +1,16 @@
 ---
-id: SW-V7TB34
+id: REQ-WCHGNYQ
 type: software-requirement
 title: Heating controller notifys the operating mode
 status: Review
 priority: Medium
 owner: A. Hassan
-parent: SYS-GECB0Q
-order: 30
+former-id: SW-V7TB34
+parent: REQ-FJ1M55T
+order: a2
 links:
   - type: refines
-    target: SYS-GECB0Q
+    target: REQ-FJ1M55T
     confirmed: 76c8ecd5a548
 ---
 The heat pump driver shall calibrate safety limits for at least 10 years.

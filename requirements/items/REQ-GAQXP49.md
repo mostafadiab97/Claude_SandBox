@@ -1,16 +1,17 @@
 ---
-id: TC-EG5M1N
+id: REQ-GAQXP49
 type: test-case
 title: "Regression: Relay board reports schedule entries"
 status: Review
 owner: H. Mostafa
 tags:
   - EMC
-parent: INFO-ECHASH
-order: 1840
+former-id: TC-EG5M1N
+parent: REQ-6H15AV2
+order: b1x
 links:
   - type: verifies
-    target: SYS-3Z27AV
+    target: REQ-4QP6QW0
     confirmed: 79a5d5b3bb44
 ---
 **Objective:** verify that the device behaves as specified.

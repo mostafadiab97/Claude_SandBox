@@ -1,5 +1,5 @@
 ---
-id: RSK-MJR7PZ
+id: REQ-C971M8M
 type: risk
 title: "Risk: watchdog fails to report the room temperature"
 status: Approved
@@ -8,8 +8,9 @@ owner: N. Kamal
 tags:
   - security
   - cost
-parent: INFO-YBRZDF
-order: 10
+former-id: RSK-MJR7PZ
+parent: REQ-YHZXG3P
+order: a0
 ---
 **Hazard:** the watchdog could fail to validate the operating mode.
 

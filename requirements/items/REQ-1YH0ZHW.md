@@ -1,15 +1,16 @@
 ---
-id: HW-S6YZKX
+id: REQ-1YH0ZHW
 type: hardware-requirement
 title: Secure boot reports relay events
 status: Review
 priority: Medium
 owner: M. Farouk
-parent: SYS-NVKX9K
-order: 30
+former-id: HW-S6YZKX
+parent: REQ-QFZ1F36
+order: a2
 links:
   - type: refines
-    target: SYS-NVKX9K
+    target: REQ-QFZ1F36
     confirmed: 720362ab5cfe
 ---
 The over-temperature monitor shall notify humidity values in all supported languages.

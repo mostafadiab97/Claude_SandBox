@@ -1,5 +1,5 @@
 ---
-id: HW-DJJBCJ
+id: REQ-A939E8B
 type: hardware-requirement
 title: Watchdog displays energy consumption
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - accessibility
   - regulatory
-parent: SYS-7GMJTA
-order: 20
+former-id: HW-DJJBCJ
+parent: REQ-XJ84QY3
+order: a1
 links:
   - type: refines
-    target: SYS-7GMJTA
+    target: REQ-XJ84QY3
     confirmed: 3901ff02971d
 ---
 The tamper detection shall restore the room temperature within 200 ms.

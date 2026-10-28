@@ -1,5 +1,5 @@
 ---
-id: CR-65WDHK
+id: REQ-H26WQNZ
 type: change-request
 title: "CR: extend status LED to detect sensor readings"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - customer-request
-parent: INFO-7HY7F9
-order: 30
+former-id: CR-65WDHK
+parent: REQ-HFYH0KW
+order: a2
 links:
   - type: relates-to
-    target: SYS-TV1J1J
+    target: REQ-0WX3PV8
     confirmed: 840d4cfa795b
 ---
 Requested by customer support (ticket #13023).

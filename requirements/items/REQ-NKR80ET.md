@@ -1,5 +1,5 @@
 ---
-id: STK-75QZSA
+id: REQ-NKR80ET
 type: stakeholder-need
 title: Boiler interface must notify relay events
 status: Review
@@ -8,7 +8,8 @@ tags:
   - regulatory
   - cost
   - i18n
-parent: INFO-10C32K
-order: 10
+former-id: STK-75QZSA
+parent: REQ-NER72N9
+order: a0
 ---
 the home owner wants the boiler interface to validate audit records, so that their home stays comfortable.

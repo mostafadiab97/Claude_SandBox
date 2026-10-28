@@ -1,15 +1,16 @@
 ---
-id: HW-5E9J7M
+id: REQ-CJA5SV5
 type: hardware-requirement
 title: Enclosure validates humidity values
 status: Review
 priority: Medium
 owner: A. Hassan
-parent: SYS-GYMKHD
-order: 10
+former-id: HW-5E9J7M
+parent: REQ-FZE217Y
+order: a0
 links:
   - type: refines
-    target: SYS-GYMKHD
+    target: REQ-FZE217Y
     confirmed: 548847d1d9b7
 ---
 The battery backup shall store safety limits when the network is unavailable.

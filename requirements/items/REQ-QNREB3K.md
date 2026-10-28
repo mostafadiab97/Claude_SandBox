@@ -1,5 +1,5 @@
 ---
-id: HW-5Q73EE
+id: REQ-QNREB3K
 type: hardware-requirement
 title: Power supply detects error conditions
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - connectivity
   - release-2.0
-parent: SYS-ZD8ARR
-order: 30
+former-id: HW-5Q73EE
+parent: REQ-HGJN0RD
+order: a2
 links:
   - type: refines
-    target: SYS-ZD8ARR
+    target: REQ-HGJN0RD
     confirmed: 8e6f137aeffa
 ---
 The relay board shall log user preferences when the network is unavailable.

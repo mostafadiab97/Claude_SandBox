@@ -1,15 +1,16 @@
 ---
-id: IF-9TD1TK
+id: REQ-SJ5QB16
 type: interface-requirement
 title: Regulation loop notifys safety limits
 status: Approved
 priority: Medium
 owner: N. Kamal
-parent: SYS-KVWKZF
-order: 30
+former-id: IF-9TD1TK
+parent: REQ-BGM84MK
+order: a2
 links:
   - type: refines
-    target: SYS-KVWKZF
+    target: REQ-BGM84MK
     confirmed: 9148889bdd96
 ---
 The boiler interface shall switch the room temperature at least once per minute.

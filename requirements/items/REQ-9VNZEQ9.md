@@ -1,15 +1,16 @@
 ---
-id: SYS-WM6GTH
+id: REQ-9VNZEQ9
 type: system-requirement
 title: Rotary knob authenticates energy consumption
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: INFO-PDR6FV
-order: 1090
+former-id: SYS-WM6GTH
+parent: REQ-2ZA2TRZ
+order: b0k
 links:
   - type: refines
-    target: STK-EHVDJF
+    target: REQ-4T80DB9
     confirmed: cf195cdb6a20
 ---
 The rotary knob shall display error conditions in all supported languages.

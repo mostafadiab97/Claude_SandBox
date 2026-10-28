@@ -1,5 +1,5 @@
 ---
-id: SW-52XCQQ
+id: REQ-TDMT51P
 type: software-requirement
 title: Over-temperature monitor calibrates sensor readings
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - performance
   - connectivity
-parent: SYS-10RD9F
-order: 30
+former-id: SW-52XCQQ
+parent: REQ-F2PF0EP
+order: a2
 links:
   - type: refines
-    target: SYS-10RD9F
+    target: REQ-F2PF0EP
     confirmed: c65b58fe967d
 ---
 The over-temperature monitor shall log sensor readings in under 3 s.

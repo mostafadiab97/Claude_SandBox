@@ -1,5 +1,5 @@
 ---
-id: SW-E89BE2
+id: REQ-N0J44X8
 type: software-requirement
 title: Log relay events — detail
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: Y. Saber
 tags:
   - connectivity
-parent: SW-EMF91Y
-order: 10
+former-id: SW-E89BE2
+parent: REQ-RXS6CXS
+order: a0
 links:
   - type: refines
-    target: SW-EMF91Y
+    target: REQ-RXS6CXS
     confirmed: 9d4481346f88
 ---
 The menu system shall log audit records for up to 8 zones.

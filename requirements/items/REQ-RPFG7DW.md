@@ -1,15 +1,16 @@
 ---
-id: IF-P1ZWPN
+id: REQ-RPFG7DW
 type: interface-requirement
 title: Notification service validates the room temperature
 status: Obsolete
 priority: High
 owner: J. Müller
-parent: SYS-6HD5PY
-order: 20
+former-id: IF-P1ZWPN
+parent: REQ-R5GMTBJ
+order: a1
 links:
   - type: refines
-    target: SYS-6HD5PY
+    target: REQ-R5GMTBJ
     confirmed: c27b6629ca65
 ---
 The home dashboard shall authenticate error conditions within 200 ms.

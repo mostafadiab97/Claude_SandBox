@@ -1,15 +1,16 @@
 ---
-id: IF-HDYDYV
+id: REQ-ZB1S970
 type: interface-requirement
 title: Authenticate the room temperature — detail
 status: Review
 priority: Medium
 owner: N. Kamal
-parent: IF-JBCJHY
-order: 10
+former-id: IF-HDYDYV
+parent: REQ-T3K469J
+order: a0
 links:
   - type: refines
-    target: IF-JBCJHY
+    target: REQ-T3K469J
     confirmed: eda4acbc74d1
 ---
 The telemetry pipeline shall store the set point below 0.5 W in standby.

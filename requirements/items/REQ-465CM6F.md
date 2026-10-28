@@ -1,5 +1,5 @@
 ---
-id: RSK-PEJG0K
+id: REQ-465CM6F
 type: risk
 title: "Risk: telemetry pipeline fails to encrypt the operating mode"
 status: Draft
@@ -8,8 +8,9 @@ owner: L. Samir
 tags:
   - release-1.0
   - i18n
-parent: INFO-5BPX0K
-order: 10
+former-id: RSK-PEJG0K
+parent: REQ-RSBFCPW
+order: a0
 ---
 **Hazard:** the telemetry pipeline could fail to calibrate firmware images.
 

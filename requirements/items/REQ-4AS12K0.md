@@ -1,15 +1,16 @@
 ---
-id: HW-SWFBKY
+id: REQ-4AS12K0
 type: hardware-requirement
 title: Regulation loop calibrates safety limits
 status: Approved
 priority: Low
 owner: J. Müller
-parent: SYS-F1Q0NC
-order: 10
+former-id: HW-SWFBKY
+parent: REQ-R4BSJCA
+order: a0
 links:
   - type: refines
-    target: SYS-F1Q0NC
+    target: REQ-R4BSJCA
     confirmed: dba1136682fd
 ---
 The zone valve shall validate user preferences in under 3 s.

@@ -1,17 +1,18 @@
 ---
-id: DEF-KT510B
+id: REQ-4W97A5D
 type: defect
 title: "Defect: heat pump driver does not display schedule entries"
 status: Draft
 owner: J. Müller
-parent: INFO-ZBHTYF
-order: 90
+former-id: DEF-KT510B
+parent: REQ-XJDN42Y
+order: a8
 links:
   - type: relates-to
-    target: TC-KG8Z7C
+    target: REQ-E45BGY8
     confirmed: d1b22deb6986
   - type: relates-to
-    target: SYS-HPD0VD
+    target: REQ-6MCMEW9
     confirmed: 5718299a4e75
 ---
 Found during regression testing of build 2.1.35.

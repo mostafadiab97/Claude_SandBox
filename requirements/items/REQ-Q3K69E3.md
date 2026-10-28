@@ -1,5 +1,5 @@
 ---
-id: TC-KZ8HAB
+id: REQ-Q3K69E3
 type: test-case
 title: "Verify: Schedule editor detects the connection state"
 status: Review
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - power
   - security
-parent: INFO-J0FETE
-order: 1390
+former-id: TC-KZ8HAB
+parent: REQ-WR5ZJN9
+order: b1E
 links:
   - type: verifies
-    target: SYS-VRC80Y
+    target: REQ-WF9GYCV
     confirmed: 9e303efe85be
 ---
 **Objective:** verify that the schedule editor behaves as specified.

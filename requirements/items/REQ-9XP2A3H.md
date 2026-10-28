@@ -1,16 +1,17 @@
 ---
-id: TC-1BN6ZZ
+id: REQ-9XP2A3H
 type: test-case
 title: "Regression: Pairing process validates audit records"
 status: Approved
 priority: Medium
 tags:
   - i18n
-parent: INFO-ECHASH
-order: 1290
+former-id: TC-1BN6ZZ
+parent: REQ-6H15AV2
+order: b14
 links:
   - type: verifies
-    target: SYS-DVDRV2
+    target: REQ-9T0XEBB
     confirmed: 1dc89c6de993
 ---
 **Objective:** verify that the device behaves as specified.

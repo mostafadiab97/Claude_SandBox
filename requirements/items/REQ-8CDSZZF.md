@@ -1,5 +1,5 @@
 ---
-id: HW-BWNWK7
+id: REQ-8CDSZZF
 type: hardware-requirement
 title: Heat pump driver authenticates user preferences
 status: Review
@@ -7,11 +7,12 @@ priority: High
 tags:
   - i18n
   - release-1.0
-parent: SYS-5S3EBH
-order: 40
+former-id: HW-BWNWK7
+parent: REQ-JHGN5ZT
+order: a3
 links:
   - type: refines
-    target: SYS-5S3EBH
+    target: REQ-JHGN5ZT
     confirmed: f3466e61aac9
 ---
 The heat pump driver shall synchronise user preferences for up to 8 zones.

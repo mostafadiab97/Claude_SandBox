@@ -1,13 +1,14 @@
 ---
-id: SW-VWZ0NV
+id: REQ-6YYH2ST
 type: software-requirement
 title: Watchdog encrypts firmware images
 status: Draft
-parent: SYS-6T9DFV
-order: 20
+former-id: SW-VWZ0NV
+parent: REQ-PP1RGP0
+order: a1
 links:
   - type: refines
-    target: SYS-6T9DFV
+    target: REQ-PP1RGP0
     confirmed: 0e56d083aedf
 ---
 The encryption layer shall display the room temperature within 200 ms.

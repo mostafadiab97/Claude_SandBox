@@ -1,5 +1,5 @@
 ---
-id: SW-PN0QSC
+id: REQ-Z184Y8G
 type: software-requirement
 title: Rotary knob restores error conditions
 status: Review
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - release-1.0
   - safety
-parent: SYS-MVY23C
-order: 20
+former-id: SW-PN0QSC
+parent: REQ-8G4VY21
+order: a1
 links:
   - type: refines
-    target: SYS-MVY23C
+    target: REQ-8G4VY21
     confirmed: c547c82cf252
 ---
 The backlight shall display audit records below 0.5 W in standby.

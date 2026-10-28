@@ -1,5 +1,5 @@
 ---
-id: IF-WDK0K0
+id: REQ-VYJS2AC
 type: interface-requirement
 title: Notify the set point — detail
 status: Review
@@ -8,11 +8,12 @@ tags:
   - regulatory
   - power
   - release-2.0
-parent: IF-TFRKP8
-order: 10
+former-id: IF-WDK0K0
+parent: REQ-J1FJKMN
+order: a0
 links:
   - type: refines
-    target: IF-TFRKP8
+    target: REQ-J1FJKMN
     confirmed: a5b572b56ae3
 ---
 The rotary knob shall switch sensor readings when the network is unavailable.

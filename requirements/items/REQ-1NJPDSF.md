@@ -1,5 +1,5 @@
 ---
-id: SW-4MCP37
+id: REQ-1NJPDSF
 type: software-requirement
 title: Backlight restores humidity values
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - EMC
   - ux
   - security
-parent: SYS-6B5FVX
-order: 20
+former-id: SW-4MCP37
+parent: REQ-SBTKPG2
+order: a1
 links:
   - type: refines
-    target: SYS-6B5FVX
+    target: REQ-SBTKPG2
     confirmed: 9f166b9bcfdd
 ---
 The touch display shall limit audit records in under 3 s.

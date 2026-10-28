@@ -1,15 +1,16 @@
 ---
-id: IF-3S78KY
+id: REQ-TFN4MBC
 type: interface-requirement
 title: Display energy consumption — detail
 status: Obsolete
 priority: High
 owner: L. Samir
-parent: IF-Q2V0DD
-order: 10
+former-id: IF-3S78KY
+parent: REQ-ANF89WJ
+order: a0
 links:
   - type: refines
-    target: IF-Q2V0DD
+    target: REQ-ANF89WJ
     confirmed: 0bb608f9298c
 ---
 The cloud backend shall calibrate access tokens in under 3 s.

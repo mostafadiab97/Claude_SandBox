@@ -1,15 +1,16 @@
 ---
-id: HW-Y15PQY
+id: REQ-YWMFVCT
 type: hardware-requirement
 title: Device registry stores sensor readings
 status: Approved
 priority: Low
 owner: Y. Saber
-parent: SYS-FN0RX8
-order: 10
+former-id: HW-Y15PQY
+parent: REQ-89HPNKM
+order: a0
 links:
   - type: refines
-    target: SYS-FN0RX8
+    target: REQ-89HPNKM
     confirmed: 30d123440a38
 ---
 The cloud backend shall restore schedule entries after a power loss.

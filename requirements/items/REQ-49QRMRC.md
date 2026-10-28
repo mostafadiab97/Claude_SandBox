@@ -1,5 +1,5 @@
 ---
-id: SW-W8PK6X
+id: REQ-49QRMRC
 type: software-requirement
 title: Menu system validates firmware images
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - EMC
   - regulatory
   - i18n
-parent: SYS-3K76JB
-order: 20
+former-id: SW-W8PK6X
+parent: REQ-4388NPS
+order: a1
 links:
   - type: refines
-    target: SYS-3K76JB
+    target: REQ-4388NPS
     confirmed: b4360e33eebd
 ---
 The touch display shall limit error conditions for at least 10 years.

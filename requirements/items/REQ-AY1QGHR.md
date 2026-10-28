@@ -1,5 +1,5 @@
 ---
-id: SYS-AAE3BF
+id: REQ-AY1QGHR
 type: system-requirement
 title: Telemetry pipeline validates the room temperature
 status: Draft
@@ -8,14 +8,15 @@ owner: محمد علي
 tags:
   - accessibility
   - power
-parent: INFO-YV5EZD
-order: 1430
+former-id: SYS-AAE3BF
+parent: REQ-RE9ZKHF
+order: b1I
 links:
   - type: refines
-    target: STK-8Y3SDF
+    target: REQ-ATQSVGJ
     confirmed: 2609d2cce998
   - type: mitigates
-    target: RSK-MTJ750
+    target: REQ-5Q7WWW2
     confirmed: 9f71d66c1651
 ---
 The telemetry pipeline shall switch user preferences in all supported languages.

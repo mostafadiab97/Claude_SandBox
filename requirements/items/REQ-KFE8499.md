@@ -1,5 +1,5 @@
 ---
-id: SYS-6AHW2J
+id: REQ-KFE8499
 type: system-requirement
 title: Power supply limits error conditions
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - power
   - security
   - ux
-parent: INFO-A6P9A8
-order: 1210
+former-id: SYS-6AHW2J
+parent: REQ-CMCS31A
+order: b0w
 links:
   - type: refines
-    target: STK-7F9256
+    target: REQ-GXZBB32
     confirmed: 5588db2eb80a
 ---
 The power supply shall encrypt the room temperature at least once per minute.

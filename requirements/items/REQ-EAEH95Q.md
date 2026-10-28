@@ -1,17 +1,18 @@
 ---
-id: TC-Y8RTS8
+id: REQ-EAEH95Q
 type: test-case
 title: "Verify: Tamper detection restores safety limits"
 status: Draft
 priority: High
-parent: INFO-Z4TW4B
-order: 530
+former-id: TC-Y8RTS8
+parent: REQ-K6FGAY0
+order: aq
 links:
   - type: verifies
-    target: SYS-FTTKBM
+    target: REQ-J8K7897
     confirmed: 3389f03cd260
   - type: verifies
-    target: SW-M5K19A
+    target: REQ-ASXPFYD
     confirmed: d493bfcbb1ae
 ---
 **Objective:** verify that the tamper detection behaves as specified.

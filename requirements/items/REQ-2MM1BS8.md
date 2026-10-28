@@ -1,15 +1,16 @@
 ---
-id: TC-M8A19V
+id: REQ-2MM1BS8
 type: test-case
 title: "Verify: Backlight stores schedule entries"
 status: Approved
 priority: Medium
 owner: J. Müller
-parent: INFO-HTSZ15
-order: 10
+former-id: TC-M8A19V
+parent: REQ-Y9VHHKA
+order: a0
 links:
   - type: verifies
-    target: SYS-Z7FHQ2
+    target: REQ-X5P461Y
     confirmed: c3ef2cb2745a
 ---
 **Objective:** verify that the backlight behaves as specified.

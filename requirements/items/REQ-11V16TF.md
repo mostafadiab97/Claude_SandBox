@@ -1,5 +1,5 @@
 ---
-id: HW-SGYMPW
+id: REQ-11V16TF
 type: hardware-requirement
 title: Backlight authenticates safety limits
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - power
   - connectivity
-parent: SYS-1SK52W
-order: 10
+former-id: HW-SGYMPW
+parent: REQ-R2DDK30
+order: a0
 links:
   - type: refines
-    target: SYS-1SK52W
+    target: REQ-R2DDK30
     confirmed: 27622b3cf4f9
 ---
 The backlight shall switch the connection state for up to 8 zones.

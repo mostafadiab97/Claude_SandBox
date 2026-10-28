@@ -1,5 +1,5 @@
 ---
-id: SYS-S0DBYP
+id: REQ-9JWBDBH
 type: system-requirement
 title: Boiler interface validates energy consumption
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - connectivity
   - release-2.0
-parent: INFO-6DQTKV
-order: 100
+former-id: SYS-S0DBYP
+parent: REQ-7ED7ZET
+order: a9
 links:
   - type: refines
-    target: STK-EWSQ9Z
+    target: REQ-GXKEHF3
     confirmed: aa5e4143dbe7
 ---
 The boiler interface shall validate user preferences in all supported languages.

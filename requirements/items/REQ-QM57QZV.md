@@ -1,5 +1,5 @@
 ---
-id: SW-1EJJ9E
+id: REQ-QM57QZV
 type: software-requirement
 title: Switch energy consumption — detail
 status: Review
@@ -8,11 +8,12 @@ tags:
   - regulatory
   - security
   - safety
-parent: SW-6QXQJN
-order: 10
+former-id: SW-1EJJ9E
+parent: REQ-PK8B0ZK
+order: a0
 links:
   - type: refines
-    target: SW-6QXQJN
+    target: REQ-PK8B0ZK
     confirmed: ca38e7bc528c
 ---
 The local API shall validate safety limits without user interaction.

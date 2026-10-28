@@ -1,5 +1,5 @@
 ---
-id: SW-W4Z31N
+id: REQ-ZN1TZRX
 type: software-requirement
 title: Telemetry pipeline authenticates the connection state
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - connectivity
   - safety
-parent: SYS-P4DXM6
-order: 30
+former-id: SW-W4Z31N
+parent: REQ-CM5Q1FW
+order: a2
 links:
   - type: refines
-    target: SYS-P4DXM6
+    target: REQ-CM5Q1FW
     confirmed: 45befcee12fc
 ---
 The OTA server shall detect the set point without user interaction.

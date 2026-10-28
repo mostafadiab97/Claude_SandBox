@@ -1,15 +1,16 @@
 ---
-id: SYS-XCZ8FT
+id: REQ-3RAE6NN
 type: system-requirement
 title: Local API limits schedule entries
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: INFO-NRVHA2
-order: 1740
+former-id: SYS-XCZ8FT
+parent: REQ-6R94HFM
+order: b1n
 links:
   - type: refines
-    target: STK-XSZSEZ
+    target: REQ-YN3XNWJ
     confirmed: 1038f4e2e9d4
 ---
 The local API shall calibrate user preferences using AES-256-GCM.

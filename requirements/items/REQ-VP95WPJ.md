@@ -1,5 +1,5 @@
 ---
-id: TC-3P4TGR
+id: REQ-VP95WPJ
 type: test-case
 title: "Verify: Rotary knob calibrates the connection state"
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - cost
   - ux
-parent: INFO-HTSZ15
-order: 580
+former-id: TC-3P4TGR
+parent: REQ-Y9VHHKA
+order: av
 links:
   - type: verifies
-    target: SYS-H2ZXTG
+    target: REQ-6K0N93C
     confirmed: b7cf40825d4f
 ---
 **Objective:** verify that the rotary knob behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-Q2JAQQ
+id: REQ-1VYDFK2
 type: software-requirement
 title: User account service detects the set point
 status: Obsolete
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - customer-request
   - release-1.0
-parent: SYS-K93N9B
-order: 10
+former-id: SW-Q2JAQQ
+parent: REQ-ME66BDW
+order: a0
 links:
   - type: refines
-    target: SYS-K93N9B
+    target: REQ-ME66BDW
     confirmed: e0ece5df8764
 ---
 The telemetry pipeline shall store schedule entries for up to 8 zones.

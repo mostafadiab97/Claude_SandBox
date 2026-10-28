@@ -1,14 +1,15 @@
 ---
-id: SYS-3EXTMS
+id: REQ-CWRF0WK
 type: system-requirement
 title: Telemetry pipeline notifys schedule entries
 status: Approved
 priority: Medium
-parent: INFO-YV5EZD
-order: 530
+former-id: SYS-3EXTMS
+parent: REQ-RE9ZKHF
+order: aq
 links:
   - type: refines
-    target: STK-JFBQPS
+    target: REQ-A8X8PTB
     confirmed: 5027ee1822eb
 ---
 The telemetry pipeline shall synchronise the set point for up to 8 zones.

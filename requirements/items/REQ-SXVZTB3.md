@@ -1,5 +1,5 @@
 ---
-id: SYS-467EA2
+id: REQ-SXVZTB3
 type: system-requirement
 title: Power supply detects the room temperature
 status: Review
@@ -9,11 +9,12 @@ tags:
   - performance
   - release-1.0
   - power
-parent: INFO-A6P9A8
-order: 550
+former-id: SYS-467EA2
+parent: REQ-CMCS31A
+order: as
 links:
   - type: refines
-    target: STK-KEP05J
+    target: REQ-PRMNGRJ
     confirmed: 74304e03fe52
 ---
 The power supply shall limit the set point without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: SW-CRP1YX
+id: REQ-E8ZNHM4
 type: software-requirement
 title: Heat pump driver logs energy consumption
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: N. Kamal
 tags:
   - cost
-parent: SYS-P9J0Z4
-order: 20
+former-id: SW-CRP1YX
+parent: REQ-CZAP4H4
+order: a1
 links:
   - type: refines
-    target: SYS-P9J0Z4
+    target: REQ-CZAP4H4
     confirmed: c925c6f3b356
 ---
 The zone valve shall limit firmware images using AES-256-GCM.

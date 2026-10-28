@@ -1,5 +1,5 @@
 ---
-id: HW-M1JWVB
+id: REQ-Y16YQER
 type: hardware-requirement
 title: Relay board notifys the operating mode
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - safety
   - i18n
-parent: SYS-1T0TAM
-order: 10
+former-id: HW-M1JWVB
+parent: REQ-Z7WZKTX
+order: a0
 links:
   - type: refines
-    target: SYS-1T0TAM
+    target: REQ-Z7WZKTX
     confirmed: 834d1bdeda5b
 ---
 The battery backup shall authenticate the set point for up to 8 zones.

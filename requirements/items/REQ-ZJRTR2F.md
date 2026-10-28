@@ -1,14 +1,15 @@
 ---
-id: TC-NEZ96X
+id: REQ-ZJRTR2F
 type: test-case
 title: "Verify: User account service synchronises humidity values"
 status: Approved
 owner: N. Kamal
-parent: INFO-7P4D8D
-order: 150
+former-id: TC-NEZ96X
+parent: REQ-8351896
+order: aE
 links:
   - type: verifies
-    target: SYS-J6RJYD
+    target: REQ-JFVQGH6
     confirmed: a893bb1c8e2d
 ---
 **Objective:** verify that the user account service behaves as specified.

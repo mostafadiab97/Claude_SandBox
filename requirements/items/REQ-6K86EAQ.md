@@ -1,5 +1,5 @@
 ---
-id: TC-4ABWFC
+id: REQ-6K86EAQ
 type: test-case
 title: "Verify: Secure boot displays safety limits"
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - regulatory
   - release-1.0
   - performance
-parent: INFO-Z4TW4B
-order: 1150
+former-id: TC-4ABWFC
+parent: REQ-K6FGAY0
+order: b0q
 links:
   - type: verifies
-    target: SYS-RY2A1Y
+    target: REQ-H685WGE
     confirmed: ba8d79699d39
 ---
 **Objective:** verify that the secure boot behaves as specified.

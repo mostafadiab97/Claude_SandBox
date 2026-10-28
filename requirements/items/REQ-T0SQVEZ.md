@@ -1,14 +1,15 @@
 ---
-id: HW-XPTXCS
+id: REQ-T0SQVEZ
 type: hardware-requirement
 title: Relay board measures firmware images
 status: Approved
 owner: محمد علي
-parent: SYS-KT5254
-order: 30
+former-id: HW-XPTXCS
+parent: REQ-HTW9WGV
+order: a2
 links:
   - type: refines
-    target: SYS-KT5254
+    target: REQ-HTW9WGV
     confirmed: 609b39c5ecd0
 ---
 The enclosure shall synchronise humidity values in under 3 s.

@@ -1,15 +1,16 @@
 ---
-id: TC-MY54PG
+id: REQ-S4H2MRG
 type: test-case
 title: "Verify: Over-temperature monitor encrypts access tokens"
 status: Review
 priority: Low
 owner: A. Hassan
-parent: INFO-Z4TW4B
-order: 680
+former-id: TC-MY54PG
+parent: REQ-K6FGAY0
+order: b05
 links:
   - type: verifies
-    target: SYS-2ZWKRN
+    target: REQ-7EHG9PS
     confirmed: da49b7d4a05b
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

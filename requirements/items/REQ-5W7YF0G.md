@@ -1,5 +1,5 @@
 ---
-id: UC-VVEWB9
+id: REQ-5W7YF0G
 type: use-case
 title: "UC: Encrypt energy consumption with the regulation loop"
 status: Draft
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - safety
   - performance
-parent: INFO-10C32K
-order: 160
+former-id: UC-VVEWB9
+parent: REQ-NER72N9
+order: aF
 links:
   - type: relates-to
-    target: STK-W8N48B
+    target: REQ-GHEE73G
     confirmed: 00c32cea6ea5
 ---
 **Actor:** home owner

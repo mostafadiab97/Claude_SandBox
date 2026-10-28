@@ -1,15 +1,16 @@
 ---
-id: IF-QAY8B6
+id: REQ-B4SZX77
 type: interface-requirement
 title: Zigbee radio notifys access tokens
 status: Approved
 priority: High
 owner: M. Farouk
-parent: SYS-BPCY60
-order: 30
+former-id: IF-QAY8B6
+parent: REQ-XPCV023
+order: a2
 links:
   - type: refines
-    target: SYS-BPCY60
+    target: REQ-XPCV023
     confirmed: a39478942b51
 ---
 The Zigbee radio shall synchronise the operating mode in all supported languages.

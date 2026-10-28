@@ -1,5 +1,5 @@
 ---
-id: DE-YPX5P2
+id: REQ-WVWXENY
 type: design-element
 title: Module status_LED_57
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - power
   - release-2.0
-parent: SW-CG6V2A
-order: 10
+former-id: DE-YPX5P2
+parent: REQ-TBN7ZTX
+order: a0
 links:
   - type: implements
-    target: SW-CG6V2A
+    target: REQ-TBN7ZTX
     confirmed: e1d41e2a8540
 ---
 Implemented in `src/ui/status_LED.c`.

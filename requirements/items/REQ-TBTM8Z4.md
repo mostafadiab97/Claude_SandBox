@@ -1,14 +1,15 @@
 ---
-id: SW-FXE5CY
+id: REQ-TBTM8Z4
 type: software-requirement
 title: Local API limits firmware images
 status: Approved
 owner: R. Nabil
-parent: SYS-DHBZX2
-order: 40
+former-id: SW-FXE5CY
+parent: REQ-JQ5W7ER
+order: a3
 links:
   - type: refines
-    target: SYS-DHBZX2
+    target: REQ-JQ5W7ER
     confirmed: f269617e5175
 ---
 The pairing process shall switch audit records when the network is unavailable.

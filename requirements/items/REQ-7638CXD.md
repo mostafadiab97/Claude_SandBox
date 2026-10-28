@@ -1,5 +1,5 @@
 ---
-id: SYS-ZQSPB3
+id: REQ-7638CXD
 type: system-requirement
 title: Zone valve displays the operating mode
 status: Review
@@ -9,14 +9,15 @@ tags:
   - connectivity
   - cost
   - release-2.0
-parent: INFO-6DQTKV
-order: 620
+former-id: SYS-ZQSPB3
+parent: REQ-7ED7ZET
+order: az
 links:
   - type: refines
-    target: STK-EWSQ9Z
+    target: REQ-GXKEHF3
     confirmed: aa5e4143dbe7
   - type: mitigates
-    target: RSK-AA3YJ3
+    target: REQ-95C6RSR
     confirmed: 84e686f1bbcc
 ---
 The zone valve shall log energy consumption at least once per minute.

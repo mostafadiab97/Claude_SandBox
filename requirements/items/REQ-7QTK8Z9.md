@@ -1,16 +1,17 @@
 ---
-id: TC-FRZ10E
+id: REQ-7QTK8Z9
 type: test-case
 title: "Verify: Bluetooth LE link measures schedule entries"
 status: Approved
 owner: R. Nabil
 tags:
   - customer-request
-parent: INFO-F0M7VC
-order: 310
+former-id: TC-FRZ10E
+parent: REQ-67RQXCK
+order: aU
 links:
   - type: verifies
-    target: SYS-CY6ETQ
+    target: REQ-9WKYQ5Q
     confirmed: fca3f3673c34
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

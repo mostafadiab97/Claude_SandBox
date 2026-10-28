@@ -1,5 +1,5 @@
 ---
-id: TC-BCF908
+id: REQ-EMKHQWH
 type: test-case
 title: "Verify: Rotary knob measures audit records"
 status: Approved
@@ -8,14 +8,15 @@ owner: A. Hassan
 tags:
   - power
   - safety
-parent: INFO-HTSZ15
-order: 730
+former-id: TC-BCF908
+parent: REQ-Y9VHHKA
+order: b0A
 links:
   - type: verifies
-    target: SYS-CQEWAD
+    target: REQ-89EGSYK
     confirmed: 2cb413be1ed1
   - type: verifies
-    target: SW-XD35BZ
+    target: REQ-EMATTKB
     confirmed: 2a84ec4789f1
 ---
 **Objective:** verify that the rotary knob behaves as specified.

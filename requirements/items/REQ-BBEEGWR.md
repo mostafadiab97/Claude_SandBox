@@ -1,5 +1,5 @@
 ---
-id: TC-ERKF3Y
+id: REQ-BBEEGWR
 type: test-case
 title: "Verify: Telemetry pipeline notifys the set point"
 status: Review
@@ -9,14 +9,15 @@ tags:
   - release-1.0
   - accessibility
   - release-2.0
-parent: INFO-7P4D8D
-order: 140
+former-id: TC-ERKF3Y
+parent: REQ-8351896
+order: aD
 links:
   - type: verifies
-    target: SYS-KBPFCV
+    target: REQ-TZ1N94B
     confirmed: 659b9683cc27
   - type: verifies
-    target: SW-QGJY9V
+    target: REQ-ABNAEMW
     confirmed: 503c8c1c1a7f
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

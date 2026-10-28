@@ -1,5 +1,5 @@
 ---
-id: DE-JZKDPR
+id: REQ-SPBD3GZ
 type: design-element
 title: Module pairing_process_54
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - accessibility
-parent: SW-GNXHG9
-order: 10
+former-id: DE-JZKDPR
+parent: REQ-XERKS15
+order: a0
 links:
   - type: implements
-    target: SW-GNXHG9
+    target: REQ-XERKS15
     confirmed: f17b4df321fc
 ---
 Implemented in `src/conn/pairing_process.c`.

@@ -1,5 +1,5 @@
 ---
-id: UC-20GA8G
+id: REQ-YQZ0A1M
 type: use-case
 title: "UC: Restore user preferences with the device registry"
 status: Obsolete
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - customer-request
   - safety
-parent: INFO-Y8G953
-order: 140
+former-id: UC-20GA8G
+parent: REQ-Y9XT61E
+order: aD
 links:
   - type: relates-to
-    target: STK-1CAAXP
+    target: REQ-ZEW4521
     confirmed: a853df6f0866
 ---
 **Actor:** home owner

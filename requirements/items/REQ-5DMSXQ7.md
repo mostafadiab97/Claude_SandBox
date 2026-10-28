@@ -1,5 +1,5 @@
 ---
-id: IF-YFT95G
+id: REQ-5DMSXQ7
 type: interface-requirement
 title: Zone valve limits relay events
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - performance
   - safety
   - i18n
-parent: SYS-Q6G2TQ
-order: 20
+former-id: IF-YFT95G
+parent: REQ-N4J5CD5
+order: a1
 links:
   - type: refines
-    target: SYS-Q6G2TQ
+    target: REQ-N4J5CD5
     confirmed: 2157601a4542
 ---
 The boiler interface shall notify humidity values when the network is unavailable.

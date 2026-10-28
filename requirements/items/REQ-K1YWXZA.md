@@ -1,14 +1,15 @@
 ---
-id: TC-BNPJ01
+id: REQ-K1YWXZA
 type: test-case
 title: "Verify: Secure boot validates audit records"
 status: Draft
 priority: Low
-parent: INFO-Z4TW4B
-order: 370
+former-id: TC-BNPJ01
+parent: REQ-K6FGAY0
+order: aa
 links:
   - type: verifies
-    target: SYS-HBCT8J
+    target: REQ-CYVT06S
     confirmed: "735188e33202"
 ---
 **Objective:** verify that the secure boot behaves as specified.

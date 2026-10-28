@@ -1,5 +1,5 @@
 ---
-id: SW-K0PD0A
+id: REQ-B6QVR43
 type: software-requirement
 title: Status LED encrypts relay events
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - security
   - EMC
-parent: SYS-34B7MH
-order: 40
+former-id: SW-K0PD0A
+parent: REQ-ED37SCP
+order: a3
 links:
   - type: refines
-    target: SYS-34B7MH
+    target: REQ-ED37SCP
     confirmed: 9aafb86ae7fb
 ---
 The menu system shall restore the connection state below 0.5 W in standby.

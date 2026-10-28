@@ -1,5 +1,5 @@
 ---
-id: TC-D1BZHN
+id: REQ-56FPV4M
 type: test-case
 title: "Verify: Rotary knob stores safety limits"
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: A. Hassan
 tags:
   - release-2.0
-parent: INFO-HTSZ15
-order: 470
+former-id: TC-D1BZHN
+parent: REQ-Y9VHHKA
+order: ak
 links:
   - type: verifies
-    target: SYS-MM8K93
+    target: REQ-8HJX710
     confirmed: 6d2e8325363f
 ---
 **Objective:** verify that the rotary knob behaves as specified.

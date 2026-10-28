@@ -1,5 +1,5 @@
 ---
-id: HW-MZXFN2
+id: REQ-Y7AT1AS
 type: hardware-requirement
 title: Enclosure switchs relay events
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - cost
   - release-1.0
-parent: SYS-N863QF
-order: 10
+former-id: HW-MZXFN2
+parent: REQ-SNPKEPT
+order: a0
 links:
   - type: refines
-    target: SYS-N863QF
+    target: REQ-SNPKEPT
     confirmed: ec0271419f81
 ---
 The battery backup shall synchronise the operating mode when the network is unavailable.

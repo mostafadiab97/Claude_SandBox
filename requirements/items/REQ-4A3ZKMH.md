@@ -1,5 +1,5 @@
 ---
-id: IF-HY881D
+id: REQ-4A3ZKMH
 type: interface-requirement
 title: Mobile app validates sensor readings
 status: Review
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - security
   - release-1.0
-parent: SYS-PERCNX
-order: 10
+former-id: IF-HY881D
+parent: REQ-1CGSZAR
+order: a0
 links:
   - type: refines
-    target: SYS-PERCNX
+    target: REQ-1CGSZAR
     confirmed: 6bc9ba229103
 ---
 The login screen shall display the connection state in under 3 s.

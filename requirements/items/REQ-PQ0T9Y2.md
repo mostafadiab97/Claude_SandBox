@@ -1,14 +1,15 @@
 ---
-id: SW-0RDKFE
+id: REQ-PQ0T9Y2
 type: software-requirement
 title: Detect audit records — detail
 status: Approved
 priority: Medium
-parent: SW-Z1XA6B
-order: 10
+former-id: SW-0RDKFE
+parent: REQ-7HQPYPJ
+order: a0
 links:
   - type: refines
-    target: SW-Z1XA6B
+    target: REQ-7HQPYPJ
     confirmed: 728d60341efa
 ---
 The home dashboard shall synchronise humidity values in all supported languages.

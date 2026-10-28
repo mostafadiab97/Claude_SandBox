@@ -1,15 +1,16 @@
 ---
-id: SYS-CB769Y
+id: REQ-W7GCRX4
 type: system-requirement
 title: Watchdog switchs relay events
 status: Obsolete
 priority: High
 owner: محمد علي
-parent: INFO-0229G8
-order: 1190
+former-id: SYS-CB769Y
+parent: REQ-H9113WA
+order: b0u
 links:
   - type: refines
-    target: STK-DJ9M3M
+    target: REQ-375SK1B
     confirmed: ba30e28a130f
 ---
 The watchdog shall restore the set point in all supported languages.

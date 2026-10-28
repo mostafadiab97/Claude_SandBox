@@ -1,14 +1,15 @@
 ---
-id: SYS-XHYQN4
+id: REQ-SP2XMBQ
 type: system-requirement
 title: Secure boot stores humidity values
 status: Approved
 priority: Medium
-parent: INFO-0229G8
-order: 610
+former-id: SYS-XHYQN4
+parent: REQ-H9113WA
+order: ay
 links:
   - type: refines
-    target: STK-B4ZH98
+    target: REQ-PGNNV26
     confirmed: c19c22627f21
 ---
 The secure boot shall synchronise user preferences for up to 8 zones.

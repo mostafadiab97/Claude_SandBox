@@ -1,5 +1,5 @@
 ---
-id: DE-AGK4V2
+id: REQ-1V9ARWM
 type: design-element
 title: Module mobile_app_73
 status: Obsolete
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - performance
   - power
-parent: SW-66C7TV
-order: 10
+former-id: DE-AGK4V2
+parent: REQ-32VY6BZ
+order: a0
 links:
   - type: implements
-    target: SW-66C7TV
+    target: REQ-32VY6BZ
     confirmed: 8058a1953fe2
 ---
 Implemented in `src/app/mobile_app.c`.

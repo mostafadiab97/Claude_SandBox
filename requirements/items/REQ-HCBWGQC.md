@@ -1,14 +1,15 @@
 ---
-id: TC-DS30DM
+id: REQ-HCBWGQC
 type: test-case
 title: "Verify: Battery backup reports the operating mode"
 status: Approved
 priority: Low
-parent: INFO-MACGC3
-order: 80
+former-id: TC-DS30DM
+parent: REQ-F9Z1FYS
+order: a7
 links:
   - type: verifies
-    target: SYS-PT1QDH
+    target: REQ-6EYT1EP
     confirmed: a94dbe6fcdb1
 ---
 **Objective:** verify that the battery backup behaves as specified.

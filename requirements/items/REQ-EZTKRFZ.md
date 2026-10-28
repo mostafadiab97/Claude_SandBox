@@ -1,5 +1,5 @@
 ---
-id: HW-KDPVT4
+id: REQ-EZTKRFZ
 type: hardware-requirement
 title: User account service switchs energy consumption
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - release-1.0
-parent: SYS-2QZKSN
-order: 30
+former-id: HW-KDPVT4
+parent: REQ-MBW1CZM
+order: a2
 links:
   - type: refines
-    target: SYS-2QZKSN
+    target: REQ-MBW1CZM
     confirmed: c4664feed0e6
 ---
 The telemetry pipeline shall validate schedule entries for up to 8 zones.

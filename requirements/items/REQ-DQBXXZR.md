@@ -1,18 +1,19 @@
 ---
-id: SYS-CRRCSR
+id: REQ-DQBXXZR
 type: system-requirement
 title: Mobile app authenticates safety limits
 status: Approved
 priority: High
 owner: M. Farouk
-parent: INFO-2XXBRS
-order: 380
+former-id: SYS-CRRCSR
+parent: REQ-QYXGSQ4
+order: ab
 links:
   - type: refines
-    target: STK-ND3D08
+    target: REQ-BWGMSWJ
     confirmed: df91c673f737
   - type: mitigates
-    target: RSK-KX4Z8F
+    target: REQ-1CKR5QB
     confirmed: ce36fe2999cf
 ---
 The mobile app shall store user preferences within 200 ms.

@@ -1,18 +1,19 @@
 ---
-id: TC-JGS4PD
+id: REQ-EGHSYT0
 type: test-case
 title: "Verify: Tamper detection reports relay events"
 status: Approved
 priority: Medium
 owner: L. Samir
-parent: INFO-Z4TW4B
-order: 1360
+former-id: TC-JGS4PD
+parent: REQ-K6FGAY0
+order: b1B
 links:
   - type: verifies
-    target: SYS-7GMJTA
+    target: REQ-XJ84QY3
     confirmed: 3901ff02971d
   - type: verifies
-    target: SW-52NFB3
+    target: REQ-DG5Q8YD
     confirmed: 11bb078b09cd
 ---
 **Objective:** verify that the tamper detection behaves as specified.

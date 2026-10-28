@@ -1,11 +1,12 @@
 ---
-id: IF-A7E737
+id: REQ-8P03QFJ
 type: interface-requirement
 title: "Signal 037: the set point"
 status: Approved
 priority: Medium
 owner: H. Mostafa
-parent: INFO-2TM0JP
-order: 370
+former-id: IF-A7E737
+parent: REQ-RJ0KHPT
+order: aa
 ---
 Interface signal number 37.

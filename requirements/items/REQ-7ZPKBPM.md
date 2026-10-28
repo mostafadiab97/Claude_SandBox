@@ -1,15 +1,16 @@
 ---
-id: DE-HWRZFT
+id: REQ-7ZPKBPM
 type: design-element
 title: Module mobile_app_17
 status: Approved
 priority: High
 owner: R. Nabil
-parent: SW-EWG6XW
-order: 10
+former-id: DE-HWRZFT
+parent: REQ-V2XW6DF
+order: a0
 links:
   - type: implements
-    target: SW-EWG6XW
+    target: REQ-V2XW6DF
     confirmed: 9a9316833a51
 ---
 Implemented in `src/app/mobile_app.c`.

@@ -1,5 +1,5 @@
 ---
-id: IF-KB859S
+id: REQ-HFN9283
 type: interface-requirement
 title: Authenticate the connection state — detail
 status: Review
@@ -7,11 +7,12 @@ owner: A. Hassan
 tags:
   - ux
   - safety
-parent: IF-0Z1CBK
-order: 10
+former-id: IF-KB859S
+parent: REQ-RB2SZD5
+order: a0
 links:
   - type: refines
-    target: IF-0Z1CBK
+    target: REQ-RB2SZD5
     confirmed: 900884856ff6
 ---
 The heating controller shall report humidity values for at least 10 years.

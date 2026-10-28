@@ -1,15 +1,16 @@
 ---
-id: SYS-RCK4NZ
+id: REQ-758F5BD
 type: system-requirement
 title: Device registry reports sensor readings
 status: Obsolete
 priority: Medium
 owner: S. Adel
-parent: INFO-YV5EZD
-order: 30
+former-id: SYS-RCK4NZ
+parent: REQ-RE9ZKHF
+order: a2
 links:
   - type: refines
-    target: STK-R8QH58
+    target: REQ-BN3T0GR
     confirmed: 13d6784d2cc9
 ---
 The device registry shall store audit records for at least 10 years.

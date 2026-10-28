@@ -1,15 +1,16 @@
 ---
-id: IF-SPYGN8
+id: REQ-ZAREE3M
 type: interface-requirement
 title: Limit audit records — detail
 status: Draft
 priority: Medium
 owner: Y. Saber
-parent: IF-PSRC7S
-order: 10
+former-id: IF-SPYGN8
+parent: REQ-7GD9M8F
+order: a0
 links:
   - type: refines
-    target: IF-PSRC7S
+    target: REQ-7GD9M8F
     confirmed: 1dd5dc21136d
 ---
 The OTA server shall detect error conditions at least once per minute.

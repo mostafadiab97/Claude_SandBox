@@ -1,5 +1,5 @@
 ---
-id: IF-4STYRZ
+id: REQ-Q5BCM5T
 type: interface-requirement
 title: "Signal 065: error conditions"
 status: Review
@@ -8,7 +8,8 @@ tags:
   - connectivity
   - power
   - EMC
-parent: INFO-2TM0JP
-order: 650
+former-id: IF-4STYRZ
+parent: REQ-RJ0KHPT
+order: b02
 ---
 Interface signal number 65.

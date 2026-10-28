@@ -1,5 +1,5 @@
 ---
-id: TC-3BEN3P
+id: REQ-G8WZ1D6
 type: test-case
 title: "Verify: Zone valve encrypts safety limits"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - regulatory
   - EMC
-parent: INFO-MS9DAG
-order: 230
+former-id: TC-3BEN3P
+parent: REQ-XGWSK2K
+order: aM
 links:
   - type: verifies
-    target: SYS-849P26
+    target: REQ-S3K8TNJ
     confirmed: 4fcdac202dc1
 ---
 **Objective:** verify that the zone valve behaves as specified.

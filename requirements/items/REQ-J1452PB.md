@@ -1,5 +1,5 @@
 ---
-id: SYS-WQRW57
+id: REQ-J1452PB
 type: system-requirement
 title: Over-temperature monitor stores audit records
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - accessibility
   - release-1.0
-parent: INFO-0229G8
-order: 770
+former-id: SYS-WQRW57
+parent: REQ-H9113WA
+order: b0E
 links:
   - type: refines
-    target: STK-G2H1B9
+    target: REQ-Q8ZRB9S
     confirmed: fce33b342585
 ---
 The over-temperature monitor shall limit the connection state in all supported languages.

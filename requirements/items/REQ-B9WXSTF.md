@@ -1,5 +1,5 @@
 ---
-id: TC-XTRJVZ
+id: REQ-B9WXSTF
 type: test-case
 title: "Verify: Zone valve limits schedule entries"
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - i18n
   - connectivity
-parent: INFO-MS9DAG
-order: 1300
+former-id: TC-XTRJVZ
+parent: REQ-XGWSK2K
+order: b15
 links:
   - type: verifies
-    target: SYS-04ZGE8
+    target: REQ-JJQ715X
     confirmed: 10dcdf47ad95
 ---
 **Objective:** verify that the zone valve behaves as specified.

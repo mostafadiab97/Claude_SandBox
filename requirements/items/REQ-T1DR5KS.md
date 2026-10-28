@@ -1,5 +1,5 @@
 ---
-id: SYS-72TJ12
+id: REQ-T1DR5KS
 type: system-requirement
 title: Login screen stores access tokens
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - security
   - accessibility
-parent: INFO-2XXBRS
-order: 1380
+former-id: SYS-72TJ12
+parent: REQ-QYXGSQ4
+order: b1D
 links:
   - type: refines
-    target: STK-55M3CZ
+    target: REQ-HTVZXH2
     confirmed: 45f1b5fe0502
 ---
 The login screen shall restore relay events in under 3 s.

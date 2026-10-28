@@ -1,5 +1,5 @@
 ---
-id: SYS-X1EA2B
+id: REQ-MJ8JRF5
 type: system-requirement
 title: Enclosure calibrates schedule entries
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - regulatory
   - ux
-parent: INFO-A6P9A8
-order: 2370
+former-id: SYS-X1EA2B
+parent: REQ-CMCS31A
+order: b2o
 links:
   - type: refines
-    target: STK-M28XWW
+    target: REQ-2678XV5
     confirmed: bcf262f10744
 ---
 The enclosure shall notify firmware images at least once per minute.

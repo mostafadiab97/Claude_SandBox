@@ -1,15 +1,16 @@
 ---
-id: HW-PZVCBD
+id: REQ-1T0F1WT
 type: hardware-requirement
 title: Main PCB encrypts user preferences
 status: Approved
 priority: High
 owner: Y. Saber
-parent: SYS-Z1018D
-order: 20
+former-id: HW-PZVCBD
+parent: REQ-B1FHJHB
+order: a1
 links:
   - type: refines
-    target: SYS-Z1018D
+    target: REQ-B1FHJHB
     confirmed: f9597fe30a5d
 ---
 The battery backup shall report firmware images with an accuracy of ±0.5 °C.

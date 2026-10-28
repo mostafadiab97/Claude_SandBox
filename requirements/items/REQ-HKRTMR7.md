@@ -1,5 +1,5 @@
 ---
-id: SYS-N3WYBE
+id: REQ-HKRTMR7
 type: system-requirement
 title: Local API limits audit records
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - ux
   - regulatory
-parent: INFO-NRVHA2
-order: 240
+former-id: SYS-N3WYBE
+parent: REQ-6R94HFM
+order: aN
 links:
   - type: refines
-    target: STK-DZ9P6K
+    target: REQ-0775VTJ
     confirmed: 35469390951d
 ---
 The local API shall authenticate humidity values in under 3 s.

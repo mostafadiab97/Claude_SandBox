@@ -1,15 +1,16 @@
 ---
-id: SW-RS2YWD
+id: REQ-FG6KBH6
 type: software-requirement
 title: Notification service authenticates firmware images
 status: Review
 priority: High
 owner: S. Adel
-parent: SYS-72RSQG
-order: 30
+former-id: SW-RS2YWD
+parent: REQ-KFEFVBF
+order: a2
 links:
   - type: refines
-    target: SYS-72RSQG
+    target: REQ-KFEFVBF
     confirmed: d9f78fd2af42
 ---
 The home dashboard shall report humidity values for at least 10 years.

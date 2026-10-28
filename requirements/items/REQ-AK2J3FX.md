@@ -1,15 +1,16 @@
 ---
-id: SW-83R3G1
+id: REQ-AK2J3FX
 type: software-requirement
 title: Secure boot stores schedule entries
 status: Approved
 priority: Medium
 owner: N. Kamal
-parent: SYS-95649D
-order: 10
+former-id: SW-83R3G1
+parent: REQ-CN36GA6
+order: a0
 links:
   - type: refines
-    target: SYS-95649D
+    target: REQ-CN36GA6
     confirmed: 1d3bba17b129
 ---
 The tamper detection shall synchronise safety limits using AES-256-GCM.

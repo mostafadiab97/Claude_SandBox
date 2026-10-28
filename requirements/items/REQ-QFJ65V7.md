@@ -1,15 +1,16 @@
 ---
-id: SW-60M2TJ
+id: REQ-QFJ65V7
 type: software-requirement
 title: Heat pump driver limits firmware images
 status: Obsolete
 priority: Medium
 owner: Y. Saber
-parent: SYS-CGJPSG
-order: 20
+former-id: SW-60M2TJ
+parent: REQ-JVX09VR
+order: a1
 links:
   - type: refines
-    target: SYS-CGJPSG
+    target: REQ-JVX09VR
     confirmed: 4edc21a3fb0f
 ---
 The heat pump driver shall restore user preferences for at least 10 years.

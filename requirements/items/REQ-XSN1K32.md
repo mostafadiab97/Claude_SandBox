@@ -1,5 +1,5 @@
 ---
-id: TC-6KSMFK
+id: REQ-XSN1K32
 type: test-case
 title: "Verify: Heat pump driver synchronises relay events"
 status: Approved
@@ -8,14 +8,15 @@ tags:
   - performance
   - safety
   - connectivity
-parent: INFO-MS9DAG
-order: 1330
+former-id: TC-6KSMFK
+parent: REQ-XGWSK2K
+order: b18
 links:
   - type: verifies
-    target: SYS-R95DE9
+    target: REQ-99489MT
     confirmed: 9bf2a8cf1287
   - type: verifies
-    target: SW-75XXSR
+    target: REQ-DXDFRXW
     confirmed: 4c4f1f47baa6
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

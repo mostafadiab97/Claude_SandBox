@@ -1,14 +1,15 @@
 ---
-id: IF-1V16CZ
+id: REQ-Z9W25ZD
 type: interface-requirement
 title: Bluetooth LE link notifys humidity values
 status: Draft
 owner: محمد علي
-parent: SYS-568D4J
-order: 30
+former-id: IF-1V16CZ
+parent: REQ-2WNTMGV
+order: a2
 links:
   - type: refines
-    target: SYS-568D4J
+    target: REQ-2WNTMGV
     confirmed: 57968fcc7d39
 ---
 The pairing process shall display safety limits below 0.5 W in standby.

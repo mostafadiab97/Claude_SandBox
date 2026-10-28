@@ -1,5 +1,5 @@
 ---
-id: IF-ZMKS95
+id: REQ-SNFBANC
 type: interface-requirement
 title: Home dashboard limits safety limits
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - performance
   - security
-parent: SYS-7XRVPP
-order: 30
+former-id: IF-ZMKS95
+parent: REQ-0SSVS4Y
+order: a2
 links:
   - type: refines
-    target: SYS-7XRVPP
+    target: REQ-0SSVS4Y
     confirmed: d90eb5aab73d
 ---
 The home dashboard shall restore the set point in all supported languages.

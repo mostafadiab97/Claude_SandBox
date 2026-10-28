@@ -1,14 +1,15 @@
 ---
-id: SW-FBBSBY
+id: REQ-KWGHZF1
 type: software-requirement
 title: Touch display reports energy consumption
 status: Draft
 priority: Medium
-parent: SYS-BNJ0XS
-order: 20
+former-id: SW-FBBSBY
+parent: REQ-XTZFEK4
+order: a1
 links:
   - type: refines
-    target: SYS-BNJ0XS
+    target: REQ-XTZFEK4
     confirmed: 1bddaa57818d
 ---
 The touch display shall detect the room temperature after a power loss.

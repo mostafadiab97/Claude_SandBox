@@ -1,5 +1,5 @@
 ---
-id: SW-4TFMP3
+id: REQ-PSHV4WZ
 type: software-requirement
 title: Display relay events — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - security
   - i18n
-parent: SW-GR1195
-order: 10
+former-id: SW-4TFMP3
+parent: REQ-XT61T5V
+order: a0
 links:
   - type: refines
-    target: SW-GR1195
+    target: REQ-XT61T5V
     confirmed: 3faf6fa03816
 ---
 The pairing process shall display the connection state when the network is unavailable.

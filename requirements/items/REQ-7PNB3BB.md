@@ -1,17 +1,18 @@
 ---
-id: TC-6ASJRH
+id: REQ-7PNB3BB
 type: test-case
 title: "Verify: Secure boot switchs relay events"
 status: Approved
 owner: N. Kamal
-parent: INFO-Z4TW4B
-order: 100
+former-id: TC-6ASJRH
+parent: REQ-K6FGAY0
+order: a9
 links:
   - type: verifies
-    target: SYS-KF7ZE3
+    target: REQ-6PB57PX
     confirmed: 3dd7a8ccfac1
   - type: verifies
-    target: SW-4Y5KKR
+    target: REQ-3B0EQ0W
     confirmed: da530757de05
 ---
 **Objective:** verify that the secure boot behaves as specified.

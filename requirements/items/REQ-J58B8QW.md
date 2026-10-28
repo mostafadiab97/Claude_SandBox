@@ -1,15 +1,16 @@
 ---
-id: TC-Z1EV5P
+id: REQ-J58B8QW
 type: test-case
 title: "Verify: Battery backup stores sensor readings"
 status: Review
 priority: Low
 owner: A. Hassan
-parent: INFO-MACGC3
-order: 1090
+former-id: TC-Z1EV5P
+parent: REQ-F9Z1FYS
+order: b0k
 links:
   - type: verifies
-    target: SYS-7XYG17
+    target: REQ-BPM72GK
     confirmed: b02cb0cbf227
 ---
 **Objective:** verify that the battery backup behaves as specified.

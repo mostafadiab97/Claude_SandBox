@@ -1,5 +1,5 @@
 ---
-id: TC-SVG7SE
+id: REQ-Y2A4B3X
 type: test-case
 title: "Verify: Watchdog reports schedule entries"
 status: Review
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - power
   - connectivity
-parent: INFO-Z4TW4B
-order: 1070
+former-id: TC-SVG7SE
+parent: REQ-K6FGAY0
+order: b0i
 links:
   - type: verifies
-    target: SYS-NVH3G7
+    target: REQ-SATNXSC
     confirmed: a822090bf9b4
 ---
 **Objective:** verify that the watchdog behaves as specified.

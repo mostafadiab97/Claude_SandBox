@@ -1,15 +1,16 @@
 ---
-id: TC-571QHG
+id: REQ-H00B0RK
 type: test-case
 title: "Verify: Status LED displays sensor readings"
 status: Draft
 priority: Medium
 owner: L. Samir
-parent: INFO-HTSZ15
-order: 240
+former-id: TC-571QHG
+parent: REQ-Y9VHHKA
+order: aN
 links:
   - type: verifies
-    target: SYS-AHMEKC
+    target: REQ-BYG3SK3
     confirmed: 5aa806091a04
 ---
 **Objective:** verify that the status LED behaves as specified.

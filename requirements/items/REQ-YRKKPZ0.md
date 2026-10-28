@@ -1,5 +1,5 @@
 ---
-id: TC-7G1SQH
+id: REQ-YRKKPZ0
 type: test-case
 title: "Verify: Telemetry pipeline measures sensor readings"
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - release-1.0
   - release-2.0
-parent: INFO-7P4D8D
-order: 590
+former-id: TC-7G1SQH
+parent: REQ-8351896
+order: aw
 links:
   - type: verifies
-    target: SYS-TTBHSQ
+    target: REQ-YY33AAD
     confirmed: ac320e4fa404
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

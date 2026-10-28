@@ -1,15 +1,16 @@
 ---
-id: IF-PXHV4Y
+id: REQ-90CWYCN
 type: interface-requirement
 title: Backlight switchs the connection state
 status: Draft
 priority: Medium
 owner: J. Müller
-parent: SYS-7C9J06
-order: 20
+former-id: IF-PXHV4Y
+parent: REQ-8BHKC2G
+order: a1
 links:
   - type: refines
-    target: SYS-7C9J06
+    target: REQ-8BHKC2G
     confirmed: cd6745f84064
 ---
 The backlight shall store the set point in under 3 s.

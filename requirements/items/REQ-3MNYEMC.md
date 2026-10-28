@@ -1,15 +1,16 @@
 ---
-id: SW-9EEFDN
+id: REQ-3MNYEMC
 type: software-requirement
 title: Notification service notifys humidity values
 status: Approved
 priority: High
 owner: N. Kamal
-parent: SYS-7QNRB0
-order: 30
+former-id: SW-9EEFDN
+parent: REQ-WEBDC12
+order: a2
 links:
   - type: refines
-    target: SYS-7QNRB0
+    target: REQ-WEBDC12
     confirmed: a3f05325ad0a
 ---
 The notification service shall calibrate sensor readings for up to 8 zones.

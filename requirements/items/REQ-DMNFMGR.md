@@ -1,5 +1,5 @@
 ---
-id: TC-BPGCQM
+id: REQ-DMNFMGR
 type: test-case
 title: "Verify: Login screen logs the operating mode"
 status: Approved
@@ -7,14 +7,15 @@ priority: High
 owner: H. Mostafa
 tags:
   - customer-request
-parent: INFO-J0FETE
-order: 830
+former-id: TC-BPGCQM
+parent: REQ-WR5ZJN9
+order: b0K
 links:
   - type: verifies
-    target: SYS-A45TJB
+    target: REQ-GRZK4CZ
     confirmed: 6163aa570a7a
   - type: verifies
-    target: SW-VXT0WC
+    target: REQ-65JZA9E
     confirmed: 5c7155c7a225
 ---
 **Objective:** verify that the login screen behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: TC-DK7X1N
+id: REQ-ZMBKCS8
 type: test-case
 title: "Regression: Over-temperature monitor synchronises access tokens"
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - ux
   - release-2.0
   - regulatory
-parent: INFO-ECHASH
-order: 930
+former-id: TC-DK7X1N
+parent: REQ-6H15AV2
+order: b0U
 links:
   - type: verifies
-    target: SYS-M5YEH7
+    target: REQ-8B8YED0
     confirmed: 82e2e5978f31
 ---
 **Objective:** verify that the device behaves as specified.

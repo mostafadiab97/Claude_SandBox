@@ -1,18 +1,19 @@
 ---
-id: TC-7S4PHY
+id: REQ-ETQMQC7
 type: test-case
 title: "Verify: Encryption layer reports the room temperature"
 status: Draft
 priority: High
 owner: R. Nabil
-parent: INFO-Z4TW4B
-order: 260
+former-id: TC-7S4PHY
+parent: REQ-K6FGAY0
+order: aP
 links:
   - type: verifies
-    target: SYS-5JP4T4
+    target: REQ-5RZXY01
     confirmed: 8b6fa0928d20
   - type: verifies
-    target: SW-CT0KF3
+    target: REQ-7ZDJAAS
     confirmed: b023bd0bf70c
 ---
 **Objective:** verify that the encryption layer behaves as specified.

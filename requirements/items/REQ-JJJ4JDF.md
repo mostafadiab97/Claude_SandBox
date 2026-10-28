@@ -1,5 +1,5 @@
 ---
-id: TC-7KGKSB
+id: REQ-JJJ4JDF
 type: test-case
 title: "Verify: Boiler interface logs user preferences"
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - EMC
   - release-2.0
   - release-1.0
-parent: INFO-MS9DAG
-order: 880
+former-id: TC-7KGKSB
+parent: REQ-XGWSK2K
+order: b0P
 links:
   - type: verifies
-    target: SYS-6SJ3GD
+    target: REQ-DESXWYX
     confirmed: af53245ff967
   - type: verifies
-    target: SW-SHA6RD
+    target: REQ-6HD66DQ
     confirmed: 320ede9579ea
 ---
 **Objective:** verify that the boiler interface behaves as specified.

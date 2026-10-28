@@ -1,5 +1,5 @@
 ---
-id: IF-Z0XJHN
+id: REQ-FJNPXX7
 type: interface-requirement
 title: Menu system limits schedule entries
 status: Obsolete
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - EMC
   - ux
-parent: SYS-XPCTNY
-order: 10
+former-id: IF-Z0XJHN
+parent: REQ-PN5GKGD
+order: a0
 links:
   - type: refines
-    target: SYS-XPCTNY
+    target: REQ-PN5GKGD
     confirmed: 042eed4f2a11
 ---
 The backlight shall notify safety limits without user interaction.

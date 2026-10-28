@@ -1,5 +1,5 @@
 ---
-id: SW-S38S3Q
+id: REQ-BG4E1G4
 type: software-requirement
 title: Status LED encrypts audit records
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - EMC
   - performance
-parent: SYS-D5BE23
-order: 20
+former-id: SW-S38S3Q
+parent: REQ-AYKW2SY
+order: a1
 links:
   - type: refines
-    target: SYS-D5BE23
+    target: REQ-AYKW2SY
     confirmed: 909e2792e686
 ---
 The status LED shall switch energy consumption using AES-256-GCM.

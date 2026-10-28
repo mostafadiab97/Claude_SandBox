@@ -1,5 +1,5 @@
 ---
-id: SW-D2BWEQ
+id: REQ-QFFVTJM
 type: software-requirement
 title: Bluetooth LE link stores audit records
 status: Obsolete
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - connectivity
   - i18n
-parent: SYS-C7XPC7
-order: 10
+former-id: SW-D2BWEQ
+parent: REQ-Z7QFA6T
+order: a0
 links:
   - type: refines
-    target: SYS-C7XPC7
+    target: REQ-Z7QFA6T
     confirmed: 159fdc89b57b
 ---
 The Wi-Fi module shall encrypt error conditions for up to 8 zones.

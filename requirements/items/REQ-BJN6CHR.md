@@ -1,17 +1,18 @@
 ---
-id: TC-WB4CDM
+id: REQ-BJN6CHR
 type: test-case
 title: "Verify: Heating controller limits the room temperature"
 status: Draft
 owner: M. Farouk
-parent: INFO-MS9DAG
-order: 290
+former-id: TC-WB4CDM
+parent: REQ-XGWSK2K
+order: aS
 links:
   - type: verifies
-    target: SYS-A6Z44C
+    target: REQ-2VGMQ5S
     confirmed: f442eb9491f7
   - type: verifies
-    target: SW-MV99XM
+    target: REQ-86NSB1A
     confirmed: ebb6a7b1b83a
 ---
 **Objective:** verify that the heating controller behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: DE-WPXNXB
+id: REQ-EYR6VHP
 type: design-element
 title: Module menu_system_26
 status: Review
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - i18n
   - performance
-parent: SW-ZBGW8W
-order: 10
+former-id: DE-WPXNXB
+parent: REQ-YAN7DHR
+order: a0
 links:
   - type: implements
-    target: SW-ZBGW8W
+    target: REQ-YAN7DHR
     confirmed: 94c849d220ae
 ---
 Implemented in `src/ui/menu_system.c`.

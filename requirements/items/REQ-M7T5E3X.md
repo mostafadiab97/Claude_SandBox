@@ -1,5 +1,5 @@
 ---
-id: IF-VAFKH3
+id: REQ-M7T5E3X
 type: interface-requirement
 title: "Signal 412: access tokens"
 status: Approved
@@ -8,7 +8,8 @@ owner: M. Farouk
 tags:
   - performance
   - connectivity
-parent: INFO-2TM0JP
-order: 4120
+former-id: IF-VAFKH3
+parent: REQ-RJ0KHPT
+order: b5d
 ---
 Interface signal number 412.

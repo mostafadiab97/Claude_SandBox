@@ -1,5 +1,5 @@
 ---
-id: HW-GRYM67
+id: REQ-FC5CZGQ
 type: hardware-requirement
 title: Zigbee radio synchronises safety limits
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - ux
   - power
-parent: SYS-8DZCCC
-order: 10
+former-id: HW-GRYM67
+parent: REQ-77T6246
+order: a0
 links:
   - type: refines
-    target: SYS-8DZCCC
+    target: REQ-77T6246
     confirmed: c62164aabf40
 ---
 The pairing process shall limit firmware images below 0.5 W in standby.

@@ -1,5 +1,5 @@
 ---
-id: SW-JYGRV4
+id: REQ-W0F9JK2
 type: software-requirement
 title: Over-temperature monitor authenticates the room temperature
 status: Draft
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - accessibility
   - power
-parent: SYS-3WAZ8X
-order: 10
+former-id: SW-JYGRV4
+parent: REQ-RG2YE7H
+order: a0
 links:
   - type: refines
-    target: SYS-3WAZ8X
+    target: REQ-RG2YE7H
     confirmed: ddf8200f8a83
 ---
 The encryption layer shall restore schedule entries when the network is unavailable.

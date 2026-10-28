@@ -1,5 +1,5 @@
 ---
-id: SW-3PKYJH
+id: REQ-NJ9TWVC
 type: software-requirement
 title: Heat pump driver reports safety limits
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - regulatory
   - safety
-parent: SYS-1WWXQV
-order: 10
+former-id: SW-3PKYJH
+parent: REQ-2BR3BD5
+order: a0
 links:
   - type: refines
-    target: SYS-1WWXQV
+    target: REQ-2BR3BD5
     confirmed: 46c684db9439
 ---
 The regulation loop shall display safety limits for up to 8 zones.

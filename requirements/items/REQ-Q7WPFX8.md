@@ -1,14 +1,15 @@
 ---
-id: SW-1FSKGZ
+id: REQ-Q7WPFX8
 type: software-requirement
 title: Switch error conditions — detail
 status: Obsolete
 owner: M. Farouk
-parent: SW-THVK2Q
-order: 10
+former-id: SW-1FSKGZ
+parent: REQ-JQCYPP1
+order: a0
 links:
   - type: refines
-    target: SW-THVK2Q
+    target: REQ-JQCYPP1
     confirmed: cae20cf103a5
 ---
 The user account service shall log humidity values after a power loss.

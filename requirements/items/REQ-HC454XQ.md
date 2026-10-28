@@ -1,18 +1,19 @@
 ---
-id: TC-HHX223
+id: REQ-HC454XQ
 type: test-case
 title: "Verify: Backlight notifys audit records"
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: INFO-HTSZ15
-order: 590
+former-id: TC-HHX223
+parent: REQ-Y9VHHKA
+order: aw
 links:
   - type: verifies
-    target: SYS-A1EMZ9
+    target: REQ-8MD3CMA
     confirmed: a04194db67ef
   - type: verifies
-    target: SW-TZCS9C
+    target: REQ-EKMKFZ6
     confirmed: d8fdea0c8e00
 ---
 **Objective:** verify that the backlight behaves as specified.

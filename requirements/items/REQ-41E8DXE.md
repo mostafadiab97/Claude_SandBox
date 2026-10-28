@@ -1,5 +1,5 @@
 ---
-id: SW-EGTHPJ
+id: REQ-41E8DXE
 type: software-requirement
 title: Rotary knob reports firmware images
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - regulatory
   - power
-parent: SYS-SF88T3
-order: 20
+former-id: SW-EGTHPJ
+parent: REQ-JVZ4JGJ
+order: a1
 links:
   - type: refines
-    target: SYS-SF88T3
+    target: REQ-JVZ4JGJ
     confirmed: 209502b43a6d
 ---
 The rotary knob shall display error conditions when the network is unavailable.

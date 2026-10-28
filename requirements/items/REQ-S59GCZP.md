@@ -1,5 +1,5 @@
 ---
-id: HW-PG0K6N
+id: REQ-S59GCZP
 type: hardware-requirement
 title: Telemetry pipeline synchronises user preferences
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - EMC
-parent: SYS-175X0G
-order: 20
+former-id: HW-PG0K6N
+parent: REQ-YRG0KW0
+order: a1
 links:
   - type: refines
-    target: SYS-175X0G
+    target: REQ-YRG0KW0
     confirmed: 3e7e54a5d4f3
 ---
 The telemetry pipeline shall encrypt energy consumption after a power loss.

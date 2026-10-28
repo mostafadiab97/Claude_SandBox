@@ -1,5 +1,5 @@
 ---
-id: TC-F55B8G
+id: REQ-BGCGR2Y
 type: test-case
 title: Hub verification 38
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - safety
   - ux
   - power
-parent: INFO-ECHASH
-order: 470
+former-id: TC-F55B8G
+parent: REQ-6H15AV2
+order: ak
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

@@ -1,16 +1,17 @@
 ---
-id: DE-N8WXBJ
+id: REQ-AZDT64S
 type: design-element
 title: Module tamper_detection_34
 status: Approved
 priority: Medium
 tags:
   - ux
-parent: SW-WPZWN6
-order: 10
+former-id: DE-N8WXBJ
+parent: REQ-NXECVCF
+order: a0
 links:
   - type: implements
-    target: SW-WPZWN6
+    target: REQ-NXECVCF
     confirmed: 04a0bf820b60
 ---
 Implemented in `src/safe/tamper_detection.c`.

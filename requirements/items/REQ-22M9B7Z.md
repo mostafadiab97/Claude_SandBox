@@ -1,5 +1,5 @@
 ---
-id: SYS-J7BTY7
+id: REQ-22M9B7Z
 type: system-requirement
 title: Status LED reports the operating mode
 status: Review
@@ -9,14 +9,15 @@ tags:
   - ux
   - connectivity
   - performance
-parent: INFO-PDR6FV
-order: 1330
+former-id: SYS-J7BTY7
+parent: REQ-2ZA2TRZ
+order: b18
 links:
   - type: refines
-    target: STK-KPV71Q
+    target: REQ-VQBZQVC
     confirmed: 10d9c216aea2
   - type: mitigates
-    target: RSK-81XFR0
+    target: REQ-E5T2N3D
     confirmed: df837fe8b253
 ---
 The status LED shall display the room temperature for at least 10 years.

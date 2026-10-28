@@ -1,5 +1,5 @@
 ---
-id: DE-E8MXQP
+id: REQ-6T4CRHT
 type: design-element
 title: Module telemetry_pipeline_72
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - accessibility
   - power
-parent: SW-Z5HD5W
-order: 10
+former-id: DE-E8MXQP
+parent: REQ-XTWH32M
+order: a0
 links:
   - type: implements
-    target: SW-Z5HD5W
+    target: REQ-XTWH32M
     confirmed: 29e08bcbf4c6
 ---
 Implemented in `src/cloud/telemetry_pipeline.c`.

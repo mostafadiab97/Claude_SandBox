@@ -1,5 +1,5 @@
 ---
-id: IF-JZ4X21
+id: REQ-PFDTT6M
 type: interface-requirement
 title: Backlight stores error conditions
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - accessibility
   - connectivity
-parent: SYS-1YMXAH
-order: 10
+former-id: IF-JZ4X21
+parent: REQ-JQ3RHFQ
+order: a0
 links:
   - type: refines
-    target: SYS-1YMXAH
+    target: REQ-JQ3RHFQ
     confirmed: 4e76eb2ccede
 ---
 The backlight shall restore the set point using AES-256-GCM.

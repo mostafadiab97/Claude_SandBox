@@ -1,15 +1,16 @@
 ---
-id: SYS-422XBG
+id: REQ-BGNBT5F
 type: system-requirement
 title: Relay board stores audit records
 status: Approved
 priority: Medium
 owner: É. Laurent
-parent: INFO-A6P9A8
-order: 250
+former-id: SYS-422XBG
+parent: REQ-CMCS31A
+order: aO
 links:
   - type: refines
-    target: STK-4NGQJ5
+    target: REQ-4H1F9N3
     confirmed: 96640a7e340d
 ---
 The relay board shall report the room temperature in all supported languages.

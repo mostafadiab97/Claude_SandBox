@@ -1,5 +1,5 @@
 ---
-id: IF-73583X
+id: REQ-MRNB8ME
 type: interface-requirement
 title: Home dashboard logs relay events
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: K. Tanaka
 tags:
   - performance
-parent: SYS-FS8JEV
-order: 20
+former-id: IF-73583X
+parent: REQ-PY74FHZ
+order: a1
 links:
   - type: refines
-    target: SYS-FS8JEV
+    target: REQ-PY74FHZ
     confirmed: 0f8454ecd67d
 ---
 The mobile app shall limit user preferences when the network is unavailable.

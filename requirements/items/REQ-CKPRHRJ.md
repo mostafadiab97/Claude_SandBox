@@ -1,15 +1,16 @@
 ---
-id: TC-ZWEGMJ
+id: REQ-CKPRHRJ
 type: test-case
 title: "Verify: Encryption layer authenticates humidity values"
 status: Draft
 priority: Medium
 owner: محمد علي
-parent: INFO-Z4TW4B
-order: 420
+former-id: TC-ZWEGMJ
+parent: REQ-K6FGAY0
+order: af
 links:
   - type: verifies
-    target: SYS-5D666J
+    target: REQ-2ZR5V0B
     confirmed: cfe3f145e294
 ---
 **Objective:** verify that the encryption layer behaves as specified.

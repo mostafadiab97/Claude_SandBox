@@ -1,5 +1,5 @@
 ---
-id: TC-H71GBZ
+id: REQ-6PSZR5D
 type: test-case
 title: "Verify: Device registry notifys sensor readings"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - power
   - safety
-parent: INFO-7P4D8D
-order: 1540
+former-id: TC-H71GBZ
+parent: REQ-8351896
+order: b1T
 links:
   - type: verifies
-    target: SYS-SASG4P
+    target: REQ-XEBH9VA
     confirmed: 00a1e26f4144
 ---
 **Objective:** verify that the device registry behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: IF-M52ATE
+id: REQ-MH1W0EK
 type: interface-requirement
 title: Zone valve limits the room temperature
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - ux
   - accessibility
-parent: SYS-E70SS0
-order: 10
+former-id: IF-M52ATE
+parent: REQ-NFV2K0G
+order: a0
 links:
   - type: refines
-    target: SYS-E70SS0
+    target: REQ-NFV2K0G
     confirmed: 230b3d3629fc
 ---
 The heat pump driver shall notify humidity values after a power loss.

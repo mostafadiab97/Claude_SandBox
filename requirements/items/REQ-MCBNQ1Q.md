@@ -1,5 +1,5 @@
 ---
-id: DEF-SBSKZ1
+id: REQ-MCBNQ1Q
 type: defect
 title: "Defect: menu system does not store safety limits"
 status: Approved
@@ -8,14 +8,15 @@ owner: L. Samir
 tags:
   - regulatory
   - performance
-parent: INFO-7HY7F9
-order: 100
+former-id: DEF-SBSKZ1
+parent: REQ-HFYH0KW
+order: a9
 links:
   - type: relates-to
-    target: TC-Q6QD24
+    target: REQ-K8QTJ1Q
     confirmed: 01121f023aa6
   - type: relates-to
-    target: SYS-M9DD33
+    target: REQ-R9CA0V4
     confirmed: c0c5efe3652f
 ---
 Found during regression testing of build 2.7.16.

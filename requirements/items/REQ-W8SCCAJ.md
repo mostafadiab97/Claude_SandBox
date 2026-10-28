@@ -1,5 +1,5 @@
 ---
-id: DE-KFH1FD
+id: REQ-W8SCCAJ
 type: design-element
 title: Module watchdog_56
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: S. Adel
 tags:
   - safety
-parent: SW-W93JJQ
-order: 10
+former-id: DE-KFH1FD
+parent: REQ-G97T6Y2
+order: a0
 links:
   - type: implements
-    target: SW-W93JJQ
+    target: REQ-G97T6Y2
     confirmed: 2ca908e3c5ab
 ---
 Implemented in `src/safe/watchdog.c`.

@@ -1,16 +1,17 @@
 ---
-id: SYS-XZE9DK
+id: REQ-YGYNCGG
 type: system-requirement
 title: User account service measures error conditions
 status: Approved
 priority: Medium
 tags:
   - cost
-parent: INFO-YV5EZD
-order: 1110
+former-id: SYS-XZE9DK
+parent: REQ-RE9ZKHF
+order: b0m
 links:
   - type: refines
-    target: STK-SKPX7F
+    target: REQ-M17BCB3
     confirmed: ff820400e2f9
 ---
 The user account service shall measure safety limits in under 3 s.

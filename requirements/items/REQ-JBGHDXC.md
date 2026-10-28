@@ -1,15 +1,16 @@
 ---
-id: SW-8SE4A7
+id: REQ-JBGHDXC
 type: software-requirement
 title: Validate the operating mode — detail
 status: Approved
 tags:
   - safety
-parent: SW-0E8HYM
-order: 10
+former-id: SW-8SE4A7
+parent: REQ-VGXJHSR
+order: a0
 links:
   - type: refines
-    target: SW-0E8HYM
+    target: REQ-VGXJHSR
     confirmed: bdbee9c49117
 ---
 The encryption layer shall restore humidity values below 0.5 W in standby.

@@ -1,5 +1,5 @@
 ---
-id: TC-N64T3E
+id: REQ-V90FC45
 type: test-case
 title: "Verify: Battery backup reports relay events"
 status: Review
@@ -9,11 +9,12 @@ tags:
   - performance
   - safety
   - release-1.0
-parent: INFO-MACGC3
-order: 190
+former-id: TC-N64T3E
+parent: REQ-F9Z1FYS
+order: aI
 links:
   - type: verifies
-    target: SYS-A47H7R
+    target: REQ-CZRWJVP
     confirmed: fd7d82b6415e
 ---
 **Objective:** verify that the battery backup behaves as specified.

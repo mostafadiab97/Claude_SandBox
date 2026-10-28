@@ -1,16 +1,17 @@
 ---
-id: IF-QES6T6
+id: REQ-VTFDZ2B
 type: interface-requirement
 title: Local API detects firmware images
 status: Draft
 owner: H. Mostafa
 tags:
   - performance
-parent: SYS-M1RMNM
-order: 40
+former-id: IF-QES6T6
+parent: REQ-QTV0SK9
+order: a3
 links:
   - type: refines
-    target: SYS-M1RMNM
+    target: REQ-QTV0SK9
     confirmed: 6d9e9d1dc1e4
 ---
 The Bluetooth LE link shall display energy consumption in under 3 s.

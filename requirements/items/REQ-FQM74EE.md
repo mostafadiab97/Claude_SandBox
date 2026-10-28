@@ -1,14 +1,15 @@
 ---
-id: DE-EFV8R7
+id: REQ-FQM74EE
 type: design-element
 title: Module watchdog_6
 status: Approved
 priority: Medium
-parent: SW-5WJYDA
-order: 10
+former-id: DE-EFV8R7
+parent: REQ-C892TM5
+order: a0
 links:
   - type: implements
-    target: SW-5WJYDA
+    target: REQ-C892TM5
     confirmed: 4b45ccd4e117
 ---
 Implemented in `src/safe/watchdog.c`.

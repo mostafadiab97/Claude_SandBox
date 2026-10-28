@@ -1,5 +1,5 @@
 ---
-id: TC-S9WHY3
+id: REQ-3CXFB35
 type: test-case
 title: "Regression: Schedule editor measures relay events"
 status: Review
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - connectivity
   - security
-parent: INFO-ECHASH
-order: 2060
+former-id: TC-S9WHY3
+parent: REQ-6H15AV2
+order: b2J
 links:
   - type: verifies
-    target: SYS-XGRV2A
+    target: REQ-08575KR
     confirmed: 99dfb3c74c30
 ---
 **Objective:** verify that the device behaves as specified.

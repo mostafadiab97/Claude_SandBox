@@ -1,5 +1,5 @@
 ---
-id: HW-87Z8WP
+id: REQ-GX7BAFC
 type: hardware-requirement
 title: Enclosure switchs energy consumption
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: J. Müller
 tags:
   - customer-request
-parent: SYS-NYK3S8
-order: 40
+former-id: HW-87Z8WP
+parent: REQ-KVQ8Z5K
+order: a3
 links:
   - type: refines
-    target: SYS-NYK3S8
+    target: REQ-KVQ8Z5K
     confirmed: 144fa7466d8d
 ---
 The battery backup shall switch user preferences within 200 ms.

@@ -1,18 +1,19 @@
 ---
-id: TC-6JGA6A
+id: REQ-PZR1DNR
 type: test-case
 title: "Verify: Mobile app authenticates relay events"
 status: Draft
 priority: Low
 owner: S. Adel
-parent: INFO-J0FETE
-order: 640
+former-id: TC-6JGA6A
+parent: REQ-WR5ZJN9
+order: b01
 links:
   - type: verifies
-    target: SYS-263BJQ
+    target: REQ-94M0JBB
     confirmed: 545c48596828
   - type: verifies
-    target: SW-6PQ479
+    target: REQ-X1RW2P6
     confirmed: 14014a8e9ebe
 ---
 **Objective:** verify that the mobile app behaves as specified.

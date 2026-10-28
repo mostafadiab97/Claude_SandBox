@@ -1,5 +1,5 @@
 ---
-id: TC-S92ETK
+id: REQ-GD73AN0
 type: test-case
 title: "Verify: Touch display displays the connection state"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - security
   - ux
   - regulatory
-parent: INFO-HTSZ15
-order: 760
+former-id: TC-S92ETK
+parent: REQ-Y9VHHKA
+order: b0D
 links:
   - type: verifies
-    target: SYS-SS4F7X
+    target: REQ-H1M276S
     confirmed: 072a30500dc2
 ---
 **Objective:** verify that the touch display behaves as specified.

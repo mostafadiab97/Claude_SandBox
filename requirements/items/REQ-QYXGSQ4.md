@@ -1,7 +1,8 @@
 ---
-id: INFO-2XXBRS
+id: REQ-QYXGSQ4
 type: information
-title: 2.2 System requirements
-parent: INFO-12YCQ1
-order: 20
+title: System requirements
+former-id: INFO-2XXBRS
+parent: REQ-WYM3P1X
+order: a0
 ---

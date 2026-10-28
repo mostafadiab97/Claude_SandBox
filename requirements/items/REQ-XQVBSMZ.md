@@ -1,5 +1,5 @@
 ---
-id: SW-B102SS
+id: REQ-XQVBSMZ
 type: software-requirement
 title: Device registry logs user preferences
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - regulatory
   - i18n
-parent: SYS-MDEDXA
-order: 30
+former-id: SW-B102SS
+parent: REQ-7PM4157
+order: a2
 links:
   - type: refines
-    target: SYS-MDEDXA
+    target: REQ-7PM4157
     confirmed: 1956ae8aa0df
 ---
 The telemetry pipeline shall detect schedule entries for at least 10 years.

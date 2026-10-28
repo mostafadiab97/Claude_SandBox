@@ -1,5 +1,5 @@
 ---
-id: IF-GHVWS3
+id: REQ-RRZM4KM
 type: interface-requirement
 title: "Signal 042: firmware images"
 status: Obsolete
@@ -7,7 +7,8 @@ priority: High
 owner: L. Samir
 tags:
   - i18n
-parent: INFO-2TM0JP
-order: 420
+former-id: IF-GHVWS3
+parent: REQ-RJ0KHPT
+order: af
 ---
 Interface signal number 42.

@@ -1,5 +1,5 @@
 ---
-id: SW-APJKM4
+id: REQ-6M6XZBF
 type: software-requirement
 title: Bluetooth LE link switchs sensor readings
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - security
   - customer-request
   - release-2.0
-parent: SYS-DNKAZZ
-order: 40
+former-id: SW-APJKM4
+parent: REQ-63BDR23
+order: a3
 links:
   - type: refines
-    target: SYS-DNKAZZ
+    target: REQ-63BDR23
     confirmed: 22452286eeb7
 ---
 The local API shall report relay events within 200 ms.

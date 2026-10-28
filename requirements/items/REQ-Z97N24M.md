@@ -1,15 +1,16 @@
 ---
-id: IF-MZ4YHN
+id: REQ-Z97N24M
 type: interface-requirement
 title: Menu system restores the set point
 status: Draft
 priority: Low
 owner: Y. Saber
-parent: SYS-2M20D2
-order: 10
+former-id: IF-MZ4YHN
+parent: REQ-TMSVB73
+order: a0
 links:
   - type: refines
-    target: SYS-2M20D2
+    target: REQ-TMSVB73
     confirmed: b57795c968ed
 ---
 The rotary knob shall switch access tokens for at least 10 years.

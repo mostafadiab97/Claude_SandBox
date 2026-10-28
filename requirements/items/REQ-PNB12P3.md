@@ -1,5 +1,5 @@
 ---
-id: TC-GG3KNA
+id: REQ-PNB12P3
 type: test-case
 title: "Verify: Watchdog restores access tokens"
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 owner: L. Samir
 tags:
   - performance
-parent: INFO-Z4TW4B
-order: 1440
+former-id: TC-GG3KNA
+parent: REQ-K6FGAY0
+order: b1J
 links:
   - type: verifies
-    target: SYS-81C7XG
+    target: REQ-FF77ZPP
     confirmed: b58b7666ff81
 ---
 **Objective:** verify that the watchdog behaves as specified.

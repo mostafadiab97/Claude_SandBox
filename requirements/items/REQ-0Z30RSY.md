@@ -1,14 +1,15 @@
 ---
-id: DE-8GB5XS
+id: REQ-0Z30RSY
 type: design-element
 title: Module menu_system_44
 status: Draft
 owner: R. Nabil
-parent: SW-P98Z8W
-order: 10
+former-id: DE-8GB5XS
+parent: REQ-4XJN5KY
+order: a0
 links:
   - type: implements
-    target: SW-P98Z8W
+    target: REQ-4XJN5KY
     confirmed: bf69fe95399a
 ---
 Implemented in `src/ui/menu_system.c`.

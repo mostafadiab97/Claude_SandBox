@@ -1,5 +1,5 @@
 ---
-id: TC-MPJ2E9
+id: REQ-VGJS7HB
 type: test-case
 title: "Verify: Home dashboard notifys the connection state"
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: L. Samir
 tags:
   - power
-parent: INFO-J0FETE
-order: 660
+former-id: TC-MPJ2E9
+parent: REQ-WR5ZJN9
+order: b03
 links:
   - type: verifies
-    target: SYS-FN4CWM
+    target: REQ-S6ZH8XQ
     confirmed: 7a160395e991
 ---
 **Objective:** verify that the home dashboard behaves as specified.

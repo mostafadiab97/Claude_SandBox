@@ -1,14 +1,15 @@
 ---
-id: SYS-5449PV
+id: REQ-XTRE6E2
 type: system-requirement
 title: Regulation loop stores audit records
 status: Approved
 priority: High
-parent: INFO-6DQTKV
-order: 1700
+former-id: SYS-5449PV
+parent: REQ-7ED7ZET
+order: b1j
 links:
   - type: refines
-    target: STK-M7S0HJ
+    target: REQ-219619F
     confirmed: 000356d5d38b
 ---
 The regulation loop shall validate firmware images in all supported languages.

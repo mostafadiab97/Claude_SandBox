@@ -1,15 +1,16 @@
 ---
-id: TC-2TAQSH
+id: REQ-RD350FN
 type: test-case
 title: "Verify: Local API validates the set point"
 status: Approved
 priority: High
 owner: H. Mostafa
-parent: INFO-F0M7VC
-order: 730
+former-id: TC-2TAQSH
+parent: REQ-67RQXCK
+order: b0A
 links:
   - type: verifies
-    target: SYS-HH08PK
+    target: REQ-KAM51ED
     confirmed: "8228102962e4"
 ---
 **Objective:** verify that the local API behaves as specified.

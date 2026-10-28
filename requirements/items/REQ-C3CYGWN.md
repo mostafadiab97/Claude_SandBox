@@ -1,5 +1,5 @@
 ---
-id: SYS-K8QB7W
+id: REQ-C3CYGWN
 type: system-requirement
 title: Device registry detects sensor readings
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - performance
   - i18n
-parent: INFO-YV5EZD
-order: 980
+former-id: SYS-K8QB7W
+parent: REQ-RE9ZKHF
+order: b0Z
 links:
   - type: refines
-    target: STK-JFBQPS
+    target: REQ-A8X8PTB
     confirmed: 5027ee1822eb
 ---
 The device registry shall validate relay events in all supported languages.

@@ -1,14 +1,15 @@
 ---
-id: SW-AT59S4
+id: REQ-8XXPF0X
 type: software-requirement
 title: Notification service detects relay events
 status: Draft
 owner: M. Farouk
-parent: SYS-3F8YD1
-order: 10
+former-id: SW-AT59S4
+parent: REQ-DGEMKE8
+order: a0
 links:
   - type: refines
-    target: SYS-3F8YD1
+    target: REQ-DGEMKE8
     confirmed: a6cd254de65c
 ---
 The notification service shall limit relay events below 0.5 W in standby.

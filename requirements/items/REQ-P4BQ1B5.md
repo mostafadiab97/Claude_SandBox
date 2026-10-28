@@ -1,5 +1,5 @@
 ---
-id: SW-A37PWK
+id: REQ-P4BQ1B5
 type: software-requirement
 title: Bluetooth LE link notifys audit records
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - release-1.0
   - ux
-parent: SYS-AFXTVK
-order: 40
+former-id: SW-A37PWK
+parent: REQ-HFKWETR
+order: a3
 links:
   - type: refines
-    target: SYS-AFXTVK
+    target: REQ-HFKWETR
     confirmed: f28f5499c8de
 ---
 The local API shall display schedule entries with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: SYS-FHYWXP
+id: REQ-7FNG430
 type: system-requirement
 title: Power supply measures the operating mode
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 tags:
   - safety
   - release-2.0
-parent: INFO-A6P9A8
-order: 560
+former-id: SYS-FHYWXP
+parent: REQ-CMCS31A
+order: at
 links:
   - type: refines
-    target: STK-922G3A
+    target: REQ-XZNTF7S
     confirmed: ea4a6a665922
   - type: mitigates
-    target: RSK-W413B9
+    target: REQ-187H7N8
     confirmed: 1a4d2dc5e12b
 ---
 The power supply shall log the set point with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: SW-GDVVE5
+id: REQ-8G68JA8
 type: software-requirement
 title: Status LED validates safety limits
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: H. Mostafa
 tags:
   - connectivity
-parent: SYS-E3DH60
-order: 30
+former-id: SW-GDVVE5
+parent: REQ-E069M01
+order: a2
 links:
   - type: refines
-    target: SYS-E3DH60
+    target: REQ-E069M01
     confirmed: 2a4bbbe46324
 ---
 The backlight shall calibrate relay events using AES-256-GCM.

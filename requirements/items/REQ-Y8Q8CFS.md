@@ -1,5 +1,5 @@
 ---
-id: DE-4BJMGW
+id: REQ-Y8Q8CFS
 type: design-element
 title: Module backlight_7
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - release-2.0
   - cost
-parent: SW-BHPCQG
-order: 10
+former-id: DE-4BJMGW
+parent: REQ-F89BSVC
+order: a0
 links:
   - type: implements
-    target: SW-BHPCQG
+    target: REQ-F89BSVC
     confirmed: c426ced4f4b7
 ---
 Implemented in `src/ui/backlight.c`.

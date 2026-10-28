@@ -1,15 +1,16 @@
 ---
-id: SYS-568D4J
+id: REQ-2WNTMGV
 type: system-requirement
 title: Pairing process authenticates sensor readings
 status: Obsolete
 priority: Medium
 owner: S. Adel
-parent: INFO-NRVHA2
-order: 1730
+former-id: SYS-568D4J
+parent: REQ-6R94HFM
+order: b1m
 links:
   - type: refines
-    target: STK-1R2QT3
+    target: REQ-3MGNW4R
     confirmed: 7ca04f22a1b8
 ---
 The pairing process shall encrypt the operating mode when the network is unavailable.

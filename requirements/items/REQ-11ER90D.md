@@ -1,5 +1,5 @@
 ---
-id: SYS-YAEXW8
+id: REQ-11ER90D
 type: system-requirement
 title: Menu system switchs relay events
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - regulatory
-parent: INFO-PDR6FV
-order: 1800
+former-id: SYS-YAEXW8
+parent: REQ-2ZA2TRZ
+order: b1t
 links:
   - type: refines
-    target: STK-HH6ZNR
+    target: REQ-PPDBMB4
     confirmed: caa77fe9df1c
 ---
 The menu system shall measure energy consumption in under 3 s.

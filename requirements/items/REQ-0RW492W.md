@@ -1,5 +1,5 @@
 ---
-id: SYS-7T162W
+id: REQ-0RW492W
 type: system-requirement
 title: Over-temperature monitor logs the connection state
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - accessibility
   - EMC
-parent: INFO-0229G8
-order: 600
+former-id: SYS-7T162W
+parent: REQ-H9113WA
+order: ax
 links:
   - type: refines
-    target: STK-ZJRWCQ
+    target: REQ-9YG77WV
     confirmed: 080168ea99ae
 ---
 The over-temperature monitor shall restore schedule entries for at least 10 years.

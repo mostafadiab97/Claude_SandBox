@@ -1,5 +1,5 @@
 ---
-id: SW-61NQ7P
+id: REQ-N15ZHX7
 type: software-requirement
 title: Encryption layer measures user preferences
 status: Review
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - EMC
   - accessibility
-parent: SYS-J8A4BW
-order: 10
+former-id: SW-61NQ7P
+parent: REQ-6MEBSJR
+order: a0
 links:
   - type: refines
-    target: SYS-J8A4BW
+    target: REQ-6MEBSJR
     confirmed: b28f6844e565
 ---
 The secure boot shall calibrate the connection state for up to 8 zones.

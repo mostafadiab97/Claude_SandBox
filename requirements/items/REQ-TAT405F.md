@@ -1,5 +1,5 @@
 ---
-id: TC-W9KYM3
+id: REQ-TAT405F
 type: test-case
 title: "Verify: Enclosure notifys user preferences"
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - release-2.0
   - cost
-parent: INFO-MACGC3
-order: 1530
+former-id: TC-W9KYM3
+parent: REQ-F9Z1FYS
+order: b1S
 links:
   - type: verifies
-    target: SYS-NDYE2C
+    target: REQ-7R7H5BD
     confirmed: 843e71f7ca47
 ---
 **Objective:** verify that the enclosure behaves as specified.

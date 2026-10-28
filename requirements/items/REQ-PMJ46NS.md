@@ -1,15 +1,16 @@
 ---
-id: TC-8CW1G9
+id: REQ-PMJ46NS
 type: test-case
 title: "Verify: Touch display reports user preferences"
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: INFO-HTSZ15
-order: 120
+former-id: TC-8CW1G9
+parent: REQ-Y9VHHKA
+order: aB
 links:
   - type: verifies
-    target: SYS-PRE7SJ
+    target: REQ-HXQ458K
     confirmed: a718da154f60
 ---
 **Objective:** verify that the touch display behaves as specified.

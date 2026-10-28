@@ -1,5 +1,5 @@
 ---
-id: IF-EKPVRY
+id: REQ-6JE63NW
 type: interface-requirement
 title: Power supply validates safety limits
 status: Review
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - accessibility
   - regulatory
-parent: SYS-YTH8E5
-order: 20
+former-id: IF-EKPVRY
+parent: REQ-DWMDQA4
+order: a1
 links:
   - type: refines
-    target: SYS-YTH8E5
+    target: REQ-DWMDQA4
     confirmed: d8d0d1c6087d
 ---
 The power supply shall restore safety limits with an accuracy of ±0.5 °C.

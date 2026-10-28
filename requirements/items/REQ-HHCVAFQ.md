@@ -1,7 +1,8 @@
 ---
-id: INFO-0V9DV4
+id: REQ-HHCVAFQ
 type: information
-title: 4.4 Risks
-parent: INFO-APHEKT
-order: 40
+title: Risks
+former-id: INFO-0V9DV4
+parent: REQ-1VKER3H
+order: a3
 ---

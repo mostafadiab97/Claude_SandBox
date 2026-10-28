@@ -1,15 +1,16 @@
 ---
-id: SW-5GVTYS
+id: REQ-JASBMAN
 type: software-requirement
 title: Wi-Fi module switchs error conditions
 status: Review
 priority: Medium
 owner: A. Hassan
-parent: SYS-RF310F
-order: 30
+former-id: SW-5GVTYS
+parent: REQ-HMAJH78
+order: a2
 links:
   - type: refines
-    target: SYS-RF310F
+    target: REQ-HMAJH78
     confirmed: bc4cb8d2d781
 ---
 The local API shall synchronise user preferences for up to 8 zones.

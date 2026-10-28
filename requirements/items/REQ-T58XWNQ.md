@@ -1,14 +1,15 @@
 ---
-id: IF-F09VCZ
+id: REQ-T58XWNQ
 type: interface-requirement
 title: Main PCB synchronises sensor readings
 status: Obsolete
 owner: M. Farouk
-parent: SYS-G05WA7
-order: 30
+former-id: IF-F09VCZ
+parent: REQ-TA12WYD
+order: a2
 links:
   - type: refines
-    target: SYS-G05WA7
+    target: REQ-TA12WYD
     confirmed: c37aca9c7e04
 ---
 The battery backup shall synchronise audit records within 200 ms.

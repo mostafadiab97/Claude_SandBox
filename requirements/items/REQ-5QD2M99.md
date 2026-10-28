@@ -1,5 +1,5 @@
 ---
-id: TC-1V5PA5
+id: REQ-5QD2M99
 type: test-case
 title: "Regression: Cloud backend stores safety limits"
 status: Review
@@ -9,11 +9,12 @@ tags:
   - safety
   - EMC
   - i18n
-parent: INFO-ECHASH
-order: 1240
+former-id: TC-1V5PA5
+parent: REQ-6H15AV2
+order: b0z
 links:
   - type: verifies
-    target: SYS-7EMY0G
+    target: REQ-V6R6FNJ
     confirmed: c4f3af124d96
 ---
 **Objective:** verify that the device behaves as specified.

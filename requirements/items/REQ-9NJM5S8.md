@@ -1,5 +1,5 @@
 ---
-id: SYS-79KQKX
+id: REQ-9NJM5S8
 type: system-requirement
 title: Mobile app calibrates schedule entries
 status: Obsolete
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - power
   - ux
-parent: INFO-2XXBRS
-order: 1100
+former-id: SYS-79KQKX
+parent: REQ-QYXGSQ4
+order: b0l
 links:
   - type: refines
-    target: STK-B9Y7CM
+    target: REQ-YGQ30E7
     confirmed: 2e83dea5db22
 ---
 The mobile app shall measure audit records when the network is unavailable.

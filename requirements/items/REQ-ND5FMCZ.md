@@ -1,5 +1,5 @@
 ---
-id: TC-N27E1E
+id: REQ-ND5FMCZ
 type: test-case
 title: "Verify: Cloud backend measures the room temperature"
 status: Review
@@ -7,11 +7,12 @@ owner: N. Kamal
 tags:
   - ux
   - customer-request
-parent: INFO-7P4D8D
-order: 1470
+former-id: TC-N27E1E
+parent: REQ-8351896
+order: b1M
 links:
   - type: verifies
-    target: SYS-EKB2T7
+    target: REQ-39Q1KC6
     confirmed: 08d1945fa1d9
 ---
 **Objective:** verify that the cloud backend behaves as specified.

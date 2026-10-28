@@ -1,15 +1,16 @@
 ---
-id: HW-P8DF14
+id: REQ-BCMTGZ5
 type: hardware-requirement
 title: Power supply limits sensor readings
 status: Review
 priority: High
 owner: S. Adel
-parent: SYS-WFQYSE
-order: 20
+former-id: HW-P8DF14
+parent: REQ-WQSDQ95
+order: a1
 links:
   - type: refines
-    target: SYS-WFQYSE
+    target: REQ-WQSDQ95
     confirmed: 5a5dbeacc343
 ---
 The relay board shall limit error conditions without user interaction.

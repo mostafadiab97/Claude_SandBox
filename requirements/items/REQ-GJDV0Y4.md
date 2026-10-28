@@ -1,5 +1,5 @@
 ---
-id: SW-8QAT82
+id: REQ-GJDV0Y4
 type: software-requirement
 title: OTA server validates the operating mode
 status: Draft
@@ -7,11 +7,12 @@ tags:
   - connectivity
   - power
   - cost
-parent: SYS-D7FGDK
-order: 40
+former-id: SW-8QAT82
+parent: REQ-B8N38VD
+order: a3
 links:
   - type: refines
-    target: SYS-D7FGDK
+    target: REQ-B8N38VD
     confirmed: bf329a941699
 ---
 The telemetry pipeline shall encrypt sensor readings when the network is unavailable.

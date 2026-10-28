@@ -1,5 +1,5 @@
 ---
-id: TC-QYSTTS
+id: REQ-HR622JW
 type: test-case
 title: "Verify: Over-temperature monitor limits error conditions"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: L. Samir
 tags:
   - security
-parent: INFO-Z4TW4B
-order: 390
+former-id: TC-QYSTTS
+parent: REQ-K6FGAY0
+order: ac
 links:
   - type: verifies
-    target: SYS-9TKGBW
+    target: REQ-77TZTJF
     confirmed: cdd3f206f1b7
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

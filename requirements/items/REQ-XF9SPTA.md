@@ -1,5 +1,5 @@
 ---
-id: SYS-AY6RXE
+id: REQ-XF9SPTA
 type: system-requirement
 title: Backlight restores the operating mode
 status: Draft
@@ -8,14 +8,15 @@ owner: L. Samir
 tags:
   - regulatory
   - release-1.0
-parent: INFO-PDR6FV
-order: 870
+former-id: SYS-AY6RXE
+parent: REQ-2ZA2TRZ
+order: b0O
 links:
   - type: refines
-    target: STK-BSSZ8Z
+    target: REQ-BREZDN1
     confirmed: eb15999e37f0
   - type: mitigates
-    target: RSK-81XFR0
+    target: REQ-E5T2N3D
     confirmed: df837fe8b253
 ---
 The backlight shall limit schedule entries below 0.5 W in standby.

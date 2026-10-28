@@ -1,5 +1,5 @@
 ---
-id: SW-RBJ09S
+id: REQ-HHNJNEW
 type: software-requirement
 title: Encryption layer validates safety limits
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - cost
   - ux
-parent: SYS-KVH0QX
-order: 20
+former-id: SW-RBJ09S
+parent: REQ-7Z26VSZ
+order: a1
 links:
   - type: refines
-    target: SYS-KVH0QX
+    target: REQ-7Z26VSZ
     confirmed: 12318aa6eb13
 ---
 The over-temperature monitor shall restore the operating mode using AES-256-GCM.

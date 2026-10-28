@@ -1,5 +1,5 @@
 ---
-id: TC-PF5G19
+id: REQ-4DHSJFV
 type: test-case
 title: "Verify: Encryption layer logs relay events"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - EMC
   - release-2.0
   - i18n
-parent: INFO-Z4TW4B
-order: 970
+former-id: TC-PF5G19
+parent: REQ-K6FGAY0
+order: b0Y
 links:
   - type: verifies
-    target: SYS-6T9DFV
+    target: REQ-PP1RGP0
     confirmed: 0e56d083aedf
   - type: verifies
-    target: SW-XK9HVN
+    target: REQ-81SC32G
     confirmed: bab2c9f18398
 ---
 **Objective:** verify that the encryption layer behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: SW-5R6PMM
+id: REQ-X8XCJ9W
 type: software-requirement
 title: Rotary knob authenticates error conditions
 status: Review
 priority: High
 owner: Y. Saber
-parent: SYS-MVY23C
-order: 30
+former-id: SW-5R6PMM
+parent: REQ-8G4VY21
+order: a2
 links:
   - type: refines
-    target: SYS-MVY23C
+    target: REQ-8G4VY21
     confirmed: c547c82cf252
 ---
 The backlight shall calibrate humidity values in all supported languages.

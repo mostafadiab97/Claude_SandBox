@@ -1,15 +1,16 @@
 ---
-id: IF-ZFC11F
+id: REQ-4THTYPM
 type: interface-requirement
 title: Encrypt the room temperature — detail
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: IF-NYBSM5
-order: 10
+former-id: IF-ZFC11F
+parent: REQ-9RZ4SYR
+order: a0
 links:
   - type: refines
-    target: IF-NYBSM5
+    target: REQ-9RZ4SYR
     confirmed: 7fbb24fe180f
 ---
 The user account service shall switch schedule entries within 200 ms.

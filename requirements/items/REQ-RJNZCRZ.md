@@ -1,5 +1,5 @@
 ---
-id: TC-W8Y56V
+id: REQ-RJNZCRZ
 type: test-case
 title: "Verify: Power supply synchronises humidity values"
 status: Approved
@@ -8,14 +8,15 @@ owner: R. Nabil
 tags:
   - safety
   - cost
-parent: INFO-MACGC3
-order: 660
+former-id: TC-W8Y56V
+parent: REQ-F9Z1FYS
+order: b03
 links:
   - type: verifies
-    target: SYS-BP947W
+    target: REQ-Y7VXC9H
     confirmed: f8fcab8bd387
   - type: verifies
-    target: SW-A00Y82
+    target: REQ-0CW7N9N
     confirmed: 3119f0b6b4c8
 ---
 **Objective:** verify that the power supply behaves as specified.

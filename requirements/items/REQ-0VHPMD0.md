@@ -1,15 +1,16 @@
 ---
-id: SW-NC5AGV
+id: REQ-0VHPMD0
 type: software-requirement
 title: Zone valve encrypts access tokens
 status: Approved
 priority: Medium
 owner: L. Samir
-parent: SYS-6B3TJP
-order: 10
+former-id: SW-NC5AGV
+parent: REQ-7FSGQXD
+order: a0
 links:
   - type: refines
-    target: SYS-6B3TJP
+    target: REQ-7FSGQXD
     confirmed: e1f0da4672bf
 ---
 The regulation loop shall authenticate energy consumption with an accuracy of ±0.5 °C.

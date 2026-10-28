@@ -1,14 +1,15 @@
 ---
-id: SYS-8ZNJBE
+id: REQ-9GY82M1
 type: system-requirement
 title: Menu system measures humidity values
 status: Review
 priority: Low
-parent: INFO-PDR6FV
-order: 1060
+former-id: SYS-8ZNJBE
+parent: REQ-2ZA2TRZ
+order: b0h
 links:
   - type: refines
-    target: STK-HH6ZNR
+    target: REQ-PPDBMB4
     confirmed: caa77fe9df1c
 ---
 The menu system shall restore relay events at least once per minute.

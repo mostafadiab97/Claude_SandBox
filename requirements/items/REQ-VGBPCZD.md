@@ -1,16 +1,17 @@
 ---
-id: SYS-ANP21Y
+id: REQ-VGBPCZD
 type: system-requirement
 title: Cloud backend switchs sensor readings
 status: Approved
 priority: Medium
 tags:
   - release-2.0
-parent: INFO-YV5EZD
-order: 1010
+former-id: SYS-ANP21Y
+parent: REQ-RE9ZKHF
+order: b0c
 links:
   - type: refines
-    target: STK-JFBQPS
+    target: REQ-A8X8PTB
     confirmed: 5027ee1822eb
 ---
 The cloud backend shall detect energy consumption when the network is unavailable.

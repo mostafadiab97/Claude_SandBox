@@ -1,5 +1,5 @@
 ---
-id: HW-AM7QH0
+id: REQ-ES5D1B6
 type: hardware-requirement
 title: Zone valve reports the set point
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - power
   - release-1.0
-parent: SYS-PRTYJ3
-order: 20
+former-id: HW-AM7QH0
+parent: REQ-SWQXV55
+order: a1
 links:
   - type: refines
-    target: SYS-PRTYJ3
+    target: REQ-SWQXV55
     confirmed: 93824c965ccd
 ---
 The heat pump driver shall validate the operating mode after a power loss.

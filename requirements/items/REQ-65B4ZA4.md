@@ -1,5 +1,5 @@
 ---
-id: SW-4CC95Q
+id: REQ-65B4ZA4
 type: software-requirement
 title: Notify the set point — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - customer-request
   - safety
-parent: SW-2ATGBP
-order: 10
+former-id: SW-4CC95Q
+parent: REQ-1D3ETSM
+order: a0
 links:
   - type: refines
-    target: SW-2ATGBP
+    target: REQ-1D3ETSM
     confirmed: 4247219f7022
 ---
 The watchdog shall switch firmware images using AES-256-GCM.

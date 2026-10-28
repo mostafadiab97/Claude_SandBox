@@ -1,18 +1,19 @@
 ---
-id: TC-TT6TVK
+id: REQ-G8F1C0S
 type: test-case
 title: "Verify: Enclosure measures the operating mode"
 status: Obsolete
 priority: Low
 owner: L. Samir
-parent: INFO-MACGC3
-order: 550
+former-id: TC-TT6TVK
+parent: REQ-F9Z1FYS
+order: as
 links:
   - type: verifies
-    target: SYS-RWYDHZ
+    target: REQ-NXAVMWA
     confirmed: 11de28b7d99d
   - type: verifies
-    target: SW-MEDA9V
+    target: REQ-VCEDV88
     confirmed: 0626f45d0a4b
 ---
 **Objective:** verify that the enclosure behaves as specified.

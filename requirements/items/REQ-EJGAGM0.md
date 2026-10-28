@@ -1,5 +1,5 @@
 ---
-id: DE-ER8D90
+id: REQ-EJGAGM0
 type: design-element
 title: Module heat_pump_driver_54
 status: Review
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - EMC
   - security
-parent: SW-Q2QTQB
-order: 10
+former-id: DE-ER8D90
+parent: REQ-4CARVM1
+order: a0
 links:
   - type: implements
-    target: SW-Q2QTQB
+    target: REQ-4CARVM1
     confirmed: 85e910d6a295
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

@@ -1,13 +1,14 @@
 ---
-id: SYS-GW4A7W
+id: REQ-P550GQC
 type: system-requirement
 title: Enclosure logs audit records
 status: Draft
-parent: INFO-A6P9A8
-order: 810
+former-id: SYS-GW4A7W
+parent: REQ-CMCS31A
+order: b0I
 links:
   - type: refines
-    target: STK-2STGXE
+    target: REQ-67MQ0AB
     confirmed: c77fe61daf4b
 ---
 The enclosure shall authenticate firmware images for at least 10 years.

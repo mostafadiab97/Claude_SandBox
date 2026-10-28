@@ -1,5 +1,5 @@
 ---
-id: TC-7AZQ40
+id: REQ-7PGG8BD
 type: test-case
 title: "Verify: Status LED limits the room temperature"
 status: Draft
@@ -8,14 +8,15 @@ owner: É. Laurent
 tags:
   - i18n
   - release-1.0
-parent: INFO-HTSZ15
-order: 850
+former-id: TC-7AZQ40
+parent: REQ-Y9VHHKA
+order: b0M
 links:
   - type: verifies
-    target: SYS-TFXCHW
+    target: REQ-3S6527M
     confirmed: e2bb9e80b6f4
   - type: verifies
-    target: SW-SKXKT9
+    target: REQ-ECDD6JM
     confirmed: d9b394032de0
 ---
 **Objective:** verify that the status LED behaves as specified.

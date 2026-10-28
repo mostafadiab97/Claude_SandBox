@@ -1,18 +1,19 @@
 ---
-id: TC-NJRFKR
+id: REQ-1W8VCRD
 type: test-case
 title: "Verify: Backlight synchronises firmware images"
 status: Draft
 priority: Medium
 owner: N. Kamal
-parent: INFO-HTSZ15
-order: 650
+former-id: TC-NJRFKR
+parent: REQ-Y9VHHKA
+order: b02
 links:
   - type: verifies
-    target: SYS-JWK81Y
+    target: REQ-2QACV9V
     confirmed: 8656508483c4
   - type: verifies
-    target: SW-GDVVE5
+    target: REQ-8G68JA8
     confirmed: b483650c28fc
 ---
 **Objective:** verify that the backlight behaves as specified.

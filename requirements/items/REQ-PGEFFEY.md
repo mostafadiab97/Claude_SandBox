@@ -1,14 +1,15 @@
 ---
-id: TC-HQF9JF
+id: REQ-PGEFFEY
 type: test-case
 title: "Verify: Enclosure stores schedule entries"
 status: Approved
 owner: S. Adel
-parent: INFO-MACGC3
-order: 720
+former-id: TC-HQF9JF
+parent: REQ-F9Z1FYS
+order: b09
 links:
   - type: verifies
-    target: SYS-PCB26E
+    target: REQ-95R7PF6
     confirmed: 1f9a2a50a4bc
 ---
 **Objective:** verify that the enclosure behaves as specified.

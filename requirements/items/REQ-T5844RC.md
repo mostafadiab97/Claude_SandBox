@@ -1,15 +1,16 @@
 ---
-id: HW-2ACJYZ
+id: REQ-T5844RC
 type: hardware-requirement
 title: Zigbee radio reports relay events
 status: Draft
 priority: High
 owner: A. Hassan
-parent: SYS-WNQGR6
-order: 10
+former-id: HW-2ACJYZ
+parent: REQ-RBQG9NG
+order: a0
 links:
   - type: refines
-    target: SYS-WNQGR6
+    target: REQ-RBQG9NG
     confirmed: 1dc3d7c9d30a
 ---
 The Bluetooth LE link shall authenticate schedule entries when the network is unavailable.

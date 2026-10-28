@@ -1,5 +1,5 @@
 ---
-id: TC-7YD8MD
+id: REQ-658YQV5
 type: test-case
 title: "Verify: Heating controller detects sensor readings"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - i18n
-parent: INFO-MS9DAG
-order: 330
+former-id: TC-7YD8MD
+parent: REQ-XGWSK2K
+order: aW
 links:
   - type: verifies
-    target: SYS-RG9GAY
+    target: REQ-Y8A0W34
     confirmed: 9687363c0226
 ---
 **Objective:** verify that the heating controller behaves as specified.

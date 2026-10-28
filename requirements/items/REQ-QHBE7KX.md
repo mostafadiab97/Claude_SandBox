@@ -1,5 +1,5 @@
 ---
-id: SYS-M63JNN
+id: REQ-QHBE7KX
 type: system-requirement
 title: Mobile app measures access tokens
 status: Review
@@ -8,14 +8,15 @@ owner: R. Nabil
 tags:
   - security
   - safety
-parent: INFO-2XXBRS
-order: 1820
+former-id: SYS-M63JNN
+parent: REQ-QYXGSQ4
+order: b1v
 links:
   - type: refines
-    target: STK-4F6B1Y
+    target: REQ-5P7JDVE
     confirmed: 4a1d76b1da2c
   - type: mitigates
-    target: RSK-KX4Z8F
+    target: REQ-1CKR5QB
     confirmed: ce36fe2999cf
 ---
 The mobile app shall display the room temperature when the network is unavailable.

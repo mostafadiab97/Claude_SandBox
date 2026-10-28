@@ -1,5 +1,5 @@
 ---
-id: IF-SJ3K8G
+id: REQ-WF87XT8
 type: interface-requirement
 title: User account service synchronises firmware images
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - release-1.0
   - safety
-parent: SYS-0QZ4FS
-order: 10
+former-id: IF-SJ3K8G
+parent: REQ-TZMSH1B
+order: a0
 links:
   - type: refines
-    target: SYS-0QZ4FS
+    target: REQ-TZMSH1B
     confirmed: 83b1b69a9529
 ---
 The user account service shall validate audit records at least once per minute.

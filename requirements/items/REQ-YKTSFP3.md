@@ -1,18 +1,19 @@
 ---
-id: TC-E1XCQ1
+id: REQ-YKTSFP3
 type: test-case
 title: "Verify: OTA server notifys the operating mode"
 status: Draft
 priority: Medium
 owner: Y. Saber
-parent: INFO-7P4D8D
-order: 530
+former-id: TC-E1XCQ1
+parent: REQ-8351896
+order: aq
 links:
   - type: verifies
-    target: SYS-J2BCRS
+    target: REQ-DKZ6T1N
     confirmed: dbe3e7f88972
   - type: verifies
-    target: SW-5H3R25
+    target: REQ-93PRYS5
     confirmed: d0a887012e16
 ---
 **Objective:** verify that the OTA server behaves as specified.

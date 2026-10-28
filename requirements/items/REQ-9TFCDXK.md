@@ -1,14 +1,15 @@
 ---
-id: DE-Y2CN9H
+id: REQ-9TFCDXK
 type: design-element
 title: Module heat_pump_driver_12
 status: Obsolete
 priority: Low
-parent: SW-N6MNJN
-order: 10
+former-id: DE-Y2CN9H
+parent: REQ-YYZQMQ6
+order: a0
 links:
   - type: implements
-    target: SW-N6MNJN
+    target: REQ-YYZQMQ6
     confirmed: 1a7e7967d46e
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

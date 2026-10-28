@@ -1,5 +1,5 @@
 ---
-id: TC-SN4K3W
+id: REQ-5KPD7CN
 type: test-case
 title: "Verify: Backlight synchronises user preferences"
 status: Review
@@ -7,11 +7,12 @@ priority: High
 tags:
   - safety
   - regulatory
-parent: INFO-HTSZ15
-order: 1080
+former-id: TC-SN4K3W
+parent: REQ-Y9VHHKA
+order: b0j
 links:
   - type: verifies
-    target: SYS-RBHXPF
+    target: REQ-1X8RESD
     confirmed: efa36830708b
 ---
 **Objective:** verify that the backlight behaves as specified.

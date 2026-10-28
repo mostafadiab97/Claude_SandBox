@@ -1,5 +1,5 @@
 ---
-id: HW-DHSA5C
+id: REQ-EM6BFP8
 type: hardware-requirement
 title: OTA server reports the connection state
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - ux
   - performance
-parent: SYS-HSBZEM
-order: 10
+former-id: HW-DHSA5C
+parent: REQ-VDKN4BP
+order: a0
 links:
   - type: refines
-    target: SYS-HSBZEM
+    target: REQ-VDKN4BP
     confirmed: 22cdb66e683a
 ---
 The OTA server shall calibrate the connection state when the network is unavailable.

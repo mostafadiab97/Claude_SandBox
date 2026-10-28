@@ -1,5 +1,5 @@
 ---
-id: SW-X4YC2J
+id: REQ-1D3NR8A
 type: software-requirement
 title: Tamper detection displays audit records
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: A. Hassan
 tags:
   - cost
-parent: SYS-81C7XG
-order: 20
+former-id: SW-X4YC2J
+parent: REQ-FF77ZPP
+order: a1
 links:
   - type: refines
-    target: SYS-81C7XG
+    target: REQ-FF77ZPP
     confirmed: b58b7666ff81
 ---
 The watchdog shall authenticate relay events below 0.5 W in standby.

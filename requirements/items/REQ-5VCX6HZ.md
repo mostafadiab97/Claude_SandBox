@@ -1,15 +1,16 @@
 ---
-id: HW-SET52P
+id: REQ-5VCX6HZ
 type: hardware-requirement
 title: Store schedule entries — detail
 status: Obsolete
 priority: Medium
 owner: É. Laurent
-parent: HW-ZR83VT
-order: 10
+former-id: HW-SET52P
+parent: REQ-MXY9MWY
+order: a0
 links:
   - type: refines
-    target: HW-ZR83VT
+    target: REQ-MXY9MWY
     confirmed: b75e89306ac1
 ---
 The zone valve shall synchronise safety limits for at least 10 years.

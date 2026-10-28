@@ -1,5 +1,5 @@
 ---
-id: SW-ZH794W
+id: REQ-SF8PM9Z
 type: software-requirement
 title: Boiler interface authenticates the set point
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - connectivity
   - release-1.0
-parent: SYS-SK1ZFN
-order: 10
+former-id: SW-ZH794W
+parent: REQ-B8TB20A
+order: a0
 links:
   - type: refines
-    target: SYS-SK1ZFN
+    target: REQ-B8TB20A
     confirmed: 65625f74ff05
 ---
 The zone valve shall display the set point in all supported languages.

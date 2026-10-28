@@ -1,16 +1,17 @@
 ---
-id: SYS-G85CT4
+id: REQ-3485MQF
 type: system-requirement
 title: Telemetry pipeline detects sensor readings
 status: Approved
 owner: H. Mostafa
 tags:
   - i18n
-parent: INFO-YV5EZD
-order: 2000
+former-id: SYS-G85CT4
+parent: REQ-RE9ZKHF
+order: b2D
 links:
   - type: refines
-    target: STK-QN5QGR
+    target: REQ-BY89KNK
     confirmed: b7db2a321149
 ---
 The telemetry pipeline shall display energy consumption in under 3 s.

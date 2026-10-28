@@ -1,5 +1,5 @@
 ---
-id: HW-HY1E90
+id: REQ-B9DEN3Z
 type: hardware-requirement
 title: Zigbee radio synchronises user preferences
 status: Review
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - release-2.0
   - power
-parent: SYS-9W0KTX
-order: 10
+former-id: HW-HY1E90
+parent: REQ-BWX988Q
+order: a0
 links:
   - type: refines
-    target: SYS-9W0KTX
+    target: REQ-BWX988Q
     confirmed: a4802eb2b834
 ---
 The Bluetooth LE link shall detect the set point after a power loss.

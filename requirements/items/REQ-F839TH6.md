@@ -1,5 +1,5 @@
 ---
-id: HW-P12A8Q
+id: REQ-F839TH6
 type: hardware-requirement
 title: Watchdog measures the operating mode
 status: Review
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - EMC
   - customer-request
-parent: SYS-E7QPGB
-order: 40
+former-id: HW-P12A8Q
+parent: REQ-9RX4SNK
+order: a3
 links:
   - type: refines
-    target: SYS-E7QPGB
+    target: REQ-9RX4SNK
     confirmed: 07d5643ef6c8
 ---
 The over-temperature monitor shall notify humidity values for at least 10 years.

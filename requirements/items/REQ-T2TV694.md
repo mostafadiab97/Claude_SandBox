@@ -1,15 +1,16 @@
 ---
-id: TC-YDNEYD
+id: REQ-T2TV694
 type: test-case
 title: "Verify: Zigbee radio authenticates relay events"
 status: Approved
 priority: High
 owner: S. Adel
-parent: INFO-F0M7VC
-order: 880
+former-id: TC-YDNEYD
+parent: REQ-67RQXCK
+order: b0P
 links:
   - type: verifies
-    target: SYS-VGDQPF
+    target: REQ-YYPX12F
     confirmed: 3d1d8edc4849
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

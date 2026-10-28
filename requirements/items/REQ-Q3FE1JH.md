@@ -1,15 +1,16 @@
 ---
-id: HW-9YKXS6
+id: REQ-Q3FE1JH
 type: hardware-requirement
 title: Relay board reports humidity values
 status: Approved
 priority: High
 owner: S. Adel
-parent: SYS-M533EE
-order: 10
+former-id: HW-9YKXS6
+parent: REQ-7N71AKR
+order: a0
 links:
   - type: refines
-    target: SYS-M533EE
+    target: REQ-7N71AKR
     confirmed: 7d245035a878
 ---
 The battery backup shall measure sensor readings below 0.5 W in standby.

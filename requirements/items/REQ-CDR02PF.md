@@ -1,14 +1,15 @@
 ---
-id: HW-DXJ34Q
+id: REQ-CDR02PF
 type: hardware-requirement
 title: Cloud backend encrypts audit records
 status: Approved
 owner: N. Kamal
-parent: SYS-AH9G64
-order: 40
+former-id: HW-DXJ34Q
+parent: REQ-EBK9509
+order: a3
 links:
   - type: refines
-    target: SYS-AH9G64
+    target: REQ-EBK9509
     confirmed: e3199b24d9a9
 ---
 The cloud backend shall validate schedule entries within 200 ms.

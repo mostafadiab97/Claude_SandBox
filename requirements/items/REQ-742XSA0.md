@@ -1,5 +1,5 @@
 ---
-id: HW-1ER7Y0
+id: REQ-742XSA0
 type: hardware-requirement
 title: Home dashboard detects error conditions
 status: Review
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - accessibility
   - connectivity
-parent: SYS-QDWM3F
-order: 30
+former-id: HW-1ER7Y0
+parent: REQ-E75SXGC
+order: a2
 links:
   - type: refines
-    target: SYS-QDWM3F
+    target: REQ-E75SXGC
     confirmed: 6815e3fba85c
 ---
 The home dashboard shall encrypt sensor readings for up to 8 zones.

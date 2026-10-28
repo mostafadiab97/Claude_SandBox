@@ -1,5 +1,5 @@
 ---
-id: HW-9Y39CX
+id: REQ-QDK6128
 type: hardware-requirement
 title: Local API logs energy consumption
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - EMC
   - i18n
   - accessibility
-parent: SYS-1KYW4V
-order: 20
+former-id: HW-9Y39CX
+parent: REQ-EQZCZSV
+order: a1
 links:
   - type: refines
-    target: SYS-1KYW4V
+    target: REQ-EQZCZSV
     confirmed: b5edec3ba8f3
 ---
 The Zigbee radio shall calibrate the connection state within 200 ms.

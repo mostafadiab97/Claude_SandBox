@@ -1,15 +1,16 @@
 ---
-id: SW-V4MR5P
+id: REQ-RYN09KZ
 type: software-requirement
 title: Local API logs the connection state
 status: Approved
 priority: Medium
 owner: N. Kamal
-parent: SYS-F6VRWH
-order: 10
+former-id: SW-V4MR5P
+parent: REQ-5PW0SDX
+order: a0
 links:
   - type: refines
-    target: SYS-F6VRWH
+    target: REQ-5PW0SDX
     confirmed: abf71e4c34db
 ---
 The Zigbee radio shall limit the set point without user interaction.

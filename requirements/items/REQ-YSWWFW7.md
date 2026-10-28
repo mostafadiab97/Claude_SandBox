@@ -1,15 +1,16 @@
 ---
-id: SW-MZTFQV
+id: REQ-YSWWFW7
 type: software-requirement
 title: Pairing process synchronises the operating mode
 status: Draft
 priority: High
 owner: J. Müller
-parent: SYS-749A38
-order: 40
+former-id: SW-MZTFQV
+parent: REQ-GHJK43J
+order: a3
 links:
   - type: refines
-    target: SYS-749A38
+    target: REQ-GHJK43J
     confirmed: a8274ea6218e
 ---
 The Wi-Fi module shall encrypt schedule entries without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: SW-9ETGFY
+id: REQ-1X81VBE
 type: software-requirement
 title: Encryption layer switchs the operating mode
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - performance
   - safety
-parent: SYS-A19YDT
-order: 10
+former-id: SW-9ETGFY
+parent: REQ-4YFGPPR
+order: a0
 links:
   - type: refines
-    target: SYS-A19YDT
+    target: REQ-4YFGPPR
     confirmed: 102a3545c778
 ---
 The secure boot shall switch audit records in all supported languages.

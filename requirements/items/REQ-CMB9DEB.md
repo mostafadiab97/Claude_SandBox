@@ -1,5 +1,5 @@
 ---
-id: HW-G6G1RA
+id: REQ-CMB9DEB
 type: hardware-requirement
 title: Authenticate humidity values — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: A. Hassan
 tags:
   - connectivity
-parent: HW-JG6JBY
-order: 10
+former-id: HW-G6G1RA
+parent: REQ-VWE97K3
+order: a0
 links:
   - type: refines
-    target: HW-JG6JBY
+    target: REQ-VWE97K3
     confirmed: a8701491a579
 ---
 The watchdog shall authenticate schedule entries below 0.5 W in standby.

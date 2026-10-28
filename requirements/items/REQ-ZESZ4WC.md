@@ -1,14 +1,15 @@
 ---
-id: SW-QVQSYN
+id: REQ-ZESZ4WC
 type: software-requirement
 title: Device registry stores sensor readings
 status: Draft
 owner: M. Farouk
-parent: SYS-KBPFCV
-order: 30
+former-id: SW-QVQSYN
+parent: REQ-TZ1N94B
+order: a2
 links:
   - type: refines
-    target: SYS-KBPFCV
+    target: REQ-TZ1N94B
     confirmed: 659b9683cc27
 ---
 The telemetry pipeline shall display schedule entries when the network is unavailable.

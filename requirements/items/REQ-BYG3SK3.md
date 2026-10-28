@@ -1,15 +1,16 @@
 ---
-id: SYS-AHMEKC
+id: REQ-BYG3SK3
 type: system-requirement
 title: Status LED displays sensor readings
 status: Review
 priority: High
 owner: É. Laurent
-parent: INFO-PDR6FV
-order: 310
+former-id: SYS-AHMEKC
+parent: REQ-2ZA2TRZ
+order: aU
 links:
   - type: refines
-    target: STK-PCP268
+    target: REQ-DMRJS9A
     confirmed: 74f66b1bb8e8
 ---
 The status LED shall restore user preferences without user interaction.

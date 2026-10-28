@@ -1,5 +1,5 @@
 ---
-id: TC-85NJEW
+id: REQ-78FDXMH
 type: test-case
 title: "Regression: Menu system reports firmware images"
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: H. Mostafa
 tags:
   - regulatory
-parent: INFO-ECHASH
-order: 1950
+former-id: TC-85NJEW
+parent: REQ-6H15AV2
+order: b28
 links:
   - type: verifies
-    target: SYS-34B7MH
+    target: REQ-ED37SCP
     confirmed: 9aafb86ae7fb
 ---
 **Objective:** verify that the device behaves as specified.

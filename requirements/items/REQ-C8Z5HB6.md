@@ -1,5 +1,5 @@
 ---
-id: TC-F9PJXY
+id: REQ-C8Z5HB6
 type: test-case
 title: "Verify: Rotary knob logs user preferences"
 status: Approved
@@ -8,14 +8,15 @@ owner: É. Laurent
 tags:
   - security
   - regulatory
-parent: INFO-HTSZ15
-order: 1340
+former-id: TC-F9PJXY
+parent: REQ-Y9VHHKA
+order: b19
 links:
   - type: verifies
-    target: SYS-7BE6SJ
+    target: REQ-RGWCAM4
     confirmed: 39695d94f21a
   - type: verifies
-    target: SW-GT5SKH
+    target: REQ-RZYN6KK
     confirmed: c6c7ffc1b37f
 ---
 **Objective:** verify that the rotary knob behaves as specified.

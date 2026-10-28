@@ -1,5 +1,5 @@
 ---
-id: IF-47ZXD3
+id: REQ-897AT4V
 type: interface-requirement
 title: Restore schedule entries — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: M. Farouk
 tags:
   - customer-request
-parent: IF-8NFSC3
-order: 10
+former-id: IF-47ZXD3
+parent: REQ-5DG0CGC
+order: a0
 links:
   - type: refines
-    target: IF-8NFSC3
+    target: REQ-5DG0CGC
     confirmed: eda725773cd2
 ---
 The main PCB shall encrypt relay events for at least 10 years.

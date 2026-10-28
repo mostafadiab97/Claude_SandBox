@@ -1,9 +1,10 @@
 ---
-id: IF-FMGRK4
+id: REQ-7JT2KGW
 type: interface-requirement
 title: "Signal 304: firmware images"
 status: Review
-parent: INFO-2TM0JP
-order: 3040
+former-id: IF-FMGRK4
+parent: REQ-RJ0KHPT
+order: b3t
 ---
 Interface signal number 304.

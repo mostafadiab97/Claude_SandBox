@@ -1,5 +1,5 @@
 ---
-id: TC-03AMV7
+id: REQ-XF69DHF
 type: test-case
 title: "Verify: Main PCB authenticates the operating mode"
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - accessibility
   - cost
   - customer-request
-parent: INFO-MACGC3
-order: 1050
+former-id: TC-03AMV7
+parent: REQ-F9Z1FYS
+order: b0g
 links:
   - type: verifies
-    target: SYS-SZFE37
+    target: REQ-TJWAC19
     confirmed: 8ab1e84398ea
 ---
 **Objective:** verify that the main PCB behaves as specified.

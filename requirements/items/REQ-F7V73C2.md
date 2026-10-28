@@ -1,15 +1,16 @@
 ---
-id: SW-836F5K
+id: REQ-F7V73C2
 type: software-requirement
 title: Notification service reports error conditions
 status: Approved
 priority: Low
 owner: S. Adel
-parent: SYS-XTSYX5
-order: 30
+former-id: SW-836F5K
+parent: REQ-Y5YXWYJ
+order: a2
 links:
   - type: refines
-    target: SYS-XTSYX5
+    target: REQ-Y5YXWYJ
     confirmed: dc17ae1784ef
 ---
 The home dashboard shall measure humidity values without user interaction.

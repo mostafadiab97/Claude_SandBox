@@ -1,5 +1,5 @@
 ---
-id: IF-FD5VM4
+id: REQ-55CH8W7
 type: interface-requirement
 title: "Signal 453: sensor readings"
 status: Draft
@@ -8,7 +8,8 @@ owner: N. Kamal
 tags:
   - EMC
   - accessibility
-parent: INFO-2TM0JP
-order: 4530
+former-id: IF-FD5VM4
+parent: REQ-RJ0KHPT
+order: b6I
 ---
 Interface signal number 453.

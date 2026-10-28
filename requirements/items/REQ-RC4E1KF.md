@@ -1,5 +1,5 @@
 ---
-id: IF-17PEJX
+id: REQ-RC4E1KF
 type: interface-requirement
 title: "Signal 230: the connection state"
 status: Draft
@@ -8,7 +8,8 @@ owner: محمد علي
 tags:
   - security
   - i18n
-parent: INFO-2TM0JP
-order: 2300
+former-id: IF-17PEJX
+parent: REQ-RJ0KHPT
+order: b2h
 ---
 Interface signal number 230.

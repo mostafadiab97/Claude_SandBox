@@ -1,5 +1,5 @@
 ---
-id: IF-K8NW2K
+id: REQ-10CGJ79
 type: interface-requirement
 title: Battery backup notifys the connection state
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - cost
   - regulatory
   - release-1.0
-parent: SYS-9B4YX3
-order: 20
+former-id: IF-K8NW2K
+parent: REQ-ZRZYNZ8
+order: a1
 links:
   - type: refines
-    target: SYS-9B4YX3
+    target: REQ-ZRZYNZ8
     confirmed: 7e7b28ad44d1
 ---
 The relay board shall switch audit records at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: HW-YP0262
+id: REQ-QK32A8E
 type: hardware-requirement
 title: Device registry measures sensor readings
 status: Review
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - i18n
   - accessibility
-parent: SYS-EKB2T7
-order: 20
+former-id: HW-YP0262
+parent: REQ-39Q1KC6
+order: a1
 links:
   - type: refines
-    target: SYS-EKB2T7
+    target: REQ-39Q1KC6
     confirmed: 08d1945fa1d9
 ---
 The cloud backend shall notify energy consumption using AES-256-GCM.

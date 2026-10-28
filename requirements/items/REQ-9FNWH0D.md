@@ -1,7 +1,8 @@
 ---
-id: INFO-M91889
+id: REQ-9FNWH0D
 type: information
-title: 3.5 Defects and change requests
-parent: INFO-82THGP
-order: 50
+title: Defects and change requests
+former-id: INFO-M91889
+parent: REQ-MQ03W80
+order: a4
 ---

@@ -1,5 +1,5 @@
 ---
-id: IF-0VMFCD
+id: REQ-HS3BSSK
 type: interface-requirement
 title: Authenticate the room temperature — detail
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - i18n
   - customer-request
   - release-2.0
-parent: IF-4CHEM8
-order: 10
+former-id: IF-0VMFCD
+parent: REQ-83KA9WY
+order: a0
 links:
   - type: refines
-    target: IF-4CHEM8
+    target: REQ-83KA9WY
     confirmed: e928263d3a3d
 ---
 The notification service shall limit error conditions when the network is unavailable.

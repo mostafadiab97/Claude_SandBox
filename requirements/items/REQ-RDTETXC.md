@@ -1,15 +1,16 @@
 ---
-id: SW-Y0EG7Y
+id: REQ-RDTETXC
 type: software-requirement
 title: Watchdog reports audit records
 status: Draft
 priority: High
 owner: N. Kamal
-parent: SYS-BY1F6D
-order: 10
+former-id: SW-Y0EG7Y
+parent: REQ-Q264XYM
+order: a0
 links:
   - type: refines
-    target: SYS-BY1F6D
+    target: REQ-Q264XYM
     confirmed: 47a415e5df93
 ---
 The over-temperature monitor shall detect energy consumption with an accuracy of ±0.5 °C.

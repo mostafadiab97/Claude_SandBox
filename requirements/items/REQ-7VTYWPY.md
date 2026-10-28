@@ -1,7 +1,8 @@
 ---
-id: INFO-FBGE35
+id: REQ-7VTYWPY
 type: information
-title: 1. Heating Control
-order: 20
+title: Heating Control
+former-id: INFO-FBGE35
+order: a2
 ---
 Requirements for the heating control.

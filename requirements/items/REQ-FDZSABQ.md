@@ -1,16 +1,17 @@
 ---
-id: SW-S7V3AE
+id: REQ-FDZSABQ
 type: software-requirement
 title: Encryption layer displays user preferences
 status: Draft
 priority: Low
 tags:
   - safety
-parent: SYS-2TCHQB
-order: 30
+former-id: SW-S7V3AE
+parent: REQ-ECC9ESP
+order: a2
 links:
   - type: refines
-    target: SYS-2TCHQB
+    target: REQ-ECC9ESP
     confirmed: d50f8cfb5fb0
 ---
 The tamper detection shall synchronise safety limits after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: HW-7VWEDT
+id: REQ-PM5QFC4
 type: hardware-requirement
 title: Battery backup switchs energy consumption
 status: Review
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - release-1.0
   - cost
-parent: SYS-E3Z9PA
-order: 20
+former-id: HW-7VWEDT
+parent: REQ-YPMJX9G
+order: a1
 links:
   - type: refines
-    target: SYS-E3Z9PA
+    target: REQ-YPMJX9G
     confirmed: 789aac36902e
 ---
 The main PCB shall log relay events without user interaction.

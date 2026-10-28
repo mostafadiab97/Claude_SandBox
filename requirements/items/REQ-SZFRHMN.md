@@ -1,5 +1,5 @@
 ---
-id: HW-TBK1AT
+id: REQ-SZFRHMN
 type: hardware-requirement
 title: Home dashboard stores safety limits
 status: Obsolete
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - performance
   - release-2.0
-parent: SYS-33WX8J
-order: 20
+former-id: HW-TBK1AT
+parent: REQ-38QNR1B
+order: a1
 links:
   - type: refines
-    target: SYS-33WX8J
+    target: REQ-38QNR1B
     confirmed: 78ea2220229f
 ---
 The schedule editor shall measure energy consumption when the network is unavailable.

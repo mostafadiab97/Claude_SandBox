@@ -1,5 +1,5 @@
 ---
-id: IF-HVYJRP
+id: REQ-FYJCSJ6
 type: interface-requirement
 title: Boiler interface detects the connection state
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - cost
   - safety
   - connectivity
-parent: SYS-G1PHXX
-order: 40
+former-id: IF-HVYJRP
+parent: REQ-KDRQKKR
+order: a3
 links:
   - type: refines
-    target: SYS-G1PHXX
+    target: REQ-KDRQKKR
     confirmed: bf662a260349
 ---
 The boiler interface shall calibrate error conditions in under 3 s.

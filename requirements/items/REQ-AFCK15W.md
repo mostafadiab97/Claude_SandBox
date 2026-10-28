@@ -1,5 +1,5 @@
 ---
-id: IF-ASRHBG
+id: REQ-AFCK15W
 type: interface-requirement
 title: Boiler interface calibrates humidity values
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - cost
   - connectivity
-parent: SYS-CQBB7Y
-order: 30
+former-id: IF-ASRHBG
+parent: REQ-H0J26PQ
+order: a2
 links:
   - type: refines
-    target: SYS-CQBB7Y
+    target: REQ-H0J26PQ
     confirmed: 96aa1de698de
 ---
 The heat pump driver shall notify sensor readings using AES-256-GCM.

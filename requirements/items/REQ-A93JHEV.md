@@ -1,15 +1,16 @@
 ---
-id: TC-GV8MFQ
+id: REQ-A93JHEV
 type: test-case
 title: Hub verification 15
 status: Obsolete
 priority: High
 owner: L. Samir
-parent: INFO-ECHASH
-order: 240
+former-id: TC-GV8MFQ
+parent: REQ-6H15AV2
+order: aN
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

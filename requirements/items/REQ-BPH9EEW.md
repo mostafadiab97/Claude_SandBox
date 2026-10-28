@@ -1,5 +1,5 @@
 ---
-id: TC-7TQASG
+id: REQ-BPH9EEW
 type: test-case
 title: "Verify: Telemetry pipeline displays sensor readings"
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: K. Tanaka
 tags:
   - performance
-parent: INFO-7P4D8D
-order: 330
+former-id: TC-7TQASG
+parent: REQ-8351896
+order: aW
 links:
   - type: verifies
-    target: SYS-YJBS7Z
+    target: REQ-9CB5575
     confirmed: 75b98d046d10
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

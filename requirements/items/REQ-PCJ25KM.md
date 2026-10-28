@@ -1,16 +1,17 @@
 ---
-id: SW-2T3SDJ
+id: REQ-PCJ25KM
 type: software-requirement
 title: Cloud backend encrypts sensor readings
 status: Approved
 owner: L. Samir
 tags:
   - release-2.0
-parent: SYS-T2ZPTJ
-order: 20
+former-id: SW-2T3SDJ
+parent: REQ-2SKGBVM
+order: a1
 links:
   - type: refines
-    target: SYS-T2ZPTJ
+    target: REQ-2SKGBVM
     confirmed: 307534c43d1d
 ---
 The telemetry pipeline shall log sensor readings below 0.5 W in standby.

@@ -1,5 +1,5 @@
 ---
-id: SW-0P3AVZ
+id: REQ-PZ1QM4K
 type: software-requirement
 title: Status LED calibrates firmware images
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - EMC
   - cost
-parent: SYS-A8QJ0D
-order: 40
+former-id: SW-0P3AVZ
+parent: REQ-YYB84JE
+order: a3
 links:
   - type: refines
-    target: SYS-A8QJ0D
+    target: REQ-YYB84JE
     confirmed: 6b0808956296
 ---
 The touch display shall display the set point in under 3 s.

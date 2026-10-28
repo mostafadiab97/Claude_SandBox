@@ -1,5 +1,5 @@
 ---
-id: SW-1HN5B8
+id: REQ-ZXHSFDM
 type: software-requirement
 title: Store the connection state — detail
 status: Obsolete
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - security
   - connectivity
-parent: SW-TN3XDX
-order: 10
+former-id: SW-1HN5B8
+parent: REQ-J52E8HD
+order: a0
 links:
   - type: refines
-    target: SW-TN3XDX
+    target: REQ-J52E8HD
     confirmed: 30bdbc141ab6
 ---
 The zone valve shall notify user preferences within 200 ms.

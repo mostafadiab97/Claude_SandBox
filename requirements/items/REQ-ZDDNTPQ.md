@@ -1,5 +1,5 @@
 ---
-id: HW-5FXC6R
+id: REQ-ZDDNTPQ
 type: hardware-requirement
 title: Store humidity values — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - power
   - regulatory
-parent: HW-4GWP6Y
-order: 10
+former-id: HW-5FXC6R
+parent: REQ-PDH1HQB
+order: a0
 links:
   - type: refines
-    target: HW-4GWP6Y
+    target: REQ-PDH1HQB
     confirmed: e32a95a0afeb
 ---
 The OTA server shall synchronise the room temperature for up to 8 zones.

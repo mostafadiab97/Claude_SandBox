@@ -1,5 +1,5 @@
 ---
-id: SW-J91SN0
+id: REQ-Q6M141D
 type: software-requirement
 title: Heating controller synchronises access tokens
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - accessibility
   - performance
-parent: SYS-3BJR5R
-order: 20
+former-id: SW-J91SN0
+parent: REQ-EXK7X2H
+order: a1
 links:
   - type: refines
-    target: SYS-3BJR5R
+    target: REQ-EXK7X2H
     confirmed: f353734bb488
 ---
 The heating controller shall limit safety limits using AES-256-GCM.

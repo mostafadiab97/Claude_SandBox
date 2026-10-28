@@ -1,15 +1,16 @@
 ---
-id: SW-GGV1GQ
+id: REQ-DJPCTMR
 type: software-requirement
 title: Watchdog measures firmware images
 status: Approved
 priority: High
 owner: S. Adel
-parent: SYS-GXDBGP
-order: 20
+former-id: SW-GGV1GQ
+parent: REQ-40QG3F6
+order: a1
 links:
   - type: refines
-    target: SYS-GXDBGP
+    target: REQ-40QG3F6
     confirmed: 1634ca869b10
 ---
 The over-temperature monitor shall log humidity values without user interaction.

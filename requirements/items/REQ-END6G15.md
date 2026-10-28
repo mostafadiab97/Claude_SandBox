@@ -1,18 +1,19 @@
 ---
-id: TC-39RA5T
+id: REQ-END6G15
 type: test-case
 title: "Verify: Touch display measures schedule entries"
 status: Approved
 priority: High
 owner: S. Adel
-parent: INFO-HTSZ15
-order: 410
+former-id: TC-39RA5T
+parent: REQ-Y9VHHKA
+order: ae
 links:
   - type: verifies
-    target: SYS-RDQ73V
+    target: REQ-8VJ7WNS
     confirmed: 2791d2fc7833
   - type: verifies
-    target: SW-59CZVX
+    target: REQ-N7K3TAW
     confirmed: 01bd5099102e
 ---
 **Objective:** verify that the touch display behaves as specified.

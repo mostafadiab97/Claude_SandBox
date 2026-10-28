@@ -1,15 +1,16 @@
 ---
-id: TC-44FWCQ
+id: REQ-DRQSMKH
 type: test-case
 title: "Verify: Telemetry pipeline switchs relay events"
 status: Draft
 priority: Low
 owner: R. Nabil
-parent: INFO-7P4D8D
-order: 1400
+former-id: TC-44FWCQ
+parent: REQ-8351896
+order: b1F
 links:
   - type: verifies
-    target: SYS-EX11HN
+    target: REQ-5DRAJV0
     confirmed: 1e076df8d628
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

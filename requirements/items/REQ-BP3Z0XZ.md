@@ -1,17 +1,18 @@
 ---
-id: TC-6ZVHJM
+id: REQ-BP3Z0XZ
 type: test-case
 title: "Verify: OTA server synchronises firmware images"
 status: Draft
 priority: Medium
-parent: INFO-7P4D8D
-order: 1120
+former-id: TC-6ZVHJM
+parent: REQ-8351896
+order: b0n
 links:
   - type: verifies
-    target: SYS-GPZ86P
+    target: REQ-Y74G30P
     confirmed: 29497feac15d
   - type: verifies
-    target: SW-15A8A3
+    target: REQ-D6V3KHV
     confirmed: cc248766ef79
 ---
 **Objective:** verify that the OTA server behaves as specified.

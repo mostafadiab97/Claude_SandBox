@@ -1,5 +1,5 @@
 ---
-id: TC-0YK2DC
+id: REQ-JQ2VSFS
 type: test-case
 title: Hub verification 6
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - ux
   - i18n
-parent: INFO-ECHASH
-order: 150
+former-id: TC-0YK2DC
+parent: REQ-6H15AV2
+order: aE
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 4639507190ed
 ---
 **Objective:** verify that the thermostat behaves as specified.

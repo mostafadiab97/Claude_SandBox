@@ -1,5 +1,5 @@
 ---
-id: HW-66HH23
+id: REQ-98BH96R
 type: hardware-requirement
 title: Wi-Fi module stores humidity values
 status: Draft
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - safety
   - release-2.0
-parent: SYS-H1Z00Y
-order: 20
+former-id: HW-66HH23
+parent: REQ-2Y6ZD88
+order: a1
 links:
   - type: refines
-    target: SYS-H1Z00Y
+    target: REQ-2Y6ZD88
     confirmed: 36bbc40bd419
 ---
 The Zigbee radio shall notify relay events using AES-256-GCM.

@@ -1,5 +1,5 @@
 ---
-id: TC-42MAVR
+id: REQ-TW8V2ZT
 type: test-case
 title: "Verify: Zone valve encrypts the set point"
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - i18n
   - customer-request
-parent: INFO-MS9DAG
-order: 1440
+former-id: TC-42MAVR
+parent: REQ-XGWSK2K
+order: b1J
 links:
   - type: verifies
-    target: SYS-ZFR0V7
+    target: REQ-8AN4RHP
     confirmed: 46e331dbae75
 ---
 **Objective:** verify that the zone valve behaves as specified.

@@ -1,14 +1,15 @@
 ---
-id: IF-RB319M
+id: REQ-JXPGQTT
 type: interface-requirement
 title: Wi-Fi module restores the connection state
 status: Draft
 owner: É. Laurent
-parent: SYS-KJZDA6
-order: 40
+former-id: IF-RB319M
+parent: REQ-B47NHQB
+order: a3
 links:
   - type: refines
-    target: SYS-KJZDA6
+    target: REQ-B47NHQB
     confirmed: cceccc292cf6
 ---
 The pairing process shall synchronise the connection state using AES-256-GCM.

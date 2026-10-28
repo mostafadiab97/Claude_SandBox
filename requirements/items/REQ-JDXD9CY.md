@@ -1,5 +1,5 @@
 ---
-id: IF-ASJZB8
+id: REQ-JDXD9CY
 type: interface-requirement
 title: "Signal 541: the connection state"
 status: Draft
@@ -9,7 +9,8 @@ tags:
   - connectivity
   - customer-request
   - performance
-parent: INFO-2TM0JP
-order: 5410
+former-id: IF-ASJZB8
+parent: REQ-RJ0KHPT
+order: b7i
 ---
 Interface signal number 541.

@@ -1,5 +1,5 @@
 ---
-id: SW-CEYZFJ
+id: REQ-VSZKJMS
 type: software-requirement
 title: Home dashboard displays access tokens
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: K. Tanaka
 tags:
   - ux
-parent: SYS-29G535
-order: 10
+former-id: SW-CEYZFJ
+parent: REQ-SWMBTEW
+order: a0
 links:
   - type: refines
-    target: SYS-29G535
+    target: REQ-SWMBTEW
     confirmed: 68b37681cbe6
 ---
 The home dashboard shall switch firmware images at least once per minute.

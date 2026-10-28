@@ -1,5 +1,5 @@
 ---
-id: SYS-ZRJGC6
+id: REQ-DNFKDKS
 type: system-requirement
 title: Heat pump driver synchronises safety limits
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - security
   - regulatory
-parent: INFO-6DQTKV
-order: 1360
+former-id: SYS-ZRJGC6
+parent: REQ-7ED7ZET
+order: b1B
 links:
   - type: refines
-    target: STK-ESBN30
+    target: REQ-HY1GZK0
     confirmed: 8a56cb48b6c3
 ---
 The heat pump driver shall switch firmware images in under 3 s.

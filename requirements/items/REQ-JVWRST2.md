@@ -1,5 +1,5 @@
 ---
-id: SYS-2GGEKP
+id: REQ-JVWRST2
 type: system-requirement
 title: Zigbee radio encrypts schedule entries
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - release-1.0
   - cost
-parent: INFO-NRVHA2
-order: 630
+former-id: SYS-2GGEKP
+parent: REQ-6R94HFM
+order: b00
 links:
   - type: refines
-    target: STK-0AD5XP
+    target: REQ-W8GJYMQ
     confirmed: 30e7f07df0d1
 ---
 The Zigbee radio shall notify the connection state within 200 ms.

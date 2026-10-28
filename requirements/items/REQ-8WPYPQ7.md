@@ -1,5 +1,5 @@
 ---
-id: TC-NTK6AJ
+id: REQ-8WPYPQ7
 type: test-case
 title: "Regression: Backlight notifys audit records"
 status: Review
@@ -7,11 +7,12 @@ priority: High
 tags:
   - connectivity
   - power
-parent: INFO-ECHASH
-order: 1170
+former-id: TC-NTK6AJ
+parent: REQ-6H15AV2
+order: b0s
 links:
   - type: verifies
-    target: SYS-A1EMZ9
+    target: REQ-8MD3CMA
     confirmed: a04194db67ef
 ---
 **Objective:** verify that the device behaves as specified.

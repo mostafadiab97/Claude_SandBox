@@ -1,5 +1,5 @@
 ---
-id: TC-CSSQNN
+id: REQ-Y30F7E3
 type: test-case
 title: "Verify: Power supply notifys error conditions"
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - power
   - safety
-parent: INFO-MACGC3
-order: 180
+former-id: TC-CSSQNN
+parent: REQ-F9Z1FYS
+order: aH
 links:
   - type: verifies
-    target: SYS-RP1J10
+    target: REQ-R9DRCP7
     confirmed: bb8a4ae9c942
 ---
 **Objective:** verify that the power supply behaves as specified.

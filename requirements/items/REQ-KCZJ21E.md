@@ -1,5 +1,5 @@
 ---
-id: HW-DFKJ70
+id: REQ-KCZJ21E
 type: hardware-requirement
 title: Enclosure calibrates sensor readings
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - power
   - safety
-parent: SYS-6AHW2J
-order: 20
+former-id: HW-DFKJ70
+parent: REQ-KFE8499
+order: a1
 links:
   - type: refines
-    target: SYS-6AHW2J
+    target: REQ-KFE8499
     confirmed: 688f9dd4cce6
 ---
 The power supply shall restore user preferences within 200 ms.

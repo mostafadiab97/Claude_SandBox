@@ -1,5 +1,5 @@
 ---
-id: TC-4WPKTK
+id: REQ-QRMXB3K
 type: test-case
 title: "Verify: Bluetooth LE link synchronises energy consumption"
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - cost
   - release-1.0
-parent: INFO-F0M7VC
-order: 1110
+former-id: TC-4WPKTK
+parent: REQ-67RQXCK
+order: b0m
 links:
   - type: verifies
-    target: SYS-2DYZPV
+    target: REQ-D1MTBDV
     confirmed: 37aac0e40a8d
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

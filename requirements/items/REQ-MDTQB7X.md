@@ -1,5 +1,5 @@
 ---
-id: HW-JD3GZW
+id: REQ-MDTQB7X
 type: hardware-requirement
 title: Encryption layer authenticates the set point
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - release-1.0
   - release-2.0
   - customer-request
-parent: SYS-DCDDTY
-order: 30
+former-id: HW-JD3GZW
+parent: REQ-SVAHMDQ
+order: a2
 links:
   - type: refines
-    target: SYS-DCDDTY
+    target: REQ-SVAHMDQ
     confirmed: 5b47c2ab88c1
 ---
 The watchdog shall encrypt the connection state when the network is unavailable.

@@ -1,14 +1,15 @@
 ---
-id: HW-V5X6EJ
+id: REQ-HJ34PT1
 type: hardware-requirement
 title: Mobile app detects energy consumption
 status: Review
 owner: N. Kamal
-parent: SYS-1XT0DC
-order: 20
+former-id: HW-V5X6EJ
+parent: REQ-MAPH9A5
+order: a1
 links:
   - type: refines
-    target: SYS-1XT0DC
+    target: REQ-MAPH9A5
     confirmed: "627103672060"
 ---
 The schedule editor shall report humidity values with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: TC-GN8YWF
+id: REQ-9ZP558D
 type: test-case
 title: "Regression: Wi-Fi module limits the set point"
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: K. Tanaka
 tags:
   - safety
-parent: INFO-ECHASH
-order: 700
+former-id: TC-GN8YWF
+parent: REQ-6H15AV2
+order: b07
 links:
   - type: verifies
-    target: SYS-0W57FW
+    target: REQ-Q7W6CHZ
     confirmed: e1266f4ab489
 ---
 **Objective:** verify that the device behaves as specified.

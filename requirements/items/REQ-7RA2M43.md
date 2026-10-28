@@ -1,15 +1,16 @@
 ---
-id: HW-NGNDVG
+id: REQ-7RA2M43
 type: hardware-requirement
 title: Measure the connection state — detail
 status: Approved
 priority: High
 owner: M. Farouk
-parent: HW-QQKQYS
-order: 10
+former-id: HW-NGNDVG
+parent: REQ-J3DB2MV
+order: a0
 links:
   - type: refines
-    target: HW-QQKQYS
+    target: REQ-J3DB2MV
     confirmed: 4947f67da293
 ---
 The cloud backend shall synchronise audit records within 200 ms.

@@ -1,15 +1,16 @@
 ---
-id: HW-679X83
+id: REQ-8GD1PES
 type: hardware-requirement
 title: Battery backup measures humidity values
 status: Approved
 priority: High
 owner: A. Hassan
-parent: SYS-9FNKPM
-order: 20
+former-id: HW-679X83
+parent: REQ-02W5PGR
+order: a1
 links:
   - type: refines
-    target: SYS-9FNKPM
+    target: REQ-02W5PGR
     confirmed: c8a11d5e856a
 ---
 The relay board shall limit access tokens with an accuracy of ±0.5 °C.

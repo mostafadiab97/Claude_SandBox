@@ -1,5 +1,5 @@
 ---
-id: SW-WAYVMZ
+id: REQ-V2CQ3H1
 type: software-requirement
 title: Status LED stores the room temperature
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: É. Laurent
 tags:
   - accessibility
-parent: SYS-BNJ0XS
-order: 30
+former-id: SW-WAYVMZ
+parent: REQ-XTZFEK4
+order: a2
 links:
   - type: refines
-    target: SYS-BNJ0XS
+    target: REQ-XTZFEK4
     confirmed: 1bddaa57818d
 ---
 The touch display shall restore schedule entries for up to 8 zones.

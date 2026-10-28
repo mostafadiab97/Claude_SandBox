@@ -1,5 +1,5 @@
 ---
-id: IF-9BTG4K
+id: REQ-3RJGF5J
 type: interface-requirement
 title: "Signal 650: the room temperature"
 status: Review
@@ -9,7 +9,8 @@ tags:
   - security
   - release-1.0
   - customer-request
-parent: INFO-2TM0JP
-order: 6500
+former-id: IF-9BTG4K
+parent: REQ-RJ0KHPT
+order: b9T
 ---
 Interface signal number 650.

@@ -1,5 +1,5 @@
 ---
-id: HW-FXZGR1
+id: REQ-FKTPY4T
 type: hardware-requirement
 title: Relay board stores error conditions
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - safety
   - cost
-parent: SYS-RK543Q
-order: 30
+former-id: HW-FXZGR1
+parent: REQ-4BYNG6Z
+order: a2
 links:
   - type: refines
-    target: SYS-RK543Q
+    target: REQ-4BYNG6Z
     confirmed: fe331aa72f1d
 ---
 The main PCB shall store sensor readings in under 3 s.

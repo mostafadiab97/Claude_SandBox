@@ -1,5 +1,5 @@
 ---
-id: SYS-SK1ZFN
+id: REQ-B8TB20A
 type: system-requirement
 title: Zone valve reports firmware images
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - ux
   - cost
   - customer-request
-parent: INFO-6DQTKV
-order: 210
+former-id: SYS-SK1ZFN
+parent: REQ-7ED7ZET
+order: aK
 links:
   - type: refines
-    target: STK-EFJRJ9
+    target: REQ-6WZCEAT
     confirmed: fc922ec1a72e
 ---
 The zone valve shall log safety limits in under 3 s.

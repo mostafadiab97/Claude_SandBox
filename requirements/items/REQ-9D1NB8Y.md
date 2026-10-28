@@ -1,5 +1,5 @@
 ---
-id: SYS-XJA19E
+id: REQ-9D1NB8Y
 type: system-requirement
 title: Over-temperature monitor encrypts safety limits
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - release-2.0
-parent: INFO-0229G8
-order: 2000
+former-id: SYS-XJA19E
+parent: REQ-H9113WA
+order: b2D
 links:
   - type: refines
-    target: STK-7X7S81
+    target: REQ-N96QXC6
     confirmed: 0b0c08c75491
 ---
 The over-temperature monitor shall limit the room temperature without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: SW-B0ZR00
+id: REQ-R21C1CE
 type: software-requirement
 title: Restore safety limits — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - EMC
   - accessibility
-parent: SW-4TR0HS
-order: 10
+former-id: SW-B0ZR00
+parent: REQ-TA82QB4
+order: a0
 links:
   - type: refines
-    target: SW-4TR0HS
+    target: REQ-TA82QB4
     confirmed: 6565df30ea92
 ---
 The menu system shall validate audit records without user interaction.

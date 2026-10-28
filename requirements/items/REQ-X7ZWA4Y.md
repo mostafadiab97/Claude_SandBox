@@ -1,5 +1,5 @@
 ---
-id: SYS-CBQBV0
+id: REQ-X7ZWA4Y
 type: system-requirement
 title: Main PCB detects sensor readings
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - power
   - customer-request
-parent: INFO-A6P9A8
-order: 1540
+former-id: SYS-CBQBV0
+parent: REQ-CMCS31A
+order: b1T
 links:
   - type: refines
-    target: STK-2STGXE
+    target: REQ-67MQ0AB
     confirmed: c77fe61daf4b
 ---
 The main PCB shall synchronise access tokens for up to 8 zones.

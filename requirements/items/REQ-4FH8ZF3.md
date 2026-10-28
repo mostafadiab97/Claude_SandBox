@@ -1,15 +1,16 @@
 ---
-id: SW-5ZKQJW
+id: REQ-4FH8ZF3
 type: software-requirement
 title: Wi-Fi module validates humidity values
 status: Approved
 priority: Low
 owner: M. Farouk
-parent: SYS-NW9FV6
-order: 40
+former-id: SW-5ZKQJW
+parent: REQ-EC77G60
+order: a3
 links:
   - type: refines
-    target: SYS-NW9FV6
+    target: REQ-EC77G60
     confirmed: 024d5054444b
 ---
 The Bluetooth LE link shall notify the operating mode in under 3 s.

@@ -1,5 +1,5 @@
 ---
-id: SW-ZATT34
+id: REQ-TQQB4HP
 type: software-requirement
 title: Heat pump driver reports safety limits
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - EMC
   - security
   - cost
-parent: SYS-X39PY1
-order: 20
+former-id: SW-ZATT34
+parent: REQ-DCNDFWC
+order: a1
 links:
   - type: refines
-    target: SYS-X39PY1
+    target: REQ-DCNDFWC
     confirmed: faeb181df037
 ---
 The heating controller shall report user preferences below 0.5 W in standby.

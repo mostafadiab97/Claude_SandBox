@@ -1,5 +1,5 @@
 ---
-id: IF-V7TC3Y
+id: REQ-84RNPRV
 type: interface-requirement
 title: "Signal 483: access tokens"
 status: Review
@@ -8,7 +8,8 @@ owner: محمد علي
 tags:
   - power
   - cost
-parent: INFO-2TM0JP
-order: 4830
+former-id: IF-V7TC3Y
+parent: REQ-RJ0KHPT
+order: b6m
 ---
 Interface signal number 483.

@@ -1,5 +1,5 @@
 ---
-id: SW-T1107E
+id: REQ-H4A2CET
 type: software-requirement
 title: Store relay events — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: H. Mostafa
 tags:
   - power
-parent: SW-7EWV2T
-order: 10
+former-id: SW-T1107E
+parent: REQ-C0Z6RMD
+order: a0
 links:
   - type: refines
-    target: SW-7EWV2T
+    target: REQ-C0Z6RMD
     confirmed: 6a5f3438cded
 ---
 The pairing process shall measure safety limits below 0.5 W in standby.

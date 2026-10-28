@@ -1,15 +1,16 @@
 ---
-id: HW-GKWTMM
+id: REQ-V6P40GM
 type: hardware-requirement
 title: Tamper detection logs energy consumption
 status: Review
 priority: Medium
 owner: R. Nabil
-parent: SYS-9FTG47
-order: 20
+former-id: HW-GKWTMM
+parent: REQ-G4RKHEY
+order: a1
 links:
   - type: refines
-    target: SYS-9FTG47
+    target: REQ-G4RKHEY
     confirmed: 6b7150a5bc62
 ---
 The secure boot shall log safety limits below 0.5 W in standby.

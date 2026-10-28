@@ -1,5 +1,5 @@
 ---
-id: HW-9NHS9M
+id: REQ-SQ9RJSV
 type: hardware-requirement
 title: Mobile app reports the room temperature
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - cost
   - ux
-parent: SYS-HB2DW1
-order: 10
+former-id: HW-9NHS9M
+parent: REQ-156Z627
+order: a0
 links:
   - type: refines
-    target: SYS-HB2DW1
+    target: REQ-156Z627
     confirmed: c311446b8020
 ---
 The schedule editor shall store the room temperature with an accuracy of ±0.5 °C.

@@ -1,15 +1,16 @@
 ---
-id: TC-DB5KZH
+id: REQ-K9WG8SV
 type: test-case
 title: "Verify: Backlight displays energy consumption"
 status: Obsolete
 priority: High
 owner: L. Samir
-parent: INFO-HTSZ15
-order: 360
+former-id: TC-DB5KZH
+parent: REQ-Y9VHHKA
+order: aZ
 links:
   - type: verifies
-    target: SYS-ZR9FA9
+    target: REQ-MZW0HWB
     confirmed: 004d18eb33a0
 ---
 **Objective:** verify that the backlight behaves as specified.

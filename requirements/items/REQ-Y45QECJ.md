@@ -1,15 +1,16 @@
 ---
-id: HW-AVA6SG
+id: REQ-Y45QECJ
 type: hardware-requirement
 title: Power supply notifys audit records
 status: Approved
 priority: Low
 owner: H. Mostafa
-parent: SYS-RW8T89
-order: 10
+former-id: HW-AVA6SG
+parent: REQ-J5V450Q
+order: a0
 links:
   - type: refines
-    target: SYS-RW8T89
+    target: REQ-J5V450Q
     confirmed: 60bb88437f79
 ---
 The battery backup shall report access tokens without user interaction.

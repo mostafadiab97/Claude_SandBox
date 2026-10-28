@@ -1,5 +1,5 @@
 ---
-id: TC-DPYT6F
+id: REQ-JTES1NH
 type: test-case
 title: "Verify: Rotary knob validates the connection state"
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - regulatory
   - cost
-parent: INFO-HTSZ15
-order: 720
+former-id: TC-DPYT6F
+parent: REQ-Y9VHHKA
+order: b09
 links:
   - type: verifies
-    target: SYS-Q83WR4
+    target: REQ-3EX8QAF
     confirmed: 2504ace2c747
 ---
 **Objective:** verify that the rotary knob behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: SYS-HS7YMC
+id: REQ-MWZKPDC
 type: system-requirement
 title: Heating controller synchronises the set point
 status: Approved
 priority: Low
 owner: محمد علي
-parent: INFO-6DQTKV
-order: 340
+former-id: SYS-HS7YMC
+parent: REQ-7ED7ZET
+order: aX
 links:
   - type: refines
-    target: STK-9YF5RE
+    target: REQ-FGZGBY5
     confirmed: 43643c03020f
 ---
 The heating controller shall store relay events with an accuracy of ±0.5 °C.

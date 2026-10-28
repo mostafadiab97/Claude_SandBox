@@ -1,15 +1,16 @@
 ---
-id: TC-9VFD4X
+id: REQ-NTZHJJQ
 type: test-case
 title: "Verify: Cloud backend limits relay events"
 status: Approved
 priority: High
 owner: محمد علي
-parent: INFO-7P4D8D
-order: 410
+former-id: TC-9VFD4X
+parent: REQ-8351896
+order: ae
 links:
   - type: verifies
-    target: SYS-E76EZK
+    target: REQ-BNDJJ01
     confirmed: fa525e92566c
 ---
 **Objective:** verify that the cloud backend behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SYS-5DA537
+id: REQ-GE3XCDD
 type: system-requirement
 title: Boiler interface validates error conditions
 status: Review
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - customer-request
   - EMC
-parent: INFO-6DQTKV
-order: 1540
+former-id: SYS-5DA537
+parent: REQ-7ED7ZET
+order: b1T
 links:
   - type: refines
-    target: STK-NTBW06
+    target: REQ-S4C7PYC
     confirmed: d92faafa8cce
 ---
 The boiler interface shall calibrate the operating mode using AES-256-GCM.

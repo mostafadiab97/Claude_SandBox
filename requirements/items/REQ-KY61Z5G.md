@@ -1,15 +1,16 @@
 ---
-id: IF-WVQXPW
+id: REQ-KY61Z5G
 type: interface-requirement
 title: Validate the operating mode — detail
 status: Obsolete
 priority: Medium
 owner: K. Tanaka
-parent: IF-JWJ8DM
-order: 10
+former-id: IF-WVQXPW
+parent: REQ-CWJK9Y9
+order: a0
 links:
   - type: refines
-    target: IF-JWJ8DM
+    target: REQ-CWJK9Y9
     confirmed: a2b664a70dc8
 ---
 The enclosure shall validate firmware images when the network is unavailable.

@@ -1,15 +1,16 @@
 ---
-id: HW-Q2CQ7B
+id: REQ-SJCAGZ3
 type: hardware-requirement
 title: Store sensor readings — detail
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: HW-T2T1QE
-order: 10
+former-id: HW-Q2CQ7B
+parent: REQ-MFC7XNQ
+order: a0
 links:
   - type: refines
-    target: HW-T2T1QE
+    target: REQ-MFC7XNQ
     confirmed: 8429a4935e72
 ---
 The secure boot shall store audit records when the network is unavailable.

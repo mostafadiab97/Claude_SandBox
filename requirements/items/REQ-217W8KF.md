@@ -1,5 +1,5 @@
 ---
-id: DE-XZRWNQ
+id: REQ-217W8KF
 type: design-element
 title: Module backlight_90
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - power
   - cost
-parent: SW-D5MYE6
-order: 10
+former-id: DE-XZRWNQ
+parent: REQ-3J5MAEX
+order: a0
 links:
   - type: implements
-    target: SW-D5MYE6
+    target: REQ-3J5MAEX
     confirmed: fb3b812a3494
 ---
 Implemented in `src/ui/backlight.c`.

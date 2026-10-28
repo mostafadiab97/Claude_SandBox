@@ -1,5 +1,5 @@
 ---
-id: DE-J5EP67
+id: REQ-6M21EJH
 type: design-element
 title: Module status_LED_87
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - cost
   - ux
   - power
-parent: SW-FFF0MT
-order: 10
+former-id: DE-J5EP67
+parent: REQ-F9CJ010
+order: a0
 links:
   - type: implements
-    target: SW-FFF0MT
+    target: REQ-F9CJ010
     confirmed: fd6465bff07e
 ---
 Implemented in `src/ui/status_LED.c`.

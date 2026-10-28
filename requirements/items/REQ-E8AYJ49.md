@@ -1,5 +1,5 @@
 ---
-id: IF-F250TY
+id: REQ-E8AYJ49
 type: interface-requirement
 title: Limit sensor readings — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - safety
   - release-1.0
-parent: IF-8W61CT
-order: 10
+former-id: IF-F250TY
+parent: REQ-30V3SF3
+order: a0
 links:
   - type: refines
-    target: IF-8W61CT
+    target: REQ-30V3SF3
     confirmed: 2742c7c0fc16
 ---
 The device registry shall log relay events with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: HW-TABHFA
+id: REQ-38CDQDA
 type: hardware-requirement
 title: Boiler interface notifys the operating mode
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - regulatory
   - ux
-parent: SYS-FY6GGE
-order: 10
+former-id: HW-TABHFA
+parent: REQ-HCE87VW
+order: a0
 links:
   - type: refines
-    target: SYS-FY6GGE
+    target: REQ-HCE87VW
     confirmed: 9936c076515d
 ---
 The boiler interface shall switch energy consumption at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: SW-3Z17MT
+id: REQ-GWHHVB1
 type: software-requirement
 title: Heating controller notifys humidity values
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - i18n
   - release-2.0
-parent: SYS-6NZHN4
-order: 10
+former-id: SW-3Z17MT
+parent: REQ-4SSWD4T
+order: a0
 links:
   - type: refines
-    target: SYS-6NZHN4
+    target: REQ-4SSWD4T
     confirmed: 98fdc9e71767
 ---
 The zone valve shall display the set point in all supported languages.

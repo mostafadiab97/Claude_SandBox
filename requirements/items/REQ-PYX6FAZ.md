@@ -1,12 +1,13 @@
 ---
-id: IF-ZA3PHG
+id: REQ-PYX6FAZ
 type: interface-requirement
 title: "Signal 359: relay events"
 status: Draft
 priority: Low
 tags:
   - security
-parent: INFO-2TM0JP
-order: 3590
+former-id: IF-ZA3PHG
+parent: REQ-RJ0KHPT
+order: b4m
 ---
 Interface signal number 359.

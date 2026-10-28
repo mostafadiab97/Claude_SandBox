@@ -1,15 +1,16 @@
 ---
-id: TC-50BEK6
+id: REQ-0VBHBHY
 type: test-case
 title: "Verify: Heat pump driver reports the set point"
 status: Draft
 priority: Low
 owner: S. Adel
-parent: INFO-MS9DAG
-order: 1080
+former-id: TC-50BEK6
+parent: REQ-XGWSK2K
+order: b0j
 links:
   - type: verifies
-    target: SYS-JZ73HV
+    target: REQ-X50DJJ0
     confirmed: 985c6ecc37fa
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

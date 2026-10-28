@@ -1,5 +1,5 @@
 ---
-id: HW-CGSSAR
+id: REQ-MJE6A8C
 type: hardware-requirement
 title: Main PCB limits energy consumption
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: J. Müller
 tags:
   - EMC
-parent: SYS-E79TSB
-order: 10
+former-id: HW-CGSSAR
+parent: REQ-8KBPBZ8
+order: a0
 links:
   - type: refines
-    target: SYS-E79TSB
+    target: REQ-8KBPBZ8
     confirmed: dbeab1b468f4
 ---
 The relay board shall calibrate the room temperature in under 3 s.

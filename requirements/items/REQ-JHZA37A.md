@@ -1,5 +1,5 @@
 ---
-id: HW-DT8ZWW
+id: REQ-JHZA37A
 type: hardware-requirement
 title: Store relay events — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - EMC
   - accessibility
-parent: HW-1EGDCA
-order: 10
+former-id: HW-DT8ZWW
+parent: REQ-GPRB9KJ
+order: a0
 links:
   - type: refines
-    target: HW-1EGDCA
+    target: REQ-GPRB9KJ
     confirmed: 04f972a6cfd9
 ---
 The Bluetooth LE link shall measure user preferences below 0.5 W in standby.

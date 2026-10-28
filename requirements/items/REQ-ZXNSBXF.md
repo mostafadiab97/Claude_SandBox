@@ -1,5 +1,5 @@
 ---
-id: SW-J0A4ZD
+id: REQ-ZXNSBXF
 type: software-requirement
 title: Wi-Fi module calibrates the set point
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - release-1.0
   - safety
-parent: SYS-0W57FW
-order: 20
+former-id: SW-J0A4ZD
+parent: REQ-Q7W6CHZ
+order: a1
 links:
   - type: refines
-    target: SYS-0W57FW
+    target: REQ-Q7W6CHZ
     confirmed: e1266f4ab489
 ---
 The Wi-Fi module shall log error conditions in under 3 s.

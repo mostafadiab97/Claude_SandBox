@@ -1,15 +1,16 @@
 ---
-id: TC-E55T3C
+id: REQ-K1Q5TPZ
 type: test-case
 title: "Verify: Relay board notifys relay events"
 status: Draft
 priority: Low
 owner: N. Kamal
-parent: INFO-MACGC3
-order: 790
+former-id: TC-E55T3C
+parent: REQ-F9Z1FYS
+order: b0G
 links:
   - type: verifies
-    target: SYS-3V07ZT
+    target: REQ-FM6JB6Z
     confirmed: bd35bc218b6c
 ---
 **Objective:** verify that the relay board behaves as specified.

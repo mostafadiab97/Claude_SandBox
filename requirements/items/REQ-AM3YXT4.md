@@ -1,15 +1,16 @@
 ---
-id: SW-4RAPKT
+id: REQ-AM3YXT4
 type: software-requirement
 title: Tamper detection notifys safety limits
 status: Review
 priority: Low
 owner: N. Kamal
-parent: SYS-JGTNYP
-order: 10
+former-id: SW-4RAPKT
+parent: REQ-818JFA8
+order: a0
 links:
   - type: refines
-    target: SYS-JGTNYP
+    target: REQ-818JFA8
     confirmed: 80eca18336ac
 ---
 The encryption layer shall store relay events for at least 10 years.

@@ -1,5 +1,5 @@
 ---
-id: TC-QP59SJ
+id: REQ-VHED52H
 type: test-case
 title: "Verify: Telemetry pipeline restores sensor readings"
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - regulatory
   - accessibility
-parent: INFO-7P4D8D
-order: 1500
+former-id: TC-QP59SJ
+parent: REQ-8351896
+order: b1P
 links:
   - type: verifies
-    target: SYS-D4W333
+    target: REQ-D8575E7
     confirmed: 11ac230159e7
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

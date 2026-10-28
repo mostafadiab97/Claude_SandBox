@@ -1,15 +1,16 @@
 ---
-id: TC-P84D93
+id: REQ-SS7ERWQ
 type: test-case
 title: "Verify: Pairing process reports error conditions"
 status: Approved
 priority: Medium
 owner: محمد علي
-parent: INFO-F0M7VC
-order: 1030
+former-id: TC-P84D93
+parent: REQ-67RQXCK
+order: b0e
 links:
   - type: verifies
-    target: SYS-JF5Y3D
+    target: REQ-PCEJJ11
     confirmed: d5f9f8f2f306
 ---
 **Objective:** verify that the pairing process behaves as specified.

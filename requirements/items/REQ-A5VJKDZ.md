@@ -1,5 +1,5 @@
 ---
-id: SYS-X4ZQAJ
+id: REQ-A5VJKDZ
 type: system-requirement
 title: Telemetry pipeline restores schedule entries
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - cost
-parent: INFO-YV5EZD
-order: 1580
+former-id: SYS-X4ZQAJ
+parent: REQ-RE9ZKHF
+order: b1X
 links:
   - type: refines
-    target: STK-1CAAXP
+    target: REQ-ZEW4521
     confirmed: a853df6f0866
 ---
 The telemetry pipeline shall store the set point at least once per minute.

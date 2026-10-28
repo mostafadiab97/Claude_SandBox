@@ -1,5 +1,5 @@
 ---
-id: SYS-MJMPET
+id: REQ-HZEQDMX
 type: system-requirement
 title: Login screen detects safety limits
 status: Review
@@ -8,11 +8,12 @@ tags:
   - safety
   - ux
   - connectivity
-parent: INFO-2XXBRS
-order: 580
+former-id: SYS-MJMPET
+parent: REQ-QYXGSQ4
+order: av
 links:
   - type: refines
-    target: STK-B9Y7CM
+    target: REQ-YGQ30E7
     confirmed: 2e83dea5db22
 ---
 The login screen shall detect relay events within 200 ms.

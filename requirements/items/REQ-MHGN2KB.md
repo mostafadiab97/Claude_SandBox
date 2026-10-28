@@ -1,14 +1,15 @@
 ---
-id: TC-VZH80Q
+id: REQ-MHGN2KB
 type: test-case
 title: "Verify: Power supply displays error conditions"
 status: Approved
 priority: Medium
-parent: INFO-MACGC3
-order: 270
+former-id: TC-VZH80Q
+parent: REQ-F9Z1FYS
+order: aQ
 links:
   - type: verifies
-    target: SYS-VJF36E
+    target: REQ-HVTBNW8
     confirmed: 54c7b8c371d8
 ---
 **Objective:** verify that the power supply behaves as specified.

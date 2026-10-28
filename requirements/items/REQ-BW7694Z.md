@@ -1,5 +1,5 @@
 ---
-id: CR-SEE61M
+id: REQ-BW7694Z
 type: change-request
 title: "CR: extend local API to display sensor readings"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - accessibility
   - regulatory
-parent: INFO-Y69DRS
-order: 100
+former-id: CR-SEE61M
+parent: REQ-YW554H8
+order: a9
 links:
   - type: relates-to
-    target: SYS-FD82WN
+    target: REQ-B2JJXAA
     confirmed: f55a56f18a08
 ---
 Requested by customer support (ticket #15474).

@@ -1,15 +1,16 @@
 ---
-id: IF-N45VVF
+id: REQ-XH2GDCP
 type: interface-requirement
 title: Touch display synchronises energy consumption
 status: Review
 priority: High
 owner: محمد علي
-parent: SYS-PRE7SJ
-order: 30
+former-id: IF-N45VVF
+parent: REQ-HXQ458K
+order: a2
 links:
   - type: refines
-    target: SYS-PRE7SJ
+    target: REQ-HXQ458K
     confirmed: 690f18343fde
 ---
 The touch display shall display the set point for at least 10 years.

@@ -1,15 +1,16 @@
 ---
-id: SYS-JP2FG0
+id: REQ-NN5DHAX
 type: system-requirement
 title: Power supply notifys relay events
 status: Review
 priority: Medium
 owner: محمد علي
-parent: INFO-A6P9A8
-order: 490
+former-id: SYS-JP2FG0
+parent: REQ-CMCS31A
+order: am
 links:
   - type: refines
-    target: STK-JAQHJP
+    target: REQ-V8PT5BV
     confirmed: b0af11a5c3c2
 ---
 The power supply shall synchronise firmware images after a power loss.

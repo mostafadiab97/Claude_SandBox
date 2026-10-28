@@ -1,18 +1,19 @@
 ---
-id: TC-AGCBS8
+id: REQ-ZM62MG9
 type: test-case
 title: "Verify: Regulation loop encrypts schedule entries"
 status: Review
 priority: Medium
 owner: محمد علي
-parent: INFO-MS9DAG
-order: 280
+former-id: TC-AGCBS8
+parent: REQ-XGWSK2K
+order: aR
 links:
   - type: verifies
-    target: SYS-ZBCW95
+    target: REQ-93C4F00
     confirmed: b4748e4c331f
   - type: verifies
-    target: SW-V5VMNZ
+    target: REQ-2C922K6
     confirmed: 00aab5a7a4ab
 ---
 **Objective:** verify that the regulation loop behaves as specified.

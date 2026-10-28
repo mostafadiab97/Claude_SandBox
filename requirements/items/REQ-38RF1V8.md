@@ -1,5 +1,5 @@
 ---
-id: SW-DN2SKS
+id: REQ-38RF1V8
 type: software-requirement
 title: Heat pump driver restores user preferences
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - EMC
   - cost
-parent: SYS-4ZV4DE
-order: 10
+former-id: SW-DN2SKS
+parent: REQ-68GER74
+order: a0
 links:
   - type: refines
-    target: SYS-4ZV4DE
+    target: REQ-68GER74
     confirmed: 67b9d1fd1831
 ---
 The heat pump driver shall restore relay events in under 3 s.

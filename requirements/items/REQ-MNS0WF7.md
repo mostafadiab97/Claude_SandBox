@@ -1,16 +1,17 @@
 ---
-id: HW-QNV9F1
+id: REQ-MNS0WF7
 type: hardware-requirement
 title: Main PCB displays sensor readings
 status: Draft
 priority: Medium
 tags:
   - ux
-parent: SYS-3C07C0
-order: 30
+former-id: HW-QNV9F1
+parent: REQ-M6BQQQ2
+order: a2
 links:
   - type: refines
-    target: SYS-3C07C0
+    target: REQ-M6BQQQ2
     confirmed: 3f05968a7403
 ---
 The main PCB shall notify access tokens when the network is unavailable.

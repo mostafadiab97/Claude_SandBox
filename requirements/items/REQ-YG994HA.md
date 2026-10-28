@@ -1,16 +1,17 @@
 ---
-id: HW-88BTWE
+id: REQ-YG994HA
 type: hardware-requirement
 title: Touch display logs error conditions
 status: Obsolete
 priority: Low
 tags:
   - release-2.0
-parent: SYS-NADNAY
-order: 20
+former-id: HW-88BTWE
+parent: REQ-5NHNVG1
+order: a1
 links:
   - type: refines
-    target: SYS-NADNAY
+    target: REQ-5NHNVG1
     confirmed: 7956526ae9f5
 ---
 The touch display shall notify relay events for up to 8 zones.

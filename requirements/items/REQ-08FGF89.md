@@ -1,5 +1,5 @@
 ---
-id: HW-HQCHQM
+id: REQ-08FGF89
 type: hardware-requirement
 title: Device registry calibrates energy consumption
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - regulatory
   - EMC
-parent: SYS-6YK5CA
-order: 20
+former-id: HW-HQCHQM
+parent: REQ-4NAPSHQ
+order: a1
 links:
   - type: refines
-    target: SYS-6YK5CA
+    target: REQ-4NAPSHQ
     confirmed: 2507133e13d3
 ---
 The telemetry pipeline shall display the set point within 200 ms.

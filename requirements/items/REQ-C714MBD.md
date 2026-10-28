@@ -1,5 +1,5 @@
 ---
-id: IF-QKJ5PP
+id: REQ-C714MBD
 type: interface-requirement
 title: Login screen calibrates access tokens
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - EMC
   - customer-request
   - performance
-parent: SYS-0MK9ZW
-order: 30
+former-id: IF-QKJ5PP
+parent: REQ-YW090BX
+order: a2
 links:
   - type: refines
-    target: SYS-0MK9ZW
+    target: REQ-YW090BX
     confirmed: 5727fec8b08d
 ---
 The home dashboard shall display user preferences at least once per minute.

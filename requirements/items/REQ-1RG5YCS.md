@@ -1,5 +1,5 @@
 ---
-id: HW-5CS16H
+id: REQ-1RG5YCS
 type: hardware-requirement
 title: Relay board logs the set point
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: M. Farouk
 tags:
   - release-1.0
-parent: SYS-85P0FC
-order: 40
+former-id: HW-5CS16H
+parent: REQ-DH6CR1T
+order: a3
 links:
   - type: refines
-    target: SYS-85P0FC
+    target: REQ-DH6CR1T
     confirmed: 03d6e9fd5533
 ---
 The power supply shall measure the set point for up to 8 zones.

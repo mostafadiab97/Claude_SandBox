@@ -1,15 +1,16 @@
 ---
-id: SW-B8XF7Z
+id: REQ-79PHCXB
 type: software-requirement
 title: Zigbee radio synchronises schedule entries
 status: Draft
 priority: High
 owner: R. Nabil
-parent: SYS-3PRD5R
-order: 30
+former-id: SW-B8XF7Z
+parent: REQ-3HC3EJ1
+order: a2
 links:
   - type: refines
-    target: SYS-3PRD5R
+    target: REQ-3HC3EJ1
     confirmed: 582bb4e31c0f
 ---
 The Zigbee radio shall notify the set point without user interaction.

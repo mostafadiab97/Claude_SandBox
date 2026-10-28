@@ -1,5 +1,5 @@
 ---
-id: SYS-85P0FC
+id: REQ-DH6CR1T
 type: system-requirement
 title: Power supply calibrates the set point
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: N. Kamal
 tags:
   - performance
-parent: INFO-A6P9A8
-order: 1710
+former-id: SYS-85P0FC
+parent: REQ-CMCS31A
+order: b1k
 links:
   - type: refines
-    target: STK-922G3A
+    target: REQ-XZNTF7S
     confirmed: ea4a6a665922
 ---
 The power supply shall authenticate energy consumption within 200 ms.

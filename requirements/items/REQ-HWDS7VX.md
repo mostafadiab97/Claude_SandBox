@@ -1,14 +1,15 @@
 ---
-id: HW-AYCJAY
+id: REQ-HWDS7VX
 type: hardware-requirement
 title: Main PCB logs the connection state
 status: Review
 owner: R. Nabil
-parent: SYS-PX7YQ6
-order: 30
+former-id: HW-AYCJAY
+parent: REQ-DCMQ8A6
+order: a2
 links:
   - type: refines
-    target: SYS-PX7YQ6
+    target: REQ-DCMQ8A6
     confirmed: a1bdacbc8613
 ---
 The main PCB shall notify the room temperature with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: SW-CCVF4K
+id: REQ-5X1GKA2
 type: software-requirement
 title: Report firmware images — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - release-1.0
   - accessibility
-parent: SW-44SME3
-order: 10
+former-id: SW-CCVF4K
+parent: REQ-C3JSFTQ
+order: a0
 links:
   - type: refines
-    target: SW-44SME3
+    target: REQ-C3JSFTQ
     confirmed: 63614b8be8da
 ---
 The Zigbee radio shall measure the room temperature below 0.5 W in standby.

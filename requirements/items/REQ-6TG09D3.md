@@ -1,15 +1,16 @@
 ---
-id: HW-04PA6N
+id: REQ-6TG09D3
 type: hardware-requirement
 title: Notify user preferences — detail
 status: Approved
 priority: Medium
 owner: محمد علي
-parent: HW-E2RJQJ
-order: 10
+former-id: HW-04PA6N
+parent: REQ-ZZ8P5E5
+order: a0
 links:
   - type: refines
-    target: HW-E2RJQJ
+    target: REQ-ZZ8P5E5
     confirmed: 97b944008421
 ---
 The battery backup shall report the connection state for at least 10 years.

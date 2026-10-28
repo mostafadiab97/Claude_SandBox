@@ -1,5 +1,5 @@
 ---
-id: TC-9YNMXK
+id: REQ-ASTG9HX
 type: test-case
 title: "Verify: Heating controller switchs the set point"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - cost
   - release-1.0
-parent: INFO-MS9DAG
-order: 690
+former-id: TC-9YNMXK
+parent: REQ-XGWSK2K
+order: b06
 links:
   - type: verifies
-    target: SYS-XGYXWY
+    target: REQ-JTJVT7P
     confirmed: fb88a89b54aa
 ---
 **Objective:** verify that the heating controller behaves as specified.

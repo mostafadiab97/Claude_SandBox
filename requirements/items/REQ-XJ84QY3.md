@@ -1,15 +1,16 @@
 ---
-id: SYS-7GMJTA
+id: REQ-XJ84QY3
 type: system-requirement
 title: Tamper detection reports relay events
 status: Review
 priority: Medium
 owner: محمد علي
-parent: INFO-0229G8
-order: 1920
+former-id: SYS-7GMJTA
+parent: REQ-H9113WA
+order: b25
 links:
   - type: refines
-    target: STK-JBY2BX
+    target: REQ-GCMD4T5
     confirmed: bcce6e51beb4
 ---
 The tamper detection shall measure safety limits when the network is unavailable.

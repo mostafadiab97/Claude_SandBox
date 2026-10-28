@@ -1,11 +1,12 @@
 ---
-id: IF-J8E6KN
+id: REQ-B3ZRXBP
 type: interface-requirement
 title: "Signal 633: user preferences"
 status: Approved
 priority: Medium
 owner: S. Adel
-parent: INFO-2TM0JP
-order: 6330
+former-id: IF-J8E6KN
+parent: REQ-RJ0KHPT
+order: b9C
 ---
 Interface signal number 633.

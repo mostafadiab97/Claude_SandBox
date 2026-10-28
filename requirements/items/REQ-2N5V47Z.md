@@ -1,5 +1,5 @@
 ---
-id: DE-D6P2D3
+id: REQ-2N5V47Z
 type: design-element
 title: Module pairing_process_94
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - performance
   - accessibility
   - cost
-parent: SW-E0TW3S
-order: 10
+former-id: DE-D6P2D3
+parent: REQ-VAQYTTK
+order: a0
 links:
   - type: implements
-    target: SW-E0TW3S
+    target: REQ-VAQYTTK
     confirmed: f68321dc7ea9
 ---
 Implemented in `src/conn/pairing_process.c`.

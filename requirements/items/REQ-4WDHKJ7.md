@@ -1,14 +1,15 @@
 ---
-id: SYS-3XC6WM
+id: REQ-4WDHKJ7
 type: system-requirement
 title: Heating controller limits access tokens
 status: Obsolete
 owner: H. Mostafa
-parent: INFO-6DQTKV
-order: 420
+former-id: SYS-3XC6WM
+parent: REQ-7ED7ZET
+order: af
 links:
   - type: refines
-    target: STK-ESBN30
+    target: REQ-HY1GZK0
     confirmed: 8a56cb48b6c3
 ---
 The heating controller shall display sensor readings when the network is unavailable.

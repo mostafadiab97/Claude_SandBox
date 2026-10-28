@@ -1,15 +1,16 @@
 ---
-id: TC-ZB1J97
+id: REQ-9BFHXTY
 type: test-case
 title: "Verify: Menu system authenticates safety limits"
 status: Approved
 priority: Medium
 owner: J. Müller
-parent: INFO-HTSZ15
-order: 700
+former-id: TC-ZB1J97
+parent: REQ-Y9VHHKA
+order: b07
 links:
   - type: verifies
-    target: SYS-Q7FXSQ
+    target: REQ-RE2TJFJ
     confirmed: 87ab2e4b1288
 ---
 **Objective:** verify that the menu system behaves as specified.

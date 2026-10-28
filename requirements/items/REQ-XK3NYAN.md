@@ -1,16 +1,17 @@
 ---
-id: IF-HHEYA5
+id: REQ-XK3NYAN
 type: interface-requirement
 title: Measure relay events — detail
 status: Approved
 owner: محمد علي
 tags:
   - ux
-parent: IF-RREG5Q
-order: 10
+former-id: IF-HHEYA5
+parent: REQ-MW8YV74
+order: a0
 links:
   - type: refines
-    target: IF-RREG5Q
+    target: REQ-MW8YV74
     confirmed: ffc0e5e5178c
 ---
 The telemetry pipeline shall detect sensor readings when the network is unavailable.

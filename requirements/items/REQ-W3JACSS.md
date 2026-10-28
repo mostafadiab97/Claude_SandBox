@@ -1,5 +1,5 @@
 ---
-id: TC-6ZRFA9
+id: REQ-W3JACSS
 type: test-case
 title: "Verify: Bluetooth LE link authenticates audit records"
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 tags:
   - security
   - connectivity
-parent: INFO-F0M7VC
-order: 970
+former-id: TC-6ZRFA9
+parent: REQ-67RQXCK
+order: b0Y
 links:
   - type: verifies
-    target: SYS-S0ZBTB
+    target: REQ-GFHZTHS
     confirmed: 6e7d4ad625e8
   - type: verifies
-    target: SW-6MVV07
+    target: REQ-SRRDXSE
     confirmed: 58b332ca4f54
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

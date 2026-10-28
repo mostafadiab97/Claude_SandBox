@@ -1,5 +1,5 @@
 ---
-id: HW-5R8Z8J
+id: REQ-8M7RBQ6
 type: hardware-requirement
 title: Power supply reports humidity values
 status: Draft
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - customer-request
   - cost
-parent: SYS-ZSDCZJ
-order: 10
+former-id: HW-5R8Z8J
+parent: REQ-V96R8DT
+order: a0
 links:
   - type: refines
-    target: SYS-ZSDCZJ
+    target: REQ-V96R8DT
     confirmed: 5cf55da3656a
 ---
 The battery backup shall store energy consumption with an accuracy of ±0.5 °C.

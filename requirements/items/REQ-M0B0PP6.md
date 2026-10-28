@@ -1,15 +1,16 @@
 ---
-id: SW-25F2D4
+id: REQ-M0B0PP6
 type: software-requirement
 title: Encryption layer restores humidity values
 status: Draft
 priority: Medium
 owner: N. Kamal
-parent: SYS-RZQXR0
-order: 10
+former-id: SW-25F2D4
+parent: REQ-DTPW50P
+order: a0
 links:
   - type: refines
-    target: SYS-RZQXR0
+    target: REQ-DTPW50P
     confirmed: 12216b2c0a19
 ---
 The secure boot shall synchronise firmware images with an accuracy of ±0.5 °C.

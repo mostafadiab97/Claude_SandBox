@@ -1,15 +1,16 @@
 ---
-id: TC-30JMMC
+id: REQ-RVGQ7P4
 type: test-case
 title: "Regression: Tamper detection detects access tokens"
 status: Draft
 tags:
   - cost
-parent: INFO-ECHASH
-order: 2080
+former-id: TC-30JMMC
+parent: REQ-6H15AV2
+order: b2L
 links:
   - type: verifies
-    target: SYS-4WB58V
+    target: REQ-WMCNKJW
     confirmed: 328c59c5e6fa
 ---
 **Objective:** verify that the device behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: SYS-XKACBR
+id: REQ-4JV3MM5
 type: system-requirement
 title: Bluetooth LE link authenticates error conditions
 status: Review
 priority: High
 owner: A. Hassan
-parent: INFO-NRVHA2
-order: 1530
+former-id: SYS-XKACBR
+parent: REQ-6R94HFM
+order: b1S
 links:
   - type: refines
-    target: STK-XSZSEZ
+    target: REQ-YN3XNWJ
     confirmed: 1038f4e2e9d4
 ---
 The Bluetooth LE link shall display user preferences at least once per minute.

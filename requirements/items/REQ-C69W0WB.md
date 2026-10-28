@@ -1,5 +1,5 @@
 ---
-id: TC-RKFWAA
+id: REQ-C69W0WB
 type: test-case
 title: "Verify: Battery backup encrypts audit records"
 status: Obsolete
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - customer-request
   - ux
-parent: INFO-MACGC3
-order: 1130
+former-id: TC-RKFWAA
+parent: REQ-F9Z1FYS
+order: b0o
 links:
   - type: verifies
-    target: SYS-CRWPMS
+    target: REQ-HV1G3X0
     confirmed: 052e277686a9
 ---
 **Objective:** verify that the battery backup behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: SW-8SAP3J
+id: REQ-2YT25AV
 type: software-requirement
 title: Touch display notifys user preferences
 status: Review
 priority: Medium
 owner: H. Mostafa
-parent: SYS-5PV5FX
-order: 20
+former-id: SW-8SAP3J
+parent: REQ-0MGJV2W
+order: a1
 links:
   - type: refines
-    target: SYS-5PV5FX
+    target: REQ-0MGJV2W
     confirmed: b948ad16ad2c
 ---
 The menu system shall detect user preferences at least once per minute.

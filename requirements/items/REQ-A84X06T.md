@@ -1,5 +1,5 @@
 ---
-id: SYS-CFWA46
+id: REQ-A84X06T
 type: system-requirement
 title: Watchdog switchs safety limits
 status: Review
@@ -7,11 +7,12 @@ owner: Y. Saber
 tags:
   - cost
   - EMC
-parent: INFO-0229G8
-order: 650
+former-id: SYS-CFWA46
+parent: REQ-H9113WA
+order: b02
 links:
   - type: refines
-    target: STK-DJ9M3M
+    target: REQ-375SK1B
     confirmed: ba30e28a130f
 ---
 The watchdog shall limit sensor readings for at least 10 years.

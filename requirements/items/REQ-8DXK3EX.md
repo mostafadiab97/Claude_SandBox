@@ -1,5 +1,5 @@
 ---
-id: HW-FE4DP9
+id: REQ-8DXK3EX
 type: hardware-requirement
 title: Boiler interface reports user preferences
 status: Obsolete
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - EMC
   - safety
-parent: SYS-KKM3DB
-order: 40
+former-id: HW-FE4DP9
+parent: REQ-P3T4X40
+order: a3
 links:
   - type: refines
-    target: SYS-KKM3DB
+    target: REQ-P3T4X40
     confirmed: cbda6c746ea4
 ---
 The zone valve shall detect humidity values at least once per minute.

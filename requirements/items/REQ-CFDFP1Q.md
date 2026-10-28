@@ -1,16 +1,17 @@
 ---
-id: IF-NYHQ10
+id: REQ-CFDFP1Q
 type: interface-requirement
 title: Wi-Fi module validates user preferences
 status: Review
 priority: Medium
 tags:
   - accessibility
-parent: SYS-TRKV8X
-order: 30
+former-id: IF-NYHQ10
+parent: REQ-NRK05CG
+order: a2
 links:
   - type: refines
-    target: SYS-TRKV8X
+    target: REQ-NRK05CG
     confirmed: 598d6ef77c60
 ---
 The Wi-Fi module shall display firmware images with an accuracy of ±0.5 °C.

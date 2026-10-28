@@ -1,5 +1,5 @@
 ---
-id: HW-640F52
+id: REQ-ZZH04GX
 type: hardware-requirement
 title: Secure boot restores the room temperature
 status: Draft
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - cost
   - performance
-parent: SYS-6B2AFX
-order: 10
+former-id: HW-640F52
+parent: REQ-M89P0JQ
+order: a0
 links:
   - type: refines
-    target: SYS-6B2AFX
+    target: REQ-M89P0JQ
     confirmed: 2f261bacbfde
 ---
 The over-temperature monitor shall restore safety limits without user interaction.

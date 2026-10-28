@@ -1,5 +1,5 @@
 ---
-id: IF-5Y5YT7
+id: REQ-CQXQA8A
 type: interface-requirement
 title: Battery backup detects safety limits
 status: Review
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - power
   - i18n
-parent: SYS-JX8WF1
-order: 20
+former-id: IF-5Y5YT7
+parent: REQ-JTATXJJ
+order: a1
 links:
   - type: refines
-    target: SYS-JX8WF1
+    target: REQ-JTATXJJ
     confirmed: 482dfc4da294
 ---
 The battery backup shall restore energy consumption using AES-256-GCM.

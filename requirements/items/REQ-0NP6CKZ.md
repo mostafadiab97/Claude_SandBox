@@ -1,15 +1,16 @@
 ---
-id: TC-GX7NG7
+id: REQ-0NP6CKZ
 type: test-case
 title: "Verify: Device registry validates sensor readings"
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: INFO-7P4D8D
-order: 390
+former-id: TC-GX7NG7
+parent: REQ-8351896
+order: ac
 links:
   - type: verifies
-    target: SYS-3KF2S8
+    target: REQ-WRJ2YBY
     confirmed: 6e6c9a856c9a
 ---
 **Objective:** verify that the device registry behaves as specified.

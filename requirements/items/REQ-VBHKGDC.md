@@ -1,5 +1,5 @@
 ---
-id: TC-K0XDZW
+id: REQ-VBHKGDC
 type: test-case
 title: "Verify: Tamper detection switchs access tokens"
 status: Approved
@@ -8,14 +8,15 @@ owner: S. Adel
 tags:
   - customer-request
   - performance
-parent: INFO-Z4TW4B
-order: 330
+former-id: TC-K0XDZW
+parent: REQ-K6FGAY0
+order: aW
 links:
   - type: verifies
-    target: SYS-B2CPV7
+    target: REQ-JM876BB
     confirmed: f3e9ccc7a316
   - type: verifies
-    target: SW-2H0559
+    target: REQ-M5X6C27
     confirmed: 5579dea52157
 ---
 **Objective:** verify that the tamper detection behaves as specified.

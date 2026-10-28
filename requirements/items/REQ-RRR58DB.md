@@ -1,14 +1,15 @@
 ---
-id: HW-C8GG8C
+id: REQ-RRR58DB
 type: hardware-requirement
 title: Main PCB switchs user preferences
 status: Draft
 priority: High
-parent: SYS-387701
-order: 30
+former-id: HW-C8GG8C
+parent: REQ-9EQV92B
+order: a2
 links:
   - type: refines
-    target: SYS-387701
+    target: REQ-9EQV92B
     confirmed: 0b7909b67648
 ---
 The enclosure shall restore relay events below 0.5 W in standby.

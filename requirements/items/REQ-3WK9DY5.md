@@ -1,15 +1,16 @@
 ---
-id: HW-NQZGXF
+id: REQ-3WK9DY5
 type: hardware-requirement
 title: Telemetry pipeline encrypts the room temperature
 status: Draft
 priority: Medium
 owner: A. Hassan
-parent: SYS-KQAHRZ
-order: 10
+former-id: HW-NQZGXF
+parent: REQ-Y5E53W3
+order: a0
 links:
   - type: refines
-    target: SYS-KQAHRZ
+    target: REQ-Y5E53W3
     confirmed: 32db0e11587f
 ---
 The user account service shall log access tokens in under 3 s.

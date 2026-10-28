@@ -1,5 +1,5 @@
 ---
-id: TC-GHQMZQ
+id: REQ-AX0FNTS
 type: test-case
 title: "Verify: Power supply limits the set point"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - performance
   - release-2.0
   - security
-parent: INFO-MACGC3
-order: 380
+former-id: TC-GHQMZQ
+parent: REQ-F9Z1FYS
+order: ab
 links:
   - type: verifies
-    target: SYS-Q1NDZA
+    target: REQ-NXVJEAC
     confirmed: 1aaab302f129
 ---
 **Objective:** verify that the power supply behaves as specified.

@@ -1,16 +1,17 @@
 ---
-id: SW-8H626Y
+id: REQ-7HG5D9X
 type: software-requirement
 title: Tamper detection notifys relay events
 status: Draft
 priority: Low
 tags:
   - EMC
-parent: SYS-WPKDG7
-order: 20
+former-id: SW-8H626Y
+parent: REQ-2WZH649
+order: a1
 links:
   - type: refines
-    target: SYS-WPKDG7
+    target: REQ-2WZH649
     confirmed: 871bc601285c
 ---
 The watchdog shall restore the room temperature when the network is unavailable.

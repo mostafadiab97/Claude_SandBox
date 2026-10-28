@@ -1,15 +1,16 @@
 ---
-id: SW-RNR26H
+id: REQ-5EYP7J8
 type: software-requirement
 title: Encryption layer measures humidity values
 status: Review
 priority: Medium
 owner: M. Farouk
-parent: SYS-9ECYTV
-order: 20
+former-id: SW-RNR26H
+parent: REQ-3DHTHXM
+order: a1
 links:
   - type: refines
-    target: SYS-9ECYTV
+    target: REQ-3DHTHXM
     confirmed: 7b9cca966730
 ---
 The secure boot shall notify energy consumption within 200 ms.

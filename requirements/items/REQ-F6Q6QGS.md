@@ -1,5 +1,5 @@
 ---
-id: SW-XSMN0Q
+id: REQ-F6Q6QGS
 type: software-requirement
 title: User account service switchs firmware images
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - ux
   - i18n
-parent: SYS-ZG2A7P
-order: 10
+former-id: SW-XSMN0Q
+parent: REQ-MAGQ1BB
+order: a0
 links:
   - type: refines
-    target: SYS-ZG2A7P
+    target: REQ-MAGQ1BB
     confirmed: dd3e6f066e4e
 ---
 The cloud backend shall calibrate sensor readings when the network is unavailable.

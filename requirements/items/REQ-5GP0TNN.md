@@ -1,5 +1,5 @@
 ---
-id: SW-4RF49Z
+id: REQ-5GP0TNN
 type: software-requirement
 title: Tamper detection reports safety limits
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: محمد علي
 tags:
   - safety
-parent: SYS-M0XMTJ
-order: 40
+former-id: SW-4RF49Z
+parent: REQ-8Z1HB6X
+order: a3
 links:
   - type: refines
-    target: SYS-M0XMTJ
+    target: REQ-8Z1HB6X
     confirmed: 265474e3470a
 ---
 The over-temperature monitor shall restore audit records in all supported languages.

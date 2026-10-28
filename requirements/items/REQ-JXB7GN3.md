@@ -1,5 +1,5 @@
 ---
-id: DE-KSPBXY
+id: REQ-JXB7GN3
 type: design-element
 title: Module menu_system_26
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - performance
   - regulatory
   - EMC
-parent: SW-YRDF2J
-order: 10
+former-id: DE-KSPBXY
+parent: REQ-T69YYK8
+order: a0
 links:
   - type: implements
-    target: SW-YRDF2J
+    target: REQ-T69YYK8
     confirmed: 424d74584720
 ---
 Implemented in `src/ui/menu_system.c`.

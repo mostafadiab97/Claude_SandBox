@@ -1,5 +1,5 @@
 ---
-id: HW-AHBFRA
+id: REQ-7BW43VB
 type: hardware-requirement
 title: Report humidity values — detail
 status: Draft
@@ -7,11 +7,12 @@ owner: R. Nabil
 tags:
   - regulatory
   - performance
-parent: HW-MG10ZC
-order: 10
+former-id: HW-AHBFRA
+parent: REQ-MM6CHH4
+order: a0
 links:
   - type: refines
-    target: HW-MG10ZC
+    target: REQ-MM6CHH4
     confirmed: 6e796a593963
 ---
 The heat pump driver shall authenticate error conditions at least once per minute.

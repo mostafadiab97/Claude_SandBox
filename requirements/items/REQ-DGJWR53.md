@@ -1,5 +1,5 @@
 ---
-id: SYS-G8P704
+id: REQ-DGJWR53
 type: system-requirement
 title: Menu system notifys schedule entries
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - customer-request
   - power
   - ux
-parent: INFO-PDR6FV
-order: 1390
+former-id: SYS-G8P704
+parent: REQ-2ZA2TRZ
+order: b1E
 links:
   - type: refines
-    target: STK-8PN4VS
+    target: REQ-WQB5JT6
     confirmed: a3e83ac40678
   - type: mitigates
-    target: RSK-81XFR0
+    target: REQ-E5T2N3D
     confirmed: df837fe8b253
 ---
 The menu system shall notify energy consumption for up to 8 zones.

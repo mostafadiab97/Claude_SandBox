@@ -1,5 +1,5 @@
 ---
-id: TC-YRPJD0
+id: REQ-NDG0ANE
 type: test-case
 title: "Regression: Status LED calibrates the operating mode"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - EMC
   - security
-parent: INFO-ECHASH
-order: 1260
+former-id: TC-YRPJD0
+parent: REQ-6H15AV2
+order: b11
 links:
   - type: verifies
-    target: SYS-2KGJFW
+    target: REQ-HG744HJ
     confirmed: 33b6774f671a
 ---
 **Objective:** verify that the device behaves as specified.

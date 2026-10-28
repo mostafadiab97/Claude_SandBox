@@ -1,7 +1,8 @@
 ---
-id: INFO-2G41PE
+id: REQ-Z74CXEK
 type: information
-title: 5.4 Risks
-parent: INFO-DNAGHM
-order: 40
+title: Risks
+former-id: INFO-2G41PE
+parent: REQ-SGXYWPG
+order: a3
 ---

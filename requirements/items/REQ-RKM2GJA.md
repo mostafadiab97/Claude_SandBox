@@ -1,15 +1,16 @@
 ---
-id: IF-9XP6GF
+id: REQ-RKM2GJA
 type: interface-requirement
 title: Battery backup encrypts the room temperature
 status: Obsolete
 priority: Low
 owner: Y. Saber
-parent: SYS-C9BFKW
-order: 20
+former-id: IF-9XP6GF
+parent: REQ-X3TS6B3
+order: a1
 links:
   - type: refines
-    target: SYS-C9BFKW
+    target: REQ-X3TS6B3
     confirmed: 0dcc5954ae38
 ---
 The power supply shall switch relay events when the network is unavailable.

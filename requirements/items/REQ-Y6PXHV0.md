@@ -1,5 +1,5 @@
 ---
-id: SW-EFV0YC
+id: REQ-Y6PXHV0
 type: software-requirement
 title: Local API detects relay events
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - connectivity
   - safety
-parent: SYS-DZWWWA
-order: 10
+former-id: SW-EFV0YC
+parent: REQ-BWJ3AFX
+order: a0
 links:
   - type: refines
-    target: SYS-DZWWWA
+    target: REQ-BWJ3AFX
     confirmed: 0999a3b2ce99
 ---
 The pairing process shall encrypt access tokens at least once per minute.

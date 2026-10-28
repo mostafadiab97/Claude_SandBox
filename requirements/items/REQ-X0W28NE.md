@@ -1,5 +1,5 @@
 ---
-id: SW-V9M4HQ
+id: REQ-X0W28NE
 type: software-requirement
 title: Cloud backend reports safety limits
 status: Draft
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - power
   - connectivity
-parent: SYS-12P0BS
-order: 30
+former-id: SW-V9M4HQ
+parent: REQ-0G1800J
+order: a2
 links:
   - type: refines
-    target: SYS-12P0BS
+    target: REQ-0G1800J
     confirmed: d8b351a5c8e8
 ---
 The cloud backend shall log the room temperature at least once per minute.

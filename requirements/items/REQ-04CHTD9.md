@@ -1,5 +1,5 @@
 ---
-id: SYS-A1R34W
+id: REQ-04CHTD9
 type: system-requirement
 title: Main PCB logs audit records
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - EMC
   - power
-parent: INFO-A6P9A8
-order: 520
+former-id: SYS-A1R34W
+parent: REQ-CMCS31A
+order: ap
 links:
   - type: refines
-    target: STK-Y4WG9E
+    target: REQ-Z62Y5S5
     confirmed: 9c3c4f9c0995
 ---
 The main PCB shall measure sensor readings without user interaction.

@@ -1,15 +1,16 @@
 ---
-id: SYS-RZG5Z7
+id: REQ-4VG8C6T
 type: system-requirement
 title: Enclosure synchronises audit records
 status: Obsolete
 priority: Low
 owner: J. Müller
-parent: INFO-A6P9A8
-order: 1300
+former-id: SYS-RZG5Z7
+parent: REQ-CMCS31A
+order: b15
 links:
   - type: refines
-    target: STK-2STGXE
+    target: REQ-67MQ0AB
     confirmed: c77fe61daf4b
 ---
 The enclosure shall synchronise sensor readings in under 3 s.

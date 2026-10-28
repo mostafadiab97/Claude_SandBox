@@ -1,5 +1,5 @@
 ---
-id: HW-03807K
+id: REQ-7JDWGWC
 type: hardware-requirement
 title: Backlight authenticates error conditions
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - release-1.0
   - accessibility
   - safety
-parent: SYS-4S6M65
-order: 30
+former-id: HW-03807K
+parent: REQ-DPPPJSC
+order: a2
 links:
   - type: refines
-    target: SYS-4S6M65
+    target: REQ-DPPPJSC
     confirmed: 5a70ac433dd3
 ---
 The touch display shall encrypt error conditions for at least 10 years.

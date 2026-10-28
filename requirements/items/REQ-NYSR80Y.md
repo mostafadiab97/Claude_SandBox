@@ -1,5 +1,5 @@
 ---
-id: HW-C201RR
+id: REQ-NYSR80Y
 type: hardware-requirement
 title: Enclosure reports user preferences
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 owner: N. Kamal
 tags:
   - ux
-parent: SYS-C7RCJ1
-order: 10
+former-id: HW-C201RR
+parent: REQ-D556VHF
+order: a0
 links:
   - type: refines
-    target: SYS-C7RCJ1
+    target: REQ-D556VHF
     confirmed: 3bf493978048
 ---
 The battery backup shall log audit records below 0.5 W in standby.

@@ -1,5 +1,5 @@
 ---
-id: DE-GKXK0P
+id: REQ-AXC57YM
 type: design-element
 title: Module schedule_editor_15
 status: Draft
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - ux
   - release-2.0
-parent: SW-17SVMP
-order: 20
+former-id: DE-GKXK0P
+parent: REQ-0Q7TSRB
+order: a1
 links:
   - type: implements
-    target: SW-17SVMP
+    target: REQ-0Q7TSRB
     confirmed: 76be45cfb878
 ---
 Implemented in `src/app/schedule_editor.c`.

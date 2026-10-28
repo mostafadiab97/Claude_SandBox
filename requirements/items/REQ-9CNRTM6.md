@@ -1,5 +1,5 @@
 ---
-id: DE-D5VT7N
+id: REQ-9CNRTM6
 type: design-element
 title: Module OTA_server_71
 status: Review
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - release-1.0
   - connectivity
-parent: SW-31C2K3
-order: 10
+former-id: DE-D5VT7N
+parent: REQ-9N22DKX
+order: a0
 links:
   - type: implements
-    target: SW-31C2K3
+    target: REQ-9N22DKX
     confirmed: 3a4f71a2d349
 ---
 Implemented in `src/cloud/OTA_server.c`.

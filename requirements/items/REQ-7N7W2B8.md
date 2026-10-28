@@ -1,5 +1,5 @@
 ---
-id: SW-YWTE94
+id: REQ-7N7W2B8
 type: software-requirement
 title: User account service notifys humidity values
 status: Review
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - EMC
   - power
-parent: SYS-E22H2H
-order: 10
+former-id: SW-YWTE94
+parent: REQ-QJKWPYS
+order: a0
 links:
   - type: refines
-    target: SYS-E22H2H
+    target: REQ-QJKWPYS
     confirmed: ee4438e7f317
 ---
 The cloud backend shall notify audit records at least once per minute.

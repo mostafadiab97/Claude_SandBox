@@ -1,5 +1,5 @@
 ---
-id: HW-AYM3PQ
+id: REQ-3GG7BKM
 type: hardware-requirement
 title: Home dashboard validates relay events
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: R. Nabil
 tags:
   - power
-parent: SYS-G04V2Y
-order: 10
+former-id: HW-AYM3PQ
+parent: REQ-C5MAV30
+order: a0
 links:
   - type: refines
-    target: SYS-G04V2Y
+    target: REQ-C5MAV30
     confirmed: b6d6034c72e0
 ---
 The schedule editor shall store user preferences without user interaction.

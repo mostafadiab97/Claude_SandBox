@@ -1,15 +1,16 @@
 ---
-id: SW-B18DJV
+id: REQ-D0697PJ
 type: software-requirement
 title: Pairing process measures sensor readings
 status: Review
 priority: Medium
 owner: J. Müller
-parent: SYS-AE2EKW
-order: 40
+former-id: SW-B18DJV
+parent: REQ-NJ588CJ
+order: a3
 links:
   - type: refines
-    target: SYS-AE2EKW
+    target: REQ-NJ588CJ
     confirmed: e00530755be8
 ---
 The Zigbee radio shall restore safety limits when the network is unavailable.

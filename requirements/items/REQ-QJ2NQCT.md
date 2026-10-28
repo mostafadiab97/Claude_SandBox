@@ -1,14 +1,15 @@
 ---
-id: SW-F4PKVV
+id: REQ-QJ2NQCT
 type: software-requirement
 title: User account service logs the operating mode
 status: Approved
 priority: Low
-parent: SYS-PYK237
-order: 40
+former-id: SW-F4PKVV
+parent: REQ-NRJAH0X
+order: a3
 links:
   - type: refines
-    target: SYS-PYK237
+    target: REQ-NRJAH0X
     confirmed: 8258f49e00ae
 ---
 The device registry shall synchronise access tokens within 200 ms.

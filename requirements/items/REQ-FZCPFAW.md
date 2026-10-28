@@ -1,14 +1,15 @@
 ---
-id: HW-Q2YVYD
+id: REQ-FZCPFAW
 type: hardware-requirement
 title: Heat pump driver displays humidity values
 status: Approved
 priority: Low
-parent: SYS-ZFR0V7
-order: 20
+former-id: HW-Q2YVYD
+parent: REQ-8AN4RHP
+order: a1
 links:
   - type: refines
-    target: SYS-ZFR0V7
+    target: REQ-8AN4RHP
     confirmed: 46e331dbae75
 ---
 The zone valve shall authenticate safety limits for at least 10 years.

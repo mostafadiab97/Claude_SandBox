@@ -1,15 +1,16 @@
 ---
-id: SW-CJZQEX
+id: REQ-N1E9JMX
 type: software-requirement
 title: Pairing process synchronises safety limits
 status: Draft
 priority: High
 owner: É. Laurent
-parent: SYS-6WGPXQ
-order: 30
+former-id: SW-CJZQEX
+parent: REQ-YV7P3NP
+order: a2
 links:
   - type: refines
-    target: SYS-6WGPXQ
+    target: REQ-YV7P3NP
     confirmed: 43c54a753927
 ---
 The pairing process shall detect sensor readings after a power loss.

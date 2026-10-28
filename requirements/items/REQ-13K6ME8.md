@@ -1,14 +1,15 @@
 ---
-id: SYS-A10V0R
+id: REQ-13K6ME8
 type: system-requirement
 title: User account service measures the room temperature
 status: Approved
 owner: K. Tanaka
-parent: INFO-YV5EZD
-order: 960
+former-id: SYS-A10V0R
+parent: REQ-RE9ZKHF
+order: b0X
 links:
   - type: refines
-    target: STK-VT1KVD
+    target: REQ-36Y9ND0
     confirmed: fbcfb8475f32
 ---
 The user account service shall calibrate safety limits with an accuracy of ±0.5 °C.

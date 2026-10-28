@@ -1,14 +1,15 @@
 ---
-id: TC-PVGMPC
+id: REQ-4WKWF73
 type: test-case
 title: "Regression: Heat pump driver measures firmware images"
 status: Review
 owner: Y. Saber
-parent: INFO-ECHASH
-order: 1070
+former-id: TC-PVGMPC
+parent: REQ-6H15AV2
+order: b0i
 links:
   - type: verifies
-    target: SYS-3NA7W8
+    target: REQ-X79WZPJ
     confirmed: 303f8590e242
 ---
 **Objective:** verify that the device behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: IF-GDQ732
+id: REQ-05V0SM3
 type: interface-requirement
 title: Enclosure encrypts relay events
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - EMC
   - performance
-parent: SYS-CRWPMS
-order: 30
+former-id: IF-GDQ732
+parent: REQ-HV1G3X0
+order: a2
 links:
   - type: refines
-    target: SYS-CRWPMS
+    target: REQ-HV1G3X0
     confirmed: 052e277686a9
 ---
 The battery backup shall measure the set point at least once per minute.

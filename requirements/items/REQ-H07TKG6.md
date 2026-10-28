@@ -1,15 +1,16 @@
 ---
-id: IF-D19TJH
+id: REQ-H07TKG6
 type: interface-requirement
 title: Tamper detection detects error conditions
 status: Draft
 priority: Medium
 owner: L. Samir
-parent: SYS-TN491Q
-order: 20
+former-id: IF-D19TJH
+parent: REQ-CQ79VNW
+order: a1
 links:
   - type: refines
-    target: SYS-TN491Q
+    target: REQ-CQ79VNW
     confirmed: cec1a378dd56
 ---
 The over-temperature monitor shall restore the room temperature when the network is unavailable.

@@ -1,15 +1,16 @@
 ---
-id: SW-AGQFVW
+id: REQ-D6S7NJG
 type: software-requirement
 title: Secure boot logs access tokens
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: SYS-XJ8215
-order: 30
+former-id: SW-AGQFVW
+parent: REQ-G8523S3
+order: a2
 links:
   - type: refines
-    target: SYS-XJ8215
+    target: REQ-G8523S3
     confirmed: 56e95d4cfbe7
 ---
 The watchdog shall measure firmware images for up to 8 zones.

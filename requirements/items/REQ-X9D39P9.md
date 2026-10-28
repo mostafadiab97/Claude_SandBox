@@ -1,5 +1,5 @@
 ---
-id: TC-MBTC54
+id: REQ-X9D39P9
 type: test-case
 title: "Verify: Bluetooth LE link displays user preferences"
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - customer-request
   - security
-parent: INFO-F0M7VC
-order: 810
+former-id: TC-MBTC54
+parent: REQ-67RQXCK
+order: b0I
 links:
   - type: verifies
-    target: SYS-5XB7KH
+    target: REQ-QS80QQ4
     confirmed: ce31b91ce201
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

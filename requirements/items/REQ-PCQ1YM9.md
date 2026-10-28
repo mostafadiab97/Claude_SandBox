@@ -1,11 +1,12 @@
 ---
-id: IF-KT75MB
+id: REQ-PCQ1YM9
 type: interface-requirement
 title: "Signal 646: the set point"
 status: Obsolete
 priority: High
 owner: H. Mostafa
-parent: INFO-2TM0JP
-order: 6460
+former-id: IF-KT75MB
+parent: REQ-RJ0KHPT
+order: b9P
 ---
 Interface signal number 646.

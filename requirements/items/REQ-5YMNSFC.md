@@ -1,15 +1,16 @@
 ---
-id: SYS-H6D9Y3
+id: REQ-5YMNSFC
 type: system-requirement
 title: Home dashboard measures user preferences
 status: Obsolete
 priority: Low
 owner: H. Mostafa
-parent: INFO-2XXBRS
-order: 1480
+former-id: SYS-H6D9Y3
+parent: REQ-QYXGSQ4
+order: b1N
 links:
   - type: refines
-    target: STK-5VZRF2
+    target: REQ-AC08V5H
     confirmed: cf78baefa376
 ---
 The home dashboard shall encrypt the room temperature using AES-256-GCM.

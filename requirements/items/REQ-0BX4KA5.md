@@ -1,5 +1,5 @@
 ---
-id: TC-9HYWQH
+id: REQ-0BX4KA5
 type: test-case
 title: "Verify: Regulation loop calibrates firmware images"
 status: Draft
@@ -7,11 +7,12 @@ owner: É. Laurent
 tags:
   - release-2.0
   - connectivity
-parent: INFO-MS9DAG
-order: 540
+former-id: TC-9HYWQH
+parent: REQ-XGWSK2K
+order: ar
 links:
   - type: verifies
-    target: SYS-XP4ZAH
+    target: REQ-FB5KG2Y
     confirmed: b8b57a2c487b
 ---
 **Objective:** verify that the regulation loop behaves as specified.

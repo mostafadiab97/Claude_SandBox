@@ -1,5 +1,5 @@
 ---
-id: HW-WHC6YV
+id: REQ-N1YWQPZ
 type: hardware-requirement
 title: Relay board synchronises the connection state
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - ux
   - performance
-parent: SYS-4000EB
-order: 30
+former-id: HW-WHC6YV
+parent: REQ-MZJPBNF
+order: a2
 links:
   - type: refines
-    target: SYS-4000EB
+    target: REQ-MZJPBNF
     confirmed: 34de3a2ac266
 ---
 The relay board shall authenticate energy consumption when the network is unavailable.

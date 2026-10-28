@@ -1,5 +1,5 @@
 ---
-id: SW-DEXB9W
+id: REQ-0H51AZ5
 type: software-requirement
 title: Log humidity values — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - safety
   - EMC
-parent: SW-H10MBQ
-order: 10
+former-id: SW-DEXB9W
+parent: REQ-P2B7CH2
+order: a0
 links:
   - type: refines
-    target: SW-H10MBQ
+    target: REQ-P2B7CH2
     confirmed: 1c06138d71e9
 ---
 The touch display shall notify error conditions at least once per minute.

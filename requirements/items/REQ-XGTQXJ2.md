@@ -1,5 +1,5 @@
 ---
-id: IF-SQ7ZPG
+id: REQ-XGTQXJ2
 type: interface-requirement
 title: "Signal 246: safety limits"
 status: Review
@@ -8,7 +8,8 @@ tags:
   - performance
   - i18n
   - connectivity
-parent: INFO-2TM0JP
-order: 2460
+former-id: IF-SQ7ZPG
+parent: REQ-RJ0KHPT
+order: b2x
 ---
 Interface signal number 246.

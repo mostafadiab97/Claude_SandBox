@@ -1,18 +1,19 @@
 ---
-id: TC-51GFSD
+id: REQ-6JGTQ22
 type: test-case
 title: "Verify: Boiler interface displays firmware images"
 status: Review
 priority: High
 owner: É. Laurent
-parent: INFO-MS9DAG
-order: 1350
+former-id: TC-51GFSD
+parent: REQ-XGWSK2K
+order: b1A
 links:
   - type: verifies
-    target: SYS-SJH59J
+    target: REQ-95STN6W
     confirmed: 7dfb91f535ef
   - type: verifies
-    target: SW-A00Y82
+    target: REQ-0CW7N9N
     confirmed: 3119f0b6b4c8
 ---
 **Objective:** verify that the boiler interface behaves as specified.

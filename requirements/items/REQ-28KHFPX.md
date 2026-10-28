@@ -1,17 +1,18 @@
 ---
-id: TC-CKFX85
+id: REQ-28KHFPX
 type: test-case
 title: "Verify: Zigbee radio restores relay events"
 status: Review
 owner: N. Kamal
-parent: INFO-F0M7VC
-order: 60
+former-id: TC-CKFX85
+parent: REQ-67RQXCK
+order: a5
 links:
   - type: verifies
-    target: SYS-B7MWJ2
+    target: REQ-8782FZK
     confirmed: cfcb93c868dc
   - type: verifies
-    target: SW-G9KYJY
+    target: REQ-G5DMK9M
     confirmed: 230daeb78b52
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

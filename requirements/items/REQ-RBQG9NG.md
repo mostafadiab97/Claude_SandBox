@@ -1,5 +1,5 @@
 ---
-id: SYS-WNQGR6
+id: REQ-RBQG9NG
 type: system-requirement
 title: Bluetooth LE link detects firmware images
 status: Review
@@ -7,14 +7,15 @@ priority: High
 owner: J. Müller
 tags:
   - ux
-parent: INFO-NRVHA2
-order: 10
+former-id: SYS-WNQGR6
+parent: REQ-6R94HFM
+order: a0
 links:
   - type: refines
-    target: STK-Q9RBYT
+    target: REQ-B31NWSC
     confirmed: a67c8b718d88
   - type: mitigates
-    target: RSK-BXA4VK
+    target: REQ-V68X7JR
     confirmed: d0a719026938
 ---
 The Bluetooth LE link shall measure humidity values using AES-256-GCM.

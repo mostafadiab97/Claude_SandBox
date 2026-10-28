@@ -1,5 +1,5 @@
 ---
-id: HW-6XZM1S
+id: REQ-KMFGFZN
 type: hardware-requirement
 title: Tamper detection synchronises the set point
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - EMC
   - safety
-parent: SYS-1NZZTE
-order: 20
+former-id: HW-6XZM1S
+parent: REQ-9W8NRJT
+order: a1
 links:
   - type: refines
-    target: SYS-1NZZTE
+    target: REQ-9W8NRJT
     confirmed: 4435a2612fc4
 ---
 The encryption layer shall calibrate relay events for at least 10 years.

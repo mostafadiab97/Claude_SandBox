@@ -1,15 +1,16 @@
 ---
-id: SYS-N4MBK3
+id: REQ-Q3XX7E0
 type: system-requirement
 title: Encryption layer encrypts firmware images
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: INFO-0229G8
-order: 120
+former-id: SYS-N4MBK3
+parent: REQ-H9113WA
+order: aB
 links:
   - type: refines
-    target: STK-DJ9M3M
+    target: REQ-375SK1B
     confirmed: ba30e28a130f
 ---
 The encryption layer shall detect schedule entries when the network is unavailable.

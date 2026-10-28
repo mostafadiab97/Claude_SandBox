@@ -1,15 +1,16 @@
 ---
-id: SYS-D7FGDK
+id: REQ-B8N38VD
 type: system-requirement
 title: Telemetry pipeline stores energy consumption
 status: Review
 priority: Medium
 owner: J. Müller
-parent: INFO-YV5EZD
-order: 1450
+former-id: SYS-D7FGDK
+parent: REQ-RE9ZKHF
+order: b1K
 links:
   - type: refines
-    target: STK-VT1KVD
+    target: REQ-36Y9ND0
     confirmed: fbcfb8475f32
 ---
 The telemetry pipeline shall limit sensor readings after a power loss.

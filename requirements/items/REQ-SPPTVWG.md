@@ -1,5 +1,5 @@
 ---
-id: SYS-N0SS0N
+id: REQ-SPPTVWG
 type: system-requirement
 title: User account service encrypts the operating mode
 status: Draft
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - ux
   - release-1.0
-parent: INFO-YV5EZD
-order: 1050
+former-id: SYS-N0SS0N
+parent: REQ-RE9ZKHF
+order: b0g
 links:
   - type: refines
-    target: STK-R8QH58
+    target: REQ-BN3T0GR
     confirmed: 13d6784d2cc9
 ---
 The user account service shall detect schedule entries for at least 10 years.

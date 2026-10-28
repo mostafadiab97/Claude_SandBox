@@ -1,5 +1,5 @@
 ---
-id: TC-Q19QMS
+id: REQ-48EEK9K
 type: test-case
 title: "Verify: Zone valve authenticates firmware images"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - accessibility
   - performance
-parent: INFO-MS9DAG
-order: 350
+former-id: TC-Q19QMS
+parent: REQ-XGWSK2K
+order: aY
 links:
   - type: verifies
-    target: SYS-Y33EQ3
+    target: REQ-C2Q8T0W
     confirmed: 06b5de7a3ad6
 ---
 **Objective:** verify that the zone valve behaves as specified.

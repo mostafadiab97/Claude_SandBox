@@ -1,15 +1,16 @@
 ---
-id: HW-6Z1BVX
+id: REQ-MZ2T70N
 type: hardware-requirement
 title: Pairing process detects sensor readings
 status: Draft
 priority: Medium
 owner: N. Kamal
-parent: SYS-RAD6T2
-order: 30
+former-id: HW-6Z1BVX
+parent: REQ-CJT5KJQ
+order: a2
 links:
   - type: refines
-    target: SYS-RAD6T2
+    target: REQ-CJT5KJQ
     confirmed: 05d37b4e999b
 ---
 The pairing process shall report error conditions below 0.5 W in standby.

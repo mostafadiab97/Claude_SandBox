@@ -1,14 +1,15 @@
 ---
-id: DE-RM3TC9
+id: REQ-FC2C64M
 type: design-element
 title: Module login_screen_66
 status: Approved
 owner: L. Samir
-parent: SW-4RY29K
-order: 20
+former-id: DE-RM3TC9
+parent: REQ-04RZY5R
+order: a1
 links:
   - type: implements
-    target: SW-4RY29K
+    target: REQ-04RZY5R
     confirmed: 93ea078f9423
 ---
 Implemented in `src/app/login_screen.c`.

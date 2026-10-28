@@ -1,5 +1,5 @@
 ---
-id: TC-N9QPCE
+id: REQ-8C6C3MA
 type: test-case
 title: "Verify: Telemetry pipeline synchronises firmware images"
 status: Review
@@ -9,11 +9,12 @@ tags:
   - safety
   - security
   - ux
-parent: INFO-7P4D8D
-order: 1160
+former-id: TC-N9QPCE
+parent: REQ-8351896
+order: b0r
 links:
   - type: verifies
-    target: SYS-BA2G1M
+    target: REQ-H73126C
     confirmed: f603768ac45b
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

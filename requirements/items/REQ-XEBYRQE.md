@@ -1,17 +1,18 @@
 ---
-id: TC-VZAPT8
+id: REQ-XEBYRQE
 type: test-case
 title: "Verify: Status LED encrypts user preferences"
 status: Review
 owner: L. Samir
-parent: INFO-HTSZ15
-order: 900
+former-id: TC-VZAPT8
+parent: REQ-Y9VHHKA
+order: b0R
 links:
   - type: verifies
-    target: SYS-3EMBKZ
+    target: REQ-152PW1J
     confirmed: 75ba8fea4f5c
   - type: verifies
-    target: SW-9PZ49R
+    target: REQ-W0XSNQD
     confirmed: 926f921a05b5
 ---
 **Objective:** verify that the status LED behaves as specified.

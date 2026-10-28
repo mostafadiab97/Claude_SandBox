@@ -1,5 +1,5 @@
 ---
-id: SW-5EK03H
+id: REQ-MF2WWRF
 type: software-requirement
 title: Device registry logs relay events
 status: Review
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - release-2.0
   - safety
-parent: SYS-FHREYK
-order: 20
+former-id: SW-5EK03H
+parent: REQ-N142HFP
+order: a1
 links:
   - type: refines
-    target: SYS-FHREYK
+    target: REQ-N142HFP
     confirmed: 23e20a9811b4
 ---
 The OTA server shall switch the set point using AES-256-GCM.

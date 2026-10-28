@@ -1,10 +1,11 @@
 ---
-id: IF-1ZDWMS
+id: REQ-GM6YC3F
 type: interface-requirement
 title: "Signal 579: user preferences"
 status: Review
 owner: K. Tanaka
-parent: INFO-2TM0JP
-order: 5790
+former-id: IF-1ZDWMS
+parent: REQ-RJ0KHPT
+order: b8K
 ---
 Interface signal number 579.

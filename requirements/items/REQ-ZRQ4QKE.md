@@ -1,5 +1,5 @@
 ---
-id: IF-VDCHVD
+id: REQ-ZRQ4QKE
 type: interface-requirement
 title: Bluetooth LE link limits user preferences
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - cost
   - regulatory
   - connectivity
-parent: SYS-7F4FY9
-order: 40
+former-id: IF-VDCHVD
+parent: REQ-P78AYDQ
+order: a3
 links:
   - type: refines
-    target: SYS-7F4FY9
+    target: REQ-P78AYDQ
     confirmed: a9c0f51b3815
 ---
 The local API shall restore the room temperature within 200 ms.

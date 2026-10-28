@@ -1,16 +1,17 @@
 ---
-id: SYS-C9BFKW
+id: REQ-X3TS6B3
 type: system-requirement
 title: Power supply stores the operating mode
 status: Review
 owner: Y. Saber
 tags:
   - ux
-parent: INFO-A6P9A8
-order: 940
+former-id: SYS-C9BFKW
+parent: REQ-CMCS31A
+order: b0V
 links:
   - type: refines
-    target: STK-JAQHJP
+    target: REQ-V8PT5BV
     confirmed: b0af11a5c3c2
 ---
 The power supply shall validate the room temperature within 200 ms.

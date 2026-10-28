@@ -1,5 +1,5 @@
 ---
-id: DE-BD7X2P
+id: REQ-P1DAVB1
 type: design-element
 title: Module boiler_interface_70
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - connectivity
   - power
-parent: SW-B45075
-order: 10
+former-id: DE-BD7X2P
+parent: REQ-RM9RV7Z
+order: a0
 links:
   - type: implements
-    target: SW-B45075
+    target: REQ-RM9RV7Z
     confirmed: 44b6eb114f52
 ---
 Implemented in `src/heat/boiler_interface.c`.

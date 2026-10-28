@@ -1,5 +1,5 @@
 ---
-id: TC-YV255K
+id: REQ-ZBT2A1P
 type: test-case
 title: "Verify: Status LED validates humidity values"
 status: Review
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - security
   - power
-parent: INFO-HTSZ15
-order: 1400
+former-id: TC-YV255K
+parent: REQ-Y9VHHKA
+order: b1F
 links:
   - type: verifies
-    target: SYS-B19CRP
+    target: REQ-YFV227P
     confirmed: 9dc800f53108
 ---
 **Objective:** verify that the status LED behaves as specified.

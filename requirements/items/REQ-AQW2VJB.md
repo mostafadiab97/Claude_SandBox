@@ -1,5 +1,5 @@
 ---
-id: SW-1QEBNG
+id: REQ-AQW2VJB
 type: software-requirement
 title: Cloud backend encrypts user preferences
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - connectivity
   - customer-request
-parent: SYS-1F931E
-order: 20
+former-id: SW-1QEBNG
+parent: REQ-KDXGXZC
+order: a1
 links:
   - type: refines
-    target: SYS-1F931E
+    target: REQ-KDXGXZC
     confirmed: 51652603599b
 ---
 The cloud backend shall notify the connection state in all supported languages.

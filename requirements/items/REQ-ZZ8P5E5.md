@@ -1,5 +1,5 @@
 ---
-id: HW-E2RJQJ
+id: REQ-ZZ8P5E5
 type: hardware-requirement
 title: Main PCB limits humidity values
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - i18n
   - ux
-parent: SYS-GYMKHD
-order: 30
+former-id: HW-E2RJQJ
+parent: REQ-FZE217Y
+order: a2
 links:
   - type: refines
-    target: SYS-GYMKHD
+    target: REQ-FZE217Y
     confirmed: 548847d1d9b7
 ---
 The battery backup shall authenticate energy consumption in all supported languages.

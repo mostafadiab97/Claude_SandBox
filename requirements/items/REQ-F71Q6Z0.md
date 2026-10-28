@@ -1,5 +1,5 @@
 ---
-id: DE-A565M8
+id: REQ-F71Q6Z0
 type: design-element
 title: Module touch_display_28
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 tags:
   - cost
   - EMC
-parent: SW-KZ6GJD
-order: 10
+former-id: DE-A565M8
+parent: REQ-AAH1VE8
+order: a0
 links:
   - type: implements
-    target: SW-KZ6GJD
+    target: REQ-AAH1VE8
     confirmed: 0898ef1ca95f
 ---
 Implemented in `src/ui/touch_display.c`.

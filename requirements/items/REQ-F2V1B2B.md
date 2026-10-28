@@ -1,5 +1,5 @@
 ---
-id: IF-VHNYCS
+id: REQ-F2V1B2B
 type: interface-requirement
 title: Wi-Fi module limits the set point
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - cost
   - safety
-parent: SYS-VJ67GV
-order: 10
+former-id: IF-VHNYCS
+parent: REQ-1696DPZ
+order: a0
 links:
   - type: refines
-    target: SYS-VJ67GV
+    target: REQ-1696DPZ
     confirmed: 4f2688f1cae5
 ---
 The Bluetooth LE link shall synchronise safety limits in all supported languages.

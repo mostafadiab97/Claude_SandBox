@@ -1,5 +1,5 @@
 ---
-id: DEF-3MP8ZA
+id: REQ-57C35JM
 type: defect
 title: "Defect: heating controller does not restore relay events"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - accessibility
   - regulatory
   - power
-parent: INFO-ZBHTYF
-order: 140
+former-id: DEF-3MP8ZA
+parent: REQ-XJDN42Y
+order: aD
 links:
   - type: relates-to
-    target: TC-YJBGRM
+    target: REQ-P5RA2TN
     confirmed: 78027f123c30
   - type: relates-to
-    target: SYS-9RTKP2
+    target: REQ-R2V07V4
     confirmed: 3379698ed305
 ---
 Found during regression testing of build 2.1.28.

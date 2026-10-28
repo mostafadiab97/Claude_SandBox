@@ -1,15 +1,16 @@
 ---
-id: SW-1VYK0D
+id: REQ-7MN5Q69
 type: software-requirement
 title: Detect user preferences — detail
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: SW-J6W17Y
-order: 10
+former-id: SW-1VYK0D
+parent: REQ-TAN6YGQ
+order: a0
 links:
   - type: refines
-    target: SW-J6W17Y
+    target: REQ-TAN6YGQ
     confirmed: 3b97bd54aabd
 ---
 The Wi-Fi module shall detect audit records within 200 ms.

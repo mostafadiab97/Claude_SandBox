@@ -1,5 +1,5 @@
 ---
-id: HW-85TG9V
+id: REQ-FX3BRGF
 type: hardware-requirement
 title: Touch display switchs energy consumption
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - power
   - accessibility
-parent: SYS-G8P704
-order: 20
+former-id: HW-85TG9V
+parent: REQ-DGJWR53
+order: a1
 links:
   - type: refines
-    target: SYS-G8P704
+    target: REQ-DGJWR53
     confirmed: ac1f313d67a2
 ---
 The menu system shall detect humidity values at least once per minute.

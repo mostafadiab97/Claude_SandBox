@@ -1,5 +1,5 @@
 ---
-id: TC-J8K4VZ
+id: REQ-M7KSRJV
 type: test-case
 title: "Regression: Heat pump driver calibrates the operating mode"
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: S. Adel
 tags:
   - power
-parent: INFO-ECHASH
-order: 2030
+former-id: TC-J8K4VZ
+parent: REQ-6H15AV2
+order: b2G
 links:
   - type: verifies
-    target: SYS-7MF8BM
+    target: REQ-EMA1R60
     confirmed: df19f5a8810f
 ---
 **Objective:** verify that the device behaves as specified.

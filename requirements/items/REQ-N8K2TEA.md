@@ -1,5 +1,5 @@
 ---
-id: SW-XRNYEA
+id: REQ-N8K2TEA
 type: software-requirement
 title: Secure boot displays the set point
 status: Review
@@ -8,11 +8,12 @@ tags:
   - customer-request
   - i18n
   - release-2.0
-parent: SYS-1HN03J
-order: 20
+former-id: SW-XRNYEA
+parent: REQ-78GKHB3
+order: a1
 links:
   - type: refines
-    target: SYS-1HN03J
+    target: REQ-78GKHB3
     confirmed: e85c5bf1399b
 ---
 The encryption layer shall notify the set point in all supported languages.

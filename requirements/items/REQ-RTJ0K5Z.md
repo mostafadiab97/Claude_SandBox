@@ -1,5 +1,5 @@
 ---
-id: IF-7ZV3WN
+id: REQ-RTJ0K5Z
 type: interface-requirement
 title: "Signal 435: humidity values"
 status: Obsolete
@@ -9,7 +9,8 @@ tags:
   - EMC
   - power
   - connectivity
-parent: INFO-2TM0JP
-order: 4350
+former-id: IF-7ZV3WN
+parent: REQ-RJ0KHPT
+order: b60
 ---
 Interface signal number 435.

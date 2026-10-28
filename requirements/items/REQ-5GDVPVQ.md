@@ -1,5 +1,5 @@
 ---
-id: TC-2EB3HQ
+id: REQ-5GDVPVQ
 type: test-case
 title: "Verify: Menu system stores sensor readings"
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - i18n
   - connectivity
-parent: INFO-HTSZ15
-order: 1460
+former-id: TC-2EB3HQ
+parent: REQ-Y9VHHKA
+order: b1L
 links:
   - type: verifies
-    target: SYS-DVK0ST
+    target: REQ-9V4ZDEE
     confirmed: "123689018215"
 ---
 **Objective:** verify that the menu system behaves as specified.

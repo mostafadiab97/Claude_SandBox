@@ -1,5 +1,5 @@
 ---
-id: SW-RBXY66
+id: REQ-E5QKJDZ
 type: software-requirement
 title: Mobile app synchronises sensor readings
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - release-2.0
   - cost
   - regulatory
-parent: SYS-841ZEK
-order: 30
+former-id: SW-RBXY66
+parent: REQ-2CJCCA6
+order: a2
 links:
   - type: refines
-    target: SYS-841ZEK
+    target: REQ-2CJCCA6
     confirmed: f5675ac44211
 ---
 The login screen shall restore schedule entries below 0.5 W in standby.

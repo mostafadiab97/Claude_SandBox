@@ -1,5 +1,5 @@
 ---
-id: IF-HTF9WD
+id: REQ-XSKGAFC
 type: interface-requirement
 title: Encrypt user preferences — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - accessibility
   - security
-parent: IF-KJRVES
-order: 10
+former-id: IF-HTF9WD
+parent: REQ-EXSY25Q
+order: a0
 links:
   - type: refines
-    target: IF-KJRVES
+    target: REQ-EXSY25Q
     confirmed: dc702c6e418f
 ---
 The backlight shall synchronise the set point using AES-256-GCM.

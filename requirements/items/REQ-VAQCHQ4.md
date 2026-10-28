@@ -1,15 +1,16 @@
 ---
-id: HW-ARV5WS
+id: REQ-VAQCHQ4
 type: hardware-requirement
 title: Menu system validates access tokens
 status: Obsolete
 priority: Low
 owner: Y. Saber
-parent: SYS-QT1CFV
-order: 20
+former-id: HW-ARV5WS
+parent: REQ-BBDCX27
+order: a1
 links:
   - type: refines
-    target: SYS-QT1CFV
+    target: REQ-BBDCX27
     confirmed: ee55a0dd3a84
 ---
 The status LED shall measure the set point without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: SW-J23FTM
+id: REQ-89DJDT1
 type: software-requirement
 title: Cloud backend displays access tokens
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - cost
   - power
-parent: SYS-AP48M6
-order: 30
+former-id: SW-J23FTM
+parent: REQ-RW13WJP
+order: a2
 links:
   - type: refines
-    target: SYS-AP48M6
+    target: REQ-RW13WJP
     confirmed: 5bc25d897362
 ---
 The device registry shall restore user preferences using AES-256-GCM.

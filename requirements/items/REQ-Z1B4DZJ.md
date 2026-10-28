@@ -1,5 +1,5 @@
 ---
-id: TC-FZDWRD
+id: REQ-Z1B4DZJ
 type: test-case
 title: "Verify: Over-temperature monitor detects user preferences"
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - ux
   - EMC
-parent: INFO-Z4TW4B
-order: 600
+former-id: TC-FZDWRD
+parent: REQ-K6FGAY0
+order: ax
 links:
   - type: verifies
-    target: SYS-AT7SG8
+    target: REQ-8V3JXAY
     confirmed: c483239675ae
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

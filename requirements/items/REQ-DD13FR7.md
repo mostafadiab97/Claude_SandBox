@@ -1,18 +1,19 @@
 ---
-id: TC-R0MRZN
+id: REQ-DD13FR7
 type: test-case
 title: "Verify: Telemetry pipeline limits the room temperature"
 status: Review
 priority: Medium
 owner: H. Mostafa
-parent: INFO-7P4D8D
-order: 1420
+former-id: TC-R0MRZN
+parent: REQ-8351896
+order: b1H
 links:
   - type: verifies
-    target: SYS-ZD3S52
+    target: REQ-5JD6YSM
     confirmed: 0af8d7691be2
   - type: verifies
-    target: SW-PZFQGD
+    target: REQ-YTFG90G
     confirmed: 691fb7a4cd9f
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

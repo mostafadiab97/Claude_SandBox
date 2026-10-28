@@ -1,16 +1,17 @@
 ---
-id: UC-V4ZDME
+id: REQ-Y3STB89
 type: use-case
 title: "UC: Calibrate relay events with the battery backup"
 status: Approved
 priority: Medium
 tags:
   - customer-request
-parent: INFO-6W132E
-order: 160
+former-id: UC-V4ZDME
+parent: REQ-QV7VW2A
+order: aF
 links:
   - type: relates-to
-    target: STK-922G3A
+    target: REQ-XZNTF7S
     confirmed: ea4a6a665922
 ---
 **Actor:** home owner

@@ -1,5 +1,5 @@
 ---
-id: HW-1AXV1M
+id: REQ-R3QTNW4
 type: hardware-requirement
 title: Wi-Fi module displays the operating mode
 status: Review
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - connectivity
   - regulatory
-parent: SYS-96CWW2
-order: 10
+former-id: HW-1AXV1M
+parent: REQ-74P9MAJ
+order: a0
 links:
   - type: refines
-    target: SYS-96CWW2
+    target: REQ-74P9MAJ
     confirmed: e023ac8016f0
 ---
 The pairing process shall encrypt sensor readings using AES-256-GCM.

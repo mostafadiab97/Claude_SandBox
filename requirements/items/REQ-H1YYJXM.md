@@ -1,15 +1,16 @@
 ---
-id: HW-X80M8P
+id: REQ-H1YYJXM
 type: hardware-requirement
 title: OTA server stores schedule entries
 status: Draft
 priority: Medium
 owner: É. Laurent
-parent: SYS-569DVN
-order: 10
+former-id: HW-X80M8P
+parent: REQ-A5ZTQEE
+order: a0
 links:
   - type: refines
-    target: SYS-569DVN
+    target: REQ-A5ZTQEE
     confirmed: 9f9a37d9b20d
 ---
 The device registry shall detect safety limits using AES-256-GCM.

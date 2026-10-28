@@ -1,5 +1,5 @@
 ---
-id: SW-ASW34Q
+id: REQ-GJVMVZF
 type: software-requirement
 title: Regulation loop logs energy consumption
 status: Review
@@ -7,11 +7,12 @@ priority: High
 tags:
   - safety
   - regulatory
-parent: SYS-7AKQK2
-order: 20
+former-id: SW-ASW34Q
+parent: REQ-KSTR6EY
+order: a1
 links:
   - type: refines
-    target: SYS-7AKQK2
+    target: REQ-KSTR6EY
     confirmed: 0a4c44bfead6
 ---
 The boiler interface shall limit schedule entries for at least 10 years.

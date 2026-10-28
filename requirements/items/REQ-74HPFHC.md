@@ -1,5 +1,5 @@
 ---
-id: IF-0C7PBY
+id: REQ-74HPFHC
 type: interface-requirement
 title: "Signal 112: schedule entries"
 status: Obsolete
@@ -8,7 +8,8 @@ owner: É. Laurent
 tags:
   - security
   - connectivity
-parent: INFO-2TM0JP
-order: 1120
+former-id: IF-0C7PBY
+parent: REQ-RJ0KHPT
+order: b0n
 ---
 Interface signal number 112.

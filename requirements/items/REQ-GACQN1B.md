@@ -1,15 +1,16 @@
 ---
-id: SW-WHVCGX
+id: REQ-GACQN1B
 type: software-requirement
 title: Bluetooth LE link detects error conditions
 status: Review
 priority: Medium
 owner: R. Nabil
-parent: SYS-N3WYBE
-order: 10
+former-id: SW-WHVCGX
+parent: REQ-HKRTMR7
+order: a0
 links:
   - type: refines
-    target: SYS-N3WYBE
+    target: REQ-HKRTMR7
     confirmed: 7445dfc2f902
 ---
 The local API shall encrypt user preferences after a power loss.

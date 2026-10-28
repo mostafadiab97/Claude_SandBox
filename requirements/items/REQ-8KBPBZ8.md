@@ -1,18 +1,19 @@
 ---
-id: SYS-E79TSB
+id: REQ-8KBPBZ8
 type: system-requirement
 title: Relay board authenticates error conditions
 status: Review
 priority: Medium
 owner: Y. Saber
-parent: INFO-A6P9A8
-order: 1340
+former-id: SYS-E79TSB
+parent: REQ-CMCS31A
+order: b19
 links:
   - type: refines
-    target: STK-7F9256
+    target: REQ-GXZBB32
     confirmed: 5588db2eb80a
   - type: mitigates
-    target: RSK-4NE1NJ
+    target: REQ-MZ5YCZY
     confirmed: 56f6781ca0d3
 ---
 The relay board shall notify error conditions below 0.5 W in standby.

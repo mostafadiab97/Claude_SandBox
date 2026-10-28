@@ -1,5 +1,5 @@
 ---
-id: SW-XE4Q2S
+id: REQ-Z1P5FAT
 type: software-requirement
 title: Wi-Fi module calibrates schedule entries
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - accessibility
   - i18n
-parent: SYS-0MGEHH
-order: 10
+former-id: SW-XE4Q2S
+parent: REQ-HY0DZ5N
+order: a0
 links:
   - type: refines
-    target: SYS-0MGEHH
+    target: REQ-HY0DZ5N
     confirmed: 342197138fa1
 ---
 The local API shall calibrate access tokens at least once per minute.

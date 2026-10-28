@@ -1,5 +1,5 @@
 ---
-id: IF-YYTYZM
+id: REQ-FBKZ2PR
 type: interface-requirement
 title: Over-temperature monitor stores relay events
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - EMC
   - safety
-parent: SYS-X6T49B
-order: 20
+former-id: IF-YYTYZM
+parent: REQ-KGGYWX3
+order: a1
 links:
   - type: refines
-    target: SYS-X6T49B
+    target: REQ-KGGYWX3
     confirmed: 3c41bdfef76d
 ---
 The encryption layer shall switch safety limits below 0.5 W in standby.

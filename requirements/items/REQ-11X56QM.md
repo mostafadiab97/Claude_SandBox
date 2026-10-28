@@ -1,11 +1,12 @@
 ---
-id: IF-WV90HS
+id: REQ-11X56QM
 type: interface-requirement
 title: "Signal 643: access tokens"
 status: Approved
 tags:
   - power
-parent: INFO-2TM0JP
-order: 6430
+former-id: IF-WV90HS
+parent: REQ-RJ0KHPT
+order: b9M
 ---
 Interface signal number 643.

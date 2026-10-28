@@ -1,14 +1,15 @@
 ---
-id: TC-NMQAQ7
+id: REQ-MFJF00T
 type: test-case
 title: "Verify: Mobile app notifys audit records"
 status: Approved
 owner: Y. Saber
-parent: INFO-J0FETE
-order: 1230
+former-id: TC-NMQAQ7
+parent: REQ-WR5ZJN9
+order: b0y
 links:
   - type: verifies
-    target: SYS-78N6Z3
+    target: REQ-83GTAJV
     confirmed: 51d87d69c62c
 ---
 **Objective:** verify that the mobile app behaves as specified.

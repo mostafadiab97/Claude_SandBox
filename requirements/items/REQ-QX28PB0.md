@@ -1,5 +1,5 @@
 ---
-id: SW-H2FV48
+id: REQ-QX28PB0
 type: software-requirement
 title: Mobile app encrypts safety limits
 status: Approved
@@ -7,11 +7,12 @@ tags:
   - cost
   - i18n
   - EMC
-parent: SYS-AQ211W
-order: 20
+former-id: SW-H2FV48
+parent: REQ-38X44C6
+order: a1
 links:
   - type: refines
-    target: SYS-AQ211W
+    target: REQ-38X44C6
     confirmed: 17e9d0952657
 ---
 The notification service shall encrypt audit records in all supported languages.

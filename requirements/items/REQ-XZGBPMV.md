@@ -1,14 +1,15 @@
 ---
-id: SW-QECYP6
+id: REQ-XZGBPMV
 type: software-requirement
 title: Display audit records — detail
 status: Draft
 priority: Medium
-parent: SW-5AHKSR
-order: 10
+former-id: SW-QECYP6
+parent: REQ-EENPQ7M
+order: a0
 links:
   - type: refines
-    target: SW-5AHKSR
+    target: REQ-EENPQ7M
     confirmed: e2079d0acc83
 ---
 The touch display shall store the set point for at least 10 years.

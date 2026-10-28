@@ -1,5 +1,5 @@
 ---
-id: SYS-DMYBQ9
+id: REQ-00CXS7S
 type: system-requirement
 title: Cloud backend validates the room temperature
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: K. Tanaka
 tags:
   - regulatory
-parent: INFO-YV5EZD
-order: 660
+former-id: SYS-DMYBQ9
+parent: REQ-RE9ZKHF
+order: b03
 links:
   - type: refines
-    target: STK-R8QH58
+    target: REQ-BN3T0GR
     confirmed: a5da5153be44
 ---
 The cloud backend shall display the set point at least once per minute.

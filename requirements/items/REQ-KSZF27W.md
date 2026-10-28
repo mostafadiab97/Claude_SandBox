@@ -1,5 +1,5 @@
 ---
-id: SW-5AB404
+id: REQ-KSZF27W
 type: software-requirement
 title: Wi-Fi module validates relay events
 status: Obsolete
@@ -7,11 +7,12 @@ owner: R. Nabil
 tags:
   - safety
   - EMC
-parent: SYS-4R41VA
-order: 20
+former-id: SW-5AB404
+parent: REQ-2DW0JKQ
+order: a1
 links:
   - type: refines
-    target: SYS-4R41VA
+    target: REQ-2DW0JKQ
     confirmed: 64a9069e9e95
 ---
 The pairing process shall restore firmware images in under 3 s.

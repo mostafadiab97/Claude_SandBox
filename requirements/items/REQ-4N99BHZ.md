@@ -1,15 +1,16 @@
 ---
-id: TC-HZK6CD
+id: REQ-4N99BHZ
 type: test-case
 title: "Verify: Device registry measures safety limits"
 status: Obsolete
 priority: Medium
 owner: M. Farouk
-parent: INFO-7P4D8D
-order: 1060
+former-id: TC-HZK6CD
+parent: REQ-8351896
+order: b0h
 links:
   - type: verifies
-    target: SYS-0DEP77
+    target: REQ-RH9ZCGV
     confirmed: 7dbcbeef3d13
 ---
 **Objective:** verify that the device registry behaves as specified.

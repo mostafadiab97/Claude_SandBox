@@ -1,15 +1,16 @@
 ---
-id: SYS-C6GTWA
+id: REQ-2W8C2K6
 type: system-requirement
 title: Power supply stores safety limits
 status: Review
 priority: Medium
 owner: L. Samir
-parent: INFO-A6P9A8
-order: 1280
+former-id: SYS-C6GTWA
+parent: REQ-CMCS31A
+order: b13
 links:
   - type: refines
-    target: STK-JAQHJP
+    target: REQ-V8PT5BV
     confirmed: b0af11a5c3c2
 ---
 The power supply shall display firmware images when the network is unavailable.

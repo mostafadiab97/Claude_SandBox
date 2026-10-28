@@ -1,5 +1,5 @@
 ---
-id: SW-TCXTHG
+id: REQ-5PETHEF
 type: software-requirement
 title: Bluetooth LE link encrypts error conditions
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - EMC
   - regulatory
-parent: SYS-4VCYRM
-order: 30
+former-id: SW-TCXTHG
+parent: REQ-Y5TQ0M6
+order: a2
 links:
   - type: refines
-    target: SYS-4VCYRM
+    target: REQ-Y5TQ0M6
     confirmed: d32333e735ba
 ---
 The Wi-Fi module shall report the room temperature in all supported languages.

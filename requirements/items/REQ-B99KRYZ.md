@@ -1,14 +1,15 @@
 ---
-id: CR-FVXF4K
+id: REQ-B99KRYZ
 type: change-request
 title: "CR: extend boiler interface to detect sensor readings"
 status: Draft
 priority: Medium
-parent: INFO-ZBHTYF
-order: 210
+former-id: CR-FVXF4K
+parent: REQ-XJDN42Y
+order: aK
 links:
   - type: relates-to
-    target: SYS-N3G2GX
+    target: REQ-E28NX9X
     confirmed: 82049aeb2cf6
 ---
 Requested by customer support (ticket #16798).

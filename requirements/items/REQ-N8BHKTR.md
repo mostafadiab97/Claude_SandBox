@@ -1,5 +1,5 @@
 ---
-id: IF-KBXR9X
+id: REQ-N8BHKTR
 type: interface-requirement
 title: "Signal 449: the connection state"
 status: Draft
@@ -8,7 +8,8 @@ owner: S. Adel
 tags:
   - power
   - release-1.0
-parent: INFO-2TM0JP
-order: 4490
+former-id: IF-KBXR9X
+parent: REQ-RJ0KHPT
+order: b6E
 ---
 Interface signal number 449.

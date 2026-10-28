@@ -1,18 +1,19 @@
 ---
-id: TC-799X7Z
+id: REQ-7X7ZFSD
 type: test-case
 title: "Verify: Telemetry pipeline displays error conditions"
 status: Approved
 priority: High
 owner: É. Laurent
-parent: INFO-7P4D8D
-order: 60
+former-id: TC-799X7Z
+parent: REQ-8351896
+order: a5
 links:
   - type: verifies
-    target: SYS-ERJC40
+    target: REQ-FGY59FP
     confirmed: f027b997b7f0
   - type: verifies
-    target: SW-5YXDWN
+    target: REQ-GMP88V8
     confirmed: e02c4513eee6
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

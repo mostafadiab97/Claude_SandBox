@@ -1,5 +1,5 @@
 ---
-id: SW-ZB0DDW
+id: REQ-01SCWE5
 type: software-requirement
 title: Telemetry pipeline calibrates firmware images
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - cost
   - ux
-parent: SYS-6QFCF2
-order: 40
+former-id: SW-ZB0DDW
+parent: REQ-3P9VR9B
+order: a3
 links:
   - type: refines
-    target: SYS-6QFCF2
+    target: REQ-3P9VR9B
     confirmed: 25036748bd8f
 ---
 The OTA server shall store the room temperature after a power loss.

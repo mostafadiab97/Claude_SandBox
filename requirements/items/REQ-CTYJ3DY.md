@@ -1,14 +1,15 @@
 ---
-id: SW-HGPMZH
+id: REQ-CTYJ3DY
 type: software-requirement
 title: Zone valve measures user preferences
 status: Approved
 priority: High
-parent: SYS-TXF8EG
-order: 10
+former-id: SW-HGPMZH
+parent: REQ-JB7W2BD
+order: a0
 links:
   - type: refines
-    target: SYS-TXF8EG
+    target: REQ-JB7W2BD
     confirmed: 941441170ff9
 ---
 The regulation loop shall log humidity values within 200 ms.

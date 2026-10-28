@@ -1,5 +1,5 @@
 ---
-id: SW-K87TZA
+id: REQ-SZNRH07
 type: software-requirement
 title: Regulation loop reports user preferences
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Low
 owner: J. Müller
 tags:
   - security
-parent: SYS-D1ZDY9
-order: 10
+former-id: SW-K87TZA
+parent: REQ-5ARG7AP
+order: a0
 links:
   - type: refines
-    target: SYS-D1ZDY9
+    target: REQ-5ARG7AP
     confirmed: 3c95eb652d79
 ---
 The heat pump driver shall authenticate relay events in under 3 s.

@@ -1,16 +1,17 @@
 ---
-id: SYS-8MMGZP
+id: REQ-PAY0TEM
 type: system-requirement
 title: Watchdog authenticates error conditions
 status: Obsolete
 priority: High
 tags:
   - safety
-parent: INFO-0229G8
-order: 230
+former-id: SYS-8MMGZP
+parent: REQ-H9113WA
+order: aM
 links:
   - type: refines
-    target: STK-SM9B7Z
+    target: REQ-Z2QF8WD
     confirmed: 44235e2789f0
 ---
 The watchdog shall display humidity values below 0.5 W in standby.

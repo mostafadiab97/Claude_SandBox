@@ -1,15 +1,16 @@
 ---
-id: TC-4AM1F6
+id: REQ-J36HTVV
 type: test-case
 title: "Verify: Over-temperature monitor synchronises firmware images"
 status: Draft
 priority: Low
 owner: L. Samir
-parent: INFO-Z4TW4B
-order: 430
+former-id: TC-4AM1F6
+parent: REQ-K6FGAY0
+order: ag
 links:
   - type: verifies
-    target: SYS-FMVZ4N
+    target: REQ-QXZYXCA
     confirmed: 64d198139b67
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

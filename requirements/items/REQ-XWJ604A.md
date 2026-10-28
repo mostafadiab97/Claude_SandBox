@@ -1,15 +1,16 @@
 ---
-id: DE-27G047
+id: REQ-XWJ604A
 type: design-element
 title: Module watchdog_40
 status: Approved
 priority: High
 owner: K. Tanaka
-parent: SW-E5CB9M
-order: 20
+former-id: DE-27G047
+parent: REQ-Y862VH1
+order: a1
 links:
   - type: implements
-    target: SW-E5CB9M
+    target: REQ-Y862VH1
     confirmed: 46d91830dec0
 ---
 Implemented in `src/safe/watchdog.c`.

@@ -1,5 +1,5 @@
 ---
-id: RSK-Y8NNRK
+id: REQ-3WNE8Q2
 type: risk
 title: "Risk: cloud backend fails to detect firmware images"
 status: Obsolete
@@ -9,8 +9,9 @@ tags:
   - security
   - regulatory
   - power
-parent: INFO-5BPX0K
-order: 100
+former-id: RSK-Y8NNRK
+parent: REQ-RSBFCPW
+order: a9
 ---
 **Hazard:** the cloud backend could fail to switch the connection state.
 

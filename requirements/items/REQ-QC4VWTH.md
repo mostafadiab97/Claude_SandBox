@@ -1,5 +1,5 @@
 ---
-id: SW-QPPFH1
+id: REQ-QC4VWTH
 type: software-requirement
 title: Login screen reports schedule entries
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: A. Hassan
 tags:
   - regulatory
-parent: SYS-H82ZTG
-order: 30
+former-id: SW-QPPFH1
+parent: REQ-09X88MA
+order: a2
 links:
   - type: refines
-    target: SYS-H82ZTG
+    target: REQ-09X88MA
     confirmed: f99414faf3d8
 ---
 The mobile app shall synchronise the connection state at least once per minute.

@@ -1,16 +1,17 @@
 ---
-id: TC-ANN5KE
+id: REQ-N8TQJ0A
 type: test-case
 title: "Verify: Tamper detection encrypts relay events"
 status: Draft
 priority: Low
 tags:
   - security
-parent: INFO-Z4TW4B
-order: 310
+former-id: TC-ANN5KE
+parent: REQ-K6FGAY0
+order: aU
 links:
   - type: verifies
-    target: SYS-AN3CZW
+    target: REQ-D4ZA4NM
     confirmed: 1331a264167a
 ---
 **Objective:** verify that the tamper detection behaves as specified.

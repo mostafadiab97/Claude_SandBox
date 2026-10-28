@@ -1,15 +1,16 @@
 ---
-id: HW-JB6V95
+id: REQ-RHPA9VV
 type: hardware-requirement
 title: Enclosure stores error conditions
 status: Approved
 priority: Medium
 owner: J. Müller
-parent: SYS-TTC476
-order: 10
+former-id: HW-JB6V95
+parent: REQ-79Q9433
+order: a0
 links:
   - type: refines
-    target: SYS-TTC476
+    target: REQ-79Q9433
     confirmed: fcf4c01f1afd
 ---
 The enclosure shall validate schedule entries for up to 8 zones.

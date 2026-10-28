@@ -1,13 +1,14 @@
 ---
-id: SW-CGT1YY
+id: REQ-Z47KM63
 type: software-requirement
 title: Report user preferences — detail
 status: Approved
-parent: SW-78P294
-order: 10
+former-id: SW-CGT1YY
+parent: REQ-7Z6S395
+order: a0
 links:
   - type: refines
-    target: SW-78P294
+    target: REQ-7Z6S395
     confirmed: ad6dedf96cce
 ---
 The boiler interface shall switch user preferences after a power loss.

@@ -1,15 +1,16 @@
 ---
-id: SW-H14SJR
+id: REQ-YZGW69K
 type: software-requirement
 title: Local API detects the operating mode
 status: Review
 priority: Medium
 owner: É. Laurent
-parent: SYS-FD82WN
-order: 20
+former-id: SW-H14SJR
+parent: REQ-B2JJXAA
+order: a1
 links:
   - type: refines
-    target: SYS-FD82WN
+    target: REQ-B2JJXAA
     confirmed: f55a56f18a08
 ---
 The local API shall notify access tokens with an accuracy of ±0.5 °C.

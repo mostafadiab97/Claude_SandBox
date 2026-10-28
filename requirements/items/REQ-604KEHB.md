@@ -1,5 +1,5 @@
 ---
-id: IF-QR9HBM
+id: REQ-604KEHB
 type: interface-requirement
 title: Encryption layer restores the operating mode
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - release-1.0
   - security
-parent: SYS-D3GXWM
-order: 40
+former-id: IF-QR9HBM
+parent: REQ-V9G96MX
+order: a3
 links:
   - type: refines
-    target: SYS-D3GXWM
+    target: REQ-V9G96MX
     confirmed: 837c0d0a7912
 ---
 The over-temperature monitor shall measure sensor readings without user interaction.

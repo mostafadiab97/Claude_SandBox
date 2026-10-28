@@ -1,5 +1,5 @@
 ---
-id: IF-YEPZV6
+id: REQ-WF4F6NQ
 type: interface-requirement
 title: Backlight displays energy consumption
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - power
   - performance
-parent: SYS-E287Z5
-order: 20
+former-id: IF-YEPZV6
+parent: REQ-VFTA3G4
+order: a1
 links:
   - type: refines
-    target: SYS-E287Z5
+    target: REQ-VFTA3G4
     confirmed: 75c4df8a465f
 ---
 The rotary knob shall notify the room temperature for at least 10 years.

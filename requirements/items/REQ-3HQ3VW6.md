@@ -1,5 +1,5 @@
 ---
-id: UC-83P6AA
+id: REQ-3HQ3VW6
 type: use-case
 title: "UC: Notify sensor readings with the mobile app"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - performance
   - i18n
-parent: INFO-QHXQWK
-order: 150
+former-id: UC-83P6AA
+parent: REQ-N3B9NZ4
+order: aB
 links:
   - type: relates-to
-    target: STK-HBX3YS
+    target: REQ-S86K9Q8
     confirmed: b42a2f94d25d
 ---
 **Actor:** home owner

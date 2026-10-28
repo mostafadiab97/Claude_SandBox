@@ -1,15 +1,16 @@
 ---
-id: SW-RBS8WN
+id: REQ-0GPXAKD
 type: software-requirement
 title: Login screen logs relay events
 status: Approved
 priority: Medium
 owner: J. Müller
-parent: SYS-XTEFPC
-order: 30
+former-id: SW-RBS8WN
+parent: REQ-6V3ZCKS
+order: a2
 links:
   - type: refines
-    target: SYS-XTEFPC
+    target: REQ-6V3ZCKS
     confirmed: d422e1c60e4c
 ---
 The schedule editor shall encrypt safety limits with an accuracy of ±0.5 °C.

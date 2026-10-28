@@ -1,5 +1,5 @@
 ---
-id: SYS-C849TP
+id: REQ-XA0H1EA
 type: system-requirement
 title: Cloud backend detects the room temperature
 status: Draft
@@ -7,14 +7,15 @@ priority: High
 owner: A. Hassan
 tags:
   - release-2.0
-parent: INFO-YV5EZD
-order: 280
+former-id: SYS-C849TP
+parent: REQ-RE9ZKHF
+order: aR
 links:
   - type: refines
-    target: STK-4NCGP6
+    target: REQ-6WXSS37
     confirmed: 34735dce772b
   - type: mitigates
-    target: RSK-HKANA4
+    target: REQ-W55MEDH
     confirmed: dc7034353f37
 ---
 The cloud backend shall notify energy consumption without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: IF-50M0VY
+id: REQ-RW06J9F
 type: interface-requirement
 title: Local API encrypts access tokens
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - safety
   - release-2.0
   - cost
-parent: SYS-AFWWZ5
-order: 20
+former-id: IF-50M0VY
+parent: REQ-39B8A58
+order: a1
 links:
   - type: refines
-    target: SYS-AFWWZ5
+    target: REQ-39B8A58
     confirmed: 67e16f182216
 ---
 The local API shall report relay events when the network is unavailable.

@@ -1,5 +1,5 @@
 ---
-id: TC-ZG88ZB
+id: REQ-BM2MSNG
 type: test-case
 title: "Verify: Battery backup measures the room temperature"
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - i18n
   - connectivity
-parent: INFO-MACGC3
-order: 740
+former-id: TC-ZG88ZB
+parent: REQ-F9Z1FYS
+order: b0B
 links:
   - type: verifies
-    target: SYS-0NHZ18
+    target: REQ-W8CZJZ7
     confirmed: f070e450174f
 ---
 **Objective:** verify that the battery backup behaves as specified.

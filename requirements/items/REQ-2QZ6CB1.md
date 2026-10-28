@@ -1,16 +1,17 @@
 ---
-id: TC-YJ3Z6K
+id: REQ-2QZ6CB1
 type: test-case
 title: "Verify: Main PCB authenticates error conditions"
 status: Obsolete
-parent: INFO-MACGC3
-order: 30
+former-id: TC-YJ3Z6K
+parent: REQ-F9Z1FYS
+order: a2
 links:
   - type: verifies
-    target: SYS-J73TGA
+    target: REQ-6JFKKZM
     confirmed: c6ffa9bc0f1f
   - type: verifies
-    target: SW-YV9696
+    target: REQ-R0B1N6S
     confirmed: c7f9f81fe33d
 ---
 **Objective:** verify that the main PCB behaves as specified.

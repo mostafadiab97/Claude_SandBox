@@ -1,5 +1,5 @@
 ---
-id: TC-0W8T1P
+id: REQ-Z58ASAX
 type: test-case
 title: "Verify: Regulation loop notifys firmware images"
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: S. Adel
 tags:
   - power
-parent: INFO-MS9DAG
-order: 860
+former-id: TC-0W8T1P
+parent: REQ-XGWSK2K
+order: b0N
 links:
   - type: verifies
-    target: SYS-Q6QXAC
+    target: REQ-2D1K4F7
     confirmed: e67f8d759f40
 ---
 **Objective:** verify that the regulation loop behaves as specified.

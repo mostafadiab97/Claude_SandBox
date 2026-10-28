@@ -1,5 +1,5 @@
 ---
-id: RSK-4SK8XQ
+id: REQ-Q673PT3
 type: risk
 title: "Risk: secure boot fails to encrypt error conditions"
 status: Approved
@@ -8,8 +8,9 @@ owner: S. Adel
 tags:
   - security
   - power
-parent: INFO-YBRZDF
-order: 80
+former-id: RSK-4SK8XQ
+parent: REQ-YHZXG3P
+order: a7
 ---
 **Hazard:** the secure boot could fail to switch sensor readings.
 

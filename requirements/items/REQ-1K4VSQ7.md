@@ -1,5 +1,5 @@
 ---
-id: SW-CHH717
+id: REQ-1K4VSQ7
 type: software-requirement
 title: Calibrate access tokens — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - safety
-parent: SW-2R43RR
-order: 10
+former-id: SW-CHH717
+parent: REQ-VXQ5XQM
+order: a0
 links:
   - type: refines
-    target: SW-2R43RR
+    target: REQ-VXQ5XQM
     confirmed: 33f28ad21794
 ---
 The secure boot shall authenticate energy consumption within 200 ms.

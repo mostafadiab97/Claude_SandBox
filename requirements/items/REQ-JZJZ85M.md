@@ -1,5 +1,5 @@
 ---
-id: TC-M8RZX9
+id: REQ-JZJZ85M
 type: test-case
 title: "Verify: Backlight stores the room temperature"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: É. Laurent
 tags:
   - customer-request
-parent: INFO-HTSZ15
-order: 230
+former-id: TC-M8RZX9
+parent: REQ-Y9VHHKA
+order: aM
 links:
   - type: verifies
-    target: SYS-6Y9BHS
+    target: REQ-DVVNZG6
     confirmed: cb3485657a51
 ---
 **Objective:** verify that the backlight behaves as specified.

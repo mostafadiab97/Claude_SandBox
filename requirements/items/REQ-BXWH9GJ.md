@@ -1,15 +1,16 @@
 ---
-id: TC-GCB1K2
+id: REQ-BXWH9GJ
 type: test-case
 title: "Verify: Heating controller limits schedule entries"
 status: Approved
 priority: Medium
 owner: محمد علي
-parent: INFO-MS9DAG
-order: 40
+former-id: TC-GCB1K2
+parent: REQ-XGWSK2K
+order: a3
 links:
   - type: verifies
-    target: SYS-2B13NX
+    target: REQ-SC3ZA54
     confirmed: 5fda8f4cc9f5
 ---
 **Objective:** verify that the heating controller behaves as specified.

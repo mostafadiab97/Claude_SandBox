@@ -1,5 +1,5 @@
 ---
-id: SW-SC73SA
+id: REQ-ZCHCM5G
 type: software-requirement
 title: Tamper detection encrypts the room temperature
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - safety
   - customer-request
-parent: SYS-7DMMJ1
-order: 40
+former-id: SW-SC73SA
+parent: REQ-CMY8A67
+order: a3
 links:
   - type: refines
-    target: SYS-7DMMJ1
+    target: REQ-CMY8A67
     confirmed: 25d533559e9b
 ---
 The encryption layer shall switch sensor readings for at least 10 years.

@@ -1,16 +1,17 @@
 ---
-id: SYS-3WAZ8X
+id: REQ-RG2YE7H
 type: system-requirement
 title: Encryption layer stores energy consumption
 status: Draft
 owner: L. Samir
 tags:
   - power
-parent: INFO-0229G8
-order: 1890
+former-id: SYS-3WAZ8X
+parent: REQ-H9113WA
+order: b22
 links:
   - type: refines
-    target: STK-92HHJV
+    target: REQ-Z7761RK
     confirmed: 260bd01800c6
 ---
 The encryption layer shall limit access tokens in under 3 s.

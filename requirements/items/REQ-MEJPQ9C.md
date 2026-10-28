@@ -1,9 +1,10 @@
 ---
-id: IF-05M1KN
+id: REQ-MEJPQ9C
 type: interface-requirement
 title: "Signal 628: audit records"
 status: Approved
-parent: INFO-2TM0JP
-order: 6280
+former-id: IF-05M1KN
+parent: REQ-RJ0KHPT
+order: b97
 ---
 Interface signal number 628.

@@ -1,15 +1,16 @@
 ---
-id: HW-NJGCRQ
+id: REQ-ZYXTYVP
 type: hardware-requirement
 title: Secure boot reports user preferences
 status: Obsolete
 priority: Medium
 owner: A. Hassan
-parent: SYS-47V3JP
-order: 20
+former-id: HW-NJGCRQ
+parent: REQ-ETWMPXK
+order: a1
 links:
   - type: refines
-    target: SYS-47V3JP
+    target: REQ-ETWMPXK
     confirmed: a63603c2df5e
 ---
 The over-temperature monitor shall encrypt the connection state in under 3 s.

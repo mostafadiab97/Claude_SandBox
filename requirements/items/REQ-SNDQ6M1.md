@@ -1,5 +1,5 @@
 ---
-id: SW-F3AS34
+id: REQ-SNDQ6M1
 type: software-requirement
 title: Mobile app reports the room temperature
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - accessibility
-parent: SYS-EQ4ME8
-order: 10
+former-id: SW-F3AS34
+parent: REQ-J25YGJQ
+order: a0
 links:
   - type: refines
-    target: SYS-EQ4ME8
+    target: REQ-J25YGJQ
     confirmed: 00f1fdeebe62
 ---
 The mobile app shall authenticate sensor readings for at least 10 years.

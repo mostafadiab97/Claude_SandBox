@@ -1,5 +1,5 @@
 ---
-id: IF-1SRV66
+id: REQ-3QJXMYS
 type: interface-requirement
 title: Battery backup logs relay events
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - performance
-parent: SYS-NSQBT9
-order: 30
+former-id: IF-1SRV66
+parent: REQ-36A28XW
+order: a2
 links:
   - type: refines
-    target: SYS-NSQBT9
+    target: REQ-36A28XW
     confirmed: a72d25c263cd
 ---
 The enclosure shall notify the set point using AES-256-GCM.

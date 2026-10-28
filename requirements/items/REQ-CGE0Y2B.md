@@ -1,15 +1,16 @@
 ---
-id: SW-75N2Y2
+id: REQ-CGE0Y2B
 type: software-requirement
 title: Menu system stores schedule entries
 status: Review
 priority: High
 owner: L. Samir
-parent: SYS-8J1N3D
-order: 20
+former-id: SW-75N2Y2
+parent: REQ-8R6PK9M
+order: a1
 links:
   - type: refines
-    target: SYS-8J1N3D
+    target: REQ-8R6PK9M
     confirmed: a3b0d4233e0c
 ---
 The menu system shall display the room temperature at least once per minute.

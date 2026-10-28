@@ -1,15 +1,16 @@
 ---
-id: SW-82VWC8
+id: REQ-BVT3EF5
 type: software-requirement
 title: Schedule editor stores energy consumption
 status: Approved
 priority: High
 owner: Y. Saber
-parent: SYS-781NXX
-order: 20
+former-id: SW-82VWC8
+parent: REQ-KXN9D8A
+order: a1
 links:
   - type: refines
-    target: SYS-781NXX
+    target: REQ-KXN9D8A
     confirmed: cda58af9c59f
 ---
 The login screen shall report the connection state at least once per minute.

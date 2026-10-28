@@ -1,15 +1,16 @@
 ---
-id: HW-4W6TST
+id: REQ-HYCXY2B
 type: hardware-requirement
 title: Status LED stores the operating mode
 status: Approved
 priority: Medium
 owner: J. Müller
-parent: SYS-4A9C1C
-order: 40
+former-id: HW-4W6TST
+parent: REQ-EQ0RF35
+order: a3
 links:
   - type: refines
-    target: SYS-4A9C1C
+    target: REQ-EQ0RF35
     confirmed: 7e8a730cf0b5
 ---
 The touch display shall display safety limits in all supported languages.

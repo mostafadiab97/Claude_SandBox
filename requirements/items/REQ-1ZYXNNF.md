@@ -1,5 +1,5 @@
 ---
-id: SYS-KFH2GP
+id: REQ-1ZYXNNF
 type: system-requirement
 title: Login screen notifys the set point
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - cost
   - safety
   - release-2.0
-parent: INFO-2XXBRS
-order: 1080
+former-id: SYS-KFH2GP
+parent: REQ-QYXGSQ4
+order: b0j
 links:
   - type: refines
-    target: STK-639N9T
+    target: REQ-EMZ19WQ
     confirmed: 252da9caa62c
 ---
 The login screen shall encrypt user preferences at least once per minute.

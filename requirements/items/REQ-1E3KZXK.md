@@ -1,5 +1,5 @@
 ---
-id: TC-ZX2A1Z
+id: REQ-1E3KZXK
 type: test-case
 title: "Regression: Regulation loop reports schedule entries"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - performance
   - EMC
-parent: INFO-ECHASH
-order: 1600
+former-id: TC-ZX2A1Z
+parent: REQ-6H15AV2
+order: b1Z
 links:
   - type: verifies
-    target: SYS-T6WXDY
+    target: REQ-B5PZTS1
     confirmed: e7cb857d34f0
 ---
 **Objective:** verify that the device behaves as specified.

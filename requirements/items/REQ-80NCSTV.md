@@ -1,17 +1,18 @@
 ---
-id: DEF-KYY814
+id: REQ-80NCSTV
 type: defect
 title: "Defect: battery backup does not encrypt energy consumption"
 status: Review
 owner: S. Adel
-parent: INFO-BB7M2N
-order: 140
+former-id: DEF-KYY814
+parent: REQ-995FBPM
+order: aD
 links:
   - type: relates-to
-    target: TC-7THS3R
+    target: REQ-SD5ZA8M
     confirmed: 8936598ce4a6
   - type: relates-to
-    target: SYS-DS9BCD
+    target: REQ-R9KTZAB
     confirmed: 71372d39e051
 ---
 Found during regression testing of build 2.6.39.

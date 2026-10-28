@@ -1,5 +1,5 @@
 ---
-id: SW-JJGKYB
+id: REQ-MW7HP51
 type: software-requirement
 title: Heating controller stores relay events
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - power
   - i18n
-parent: SYS-19PGBF
-order: 20
+former-id: SW-JJGKYB
+parent: REQ-MEZG2J4
+order: a1
 links:
   - type: refines
-    target: SYS-19PGBF
+    target: REQ-MEZG2J4
     confirmed: ae3b18f7d74c
 ---
 The heating controller shall encrypt schedule entries at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: SYS-FY6GGE
+id: REQ-HCE87VW
 type: system-requirement
 title: Boiler interface measures the set point
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - release-2.0
   - safety
-parent: INFO-6DQTKV
-order: 370
+former-id: SYS-FY6GGE
+parent: REQ-7ED7ZET
+order: aa
 links:
   - type: refines
-    target: STK-Q8BNKR
+    target: REQ-FY0A6ZE
     confirmed: 6deaa78e6ab3
 ---
 The boiler interface shall encrypt the connection state with an accuracy of ±0.5 °C.

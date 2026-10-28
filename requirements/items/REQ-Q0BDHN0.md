@@ -1,5 +1,5 @@
 ---
-id: SW-4X3Y36
+id: REQ-Q0BDHN0
 type: software-requirement
 title: Zone valve stores safety limits
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - release-2.0
   - EMC
-parent: SYS-HPD0VD
-order: 30
+former-id: SW-4X3Y36
+parent: REQ-6MCMEW9
+order: a2
 links:
   - type: refines
-    target: SYS-HPD0VD
+    target: REQ-6MCMEW9
     confirmed: 5718299a4e75
 ---
 The heat pump driver shall log user preferences without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: TC-H0XX17
+id: REQ-AKNKNYS
 type: test-case
 title: "Verify: Notification service synchronises the room temperature"
 status: Review
@@ -7,14 +7,15 @@ priority: Medium
 tags:
   - ux
   - connectivity
-parent: INFO-J0FETE
-order: 340
+former-id: TC-H0XX17
+parent: REQ-WR5ZJN9
+order: aX
 links:
   - type: verifies
-    target: SYS-6RXFNT
+    target: REQ-G6H7R8E
     confirmed: 58653acb842c
   - type: verifies
-    target: SW-A7A3QC
+    target: REQ-FZ6DQ50
     confirmed: 846557588b4a
 ---
 **Objective:** verify that the notification service behaves as specified.

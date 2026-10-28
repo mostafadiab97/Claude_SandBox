@@ -1,14 +1,15 @@
 ---
-id: IF-6JHSW4
+id: REQ-0RSC6XS
 type: interface-requirement
 title: Calibrate firmware images — detail
 status: Approved
 owner: Y. Saber
-parent: IF-CP4CG7
-order: 10
+former-id: IF-6JHSW4
+parent: REQ-X6RZDGG
+order: a0
 links:
   - type: refines
-    target: IF-CP4CG7
+    target: REQ-X6RZDGG
     confirmed: ad3e93e069ec
 ---
 The device registry shall display firmware images in all supported languages.

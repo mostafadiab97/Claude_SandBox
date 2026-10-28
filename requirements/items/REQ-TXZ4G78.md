@@ -1,5 +1,5 @@
 ---
-id: DE-590P8T
+id: REQ-TXZ4G78
 type: design-element
 title: Module user_account_service_20
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: S. Adel
 tags:
   - release-2.0
-parent: SW-HJ5ZZW
-order: 20
+former-id: DE-590P8T
+parent: REQ-43HFSMD
+order: a1
 links:
   - type: implements
-    target: SW-HJ5ZZW
+    target: REQ-43HFSMD
     confirmed: 8e0d5aa97221
 ---
 Implemented in `src/cloud/user_account_service.c`.

@@ -1,5 +1,5 @@
 ---
-id: IF-J50DYN
+id: REQ-CPSCEYE
 type: interface-requirement
 title: Restore humidity values — detail
 status: Review
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - accessibility
   - security
-parent: IF-X01JDA
-order: 10
+former-id: IF-J50DYN
+parent: REQ-0B7GRWT
+order: a0
 links:
   - type: refines
-    target: IF-X01JDA
+    target: REQ-0B7GRWT
     confirmed: 465eedcb0736
 ---
 The boiler interface shall measure error conditions within 200 ms.

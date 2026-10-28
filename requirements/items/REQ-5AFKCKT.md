@@ -1,5 +1,5 @@
 ---
-id: SW-2ZRFTA
+id: REQ-5AFKCKT
 type: software-requirement
 title: Telemetry pipeline stores audit records
 status: Review
@@ -9,11 +9,12 @@ tags:
   - power
   - EMC
   - regulatory
-parent: SYS-KACHNP
-order: 20
+former-id: SW-2ZRFTA
+parent: REQ-RCET7JB
+order: a1
 links:
   - type: refines
-    target: SYS-KACHNP
+    target: REQ-RCET7JB
     confirmed: 6d9bc192ec13
 ---
 The cloud backend shall notify safety limits with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: SYS-1ZDBX0
+id: REQ-S3STR5Z
 type: system-requirement
 title: Power supply stores the room temperature
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 tags:
   - security
   - ux
-parent: INFO-A6P9A8
-order: 200
+former-id: SYS-1ZDBX0
+parent: REQ-CMCS31A
+order: aJ
 links:
   - type: refines
-    target: STK-2STGXE
+    target: REQ-67MQ0AB
     confirmed: c77fe61daf4b
 ---
 The power supply shall notify energy consumption for up to 8 zones.

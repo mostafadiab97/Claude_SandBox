@@ -1,5 +1,5 @@
 ---
-id: SW-VW0QDP
+id: REQ-5H5EN1D
 type: software-requirement
 title: Heating controller synchronises the set point
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - security
   - customer-request
   - power
-parent: SYS-S1BVE9
-order: 40
+former-id: SW-VW0QDP
+parent: REQ-T9WRD80
+order: a3
 links:
   - type: refines
-    target: SYS-S1BVE9
+    target: REQ-T9WRD80
     confirmed: 7041e83377a5
 ---
 The heat pump driver shall store humidity values using AES-256-GCM.

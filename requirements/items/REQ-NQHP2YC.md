@@ -1,17 +1,18 @@
 ---
-id: SYS-APGJQA
+id: REQ-NQHP2YC
 type: system-requirement
 title: Login screen validates humidity values
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: INFO-2XXBRS
-order: 1010
+former-id: SYS-APGJQA
+parent: REQ-QYXGSQ4
+order: b0c
 links:
   - type: refines
     target: STK-H87WHA
   - type: mitigates
-    target: RSK-8FFR90
+    target: REQ-6TFCRWD
     confirmed: 63c04ae06813
 ---
 The login screen shall limit audit records for up to 8 zones.

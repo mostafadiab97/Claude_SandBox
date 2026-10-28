@@ -1,5 +1,5 @@
 ---
-id: IF-QEHQ9K
+id: REQ-N0EXH4Q
 type: interface-requirement
 title: User account service displays sensor readings
 status: Draft
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - release-1.0
   - power
-parent: SYS-MQY2B0
-order: 20
+former-id: IF-QEHQ9K
+parent: REQ-090RJ6Q
+order: a1
 links:
   - type: refines
-    target: SYS-MQY2B0
+    target: REQ-090RJ6Q
     confirmed: ab87fdd691b9
 ---
 The telemetry pipeline shall display audit records at least once per minute.

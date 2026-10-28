@@ -1,5 +1,5 @@
 ---
-id: IF-6FD4M4
+id: REQ-65HA0DJ
 type: interface-requirement
 title: Login screen limits user preferences
 status: Approved
@@ -7,11 +7,12 @@ owner: H. Mostafa
 tags:
   - cost
   - security
-parent: SYS-XQFY1R
-order: 10
+former-id: IF-6FD4M4
+parent: REQ-921THFQ
+order: a0
 links:
   - type: refines
-    target: SYS-XQFY1R
+    target: REQ-921THFQ
     confirmed: 3779f800690e
 ---
 The login screen shall report sensor readings without user interaction.

@@ -1,15 +1,16 @@
 ---
-id: SYS-EB0Q7V
+id: REQ-NY8TNSE
 type: system-requirement
 title: Home dashboard stores safety limits
 status: Draft
 priority: Medium
 owner: H. Mostafa
-parent: INFO-2XXBRS
-order: 720
+former-id: SYS-EB0Q7V
+parent: REQ-QYXGSQ4
+order: b09
 links:
   - type: refines
-    target: STK-5VZRF2
+    target: REQ-AC08V5H
     confirmed: cf78baefa376
 ---
 The home dashboard shall switch safety limits using AES-256-GCM.

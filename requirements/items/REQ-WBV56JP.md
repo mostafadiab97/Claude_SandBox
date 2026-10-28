@@ -1,5 +1,5 @@
 ---
-id: SW-PY0PQQ
+id: REQ-WBV56JP
 type: software-requirement
 title: Bluetooth LE link calibrates sensor readings
 status: Review
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - EMC
   - power
-parent: SYS-WYF7D8
-order: 30
+former-id: SW-PY0PQQ
+parent: REQ-9FPN2X9
+order: a2
 links:
   - type: refines
-    target: SYS-WYF7D8
+    target: REQ-9FPN2X9
     confirmed: 40dbdbb8a1de
 ---
 The local API shall report the operating mode in all supported languages.

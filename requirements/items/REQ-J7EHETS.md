@@ -1,5 +1,5 @@
 ---
-id: TC-DXG9A2
+id: REQ-J7EHETS
 type: test-case
 title: "Verify: Cloud backend detects the set point"
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - ux
   - regulatory
-parent: INFO-7P4D8D
-order: 1080
+former-id: TC-DXG9A2
+parent: REQ-8351896
+order: b0j
 links:
   - type: verifies
-    target: SYS-7560Q0
+    target: REQ-E0XKBA1
     confirmed: 9d3e4fe37fb5
 ---
 **Objective:** verify that the cloud backend behaves as specified.

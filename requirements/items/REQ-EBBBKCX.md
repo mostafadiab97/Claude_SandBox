@@ -1,15 +1,16 @@
 ---
-id: HW-57FT3E
+id: REQ-EBBBKCX
 type: hardware-requirement
 title: Relay board logs schedule entries
 status: Approved
 priority: High
 owner: Y. Saber
-parent: SYS-QS89W9
-order: 30
+former-id: HW-57FT3E
+parent: REQ-CR8428R
+order: a2
 links:
   - type: refines
-    target: SYS-QS89W9
+    target: REQ-CR8428R
     confirmed: 257707a82d4d
 ---
 The enclosure shall log the connection state in under 3 s.

@@ -1,14 +1,15 @@
 ---
-id: SYS-S2EZJF
+id: REQ-6ESJ1D4
 type: system-requirement
 title: Home dashboard restores energy consumption
 status: Review
 priority: Low
-parent: INFO-2XXBRS
-order: 630
+former-id: SYS-S2EZJF
+parent: REQ-QYXGSQ4
+order: b00
 links:
   - type: refines
-    target: STK-639N9T
+    target: REQ-EMZ19WQ
     confirmed: 252da9caa62c
 ---
 The home dashboard shall measure the set point for up to 8 zones.

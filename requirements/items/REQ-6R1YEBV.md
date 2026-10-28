@@ -1,15 +1,16 @@
 ---
-id: SW-KPC8AT
+id: REQ-6R1YEBV
 type: software-requirement
 title: Bluetooth LE link measures user preferences
 status: Approved
 priority: High
 owner: K. Tanaka
-parent: SYS-KMXB94
-order: 20
+former-id: SW-KPC8AT
+parent: REQ-6CVFK0C
+order: a1
 links:
   - type: refines
-    target: SYS-KMXB94
+    target: REQ-6CVFK0C
     confirmed: ef5919f87358
 ---
 The pairing process shall measure energy consumption with an accuracy of ±0.5 °C.

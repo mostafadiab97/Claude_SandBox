@@ -1,5 +1,5 @@
 ---
-id: SW-Z419WZ
+id: REQ-QTFQ9VH
 type: software-requirement
 title: User account service measures safety limits
 status: Draft
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - security
   - accessibility
-parent: SYS-F5DVP4
-order: 40
+former-id: SW-Z419WZ
+parent: REQ-7MXJ7E0
+order: a3
 links:
   - type: refines
-    target: SYS-F5DVP4
+    target: REQ-7MXJ7E0
     confirmed: fd7bc4fcdfea
 ---
 The cloud backend shall notify audit records for at least 10 years.

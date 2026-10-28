@@ -1,18 +1,19 @@
 ---
-id: TC-WKQC2D
+id: REQ-X1PZG2G
 type: test-case
 title: "Verify: Status LED switchs the set point"
 status: Obsolete
 priority: Medium
 owner: محمد علي
-parent: INFO-HTSZ15
-order: 260
+former-id: TC-WKQC2D
+parent: REQ-Y9VHHKA
+order: aP
 links:
   - type: verifies
-    target: SYS-M3FMZZ
+    target: REQ-2965TER
     confirmed: 462438fa0d84
   - type: verifies
-    target: SW-5HV8ZB
+    target: REQ-T15RRBN
     confirmed: 3d295cfeb105
 ---
 **Objective:** verify that the status LED behaves as specified.

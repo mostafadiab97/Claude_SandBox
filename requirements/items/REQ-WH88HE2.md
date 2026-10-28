@@ -1,5 +1,5 @@
 ---
-id: SW-DFGPG9
+id: REQ-WH88HE2
 type: software-requirement
 title: Menu system encrypts schedule entries
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: S. Adel
 tags:
   - regulatory
-parent: SYS-045KKD
-order: 40
+former-id: SW-DFGPG9
+parent: REQ-96ATVAV
+order: a3
 links:
   - type: refines
-    target: SYS-045KKD
+    target: REQ-96ATVAV
     confirmed: 1b2f3a28be4f
 ---
 The status LED shall limit the room temperature in all supported languages.

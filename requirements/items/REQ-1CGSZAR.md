@@ -1,5 +1,5 @@
 ---
-id: SYS-PERCNX
+id: REQ-1CGSZAR
 type: system-requirement
 title: Login screen notifys firmware images
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - performance
   - safety
-parent: INFO-2XXBRS
-order: 1140
+former-id: SYS-PERCNX
+parent: REQ-QYXGSQ4
+order: b0p
 links:
   - type: refines
-    target: STK-ND3D08
+    target: REQ-BWGMSWJ
     confirmed: df91c673f737
 ---
 The login screen shall synchronise audit records after a power loss.

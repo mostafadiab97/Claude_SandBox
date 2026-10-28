@@ -1,15 +1,16 @@
 ---
-id: TC-1GXVKX
+id: REQ-G0Q8CQ6
 type: test-case
 title: "Verify: Device registry reports sensor readings"
 status: Draft
 priority: Low
 owner: A. Hassan
-parent: INFO-7P4D8D
-order: 30
+former-id: TC-1GXVKX
+parent: REQ-8351896
+order: a2
 links:
   - type: verifies
-    target: SYS-RCK4NZ
+    target: REQ-758F5BD
     confirmed: 32fb1eff344d
 ---
 **Objective:** verify that the device registry behaves as specified.

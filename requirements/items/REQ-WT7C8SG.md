@@ -1,15 +1,16 @@
 ---
-id: TC-TYHZZ5
+id: REQ-WT7C8SG
 type: test-case
 title: "Verify: Menu system measures humidity values"
 status: Obsolete
 priority: High
 owner: H. Mostafa
-parent: INFO-HTSZ15
-order: 790
+former-id: TC-TYHZZ5
+parent: REQ-Y9VHHKA
+order: b0G
 links:
   - type: verifies
-    target: SYS-8ZNJBE
+    target: REQ-9GY82M1
     confirmed: d6a67816b8b6
 ---
 **Objective:** verify that the menu system behaves as specified.

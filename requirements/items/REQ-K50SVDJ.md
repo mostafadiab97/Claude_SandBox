@@ -1,5 +1,5 @@
 ---
-id: SW-KBN3PB
+id: REQ-K50SVDJ
 type: software-requirement
 title: Schedule editor measures error conditions
 status: Obsolete
@@ -8,11 +8,12 @@ tags:
   - security
   - power
   - customer-request
-parent: SYS-67M60W
-order: 20
+former-id: SW-KBN3PB
+parent: REQ-A19TWX0
+order: a1
 links:
   - type: refines
-    target: SYS-67M60W
+    target: REQ-A19TWX0
     confirmed: 1664afe6fc4e
 ---
 The login screen shall report schedule entries without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: TC-XFNW97
+id: REQ-Q8QCP3Q
 type: test-case
 title: "Verify: Over-temperature monitor logs the connection state"
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - regulatory
   - accessibility
   - performance
-parent: INFO-Z4TW4B
-order: 70
+former-id: TC-XFNW97
+parent: REQ-K6FGAY0
+order: a6
 links:
   - type: verifies
-    target: SYS-KZYDJR
+    target: REQ-YCQG7EF
     confirmed: c4c96610c247
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SYS-FMC0YD
+id: REQ-QWGMBHE
 type: system-requirement
 title: Boiler interface detects schedule entries
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: N. Kamal
 tags:
   - EMC
-parent: INFO-6DQTKV
-order: 180
+former-id: SYS-FMC0YD
+parent: REQ-7ED7ZET
+order: aH
 links:
   - type: refines
-    target: STK-EFJRJ9
+    target: REQ-6WZCEAT
     confirmed: fc922ec1a72e
 ---
 The boiler interface shall measure energy consumption with an accuracy of ±0.5 °C.

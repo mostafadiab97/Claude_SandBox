@@ -1,15 +1,16 @@
 ---
-id: IF-F647ZF
+id: REQ-T63G7H5
 type: interface-requirement
 title: Power supply calibrates safety limits
 status: Review
 priority: Medium
 owner: Y. Saber
-parent: SYS-J73TGA
-order: 10
+former-id: IF-F647ZF
+parent: REQ-6JFKKZM
+order: a0
 links:
   - type: refines
-    target: SYS-J73TGA
+    target: REQ-6JFKKZM
     confirmed: c6ffa9bc0f1f
 ---
 The main PCB shall calibrate audit records at least once per minute.

@@ -1,14 +1,15 @@
 ---
-id: TC-QSX4BH
+id: REQ-Z0ZJ9WP
 type: test-case
 title: "Verify: Heating controller reports safety limits"
 status: Review
 owner: M. Farouk
-parent: INFO-MS9DAG
-order: 560
+former-id: TC-QSX4BH
+parent: REQ-XGWSK2K
+order: at
 links:
   - type: verifies
-    target: SYS-HZRAQ2
+    target: REQ-MN0BSTQ
     confirmed: 67e08d743ee6
 ---
 **Objective:** verify that the heating controller behaves as specified.

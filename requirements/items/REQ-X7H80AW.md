@@ -1,5 +1,5 @@
 ---
-id: IF-R8W59D
+id: REQ-X7H80AW
 type: interface-requirement
 title: Synchronise audit records — detail
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - cost
   - regulatory
   - ux
-parent: IF-40FZW3
-order: 10
+former-id: IF-R8W59D
+parent: REQ-FJEZNQQ
+order: a0
 links:
   - type: refines
-    target: IF-40FZW3
+    target: REQ-FJEZNQQ
     confirmed: 742369f303cc
 ---
 The user account service shall encrypt sensor readings below 0.5 W in standby.

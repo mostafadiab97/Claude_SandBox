@@ -1,13 +1,14 @@
 ---
-id: HW-M0MDB3
+id: REQ-1BZP3SM
 type: hardware-requirement
 title: Enclosure measures the connection state
 status: Approved
-parent: SYS-R8S84Y
-order: 20
+former-id: HW-M0MDB3
+parent: REQ-VTMBTS5
+order: a1
 links:
   - type: refines
-    target: SYS-R8S84Y
+    target: REQ-VTMBTS5
     confirmed: 1adc29377b0d
 ---
 The power supply shall report sensor readings in under 3 s.

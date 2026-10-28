@@ -1,15 +1,16 @@
 ---
-id: IF-FRC2XJ
+id: REQ-X7XGW7T
 type: interface-requirement
 title: Watchdog measures firmware images
 status: Obsolete
 priority: Medium
 owner: A. Hassan
-parent: SYS-C3RKXE
-order: 20
+former-id: IF-FRC2XJ
+parent: REQ-YPG30G6
+order: a1
 links:
   - type: refines
-    target: SYS-C3RKXE
+    target: REQ-YPG30G6
     confirmed: 4c2aa84ed807
 ---
 The watchdog shall switch error conditions with an accuracy of ±0.5 °C.

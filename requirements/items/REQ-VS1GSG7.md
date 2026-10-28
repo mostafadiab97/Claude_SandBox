@@ -1,5 +1,5 @@
 ---
-id: DE-NDT24M
+id: REQ-VS1GSG7
 type: design-element
 title: Module heating_controller_39
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: R. Nabil
 tags:
   - connectivity
-parent: SW-KMSG1B
-order: 10
+former-id: DE-NDT24M
+parent: REQ-JDPXYX3
+order: a0
 links:
   - type: implements
-    target: SW-KMSG1B
+    target: REQ-JDPXYX3
     confirmed: 9d9c75efcd0a
 ---
 Implemented in `src/heat/heating_controller.c`.

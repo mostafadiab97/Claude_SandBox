@@ -1,5 +1,5 @@
 ---
-id: TC-2M3NM4
+id: REQ-CE2DRSP
 type: test-case
 title: "Regression: Bluetooth LE link reports sensor readings"
 status: Draft
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - security
   - i18n
-parent: INFO-ECHASH
-order: 1740
+former-id: TC-2M3NM4
+parent: REQ-6H15AV2
+order: b1n
 links:
   - type: verifies
-    target: SYS-7RZPD7
+    target: REQ-84ZV56S
     confirmed: ff918beefe64
 ---
 **Objective:** verify that the device behaves as specified.

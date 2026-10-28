@@ -1,15 +1,16 @@
 ---
-id: HW-V286RE
+id: REQ-SPWR9B3
 type: hardware-requirement
 title: Limit the set point — detail
 status: Draft
 priority: Medium
 owner: K. Tanaka
-parent: HW-6FKT8A
-order: 10
+former-id: HW-V286RE
+parent: REQ-3EGH71E
+order: a0
 links:
   - type: refines
-    target: HW-6FKT8A
+    target: REQ-3EGH71E
     confirmed: 6c8218dda9ff
 ---
 The relay board shall limit schedule entries for at least 10 years.

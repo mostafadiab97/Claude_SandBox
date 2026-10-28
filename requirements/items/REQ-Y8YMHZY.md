@@ -1,5 +1,5 @@
 ---
-id: TC-0GN10Q
+id: REQ-Y8YMHZY
 type: test-case
 title: "Regression: Login screen switchs firmware images"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - safety
   - accessibility
-parent: INFO-ECHASH
-order: 1450
+former-id: TC-0GN10Q
+parent: REQ-6H15AV2
+order: b1K
 links:
   - type: verifies
-    target: SYS-HC7415
+    target: REQ-TDS2MHG
     confirmed: 072f7558d179
 ---
 **Objective:** verify that the device behaves as specified.

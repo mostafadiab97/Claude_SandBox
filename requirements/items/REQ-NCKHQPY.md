@@ -1,5 +1,5 @@
 ---
-id: SW-S3Z6W7
+id: REQ-NCKHQPY
 type: software-requirement
 title: Zigbee radio authenticates the set point
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - customer-request
   - security
-parent: SYS-QKH3DT
-order: 20
+former-id: SW-S3Z6W7
+parent: REQ-RHQ31WJ
+order: a1
 links:
   - type: refines
-    target: SYS-QKH3DT
+    target: REQ-RHQ31WJ
     confirmed: 531d33ab57d8
 ---
 The Wi-Fi module shall encrypt error conditions without user interaction.

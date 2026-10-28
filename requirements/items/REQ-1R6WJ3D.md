@@ -1,15 +1,16 @@
 ---
-id: SYS-BJEV5G
+id: REQ-1R6WJ3D
 type: system-requirement
 title: Local API detects user preferences
 status: Obsolete
 priority: Low
 owner: J. Müller
-parent: INFO-NRVHA2
-order: 80
+former-id: SYS-BJEV5G
+parent: REQ-6R94HFM
+order: a7
 links:
   - type: refines
-    target: STK-22X165
+    target: REQ-QCFMNYV
     confirmed: 0023c9af8e7d
 ---
 The local API shall validate sensor readings with an accuracy of ±0.5 °C.

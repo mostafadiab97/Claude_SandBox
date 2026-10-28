@@ -1,5 +1,5 @@
 ---
-id: SYS-4A8MB5
+id: REQ-P92XCH2
 type: system-requirement
 title: Home dashboard restores sensor readings
 status: Review
@@ -8,11 +8,12 @@ tags:
   - customer-request
   - power
   - regulatory
-parent: INFO-2XXBRS
-order: 410
+former-id: SYS-4A8MB5
+parent: REQ-QYXGSQ4
+order: ae
 links:
   - type: refines
-    target: STK-HBX3YS
+    target: REQ-S86K9Q8
     confirmed: b42a2f94d25d
 ---
 The home dashboard shall synchronise humidity values in all supported languages.

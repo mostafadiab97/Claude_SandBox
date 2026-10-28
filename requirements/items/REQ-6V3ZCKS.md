@@ -1,14 +1,15 @@
 ---
-id: SYS-XTEFPC
+id: REQ-6V3ZCKS
 type: system-requirement
 title: Schedule editor stores the connection state
 status: Review
 priority: Medium
-parent: INFO-2XXBRS
-order: 600
+former-id: SYS-XTEFPC
+parent: REQ-QYXGSQ4
+order: ax
 links:
   - type: refines
-    target: STK-639N9T
+    target: REQ-EMZ19WQ
     confirmed: 252da9caa62c
 ---
 The schedule editor shall limit sensor readings at least once per minute.

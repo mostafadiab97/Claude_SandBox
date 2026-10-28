@@ -1,5 +1,5 @@
 ---
-id: SYS-11FFG3
+id: REQ-81YFJH6
 type: system-requirement
 title: Battery backup encrypts safety limits
 status: Review
@@ -9,14 +9,15 @@ tags:
   - security
   - performance
   - release-2.0
-parent: INFO-A6P9A8
-order: 100
+former-id: SYS-11FFG3
+parent: REQ-CMCS31A
+order: a9
 links:
   - type: refines
-    target: STK-W18EQ4
+    target: REQ-GPRWN7N
     confirmed: aeec35e06317
   - type: mitigates
-    target: RSK-CYTG6T
+    target: REQ-VDC6H37
     confirmed: 2c8e05c3e368
 ---
 The battery backup shall store the connection state in under 3 s.

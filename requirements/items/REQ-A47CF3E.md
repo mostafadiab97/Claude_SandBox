@@ -1,15 +1,16 @@
 ---
-id: SW-67K183
+id: REQ-A47CF3E
 type: software-requirement
 title: Restore the room temperature — detail
 status: Review
 priority: Low
 owner: N. Kamal
-parent: SW-HZGZNC
-order: 10
+former-id: SW-67K183
+parent: REQ-6CNRZBF
+order: a0
 links:
   - type: refines
-    target: SW-HZGZNC
+    target: REQ-6CNRZBF
     confirmed: 6d7b4de8b6de
 ---
 The over-temperature monitor shall synchronise relay events below 0.5 W in standby.

@@ -1,5 +1,5 @@
 ---
-id: HW-6F81V4
+id: REQ-K8DGRMX
 type: hardware-requirement
 title: Wi-Fi module measures humidity values
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - security
   - release-2.0
   - safety
-parent: SYS-VGDQPF
-order: 10
+former-id: HW-6F81V4
+parent: REQ-YYPX12F
+order: a0
 links:
   - type: refines
-    target: SYS-VGDQPF
+    target: REQ-YYPX12F
     confirmed: 3d1d8edc4849
 ---
 The Zigbee radio shall detect the operating mode in under 3 s.

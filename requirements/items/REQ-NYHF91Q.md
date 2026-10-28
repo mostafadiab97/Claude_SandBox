@@ -1,15 +1,16 @@
 ---
-id: IF-647FRR
+id: REQ-NYHF91Q
 type: interface-requirement
 title: Rotary knob restores the room temperature
 status: Draft
 priority: Medium
 owner: É. Laurent
-parent: SYS-H53211
-order: 40
+former-id: IF-647FRR
+parent: REQ-DTEFJYX
+order: a3
 links:
   - type: refines
-    target: SYS-H53211
+    target: REQ-DTEFJYX
     confirmed: af6e93d43894
 ---
 The rotary knob shall encrypt the room temperature when the network is unavailable.

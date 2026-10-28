@@ -1,17 +1,18 @@
 ---
-id: TC-WFCPAH
+id: REQ-RJ5VN18
 type: test-case
 title: "Verify: Cloud backend validates the room temperature"
 status: Approved
 priority: High
-parent: INFO-7P4D8D
-order: 20
+former-id: TC-WFCPAH
+parent: REQ-8351896
+order: a1
 links:
   - type: verifies
-    target: SYS-XFVHXG
+    target: REQ-4BHTWA2
     confirmed: 6ba023b53f4f
   - type: verifies
-    target: SW-2C9HYA
+    target: REQ-JG21K63
     confirmed: 4b4be5d0d1b1
 ---
 **Objective:** verify that the cloud backend behaves as specified.

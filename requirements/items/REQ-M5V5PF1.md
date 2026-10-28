@@ -1,5 +1,5 @@
 ---
-id: SYS-DHYCNS
+id: REQ-M5V5PF1
 type: system-requirement
 title: Zigbee radio switchs relay events
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - accessibility
   - cost
   - power
-parent: INFO-NRVHA2
-order: 540
+former-id: SYS-DHYCNS
+parent: REQ-6R94HFM
+order: ar
 links:
   - type: refines
-    target: STK-71VSKB
+    target: REQ-8TVXMWR
     confirmed: 994ecb1eff6f
 ---
 The Zigbee radio shall report user preferences without user interaction.

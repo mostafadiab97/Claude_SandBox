@@ -1,15 +1,16 @@
 ---
-id: SW-6G04SM
+id: REQ-WYWB6XG
 type: software-requirement
 title: Over-temperature monitor encrypts safety limits
 status: Draft
 priority: High
 owner: L. Samir
-parent: SYS-9C32EE
-order: 10
+former-id: SW-6G04SM
+parent: REQ-9JQBZHM
+order: a0
 links:
   - type: refines
-    target: SYS-9C32EE
+    target: REQ-9JQBZHM
     confirmed: 3b09685c237a
 ---
 The over-temperature monitor shall validate the room temperature within 200 ms.

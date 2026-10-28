@@ -1,5 +1,5 @@
 ---
-id: DE-MFWK74
+id: REQ-JHVXZ0J
 type: design-element
 title: Module watchdog_83
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - security
   - performance
-parent: SW-NKC5M4
-order: 20
+former-id: DE-MFWK74
+parent: REQ-RSC7QHW
+order: a1
 links:
   - type: implements
-    target: SW-NKC5M4
+    target: REQ-RSC7QHW
     confirmed: eec973609c6b
 ---
 Implemented in `src/safe/watchdog.c`.

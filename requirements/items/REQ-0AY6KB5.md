@@ -1,5 +1,5 @@
 ---
-id: SW-5RZX8H
+id: REQ-0AY6KB5
 type: software-requirement
 title: Secure boot stores schedule entries
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 tags:
   - ux
   - security
-parent: SYS-AHR17G
-order: 20
+former-id: SW-5RZX8H
+parent: REQ-886M8H8
+order: a1
 links:
   - type: refines
-    target: SYS-AHR17G
+    target: REQ-886M8H8
     confirmed: f886c26f41b1
 ---
 The tamper detection shall authenticate relay events after a power loss.

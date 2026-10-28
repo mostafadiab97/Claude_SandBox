@@ -1,5 +1,5 @@
 ---
-id: IF-WNX2SV
+id: REQ-ES7CG55
 type: interface-requirement
 title: Enclosure encrypts error conditions
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - power
-parent: SYS-CN7FHD
-order: 20
+former-id: IF-WNX2SV
+parent: REQ-27VHM11
+order: a1
 links:
   - type: refines
-    target: SYS-CN7FHD
+    target: REQ-27VHM11
     confirmed: 5f0cd41f8d2d
 ---
 The relay board shall calibrate safety limits with an accuracy of ±0.5 °C.

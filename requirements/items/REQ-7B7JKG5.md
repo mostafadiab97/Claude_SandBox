@@ -1,10 +1,11 @@
 ---
-id: IF-HWGPDC
+id: REQ-7B7JKG5
 type: interface-requirement
 title: "Signal 530: humidity values"
 status: Draft
 owner: H. Mostafa
-parent: INFO-2TM0JP
-order: 5300
+former-id: IF-HWGPDC
+parent: REQ-RJ0KHPT
+order: b7X
 ---
 Interface signal number 530.

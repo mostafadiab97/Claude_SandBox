@@ -1,5 +1,5 @@
 ---
-id: SW-MZMVH3
+id: REQ-YTTJXZF
 type: software-requirement
 title: Encrypt safety limits — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - release-2.0
   - security
-parent: SW-XPWAKQ
-order: 10
+former-id: SW-MZMVH3
+parent: REQ-JJPCYZV
+order: a0
 links:
   - type: refines
-    target: SW-XPWAKQ
+    target: REQ-JJPCYZV
     confirmed: 0c2b6d9189cc
 ---
 The status LED shall measure safety limits after a power loss.

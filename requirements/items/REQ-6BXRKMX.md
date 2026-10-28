@@ -1,5 +1,5 @@
 ---
-id: IF-SRJQ6S
+id: REQ-6BXRKMX
 type: interface-requirement
 title: "Signal 119: relay events"
 status: Approved
@@ -8,7 +8,8 @@ owner: محمد علي
 tags:
   - safety
   - connectivity
-parent: INFO-2TM0JP
-order: 1190
+former-id: IF-SRJQ6S
+parent: REQ-RJ0KHPT
+order: b0u
 ---
 Interface signal number 119.

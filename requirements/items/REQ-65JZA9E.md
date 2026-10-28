@@ -1,5 +1,5 @@
 ---
-id: SW-VXT0WC
+id: REQ-65JZA9E
 type: software-requirement
 title: Login screen encrypts the set point
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - regulatory
   - power
-parent: SYS-A8AYK0
-order: 30
+former-id: SW-VXT0WC
+parent: REQ-Z94YSEP
+order: a2
 links:
   - type: refines
-    target: SYS-A8AYK0
+    target: REQ-Z94YSEP
     confirmed: 7c18672779dd
 ---
 The schedule editor shall switch the operating mode in all supported languages.

@@ -1,17 +1,18 @@
 ---
-id: TC-R63RRN
+id: REQ-0JYPPJB
 type: test-case
 title: "Verify: Mobile app displays energy consumption"
 status: Approved
 owner: N. Kamal
-parent: INFO-J0FETE
-order: 1350
+former-id: TC-R63RRN
+parent: REQ-WR5ZJN9
+order: b1A
 links:
   - type: verifies
-    target: SYS-91G81P
+    target: REQ-S43FYEQ
     confirmed: d22c28429399
   - type: verifies
-    target: SW-89WYP8
+    target: REQ-0Z25M0Y
     confirmed: 4b74c11e03ab
 ---
 **Objective:** verify that the mobile app behaves as specified.

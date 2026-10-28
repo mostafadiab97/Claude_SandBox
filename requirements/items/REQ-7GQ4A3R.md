@@ -1,5 +1,5 @@
 ---
-id: TC-W1BXKG
+id: REQ-7GQ4A3R
 type: test-case
 title: "Regression: Bluetooth LE link detects access tokens"
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - security
   - regulatory
   - performance
-parent: INFO-ECHASH
-order: 940
+former-id: TC-W1BXKG
+parent: REQ-6H15AV2
+order: b0V
 links:
   - type: verifies
-    target: SYS-2N03B4
+    target: REQ-AQ8M0XJ
     confirmed: 9597e83a664b
 ---
 **Objective:** verify that the device behaves as specified.

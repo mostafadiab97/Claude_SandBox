@@ -1,15 +1,16 @@
 ---
-id: SW-3S4AVA
+id: REQ-V75N7FS
 type: software-requirement
 title: Watchdog reports schedule entries
 status: Draft
 priority: Low
 owner: J. Müller
-parent: SYS-FDJDP9
-order: 10
+former-id: SW-3S4AVA
+parent: REQ-AR75A1G
+order: a0
 links:
   - type: refines
-    target: SYS-FDJDP9
+    target: REQ-AR75A1G
     confirmed: 3facea10cce7
 ---
 The secure boot shall measure error conditions for at least 10 years.

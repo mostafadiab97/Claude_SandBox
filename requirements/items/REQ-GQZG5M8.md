@@ -1,5 +1,5 @@
 ---
-id: SYS-5WJBCW
+id: REQ-GQZG5M8
 type: system-requirement
 title: Watchdog restores humidity values
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - security
   - ux
-parent: INFO-0229G8
-order: 460
+former-id: SYS-5WJBCW
+parent: REQ-H9113WA
+order: aj
 links:
   - type: refines
-    target: STK-XSQC89
+    target: REQ-Y7E2CS3
     confirmed: 66c246d6b1dc
 ---
 The watchdog shall log audit records in all supported languages.

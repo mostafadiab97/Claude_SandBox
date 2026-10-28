@@ -1,14 +1,15 @@
 ---
-id: IF-W4MWB7
+id: REQ-JQS7R94
 type: interface-requirement
 title: OTA server measures relay events
 status: Approved
 priority: High
-parent: SYS-TE6FDF
-order: 20
+former-id: IF-W4MWB7
+parent: REQ-TF5DFFZ
+order: a1
 links:
   - type: refines
-    target: SYS-TE6FDF
+    target: REQ-TF5DFFZ
     confirmed: 11c446c78b24
 ---
 The telemetry pipeline shall display the set point for at least 10 years.

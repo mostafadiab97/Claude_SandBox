@@ -1,5 +1,5 @@
 ---
-id: TC-WYBPXN
+id: REQ-8MXJ5FC
 type: test-case
 title: "Verify: Mobile app notifys the room temperature"
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - release-1.0
   - accessibility
   - security
-parent: INFO-J0FETE
-order: 330
+former-id: TC-WYBPXN
+parent: REQ-WR5ZJN9
+order: aW
 links:
   - type: verifies
-    target: SYS-VT2YB8
+    target: REQ-T5AFT29
     confirmed: 4eec0ee8940e
 ---
 **Objective:** verify that the mobile app behaves as specified.

@@ -1,14 +1,15 @@
 ---
-id: SYS-JGW1WQ
+id: REQ-R8BDX9R
 type: system-requirement
 title: Backlight switchs audit records
 status: Review
 owner: M. Farouk
-parent: INFO-PDR6FV
-order: 780
+former-id: SYS-JGW1WQ
+parent: REQ-2ZA2TRZ
+order: b0F
 links:
   - type: refines
-    target: STK-KPV71Q
+    target: REQ-VQBZQVC
     confirmed: 10d9c216aea2
 ---
 The backlight shall validate energy consumption at least once per minute.

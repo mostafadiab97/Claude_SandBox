@@ -1,5 +1,5 @@
 ---
-id: DE-7FV6QX
+id: REQ-0TQKCC5
 type: design-element
 title: Module encryption_layer_15
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - security
   - performance
-parent: SW-NXCKHB
-order: 10
+former-id: DE-7FV6QX
+parent: REQ-VK0W78K
+order: a0
 links:
   - type: implements
-    target: SW-NXCKHB
+    target: REQ-VK0W78K
     confirmed: 0e08dd7928f3
 ---
 Implemented in `src/safe/encryption_layer.c`.

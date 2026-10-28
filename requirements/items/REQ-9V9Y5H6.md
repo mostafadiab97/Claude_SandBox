@@ -1,5 +1,5 @@
 ---
-id: SW-RVJ2D4
+id: REQ-9V9Y5H6
 type: software-requirement
 title: Status LED calibrates relay events
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: S. Adel
 tags:
   - performance
-parent: SYS-8FP865
-order: 20
+former-id: SW-RVJ2D4
+parent: REQ-80WBXJW
+order: a1
 links:
   - type: refines
-    target: SYS-8FP865
+    target: REQ-80WBXJW
     confirmed: c59e7f0fde76
 ---
 The backlight shall display humidity values for at least 10 years.

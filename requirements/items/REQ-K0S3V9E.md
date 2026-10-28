@@ -1,19 +1,20 @@
 ---
-id: TC-G1PZ3X
+id: REQ-K0S3V9E
 type: test-case
 title: "Verify: Telemetry pipeline detects humidity values"
 status: Draft
 priority: High
 tags:
   - connectivity
-parent: INFO-7P4D8D
-order: 1610
+former-id: TC-G1PZ3X
+parent: REQ-8351896
+order: b1a
 links:
   - type: verifies
-    target: SYS-27ZRZ6
+    target: REQ-HZB6Z1A
     confirmed: 2208a37cfcbe
   - type: verifies
-    target: SW-EPA3J6
+    target: REQ-JFZCMPM
     confirmed: 2dee49b460da
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

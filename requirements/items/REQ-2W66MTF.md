@@ -1,5 +1,5 @@
 ---
-id: DE-C3FE58
+id: REQ-2W66MTF
 type: design-element
 title: Module heating_controller_92
 status: Review
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - customer-request
   - performance
-parent: SW-6F8TE2
-order: 10
+former-id: DE-C3FE58
+parent: REQ-3P9XZHK
+order: a0
 links:
   - type: implements
-    target: SW-6F8TE2
+    target: REQ-3P9XZHK
     confirmed: 1d888ef5d324
 ---
 Implemented in `src/heat/heating_controller.c`.

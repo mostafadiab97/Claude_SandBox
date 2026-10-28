@@ -1,5 +1,5 @@
 ---
-id: SW-SF3G1H
+id: REQ-2TVXZK8
 type: software-requirement
 title: Notification service measures schedule entries
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - EMC
   - customer-request
   - power
-parent: SYS-ZFAGA9
-order: 10
+former-id: SW-SF3G1H
+parent: REQ-FF5B6MJ
+order: a0
 links:
   - type: refines
-    target: SYS-ZFAGA9
+    target: REQ-FF5B6MJ
     confirmed: 088ced33b5bc
 ---
 The schedule editor shall measure relay events in all supported languages.

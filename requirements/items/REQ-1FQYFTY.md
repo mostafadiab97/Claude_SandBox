@@ -1,5 +1,5 @@
 ---
-id: HW-TKRCEC
+id: REQ-1FQYFTY
 type: hardware-requirement
 title: Detect the room temperature — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - cost
   - i18n
-parent: HW-QGNF43
-order: 10
+former-id: HW-TKRCEC
+parent: REQ-FWMP3RF
+order: a0
 links:
   - type: refines
-    target: HW-QGNF43
+    target: REQ-FWMP3RF
     confirmed: 3080d1c4af17
 ---
 The battery backup shall notify sensor readings for up to 8 zones.

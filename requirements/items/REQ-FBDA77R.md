@@ -1,5 +1,5 @@
 ---
-id: TC-78BAHG
+id: REQ-FBDA77R
 type: test-case
 title: "Verify: Wi-Fi module notifys the room temperature"
 status: Review
@@ -8,14 +8,15 @@ owner: S. Adel
 tags:
   - accessibility
   - ux
-parent: INFO-F0M7VC
-order: 370
+former-id: TC-78BAHG
+parent: REQ-67RQXCK
+order: aa
 links:
   - type: verifies
-    target: SYS-91NRJ9
+    target: REQ-JNHH86M
     confirmed: 8a99ad0fb5ef
   - type: verifies
-    target: SW-J6NQD8
+    target: REQ-NWRBETP
     confirmed: beec846c8c19
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: TC-D0502K
+id: REQ-SXFS614
 type: test-case
 title: "Verify: Status LED measures schedule entries"
 status: Draft
 priority: High
 owner: M. Farouk
-parent: INFO-HTSZ15
-order: 810
+former-id: TC-D0502K
+parent: REQ-Y9VHHKA
+order: b0I
 links:
   - type: verifies
-    target: SYS-D26GKZ
+    target: REQ-055THBY
     confirmed: 5ddece9ce40b
 ---
 **Objective:** verify that the status LED behaves as specified.

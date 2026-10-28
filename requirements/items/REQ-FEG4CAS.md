@@ -1,5 +1,5 @@
 ---
-id: IF-Y37ANV
+id: REQ-FEG4CAS
 type: interface-requirement
 title: "Signal 366: error conditions"
 status: Approved
@@ -8,7 +8,8 @@ tags:
   - cost
   - EMC
   - accessibility
-parent: INFO-2TM0JP
-order: 3660
+former-id: IF-Y37ANV
+parent: REQ-RJ0KHPT
+order: b4t
 ---
 Interface signal number 366.

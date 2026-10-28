@@ -1,5 +1,5 @@
 ---
-id: TC-Q38D71
+id: REQ-DPFASQM
 type: test-case
 title: "Verify: Main PCB validates the set point"
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 owner: Y. Saber
 tags:
   - customer-request
-parent: INFO-MACGC3
-order: 1010
+former-id: TC-Q38D71
+parent: REQ-F9Z1FYS
+order: b0c
 links:
   - type: verifies
-    target: SYS-EDRZBM
+    target: REQ-DV0E664
     confirmed: 248750d69b90
   - type: verifies
-    target: SW-V18C92
+    target: REQ-RYXAYBT
     confirmed: 65a51bcffb34
 ---
 **Objective:** verify that the main PCB behaves as specified.

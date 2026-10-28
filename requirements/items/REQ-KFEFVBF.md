@@ -1,5 +1,5 @@
 ---
-id: SYS-72RSQG
+id: REQ-KFEFVBF
 type: system-requirement
 title: Home dashboard switchs sensor readings
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - power
   - cost
   - i18n
-parent: INFO-2XXBRS
-order: 1850
+former-id: SYS-72RSQG
+parent: REQ-QYXGSQ4
+order: b1y
 links:
   - type: refines
-    target: STK-B9Y7CM
+    target: REQ-YGQ30E7
     confirmed: 2e83dea5db22
   - type: mitigates
-    target: RSK-BZRBDX
+    target: REQ-704SM0N
     confirmed: be3df4abc265
 ---
 The home dashboard shall restore user preferences in all supported languages.

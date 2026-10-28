@@ -1,14 +1,15 @@
 ---
-id: HW-7S55J5
+id: REQ-WFX4P77
 type: hardware-requirement
 title: Validate energy consumption — detail
 status: Draft
 owner: J. Müller
-parent: HW-PVQ67C
-order: 10
+former-id: HW-7S55J5
+parent: REQ-CFVADJK
+order: a0
 links:
   - type: refines
-    target: HW-PVQ67C
+    target: REQ-CFVADJK
     confirmed: 1c47b1065dec
 ---
 The mobile app shall validate the connection state without user interaction.

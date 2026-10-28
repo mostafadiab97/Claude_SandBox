@@ -1,5 +1,5 @@
 ---
-id: TC-T49147
+id: REQ-GYK5RG2
 type: test-case
 title: "Verify: Enclosure validates the connection state"
 status: Review
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - i18n
   - ux
-parent: INFO-MACGC3
-order: 700
+former-id: TC-T49147
+parent: REQ-F9Z1FYS
+order: b07
 links:
   - type: verifies
-    target: SYS-76VDPG
+    target: REQ-1Y42YEX
     confirmed: 6024967bb648
 ---
 **Objective:** verify that the enclosure behaves as specified.

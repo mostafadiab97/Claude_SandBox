@@ -1,15 +1,16 @@
 ---
-id: SW-D9T2X7
+id: REQ-765GETA
 type: software-requirement
 title: Notification service validates the room temperature
 status: Obsolete
 priority: Medium
 owner: L. Samir
-parent: SYS-55BB0W
-order: 10
+former-id: SW-D9T2X7
+parent: REQ-RZK6F0K
+order: a0
 links:
   - type: refines
-    target: SYS-55BB0W
+    target: REQ-RZK6F0K
     confirmed: 769ed2cb940e
 ---
 The home dashboard shall limit the operating mode for up to 8 zones.

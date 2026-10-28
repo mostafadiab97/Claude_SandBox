@@ -1,5 +1,5 @@
 ---
-id: IF-E4VNF7
+id: REQ-4BB5MMR
 type: interface-requirement
 title: "Signal 043: energy consumption"
 status: Approved
@@ -8,7 +8,8 @@ owner: A. Hassan
 tags:
   - i18n
   - accessibility
-parent: INFO-2TM0JP
-order: 430
+former-id: IF-E4VNF7
+parent: REQ-RJ0KHPT
+order: ag
 ---
 Interface signal number 43.

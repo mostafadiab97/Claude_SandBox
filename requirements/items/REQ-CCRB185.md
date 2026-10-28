@@ -1,15 +1,16 @@
 ---
-id: SYS-2Y9FGT
+id: REQ-CCRB185
 type: system-requirement
 title: Login screen encrypts error conditions
 status: Approved
 priority: Low
 owner: N. Kamal
-parent: INFO-2XXBRS
-order: 180
+former-id: SYS-2Y9FGT
+parent: REQ-QYXGSQ4
+order: aH
 links:
   - type: refines
-    target: STK-MC9ASH
+    target: REQ-7NDC8E1
     confirmed: a4f2ebaecfbe
 ---
 The login screen shall log sensor readings at least once per minute.

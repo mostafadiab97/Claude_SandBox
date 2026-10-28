@@ -1,5 +1,5 @@
 ---
-id: TC-1Q70E6
+id: REQ-EPH41XC
 type: test-case
 title: "Verify: Boiler interface validates error conditions"
 status: Review
@@ -7,11 +7,12 @@ priority: High
 tags:
   - security
   - connectivity
-parent: INFO-MS9DAG
-order: 1090
+former-id: TC-1Q70E6
+parent: REQ-XGWSK2K
+order: b0k
 links:
   - type: verifies
-    target: SYS-5DA537
+    target: REQ-GE3XCDD
     confirmed: b3506b846105
 ---
 **Objective:** verify that the boiler interface behaves as specified.

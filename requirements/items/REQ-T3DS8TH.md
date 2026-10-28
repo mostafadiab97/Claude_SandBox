@@ -1,5 +1,5 @@
 ---
-id: TC-NWK8JY
+id: REQ-T3DS8TH
 type: test-case
 title: "Verify: Enclosure limits safety limits"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: A. Hassan
 tags:
   - release-1.0
-parent: INFO-MACGC3
-order: 560
+former-id: TC-NWK8JY
+parent: REQ-F9Z1FYS
+order: at
 links:
   - type: verifies
-    target: SYS-946J73
+    target: REQ-ERXSPD6
     confirmed: 4221a4e34c0d
 ---
 **Objective:** verify that the enclosure behaves as specified.

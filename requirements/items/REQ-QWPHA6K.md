@@ -1,14 +1,15 @@
 ---
-id: SYS-1T01KA
+id: REQ-QWPHA6K
 type: system-requirement
 title: Schedule editor encrypts the set point
 status: Approved
 owner: N. Kamal
-parent: INFO-2XXBRS
-order: 1260
+former-id: SYS-1T01KA
+parent: REQ-QYXGSQ4
+order: b11
 links:
   - type: refines
-    target: STK-BR4RT9
+    target: REQ-QZME2VX
     confirmed: 16def0c1f947
 ---
 The schedule editor shall calibrate firmware images in under 3 s.

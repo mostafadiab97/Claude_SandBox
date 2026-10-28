@@ -1,5 +1,5 @@
 ---
-id: DEF-9VX4T1
+id: REQ-54CNREE
 type: defect
 title: "Defect: touch display does not restore energy consumption"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - ux
   - i18n
   - regulatory
-parent: INFO-7HY7F9
-order: 110
+former-id: DEF-9VX4T1
+parent: REQ-HFYH0KW
+order: aA
 links:
   - type: relates-to
-    target: TC-TQ0KN5
+    target: REQ-0HHJXMQ
     confirmed: 147d12e39b99
   - type: relates-to
-    target: SYS-EFJFCR
+    target: REQ-SG5ZHBV
     confirmed: b46684aa0799
 ---
 Found during regression testing of build 2.6.1.

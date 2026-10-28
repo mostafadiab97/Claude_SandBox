@@ -1,5 +1,5 @@
 ---
-id: TC-NRSGSS
+id: REQ-3BGKQ90
 type: test-case
 title: "Verify: Touch display stores audit records"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - customer-request
   - accessibility
-parent: INFO-HTSZ15
-order: 570
+former-id: TC-NRSGSS
+parent: REQ-Y9VHHKA
+order: au
 links:
   - type: verifies
-    target: SYS-TB9F0A
+    target: REQ-0ZPSDVX
     confirmed: cfce1cacc944
 ---
 **Objective:** verify that the touch display behaves as specified.

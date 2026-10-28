@@ -1,17 +1,18 @@
 ---
-id: DEF-7QXFMH
+id: REQ-DJYB173
 type: defect
 title: "Defect: backlight does not encrypt the room temperature"
 status: Draft
 owner: M. Farouk
-parent: INFO-7HY7F9
-order: 190
+former-id: DEF-7QXFMH
+parent: REQ-HFYH0KW
+order: aI
 links:
   - type: relates-to
-    target: TC-6J7W41
+    target: REQ-SBYC58K
     confirmed: 53384686ff8e
   - type: relates-to
-    target: SYS-N54KFA
+    target: REQ-HJS4CX9
     confirmed: 09253c52493b
 ---
 Found during regression testing of build 2.2.3.

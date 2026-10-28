@@ -1,15 +1,16 @@
 ---
-id: TC-DQMS8X
+id: REQ-M6BJXZJ
 type: test-case
 title: "Verify: Login screen limits energy consumption"
 status: Review
 priority: Medium
 owner: N. Kamal
-parent: INFO-J0FETE
-order: 400
+former-id: TC-DQMS8X
+parent: REQ-WR5ZJN9
+order: ad
 links:
   - type: verifies
-    target: SYS-GGV7F0
+    target: REQ-444WTRT
     confirmed: aba31ae0874e
 ---
 **Objective:** verify that the login screen behaves as specified.

@@ -1,13 +1,14 @@
 ---
-id: HW-GDRZCB
+id: REQ-47K61RJ
 type: hardware-requirement
 title: Main PCB encrypts the operating mode
 status: Draft
-parent: SYS-3Z27AV
-order: 10
+former-id: HW-GDRZCB
+parent: REQ-4QP6QW0
+order: a0
 links:
   - type: refines
-    target: SYS-3Z27AV
+    target: REQ-4QP6QW0
     confirmed: 79a5d5b3bb44
 ---
 The relay board shall notify energy consumption without user interaction.

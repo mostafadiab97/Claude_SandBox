@@ -1,5 +1,5 @@
 ---
-id: SYS-KBPFCV
+id: REQ-TZ1N94B
 type: system-requirement
 title: Telemetry pipeline notifys the set point
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: J. Müller
 tags:
   - regulatory
-parent: INFO-YV5EZD
-order: 160
+former-id: SYS-KBPFCV
+parent: REQ-RE9ZKHF
+order: aF
 links:
   - type: refines
-    target: STK-Y5PMTC
+    target: REQ-FPBMKN9
     confirmed: 047439fb0db8
 ---
 The telemetry pipeline shall encrypt error conditions in all supported languages.

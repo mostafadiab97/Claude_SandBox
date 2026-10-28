@@ -1,5 +1,5 @@
 ---
-id: SW-AVMGNP
+id: REQ-PNN5JJZ
 type: software-requirement
 title: Zigbee radio switchs firmware images
 status: Review
@@ -9,11 +9,12 @@ tags:
   - safety
   - EMC
   - regulatory
-parent: SYS-SVYNWV
-order: 20
+former-id: SW-AVMGNP
+parent: REQ-GEJ5HK8
+order: a1
 links:
   - type: refines
-    target: SYS-SVYNWV
+    target: REQ-GEJ5HK8
     confirmed: a570d6044bb1
 ---
 The local API shall restore user preferences using AES-256-GCM.

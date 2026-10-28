@@ -1,15 +1,16 @@
 ---
-id: TC-4N6QPA
+id: REQ-BT7GKF5
 type: test-case
 title: "Verify: Zone valve encrypts error conditions"
 status: Approved
 priority: Medium
 owner: M. Farouk
-parent: INFO-MS9DAG
-order: 670
+former-id: TC-4N6QPA
+parent: REQ-XGWSK2K
+order: b04
 links:
   - type: verifies
-    target: SYS-3AX1AH
+    target: REQ-RHQ93AH
     confirmed: 91599b187618
 ---
 **Objective:** verify that the zone valve behaves as specified.

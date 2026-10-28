@@ -1,5 +1,5 @@
 ---
-id: SW-DQRW15
+id: REQ-6ZKF2Q5
 type: software-requirement
 title: Limit firmware images — detail
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: R. Nabil
 tags:
   - accessibility
-parent: SW-3E0EN9
-order: 10
+former-id: SW-DQRW15
+parent: REQ-P26F52A
+order: a0
 links:
   - type: refines
-    target: SW-3E0EN9
+    target: REQ-P26F52A
     confirmed: 21b49bb3281b
 ---
 The menu system shall switch sensor readings within 200 ms.

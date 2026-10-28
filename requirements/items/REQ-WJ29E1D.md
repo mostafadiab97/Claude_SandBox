@@ -1,5 +1,5 @@
 ---
-id: IF-99MJ0Z
+id: REQ-WJ29E1D
 type: interface-requirement
 title: Power supply displays the connection state
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - performance
   - release-1.0
   - safety
-parent: SYS-NDYE2C
-order: 10
+former-id: IF-99MJ0Z
+parent: REQ-7R7H5BD
+order: a0
 links:
   - type: refines
-    target: SYS-NDYE2C
+    target: REQ-7R7H5BD
     confirmed: 843e71f7ca47
 ---
 The enclosure shall validate the room temperature with an accuracy of ±0.5 °C.

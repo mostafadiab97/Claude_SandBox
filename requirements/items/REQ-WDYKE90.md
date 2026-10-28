@@ -1,5 +1,5 @@
 ---
-id: SW-T5QVCQ
+id: REQ-WDYKE90
 type: software-requirement
 title: Schedule editor stores the set point
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - EMC
   - power
   - accessibility
-parent: SYS-QKGZJJ
-order: 10
+former-id: SW-T5QVCQ
+parent: REQ-M6ARR9M
+order: a0
 links:
   - type: refines
-    target: SYS-QKGZJJ
+    target: REQ-M6ARR9M
     confirmed: 846402a4433f
 ---
 The schedule editor shall restore the operating mode within 200 ms.

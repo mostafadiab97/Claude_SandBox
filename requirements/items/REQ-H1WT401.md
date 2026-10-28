@@ -1,19 +1,20 @@
 ---
-id: DEF-26KYRM
+id: REQ-H1WT401
 type: defect
 title: "Defect: zone valve does not detect access tokens"
 status: Approved
 priority: Medium
 tags:
   - connectivity
-parent: INFO-ZBHTYF
-order: 60
+former-id: DEF-26KYRM
+parent: REQ-XJDN42Y
+order: a5
 links:
   - type: relates-to
-    target: TC-GGJPK4
+    target: REQ-4XD749P
     confirmed: 3b544ee1feb7
   - type: relates-to
-    target: SYS-185CG5
+    target: REQ-EJYJMP4
     confirmed: 594be3c2d403
 ---
 Found during regression testing of build 2.3.22.

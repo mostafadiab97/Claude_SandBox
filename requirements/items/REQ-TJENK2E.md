@@ -1,5 +1,5 @@
 ---
-id: IF-BZWJHB
+id: REQ-TJENK2E
 type: interface-requirement
 title: Backlight detects energy consumption
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - cost
   - i18n
-parent: SYS-TB9F0A
-order: 10
+former-id: IF-BZWJHB
+parent: REQ-0ZPSDVX
+order: a0
 links:
   - type: refines
-    target: SYS-TB9F0A
+    target: REQ-0ZPSDVX
     confirmed: cfce1cacc944
 ---
 The touch display shall display the operating mode within 200 ms.

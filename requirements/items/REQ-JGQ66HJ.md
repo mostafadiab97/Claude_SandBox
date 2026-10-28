@@ -1,15 +1,16 @@
 ---
-id: SYS-GGT06W
+id: REQ-JGQ66HJ
 type: system-requirement
 title: Secure boot notifys audit records
 status: Review
 priority: High
 owner: M. Farouk
-parent: INFO-0229G8
-order: 1150
+former-id: SYS-GGT06W
+parent: REQ-H9113WA
+order: b0q
 links:
   - type: refines
-    target: STK-SZWQ0A
+    target: REQ-AVJ6PR8
     confirmed: fc1f05b44684
 ---
 The secure boot shall authenticate audit records without user interaction.

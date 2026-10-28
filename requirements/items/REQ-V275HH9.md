@@ -1,5 +1,5 @@
 ---
-id: IF-MKZ5PR
+id: REQ-V275HH9
 type: interface-requirement
 title: "Signal 322: the operating mode"
 status: Approved
@@ -8,7 +8,8 @@ owner: S. Adel
 tags:
   - EMC
   - safety
-parent: INFO-2TM0JP
-order: 3220
+former-id: IF-MKZ5PR
+parent: REQ-RJ0KHPT
+order: b4B
 ---
 Interface signal number 322.

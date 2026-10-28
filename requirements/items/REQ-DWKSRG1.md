@@ -1,18 +1,19 @@
 ---
-id: TC-GKZTAB
+id: REQ-DWKSRG1
 type: test-case
 title: "Verify: Boiler interface switchs user preferences"
 status: Review
 priority: Medium
 owner: L. Samir
-parent: INFO-MS9DAG
-order: 420
+former-id: TC-GKZTAB
+parent: REQ-XGWSK2K
+order: af
 links:
   - type: verifies
-    target: SYS-HDSJK7
+    target: REQ-3E2Z93D
     confirmed: 051a9b0bce58
   - type: verifies
-    target: SW-FM4SMD
+    target: REQ-10R1WW9
     confirmed: e433c3217e25
 ---
 **Objective:** verify that the boiler interface behaves as specified.

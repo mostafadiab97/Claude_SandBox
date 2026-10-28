@@ -1,5 +1,5 @@
 ---
-id: TC-2AS539
+id: REQ-7S3Q4AA
 type: test-case
 title: "Verify: Watchdog stores access tokens"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - power
   - performance
-parent: INFO-Z4TW4B
-order: 1170
+former-id: TC-2AS539
+parent: REQ-K6FGAY0
+order: b0s
 links:
   - type: verifies
-    target: SYS-E0AT84
+    target: REQ-ZACQTR2
     confirmed: 0d5f77c98090
 ---
 **Objective:** verify that the watchdog behaves as specified.

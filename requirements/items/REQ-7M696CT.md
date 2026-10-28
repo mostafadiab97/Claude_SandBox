@@ -1,5 +1,5 @@
 ---
-id: SW-9TCAJF
+id: REQ-7M696CT
 type: software-requirement
 title: Login screen measures the operating mode
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - ux
   - connectivity
   - EMC
-parent: SYS-EN3YXQ
-order: 40
+former-id: SW-9TCAJF
+parent: REQ-YBBPMAY
+order: a3
 links:
   - type: refines
-    target: SYS-EN3YXQ
+    target: REQ-YBBPMAY
     confirmed: 1e489c983669
 ---
 The schedule editor shall measure safety limits within 200 ms.

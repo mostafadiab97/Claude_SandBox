@@ -1,5 +1,5 @@
 ---
-id: SW-T5B7DG
+id: REQ-NFMRD7E
 type: software-requirement
 title: Mobile app reports audit records
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: L. Samir
 tags:
   - ux
-parent: SYS-YX6EBV
-order: 10
+former-id: SW-T5B7DG
+parent: REQ-AJNTHEY
+order: a0
 links:
   - type: refines
-    target: SYS-YX6EBV
+    target: REQ-AJNTHEY
     confirmed: d90c022122ab
 ---
 The mobile app shall store error conditions after a power loss.

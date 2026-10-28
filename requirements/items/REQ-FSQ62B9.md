@@ -1,29 +1,30 @@
 ---
-id: SW-DY05W4
+id: REQ-FSQ62B9
 type: software-requirement
 title: Requirement with links of every type
 status: Approved
 priority: Medium
-parent: INFO-ECHASH
-order: 500
+former-id: SW-DY05W4
+parent: REQ-6H15AV2
+order: an
 links:
   - type: refines
-    target: SYS-AXR87X
+    target: REQ-G438RSF
     confirmed: 4959dec1f97d
   - type: satisfies
-    target: SYS-N5JVR8
+    target: REQ-78M54BZ
     confirmed: f9d9c27a7ebf
   - type: implements
-    target: SYS-MRHZSS
+    target: REQ-X0960ZS
     confirmed: 3746d94f7720
   - type: verifies
-    target: SYS-WF25CP
+    target: REQ-GFFZN3Z
     confirmed: 3f8b6bcfec69
   - type: mitigates
-    target: SYS-9V5P8B
+    target: REQ-M1ZYV8X
     confirmed: a4b7cbbff72f
   - type: relates-to
-    target: SYS-T2DEWW
+    target: REQ-84GVBQD
     confirmed: 4c2247349bae
 ---
 Outgoing links use all six link types.

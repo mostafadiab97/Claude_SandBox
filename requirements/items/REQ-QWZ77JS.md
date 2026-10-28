@@ -1,5 +1,5 @@
 ---
-id: IF-HGWFYV
+id: REQ-QWZ77JS
 type: interface-requirement
 title: Touch display synchronises the room temperature
 status: Review
@@ -7,11 +7,12 @@ owner: É. Laurent
 tags:
   - release-1.0
   - safety
-parent: SYS-8PHDX1
-order: 20
+former-id: IF-HGWFYV
+parent: REQ-ANNWVEX
+order: a1
 links:
   - type: refines
-    target: SYS-8PHDX1
+    target: REQ-ANNWVEX
     confirmed: 1bfc1bb5e4d7
 ---
 The menu system shall detect user preferences when the network is unavailable.

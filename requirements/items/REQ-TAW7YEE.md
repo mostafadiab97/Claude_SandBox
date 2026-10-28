@@ -1,14 +1,15 @@
 ---
-id: IF-WVFMYV
+id: REQ-TAW7YEE
 type: interface-requirement
 title: Power supply displays the room temperature
 status: Review
 priority: Medium
-parent: SYS-YJCK64
-order: 10
+former-id: IF-WVFMYV
+parent: REQ-VTR2VKC
+order: a0
 links:
   - type: refines
-    target: SYS-YJCK64
+    target: REQ-VTR2VKC
     confirmed: 3cd2af5ea529
 ---
 The main PCB shall limit error conditions within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: IF-9V588B
+id: REQ-KG2S4AE
 type: interface-requirement
 title: Wi-Fi module measures user preferences
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - regulatory
   - EMC
-parent: SYS-2GGEKP
-order: 20
+former-id: IF-9V588B
+parent: REQ-JVWRST2
+order: a1
 links:
   - type: refines
-    target: SYS-2GGEKP
+    target: REQ-JVWRST2
     confirmed: ff7115bba8a5
 ---
 The Zigbee radio shall validate the room temperature for up to 8 zones.

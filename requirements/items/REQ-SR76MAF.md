@@ -1,5 +1,5 @@
 ---
-id: TC-HK2KQ3
+id: REQ-SR76MAF
 type: test-case
 title: "Verify: Heat pump driver stores the operating mode"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - i18n
   - ux
-parent: INFO-MS9DAG
-order: 120
+former-id: TC-HK2KQ3
+parent: REQ-XGWSK2K
+order: aB
 links:
   - type: verifies
-    target: SYS-JFB5KX
+    target: REQ-TCY4CJ0
     confirmed: 270d776a5c32
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

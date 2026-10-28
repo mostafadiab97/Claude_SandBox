@@ -1,5 +1,5 @@
 ---
-id: DE-THE0VJ
+id: REQ-HYNF6DQ
 type: design-element
 title: Module login_screen_39
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - release-2.0
   - i18n
-parent: SW-VE84XB
-order: 10
+former-id: DE-THE0VJ
+parent: REQ-GTPS4SJ
+order: a0
 links:
   - type: implements
-    target: SW-VE84XB
+    target: REQ-GTPS4SJ
     confirmed: cf1861036509
 ---
 Implemented in `src/app/login_screen.c`.

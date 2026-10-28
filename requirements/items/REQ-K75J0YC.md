@@ -1,14 +1,15 @@
 ---
-id: SW-3Y1D9A
+id: REQ-K75J0YC
 type: software-requirement
 title: Status LED displays sensor readings
 status: Draft
 owner: É. Laurent
-parent: SYS-JKDR8H
-order: 10
+former-id: SW-3Y1D9A
+parent: REQ-5KEMH0M
+order: a0
 links:
   - type: refines
-    target: SYS-JKDR8H
+    target: REQ-5KEMH0M
     confirmed: 85d240523d89
 ---
 The backlight shall report relay events within 200 ms.

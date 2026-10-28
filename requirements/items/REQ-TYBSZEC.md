@@ -1,5 +1,5 @@
 ---
-id: TC-Z3T7RY
+id: REQ-TYBSZEC
 type: test-case
 title: "Verify: Power supply validates the operating mode"
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - power
-parent: INFO-MACGC3
-order: 690
+former-id: TC-Z3T7RY
+parent: REQ-F9Z1FYS
+order: b06
 links:
   - type: verifies
-    target: SYS-HRRNGW
+    target: REQ-P7EBBT6
     confirmed: afbcfeedc1e2
   - type: verifies
-    target: SW-8EMMCV
+    target: REQ-3WVWJ9X
     confirmed: dd9315a9d417
 ---
 **Objective:** verify that the power supply behaves as specified.

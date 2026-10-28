@@ -1,5 +1,5 @@
 ---
-id: SW-ZJ6HPB
+id: REQ-61ASS8M
 type: software-requirement
 title: Watchdog detects sensor readings
 status: Obsolete
@@ -7,11 +7,12 @@ owner: A. Hassan
 tags:
   - i18n
   - accessibility
-parent: SYS-V7ZK4B
-order: 40
+former-id: SW-ZJ6HPB
+parent: REQ-EJBN4HC
+order: a3
 links:
   - type: refines
-    target: SYS-V7ZK4B
+    target: REQ-EJBN4HC
     confirmed: d3ae0a8a942d
 ---
 The watchdog shall detect relay events using AES-256-GCM.

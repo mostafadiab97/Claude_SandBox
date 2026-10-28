@@ -1,14 +1,15 @@
 ---
-id: DE-SV65ZN
+id: REQ-Y5VZR23
 type: design-element
 title: Module encryption_layer_79
 status: Review
 owner: A. Hassan
-parent: SW-0E8HYM
-order: 20
+former-id: DE-SV65ZN
+parent: REQ-VGXJHSR
+order: a1
 links:
   - type: implements
-    target: SW-0E8HYM
+    target: REQ-VGXJHSR
     confirmed: bdbee9c49117
 ---
 Implemented in `src/safe/encryption_layer.c`.

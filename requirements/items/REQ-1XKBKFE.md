@@ -1,7 +1,8 @@
 ---
-id: INFO-6QFMYN
+id: REQ-1XKBKFE
 type: information
-title: 7.5 Defects and change requests
-parent: INFO-AXMPFC
-order: 50
+title: Defects and change requests
+former-id: INFO-6QFMYN
+parent: REQ-YA89TQ4
+order: a4
 ---

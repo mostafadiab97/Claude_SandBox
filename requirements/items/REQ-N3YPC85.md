@@ -1,5 +1,5 @@
 ---
-id: SW-MBM5E6
+id: REQ-N3YPC85
 type: software-requirement
 title: Telemetry pipeline detects schedule entries
 status: Draft
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - customer-request
   - i18n
-parent: SYS-0DEP77
-order: 40
+former-id: SW-MBM5E6
+parent: REQ-RH9ZCGV
+order: a3
 links:
   - type: refines
-    target: SYS-0DEP77
+    target: REQ-RH9ZCGV
     confirmed: 7dbcbeef3d13
 ---
 The device registry shall calibrate the operating mode in all supported languages.

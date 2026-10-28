@@ -1,5 +1,5 @@
 ---
-id: SW-9720MD
+id: REQ-8H44Z6D
 type: software-requirement
 title: Encrypt humidity values — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: K. Tanaka
 tags:
   - customer-request
-parent: SW-MTX7JN
-order: 10
+former-id: SW-9720MD
+parent: REQ-TMTSXX8
+order: a0
 links:
   - type: refines
-    target: SW-MTX7JN
+    target: REQ-TMTSXX8
     confirmed: 25d545243ebf
 ---
 The touch display shall store sensor readings within 200 ms.

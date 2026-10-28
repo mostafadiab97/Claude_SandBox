@@ -1,15 +1,16 @@
 ---
-id: SW-QZT0Y7
+id: REQ-QPPQ2N3
 type: software-requirement
 title: Telemetry pipeline detects humidity values
 status: Approved
 priority: Low
 owner: S. Adel
-parent: SYS-D7FGDK
-order: 20
+former-id: SW-QZT0Y7
+parent: REQ-B8N38VD
+order: a1
 links:
   - type: refines
-    target: SYS-D7FGDK
+    target: REQ-B8N38VD
     confirmed: bf329a941699
 ---
 The telemetry pipeline shall synchronise audit records in all supported languages.

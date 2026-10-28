@@ -1,5 +1,5 @@
 ---
-id: HW-V5GKE3
+id: REQ-DH11CXH
 type: hardware-requirement
 title: Schedule editor detects audit records
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: محمد علي
 tags:
   - cost
-parent: SYS-BGBCA1
-order: 10
+former-id: HW-V5GKE3
+parent: REQ-RBWFBZ4
+order: a0
 links:
   - type: refines
-    target: SYS-BGBCA1
+    target: REQ-RBWFBZ4
     confirmed: 9336011838ef
 ---
 The home dashboard shall synchronise the room temperature after a power loss.

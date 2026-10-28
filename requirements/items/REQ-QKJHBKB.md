@@ -1,5 +1,5 @@
 ---
-id: TC-FFN7QA
+id: REQ-QKJHBKB
 type: test-case
 title: "Verify: Mobile app stores humidity values"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - i18n
   - ux
   - release-2.0
-parent: INFO-J0FETE
-order: 870
+former-id: TC-FFN7QA
+parent: REQ-WR5ZJN9
+order: b0O
 links:
   - type: verifies
-    target: SYS-14BTQV
+    target: REQ-DCB9G5M
     confirmed: 887219d0a50f
   - type: verifies
-    target: SW-6ZNEMR
+    target: REQ-36Q1TB4
     confirmed: 8cdaa51b3615
 ---
 **Objective:** verify that the mobile app behaves as specified.

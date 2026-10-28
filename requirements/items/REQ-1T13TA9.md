@@ -1,5 +1,5 @@
 ---
-id: SYS-ACFDCK
+id: REQ-1T13TA9
 type: system-requirement
 title: Wi-Fi module switchs relay events
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - regulatory
   - safety
   - connectivity
-parent: INFO-NRVHA2
-order: 50
+former-id: SYS-ACFDCK
+parent: REQ-6R94HFM
+order: a4
 links:
   - type: refines
-    target: STK-GMCKMF
+    target: REQ-5EJHVJ8
     confirmed: f47328374a2b
   - type: mitigates
-    target: RSK-QXX2QH
+    target: REQ-EBPP6TA
     confirmed: ec933cdd5217
 ---
 The Wi-Fi module shall display the room temperature in all supported languages.

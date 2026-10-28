@@ -1,16 +1,17 @@
 ---
-id: HW-42H6MB
+id: REQ-W01S3EY
 type: hardware-requirement
 title: Battery backup authenticates relay events
 status: Approved
 owner: H. Mostafa
 tags:
   - i18n
-parent: SYS-3PN7YS
-order: 20
+former-id: HW-42H6MB
+parent: REQ-M9BPS8Z
+order: a1
 links:
   - type: refines
-    target: SYS-3PN7YS
+    target: REQ-M9BPS8Z
     confirmed: 54565cf8f7c8
 ---
 The main PCB shall report the operating mode in under 3 s.

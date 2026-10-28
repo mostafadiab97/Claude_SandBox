@@ -1,15 +1,16 @@
 ---
-id: TC-0QDDPS
+id: REQ-T7D4QP5
 type: test-case
 title: "Regression: Boiler interface stores audit records"
 status: Draft
 priority: Medium
 owner: R. Nabil
-parent: INFO-ECHASH
-order: 670
+former-id: TC-0QDDPS
+parent: REQ-6H15AV2
+order: b04
 links:
   - type: verifies
-    target: SYS-B37VY2
+    target: REQ-T1AHZJK
     confirmed: 06bc752da75c
 ---
 **Objective:** verify that the device behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-SGPFYJ
+id: REQ-FDW6GTC
 type: software-requirement
 title: Regulation loop calibrates relay events
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - performance
   - release-2.0
-parent: SYS-3311SY
-order: 30
+former-id: SW-SGPFYJ
+parent: REQ-RMHBXKZ
+order: a2
 links:
   - type: refines
-    target: SYS-3311SY
+    target: REQ-RMHBXKZ
     confirmed: 73000130eecf
 ---
 The zone valve shall log the set point at least once per minute.

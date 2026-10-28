@@ -1,5 +1,5 @@
 ---
-id: TC-ABMBMF
+id: REQ-ERC43BQ
 type: test-case
 title: "Verify: Cloud backend detects audit records"
 status: Review
@@ -8,14 +8,15 @@ owner: H. Mostafa
 tags:
   - performance
   - i18n
-parent: INFO-7P4D8D
-order: 660
+former-id: TC-ABMBMF
+parent: REQ-8351896
+order: b03
 links:
   - type: verifies
-    target: SYS-1F54XW
+    target: REQ-5FT15N5
     confirmed: 63e961a2987d
   - type: verifies
-    target: SW-YGN6FK
+    target: REQ-748P32A
     confirmed: 78f42f77ff9a
 ---
 **Objective:** verify that the cloud backend behaves as specified.

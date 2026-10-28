@@ -1,18 +1,19 @@
 ---
-id: SYS-PBC9WM
+id: REQ-SCHE89Y
 type: system-requirement
 title: Heat pump driver reports safety limits
 status: Review
 priority: Medium
 owner: M. Farouk
-parent: INFO-6DQTKV
-order: 1050
+former-id: SYS-PBC9WM
+parent: REQ-7ED7ZET
+order: b0g
 links:
   - type: refines
-    target: STK-EWSQ9Z
+    target: REQ-GXKEHF3
     confirmed: aa5e4143dbe7
   - type: mitigates
-    target: RSK-AA3YJ3
+    target: REQ-95C6RSR
     confirmed: 84e686f1bbcc
 ---
 The heat pump driver shall encrypt the room temperature below 0.5 W in standby.

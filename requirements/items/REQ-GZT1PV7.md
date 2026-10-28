@@ -1,15 +1,16 @@
 ---
-id: SW-R3JRV9
+id: REQ-GZT1PV7
 type: software-requirement
 title: Status LED limits humidity values
 status: Review
 priority: High
 owner: A. Hassan
-parent: SYS-CH0H2M
-order: 40
+former-id: SW-R3JRV9
+parent: REQ-6PD797G
+order: a3
 links:
   - type: refines
-    target: SYS-CH0H2M
+    target: REQ-6PD797G
     confirmed: dcde66db1e30
 ---
 The status LED shall notify the connection state at least once per minute.

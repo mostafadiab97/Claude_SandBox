@@ -1,5 +1,5 @@
 ---
-id: DEF-C79R3G
+id: REQ-TERE8QB
 type: defect
 title: "Defect: status LED does not authenticate humidity values"
 status: Review
@@ -7,14 +7,15 @@ priority: Medium
 owner: محمد علي
 tags:
   - cost
-parent: INFO-7HY7F9
-order: 170
+former-id: DEF-C79R3G
+parent: REQ-HFYH0KW
+order: aG
 links:
   - type: relates-to
-    target: TC-HF6KDZ
+    target: REQ-QV6FE29
     confirmed: a194225c8ba4
   - type: relates-to
-    target: SYS-36NNDJ
+    target: REQ-FC279X0
     confirmed: 100c60ddc325
 ---
 Found during regression testing of build 2.7.0.

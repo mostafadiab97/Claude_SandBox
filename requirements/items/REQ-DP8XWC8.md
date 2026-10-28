@@ -1,14 +1,15 @@
 ---
-id: SYS-RA27Q3
+id: REQ-DP8XWC8
 type: system-requirement
 title: Main PCB measures humidity values
 status: Approved
 owner: É. Laurent
-parent: INFO-A6P9A8
-order: 1420
+former-id: SYS-RA27Q3
+parent: REQ-CMCS31A
+order: b1H
 links:
   - type: refines
-    target: STK-922G3A
+    target: REQ-XZNTF7S
     confirmed: ea4a6a665922
 ---
 The main PCB shall encrypt access tokens when the network is unavailable.

@@ -1,5 +1,5 @@
 ---
-id: DE-FG5DJB
+id: REQ-TKT75F9
 type: design-element
 title: Module watchdog_18
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - security
   - connectivity
   - release-2.0
-parent: SW-WNPN9B
-order: 10
+former-id: DE-FG5DJB
+parent: REQ-Y30TE0J
+order: a0
 links:
   - type: implements
-    target: SW-WNPN9B
+    target: REQ-Y30TE0J
     confirmed: eec99757911e
 ---
 Implemented in `src/safe/watchdog.c`.

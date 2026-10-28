@@ -1,16 +1,17 @@
 ---
-id: TC-PH2GQ6
+id: REQ-ACMT2M3
 type: test-case
 title: "Verify: Login screen restores sensor readings"
 status: Review
 priority: High
 tags:
   - release-2.0
-parent: INFO-J0FETE
-order: 30
+former-id: TC-PH2GQ6
+parent: REQ-WR5ZJN9
+order: a2
 links:
   - type: verifies
-    target: SYS-6REMTR
+    target: REQ-ER16QEY
     confirmed: e73f40f41cec
 ---
 **Objective:** verify that the login screen behaves as specified.

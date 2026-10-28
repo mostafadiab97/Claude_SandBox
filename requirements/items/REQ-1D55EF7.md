@@ -1,5 +1,5 @@
 ---
-id: IF-101713
+id: REQ-1D55EF7
 type: interface-requirement
 title: Measure relay events — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - release-1.0
   - performance
-parent: IF-C8NRYR
-order: 10
+former-id: IF-101713
+parent: REQ-EVNNQ59
+order: a0
 links:
   - type: refines
-    target: IF-C8NRYR
+    target: REQ-EVNNQ59
     confirmed: 2b446a4209a0
 ---
 The login screen shall log access tokens within 200 ms.

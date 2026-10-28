@@ -1,5 +1,5 @@
 ---
-id: IF-8M0T6W
+id: REQ-P7AA9FE
 type: interface-requirement
 title: Touch display detects sensor readings
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - i18n
   - customer-request
-parent: SYS-44HBM9
-order: 20
+former-id: IF-8M0T6W
+parent: REQ-87P89AG
+order: a1
 links:
   - type: refines
-    target: SYS-44HBM9
+    target: REQ-87P89AG
     confirmed: ebc73cf4101f
 ---
 The backlight shall detect firmware images with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: SW-17W1W3
+id: REQ-STZQ2Q6
 type: software-requirement
 title: OTA server notifys firmware images
 status: Review
@@ -8,11 +8,12 @@ tags:
   - customer-request
   - connectivity
   - cost
-parent: SYS-Y57EAP
-order: 20
+former-id: SW-17W1W3
+parent: REQ-7HZ3W72
+order: a1
 links:
   - type: refines
-    target: SYS-Y57EAP
+    target: REQ-7HZ3W72
     confirmed: 6b2c6923c4ae
 ---
 The cloud backend shall limit safety limits within 200 ms.

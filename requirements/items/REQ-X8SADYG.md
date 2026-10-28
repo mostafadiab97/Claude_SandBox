@@ -1,5 +1,5 @@
 ---
-id: IF-PXQ5MA
+id: REQ-X8SADYG
 type: interface-requirement
 title: "Signal 184: schedule entries"
 status: Obsolete
@@ -9,7 +9,8 @@ tags:
   - i18n
   - safety
   - customer-request
-parent: INFO-2TM0JP
-order: 1840
+former-id: IF-PXQ5MA
+parent: REQ-RJ0KHPT
+order: b1x
 ---
 Interface signal number 184.

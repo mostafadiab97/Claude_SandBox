@@ -1,5 +1,5 @@
 ---
-id: SW-Q4VAX8
+id: REQ-J4F663V
 type: software-requirement
 title: Measure access tokens — detail
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - regulatory
   - power
   - customer-request
-parent: SW-FT9SM6
-order: 10
+former-id: SW-Q4VAX8
+parent: REQ-28Q4S4E
+order: a0
 links:
   - type: refines
-    target: SW-FT9SM6
+    target: REQ-28Q4S4E
     confirmed: 023162502ec1
 ---
 The menu system shall measure user preferences at least once per minute.

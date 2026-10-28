@@ -1,14 +1,15 @@
 ---
-id: SW-DQ1JX4
+id: REQ-Z10W02P
 type: software-requirement
 title: Status LED synchronises sensor readings
 status: Draft
 priority: High
-parent: SYS-378XSW
-order: 20
+former-id: SW-DQ1JX4
+parent: REQ-BD91YMW
+order: a1
 links:
   - type: refines
-    target: SYS-378XSW
+    target: REQ-BD91YMW
     confirmed: 5031ebc6a924
 ---
 The status LED shall notify energy consumption within 200 ms.

@@ -1,18 +1,19 @@
 ---
-id: TC-QDYYXS
+id: REQ-GS5EWWD
 type: test-case
 title: "Verify: Relay board validates humidity values"
 status: Obsolete
 priority: Medium
 owner: R. Nabil
-parent: INFO-MACGC3
-order: 110
+former-id: TC-QDYYXS
+parent: REQ-F9Z1FYS
+order: aA
 links:
   - type: verifies
-    target: SYS-RQ231H
+    target: REQ-CPAZTBV
     confirmed: 88585ac7e9a1
   - type: verifies
-    target: SW-A11K9R
+    target: REQ-FKXQWD9
     confirmed: 24ff723bc647
 ---
 **Objective:** verify that the relay board behaves as specified.

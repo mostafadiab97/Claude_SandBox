@@ -1,15 +1,16 @@
 ---
-id: TC-Z6FX61
+id: REQ-7XYMDPG
 type: test-case
 title: "Verify: Mobile app encrypts humidity values"
 status: Draft
 priority: Medium
 owner: R. Nabil
-parent: INFO-J0FETE
-order: 770
+former-id: TC-Z6FX61
+parent: REQ-WR5ZJN9
+order: b0E
 links:
   - type: verifies
-    target: SYS-XAT0K2
+    target: REQ-KWYSKRA
     confirmed: e5e67b8095dc
 ---
 **Objective:** verify that the mobile app behaves as specified.

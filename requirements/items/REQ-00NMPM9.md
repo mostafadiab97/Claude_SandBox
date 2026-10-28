@@ -1,15 +1,16 @@
 ---
-id: HW-78GARS
+id: REQ-00NMPM9
 type: hardware-requirement
 title: Heat pump driver reports firmware images
 status: Approved
 priority: High
 owner: É. Laurent
-parent: SYS-SBQD9X
-order: 10
+former-id: HW-78GARS
+parent: REQ-XYGBK0A
+order: a0
 links:
   - type: refines
-    target: SYS-SBQD9X
+    target: REQ-XYGBK0A
     confirmed: b68c6c32bb30
 ---
 The regulation loop shall synchronise the set point using AES-256-GCM.

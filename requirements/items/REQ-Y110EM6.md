@@ -1,15 +1,16 @@
 ---
-id: SW-4H28ZZ
+id: REQ-Y110EM6
 type: software-requirement
 title: Bluetooth LE link detects the room temperature
 status: Approved
 priority: High
 owner: H. Mostafa
-parent: SYS-AFWWZ5
-order: 30
+former-id: SW-4H28ZZ
+parent: REQ-39B8A58
+order: a2
 links:
   - type: refines
-    target: SYS-AFWWZ5
+    target: REQ-39B8A58
     confirmed: 67e16f182216
 ---
 The local API shall notify the room temperature for up to 8 zones.

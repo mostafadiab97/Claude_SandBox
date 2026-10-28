@@ -1,5 +1,5 @@
 ---
-id: TC-H53HHV
+id: REQ-Z5XQYE6
 type: test-case
 title: "Verify: Pairing process logs the operating mode"
 status: Review
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - regulatory
   - security
-parent: INFO-F0M7VC
-order: 1390
+former-id: TC-H53HHV
+parent: REQ-67RQXCK
+order: b1E
 links:
   - type: verifies
-    target: SYS-MQPMA3
+    target: REQ-CJE6CS7
     confirmed: 906d4acd43e6
 ---
 **Objective:** verify that the pairing process behaves as specified.

@@ -1,14 +1,15 @@
 ---
-id: HW-H2N1RV
+id: REQ-D64WRF9
 type: hardware-requirement
 title: Relay board stores the operating mode
 status: Draft
 priority: Medium
-parent: SYS-PX7YQ6
-order: 20
+former-id: HW-H2N1RV
+parent: REQ-DCMQ8A6
+order: a1
 links:
   - type: refines
-    target: SYS-PX7YQ6
+    target: REQ-DCMQ8A6
     confirmed: a1bdacbc8613
 ---
 The main PCB shall validate safety limits without user interaction.

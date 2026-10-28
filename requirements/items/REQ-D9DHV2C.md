@@ -1,18 +1,19 @@
 ---
-id: TC-96Y7QR
+id: REQ-D9DHV2C
 type: test-case
 title: "Verify: Relay board notifys humidity values"
 status: Approved
 priority: Medium
 owner: محمد علي
-parent: INFO-MACGC3
-order: 1160
+former-id: TC-96Y7QR
+parent: REQ-F9Z1FYS
+order: b0r
 links:
   - type: verifies
-    target: SYS-VDRW9V
+    target: REQ-RP73624
     confirmed: 0ac53f80c216
   - type: verifies
-    target: SW-TZCS9C
+    target: REQ-EKMKFZ6
     confirmed: d8fdea0c8e00
 ---
 **Objective:** verify that the relay board behaves as specified.

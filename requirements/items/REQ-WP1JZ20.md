@@ -1,16 +1,17 @@
 ---
-id: HW-38YXBV
+id: REQ-WP1JZ20
 type: hardware-requirement
 title: Home dashboard stores the room temperature
 status: Draft
 owner: R. Nabil
 tags:
   - accessibility
-parent: SYS-HB2DW1
-order: 20
+former-id: HW-38YXBV
+parent: REQ-156Z627
+order: a1
 links:
   - type: refines
-    target: SYS-HB2DW1
+    target: REQ-156Z627
     confirmed: c311446b8020
 ---
 The schedule editor shall detect safety limits in all supported languages.

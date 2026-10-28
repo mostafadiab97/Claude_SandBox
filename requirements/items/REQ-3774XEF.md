@@ -1,5 +1,5 @@
 ---
-id: HW-N4S4M6
+id: REQ-3774XEF
 type: hardware-requirement
 title: Status LED limits the set point
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: Y. Saber
 tags:
   - safety
-parent: SYS-J6PC66
-order: 30
+former-id: HW-N4S4M6
+parent: REQ-F26X3E7
+order: a2
 links:
   - type: refines
-    target: SYS-J6PC66
+    target: REQ-F26X3E7
     confirmed: b91cd2a500bd
 ---
 The menu system shall detect the room temperature in under 3 s.

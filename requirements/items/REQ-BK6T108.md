@@ -1,5 +1,5 @@
 ---
-id: IF-RKRET2
+id: REQ-BK6T108
 type: interface-requirement
 title: "Signal 534: sensor readings"
 status: Approved
@@ -9,7 +9,8 @@ tags:
   - EMC
   - cost
   - safety
-parent: INFO-2TM0JP
-order: 5340
+former-id: IF-RKRET2
+parent: REQ-RJ0KHPT
+order: b7b
 ---
 Interface signal number 534.

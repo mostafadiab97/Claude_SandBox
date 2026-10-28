@@ -1,5 +1,5 @@
 ---
-id: TC-BB7MEZ
+id: REQ-7AW6YJA
 type: test-case
 title: Hub verification 14
 status: Review
@@ -9,11 +9,12 @@ tags:
   - security
   - i18n
   - safety
-parent: INFO-ECHASH
-order: 230
+former-id: TC-BB7MEZ
+parent: REQ-6H15AV2
+order: aM
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

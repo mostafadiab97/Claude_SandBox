@@ -1,5 +1,5 @@
 ---
-id: TC-JA7HA0
+id: REQ-N19EMQJ
 type: test-case
 title: "Verify: Boiler interface notifys user preferences"
 status: Approved
@@ -7,11 +7,12 @@ owner: K. Tanaka
 tags:
   - customer-request
   - accessibility
-parent: INFO-MS9DAG
-order: 1500
+former-id: TC-JA7HA0
+parent: REQ-XGWSK2K
+order: b1P
 links:
   - type: verifies
-    target: SYS-AZWQYS
+    target: REQ-DC7HJR1
     confirmed: 00d3546fe417
 ---
 **Objective:** verify that the boiler interface behaves as specified.

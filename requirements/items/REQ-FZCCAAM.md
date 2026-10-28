@@ -1,18 +1,19 @@
 ---
-id: TC-K6DYGD
+id: REQ-FZCCAAM
 type: test-case
 title: "Verify: Telemetry pipeline displays firmware images"
 status: Approved
 priority: Medium
 owner: L. Samir
-parent: INFO-7P4D8D
-order: 70
+former-id: TC-K6DYGD
+parent: REQ-8351896
+order: a6
 links:
   - type: verifies
-    target: SYS-175X0G
+    target: REQ-YRG0KW0
     confirmed: 3e7e54a5d4f3
   - type: verifies
-    target: SW-HQNY5C
+    target: REQ-ZZ2DVYX
     confirmed: ea7ac01e52a8
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

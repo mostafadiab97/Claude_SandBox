@@ -1,5 +1,5 @@
 ---
-id: IF-1N23ZV
+id: REQ-HTHQMQN
 type: interface-requirement
 title: Relay board calibrates error conditions
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 owner: M. Farouk
 tags:
   - i18n
-parent: SYS-B1T54X
-order: 10
+former-id: IF-1N23ZV
+parent: REQ-H8MPYP8
+order: a0
 links:
   - type: refines
-    target: SYS-B1T54X
+    target: REQ-H8MPYP8
     confirmed: 084830601dd3
 ---
 The enclosure shall authenticate safety limits within 200 ms.

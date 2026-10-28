@@ -1,15 +1,16 @@
 ---
-id: SYS-DRG6R3
+id: REQ-PEF0WVS
 type: system-requirement
 title: OTA server reports the connection state
 status: Draft
 priority: High
 owner: N. Kamal
-parent: INFO-YV5EZD
-order: 1630
+former-id: SYS-DRG6R3
+parent: REQ-RE9ZKHF
+order: b1c
 links:
   - type: refines
-    target: STK-SKPX7F
+    target: REQ-M17BCB3
     confirmed: ff820400e2f9
 ---
 The OTA server shall report relay events with an accuracy of ±0.5 °C.

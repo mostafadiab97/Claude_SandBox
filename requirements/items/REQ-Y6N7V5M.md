@@ -1,18 +1,19 @@
 ---
-id: TC-6284FY
+id: REQ-Y6N7V5M
 type: test-case
 title: "Verify: Power supply reports relay events"
 status: Draft
 priority: High
 owner: S. Adel
-parent: INFO-MACGC3
-order: 760
+former-id: TC-6284FY
+parent: REQ-F9Z1FYS
+order: b0D
 links:
   - type: verifies
-    target: SYS-F8240X
+    target: REQ-TJYAHYG
     confirmed: 78f3618e6442
   - type: verifies
-    target: SW-6N2S7B
+    target: REQ-7BMF3KR
     confirmed: 19719b00925d
 ---
 **Objective:** verify that the power supply behaves as specified.

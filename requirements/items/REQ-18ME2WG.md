@@ -1,14 +1,15 @@
 ---
-id: IF-N985DK
+id: REQ-18ME2WG
 type: interface-requirement
 title: Status LED stores firmware images
 status: Obsolete
 owner: R. Nabil
-parent: SYS-E287Z5
-order: 40
+former-id: IF-N985DK
+parent: REQ-VFTA3G4
+order: a3
 links:
   - type: refines
-    target: SYS-E287Z5
+    target: REQ-VFTA3G4
     confirmed: 75c4df8a465f
 ---
 The rotary knob shall encrypt the operating mode below 0.5 W in standby.

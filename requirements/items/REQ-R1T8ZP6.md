@@ -1,17 +1,18 @@
 ---
-id: DEF-2QAP2T
+id: REQ-R1T8ZP6
 type: defect
 title: "Defect: battery backup does not log audit records"
 status: Draft
 owner: H. Mostafa
-parent: INFO-BB7M2N
-order: 10
+former-id: DEF-2QAP2T
+parent: REQ-995FBPM
+order: a0
 links:
   - type: relates-to
-    target: TC-Y0QTD7
+    target: REQ-K0MQQGN
     confirmed: 66c1ae986d92
   - type: relates-to
-    target: SYS-FMNTZ0
+    target: REQ-Q01BYF2
     confirmed: 07a6530c6e8f
 ---
 Found during regression testing of build 2.5.9.

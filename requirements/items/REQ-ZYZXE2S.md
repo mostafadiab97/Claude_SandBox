@@ -1,18 +1,19 @@
 ---
-id: TC-FW3SHK
+id: REQ-ZYZXE2S
 type: test-case
 title: "Verify: Zone valve reports the connection state"
 status: Obsolete
 priority: High
 owner: A. Hassan
-parent: INFO-MS9DAG
-order: 50
+former-id: TC-FW3SHK
+parent: REQ-XGWSK2K
+order: a4
 links:
   - type: verifies
-    target: SYS-EPQX5G
+    target: REQ-WT15HBZ
     confirmed: 839c3250cb67
   - type: verifies
-    target: SW-DGDM8Z
+    target: REQ-EC653CP
     confirmed: 073b39b4eae5
 ---
 **Objective:** verify that the zone valve behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: SW-3ASG6E
+id: REQ-HHXNP2F
 type: software-requirement
 title: Bluetooth LE link validates audit records
 status: Review
 priority: High
 owner: J. Müller
-parent: SYS-PP9XSM
-order: 20
+former-id: SW-3ASG6E
+parent: REQ-VDG3RRC
+order: a1
 links:
   - type: refines
-    target: SYS-PP9XSM
+    target: REQ-VDG3RRC
     confirmed: f6b12bd52bbe
 ---
 The local API shall detect error conditions when the network is unavailable.

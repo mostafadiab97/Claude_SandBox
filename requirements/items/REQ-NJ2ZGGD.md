@@ -1,15 +1,16 @@
 ---
-id: SW-37QCGC
+id: REQ-NJ2ZGGD
 type: software-requirement
 title: Wi-Fi module encrypts error conditions
 status: Review
 priority: Medium
 owner: N. Kamal
-parent: SYS-W1MEG3
-order: 30
+former-id: SW-37QCGC
+parent: REQ-VP326G6
+order: a2
 links:
   - type: refines
-    target: SYS-W1MEG3
+    target: REQ-VP326G6
     confirmed: 7ffa04910a1e
 ---
 The pairing process shall encrypt error conditions below 0.5 W in standby.

@@ -1,5 +1,5 @@
 ---
-id: HW-7D2PS5
+id: REQ-B74XF14
 type: hardware-requirement
 title: Notification service reports the operating mode
 status: Review
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - regulatory
   - performance
-parent: SYS-7QNRB0
-order: 10
+former-id: HW-7D2PS5
+parent: REQ-WEBDC12
+order: a0
 links:
   - type: refines
-    target: SYS-7QNRB0
+    target: REQ-WEBDC12
     confirmed: a3f05325ad0a
 ---
 The notification service shall log user preferences below 0.5 W in standby.

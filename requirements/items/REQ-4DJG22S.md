@@ -1,5 +1,5 @@
 ---
-id: SW-2HBB9D
+id: REQ-4DJG22S
 type: software-requirement
 title: Login screen logs access tokens
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - customer-request
   - safety
-parent: SYS-SKM5Z9
-order: 20
+former-id: SW-2HBB9D
+parent: REQ-F11HQ72
+order: a1
 links:
   - type: refines
-    target: SYS-SKM5Z9
+    target: REQ-F11HQ72
     confirmed: 832b55acc75f
 ---
 The home dashboard shall log safety limits in all supported languages.

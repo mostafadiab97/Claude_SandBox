@@ -1,15 +1,16 @@
 ---
-id: SYS-TE6FDF
+id: REQ-TF5DFFZ
 type: system-requirement
 title: Telemetry pipeline synchronises sensor readings
 status: Approved
 priority: High
 owner: Y. Saber
-parent: INFO-YV5EZD
-order: 1840
+former-id: SYS-TE6FDF
+parent: REQ-RE9ZKHF
+order: b1x
 links:
   - type: refines
-    target: STK-1CAAXP
+    target: REQ-ZEW4521
     confirmed: a853df6f0866
 ---
 The telemetry pipeline shall notify relay events for up to 8 zones.

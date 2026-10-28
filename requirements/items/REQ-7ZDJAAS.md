@@ -1,5 +1,5 @@
 ---
-id: SW-CT0KF3
+id: REQ-7ZDJAAS
 type: software-requirement
 title: User account service measures the room temperature
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - connectivity
   - accessibility
-parent: SYS-71EHW5
-order: 30
+former-id: SW-CT0KF3
+parent: REQ-HZEGGCM
+order: a2
 links:
   - type: refines
-    target: SYS-71EHW5
+    target: REQ-HZEGGCM
     confirmed: 79a9807170d2
 ---
 The device registry shall synchronise the operating mode after a power loss.

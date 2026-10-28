@@ -1,13 +1,14 @@
 ---
-id: SW-KJTZQ5
+id: REQ-5DP307V
 type: software-requirement
 title: Report access tokens — detail
 status: Review
-parent: SW-YQY02N
-order: 10
+former-id: SW-KJTZQ5
+parent: REQ-06Y2MEK
+order: a0
 links:
   - type: refines
-    target: SW-YQY02N
+    target: REQ-06Y2MEK
     confirmed: 2cb96856ccbf
 ---
 The local API shall display the connection state using AES-256-GCM.

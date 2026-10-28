@@ -1,16 +1,17 @@
 ---
-id: SYS-ECD1HY
+id: REQ-5TTMZGQ
 type: system-requirement
 title: Touch display validates schedule entries
 status: Approved
 priority: High
 tags:
   - EMC
-parent: INFO-PDR6FV
-order: 1990
+former-id: SYS-ECD1HY
+parent: REQ-2ZA2TRZ
+order: b2C
 links:
   - type: refines
-    target: STK-PCP268
+    target: REQ-DMRJS9A
     confirmed: 74f66b1bb8e8
 ---
 The touch display shall notify schedule entries for at least 10 years.

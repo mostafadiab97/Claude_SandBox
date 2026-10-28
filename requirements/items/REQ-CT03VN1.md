@@ -1,15 +1,16 @@
 ---
-id: SW-Y1MQKX
+id: REQ-CT03VN1
 type: software-requirement
 title: Tamper detection reports relay events
 status: Approved
 priority: Medium
 owner: É. Laurent
-parent: SYS-5JP4T4
-order: 30
+former-id: SW-Y1MQKX
+parent: REQ-5RZXY01
+order: a2
 links:
   - type: refines
-    target: SYS-5JP4T4
+    target: REQ-5RZXY01
     confirmed: 8b6fa0928d20
 ---
 The encryption layer shall switch energy consumption using AES-256-GCM.

@@ -1,14 +1,15 @@
 ---
-id: SYS-6892JV
+id: REQ-901RZ6N
 type: system-requirement
 title: Device registry authenticates humidity values
 status: Approved
 owner: L. Samir
-parent: INFO-YV5EZD
-order: 1880
+former-id: SYS-6892JV
+parent: REQ-RE9ZKHF
+order: b21
 links:
   - type: refines
-    target: STK-1CAAXP
+    target: REQ-ZEW4521
     confirmed: a853df6f0866
 ---
 The device registry shall limit schedule entries for at least 10 years.

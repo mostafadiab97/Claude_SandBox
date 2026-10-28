@@ -1,15 +1,16 @@
 ---
-id: TC-J1QQWT
+id: REQ-D66FVA3
 type: test-case
 title: "Verify: Wi-Fi module authenticates the room temperature"
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: INFO-F0M7VC
-order: 1290
+former-id: TC-J1QQWT
+parent: REQ-67RQXCK
+order: b14
 links:
   - type: verifies
-    target: SYS-749A38
+    target: REQ-GHJK43J
     confirmed: a8274ea6218e
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

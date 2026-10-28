@@ -1,5 +1,5 @@
 ---
-id: DE-3JCWRP
+id: REQ-CNBJ0D6
 type: design-element
 title: Module menu_system_87
 status: Review
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - performance
   - cost
-parent: SW-CJVNAT
-order: 10
+former-id: DE-3JCWRP
+parent: REQ-1D7H5T6
+order: a0
 links:
   - type: implements
-    target: SW-CJVNAT
+    target: REQ-1D7H5T6
     confirmed: c41a3807a409
 ---
 Implemented in `src/ui/menu_system.c`.

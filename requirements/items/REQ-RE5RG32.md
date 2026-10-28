@@ -1,5 +1,5 @@
 ---
-id: HW-MMXAQK
+id: REQ-RE5RG32
 type: hardware-requirement
 title: Home dashboard encrypts energy consumption
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - security
   - safety
   - ux
-parent: SYS-RZKYW5
-order: 20
+former-id: HW-MMXAQK
+parent: REQ-QCTQNWF
+order: a1
 links:
   - type: refines
-    target: SYS-RZKYW5
+    target: REQ-QCTQNWF
     confirmed: 7688feffffa3
 ---
 The mobile app shall measure user preferences using AES-256-GCM.

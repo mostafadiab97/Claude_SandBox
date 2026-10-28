@@ -1,5 +1,5 @@
 ---
-id: SYS-YF7TFF
+id: REQ-DXJ540R
 type: system-requirement
 title: Relay board reports audit records
 status: Approved
@@ -8,14 +8,15 @@ owner: Y. Saber
 tags:
   - regulatory
   - cost
-parent: INFO-A6P9A8
-order: 1140
+former-id: SYS-YF7TFF
+parent: REQ-CMCS31A
+order: b0p
 links:
   - type: refines
-    target: STK-W18EQ4
+    target: REQ-GPRWN7N
     confirmed: aeec35e06317
   - type: mitigates
-    target: RSK-4NE1NJ
+    target: REQ-MZ5YCZY
     confirmed: 56f6781ca0d3
 ---
 The relay board shall validate schedule entries after a power loss.

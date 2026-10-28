@@ -1,5 +1,5 @@
 ---
-id: SYS-SGE8R7
+id: REQ-YSKYE18
 type: system-requirement
 title: Power supply logs access tokens
 status: Review
@@ -8,14 +8,15 @@ owner: L. Samir
 tags:
   - i18n
   - security
-parent: INFO-A6P9A8
-order: 420
+former-id: SYS-SGE8R7
+parent: REQ-CMCS31A
+order: af
 links:
   - type: refines
-    target: STK-JAQHJP
+    target: REQ-V8PT5BV
     confirmed: b0af11a5c3c2
   - type: mitigates
-    target: RSK-3VPDQ8
+    target: REQ-WWVJC3K
     confirmed: 3cf91f6b37bc
 ---
 The power supply shall encrypt user preferences for up to 8 zones.

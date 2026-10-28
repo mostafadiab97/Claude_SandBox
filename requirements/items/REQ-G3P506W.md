@@ -1,15 +1,16 @@
 ---
-id: IF-7X5PMN
+id: REQ-G3P506W
 type: interface-requirement
 title: Secure boot notifys firmware images
 status: Draft
 priority: Medium
 owner: R. Nabil
-parent: SYS-J8A4BW
-order: 20
+former-id: IF-7X5PMN
+parent: REQ-6MEBSJR
+order: a1
 links:
   - type: refines
-    target: SYS-J8A4BW
+    target: REQ-6MEBSJR
     confirmed: b28f6844e565
 ---
 The secure boot shall authenticate safety limits after a power loss.

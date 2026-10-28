@@ -1,14 +1,15 @@
 ---
-id: SYS-569DVN
+id: REQ-A5ZTQEE
 type: system-requirement
 title: Device registry authenticates user preferences
 status: Draft
 owner: É. Laurent
-parent: INFO-YV5EZD
-order: 1530
+former-id: SYS-569DVN
+parent: REQ-RE9ZKHF
+order: b1S
 links:
   - type: refines
-    target: STK-DNB9QM
+    target: REQ-VPP3H2E
     confirmed: 90394ce55463
 ---
 The device registry shall encrypt relay events at least once per minute.

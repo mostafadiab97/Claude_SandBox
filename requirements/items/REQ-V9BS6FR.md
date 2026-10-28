@@ -1,5 +1,5 @@
 ---
-id: SW-JTH7ZD
+id: REQ-V9BS6FR
 type: software-requirement
 title: Requirement with a very long text (120 lines)
 status: Draft
@@ -8,8 +8,9 @@ tags:
   - i18n
   - performance
   - security
-parent: INFO-ECHASH
-order: 70
+former-id: SW-JTH7ZD
+parent: REQ-6H15AV2
+order: a6
 ---
 1. The firmware shall log sensor readings for at least 10 years.
 2. The firmware shall restore the connection state in under 3 s.

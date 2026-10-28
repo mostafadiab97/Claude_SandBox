@@ -1,15 +1,16 @@
 ---
-id: UC-8MACDV
+id: REQ-0M1NS5Z
 type: use-case
 title: "UC: Synchronise firmware images with the backlight"
 status: Draft
 priority: Low
 owner: محمد علي
-parent: INFO-MK4XMC
-order: 150
+former-id: UC-8MACDV
+parent: REQ-6JKVVN1
+order: aE
 links:
   - type: relates-to
-    target: STK-HH6ZNR
+    target: REQ-PPDBMB4
     confirmed: caa77fe9df1c
 ---
 **Actor:** home owner

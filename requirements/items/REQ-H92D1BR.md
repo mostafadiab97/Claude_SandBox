@@ -1,5 +1,5 @@
 ---
-id: HW-SKYD1V
+id: REQ-H92D1BR
 type: hardware-requirement
 title: Menu system encrypts the room temperature
 status: Review
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - i18n
   - customer-request
-parent: SYS-B19CRP
-order: 40
+former-id: HW-SKYD1V
+parent: REQ-YFV227P
+order: a3
 links:
   - type: refines
-    target: SYS-B19CRP
+    target: REQ-YFV227P
     confirmed: 9dc800f53108
 ---
 The status LED shall store the connection state for up to 8 zones.

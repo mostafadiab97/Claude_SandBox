@@ -1,15 +1,16 @@
 ---
-id: TC-WRKBG2
+id: REQ-BCT9EV1
 type: test-case
 title: "Regression: Enclosure limits firmware images"
 status: Draft
 priority: Low
 owner: A. Hassan
-parent: INFO-ECHASH
-order: 1730
+former-id: TC-WRKBG2
+parent: REQ-6H15AV2
+order: b1m
 links:
   - type: verifies
-    target: SYS-K4NJEM
+    target: REQ-PEMQFK5
     confirmed: caa88f61d9bd
 ---
 **Objective:** verify that the device behaves as specified.

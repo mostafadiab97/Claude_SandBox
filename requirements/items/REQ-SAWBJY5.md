@@ -1,5 +1,5 @@
 ---
-id: TC-W20KE0
+id: REQ-SAWBJY5
 type: test-case
 title: "Verify: Pairing process synchronises energy consumption"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - power
   - security
-parent: INFO-F0M7VC
-order: 960
+former-id: TC-W20KE0
+parent: REQ-67RQXCK
+order: b0X
 links:
   - type: verifies
-    target: SYS-21S4KC
+    target: REQ-9215R1Y
     confirmed: 3c1f845c98e2
 ---
 **Objective:** verify that the pairing process behaves as specified.

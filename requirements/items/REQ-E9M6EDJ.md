@@ -1,15 +1,16 @@
 ---
-id: HW-YW94DE
+id: REQ-E9M6EDJ
 type: hardware-requirement
 title: Home dashboard reports safety limits
 status: Approved
 priority: High
 owner: Y. Saber
-parent: SYS-9PZN49
-order: 30
+former-id: HW-YW94DE
+parent: REQ-FWM1WC5
+order: a2
 links:
   - type: refines
-    target: SYS-9PZN49
+    target: REQ-FWM1WC5
     confirmed: 10b09742ae8a
 ---
 The login screen shall synchronise safety limits after a power loss.

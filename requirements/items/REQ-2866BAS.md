@@ -1,5 +1,5 @@
 ---
-id: IF-0YX7MJ
+id: REQ-2866BAS
 type: interface-requirement
 title: "Signal 487: error conditions"
 status: Approved
@@ -8,7 +8,8 @@ tags:
   - release-1.0
   - i18n
   - ux
-parent: INFO-2TM0JP
-order: 4870
+former-id: IF-0YX7MJ
+parent: REQ-RJ0KHPT
+order: b6q
 ---
 Interface signal number 487.

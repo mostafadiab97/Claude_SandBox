@@ -1,16 +1,17 @@
 ---
-id: DE-ZNWMXK
+id: REQ-ZM7TFQ3
 type: design-element
 title: Module heat_pump_driver_11
 status: Obsolete
 priority: Low
 tags:
   - EMC
-parent: SW-60M2TJ
-order: 10
+former-id: DE-ZNWMXK
+parent: REQ-QFJ65V7
+order: a0
 links:
   - type: implements
-    target: SW-60M2TJ
+    target: REQ-QFJ65V7
     confirmed: c1d3612d6600
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

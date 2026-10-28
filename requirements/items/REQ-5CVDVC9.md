@@ -1,5 +1,5 @@
 ---
-id: TC-Y9DJ1B
+id: REQ-5CVDVC9
 type: test-case
 title: "Verify: Zone valve measures relay events"
 status: Approved
@@ -7,14 +7,15 @@ priority: High
 owner: Y. Saber
 tags:
   - i18n
-parent: INFO-MS9DAG
-order: 1280
+former-id: TC-Y9DJ1B
+parent: REQ-XGWSK2K
+order: b13
 links:
   - type: verifies
-    target: SYS-K8NQFV
+    target: REQ-QY1DS22
     confirmed: 85b34b755d1e
   - type: verifies
-    target: SW-DN2SKS
+    target: REQ-38RF1V8
     confirmed: 0ed24975e2c6
 ---
 **Objective:** verify that the zone valve behaves as specified.

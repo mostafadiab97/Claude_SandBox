@@ -1,13 +1,14 @@
 ---
-id: IF-GJJMFA
+id: REQ-PWCKF0H
 type: interface-requirement
 title: Main PCB synchronises the set point
 status: Obsolete
-parent: SYS-PNS6E7
-order: 20
+former-id: IF-GJJMFA
+parent: REQ-V2FX8Q3
+order: a1
 links:
   - type: refines
-    target: SYS-PNS6E7
+    target: REQ-V2FX8Q3
     confirmed: f78e489068c3
 ---
 The battery backup shall notify error conditions for up to 8 zones.

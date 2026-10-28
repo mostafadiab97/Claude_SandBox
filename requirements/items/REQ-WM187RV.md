@@ -1,5 +1,5 @@
 ---
-id: IF-41DA8E
+id: REQ-WM187RV
 type: interface-requirement
 title: "Signal 482: sensor readings"
 status: Draft
@@ -8,7 +8,8 @@ owner: محمد علي
 tags:
   - performance
   - connectivity
-parent: INFO-2TM0JP
-order: 4820
+former-id: IF-41DA8E
+parent: REQ-RJ0KHPT
+order: b6l
 ---
 Interface signal number 482.

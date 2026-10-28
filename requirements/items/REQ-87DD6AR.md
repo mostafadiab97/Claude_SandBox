@@ -1,5 +1,5 @@
 ---
-id: TC-PSQ8B1
+id: REQ-87DD6AR
 type: test-case
 title: "Verify: Telemetry pipeline reports the operating mode"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - EMC
   - release-1.0
   - cost
-parent: INFO-7P4D8D
-order: 170
+former-id: TC-PSQ8B1
+parent: REQ-8351896
+order: aG
 links:
   - type: verifies
-    target: SYS-Z2TFC8
+    target: REQ-NTH5FYH
     confirmed: 985116655f53
   - type: verifies
-    target: SW-KZQTY6
+    target: REQ-YMMXAK8
     confirmed: 2d0abae3753b
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

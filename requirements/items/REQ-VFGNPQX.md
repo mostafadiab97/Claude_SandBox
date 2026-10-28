@@ -1,5 +1,5 @@
 ---
-id: TC-B5P3GT
+id: REQ-VFGNPQX
 type: test-case
 title: "Verify: OTA server stores audit records"
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: S. Adel
 tags:
   - release-1.0
-parent: INFO-7P4D8D
-order: 650
+former-id: TC-B5P3GT
+parent: REQ-8351896
+order: b02
 links:
   - type: verifies
-    target: SYS-5FQKC3
+    target: REQ-QYR5017
     confirmed: 93e192f9b401
 ---
 **Objective:** verify that the OTA server behaves as specified.

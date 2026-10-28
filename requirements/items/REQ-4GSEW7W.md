@@ -1,15 +1,16 @@
 ---
-id: IF-H41NWV
+id: REQ-4GSEW7W
 type: interface-requirement
 title: Report audit records — detail
 status: Review
 priority: Medium
 owner: R. Nabil
-parent: IF-VCWYNC
-order: 10
+former-id: IF-H41NWV
+parent: REQ-BAVX8Z7
+order: a0
 links:
   - type: refines
-    target: IF-VCWYNC
+    target: REQ-BAVX8Z7
     confirmed: 331a2e47ec5b
 ---
 The enclosure shall switch relay events with an accuracy of ±0.5 °C.

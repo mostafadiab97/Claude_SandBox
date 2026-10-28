@@ -1,15 +1,16 @@
 ---
-id: SYS-EJ6VGS
+id: REQ-PSTERQ0
 type: system-requirement
 title: Local API validates schedule entries
 status: Obsolete
 priority: Medium
 owner: R. Nabil
-parent: INFO-NRVHA2
-order: 1270
+former-id: SYS-EJ6VGS
+parent: REQ-6R94HFM
+order: b12
 links:
   - type: refines
-    target: STK-AAZ4HV
+    target: REQ-M9DYEF5
     confirmed: 44fc7956dbf8
 ---
 The local API shall limit the operating mode in all supported languages.

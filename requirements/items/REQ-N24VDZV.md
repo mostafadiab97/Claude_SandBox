@@ -1,5 +1,5 @@
 ---
-id: IF-4V4FV2
+id: REQ-N24VDZV
 type: interface-requirement
 title: "Signal 538: access tokens"
 status: Approved
@@ -9,7 +9,8 @@ tags:
   - regulatory
   - release-1.0
   - i18n
-parent: INFO-2TM0JP
-order: 5380
+former-id: IF-4V4FV2
+parent: REQ-RJ0KHPT
+order: b7f
 ---
 Interface signal number 538.

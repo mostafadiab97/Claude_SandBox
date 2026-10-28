@@ -1,5 +1,5 @@
 ---
-id: SW-5J9TJB
+id: REQ-8F2Q13X
 type: software-requirement
 title: Validate humidity values — detail
 status: Review
@@ -7,11 +7,12 @@ owner: N. Kamal
 tags:
   - release-2.0
   - ux
-parent: SW-6Y9Q4D
-order: 10
+former-id: SW-5J9TJB
+parent: REQ-D6GQ9HK
+order: a0
 links:
   - type: refines
-    target: SW-6Y9Q4D
+    target: REQ-D6GQ9HK
     confirmed: 5a23702d2e9c
 ---
 The secure boot shall switch humidity values for at least 10 years.

@@ -1,14 +1,15 @@
 ---
-id: SW-T4AA28
+id: REQ-YW6AHZH
 type: software-requirement
 title: Heat pump driver stores firmware images
 status: Draft
 priority: Medium
-parent: SYS-X7MMJ8
-order: 20
+former-id: SW-T4AA28
+parent: REQ-66AJY46
+order: a1
 links:
   - type: refines
-    target: SYS-X7MMJ8
+    target: REQ-66AJY46
     confirmed: 0b9a1e94967b
 ---
 The boiler interface shall detect humidity values for up to 8 zones.

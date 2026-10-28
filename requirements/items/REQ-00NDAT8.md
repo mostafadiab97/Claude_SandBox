@@ -1,5 +1,5 @@
 ---
-id: TC-5P5CEG
+id: REQ-00NDAT8
 type: test-case
 title: "Verify: Telemetry pipeline stores the operating mode"
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 owner: É. Laurent
 tags:
   - performance
-parent: INFO-7P4D8D
-order: 1410
+former-id: TC-5P5CEG
+parent: REQ-8351896
+order: b1G
 links:
   - type: verifies
-    target: SYS-6YK5CA
+    target: REQ-4NAPSHQ
     confirmed: 2507133e13d3
   - type: verifies
-    target: SW-DTX806
+    target: REQ-RHE5XZX
     confirmed: 9183eb0e79f7
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

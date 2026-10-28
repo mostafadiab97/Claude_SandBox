@@ -1,5 +1,5 @@
 ---
-id: IF-9RG5Q1
+id: REQ-JMSTS7R
 type: interface-requirement
 title: Rotary knob validates schedule entries
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - connectivity
-parent: SYS-BNJ0XS
-order: 10
+former-id: IF-9RG5Q1
+parent: REQ-XTZFEK4
+order: a0
 links:
   - type: refines
-    target: SYS-BNJ0XS
+    target: REQ-XTZFEK4
     confirmed: 1bddaa57818d
 ---
 The touch display shall authenticate safety limits within 200 ms.

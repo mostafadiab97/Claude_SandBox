@@ -1,5 +1,5 @@
 ---
-id: SYS-ABZP07
+id: REQ-RB03G7X
 type: system-requirement
 title: Tamper detection restores the connection state
 status: Review
@@ -9,11 +9,12 @@ tags:
   - performance
   - EMC
   - safety
-parent: INFO-0229G8
-order: 220
+former-id: SYS-ABZP07
+parent: REQ-H9113WA
+order: aL
 links:
   - type: refines
-    target: STK-SM9B7Z
+    target: REQ-Z2QF8WD
     confirmed: 44235e2789f0
 ---
 The tamper detection shall calibrate the room temperature without user interaction.

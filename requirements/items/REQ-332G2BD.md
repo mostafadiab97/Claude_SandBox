@@ -1,5 +1,5 @@
 ---
-id: IF-Y6ZJ04
+id: REQ-332G2BD
 type: interface-requirement
 title: Bluetooth LE link validates the room temperature
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - accessibility
-parent: SYS-9D1YDX
-order: 10
+former-id: IF-Y6ZJ04
+parent: REQ-R3YX2BZ
+order: a0
 links:
   - type: refines
-    target: SYS-9D1YDX
+    target: REQ-R3YX2BZ
     confirmed: c9cc1c48d86c
 ---
 The pairing process shall store energy consumption within 200 ms.

@@ -1,15 +1,16 @@
 ---
-id: SYS-5SCN5H
+id: REQ-J2C719K
 type: system-requirement
 title: Mobile app calibrates schedule entries
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: INFO-2XXBRS
-order: 80
+former-id: SYS-5SCN5H
+parent: REQ-QYXGSQ4
+order: a7
 links:
   - type: refines
-    target: STK-4F6B1Y
+    target: REQ-5P7JDVE
     confirmed: 4a1d76b1da2c
 ---
 The mobile app shall detect the operating mode in under 3 s.

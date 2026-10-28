@@ -1,5 +1,5 @@
 ---
-id: SW-2GMRED
+id: REQ-TPTJ3XY
 type: software-requirement
 title: Boiler interface measures the operating mode
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - i18n
   - ux
   - safety
-parent: SYS-RD9A4G
-order: 10
+former-id: SW-2GMRED
+parent: REQ-1ERKA7D
+order: a0
 links:
   - type: refines
-    target: SYS-RD9A4G
+    target: REQ-1ERKA7D
     confirmed: 9168a6edb813
 ---
 The boiler interface shall notify safety limits with an accuracy of ±0.5 °C.

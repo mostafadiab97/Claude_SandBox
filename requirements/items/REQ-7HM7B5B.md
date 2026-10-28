@@ -1,5 +1,5 @@
 ---
-id: DE-BQV4E4
+id: REQ-7HM7B5B
 type: design-element
 title: Module boiler_interface_17
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - performance
   - ux
   - security
-parent: SW-DK6ZZF
-order: 10
+former-id: DE-BQV4E4
+parent: REQ-5ERHXB0
+order: a0
 links:
   - type: implements
-    target: SW-DK6ZZF
+    target: REQ-5ERHXB0
     confirmed: 3b32dc108d16
 ---
 Implemented in `src/heat/boiler_interface.c`.

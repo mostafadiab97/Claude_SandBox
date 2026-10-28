@@ -1,15 +1,16 @@
 ---
-id: SW-G7AR1V
+id: REQ-F5FD33W
 type: software-requirement
 title: Cloud backend stores energy consumption
 status: Draft
 priority: Medium
 owner: S. Adel
-parent: SYS-6FSERM
-order: 20
+former-id: SW-G7AR1V
+parent: REQ-8M8WPB5
+order: a1
 links:
   - type: refines
-    target: SYS-6FSERM
+    target: REQ-8M8WPB5
     confirmed: "633397687564"
 ---
 The cloud backend shall authenticate the room temperature below 0.5 W in standby.

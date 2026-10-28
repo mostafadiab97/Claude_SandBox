@@ -1,13 +1,14 @@
 ---
-id: UC-YTCGAT
+id: REQ-XT0NZN0
 type: use-case
 title: "UC: Restore the set point with the login screen"
 status: Obsolete
 priority: High
 tags:
   - accessibility
-parent: INFO-QHXQWK
-order: 160
+former-id: UC-YTCGAT
+parent: REQ-N3B9NZ4
+order: aC
 links:
   - type: relates-to
     target: STK-H87WHA

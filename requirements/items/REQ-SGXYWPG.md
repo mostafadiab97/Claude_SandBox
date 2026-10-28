@@ -1,7 +1,8 @@
 ---
-id: INFO-DNAGHM
+id: REQ-SGXYWPG
 type: information
-title: 5. Power & Hardware
-order: 60
+title: Power & Hardware
+former-id: INFO-DNAGHM
+order: a5
 ---
 Requirements for the power & hardware.

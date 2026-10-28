@@ -1,13 +1,14 @@
 ---
-id: SW-JH3JZR
+id: REQ-60ZFB33
 type: software-requirement
 title: Login screen logs the set point
 status: Obsolete
-parent: SYS-3F8YD1
-order: 20
+former-id: SW-JH3JZR
+parent: REQ-DGEMKE8
+order: a1
 links:
   - type: refines
-    target: SYS-3F8YD1
+    target: REQ-DGEMKE8
     confirmed: a6cd254de65c
 ---
 The notification service shall switch the room temperature when the network is unavailable.

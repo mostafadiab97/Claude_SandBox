@@ -1,15 +1,16 @@
 ---
-id: HW-DDQG2R
+id: REQ-RPH2760
 type: hardware-requirement
 title: Main PCB logs the operating mode
 status: Draft
 priority: High
 owner: محمد علي
-parent: SYS-7TGW7V
-order: 10
+former-id: HW-DDQG2R
+parent: REQ-3Q8DA7J
+order: a0
 links:
   - type: refines
-    target: SYS-7TGW7V
+    target: REQ-3Q8DA7J
     confirmed: 5c07b577ecff
 ---
 The enclosure shall calibrate humidity values using AES-256-GCM.

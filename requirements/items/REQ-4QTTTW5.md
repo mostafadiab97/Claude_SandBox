@@ -1,5 +1,5 @@
 ---
-id: IF-W8NHD9
+id: REQ-4QTTTW5
 type: interface-requirement
 title: Mobile app switchs user preferences
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - power
-parent: SYS-VA9RN1
-order: 20
+former-id: IF-W8NHD9
+parent: REQ-7DAZ6VS
+order: a1
 links:
   - type: refines
-    target: SYS-VA9RN1
+    target: REQ-7DAZ6VS
     confirmed: 93a4d8e298aa
 ---
 The notification service shall measure error conditions with an accuracy of ±0.5 °C.

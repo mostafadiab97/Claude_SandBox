@@ -1,5 +1,5 @@
 ---
-id: SW-AXJ7EV
+id: REQ-N3GWWTF
 type: software-requirement
 title: Zigbee radio calibrates humidity values
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - customer-request
   - power
-parent: SYS-RP2FET
-order: 30
+former-id: SW-AXJ7EV
+parent: REQ-93NME1R
+order: a2
 links:
   - type: refines
-    target: SYS-RP2FET
+    target: REQ-93NME1R
     confirmed: f29685558736
 ---
 The Bluetooth LE link shall store the room temperature with an accuracy of ±0.5 °C.

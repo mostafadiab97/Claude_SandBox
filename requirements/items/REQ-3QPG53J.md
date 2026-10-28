@@ -1,5 +1,5 @@
 ---
-id: DE-W2RD31
+id: REQ-3QPG53J
 type: design-element
 title: Module pairing_process_80
 status: Review
@@ -9,11 +9,12 @@ tags:
   - i18n
   - cost
   - release-2.0
-parent: SW-1E8HZD
-order: 10
+former-id: DE-W2RD31
+parent: REQ-RYQZWKQ
+order: a0
 links:
   - type: implements
-    target: SW-1E8HZD
+    target: REQ-RYQZWKQ
     confirmed: eacf408dec81
 ---
 Implemented in `src/conn/pairing_process.c`.

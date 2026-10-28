@@ -1,5 +1,5 @@
 ---
-id: SW-ME792H
+id: REQ-4RTEDT7
 type: software-requirement
 title: Wi-Fi module logs the operating mode
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - security
   - i18n
   - regulatory
-parent: SYS-VD95TW
-order: 20
+former-id: SW-ME792H
+parent: REQ-PVS2KNJ
+order: a1
 links:
   - type: refines
-    target: SYS-VD95TW
+    target: REQ-PVS2KNJ
     confirmed: 9bff03016b87
 ---
 The Bluetooth LE link shall display humidity values at least once per minute.

@@ -1,14 +1,15 @@
 ---
-id: SYS-1XCVNB
+id: REQ-43JY6PF
 type: system-requirement
 title: Mobile app synchronises firmware images
 status: Approved
 priority: High
-parent: INFO-2XXBRS
-order: 1330
+former-id: SYS-1XCVNB
+parent: REQ-QYXGSQ4
+order: b18
 links:
   - type: refines
-    target: STK-ND3D08
+    target: REQ-BWGMSWJ
     confirmed: df91c673f737
 ---
 The mobile app shall calibrate user preferences after a power loss.

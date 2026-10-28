@@ -1,5 +1,5 @@
 ---
-id: TC-9BVKQ5
+id: REQ-WQCQYZ3
 type: test-case
 title: Hub verification 40
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - accessibility
   - EMC
-parent: INFO-ECHASH
-order: 490
+former-id: TC-9BVKQ5
+parent: REQ-6H15AV2
+order: am
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

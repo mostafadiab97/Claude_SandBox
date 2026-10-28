@@ -1,14 +1,15 @@
 ---
-id: SW-NPDZNQ
+id: REQ-D7M8XRH
 type: software-requirement
 title: Over-temperature monitor logs the set point
 status: Draft
 priority: Medium
-parent: SYS-E3HMJ3
-order: 10
+former-id: SW-NPDZNQ
+parent: REQ-BRKVDEZ
+order: a0
 links:
   - type: refines
-    target: SYS-E3HMJ3
+    target: REQ-BRKVDEZ
     confirmed: 96abfc693325
 ---
 The over-temperature monitor shall synchronise the operating mode below 0.5 W in standby.

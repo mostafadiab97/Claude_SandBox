@@ -1,14 +1,15 @@
 ---
-id: IF-3D0891
+id: REQ-XDXF93H
 type: interface-requirement
 title: Notification service authenticates the set point
 status: Obsolete
 priority: Low
-parent: SYS-BG5HSX
-order: 30
+former-id: IF-3D0891
+parent: REQ-W9VM7CC
+order: a2
 links:
   - type: refines
-    target: SYS-BG5HSX
+    target: REQ-W9VM7CC
     confirmed: ca78fcddf889
 ---
 The home dashboard shall display sensor readings with an accuracy of ±0.5 °C.

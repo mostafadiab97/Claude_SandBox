@@ -1,14 +1,15 @@
 ---
-id: SW-TTRVPR
+id: REQ-4R0Q41B
 type: software-requirement
 title: Home dashboard restores relay events
 status: Approved
 owner: H. Mostafa
-parent: SYS-ZM1TJV
-order: 40
+former-id: SW-TTRVPR
+parent: REQ-TK8PFSP
+order: a3
 links:
   - type: refines
-    target: SYS-ZM1TJV
+    target: REQ-TK8PFSP
     confirmed: d30e404e164e
 ---
 The mobile app shall detect access tokens below 0.5 W in standby.

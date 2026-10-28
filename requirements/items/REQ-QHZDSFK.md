@@ -1,5 +1,5 @@
 ---
-id: RSK-CG120Q
+id: REQ-QHZDSFK
 type: risk
 title: "Risk: Bluetooth LE link fails to synchronise user preferences"
 status: Review
@@ -8,8 +8,9 @@ tags:
   - power
   - ux
   - performance
-parent: INFO-9MPGZT
-order: 20
+former-id: RSK-CG120Q
+parent: REQ-FD1MAS9
+order: a1
 ---
 **Hazard:** the Bluetooth LE link could fail to authenticate user preferences.
 

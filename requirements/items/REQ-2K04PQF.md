@@ -1,11 +1,12 @@
 ---
-id: IF-JZMBED
+id: REQ-2K04PQF
 type: interface-requirement
 title: "Signal 218: the room temperature"
 status: Obsolete
 priority: High
 owner: R. Nabil
-parent: INFO-2TM0JP
-order: 2180
+former-id: IF-JZMBED
+parent: REQ-RJ0KHPT
+order: b2V
 ---
 Interface signal number 218.

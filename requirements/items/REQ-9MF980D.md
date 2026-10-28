@@ -1,14 +1,15 @@
 ---
-id: SW-8EGZ51
+id: REQ-9MF980D
 type: software-requirement
 title: Authenticate audit records — detail
 status: Approved
 priority: Medium
-parent: SW-DCD4TG
-order: 10
+former-id: SW-8EGZ51
+parent: REQ-MFWJADQ
+order: a0
 links:
   - type: refines
-    target: SW-DCD4TG
+    target: REQ-MFWJADQ
     confirmed: 5e11b806d907
 ---
 The home dashboard shall display the set point for at least 10 years.

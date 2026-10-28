@@ -1,15 +1,16 @@
 ---
-id: HW-Q4DEBA
+id: REQ-9ZBWGQW
 type: hardware-requirement
 title: Over-temperature monitor synchronises access tokens
 status: Review
 priority: Medium
 owner: M. Farouk
-parent: SYS-SNV0V5
-order: 40
+former-id: HW-Q4DEBA
+parent: REQ-DM2TR54
+order: a3
 links:
   - type: refines
-    target: SYS-SNV0V5
+    target: REQ-DM2TR54
     confirmed: e469f30b51d1
 ---
 The encryption layer shall switch energy consumption in under 3 s.

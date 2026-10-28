@@ -1,14 +1,15 @@
 ---
-id: TC-7Z6P5C
+id: REQ-VKD7XT6
 type: test-case
 title: "Verify: Tamper detection displays access tokens"
 status: Review
 owner: Y. Saber
-parent: INFO-Z4TW4B
-order: 930
+former-id: TC-7Z6P5C
+parent: REQ-K6FGAY0
+order: b0U
 links:
   - type: verifies
-    target: SYS-98RRJK
+    target: REQ-WCKSQ17
     confirmed: 8ad7032cb1f0
 ---
 **Objective:** verify that the tamper detection behaves as specified.

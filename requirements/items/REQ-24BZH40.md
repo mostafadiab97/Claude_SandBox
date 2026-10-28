@@ -1,5 +1,5 @@
 ---
-id: SYS-7BCVCV
+id: REQ-24BZH40
 type: system-requirement
 title: Login screen detects the set point
 status: Draft
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - connectivity
   - release-2.0
-parent: INFO-2XXBRS
-order: 170
+former-id: SYS-7BCVCV
+parent: REQ-QYXGSQ4
+order: aG
 links:
   - type: refines
-    target: STK-55M3CZ
+    target: REQ-HTVZXH2
     confirmed: 45f1b5fe0502
 ---
 The login screen shall authenticate safety limits below 0.5 W in standby.

@@ -1,5 +1,5 @@
 ---
-id: IF-0Z92WD
+id: REQ-JSZY1EF
 type: interface-requirement
 title: Detect error conditions — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - release-2.0
   - i18n
-parent: IF-NSN681
-order: 10
+former-id: IF-0Z92WD
+parent: REQ-DTNXERE
+order: a0
 links:
   - type: refines
-    target: IF-NSN681
+    target: REQ-DTNXERE
     confirmed: 4075da8daf4c
 ---
 The backlight shall validate schedule entries using AES-256-GCM.

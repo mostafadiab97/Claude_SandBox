@@ -1,5 +1,5 @@
 ---
-id: HW-GQRKP7
+id: REQ-WXKVFCB
 type: hardware-requirement
 title: User account service reports humidity values
 status: Draft
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - safety
   - power
-parent: SYS-DMYBQ9
-order: 10
+former-id: HW-GQRKP7
+parent: REQ-00CXS7S
+order: a0
 links:
   - type: refines
-    target: SYS-DMYBQ9
+    target: REQ-00CXS7S
     confirmed: bc350f64bb32
 ---
 The cloud backend shall detect safety limits when the network is unavailable.

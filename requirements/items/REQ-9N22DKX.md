@@ -1,15 +1,16 @@
 ---
-id: SW-31C2K3
+id: REQ-9N22DKX
 type: software-requirement
 title: Device registry displays firmware images
 status: Obsolete
 priority: Medium
 owner: L. Samir
-parent: SYS-RBD8MR
-order: 20
+former-id: SW-31C2K3
+parent: REQ-TP2GDPC
+order: a1
 links:
   - type: refines
-    target: SYS-RBD8MR
+    target: REQ-TP2GDPC
     confirmed: fce90764ac1a
 ---
 The OTA server shall authenticate sensor readings with an accuracy of ±0.5 °C.

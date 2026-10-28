@@ -1,14 +1,15 @@
 ---
-id: SW-VP3DXK
+id: REQ-NJV1705
 type: software-requirement
 title: Wi-Fi module displays the set point
 status: Approved
 priority: Medium
-parent: SYS-MBT5B7
-order: 20
+former-id: SW-VP3DXK
+parent: REQ-SFYBMHX
+order: a1
 links:
   - type: refines
-    target: SYS-MBT5B7
+    target: REQ-SFYBMHX
     confirmed: 558c60af173b
 ---
 The local API shall synchronise access tokens in under 3 s.

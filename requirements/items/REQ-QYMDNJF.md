@@ -1,16 +1,17 @@
 ---
-id: HW-W064YZ
+id: REQ-QYMDNJF
 type: hardware-requirement
 title: Power supply validates user preferences
 status: Review
 owner: S. Adel
 tags:
   - ux
-parent: SYS-RA27Q3
-order: 30
+former-id: HW-W064YZ
+parent: REQ-DP8XWC8
+order: a2
 links:
   - type: refines
-    target: SYS-RA27Q3
+    target: REQ-DP8XWC8
     confirmed: "8625e4999737"
 ---
 The main PCB shall calibrate access tokens when the network is unavailable.

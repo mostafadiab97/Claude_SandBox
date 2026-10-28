@@ -1,15 +1,16 @@
 ---
-id: IF-50TCDX
+id: REQ-PN104X4
 type: interface-requirement
 title: Encryption layer logs sensor readings
 status: Approved
 priority: Medium
 owner: É. Laurent
-parent: SYS-4NQ8GT
-order: 10
+former-id: IF-50TCDX
+parent: REQ-33MFB68
+order: a0
 links:
   - type: refines
-    target: SYS-4NQ8GT
+    target: REQ-33MFB68
     confirmed: 81a097bb4f90
 ---
 The watchdog shall switch schedule entries below 0.5 W in standby.

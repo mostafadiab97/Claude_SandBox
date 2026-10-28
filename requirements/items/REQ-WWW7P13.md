@@ -1,5 +1,5 @@
 ---
-id: TC-63WC6Q
+id: REQ-WWW7P13
 type: test-case
 title: "Verify: Secure boot displays firmware images"
 status: Review
@@ -8,11 +8,12 @@ tags:
   - security
   - cost
   - i18n
-parent: INFO-Z4TW4B
-order: 740
+former-id: TC-63WC6Q
+parent: REQ-K6FGAY0
+order: b0B
 links:
   - type: verifies
-    target: SYS-RZQXR0
+    target: REQ-DTPW50P
     confirmed: 12216b2c0a19
 ---
 **Objective:** verify that the secure boot behaves as specified.

@@ -1,18 +1,19 @@
 ---
-id: TC-6RW9BP
+id: REQ-TMANZB1
 type: test-case
 title: "Verify: Bluetooth LE link detects user preferences"
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: INFO-F0M7VC
-order: 980
+former-id: TC-6RW9BP
+parent: REQ-67RQXCK
+order: b0Z
 links:
   - type: verifies
-    target: SYS-MA8PA2
+    target: REQ-0N3YVR9
     confirmed: 7c651b78b359
   - type: verifies
-    target: SW-E6A04Q
+    target: REQ-JY483TG
     confirmed: 26fa635a4e70
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

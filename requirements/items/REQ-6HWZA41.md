@@ -1,18 +1,19 @@
 ---
-id: SYS-ZAZTW7
+id: REQ-6HWZA41
 type: system-requirement
 title: Secure boot synchronises humidity values
 status: Approved
 priority: High
 owner: J. Müller
-parent: INFO-0229G8
-order: 920
+former-id: SYS-ZAZTW7
+parent: REQ-H9113WA
+order: b0T
 links:
   - type: refines
-    target: STK-XSQC89
+    target: REQ-Y7E2CS3
     confirmed: 66c246d6b1dc
   - type: mitigates
-    target: RSK-VHBQ7T
+    target: REQ-SV88AMT
     confirmed: d6a0082673fd
 ---
 The secure boot shall measure the room temperature when the network is unavailable.

@@ -1,14 +1,15 @@
 ---
-id: TC-HN3KGB
+id: REQ-83K3H2E
 type: test-case
 title: "Verify: Status LED detects audit records"
 status: Approved
 owner: R. Nabil
-parent: INFO-HTSZ15
-order: 1310
+former-id: TC-HN3KGB
+parent: REQ-Y9VHHKA
+order: b16
 links:
   - type: verifies
-    target: SYS-08Q79Y
+    target: REQ-CWJJDSN
     confirmed: 8a374fcf4b3a
 ---
 **Objective:** verify that the status LED behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SYS-61AT7T
+id: REQ-V02ZDCW
 type: system-requirement
 title: Login screen notifys error conditions
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - customer-request
-parent: INFO-2XXBRS
-order: 270
+former-id: SYS-61AT7T
+parent: REQ-QYXGSQ4
+order: aQ
 links:
   - type: refines
-    target: STK-55M3CZ
+    target: REQ-HTVZXH2
     confirmed: 45f1b5fe0502
 ---
 The login screen shall encrypt safety limits in under 3 s.

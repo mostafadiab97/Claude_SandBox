@@ -1,15 +1,16 @@
 ---
-id: SYS-JP14AF
+id: REQ-Q3Z9QBY
 type: system-requirement
 title: Regulation loop authenticates schedule entries
 status: Draft
 priority: Medium
 owner: H. Mostafa
-parent: INFO-6DQTKV
-order: 1580
+former-id: SYS-JP14AF
+parent: REQ-7ED7ZET
+order: b1X
 links:
   - type: refines
-    target: STK-M7S0HJ
+    target: REQ-219619F
     confirmed: 000356d5d38b
 ---
 The regulation loop shall validate relay events after a power loss.

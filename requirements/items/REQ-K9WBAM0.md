@@ -1,15 +1,16 @@
 ---
-id: TC-7TBG6X
+id: REQ-K9WBAM0
 type: test-case
 title: "Verify: Bluetooth LE link notifys error conditions"
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: INFO-F0M7VC
-order: 150
+former-id: TC-7TBG6X
+parent: REQ-67RQXCK
+order: aE
 links:
   - type: verifies
-    target: SYS-9W0KTX
+    target: REQ-BWX988Q
     confirmed: a4802eb2b834
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SYS-8SP07G
+id: REQ-MN8K6J8
 type: system-requirement
 title: Boiler interface validates the set point
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - safety
   - connectivity
-parent: INFO-6DQTKV
-order: 1670
+former-id: SYS-8SP07G
+parent: REQ-7ED7ZET
+order: b1g
 links:
   - type: refines
-    target: STK-M7S0HJ
+    target: REQ-219619F
     confirmed: 000356d5d38b
 ---
 The boiler interface shall switch sensor readings after a power loss.

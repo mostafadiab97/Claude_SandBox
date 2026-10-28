@@ -1,15 +1,16 @@
 ---
-id: TC-A61630
+id: REQ-3PTA9JM
 type: test-case
 title: "Regression: Zone valve calibrates relay events"
 status: Review
 priority: High
 owner: S. Adel
-parent: INFO-ECHASH
-order: 1150
+former-id: TC-A61630
+parent: REQ-6H15AV2
+order: b0q
 links:
   - type: verifies
-    target: SYS-8Q3CHA
+    target: REQ-98JGE89
     confirmed: bba9c1adc60e
 ---
 **Objective:** verify that the device behaves as specified.

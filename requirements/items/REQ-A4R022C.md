@@ -1,5 +1,5 @@
 ---
-id: SW-6HAJPT
+id: REQ-A4R022C
 type: software-requirement
 title: Boiler interface synchronises relay events
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: É. Laurent
 tags:
   - customer-request
-parent: SYS-S1BVE9
-order: 20
+former-id: SW-6HAJPT
+parent: REQ-T9WRD80
+order: a1
 links:
   - type: refines
-    target: SYS-S1BVE9
+    target: REQ-T9WRD80
     confirmed: 7041e83377a5
 ---
 The heat pump driver shall report the room temperature below 0.5 W in standby.

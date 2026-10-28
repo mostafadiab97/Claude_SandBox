@@ -1,5 +1,5 @@
 ---
-id: HW-9QNCK9
+id: REQ-2Y3BQ1G
 type: hardware-requirement
 title: Power supply detects humidity values
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - safety
   - ux
   - power
-parent: SYS-DKB6WA
-order: 20
+former-id: HW-9QNCK9
+parent: REQ-H49169E
+order: a1
 links:
   - type: refines
-    target: SYS-DKB6WA
+    target: REQ-H49169E
     confirmed: 8665d5a94c43
 ---
 The main PCB shall log schedule entries for at least 10 years.

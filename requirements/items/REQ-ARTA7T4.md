@@ -1,15 +1,16 @@
 ---
-id: IF-0945Z7
+id: REQ-ARTA7T4
 type: interface-requirement
 title: Relay board detects energy consumption
 status: Draft
 priority: Low
 owner: A. Hassan
-parent: SYS-7WCAWK
-order: 40
+former-id: IF-0945Z7
+parent: REQ-QMV6ZXP
+order: a3
 links:
   - type: refines
-    target: SYS-7WCAWK
+    target: REQ-QMV6ZXP
     confirmed: 872381f1db9b
 ---
 The battery backup shall calibrate the operating mode in under 3 s.

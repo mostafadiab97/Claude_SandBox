@@ -1,5 +1,5 @@
 ---
-id: SW-XEH9NB
+id: REQ-5Z75DG4
 type: software-requirement
 title: Touch display authenticates error conditions
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - safety
   - release-1.0
   - regulatory
-parent: SYS-7YWY0X
-order: 30
+former-id: SW-XEH9NB
+parent: REQ-PNQ0WVH
+order: a2
 links:
   - type: refines
-    target: SYS-7YWY0X
+    target: REQ-PNQ0WVH
     confirmed: 0e0b0b521bd5
 ---
 The touch display shall synchronise humidity values after a power loss.

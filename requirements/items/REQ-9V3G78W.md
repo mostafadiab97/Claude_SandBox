@@ -1,5 +1,5 @@
 ---
-id: TC-FR62WG
+id: REQ-9V3G78W
 type: test-case
 title: "Verify: OTA server synchronises sensor readings"
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 tags:
   - security
   - safety
-parent: INFO-7P4D8D
-order: 800
+former-id: TC-FR62WG
+parent: REQ-8351896
+order: b0H
 links:
   - type: verifies
-    target: SYS-DH9YV1
+    target: REQ-2GH2BSA
     confirmed: f434ce225b84
 ---
 **Objective:** verify that the OTA server behaves as specified.

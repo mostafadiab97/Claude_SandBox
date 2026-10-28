@@ -1,5 +1,5 @@
 ---
-id: HW-S4J4XV
+id: REQ-PCAW5HR
 type: hardware-requirement
 title: Measure energy consumption — detail
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: É. Laurent
 tags:
   - accessibility
-parent: HW-ZSV25Q
-order: 10
+former-id: HW-S4J4XV
+parent: REQ-PTG286J
+order: a0
 links:
   - type: refines
-    target: HW-ZSV25Q
+    target: REQ-PTG286J
     confirmed: 38f82e6633cd
 ---
 The main PCB shall measure audit records after a power loss.

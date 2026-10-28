@@ -1,5 +1,5 @@
 ---
-id: SYS-F8240X
+id: REQ-TJYAHYG
 type: system-requirement
 title: Power supply reports relay events
 status: Draft
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - safety
   - ux
-parent: INFO-A6P9A8
-order: 1010
+former-id: SYS-F8240X
+parent: REQ-CMCS31A
+order: b0c
 links:
   - type: refines
-    target: STK-KEP05J
+    target: REQ-PRMNGRJ
     confirmed: 74304e03fe52
 ---
 The power supply shall report humidity values after a power loss.

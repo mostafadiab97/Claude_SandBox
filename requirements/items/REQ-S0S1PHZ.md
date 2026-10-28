@@ -1,5 +1,5 @@
 ---
-id: SW-24E8B7
+id: REQ-S0S1PHZ
 type: software-requirement
 title: Home dashboard restores energy consumption
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - accessibility
   - connectivity
-parent: SYS-XAT0K2
-order: 10
+former-id: SW-24E8B7
+parent: REQ-KWYSKRA
+order: a0
 links:
   - type: refines
-    target: SYS-XAT0K2
+    target: REQ-KWYSKRA
     confirmed: e5e67b8095dc
 ---
 The mobile app shall notify firmware images after a power loss.

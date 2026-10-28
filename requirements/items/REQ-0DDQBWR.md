@@ -1,5 +1,5 @@
 ---
-id: DE-NQM449
+id: REQ-0DDQBWR
 type: design-element
 title: Module menu_system_54
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - regulatory
   - power
-parent: SW-3M52Q9
-order: 10
+former-id: DE-NQM449
+parent: REQ-8KWJS8D
+order: a0
 links:
   - type: implements
-    target: SW-3M52Q9
+    target: REQ-8KWJS8D
     confirmed: 38491e4b9f47
 ---
 Implemented in `src/ui/menu_system.c`.

@@ -1,5 +1,5 @@
 ---
-id: IF-ANGP84
+id: REQ-NKA116D
 type: interface-requirement
 title: Cloud backend switchs the connection state
 status: Review
@@ -9,11 +9,12 @@ tags:
   - performance
   - power
   - connectivity
-parent: SYS-VEFG9D
-order: 20
+former-id: IF-ANGP84
+parent: REQ-9T1P54R
+order: a1
 links:
   - type: refines
-    target: SYS-VEFG9D
+    target: REQ-9T1P54R
     confirmed: f2ed11769dc3
 ---
 The OTA server shall log error conditions in under 3 s.

@@ -1,5 +1,5 @@
 ---
-id: IF-P37DP7
+id: REQ-XVXSVFK
 type: interface-requirement
 title: Main PCB authenticates the operating mode
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - connectivity
   - i18n
-parent: SYS-N56168
-order: 10
+former-id: IF-P37DP7
+parent: REQ-2QERQ97
+order: a0
 links:
   - type: refines
-    target: SYS-N56168
+    target: REQ-2QERQ97
     confirmed: a37e51579246
 ---
 The relay board shall restore error conditions for up to 8 zones.

@@ -1,15 +1,16 @@
 ---
-id: SW-02H99V
+id: REQ-4ZKPSQZ
 type: software-requirement
 title: Login screen limits the operating mode
 status: Review
 priority: Medium
 owner: S. Adel
-parent: SYS-MN0YG6
-order: 40
+former-id: SW-02H99V
+parent: REQ-PN0PDWX
+order: a3
 links:
   - type: refines
-    target: SYS-MN0YG6
+    target: REQ-PN0PDWX
     confirmed: abb306df2814
 ---
 The login screen shall switch safety limits when the network is unavailable.

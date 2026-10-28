@@ -1,5 +1,5 @@
 ---
-id: HW-H88JRK
+id: REQ-3W9G4NM
 type: hardware-requirement
 title: Touch display stores the room temperature
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - customer-request
   - release-2.0
-parent: SYS-WM6GTH
-order: 20
+former-id: HW-H88JRK
+parent: REQ-9VNZEQ9
+order: a1
 links:
   - type: refines
-    target: SYS-WM6GTH
+    target: REQ-9VNZEQ9
     confirmed: f1e98774112c
 ---
 The rotary knob shall calibrate access tokens within 200 ms.

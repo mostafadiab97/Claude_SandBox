@@ -1,14 +1,15 @@
 ---
-id: SYS-1TC8XF
+id: REQ-B0NT7M3
 type: system-requirement
 title: Secure boot limits safety limits
 status: Draft
 owner: J. Müller
-parent: INFO-0229G8
-order: 1270
+former-id: SYS-1TC8XF
+parent: REQ-H9113WA
+order: b12
 links:
   - type: refines
-    target: STK-1TB226
+    target: REQ-QAY0F49
     confirmed: ea29425b18b7
 ---
 The secure boot shall encrypt the operating mode for up to 8 zones.

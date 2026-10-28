@@ -1,5 +1,5 @@
 ---
-id: IF-WQX12B
+id: REQ-R6KSQ7R
 type: interface-requirement
 title: Boiler interface detects sensor readings
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - accessibility
   - regulatory
-parent: SYS-6CT381
-order: 40
+former-id: IF-WQX12B
+parent: REQ-22PQVV7
+order: a3
 links:
   - type: refines
-    target: SYS-6CT381
+    target: REQ-22PQVV7
     confirmed: cb9aa6a7b060
 ---
 The heating controller shall validate safety limits below 0.5 W in standby.

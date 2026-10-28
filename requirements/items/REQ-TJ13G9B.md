@@ -1,15 +1,16 @@
 ---
-id: SW-WFXGPP
+id: REQ-TJ13G9B
 type: software-requirement
 title: Rotary knob switchs energy consumption
 status: Review
 priority: Medium
 owner: H. Mostafa
-parent: SYS-5PV5FX
-order: 10
+former-id: SW-WFXGPP
+parent: REQ-0MGJV2W
+order: a0
 links:
   - type: refines
-    target: SYS-5PV5FX
+    target: REQ-0MGJV2W
     confirmed: b948ad16ad2c
 ---
 The menu system shall calibrate the set point without user interaction.

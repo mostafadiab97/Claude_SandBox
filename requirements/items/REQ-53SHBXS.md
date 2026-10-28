@@ -1,18 +1,19 @@
 ---
-id: SYS-J17HQ6
+id: REQ-53SHBXS
 type: system-requirement
 title: Login screen limits firmware images
 status: Approved
 priority: High
 owner: Y. Saber
-parent: INFO-2XXBRS
-order: 1280
+former-id: SYS-J17HQ6
+parent: REQ-QYXGSQ4
+order: b13
 links:
   - type: refines
-    target: STK-SWTYBR
+    target: REQ-DVC5FZZ
     confirmed: 85d99e967934
   - type: mitigates
-    target: RSK-ZVG8SE
+    target: REQ-Q9N7D7W
     confirmed: 5a0ee391c0c4
 ---
 The login screen shall validate access tokens within 200 ms.

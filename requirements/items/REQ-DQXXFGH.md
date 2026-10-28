@@ -1,5 +1,5 @@
 ---
-id: IF-9W4Y4T
+id: REQ-DQXXFGH
 type: interface-requirement
 title: "Signal 047: the room temperature"
 status: Draft
@@ -8,7 +8,8 @@ tags:
   - connectivity
   - EMC
   - i18n
-parent: INFO-2TM0JP
-order: 470
+former-id: IF-9W4Y4T
+parent: REQ-RJ0KHPT
+order: ak
 ---
 Interface signal number 47.

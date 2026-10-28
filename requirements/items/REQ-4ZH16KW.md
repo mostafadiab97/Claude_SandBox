@@ -1,15 +1,16 @@
 ---
-id: SW-08ESXF
+id: REQ-4ZH16KW
 type: software-requirement
 title: Touch display measures the room temperature
 status: Approved
 priority: Medium
 owner: É. Laurent
-parent: SYS-S18QCP
-order: 10
+former-id: SW-08ESXF
+parent: REQ-YN2X5B5
+order: a0
 links:
   - type: refines
-    target: SYS-S18QCP
+    target: REQ-YN2X5B5
     confirmed: 73e58aae87f1
 ---
 The touch display shall synchronise humidity values at least once per minute.

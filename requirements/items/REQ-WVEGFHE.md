@@ -1,5 +1,5 @@
 ---
-id: HW-BA6S1Q
+id: REQ-WVEGFHE
 type: hardware-requirement
 title: Notification service measures the operating mode
 status: Review
@@ -7,11 +7,12 @@ owner: H. Mostafa
 tags:
   - ux
   - regulatory
-parent: SYS-6REMTR
-order: 10
+former-id: HW-BA6S1Q
+parent: REQ-ER16QEY
+order: a0
 links:
   - type: refines
-    target: SYS-6REMTR
+    target: REQ-ER16QEY
     confirmed: e73f40f41cec
 ---
 The login screen shall synchronise schedule entries after a power loss.

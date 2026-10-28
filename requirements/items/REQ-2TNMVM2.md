@@ -1,5 +1,5 @@
 ---
-id: SW-EYT63W
+id: REQ-2TNMVM2
 type: software-requirement
 title: Measure audit records — detail
 status: Review
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - release-2.0
   - connectivity
-parent: SW-EB2K34
-order: 10
+former-id: SW-EYT63W
+parent: REQ-TPN92QM
+order: a0
 links:
   - type: refines
-    target: SW-EB2K34
+    target: REQ-TPN92QM
     confirmed: 15d7e06af5b3
 ---
 The secure boot shall switch access tokens without user interaction.

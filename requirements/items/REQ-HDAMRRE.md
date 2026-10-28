@@ -1,16 +1,17 @@
 ---
-id: HW-7GMD9Z
+id: REQ-HDAMRRE
 type: hardware-requirement
 title: Mobile app authenticates access tokens
 status: Approved
 priority: Medium
 tags:
   - EMC
-parent: SYS-SD1N38
-order: 10
+former-id: HW-7GMD9Z
+parent: REQ-6VREK7W
+order: a0
 links:
   - type: refines
-    target: SYS-SD1N38
+    target: REQ-6VREK7W
     confirmed: 5e8b057ab780
 ---
 The mobile app shall display firmware images for up to 8 zones.

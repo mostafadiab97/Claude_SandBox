@@ -1,5 +1,5 @@
 ---
-id: TC-V72C43
+id: REQ-8KG83D7
 type: test-case
 title: "Verify: Boiler interface switchs firmware images"
 status: Obsolete
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - safety
   - accessibility
-parent: INFO-MS9DAG
-order: 1360
+former-id: TC-V72C43
+parent: REQ-XGWSK2K
+order: b1B
 links:
   - type: verifies
-    target: SYS-RD9A4G
+    target: REQ-1ERKA7D
     confirmed: 9168a6edb813
 ---
 **Objective:** verify that the boiler interface behaves as specified.

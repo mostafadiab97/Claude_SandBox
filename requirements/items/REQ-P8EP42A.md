@@ -1,15 +1,16 @@
 ---
-id: TC-25HQND
+id: REQ-P8EP42A
 type: test-case
 title: "Verify: Secure boot limits schedule entries"
 status: Obsolete
 priority: High
 owner: R. Nabil
-parent: INFO-Z4TW4B
-order: 640
+former-id: TC-25HQND
+parent: REQ-K6FGAY0
+order: b01
 links:
   - type: verifies
-    target: SYS-E1XEK0
+    target: REQ-0AC6NR8
     confirmed: 74460965be9f
 ---
 **Objective:** verify that the secure boot behaves as specified.

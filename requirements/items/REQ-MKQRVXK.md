@@ -1,5 +1,5 @@
 ---
-id: TC-3SSBJ3
+id: REQ-MKQRVXK
 type: test-case
 title: "Verify: Regulation loop detects user preferences"
 status: Draft
@@ -8,14 +8,15 @@ owner: É. Laurent
 tags:
   - customer-request
   - performance
-parent: INFO-MS9DAG
-order: 190
+former-id: TC-3SSBJ3
+parent: REQ-XGWSK2K
+order: aI
 links:
   - type: verifies
-    target: SYS-C6SNN2
+    target: REQ-WWDXC4C
     confirmed: 20d5c99b3fa6
   - type: verifies
-    target: SW-ZPE457
+    target: REQ-089DMAB
     confirmed: fc898a0b5b8e
 ---
 **Objective:** verify that the regulation loop behaves as specified.

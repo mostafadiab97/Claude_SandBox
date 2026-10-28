@@ -1,12 +1,13 @@
 ---
-id: SYS-GQPR80
+id: REQ-TW6E8QE
 type: system-requirement
 title: Mobile app logs access tokens
 status: Approved
 priority: Medium
 owner: J. Müller
-parent: INFO-2XXBRS
-order: 1450
+former-id: SYS-GQPR80
+parent: REQ-QYXGSQ4
+order: b1K
 links:
   - type: refines
     target: STK-H87WHA

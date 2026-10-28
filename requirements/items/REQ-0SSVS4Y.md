@@ -1,5 +1,5 @@
 ---
-id: SYS-7XRVPP
+id: REQ-0SSVS4Y
 type: system-requirement
 title: Home dashboard stores humidity values
 status: Approved
@@ -7,8 +7,9 @@ priority: Medium
 tags:
   - release-1.0
   - customer-request
-parent: INFO-2XXBRS
-order: 2090
+former-id: SYS-7XRVPP
+parent: REQ-QYXGSQ4
+order: b2M
 links:
   - type: refines
     target: STK-H87WHA

@@ -1,15 +1,16 @@
 ---
-id: SW-248X4W
+id: REQ-9Z7K3HD
 type: software-requirement
 title: Cloud backend detects user preferences
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: SYS-GPZ86P
-order: 20
+former-id: SW-248X4W
+parent: REQ-Y74G30P
+order: a1
 links:
   - type: refines
-    target: SYS-GPZ86P
+    target: REQ-Y74G30P
     confirmed: 29497feac15d
 ---
 The OTA server shall restore the room temperature with an accuracy of ±0.5 °C.

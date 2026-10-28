@@ -1,5 +1,5 @@
 ---
-id: SYS-1DTP29
+id: REQ-WWGXTCZ
 type: system-requirement
 title: Regulation loop notifys the room temperature
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - regulatory
   - customer-request
-parent: INFO-6DQTKV
-order: 2060
+former-id: SYS-1DTP29
+parent: REQ-7ED7ZET
+order: b2J
 links:
   - type: refines
-    target: STK-75QZSA
+    target: REQ-NKR80ET
     confirmed: fef0332ed10c
 ---
 The regulation loop shall authenticate the operating mode with an accuracy of ±0.5 °C.

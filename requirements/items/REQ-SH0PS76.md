@@ -1,18 +1,19 @@
 ---
-id: SYS-YGWC8P
+id: REQ-SH0PS76
 type: system-requirement
 title: Heating controller measures the connection state
 status: Draft
 priority: Medium
 owner: Y. Saber
-parent: INFO-6DQTKV
-order: 1020
+former-id: SYS-YGWC8P
+parent: REQ-7ED7ZET
+order: b0d
 links:
   - type: refines
-    target: STK-EFJRJ9
+    target: REQ-6WZCEAT
     confirmed: fc922ec1a72e
   - type: mitigates
-    target: RSK-664XQZ
+    target: REQ-QAQ88MR
     confirmed: d372fc071d5d
 ---
 The heating controller shall limit error conditions after a power loss.

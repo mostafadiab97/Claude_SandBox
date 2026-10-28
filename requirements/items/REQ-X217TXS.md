@@ -1,5 +1,5 @@
 ---
-id: SW-RC5VZ9
+id: REQ-X217TXS
 type: software-requirement
 title: Notify the connection state — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - release-1.0
   - connectivity
-parent: SW-3W83V6
-order: 10
+former-id: SW-RC5VZ9
+parent: REQ-3DBXTZY
+order: a0
 links:
   - type: refines
-    target: SW-3W83V6
+    target: REQ-3DBXTZY
     confirmed: ae495b06e801
 ---
 The login screen shall synchronise the connection state within 200 ms.

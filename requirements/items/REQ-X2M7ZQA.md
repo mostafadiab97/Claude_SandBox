@@ -1,11 +1,12 @@
 ---
-id: IF-0NCQMH
+id: REQ-X2M7ZQA
 type: interface-requirement
 title: "Signal 475: sensor readings"
 status: Draft
 priority: Medium
 owner: A. Hassan
-parent: INFO-2TM0JP
-order: 4750
+former-id: IF-0NCQMH
+parent: REQ-RJ0KHPT
+order: b6e
 ---
 Interface signal number 475.

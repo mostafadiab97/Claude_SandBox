@@ -1,15 +1,16 @@
 ---
-id: SYS-6T9DFV
+id: REQ-PP1RGP0
 type: system-requirement
 title: Encryption layer logs relay events
 status: Obsolete
 priority: Medium
 owner: R. Nabil
-parent: INFO-0229G8
-order: 1340
+former-id: SYS-6T9DFV
+parent: REQ-H9113WA
+order: b19
 links:
   - type: refines
-    target: STK-XSQC89
+    target: REQ-Y7E2CS3
     confirmed: 66c246d6b1dc
 ---
 The encryption layer shall restore the operating mode without user interaction.

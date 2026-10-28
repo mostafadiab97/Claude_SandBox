@@ -1,5 +1,5 @@
 ---
-id: TC-5YPZHC
+id: REQ-0GCKX39
 type: test-case
 title: "Verify: Heating controller validates the set point"
 status: Approved
@@ -8,14 +8,15 @@ tags:
   - EMC
   - performance
   - security
-parent: INFO-MS9DAG
-order: 1510
+former-id: TC-5YPZHC
+parent: REQ-XGWSK2K
+order: b1Q
 links:
   - type: verifies
-    target: SYS-9Y8YJ7
+    target: REQ-RPJTF01
     confirmed: 1548dd90610f
   - type: verifies
-    target: SW-CD64BA
+    target: REQ-H0SK8HJ
     confirmed: f7be308643e4
 ---
 **Objective:** verify that the heating controller behaves as specified.

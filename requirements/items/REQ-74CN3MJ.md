@@ -1,15 +1,16 @@
 ---
-id: SW-BJ1H62
+id: REQ-74CN3MJ
 type: software-requirement
 title: Schedule editor switchs user preferences
 status: Draft
 priority: Medium
 owner: A. Hassan
-parent: SYS-YW7JJY
-order: 10
+former-id: SW-BJ1H62
+parent: REQ-A9MQHYC
+order: a0
 links:
   - type: refines
-    target: SYS-YW7JJY
+    target: REQ-A9MQHYC
     confirmed: 33def9a60775
 ---
 The schedule editor shall limit the set point after a power loss.

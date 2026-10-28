@@ -1,15 +1,16 @@
 ---
-id: HW-44S1K2
+id: REQ-GV7QGKK
 type: hardware-requirement
 title: Enclosure stores relay events
 status: Draft
 priority: High
 owner: K. Tanaka
-parent: SYS-X20Q9Q
-order: 20
+former-id: HW-44S1K2
+parent: REQ-Q5CSCWN
+order: a1
 links:
   - type: refines
-    target: SYS-X20Q9Q
+    target: REQ-Q5CSCWN
     confirmed: 872e82d5e322
 ---
 The relay board shall encrypt schedule entries within 200 ms.

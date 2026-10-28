@@ -1,5 +1,5 @@
 ---
-id: HW-QM22GY
+id: REQ-RMVCMZ8
 type: hardware-requirement
 title: Rotary knob displays user preferences
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - safety
   - customer-request
-parent: SYS-32PD6V
-order: 40
+former-id: HW-QM22GY
+parent: REQ-DV0Z40E
+order: a3
 links:
   - type: refines
-    target: SYS-32PD6V
+    target: REQ-DV0Z40E
     confirmed: 09e351121e5d
 ---
 The status LED shall measure schedule entries at least once per minute.

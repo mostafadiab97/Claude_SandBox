@@ -1,5 +1,5 @@
 ---
-id: SW-F6HDJK
+id: REQ-1G3HSBM
 type: software-requirement
 title: Telemetry pipeline calibrates access tokens
 status: Draft
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - EMC
   - regulatory
-parent: SYS-58H7WQ
-order: 40
+former-id: SW-F6HDJK
+parent: REQ-HZVK2C0
+order: a3
 links:
   - type: refines
-    target: SYS-58H7WQ
+    target: REQ-HZVK2C0
     confirmed: 4ec07940ffd5
 ---
 The OTA server shall store energy consumption within 200 ms.

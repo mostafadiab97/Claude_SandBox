@@ -1,5 +1,5 @@
 ---
-id: SW-0WB8B8
+id: REQ-KKQ0B04
 type: software-requirement
 title: Device registry validates the connection state
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - accessibility
   - connectivity
-parent: SYS-ERJC40
-order: 10
+former-id: SW-0WB8B8
+parent: REQ-FGY59FP
+order: a0
 links:
   - type: refines
-    target: SYS-ERJC40
+    target: REQ-FGY59FP
     confirmed: f027b997b7f0
 ---
 The telemetry pipeline shall store humidity values in all supported languages.

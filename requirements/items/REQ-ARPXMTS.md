@@ -1,15 +1,16 @@
 ---
-id: TC-ETFDXT
+id: REQ-ARPXMTS
 type: test-case
 title: "Regression: User account service measures error conditions"
 status: Approved
 priority: Medium
 owner: H. Mostafa
-parent: INFO-ECHASH
-order: 1800
+former-id: TC-ETFDXT
+parent: REQ-6H15AV2
+order: b1t
 links:
   - type: verifies
-    target: SYS-XZE9DK
+    target: REQ-YGYNCGG
     confirmed: 7345ac77c8fe
 ---
 **Objective:** verify that the device behaves as specified.

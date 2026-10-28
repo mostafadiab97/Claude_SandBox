@@ -1,5 +1,5 @@
 ---
-id: HW-5PJ530
+id: REQ-P5YNDCH
 type: hardware-requirement
 title: Secure boot logs error conditions
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 owner: محمد علي
 tags:
   - regulatory
-parent: SYS-YHD3YX
-order: 10
+former-id: HW-5PJ530
+parent: REQ-HFETZCP
+order: a0
 links:
   - type: refines
-    target: SYS-YHD3YX
+    target: REQ-HFETZCP
     confirmed: 1e38f217f022
 ---
 The watchdog shall restore safety limits within 200 ms.

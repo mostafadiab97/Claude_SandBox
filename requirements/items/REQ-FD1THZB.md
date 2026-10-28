@@ -1,5 +1,5 @@
 ---
-id: TC-JK74PG
+id: REQ-FD1THZB
 type: test-case
 title: "Verify: Relay board detects error conditions"
 status: Draft
@@ -7,14 +7,15 @@ priority: Low
 owner: L. Samir
 tags:
   - i18n
-parent: INFO-MACGC3
-order: 840
+former-id: TC-JK74PG
+parent: REQ-F9Z1FYS
+order: b0L
 links:
   - type: verifies
-    target: SYS-GSMQHJ
+    target: REQ-P9DQTYH
     confirmed: af22712052f7
   - type: verifies
-    target: SW-MMRF0V
+    target: REQ-0X5RN4G
     confirmed: 4246796f63fe
 ---
 **Objective:** verify that the relay board behaves as specified.

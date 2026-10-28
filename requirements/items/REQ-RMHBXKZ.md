@@ -1,15 +1,16 @@
 ---
-id: SYS-3311SY
+id: REQ-RMHBXKZ
 type: system-requirement
 title: Zone valve validates the connection state
 status: Approved
 priority: Low
 owner: M. Farouk
-parent: INFO-6DQTKV
-order: 1860
+former-id: SYS-3311SY
+parent: REQ-7ED7ZET
+order: b1z
 links:
   - type: refines
-    target: STK-M7S0HJ
+    target: REQ-219619F
     confirmed: 000356d5d38b
 ---
 The zone valve shall notify the set point when the network is unavailable.

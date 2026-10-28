@@ -1,15 +1,16 @@
 ---
-id: TC-HV7JWX
+id: REQ-WF8279E
 type: test-case
 title: "Verify: Device registry synchronises energy consumption"
 status: Approved
 priority: Low
 owner: A. Hassan
-parent: INFO-7P4D8D
-order: 870
+former-id: TC-HV7JWX
+parent: REQ-8351896
+order: b0O
 links:
   - type: verifies
-    target: SYS-QW4301
+    target: REQ-0BNNJSD
     confirmed: 93308f2aad9b
 ---
 **Objective:** verify that the device registry behaves as specified.

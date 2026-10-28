@@ -1,5 +1,5 @@
 ---
-id: TC-82GTHA
+id: REQ-KX2V73H
 type: test-case
 title: "Verify: Bluetooth LE link encrypts audit records"
 status: Obsolete
@@ -7,14 +7,15 @@ priority: Medium
 owner: محمد علي
 tags:
   - power
-parent: INFO-F0M7VC
-order: 1500
+former-id: TC-82GTHA
+parent: REQ-67RQXCK
+order: b1P
 links:
   - type: verifies
-    target: SYS-TGB5BV
+    target: REQ-FD54NF7
     confirmed: efddaa3f87b9
   - type: verifies
-    target: SW-W77SFQ
+    target: REQ-HKD1P7N
     confirmed: 8731c78398b2
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

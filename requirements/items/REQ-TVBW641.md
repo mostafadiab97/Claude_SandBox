@@ -1,5 +1,5 @@
 ---
-id: DE-J3C9HM
+id: REQ-TVBW641
 type: design-element
 title: Module rotary_knob_26
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: É. Laurent
 tags:
   - cost
-parent: SW-J36VPS
-order: 10
+former-id: DE-J3C9HM
+parent: REQ-0M6BYFX
+order: a0
 links:
   - type: implements
-    target: SW-J36VPS
+    target: REQ-0M6BYFX
     confirmed: deae275b3f03
 ---
 Implemented in `src/ui/rotary_knob.c`.

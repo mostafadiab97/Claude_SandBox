@@ -1,14 +1,15 @@
 ---
-id: SW-9CRJNJ
+id: REQ-N2NRX56
 type: software-requirement
 title: Calibrate energy consumption — detail
 status: Draft
 priority: Medium
-parent: SW-YE7XS7
-order: 10
+former-id: SW-9CRJNJ
+parent: REQ-64F71BM
+order: a0
 links:
   - type: refines
-    target: SW-YE7XS7
+    target: REQ-64F71BM
     confirmed: 7198d8bcddca
 ---
 The device registry shall encrypt relay events in all supported languages.

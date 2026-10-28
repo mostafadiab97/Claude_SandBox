@@ -1,5 +1,5 @@
 ---
-id: TC-X2D3JE
+id: REQ-BA58DRF
 type: test-case
 title: "Verify: Login screen validates audit records"
 status: Review
@@ -8,14 +8,15 @@ owner: M. Farouk
 tags:
   - regulatory
   - safety
-parent: INFO-J0FETE
-order: 1510
+former-id: TC-X2D3JE
+parent: REQ-WR5ZJN9
+order: b1Q
 links:
   - type: verifies
-    target: SYS-3TWJPP
+    target: REQ-RR2A2CN
     confirmed: 618b62b567a5
   - type: verifies
-    target: SW-A10E8C
+    target: REQ-4JBECB9
     confirmed: 2c36623fc5b2
 ---
 **Objective:** verify that the login screen behaves as specified.

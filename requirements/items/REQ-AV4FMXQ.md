@@ -1,15 +1,16 @@
 ---
-id: SYS-SSBZ7T
+id: REQ-AV4FMXQ
 type: system-requirement
 title: Rotary knob stores relay events
 status: Draft
 priority: Medium
 owner: J. Müller
-parent: INFO-PDR6FV
-order: 1570
+former-id: SYS-SSBZ7T
+parent: REQ-2ZA2TRZ
+order: b1W
 links:
   - type: refines
-    target: STK-EHVDJF
+    target: REQ-4T80DB9
     confirmed: cf195cdb6a20
 ---
 The rotary knob shall synchronise sensor readings with an accuracy of ±0.5 °C.

@@ -1,14 +1,15 @@
 ---
-id: SW-D6GVJP
+id: REQ-B0K1RYN
 type: software-requirement
 title: Regulation loop validates sensor readings
 status: Draft
 priority: Medium
-parent: SYS-N8A6YS
-order: 30
+former-id: SW-D6GVJP
+parent: REQ-0QHEDAH
+order: a2
 links:
   - type: refines
-    target: SYS-N8A6YS
+    target: REQ-0QHEDAH
     confirmed: d0b8c4d6001b
 ---
 The zone valve shall notify relay events in under 3 s.

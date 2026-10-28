@@ -1,16 +1,17 @@
 ---
-id: SW-6EK7XM
+id: REQ-0ME0NDB
 type: software-requirement
 title: Home dashboard encrypts humidity values
 status: Obsolete
 priority: High
 tags:
   - EMC
-parent: SYS-35QZ1B
-order: 30
+former-id: SW-6EK7XM
+parent: REQ-7403B62
+order: a2
 links:
   - type: refines
-    target: SYS-35QZ1B
+    target: REQ-7403B62
     confirmed: eaceeabf6305
 ---
 The mobile app shall limit humidity values in under 3 s.

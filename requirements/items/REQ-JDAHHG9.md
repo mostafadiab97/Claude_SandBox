@@ -1,15 +1,16 @@
 ---
-id: TC-1HK618
+id: REQ-JDAHHG9
 type: test-case
 title: "Verify: Zone valve validates user preferences"
 status: Review
 priority: Medium
 owner: M. Farouk
-parent: INFO-MS9DAG
-order: 410
+former-id: TC-1HK618
+parent: REQ-XGWSK2K
+order: ae
 links:
   - type: verifies
-    target: SYS-3HMH2V
+    target: REQ-GSZGDN0
     confirmed: a44672610aca
 ---
 **Objective:** verify that the zone valve behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: TC-W9BEPF
+id: REQ-WVF4JSN
 type: test-case
 title: "Verify: Menu system restores humidity values"
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 tags:
   - release-2.0
   - regulatory
-parent: INFO-HTSZ15
-order: 750
+former-id: TC-W9BEPF
+parent: REQ-Y9VHHKA
+order: b0C
 links:
   - type: verifies
-    target: SYS-19AJTE
+    target: REQ-JVYQ4PD
     confirmed: 453482be94f2
 ---
 **Objective:** verify that the menu system behaves as specified.

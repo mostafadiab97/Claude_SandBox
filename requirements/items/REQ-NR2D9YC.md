@@ -1,5 +1,5 @@
 ---
-id: SYS-FJYCC7
+id: REQ-NR2D9YC
 type: system-requirement
 title: Local API logs the connection state
 status: Approved
@@ -8,14 +8,15 @@ owner: R. Nabil
 tags:
   - safety
   - ux
-parent: INFO-NRVHA2
-order: 1980
+former-id: SYS-FJYCC7
+parent: REQ-6R94HFM
+order: b2B
 links:
   - type: refines
-    target: STK-1R2QT3
+    target: REQ-3MGNW4R
     confirmed: 7ca04f22a1b8
   - type: mitigates
-    target: RSK-6H3D9M
+    target: REQ-0HFM6HD
     confirmed: c7f45fccd8d0
 ---
 The local API shall restore the set point for at least 10 years.

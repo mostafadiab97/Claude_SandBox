@@ -1,16 +1,17 @@
 ---
-id: IF-T1NQWA
+id: REQ-A65NE1G
 type: interface-requirement
 title: Home dashboard encrypts the operating mode
 status: Approved
 priority: Medium
 tags:
   - EMC
-parent: SYS-ZW9PC7
-order: 30
+former-id: IF-T1NQWA
+parent: REQ-PM3KZFS
+order: a2
 links:
   - type: refines
-    target: SYS-ZW9PC7
+    target: REQ-PM3KZFS
     confirmed: cf666200a270
 ---
 The login screen shall encrypt the connection state at least once per minute.

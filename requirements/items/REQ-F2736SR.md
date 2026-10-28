@@ -1,5 +1,5 @@
 ---
-id: TC-7PY4X1
+id: REQ-F2736SR
 type: test-case
 title: "Verify: Menu system encrypts audit records"
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 tags:
   - performance
   - safety
-parent: INFO-HTSZ15
-order: 1090
+former-id: TC-7PY4X1
+parent: REQ-Y9VHHKA
+order: b0k
 links:
   - type: verifies
-    target: SYS-26VKCE
+    target: REQ-SV28FZ6
     confirmed: 5c68d7d11bea
 ---
 **Objective:** verify that the menu system behaves as specified.

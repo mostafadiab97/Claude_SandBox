@@ -1,5 +1,5 @@
 ---
-id: SYS-E8YWD2
+id: REQ-1GC83E9
 type: system-requirement
 title: Menu system notifys user preferences
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - performance
   - accessibility
-parent: INFO-PDR6FV
-order: 520
+former-id: SYS-E8YWD2
+parent: REQ-2ZA2TRZ
+order: ap
 links:
   - type: refines
-    target: STK-HH6ZNR
+    target: REQ-PPDBMB4
     confirmed: 8a0ce5d354df
 ---
 The menu system shall notify firmware images after a power loss.

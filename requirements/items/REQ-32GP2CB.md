@@ -1,14 +1,15 @@
 ---
-id: IF-5DKSVV
+id: REQ-32GP2CB
 type: interface-requirement
 title: Battery backup validates audit records
 status: Draft
 priority: High
-parent: SYS-RW8T89
-order: 20
+former-id: IF-5DKSVV
+parent: REQ-J5V450Q
+order: a1
 links:
   - type: refines
-    target: SYS-RW8T89
+    target: REQ-J5V450Q
     confirmed: 60bb88437f79
 ---
 The battery backup shall report access tokens after a power loss.

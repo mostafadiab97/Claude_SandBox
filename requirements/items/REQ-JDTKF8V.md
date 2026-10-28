@@ -1,5 +1,5 @@
 ---
-id: SW-30BCHD
+id: REQ-JDTKF8V
 type: software-requirement
 title: Local API encrypts error conditions
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - customer-request
   - security
   - release-1.0
-parent: SYS-TKV6VE
-order: 20
+former-id: SW-30BCHD
+parent: REQ-PQTXAGM
+order: a1
 links:
   - type: refines
-    target: SYS-TKV6VE
+    target: REQ-PQTXAGM
     confirmed: 2a2c879fe6d8
 ---
 The pairing process shall authenticate error conditions when the network is unavailable.

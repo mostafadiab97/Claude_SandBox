@@ -1,5 +1,5 @@
 ---
-id: SYS-4FGGM0
+id: REQ-F0X7ER4
 type: system-requirement
 title: Cloud backend logs access tokens
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - safety
   - connectivity
   - i18n
-parent: INFO-YV5EZD
-order: 1160
+former-id: SYS-4FGGM0
+parent: REQ-RE9ZKHF
+order: b0r
 links:
   - type: refines
-    target: STK-SKPX7F
+    target: REQ-M17BCB3
     confirmed: ff820400e2f9
 ---
 The cloud backend shall validate safety limits without user interaction.

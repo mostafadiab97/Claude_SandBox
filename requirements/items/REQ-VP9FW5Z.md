@@ -1,5 +1,5 @@
 ---
-id: SYS-4DP5C1
+id: REQ-VP9FW5Z
 type: system-requirement
 title: Zone valve synchronises relay events
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - regulatory
-parent: INFO-6DQTKV
-order: 1440
+former-id: SYS-4DP5C1
+parent: REQ-7ED7ZET
+order: b1J
 links:
   - type: refines
-    target: STK-W8N48B
+    target: REQ-GHEE73G
     confirmed: 00c32cea6ea5
 ---
 The zone valve shall authenticate access tokens for up to 8 zones.

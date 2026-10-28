@@ -1,5 +1,5 @@
 ---
-id: SW-21X0W1
+id: REQ-S4H2H9P
 type: software-requirement
 title: User account service stores the connection state
 status: Draft
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - connectivity
   - release-2.0
-parent: SYS-1F931E
-order: 40
+former-id: SW-21X0W1
+parent: REQ-KDXGXZC
+order: a3
 links:
   - type: refines
-    target: SYS-1F931E
+    target: REQ-KDXGXZC
     confirmed: 51652603599b
 ---
 The cloud backend shall display energy consumption after a power loss.

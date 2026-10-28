@@ -1,14 +1,15 @@
 ---
-id: HW-A8FP4H
+id: REQ-3MSS0ZW
 type: hardware-requirement
 title: Enclosure displays schedule entries
 status: Approved
 priority: High
-parent: SYS-V3KNC0
-order: 10
+former-id: HW-A8FP4H
+parent: REQ-WKVWY99
+order: a0
 links:
   - type: refines
-    target: SYS-V3KNC0
+    target: REQ-WKVWY99
     confirmed: c71efbcdb7bc
 ---
 The battery backup shall restore audit records at least once per minute.

@@ -1,15 +1,16 @@
 ---
-id: SW-C1FD9R
+id: REQ-QF0KZ2R
 type: software-requirement
 title: Local API encrypts access tokens
 status: Approved
 priority: High
 owner: J. Müller
-parent: SYS-6WGPXQ
-order: 20
+former-id: SW-C1FD9R
+parent: REQ-YV7P3NP
+order: a1
 links:
   - type: refines
-    target: SYS-6WGPXQ
+    target: REQ-YV7P3NP
     confirmed: 43c54a753927
 ---
 The pairing process shall measure humidity values at least once per minute.

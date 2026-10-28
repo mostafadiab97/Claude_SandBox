@@ -1,5 +1,5 @@
 ---
-id: IF-JREMB6
+id: REQ-ZF51YDQ
 type: interface-requirement
 title: Schedule editor synchronises sensor readings
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: H. Mostafa
 tags:
   - release-1.0
-parent: SYS-MT7DNQ
-order: 20
+former-id: IF-JREMB6
+parent: REQ-AKDTNC9
+order: a1
 links:
   - type: refines
-    target: SYS-MT7DNQ
+    target: REQ-AKDTNC9
     confirmed: f4fac07cb110
 ---
 The login screen shall calibrate sensor readings without user interaction.

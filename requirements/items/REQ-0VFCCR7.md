@@ -1,15 +1,16 @@
 ---
-id: SYS-H7XP2M
+id: REQ-0VFCCR7
 type: system-requirement
 title: Relay board encrypts user preferences
 status: Draft
 priority: Medium
 owner: J. Müller
-parent: INFO-A6P9A8
-order: 2000
+former-id: SYS-H7XP2M
+parent: REQ-CMCS31A
+order: b2D
 links:
   - type: refines
-    target: STK-2STGXE
+    target: REQ-67MQ0AB
     confirmed: c77fe61daf4b
 ---
 The relay board shall notify the connection state after a power loss.

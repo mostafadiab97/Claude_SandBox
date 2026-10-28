@@ -1,12 +1,13 @@
 ---
-id: IF-CJT7JM
+id: REQ-Q5KHZPD
 type: interface-requirement
 title: "Signal 024: audit records"
 status: Approved
 priority: Medium
 tags:
   - regulatory
-parent: INFO-2TM0JP
-order: 240
+former-id: IF-CJT7JM
+parent: REQ-RJ0KHPT
+order: aN
 ---
 Interface signal number 24.

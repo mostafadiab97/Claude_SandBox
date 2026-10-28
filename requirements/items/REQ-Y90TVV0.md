@@ -1,15 +1,16 @@
 ---
-id: TC-7GN8N9
+id: REQ-Y90TVV0
 type: test-case
 title: "Verify: Local API reports user preferences"
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: INFO-F0M7VC
-order: 90
+former-id: TC-7GN8N9
+parent: REQ-67RQXCK
+order: a8
 links:
   - type: verifies
-    target: SYS-66QHTN
+    target: REQ-G5ZVX3X
     confirmed: 65154f9b889c
 ---
 **Objective:** verify that the local API behaves as specified.

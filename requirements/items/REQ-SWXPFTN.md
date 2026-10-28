@@ -1,14 +1,15 @@
 ---
-id: HW-3WQYRW
+id: REQ-SWXPFTN
 type: hardware-requirement
 title: Local API validates relay events
 status: Approved
 priority: Medium
-parent: SYS-FD82WN
-order: 40
+former-id: HW-3WQYRW
+parent: REQ-B2JJXAA
+order: a3
 links:
   - type: refines
-    target: SYS-FD82WN
+    target: REQ-B2JJXAA
     confirmed: f55a56f18a08
 ---
 The local API shall synchronise humidity values without user interaction.

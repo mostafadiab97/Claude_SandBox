@@ -1,5 +1,5 @@
 ---
-id: SW-3SMRDT
+id: REQ-MCF09X0
 type: software-requirement
 title: Status LED restores audit records
 status: Review
@@ -9,11 +9,12 @@ tags:
   - security
   - customer-request
   - EMC
-parent: SYS-14YX19
-order: 20
+former-id: SW-3SMRDT
+parent: REQ-C7D9Q3R
+order: a1
 links:
   - type: refines
-    target: SYS-14YX19
+    target: REQ-C7D9Q3R
     confirmed: 06f883a1c81b
 ---
 The touch display shall report access tokens in under 3 s.

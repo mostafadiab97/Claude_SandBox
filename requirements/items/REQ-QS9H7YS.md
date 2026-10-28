@@ -1,5 +1,5 @@
 ---
-id: SYS-SPKGTS
+id: REQ-QS9H7YS
 type: system-requirement
 title: Wi-Fi module calibrates sensor readings
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - performance
-parent: INFO-NRVHA2
-order: 1750
+former-id: SYS-SPKGTS
+parent: REQ-6R94HFM
+order: b1o
 links:
   - type: refines
-    target: STK-Q9RBYT
+    target: REQ-B31NWSC
     confirmed: a67c8b718d88
 ---
 The Wi-Fi module shall report the room temperature at least once per minute.

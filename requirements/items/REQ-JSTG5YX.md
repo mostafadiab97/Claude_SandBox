@@ -1,16 +1,17 @@
 ---
-id: SW-DS0001
+id: REQ-JSTG5YX
 type: software-requirement
 title: Boiler interface synchronises energy consumption
 status: Draft
 owner: L. Samir
 tags:
   - power
-parent: SYS-6NZHN4
-order: 20
+former-id: SW-DS0001
+parent: REQ-4SSWD4T
+order: a1
 links:
   - type: refines
-    target: SYS-6NZHN4
+    target: REQ-4SSWD4T
     confirmed: 98fdc9e71767
 ---
 The zone valve shall display sensor readings below 0.5 W in standby.

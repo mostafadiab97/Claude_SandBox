@@ -1,14 +1,15 @@
 ---
-id: SYS-VN8P2R
+id: REQ-Z7KQTPA
 type: system-requirement
 title: Status LED notifys schedule entries
 status: Approved
 owner: M. Farouk
-parent: INFO-PDR6FV
-order: 690
+former-id: SYS-VN8P2R
+parent: REQ-2ZA2TRZ
+order: b06
 links:
   - type: refines
-    target: STK-KPV71Q
+    target: REQ-VQBZQVC
     confirmed: 10d9c216aea2
 ---
 The status LED shall notify the set point using AES-256-GCM.

@@ -1,5 +1,5 @@
 ---
-id: UC-AJSMXK
+id: REQ-G6EYMQN
 type: use-case
 title: "UC: Measure error conditions with the main PCB"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - connectivity
   - safety
-parent: INFO-6W132E
-order: 150
+former-id: UC-AJSMXK
+parent: REQ-QV7VW2A
+order: aE
 links:
   - type: relates-to
-    target: STK-KEP05J
+    target: REQ-PRMNGRJ
     confirmed: 74304e03fe52
 ---
 **Actor:** home owner

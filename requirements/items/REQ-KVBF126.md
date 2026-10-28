@@ -1,5 +1,5 @@
 ---
-id: TC-YKNXE9
+id: REQ-KVBF126
 type: test-case
 title: "Verify: Pairing process stores audit records"
 status: Draft
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - accessibility
   - i18n
-parent: INFO-F0M7VC
-order: 200
+former-id: TC-YKNXE9
+parent: REQ-67RQXCK
+order: aJ
 links:
   - type: verifies
-    target: SYS-DHBZX2
+    target: REQ-JQ5W7ER
     confirmed: f269617e5175
 ---
 **Objective:** verify that the pairing process behaves as specified.

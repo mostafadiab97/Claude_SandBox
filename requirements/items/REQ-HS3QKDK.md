@@ -1,5 +1,5 @@
 ---
-id: DEF-3KG2AZ
+id: REQ-HS3QKDK
 type: defect
 title: "Defect: telemetry pipeline does not measure schedule entries"
 status: Draft
@@ -7,14 +7,15 @@ priority: Low
 owner: M. Farouk
 tags:
   - customer-request
-parent: INFO-M91889
-order: 130
+former-id: DEF-3KG2AZ
+parent: REQ-9FNWH0D
+order: aC
 links:
   - type: relates-to
-    target: TC-VKK4J6
+    target: REQ-Z6A3030
     confirmed: 044395b18de2
   - type: relates-to
-    target: SYS-TE6FDF
+    target: REQ-TF5DFFZ
     confirmed: 11c446c78b24
 ---
 Found during regression testing of build 2.4.31.

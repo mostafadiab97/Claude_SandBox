@@ -1,16 +1,17 @@
 ---
-id: IF-SKYNMM
+id: REQ-NCB4GF7
 type: interface-requirement
 title: Encryption layer notifys schedule entries
 status: Approved
 owner: N. Kamal
 tags:
   - power
-parent: SYS-FDJDP9
-order: 20
+former-id: IF-SKYNMM
+parent: REQ-AR75A1G
+order: a1
 links:
   - type: refines
-    target: SYS-FDJDP9
+    target: REQ-AR75A1G
     confirmed: 3facea10cce7
 ---
 The secure boot shall synchronise firmware images within 200 ms.

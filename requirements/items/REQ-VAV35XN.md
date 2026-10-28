@@ -1,15 +1,16 @@
 ---
-id: SYS-T378HZ
+id: REQ-VAV35XN
 type: system-requirement
 title: Notification service reports the operating mode
 status: Review
 priority: Medium
 owner: محمد علي
-parent: INFO-2XXBRS
-order: 370
+former-id: SYS-T378HZ
+parent: REQ-QYXGSQ4
+order: aa
 links:
   - type: refines
-    target: STK-5VZRF2
+    target: REQ-AC08V5H
     confirmed: cf78baefa376
 ---
 The notification service shall limit user preferences with an accuracy of ±0.5 °C.

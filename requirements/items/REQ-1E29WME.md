@@ -1,15 +1,16 @@
 ---
-id: TC-4QCWCV
+id: REQ-1E29WME
 type: test-case
 title: "Verify: Main PCB authenticates schedule entries"
 status: Obsolete
 priority: Medium
 owner: S. Adel
-parent: INFO-MACGC3
-order: 340
+former-id: TC-4QCWCV
+parent: REQ-F9Z1FYS
+order: aX
 links:
   - type: verifies
-    target: SYS-9BFVNF
+    target: REQ-NN0VXJJ
     confirmed: 36211779cc51
 ---
 **Objective:** verify that the main PCB behaves as specified.

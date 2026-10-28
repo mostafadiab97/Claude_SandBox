@@ -1,15 +1,16 @@
 ---
-id: SYS-SZGAP0
+id: REQ-Z7EPBQ5
 type: system-requirement
 title: Menu system synchronises safety limits
 status: Draft
 tags:
   - customer-request
-parent: INFO-PDR6FV
-order: 950
+former-id: SYS-SZGAP0
+parent: REQ-2ZA2TRZ
+order: b0W
 links:
   - type: refines
-    target: STK-BV5YMS
+    target: REQ-XR7FDXB
     confirmed: 07434b0b5615
 ---
 The menu system shall store energy consumption with an accuracy of ±0.5 °C.

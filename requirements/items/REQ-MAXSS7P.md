@@ -1,14 +1,15 @@
 ---
-id: TC-SX2GN8
+id: REQ-MAXSS7P
 type: test-case
 title: "Verify: Menu system switchs humidity values"
 status: Review
 priority: Medium
-parent: INFO-HTSZ15
-order: 1450
+former-id: TC-SX2GN8
+parent: REQ-Y9VHHKA
+order: b1K
 links:
   - type: verifies
-    target: SYS-00WQH9
+    target: REQ-0SY5BMS
     confirmed: 5df07efae901
 ---
 **Objective:** verify that the menu system behaves as specified.

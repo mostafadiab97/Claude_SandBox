@@ -1,5 +1,5 @@
 ---
-id: TC-ANJWPM
+id: REQ-CABTA15
 type: test-case
 title: "Verify: Bluetooth LE link calibrates access tokens"
 status: Review
@@ -9,14 +9,15 @@ tags:
   - EMC
   - connectivity
   - safety
-parent: INFO-F0M7VC
-order: 1360
+former-id: TC-ANJWPM
+parent: REQ-67RQXCK
+order: b1B
 links:
   - type: verifies
-    target: SYS-WTMBDQ
+    target: REQ-M7ZKWK6
     confirmed: 58aa56d32867
   - type: verifies
-    target: SW-BY3NBC
+    target: REQ-38AHT79
     confirmed: 9d2010ef976d
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

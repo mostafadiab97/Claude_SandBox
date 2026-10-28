@@ -1,5 +1,5 @@
 ---
-id: HW-GKD9VJ
+id: REQ-41N9YXT
 type: hardware-requirement
 title: Relay board stores safety limits
 status: Draft
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - EMC
   - release-1.0
-parent: SYS-RP446Q
-order: 20
+former-id: HW-GKD9VJ
+parent: REQ-VQB78TJ
+order: a1
 links:
   - type: refines
-    target: SYS-RP446Q
+    target: REQ-VQB78TJ
     confirmed: 17c94a8ac671
 ---
 The relay board shall limit energy consumption for up to 8 zones.

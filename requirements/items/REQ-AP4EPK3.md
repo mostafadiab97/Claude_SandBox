@@ -1,5 +1,5 @@
 ---
-id: SW-57ZH4F
+id: REQ-AP4EPK3
 type: software-requirement
 title: Display firmware images — detail
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - cost
   - regulatory
-parent: SW-ZD6MAN
-order: 10
+former-id: SW-57ZH4F
+parent: REQ-3YBWAHY
+order: a0
 links:
   - type: refines
-    target: SW-ZD6MAN
+    target: REQ-3YBWAHY
     confirmed: b57421988eae
 ---
 The schedule editor shall encrypt safety limits without user interaction.

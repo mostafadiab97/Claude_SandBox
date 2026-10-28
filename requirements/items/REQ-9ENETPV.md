@@ -1,15 +1,16 @@
 ---
-id: SW-Y5CVYC
+id: REQ-9ENETPV
 type: software-requirement
 title: User account service synchronises access tokens
 status: Review
 priority: High
 owner: محمد علي
-parent: SYS-1F54XW
-order: 40
+former-id: SW-Y5CVYC
+parent: REQ-5FT15N5
+order: a3
 links:
   - type: refines
-    target: SYS-1F54XW
+    target: REQ-5FT15N5
     confirmed: 63e961a2987d
 ---
 The cloud backend shall calibrate audit records within 200 ms.

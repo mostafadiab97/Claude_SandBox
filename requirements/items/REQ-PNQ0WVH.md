@@ -1,5 +1,5 @@
 ---
-id: SYS-7YWY0X
+id: REQ-PNQ0WVH
 type: system-requirement
 title: Touch display encrypts safety limits
 status: Review
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - release-1.0
   - security
-parent: INFO-PDR6FV
-order: 650
+former-id: SYS-7YWY0X
+parent: REQ-2ZA2TRZ
+order: b02
 links:
   - type: refines
-    target: STK-BV5YMS
+    target: REQ-XR7FDXB
     confirmed: 07434b0b5615
 ---
 The touch display shall authenticate sensor readings at least once per minute.

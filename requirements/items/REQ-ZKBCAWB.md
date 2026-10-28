@@ -1,5 +1,5 @@
 ---
-id: TC-03PFV2
+id: REQ-ZKBCAWB
 type: test-case
 title: "Verify: Heating controller notifys audit records"
 status: Draft
@@ -8,14 +8,15 @@ owner: محمد علي
 tags:
   - performance
   - connectivity
-parent: INFO-MS9DAG
-order: 590
+former-id: TC-03PFV2
+parent: REQ-XGWSK2K
+order: aw
 links:
   - type: verifies
-    target: SYS-3BJR5R
+    target: REQ-EXK7X2H
     confirmed: f353734bb488
   - type: verifies
-    target: SW-3PKYJH
+    target: REQ-NJ9TWVC
     confirmed: 85c169f87d37
 ---
 **Objective:** verify that the heating controller behaves as specified.

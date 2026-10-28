@@ -1,5 +1,5 @@
 ---
-id: IF-RPJ72Q
+id: REQ-JAEJK0P
 type: interface-requirement
 title: Login screen displays energy consumption
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - EMC
-parent: SYS-XTSYX5
-order: 40
+former-id: IF-RPJ72Q
+parent: REQ-Y5YXWYJ
+order: a3
 links:
   - type: refines
-    target: SYS-XTSYX5
+    target: REQ-Y5YXWYJ
     confirmed: dc17ae1784ef
 ---
 The home dashboard shall notify relay events in all supported languages.

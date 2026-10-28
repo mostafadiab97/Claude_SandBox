@@ -1,15 +1,16 @@
 ---
-id: SW-9D4XVS
+id: REQ-66T3YQQ
 type: software-requirement
 title: Regulation loop synchronises energy consumption
 status: Approved
 priority: Low
 owner: محمد علي
-parent: SYS-J8Q01T
-order: 30
+former-id: SW-9D4XVS
+parent: REQ-66SD5Y0
+order: a2
 links:
   - type: refines
-    target: SYS-J8Q01T
+    target: REQ-66SD5Y0
     confirmed: d85270700def
 ---
 The zone valve shall measure energy consumption after a power loss.

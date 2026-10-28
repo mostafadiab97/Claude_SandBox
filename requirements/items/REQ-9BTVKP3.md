@@ -1,14 +1,15 @@
 ---
-id: TC-ZEWTST
+id: REQ-9BTVKP3
 type: test-case
 title: "Regression: Notification service displays the operating mode"
 status: Review
 owner: محمد علي
-parent: INFO-ECHASH
-order: 1120
+former-id: TC-ZEWTST
+parent: REQ-6H15AV2
+order: b0n
 links:
   - type: verifies
-    target: SYS-VA9RN1
+    target: REQ-7DAZ6VS
     confirmed: 93a4d8e298aa
 ---
 **Objective:** verify that the device behaves as specified.

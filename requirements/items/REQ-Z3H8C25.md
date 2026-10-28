@@ -1,5 +1,5 @@
 ---
-id: HW-AP82M2
+id: REQ-Z3H8C25
 type: hardware-requirement
 title: Zone valve authenticates the set point
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - release-2.0
   - security
-parent: SYS-B37W64
-order: 10
+former-id: HW-AP82M2
+parent: REQ-FEE2S5J
+order: a0
 links:
   - type: refines
-    target: SYS-B37W64
+    target: REQ-FEE2S5J
     confirmed: 708e0f664c1b
 ---
 The heating controller shall restore sensor readings after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: TC-AWDDCE
+id: REQ-2SX6B7S
 type: test-case
 title: "Regression: Bluetooth LE link authenticates error conditions"
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - security
   - cost
-parent: INFO-ECHASH
-order: 860
+former-id: TC-AWDDCE
+parent: REQ-6H15AV2
+order: b0N
 links:
   - type: verifies
-    target: SYS-XKACBR
+    target: REQ-4JV3MM5
     confirmed: aaffd1e53d20
 ---
 **Objective:** verify that the device behaves as specified.

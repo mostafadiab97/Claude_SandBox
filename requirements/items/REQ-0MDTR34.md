@@ -1,15 +1,16 @@
 ---
-id: IF-FDPWD9
+id: REQ-0MDTR34
 type: interface-requirement
 title: Power supply limits user preferences
 status: Review
 priority: Medium
 owner: Y. Saber
-parent: SYS-PCB26E
-order: 20
+former-id: IF-FDPWD9
+parent: REQ-95R7PF6
+order: a1
 links:
   - type: refines
-    target: SYS-PCB26E
+    target: REQ-95R7PF6
     confirmed: 1f9a2a50a4bc
 ---
 The enclosure shall report the operating mode in under 3 s.

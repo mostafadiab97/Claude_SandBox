@@ -1,5 +1,5 @@
 ---
-id: SW-XWK4WC
+id: REQ-4B6PD13
 type: software-requirement
 title: Synchronise the operating mode — detail
 status: Review
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - power
   - i18n
-parent: SW-20QPSK
-order: 10
+former-id: SW-XWK4WC
+parent: REQ-JJ0CMWK
+order: a0
 links:
   - type: refines
-    target: SW-20QPSK
+    target: REQ-JJ0CMWK
     confirmed: 06b2cec7ac55
 ---
 The encryption layer shall notify access tokens when the network is unavailable.

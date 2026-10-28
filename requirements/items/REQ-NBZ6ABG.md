@@ -1,5 +1,5 @@
 ---
-id: SW-XDFN16
+id: REQ-NBZ6ABG
 type: software-requirement
 title: Watchdog reports access tokens
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - regulatory
   - performance
-parent: SYS-QEG5QQ
-order: 20
+former-id: SW-XDFN16
+parent: REQ-04ZWVW7
+order: a1
 links:
   - type: refines
-    target: SYS-QEG5QQ
+    target: REQ-04ZWVW7
     confirmed: 312c76ebed64
 ---
 The tamper detection shall synchronise access tokens when the network is unavailable.

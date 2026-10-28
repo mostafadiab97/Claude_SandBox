@@ -1,17 +1,18 @@
 ---
-id: TC-CBJ5AB
+id: REQ-R21GWJ6
 type: test-case
 title: "Verify: Wi-Fi module stores access tokens"
 status: Approved
 owner: H. Mostafa
-parent: INFO-F0M7VC
-order: 1300
+former-id: TC-CBJ5AB
+parent: REQ-67RQXCK
+order: b15
 links:
   - type: verifies
-    target: SYS-F9GP9Y
+    target: REQ-4JCY9Z0
     confirmed: 443125a88fee
   - type: verifies
-    target: SW-VG3R6C
+    target: REQ-XQ2M1N7
     confirmed: 781c13a755cb
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

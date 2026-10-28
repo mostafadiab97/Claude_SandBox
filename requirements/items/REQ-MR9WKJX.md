@@ -1,5 +1,5 @@
 ---
-id: SW-86F7Q5
+id: REQ-MR9WKJX
 type: software-requirement
 title: Restore humidity values — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - i18n
   - ux
   - customer-request
-parent: SW-T3NVP9
-order: 10
+former-id: SW-86F7Q5
+parent: REQ-JKBSBFQ
+order: a0
 links:
   - type: refines
-    target: SW-T3NVP9
+    target: REQ-JKBSBFQ
     confirmed: 520ccb5f49ac
 ---
 The heating controller shall notify firmware images with an accuracy of ±0.5 °C.

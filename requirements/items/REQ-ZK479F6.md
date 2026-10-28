@@ -1,5 +1,5 @@
 ---
-id: IF-X2G4E8
+id: REQ-ZK479F6
 type: interface-requirement
 title: Mobile app validates sensor readings
 status: Draft
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - ux
   - power
-parent: SYS-HPNQHQ
-order: 30
+former-id: IF-X2G4E8
+parent: REQ-6PY31M5
+order: a2
 links:
   - type: refines
-    target: SYS-HPNQHQ
+    target: REQ-6PY31M5
     confirmed: 4fe382f87558
 ---
 The login screen shall store energy consumption after a power loss.

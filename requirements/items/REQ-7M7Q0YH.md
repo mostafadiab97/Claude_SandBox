@@ -1,5 +1,5 @@
 ---
-id: SW-9V7RB5
+id: REQ-7M7Q0YH
 type: software-requirement
 title: User account service stores audit records
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: L. Samir
 tags:
   - performance
-parent: SYS-6892JV
-order: 10
+former-id: SW-9V7RB5
+parent: REQ-901RZ6N
+order: a0
 links:
   - type: refines
-    target: SYS-6892JV
+    target: REQ-901RZ6N
     confirmed: 75d4ba20cb76
 ---
 The device registry shall limit safety limits without user interaction.

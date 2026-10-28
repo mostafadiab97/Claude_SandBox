@@ -1,13 +1,14 @@
 ---
-id: HW-8M86XT
+id: REQ-YXATQ8P
 type: hardware-requirement
 title: Touch display stores sensor readings
 status: Approved
-parent: SYS-19PSY9
-order: 20
+former-id: HW-8M86XT
+parent: REQ-HHTRF9W
+order: a1
 links:
   - type: refines
-    target: SYS-19PSY9
+    target: REQ-HHTRF9W
     confirmed: 6a61bda8a792
 ---
 The touch display shall encrypt energy consumption at least once per minute.

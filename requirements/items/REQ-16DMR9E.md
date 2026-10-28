@@ -1,14 +1,15 @@
 ---
-id: SW-YZBNYS
+id: REQ-16DMR9E
 type: software-requirement
 title: Heating controller calibrates schedule entries
 status: Obsolete
 owner: H. Mostafa
-parent: SYS-745K9S
-order: 30
+former-id: SW-YZBNYS
+parent: REQ-16HDKES
+order: a2
 links:
   - type: refines
-    target: SYS-745K9S
+    target: REQ-16HDKES
     confirmed: b4b17cd08794
 ---
 The heating controller shall report user preferences within 200 ms.

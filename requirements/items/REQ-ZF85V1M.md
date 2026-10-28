@@ -1,5 +1,5 @@
 ---
-id: IF-SZ135P
+id: REQ-ZF85V1M
 type: interface-requirement
 title: "Signal 351: firmware images"
 status: Approved
@@ -8,7 +8,8 @@ owner: N. Kamal
 tags:
   - regulatory
   - cost
-parent: INFO-2TM0JP
-order: 3510
+former-id: IF-SZ135P
+parent: REQ-RJ0KHPT
+order: b4e
 ---
 Interface signal number 351.

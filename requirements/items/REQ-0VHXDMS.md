@@ -1,5 +1,5 @@
 ---
-id: SYS-JYEJXF
+id: REQ-0VHXDMS
 type: system-requirement
 title: Schedule editor stores user preferences
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - EMC
   - accessibility
-parent: INFO-2XXBRS
-order: 250
+former-id: SYS-JYEJXF
+parent: REQ-QYXGSQ4
+order: aO
 links:
   - type: refines
-    target: STK-ND3D08
+    target: REQ-BWGMSWJ
     confirmed: df91c673f737
 ---
 The schedule editor shall synchronise the operating mode in under 3 s.

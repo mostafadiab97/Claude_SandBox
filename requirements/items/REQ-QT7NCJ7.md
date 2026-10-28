@@ -1,5 +1,5 @@
 ---
-id: SW-A5BS4E
+id: REQ-QT7NCJ7
 type: software-requirement
 title: Heating controller detects audit records
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - security
   - release-1.0
   - safety
-parent: SYS-HPD0VD
-order: 20
+former-id: SW-A5BS4E
+parent: REQ-6MCMEW9
+order: a1
 links:
   - type: refines
-    target: SYS-HPD0VD
+    target: REQ-6MCMEW9
     confirmed: 5718299a4e75
 ---
 The heat pump driver shall restore the room temperature within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: SYS-E60WCX
+id: REQ-SDZFT6Q
 type: system-requirement
 title: Device registry switchs the connection state
 status: Approved
@@ -8,14 +8,15 @@ owner: H. Mostafa
 tags:
   - accessibility
   - release-1.0
-parent: INFO-YV5EZD
-order: 1970
+former-id: SYS-E60WCX
+parent: REQ-RE9ZKHF
+order: b2A
 links:
   - type: refines
-    target: STK-VT1KVD
+    target: REQ-36Y9ND0
     confirmed: fbcfb8475f32
   - type: mitigates
-    target: RSK-8PEBF8
+    target: REQ-0QH3XJ3
     confirmed: be2e33598f0d
 ---
 The device registry shall display relay events using AES-256-GCM.

@@ -1,5 +1,5 @@
 ---
-id: IF-0RGYT5
+id: REQ-9TSC82K
 type: interface-requirement
 title: Bluetooth LE link detects user preferences
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - safety
   - security
-parent: SYS-7RZPD7
-order: 30
+former-id: IF-0RGYT5
+parent: REQ-84ZV56S
+order: a2
 links:
   - type: refines
-    target: SYS-7RZPD7
+    target: REQ-84ZV56S
     confirmed: ff918beefe64
 ---
 The Bluetooth LE link shall validate sensor readings below 0.5 W in standby.

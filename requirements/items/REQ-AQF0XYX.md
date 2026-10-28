@@ -1,18 +1,19 @@
 ---
-id: TC-8BJ0BB
+id: REQ-AQF0XYX
 type: test-case
 title: "Verify: OTA server switchs schedule entries"
 status: Review
 priority: High
 owner: محمد علي
-parent: INFO-7P4D8D
-order: 360
+former-id: TC-8BJ0BB
+parent: REQ-8351896
+order: aZ
 links:
   - type: verifies
-    target: SYS-XQJCRE
+    target: REQ-0GT4BGC
     confirmed: edcb243104e3
   - type: verifies
-    target: SW-3AAWDY
+    target: REQ-NJ3CP6N
     confirmed: 7fe29834a8a6
 ---
 **Objective:** verify that the OTA server behaves as specified.

@@ -1,13 +1,14 @@
 ---
-id: SYS-HRRNGW
+id: REQ-P7EBBT6
 type: system-requirement
 title: Power supply validates the operating mode
 status: Approved
-parent: INFO-A6P9A8
-order: 910
+former-id: SYS-HRRNGW
+parent: REQ-CMCS31A
+order: b0S
 links:
   - type: refines
-    target: STK-2STGXE
+    target: REQ-67MQ0AB
     confirmed: c77fe61daf4b
 ---
 The power supply shall validate humidity values with an accuracy of ±0.5 °C.

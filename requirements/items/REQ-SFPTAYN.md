@@ -1,5 +1,5 @@
 ---
-id: IF-C0FCHE
+id: REQ-SFPTAYN
 type: interface-requirement
 title: Report the room temperature — detail
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - performance
   - power
   - release-2.0
-parent: IF-G7BDRF
-order: 10
+former-id: IF-C0FCHE
+parent: REQ-RMF5MQK
+order: a0
 links:
   - type: refines
-    target: IF-G7BDRF
+    target: REQ-RMF5MQK
     confirmed: e9463b26539d
 ---
 The rotary knob shall display audit records within 200 ms.

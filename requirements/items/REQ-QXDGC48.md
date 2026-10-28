@@ -1,15 +1,16 @@
 ---
-id: SYS-NNMYTF
+id: REQ-QXDGC48
 type: system-requirement
 title: Heat pump driver switchs humidity values
 status: Approved
 priority: High
 owner: L. Samir
-parent: INFO-6DQTKV
-order: 1350
+former-id: SYS-NNMYTF
+parent: REQ-7ED7ZET
+order: b1A
 links:
   - type: refines
-    target: STK-EWSQ9Z
+    target: REQ-GXKEHF3
     confirmed: aa5e4143dbe7
 ---
 The heat pump driver shall synchronise the room temperature with an accuracy of ±0.5 °C.

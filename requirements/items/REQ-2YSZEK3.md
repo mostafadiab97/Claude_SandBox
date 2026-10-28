@@ -1,18 +1,19 @@
 ---
-id: TC-XBT5PT
+id: REQ-2YSZEK3
 type: test-case
 title: "Verify: Notification service synchronises firmware images"
 status: Draft
 priority: Low
 owner: S. Adel
-parent: INFO-J0FETE
-order: 380
+former-id: TC-XBT5PT
+parent: REQ-WR5ZJN9
+order: ab
 links:
   - type: verifies
-    target: SYS-9WHVE0
+    target: REQ-WDHBVAE
     confirmed: b19b26310755
   - type: verifies
-    target: SW-KBEPSC
+    target: REQ-2YDTGM5
     confirmed: be1f80f82e4f
 ---
 **Objective:** verify that the notification service behaves as specified.

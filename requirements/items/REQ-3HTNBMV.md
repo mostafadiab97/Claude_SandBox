@@ -1,14 +1,15 @@
 ---
-id: TC-MPWW3C
+id: REQ-3HTNBMV
 type: test-case
 title: "Verify: Power supply authenticates access tokens"
 status: Approved
 owner: K. Tanaka
-parent: INFO-MACGC3
-order: 230
+former-id: TC-MPWW3C
+parent: REQ-F9Z1FYS
+order: aM
 links:
   - type: verifies
-    target: SYS-4BMNYZ
+    target: REQ-6GK5ET0
     confirmed: 46035baf3f33
 ---
 **Objective:** verify that the power supply behaves as specified.

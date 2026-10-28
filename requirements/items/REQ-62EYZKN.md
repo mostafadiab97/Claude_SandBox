@@ -1,10 +1,11 @@
 ---
-id: IF-3AVHAT
+id: REQ-62EYZKN
 type: interface-requirement
 title: "Signal 077: firmware images"
 status: Review
 owner: S. Adel
-parent: INFO-2TM0JP
-order: 770
+former-id: IF-3AVHAT
+parent: REQ-RJ0KHPT
+order: b0E
 ---
 Interface signal number 77.

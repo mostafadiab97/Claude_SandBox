@@ -1,5 +1,5 @@
 ---
-id: TC-32BC90
+id: REQ-GWTA8GR
 type: test-case
 title: "Verify: Device registry calibrates sensor readings"
 status: Approved
@@ -8,14 +8,15 @@ owner: A. Hassan
 tags:
   - connectivity
   - release-2.0
-parent: INFO-7P4D8D
-order: 180
+former-id: TC-32BC90
+parent: REQ-8351896
+order: aH
 links:
   - type: verifies
-    target: SYS-V0E8NK
+    target: REQ-3E4WE4B
     confirmed: 8b83909c9c36
   - type: verifies
-    target: SW-S1E6DV
+    target: REQ-FCFTQCW
     confirmed: 780dea8581c6
 ---
 **Objective:** verify that the device registry behaves as specified.

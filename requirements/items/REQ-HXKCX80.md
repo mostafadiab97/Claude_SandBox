@@ -1,5 +1,5 @@
 ---
-id: IF-48PAKB
+id: REQ-HXKCX80
 type: interface-requirement
 title: Power supply displays audit records
 status: Draft
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - safety
   - connectivity
-parent: SYS-7NG4EK
-order: 20
+former-id: IF-48PAKB
+parent: REQ-E29MYCT
+order: a1
 links:
   - type: refines
-    target: SYS-7NG4EK
+    target: REQ-E29MYCT
     confirmed: 9b2c415b0097
 ---
 The main PCB shall report firmware images within 200 ms.

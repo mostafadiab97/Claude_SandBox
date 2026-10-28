@@ -1,5 +1,5 @@
 ---
-id: SW-CFWZF1
+id: REQ-204JM7D
 type: software-requirement
 title: Over-temperature monitor synchronises safety limits
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - connectivity
   - cost
-parent: SYS-4MWCBY
-order: 30
+former-id: SW-CFWZF1
+parent: REQ-MND8W5P
+order: a2
 links:
   - type: refines
-    target: SYS-4MWCBY
+    target: REQ-MND8W5P
     confirmed: 12c71184dbf6
 ---
 The secure boot shall limit the room temperature without user interaction.

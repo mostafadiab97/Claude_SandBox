@@ -1,15 +1,16 @@
 ---
-id: IF-FVPYNT
+id: REQ-GJJKNFG
 type: interface-requirement
 title: Regulation loop encrypts sensor readings
 status: Approved
 priority: Medium
 owner: S. Adel
-parent: SYS-HPD0VD
-order: 10
+former-id: IF-FVPYNT
+parent: REQ-6MCMEW9
+order: a0
 links:
   - type: refines
-    target: SYS-HPD0VD
+    target: REQ-6MCMEW9
     confirmed: 5718299a4e75
 ---
 The heat pump driver shall limit the set point using AES-256-GCM.

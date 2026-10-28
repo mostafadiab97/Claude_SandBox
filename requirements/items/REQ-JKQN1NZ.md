@@ -1,5 +1,5 @@
 ---
-id: TC-Z2AY6N
+id: REQ-JKQN1NZ
 type: test-case
 title: "Regression: Power supply stores energy consumption"
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - ux
   - accessibility
-parent: INFO-ECHASH
-order: 1930
+former-id: TC-Z2AY6N
+parent: REQ-6H15AV2
+order: b26
 links:
   - type: verifies
-    target: SYS-BFB7EF
+    target: REQ-N1H5P0E
     confirmed: a7ba030d51de
 ---
 **Objective:** verify that the device behaves as specified.

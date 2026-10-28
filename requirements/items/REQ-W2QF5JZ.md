@@ -1,14 +1,15 @@
 ---
-id: TC-VY601W
+id: REQ-W2QF5JZ
 type: test-case
 title: "Verify: Regulation loop limits user preferences"
 status: Approved
 owner: K. Tanaka
-parent: INFO-MS9DAG
-order: 1210
+former-id: TC-VY601W
+parent: REQ-XGWSK2K
+order: b0w
 links:
   - type: verifies
-    target: SYS-BK9269
+    target: REQ-ZBE8PSP
     confirmed: 03a5e57cdda8
 ---
 **Objective:** verify that the regulation loop behaves as specified.

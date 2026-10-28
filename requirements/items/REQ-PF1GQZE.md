@@ -1,5 +1,5 @@
 ---
-id: SW-RCSN87
+id: REQ-PF1GQZE
 type: software-requirement
 title: Cloud backend validates sensor readings
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - release-1.0
   - i18n
-parent: SYS-BMNNFF
-order: 10
+former-id: SW-RCSN87
+parent: REQ-61CEQ7Y
+order: a0
 links:
   - type: refines
-    target: SYS-BMNNFF
+    target: REQ-61CEQ7Y
     confirmed: e59e68c0f6b6
 ---
 The OTA server shall validate safety limits without user interaction.

@@ -1,14 +1,15 @@
 ---
-id: SYS-S5AVVB
+id: REQ-XTW7B1R
 type: system-requirement
 title: User account service detects relay events
 status: Review
 priority: Medium
-parent: INFO-YV5EZD
-order: 40
+former-id: SYS-S5AVVB
+parent: REQ-RE9ZKHF
+order: a3
 links:
   - type: refines
-    target: STK-8Y3SDF
+    target: REQ-ATQSVGJ
     confirmed: 2609d2cce998
 ---
 The user account service shall report relay events when the network is unavailable.

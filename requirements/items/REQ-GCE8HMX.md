@@ -1,5 +1,5 @@
 ---
-id: HW-T11V2F
+id: REQ-GCE8HMX
 type: hardware-requirement
 title: Relay board switchs user preferences
 status: Approved
@@ -7,11 +7,12 @@ owner: N. Kamal
 tags:
   - customer-request
   - EMC
-parent: SYS-FN6K6C
-order: 20
+former-id: HW-T11V2F
+parent: REQ-GWKMKHF
+order: a1
 links:
   - type: refines
-    target: SYS-FN6K6C
+    target: REQ-GWKMKHF
     confirmed: de635490bacc
 ---
 The enclosure shall restore the connection state at least once per minute.

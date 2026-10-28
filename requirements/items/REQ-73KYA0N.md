@@ -1,19 +1,20 @@
 ---
-id: TC-4Q8PSE
+id: REQ-73KYA0N
 type: test-case
 title: "Verify: Main PCB limits the set point"
 status: Draft
 priority: Medium
 tags:
   - i18n
-parent: INFO-MACGC3
-order: 420
+former-id: TC-4Q8PSE
+parent: REQ-F9Z1FYS
+order: af
 links:
   - type: verifies
-    target: SYS-8YJPVN
+    target: REQ-KP43F6H
     confirmed: 98030a3341f7
   - type: verifies
-    target: SW-D7ZWTD
+    target: REQ-CN8JGGR
     confirmed: 71a1736b67f4
 ---
 **Objective:** verify that the main PCB behaves as specified.

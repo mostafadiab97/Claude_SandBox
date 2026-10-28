@@ -1,5 +1,5 @@
 ---
-id: IF-0QHZ3N
+id: REQ-VR2NNPW
 type: interface-requirement
 title: Schedule editor restores the operating mode
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - customer-request
   - EMC
-parent: SYS-TE4YGF
-order: 10
+former-id: IF-0QHZ3N
+parent: REQ-6FCJ9N0
+order: a0
 links:
   - type: refines
-    target: SYS-TE4YGF
+    target: REQ-6FCJ9N0
     confirmed: 7a16860169f9
 ---
 The schedule editor shall notify schedule entries within 200 ms.

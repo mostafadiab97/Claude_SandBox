@@ -1,5 +1,5 @@
 ---
-id: DEF-MB5XS8
+id: REQ-QDSRMQM
 type: defect
 title: "Defect: regulation loop does not authenticate relay events"
 status: Review
@@ -8,14 +8,15 @@ owner: L. Samir
 tags:
   - performance
   - i18n
-parent: INFO-ZBHTYF
-order: 110
+former-id: DEF-MB5XS8
+parent: REQ-XJDN42Y
+order: aA
 links:
   - type: relates-to
-    target: TC-71Q4M2
+    target: REQ-PJQ7QHW
     confirmed: 5e1632b66215
   - type: relates-to
-    target: SYS-XW4JM5
+    target: REQ-055JC9M
     confirmed: ed6d4a00a62b
 ---
 Found during regression testing of build 2.0.35.

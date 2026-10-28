@@ -1,5 +1,5 @@
 ---
-id: TC-K3XVWW
+id: REQ-8HSS5BH
 type: test-case
 title: "Verify: Battery backup measures the operating mode"
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - i18n
   - EMC
   - security
-parent: INFO-MACGC3
-order: 70
+former-id: TC-K3XVWW
+parent: REQ-F9Z1FYS
+order: a6
 links:
   - type: verifies
-    target: SYS-G05WA7
+    target: REQ-TA12WYD
     confirmed: c37aca9c7e04
   - type: verifies
-    target: SW-88HPF9
+    target: REQ-AZWAQ09
     confirmed: 86f3854ab240
 ---
 **Objective:** verify that the battery backup behaves as specified.

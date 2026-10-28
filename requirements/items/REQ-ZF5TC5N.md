@@ -1,5 +1,5 @@
 ---
-id: SYS-NM7171
+id: REQ-ZF5TC5N
 type: system-requirement
 title: OTA server synchronises error conditions
 status: Obsolete
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - safety
   - connectivity
-parent: INFO-YV5EZD
-order: 250
+former-id: SYS-NM7171
+parent: REQ-RE9ZKHF
+order: aO
 links:
   - type: refines
-    target: STK-DNB9QM
+    target: REQ-VPP3H2E
     confirmed: 90394ce55463
 ---
 The OTA server shall store the set point using AES-256-GCM.

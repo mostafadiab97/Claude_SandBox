@@ -1,5 +1,5 @@
 ---
-id: IF-0KSYQX
+id: REQ-4K5BEEP
 type: interface-requirement
 title: Touch display notifys sensor readings
 status: Draft
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - safety
   - power
-parent: SYS-DTDMRC
-order: 30
+former-id: IF-0KSYQX
+parent: REQ-0X9SCGY
+order: a2
 links:
   - type: refines
-    target: SYS-DTDMRC
+    target: REQ-0X9SCGY
     confirmed: 001ab42cb872
 ---
 The status LED shall notify the set point at least once per minute.

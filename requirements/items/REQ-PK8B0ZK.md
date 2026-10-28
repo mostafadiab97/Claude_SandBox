@@ -1,15 +1,16 @@
 ---
-id: SW-6QXQJN
+id: REQ-PK8B0ZK
 type: software-requirement
 title: Pairing process measures energy consumption
 status: Review
 priority: Low
 owner: J. Müller
-parent: SYS-M97YDE
-order: 10
+former-id: SW-6QXQJN
+parent: REQ-F9VHKVG
+order: a0
 links:
   - type: refines
-    target: SYS-M97YDE
+    target: REQ-F9VHKVG
     confirmed: 2b5e37645c78
 ---
 The local API shall authenticate the operating mode in all supported languages.

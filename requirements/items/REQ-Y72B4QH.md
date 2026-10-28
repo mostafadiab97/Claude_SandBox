@@ -1,14 +1,15 @@
 ---
-id: UC-SKMAVP
+id: REQ-Y72B4QH
 type: use-case
 title: "UC: Report the connection state with the main PCB"
 status: Approved
 owner: H. Mostafa
-parent: INFO-6W132E
-order: 130
+former-id: UC-SKMAVP
+parent: REQ-QV7VW2A
+order: aC
 links:
   - type: relates-to
-    target: STK-CDR1Y9
+    target: REQ-QC1Z78M
     confirmed: d9857f8b33bf
 ---
 **Actor:** home owner

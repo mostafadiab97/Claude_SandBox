@@ -1,13 +1,14 @@
 ---
-id: HW-RV9KYF
+id: REQ-P5H8RJ5
 type: hardware-requirement
 title: Validate audit records — detail
 status: Draft
-parent: HW-HPT0RH
-order: 10
+former-id: HW-RV9KYF
+parent: REQ-VZ0KZ1G
+order: a0
 links:
   - type: refines
-    target: HW-HPT0RH
+    target: REQ-VZ0KZ1G
     confirmed: 0be1cb4ed5d7
 ---
 The OTA server shall synchronise sensor readings at least once per minute.

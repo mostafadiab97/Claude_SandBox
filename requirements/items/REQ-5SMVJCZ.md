@@ -1,5 +1,5 @@
 ---
-id: DEF-HH713N
+id: REQ-5SMVJCZ
 type: defect
 title: "Defect: watchdog does not store safety limits"
 status: Approved
@@ -8,14 +8,15 @@ owner: L. Samir
 tags:
   - safety
   - performance
-parent: INFO-6QFMYN
-order: 70
+former-id: DEF-HH713N
+parent: REQ-1XKBKFE
+order: a6
 links:
   - type: relates-to
-    target: TC-3WPFJP
+    target: REQ-FE0P08K
     confirmed: 73843db0166e
   - type: relates-to
-    target: SYS-F2DJDC
+    target: REQ-W18RFR4
     confirmed: 2d379fb34255
 ---
 Found during regression testing of build 2.6.24.

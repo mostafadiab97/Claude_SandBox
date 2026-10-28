@@ -1,5 +1,5 @@
 ---
-id: TC-9DD28B
+id: REQ-P4AGH69
 type: test-case
 title: "Regression: Power supply stores the operating mode"
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - power
   - release-2.0
-parent: INFO-ECHASH
-order: 1780
+former-id: TC-9DD28B
+parent: REQ-6H15AV2
+order: b1r
 links:
   - type: verifies
-    target: SYS-C9BFKW
+    target: REQ-X3TS6B3
     confirmed: 0dcc5954ae38
 ---
 **Objective:** verify that the device behaves as specified.

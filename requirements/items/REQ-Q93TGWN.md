@@ -1,14 +1,15 @@
 ---
-id: HW-VSCC6T
+id: REQ-Q93TGWN
 type: hardware-requirement
 title: Tamper detection authenticates access tokens
 status: Draft
 priority: Medium
-parent: SYS-4MWCBY
-order: 40
+former-id: HW-VSCC6T
+parent: REQ-MND8W5P
+order: a3
 links:
   - type: refines
-    target: SYS-4MWCBY
+    target: REQ-MND8W5P
     confirmed: 12c71184dbf6
 ---
 The secure boot shall store the connection state at least once per minute.

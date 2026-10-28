@@ -1,15 +1,16 @@
 ---
-id: HW-QHPQ3M
+id: REQ-HXAWQJG
 type: hardware-requirement
 title: Log relay events — detail
 status: Draft
 priority: Medium
 owner: Y. Saber
-parent: HW-4KAGMA
-order: 10
+former-id: HW-QHPQ3M
+parent: REQ-M9T9N2T
+order: a0
 links:
   - type: refines
-    target: HW-4KAGMA
+    target: REQ-M9T9N2T
     confirmed: dc7b573eec5d
 ---
 The regulation loop shall measure user preferences at least once per minute.

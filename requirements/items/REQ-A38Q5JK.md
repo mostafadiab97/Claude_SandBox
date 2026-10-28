@@ -1,15 +1,16 @@
 ---
-id: SW-WMJ9PD
+id: REQ-A38Q5JK
 type: software-requirement
 title: Regulation loop detects the operating mode
 status: Draft
 priority: Medium
 owner: N. Kamal
-parent: SYS-3311SY
-order: 20
+former-id: SW-WMJ9PD
+parent: REQ-RMHBXKZ
+order: a1
 links:
   - type: refines
-    target: SYS-3311SY
+    target: REQ-RMHBXKZ
     confirmed: 73000130eecf
 ---
 The zone valve shall detect user preferences after a power loss.

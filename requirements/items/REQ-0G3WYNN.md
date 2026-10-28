@@ -1,15 +1,16 @@
 ---
-id: SW-5EWC48
+id: REQ-0G3WYNN
 type: software-requirement
 title: Zone valve logs the connection state
 status: Approved
 priority: Medium
 owner: S. Adel
-parent: SYS-PQPJM5
-order: 10
+former-id: SW-5EWC48
+parent: REQ-RBXKFAD
+order: a0
 links:
   - type: refines
-    target: SYS-PQPJM5
+    target: REQ-RBXKFAD
     confirmed: 743135e74e23
 ---
 The heat pump driver shall synchronise the operating mode when the network is unavailable.

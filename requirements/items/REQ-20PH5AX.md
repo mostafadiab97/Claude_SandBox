@@ -1,5 +1,5 @@
 ---
-id: SW-YNMS62
+id: REQ-20PH5AX
 type: software-requirement
 title: Home dashboard measures humidity values
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - cost
   - i18n
-parent: SYS-6FZH1S
-order: 10
+former-id: SW-YNMS62
+parent: REQ-JTH2F31
+order: a0
 links:
   - type: refines
-    target: SYS-6FZH1S
+    target: REQ-JTH2F31
     confirmed: d02bd019a00a
 ---
 The home dashboard shall validate access tokens after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: TC-3GAGAW
+id: REQ-HTVA6QE
 type: test-case
 title: "Verify: Notification service stores access tokens"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - cost
   - performance
-parent: INFO-J0FETE
-order: 1400
+former-id: TC-3GAGAW
+parent: REQ-WR5ZJN9
+order: b1F
 links:
   - type: verifies
-    target: SYS-BS5G2C
+    target: REQ-BHV7AVF
     confirmed: 19954ae1e0af
 ---
 **Objective:** verify that the notification service behaves as specified.

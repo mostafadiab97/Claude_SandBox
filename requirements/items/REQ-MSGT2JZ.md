@@ -1,15 +1,16 @@
 ---
-id: HW-M85CNK
+id: REQ-MSGT2JZ
 type: hardware-requirement
 title: Menu system logs safety limits
 status: Review
 priority: Low
 owner: N. Kamal
-parent: SYS-J7M5Y0
-order: 20
+former-id: HW-M85CNK
+parent: REQ-6FQ9EV2
+order: a1
 links:
   - type: refines
-    target: SYS-J7M5Y0
+    target: REQ-6FQ9EV2
     confirmed: 48e9db75f26c
 ---
 The touch display shall notify firmware images in under 3 s.

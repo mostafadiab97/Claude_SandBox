@@ -1,5 +1,5 @@
 ---
-id: SW-H280SX
+id: REQ-T71Z86F
 type: software-requirement
 title: Authenticate audit records — detail
 status: Draft
@@ -7,11 +7,12 @@ owner: M. Farouk
 tags:
   - ux
   - accessibility
-parent: SW-7G556P
-order: 10
+former-id: SW-H280SX
+parent: REQ-JNDNZH5
+order: a0
 links:
   - type: refines
-    target: SW-7G556P
+    target: REQ-JNDNZH5
     confirmed: d4d136b4fe06
 ---
 The status LED shall report user preferences when the network is unavailable.

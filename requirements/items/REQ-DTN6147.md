@@ -1,5 +1,5 @@
 ---
-id: SW-S3062C
+id: REQ-DTN6147
 type: software-requirement
 title: Touch display limits error conditions
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - connectivity
   - customer-request
-parent: SYS-3Z4RXV
-order: 40
+former-id: SW-S3062C
+parent: REQ-KAB7NG1
+order: a3
 links:
   - type: refines
-    target: SYS-3Z4RXV
+    target: REQ-KAB7NG1
     confirmed: 6ca149f912b8
 ---
 The backlight shall measure relay events without user interaction.

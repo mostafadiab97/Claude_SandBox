@@ -1,5 +1,5 @@
 ---
-id: SW-8X37JN
+id: REQ-R187H0S
 type: software-requirement
 title: Zigbee radio calibrates relay events
 status: Review
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - release-2.0
   - EMC
-parent: SYS-0Z0CN7
-order: 20
+former-id: SW-8X37JN
+parent: REQ-JKGPFHC
+order: a1
 links:
   - type: refines
-    target: SYS-0Z0CN7
+    target: REQ-JKGPFHC
     confirmed: 08db9fc3bdee
 ---
 The Bluetooth LE link shall limit schedule entries with an accuracy of ±0.5 °C.

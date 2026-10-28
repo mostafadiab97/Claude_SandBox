@@ -1,5 +1,5 @@
 ---
-id: TC-B16ZF8
+id: REQ-3A40WXK
 type: test-case
 title: "Verify: Pairing process validates audit records"
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - performance
   - cost
-parent: INFO-F0M7VC
-order: 1230
+former-id: TC-B16ZF8
+parent: REQ-67RQXCK
+order: b0y
 links:
   - type: verifies
-    target: SYS-DVDRV2
+    target: REQ-9T0XEBB
     confirmed: 1dc89c6de993
 ---
 **Objective:** verify that the pairing process behaves as specified.

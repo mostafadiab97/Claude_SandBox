@@ -1,5 +1,5 @@
 ---
-id: IF-EGV269
+id: REQ-N7K77NP
 type: interface-requirement
 title: Tamper detection validates access tokens
 status: Review
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - cost
   - accessibility
-parent: SYS-7J9J7C
-order: 20
+former-id: IF-EGV269
+parent: REQ-N8MVGME
+order: a1
 links:
   - type: refines
-    target: SYS-7J9J7C
+    target: REQ-N8MVGME
     confirmed: 0f55b6e6a72b
 ---
 The secure boot shall log safety limits at least once per minute.

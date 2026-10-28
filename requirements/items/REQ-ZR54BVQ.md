@@ -1,16 +1,17 @@
 ---
-id: SW-29NGFZ
+id: REQ-ZR54BVQ
 type: software-requirement
 title: Heat pump driver measures energy consumption
 status: Approved
 owner: L. Samir
 tags:
   - performance
-parent: SYS-3RSNVX
-order: 20
+former-id: SW-29NGFZ
+parent: REQ-Z4CVF8M
+order: a1
 links:
   - type: refines
-    target: SYS-3RSNVX
+    target: REQ-Z4CVF8M
     confirmed: cb6d695118df
 ---
 The zone valve shall display user preferences when the network is unavailable.

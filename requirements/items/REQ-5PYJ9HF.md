@@ -1,5 +1,5 @@
 ---
-id: SW-C915S1
+id: REQ-5PYJ9HF
 type: software-requirement
 title: Display user preferences — detail
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - i18n
   - release-2.0
   - safety
-parent: SW-7KN5C6
-order: 10
+former-id: SW-C915S1
+parent: REQ-XAM4YZA
+order: a0
 links:
   - type: refines
-    target: SW-7KN5C6
+    target: REQ-XAM4YZA
     confirmed: 12c2f3a82441
 ---
 The OTA server shall notify humidity values for up to 8 zones.

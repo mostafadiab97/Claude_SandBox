@@ -1,5 +1,5 @@
 ---
-id: TC-MWNX9R
+id: REQ-HB0JGQX
 type: test-case
 title: Hub verification 25
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - regulatory
   - i18n
-parent: INFO-ECHASH
-order: 340
+former-id: TC-MWNX9R
+parent: REQ-6H15AV2
+order: aX
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

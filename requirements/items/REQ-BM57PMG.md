@@ -1,15 +1,16 @@
 ---
-id: IF-TTYAGM
+id: REQ-BM57PMG
 type: interface-requirement
 title: Enclosure validates humidity values
 status: Obsolete
 priority: High
 owner: N. Kamal
-parent: SYS-BJE0SP
-order: 20
+former-id: IF-TTYAGM
+parent: REQ-N2MPVA7
+order: a1
 links:
   - type: refines
-    target: SYS-BJE0SP
+    target: REQ-N2MPVA7
     confirmed: b88f64e6de1a
 ---
 The relay board shall display safety limits in under 3 s.

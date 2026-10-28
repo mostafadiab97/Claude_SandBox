@@ -1,14 +1,15 @@
 ---
-id: SW-2GZFHS
+id: REQ-YWK7VWS
 type: software-requirement
 title: Device registry logs energy consumption
 status: Approved
 owner: H. Mostafa
-parent: SYS-J893M9
-order: 20
+former-id: SW-2GZFHS
+parent: REQ-0MFPXB1
+order: a1
 links:
   - type: refines
-    target: SYS-J893M9
+    target: REQ-0MFPXB1
     confirmed: 6ba2be2cebf8
 ---
 The user account service shall authenticate firmware images after a power loss.

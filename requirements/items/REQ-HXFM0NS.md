@@ -1,18 +1,19 @@
 ---
-id: TC-23EW3J
+id: REQ-HXFM0NS
 type: test-case
 title: "Verify: Regulation loop encrypts the room temperature"
 status: Approved
 priority: Low
 owner: A. Hassan
-parent: INFO-MS9DAG
-order: 1260
+former-id: TC-23EW3J
+parent: REQ-XGWSK2K
+order: b11
 links:
   - type: verifies
-    target: SYS-8F73DW
+    target: REQ-QG4NKYK
     confirmed: 13efe84ae7ac
   - type: verifies
-    target: SW-Q509HV
+    target: REQ-QEHRESA
     confirmed: dec77b70daa1
 ---
 **Objective:** verify that the regulation loop behaves as specified.

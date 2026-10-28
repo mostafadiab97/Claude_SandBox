@@ -1,15 +1,16 @@
 ---
-id: IF-S9S1ZQ
+id: REQ-0ATE2CQ
 type: interface-requirement
 title: Regulation loop notifys error conditions
 status: Approved
 priority: High
 owner: S. Adel
-parent: SYS-Z1R41Y
-order: 20
+former-id: IF-S9S1ZQ
+parent: REQ-S05KBK7
+order: a1
 links:
   - type: refines
-    target: SYS-Z1R41Y
+    target: REQ-S05KBK7
     confirmed: a9d6063a6808
 ---
 The zone valve shall calibrate user preferences after a power loss.

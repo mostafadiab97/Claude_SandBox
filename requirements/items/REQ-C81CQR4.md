@@ -1,5 +1,5 @@
 ---
-id: HW-J2WN4W
+id: REQ-C81CQR4
 type: hardware-requirement
 title: Authenticate the connection state — detail
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - ux
   - EMC
   - customer-request
-parent: HW-H23JGP
-order: 10
+former-id: HW-J2WN4W
+parent: REQ-VS7SYK2
+order: a0
 links:
   - type: refines
-    target: HW-H23JGP
+    target: REQ-VS7SYK2
     confirmed: 79ecb365b87e
 ---
 The over-temperature monitor shall report sensor readings in under 3 s.

@@ -1,15 +1,16 @@
 ---
-id: SYS-FFTATD
+id: REQ-8WGXNDY
 type: system-requirement
 title: Main PCB measures firmware images
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: INFO-A6P9A8
-order: 640
+former-id: SYS-FFTATD
+parent: REQ-CMCS31A
+order: b01
 links:
   - type: refines
-    target: STK-JAQHJP
+    target: REQ-V8PT5BV
     confirmed: b0af11a5c3c2
 ---
 The main PCB shall authenticate sensor readings at least once per minute.

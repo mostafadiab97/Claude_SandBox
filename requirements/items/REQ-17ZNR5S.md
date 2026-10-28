@@ -1,5 +1,5 @@
 ---
-id: SW-K78R7C
+id: REQ-17ZNR5S
 type: software-requirement
 title: Limit firmware images — detail
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - power
   - EMC
   - release-2.0
-parent: SW-TV9K0C
-order: 10
+former-id: SW-K78R7C
+parent: REQ-KR8VMN3
+order: a0
 links:
   - type: refines
-    target: SW-TV9K0C
+    target: REQ-KR8VMN3
     confirmed: c6e463034bf8
 ---
 The telemetry pipeline shall limit firmware images with an accuracy of ±0.5 °C.

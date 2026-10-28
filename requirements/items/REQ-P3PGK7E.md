@@ -1,18 +1,19 @@
 ---
-id: TC-NSP0AR
+id: REQ-P3PGK7E
 type: test-case
 title: "Verify: OTA server logs the connection state"
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: INFO-7P4D8D
-order: 1270
+former-id: TC-NSP0AR
+parent: REQ-8351896
+order: b12
 links:
   - type: verifies
-    target: SYS-PH3PWA
+    target: REQ-2EFA4DF
     confirmed: 2363be236978
   - type: verifies
-    target: SW-NTY35T
+    target: REQ-FPKDC3K
     confirmed: afa2f9924712
 ---
 **Objective:** verify that the OTA server behaves as specified.

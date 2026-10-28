@@ -1,15 +1,16 @@
 ---
-id: SW-MV8E7R
+id: REQ-TAWPYCA
 type: software-requirement
 title: Local API detects the set point
 status: Draft
 priority: Low
 owner: A. Hassan
-parent: SYS-5YJ231
-order: 10
+former-id: SW-MV8E7R
+parent: REQ-MSAG52N
+order: a0
 links:
   - type: refines
-    target: SYS-5YJ231
+    target: REQ-MSAG52N
     confirmed: 72fe6dc471a9
 ---
 The Wi-Fi module shall log humidity values below 0.5 W in standby.

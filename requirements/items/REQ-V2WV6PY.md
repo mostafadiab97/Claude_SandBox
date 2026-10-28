@@ -1,16 +1,17 @@
 ---
-id: TC-1YM1D3
+id: REQ-V2WV6PY
 type: test-case
 title: "Verify: Over-temperature monitor limits the set point"
 status: Approved
 owner: L. Samir
 tags:
   - EMC
-parent: INFO-Z4TW4B
-order: 1370
+former-id: TC-1YM1D3
+parent: REQ-K6FGAY0
+order: b1C
 links:
   - type: verifies
-    target: SYS-9C32EE
+    target: REQ-9JQBZHM
     confirmed: 3b09685c237a
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

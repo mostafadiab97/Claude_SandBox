@@ -1,5 +1,5 @@
 ---
-id: IF-PEH3M3
+id: REQ-SN6TB22
 type: interface-requirement
 title: "Signal 107: energy consumption"
 status: Draft
@@ -7,7 +7,8 @@ priority: Medium
 owner: R. Nabil
 tags:
   - accessibility
-parent: INFO-2TM0JP
-order: 1070
+former-id: IF-PEH3M3
+parent: REQ-RJ0KHPT
+order: b0i
 ---
 Interface signal number 107.

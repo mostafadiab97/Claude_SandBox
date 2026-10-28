@@ -1,5 +1,5 @@
 ---
-id: SW-XQ171V
+id: REQ-5F4JQ42
 type: software-requirement
 title: Schedule editor validates energy consumption
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - i18n
   - accessibility
-parent: SYS-XF6HRT
-order: 30
+former-id: SW-XQ171V
+parent: REQ-JQNGJRH
+order: a2
 links:
   - type: refines
-    target: SYS-XF6HRT
+    target: REQ-JQNGJRH
     confirmed: 8fa995f67a12
 ---
 The notification service shall validate safety limits at least once per minute.

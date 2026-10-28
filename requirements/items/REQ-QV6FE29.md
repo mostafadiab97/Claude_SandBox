@@ -1,15 +1,16 @@
 ---
-id: TC-HF6KDZ
+id: REQ-QV6FE29
 type: test-case
 title: "Verify: User account service logs user preferences"
 status: Review
 priority: High
 owner: A. Hassan
-parent: INFO-7P4D8D
-order: 280
+former-id: TC-HF6KDZ
+parent: REQ-8351896
+order: aR
 links:
   - type: verifies
-    target: SYS-AWQ3YN
+    target: REQ-BWMZ077
     confirmed: f3aedc76f0ed
 ---
 **Objective:** verify that the user account service behaves as specified.

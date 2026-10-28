@@ -1,5 +1,5 @@
 ---
-id: SW-VH5XWK
+id: REQ-01EV28A
 type: software-requirement
 title: Zigbee radio calibrates the operating mode
 status: Obsolete
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - performance
   - power
-parent: SYS-4PDJXS
-order: 10
+former-id: SW-VH5XWK
+parent: REQ-BNBP365
+order: a0
 links:
   - type: refines
-    target: SYS-4PDJXS
+    target: REQ-BNBP365
     confirmed: d110956fb0b7
 ---
 The Bluetooth LE link shall calibrate relay events in under 3 s.

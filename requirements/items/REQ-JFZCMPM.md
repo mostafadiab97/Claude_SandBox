@@ -1,5 +1,5 @@
 ---
-id: SW-EPA3J6
+id: REQ-JFZCMPM
 type: software-requirement
 title: Heating controller restores access tokens
 status: Obsolete
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - cost
   - safety
-parent: SYS-J8Q01T
-order: 20
+former-id: SW-EPA3J6
+parent: REQ-66SD5Y0
+order: a1
 links:
   - type: refines
-    target: SYS-J8Q01T
+    target: REQ-66SD5Y0
     confirmed: 29cbef535722
 ---
 The zone valve shall notify the operating mode for at least 10 years.

@@ -1,5 +1,5 @@
 ---
-id: TC-YZHG2R
+id: REQ-DFHETEQ
 type: test-case
 title: "Verify: Zigbee radio switchs relay events"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - i18n
   - power
-parent: INFO-F0M7VC
-order: 390
+former-id: TC-YZHG2R
+parent: REQ-67RQXCK
+order: ac
 links:
   - type: verifies
-    target: SYS-DHYCNS
+    target: REQ-M5V5PF1
     confirmed: 9adddfa5a009
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

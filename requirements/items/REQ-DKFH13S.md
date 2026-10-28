@@ -1,5 +1,5 @@
 ---
-id: TC-5MWACD
+id: REQ-DKFH13S
 type: test-case
 title: "Regression: Heating controller synchronises user preferences"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - power
-parent: INFO-ECHASH
-order: 1890
+former-id: TC-5MWACD
+parent: REQ-6H15AV2
+order: b22
 links:
   - type: verifies
-    target: SYS-MEFF8R
+    target: REQ-CQQM0M4
     confirmed: f144cf8852e5
 ---
 **Objective:** verify that the device behaves as specified.

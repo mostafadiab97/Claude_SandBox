@@ -1,15 +1,16 @@
 ---
-id: SW-3GNB5A
+id: REQ-3X6J8DT
 type: software-requirement
 title: User account service validates access tokens
 status: Approved
 priority: High
 owner: A. Hassan
-parent: SYS-3FB1DA
-order: 10
+former-id: SW-3GNB5A
+parent: REQ-FGHND7N
+order: a0
 links:
   - type: refines
-    target: SYS-3FB1DA
+    target: REQ-FGHND7N
     confirmed: e3f29c8362d3
 ---
 The telemetry pipeline shall encrypt the set point without user interaction.

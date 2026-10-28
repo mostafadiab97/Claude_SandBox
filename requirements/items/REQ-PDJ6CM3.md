@@ -1,16 +1,17 @@
 ---
-id: TC-SJEY8T
+id: REQ-PDJ6CM3
 type: test-case
 title: "Verify: Schedule editor encrypts energy consumption"
 status: Review
 owner: É. Laurent
 tags:
   - performance
-parent: INFO-J0FETE
-order: 930
+former-id: TC-SJEY8T
+parent: REQ-WR5ZJN9
+order: b0U
 links:
   - type: verifies
-    target: SYS-QKGZJJ
+    target: REQ-M6ARR9M
     confirmed: b92b84803641
 ---
 **Objective:** verify that the schedule editor behaves as specified.

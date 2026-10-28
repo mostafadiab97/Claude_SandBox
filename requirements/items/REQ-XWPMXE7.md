@@ -1,18 +1,19 @@
 ---
-id: TC-6EYKE4
+id: REQ-XWPMXE7
 type: test-case
 title: "Verify: Regulation loop switchs the room temperature"
 status: Obsolete
 priority: High
 owner: K. Tanaka
-parent: INFO-MS9DAG
-order: 1370
+former-id: TC-6EYKE4
+parent: REQ-XGWSK2K
+order: b1C
 links:
   - type: verifies
-    target: SYS-FMTYXJ
+    target: REQ-DZ4NZB2
     confirmed: 51ed09f00e1d
   - type: verifies
-    target: SW-TQ408P
+    target: REQ-X2QFS3T
     confirmed: 2f356afe5198
 ---
 **Objective:** verify that the regulation loop behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: TC-JBF998
+id: REQ-Y1AN9XM
 type: test-case
 title: "Verify: Relay board stores error conditions"
 status: Review
 tags:
   - release-2.0
-parent: INFO-MACGC3
-order: 440
+former-id: TC-JBF998
+parent: REQ-F9Z1FYS
+order: ah
 links:
   - type: verifies
-    target: SYS-85957D
+    target: REQ-QEEBGFY
     confirmed: 2462555b5bb1
 ---
 **Objective:** verify that the relay board behaves as specified.

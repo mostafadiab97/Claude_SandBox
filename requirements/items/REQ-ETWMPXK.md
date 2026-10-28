@@ -1,5 +1,5 @@
 ---
-id: SYS-47V3JP
+id: REQ-ETWMPXK
 type: system-requirement
 title: Over-temperature monitor measures the operating mode
 status: Draft
@@ -7,14 +7,15 @@ priority: Low
 owner: M. Farouk
 tags:
   - release-2.0
-parent: INFO-0229G8
-order: 1750
+former-id: SYS-47V3JP
+parent: REQ-H9113WA
+order: b1o
 links:
   - type: refines
-    target: STK-DJ9M3M
+    target: REQ-375SK1B
     confirmed: ba30e28a130f
   - type: mitigates
-    target: RSK-MJR7PZ
+    target: REQ-C971M8M
     confirmed: a67337939a06
 ---
 The over-temperature monitor shall limit firmware images for at least 10 years.

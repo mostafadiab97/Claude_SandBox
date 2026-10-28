@@ -1,15 +1,16 @@
 ---
-id: HW-AHT5R6
+id: REQ-VX23WHP
 type: hardware-requirement
 title: Boiler interface stores energy consumption
 status: Draft
 priority: High
 owner: A. Hassan
-parent: SYS-3BJR5R
-order: 30
+former-id: HW-AHT5R6
+parent: REQ-EXK7X2H
+order: a2
 links:
   - type: refines
-    target: SYS-3BJR5R
+    target: REQ-EXK7X2H
     confirmed: f353734bb488
 ---
 The heating controller shall synchronise access tokens with an accuracy of ±0.5 °C.

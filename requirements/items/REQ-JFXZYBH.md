@@ -1,5 +1,5 @@
 ---
-id: SW-DC0ASA
+id: REQ-JFXZYBH
 type: software-requirement
 title: Restore error conditions — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - accessibility
   - security
-parent: SW-B5N3CJ
-order: 10
+former-id: SW-DC0ASA
+parent: REQ-7R4HN5V
+order: a0
 links:
   - type: refines
-    target: SW-B5N3CJ
+    target: REQ-7R4HN5V
     confirmed: 4d1f182ba9a0
 ---
 The Wi-Fi module shall report sensor readings after a power loss.

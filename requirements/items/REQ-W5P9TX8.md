@@ -1,14 +1,15 @@
 ---
-id: HW-381RQ1
+id: REQ-W5P9TX8
 type: hardware-requirement
 title: Battery backup limits firmware images
 status: Draft
 priority: High
-parent: SYS-2XRBY7
-order: 20
+former-id: HW-381RQ1
+parent: REQ-E8KNX06
+order: a1
 links:
   - type: refines
-    target: SYS-2XRBY7
+    target: REQ-E8KNX06
     confirmed: 7b1130aac0e9
 ---
 The power supply shall notify the set point below 0.5 W in standby.

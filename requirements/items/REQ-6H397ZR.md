@@ -1,5 +1,5 @@
 ---
-id: IF-W47B4N
+id: REQ-6H397ZR
 type: interface-requirement
 title: "Signal 216: relay events"
 status: Approved
@@ -8,7 +8,8 @@ owner: É. Laurent
 tags:
   - performance
   - ux
-parent: INFO-2TM0JP
-order: 2160
+former-id: IF-W47B4N
+parent: REQ-RJ0KHPT
+order: b2T
 ---
 Interface signal number 216.

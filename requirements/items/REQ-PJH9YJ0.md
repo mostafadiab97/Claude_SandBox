@@ -1,5 +1,5 @@
 ---
-id: TC-JGK8SG
+id: REQ-PJH9YJ0
 type: test-case
 title: "Verify: Over-temperature monitor calibrates relay events"
 status: Draft
@@ -7,14 +7,15 @@ priority: Low
 owner: M. Farouk
 tags:
   - security
-parent: INFO-Z4TW4B
-order: 120
+former-id: TC-JGK8SG
+parent: REQ-K6FGAY0
+order: aB
 links:
   - type: verifies
-    target: SYS-7ECC65
+    target: REQ-A7HF8D3
     confirmed: d20f7028dc77
   - type: verifies
-    target: SW-0CA54W
+    target: REQ-8BZ2WF3
     confirmed: c33a35847fa5
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

@@ -1,16 +1,17 @@
 ---
-id: SW-G6TGXX
+id: REQ-0Y3FPG4
 type: software-requirement
 title: Mobile app detects access tokens
 status: Review
 priority: High
 tags:
   - safety
-parent: SYS-CRRCSR
-order: 10
+former-id: SW-G6TGXX
+parent: REQ-DQBXXZR
+order: a0
 links:
   - type: refines
-    target: SYS-CRRCSR
+    target: REQ-DQBXXZR
     confirmed: e29ae9264b3a
 ---
 The mobile app shall detect humidity values within 200 ms.

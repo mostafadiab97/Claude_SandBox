@@ -1,5 +1,5 @@
 ---
-id: SW-C4CR4J
+id: REQ-9BPM20W
 type: software-requirement
 title: Touch display limits audit records
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - EMC
   - release-2.0
   - accessibility
-parent: SYS-CH0H2M
-order: 30
+former-id: SW-C4CR4J
+parent: REQ-6PD797G
+order: a2
 links:
   - type: refines
-    target: SYS-CH0H2M
+    target: REQ-6PD797G
     confirmed: dcde66db1e30
 ---
 The status LED shall notify sensor readings at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: IF-B2HSBA
+id: REQ-KG7H20E
 type: interface-requirement
 title: Pairing process stores the connection state
 status: Draft
@@ -7,11 +7,12 @@ owner: N. Kamal
 tags:
   - cost
   - power
-parent: SYS-SPX676
-order: 10
+former-id: IF-B2HSBA
+parent: REQ-VARSTZG
+order: a0
 links:
   - type: refines
-    target: SYS-SPX676
+    target: REQ-VARSTZG
     confirmed: c915b489dd1f
 ---
 The Zigbee radio shall limit firmware images in under 3 s.

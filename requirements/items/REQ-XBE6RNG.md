@@ -1,5 +1,5 @@
 ---
-id: TC-5XBGY2
+id: REQ-XBE6RNG
 type: test-case
 title: "Verify: Over-temperature monitor encrypts safety limits"
 status: Review
@@ -7,11 +7,12 @@ owner: M. Farouk
 tags:
   - cost
   - EMC
-parent: INFO-Z4TW4B
-order: 1420
+former-id: TC-5XBGY2
+parent: REQ-K6FGAY0
+order: b1H
 links:
   - type: verifies
-    target: SYS-XJA19E
+    target: REQ-9D1NB8Y
     confirmed: 282475b49d82
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

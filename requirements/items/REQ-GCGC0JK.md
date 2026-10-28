@@ -1,5 +1,5 @@
 ---
-id: IF-SMY1SW
+id: REQ-GCGC0JK
 type: interface-requirement
 title: Power supply displays audit records
 status: Review
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - release-2.0
   - ux
-parent: SYS-R8S84Y
-order: 40
+former-id: IF-SMY1SW
+parent: REQ-VTMBTS5
+order: a3
 links:
   - type: refines
-    target: SYS-R8S84Y
+    target: REQ-VTMBTS5
     confirmed: 1adc29377b0d
 ---
 The power supply shall authenticate energy consumption when the network is unavailable.

@@ -1,5 +1,5 @@
 ---
-id: SW-D8TA61
+id: REQ-VD87GQ0
 type: software-requirement
 title: Log safety limits — detail
 status: Obsolete
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - connectivity
   - cost
-parent: SW-HDKX27
-order: 10
+former-id: SW-D8TA61
+parent: REQ-WEBX547
+order: a0
 links:
   - type: refines
-    target: SW-HDKX27
+    target: REQ-WEBX547
     confirmed: d0734b718c2e
 ---
 The touch display shall calibrate the set point without user interaction.

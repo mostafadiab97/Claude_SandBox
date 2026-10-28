@@ -1,11 +1,12 @@
 ---
-id: IF-XYTVCB
+id: REQ-6G04FT0
 type: interface-requirement
 title: "Signal 145: the connection state"
 status: Approved
 priority: Medium
 owner: L. Samir
-parent: INFO-2TM0JP
-order: 1450
+former-id: IF-XYTVCB
+parent: REQ-RJ0KHPT
+order: b1K
 ---
 Interface signal number 145.

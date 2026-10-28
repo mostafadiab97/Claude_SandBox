@@ -1,5 +1,5 @@
 ---
-id: TC-WP4F6S
+id: REQ-C2RTGGV
 type: test-case
 title: "Verify: Menu system detects the connection state"
 status: Draft
@@ -8,14 +8,15 @@ owner: S. Adel
 tags:
   - regulatory
   - ux
-parent: INFO-HTSZ15
-order: 90
+former-id: TC-WP4F6S
+parent: REQ-Y9VHHKA
+order: a8
 links:
   - type: verifies
-    target: SYS-8J1N3D
+    target: REQ-8R6PK9M
     confirmed: a3b0d4233e0c
   - type: verifies
-    target: SW-810TWH
+    target: REQ-HV71NQD
     confirmed: e5b17a7ecc70
 ---
 **Objective:** verify that the menu system behaves as specified.

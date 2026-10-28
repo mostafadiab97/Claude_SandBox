@@ -1,15 +1,16 @@
 ---
-id: TC-4VDWF4
+id: REQ-CZXMG6V
 type: test-case
 title: "Regression: Secure boot authenticates energy consumption"
 status: Draft
 priority: Medium
 owner: K. Tanaka
-parent: INFO-ECHASH
-order: 710
+former-id: TC-4VDWF4
+parent: REQ-6H15AV2
+order: b08
 links:
   - type: verifies
-    target: SYS-HF856T
+    target: REQ-VD3A46J
     confirmed: 96551a11c8e9
 ---
 **Objective:** verify that the device behaves as specified.

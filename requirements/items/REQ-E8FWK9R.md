@@ -1,5 +1,5 @@
 ---
-id: IF-5JBM9A
+id: REQ-E8FWK9R
 type: interface-requirement
 title: "Signal 547: audit records"
 status: Review
@@ -8,7 +8,8 @@ owner: H. Mostafa
 tags:
   - accessibility
   - customer-request
-parent: INFO-2TM0JP
-order: 5470
+former-id: IF-5JBM9A
+parent: REQ-RJ0KHPT
+order: b7o
 ---
 Interface signal number 547.

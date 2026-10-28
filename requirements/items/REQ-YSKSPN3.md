@@ -1,14 +1,15 @@
 ---
-id: SYS-558WVB
+id: REQ-YSKSPN3
 type: system-requirement
 title: Pairing process switchs safety limits
 status: Draft
 priority: Low
-parent: INFO-NRVHA2
-order: 500
+former-id: SYS-558WVB
+parent: REQ-6R94HFM
+order: an
 links:
   - type: refines
-    target: STK-F7D2QS
+    target: REQ-7JDZJ5E
     confirmed: bd8a3050a12b
 ---
 The pairing process shall switch humidity values when the network is unavailable.

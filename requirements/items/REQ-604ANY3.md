@@ -1,5 +1,5 @@
 ---
-id: HW-CQ4XMZ
+id: REQ-604ANY3
 type: hardware-requirement
 title: Login screen encrypts the operating mode
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: محمد علي
 tags:
   - customer-request
-parent: SYS-61AT7T
-order: 20
+former-id: HW-CQ4XMZ
+parent: REQ-V02ZDCW
+order: a1
 links:
   - type: refines
-    target: SYS-61AT7T
+    target: REQ-V02ZDCW
     confirmed: 3112309b1698
 ---
 The login screen shall synchronise the set point in all supported languages.

@@ -1,15 +1,16 @@
 ---
-id: SW-XKP37A
+id: REQ-9ZPFWPD
 type: software-requirement
 title: Mobile app logs safety limits
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: SYS-E9RGPF
-order: 20
+former-id: SW-XKP37A
+parent: REQ-1PE74PK
+order: a1
 links:
   - type: refines
-    target: SYS-E9RGPF
+    target: REQ-1PE74PK
     confirmed: f695ac56bd99
 ---
 The login screen shall limit access tokens with an accuracy of ±0.5 °C.

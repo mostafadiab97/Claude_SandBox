@@ -1,14 +1,15 @@
 ---
-id: SYS-2DYZPV
+id: REQ-D1MTBDV
 type: system-requirement
 title: Bluetooth LE link synchronises energy consumption
 status: Review
 priority: Medium
-parent: INFO-NRVHA2
-order: 1620
+former-id: SYS-2DYZPV
+parent: REQ-6R94HFM
+order: b1b
 links:
   - type: refines
-    target: STK-1R2QT3
+    target: REQ-3MGNW4R
     confirmed: 7ca04f22a1b8
 ---
 The Bluetooth LE link shall synchronise the set point in under 3 s.

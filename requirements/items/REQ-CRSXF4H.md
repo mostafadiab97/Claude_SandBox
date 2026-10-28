@@ -1,5 +1,5 @@
 ---
-id: IF-2GH73F
+id: REQ-CRSXF4H
 type: interface-requirement
 title: "Signal 451: user preferences"
 status: Draft
@@ -9,7 +9,8 @@ tags:
   - EMC
   - i18n
   - connectivity
-parent: INFO-2TM0JP
-order: 4510
+former-id: IF-2GH73F
+parent: REQ-RJ0KHPT
+order: b6G
 ---
 Interface signal number 451.

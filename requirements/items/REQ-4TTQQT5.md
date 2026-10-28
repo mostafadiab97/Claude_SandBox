@@ -1,15 +1,16 @@
 ---
-id: SYS-1EZ0H1
+id: REQ-4TTQQT5
 type: system-requirement
 title: Local API displays error conditions
 status: Review
 priority: High
 owner: S. Adel
-parent: INFO-NRVHA2
-order: 1800
+former-id: SYS-1EZ0H1
+parent: REQ-6R94HFM
+order: b1t
 links:
   - type: refines
-    target: STK-1R2QT3
+    target: REQ-3MGNW4R
     confirmed: 7ca04f22a1b8
 ---
 The local API shall limit safety limits when the network is unavailable.

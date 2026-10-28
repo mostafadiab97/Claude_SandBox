@@ -1,15 +1,16 @@
 ---
-id: SW-VPHXGJ
+id: REQ-9B9JX24
 type: software-requirement
 title: Measure firmware images — detail
 status: Approved
 priority: Medium
 owner: L. Samir
-parent: SW-K3GSZ2
-order: 10
+former-id: SW-VPHXGJ
+parent: REQ-X10ZPSM
+order: a0
 links:
   - type: refines
-    target: SW-K3GSZ2
+    target: REQ-X10ZPSM
     confirmed: 5fc80d0c0104
 ---
 The telemetry pipeline shall limit user preferences at least once per minute.

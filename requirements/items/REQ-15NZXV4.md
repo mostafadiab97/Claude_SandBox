@@ -1,5 +1,5 @@
 ---
-id: IF-GERDK0
+id: REQ-15NZXV4
 type: interface-requirement
 title: Encryption layer authenticates energy consumption
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - security
   - performance
   - EMC
-parent: SYS-AT7SG8
-order: 20
+former-id: IF-GERDK0
+parent: REQ-8V3JXAY
+order: a1
 links:
   - type: refines
-    target: SYS-AT7SG8
+    target: REQ-8V3JXAY
     confirmed: c483239675ae
 ---
 The over-temperature monitor shall limit sensor readings after a power loss.

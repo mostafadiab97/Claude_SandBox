@@ -1,5 +1,5 @@
 ---
-id: IF-6HNRQZ
+id: REQ-JBMN0QG
 type: interface-requirement
 title: "Signal 210: firmware images"
 status: Approved
@@ -7,7 +7,8 @@ priority: Medium
 tags:
   - i18n
   - performance
-parent: INFO-2TM0JP
-order: 2100
+former-id: IF-6HNRQZ
+parent: REQ-RJ0KHPT
+order: b2N
 ---
 Interface signal number 210.

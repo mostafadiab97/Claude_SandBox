@@ -1,17 +1,18 @@
 ---
-id: TC-5GCD7B
+id: REQ-WJS83S3
 type: test-case
 title: "Verify: OTA server encrypts sensor readings"
 status: Draft
 priority: Medium
-parent: INFO-7P4D8D
-order: 1620
+former-id: TC-5GCD7B
+parent: REQ-8351896
+order: b1b
 links:
   - type: verifies
-    target: SYS-A103QP
+    target: REQ-Y9FVQ7Q
     confirmed: ebe6b95c0f3d
   - type: verifies
-    target: SW-MWKQRR
+    target: REQ-EVH1N33
     confirmed: 68ee84cc7ff2
 ---
 **Objective:** verify that the OTA server behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: IF-DNT3RG
+id: REQ-H468Q7S
 type: interface-requirement
 title: Mobile app displays user preferences
 status: Review
@@ -9,11 +9,12 @@ tags:
   - ux
   - accessibility
   - customer-request
-parent: SYS-6RXFNT
-order: 10
+former-id: IF-DNT3RG
+parent: REQ-G6H7R8E
+order: a0
 links:
   - type: refines
-    target: SYS-6RXFNT
+    target: REQ-G6H7R8E
     confirmed: 58653acb842c
 ---
 The notification service shall store safety limits when the network is unavailable.

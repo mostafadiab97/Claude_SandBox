@@ -1,5 +1,5 @@
 ---
-id: IF-17SQ2E
+id: REQ-0FHM6SD
 type: interface-requirement
 title: OTA server encrypts energy consumption
 status: Review
@@ -9,11 +9,12 @@ tags:
   - cost
   - accessibility
   - release-1.0
-parent: SYS-PH3PWA
-order: 10
+former-id: IF-17SQ2E
+parent: REQ-2EFA4DF
+order: a0
 links:
   - type: refines
-    target: SYS-PH3PWA
+    target: REQ-2EFA4DF
     confirmed: 2363be236978
 ---
 The OTA server shall log safety limits in under 3 s.

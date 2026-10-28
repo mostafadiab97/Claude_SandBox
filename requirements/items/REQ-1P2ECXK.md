@@ -1,15 +1,16 @@
 ---
-id: SW-CK1258
+id: REQ-1P2ECXK
 type: software-requirement
 title: Regulation loop calibrates humidity values
 status: Draft
 priority: Medium
 owner: É. Laurent
-parent: SYS-FNDSGK
-order: 20
+former-id: SW-CK1258
+parent: REQ-PYC0FAG
+order: a1
 links:
   - type: refines
-    target: SYS-FNDSGK
+    target: REQ-PYC0FAG
     confirmed: cc35bc1c9bb3
 ---
 The regulation loop shall synchronise audit records with an accuracy of ±0.5 °C.

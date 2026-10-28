@@ -1,5 +1,5 @@
 ---
-id: SW-R1RH8N
+id: REQ-WCGMHC3
 type: software-requirement
 title: Display the set point — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - release-2.0
   - safety
-parent: SW-AVMGNP
-order: 10
+former-id: SW-R1RH8N
+parent: REQ-PNN5JJZ
+order: a0
 links:
   - type: refines
-    target: SW-AVMGNP
+    target: REQ-PNN5JJZ
     confirmed: bc0b6c9c3a28
 ---
 The local API shall restore relay events without user interaction.

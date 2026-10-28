@@ -1,14 +1,15 @@
 ---
-id: SW-WZGH76
+id: REQ-GA9WQGV
 type: software-requirement
 title: Schedule editor displays user preferences
 status: Approved
 priority: Medium
-parent: SYS-4W17YE
-order: 20
+former-id: SW-WZGH76
+parent: REQ-8S71RF1
+order: a1
 links:
   - type: refines
-    target: SYS-4W17YE
+    target: REQ-8S71RF1
     confirmed: 91763bba0bd6
 ---
 The notification service shall display access tokens at least once per minute.

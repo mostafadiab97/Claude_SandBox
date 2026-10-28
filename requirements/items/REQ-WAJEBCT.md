@@ -1,5 +1,5 @@
 ---
-id: SW-A10W2A
+id: REQ-WAJEBCT
 type: software-requirement
 title: OTA server restores error conditions
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - release-1.0
-parent: SYS-7560Q0
-order: 30
+former-id: SW-A10W2A
+parent: REQ-E0XKBA1
+order: a2
 links:
   - type: refines
-    target: SYS-7560Q0
+    target: REQ-E0XKBA1
     confirmed: 9d3e4fe37fb5
 ---
 The cloud backend shall synchronise safety limits for up to 8 zones.

@@ -1,14 +1,15 @@
 ---
-id: SW-FYZE13
+id: REQ-BE6PRKX
 type: software-requirement
 title: Zone valve authenticates safety limits
 status: Draft
 owner: J. Müller
-parent: SYS-8F73DW
-order: 20
+former-id: SW-FYZE13
+parent: REQ-QG4NKYK
+order: a1
 links:
   - type: refines
-    target: SYS-8F73DW
+    target: REQ-QG4NKYK
     confirmed: 13efe84ae7ac
 ---
 The regulation loop shall log the room temperature for at least 10 years.

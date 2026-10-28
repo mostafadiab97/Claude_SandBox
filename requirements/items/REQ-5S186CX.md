@@ -1,5 +1,5 @@
 ---
-id: HW-HRS54W
+id: REQ-5S186CX
 type: hardware-requirement
 title: Local API detects energy consumption
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: L. Samir
 tags:
   - performance
-parent: SYS-F4HTNV
-order: 30
+former-id: HW-HRS54W
+parent: REQ-ZGT59VA
+order: a2
 links:
   - type: refines
-    target: SYS-F4HTNV
+    target: REQ-ZGT59VA
     confirmed: f5977efaa651
 ---
 The Wi-Fi module shall display relay events without user interaction.

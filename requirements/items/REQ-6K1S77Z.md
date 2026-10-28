@@ -1,17 +1,18 @@
 ---
-id: TC-V7PBP3
+id: REQ-6K1S77Z
 type: test-case
 title: "Verify: Heat pump driver notifys the room temperature"
 status: Approved
 priority: Low
-parent: INFO-MS9DAG
-order: 1220
+former-id: TC-V7PBP3
+parent: REQ-XGWSK2K
+order: b0x
 links:
   - type: verifies
-    target: SYS-391421
+    target: REQ-EJ5V11S
     confirmed: 4a1f14a81457
   - type: verifies
-    target: SW-Y9SATP
+    target: REQ-1K7SMVM
     confirmed: 707be61b086b
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

@@ -1,14 +1,15 @@
 ---
-id: IF-N1V0TZ
+id: REQ-8XAVEEM
 type: interface-requirement
 title: Menu system notifys access tokens
 status: Approved
 owner: محمد علي
-parent: SYS-7YWY0X
-order: 20
+former-id: IF-N1V0TZ
+parent: REQ-PNQ0WVH
+order: a1
 links:
   - type: refines
-    target: SYS-7YWY0X
+    target: REQ-PNQ0WVH
     confirmed: 0e0b0b521bd5
 ---
 The touch display shall limit error conditions in all supported languages.

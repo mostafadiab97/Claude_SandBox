@@ -1,5 +1,5 @@
 ---
-id: SYS-66QHTN
+id: REQ-G5ZVX3X
 type: system-requirement
 title: Local API reports user preferences
 status: Obsolete
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - regulatory
   - i18n
-parent: INFO-NRVHA2
-order: 150
+former-id: SYS-66QHTN
+parent: REQ-6R94HFM
+order: aE
 links:
   - type: refines
-    target: STK-22X165
+    target: REQ-QCFMNYV
     confirmed: 0023c9af8e7d
 ---
 The local API shall display sensor readings when the network is unavailable.

@@ -1,5 +1,5 @@
 ---
-id: IF-TCQMWA
+id: REQ-1RQQNYP
 type: interface-requirement
 title: Validate firmware images — detail
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: S. Adel
 tags:
   - cost
-parent: IF-VSN7NY
-order: 10
+former-id: IF-TCQMWA
+parent: REQ-M5WYVCA
+order: a0
 links:
   - type: refines
-    target: IF-VSN7NY
+    target: REQ-M5WYVCA
     confirmed: a16069c9ebaf
 ---
 The touch display shall display safety limits after a power loss.

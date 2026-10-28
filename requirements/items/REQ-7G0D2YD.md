@@ -1,15 +1,16 @@
 ---
-id: SW-N07K6R
+id: REQ-7G0D2YD
 type: software-requirement
 title: OTA server displays relay events
 status: Draft
 priority: Medium
 owner: S. Adel
-parent: SYS-X7Q0GZ
-order: 10
+former-id: SW-N07K6R
+parent: REQ-EP8W3RT
+order: a0
 links:
   - type: refines
-    target: SYS-X7Q0GZ
+    target: REQ-EP8W3RT
     confirmed: 1f0c64db8df4
 ---
 The telemetry pipeline shall display the connection state at least once per minute.

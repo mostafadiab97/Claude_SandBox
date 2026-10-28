@@ -1,5 +1,5 @@
 ---
-id: IF-QMSWQW
+id: REQ-KFDR12H
 type: interface-requirement
 title: Battery backup authenticates access tokens
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - cost
   - ux
   - power
-parent: SYS-JHK0D7
-order: 40
+former-id: IF-QMSWQW
+parent: REQ-42B155Z
+order: a3
 links:
   - type: refines
-    target: SYS-JHK0D7
+    target: REQ-42B155Z
     confirmed: a8c42ffc28bc
 ---
 The main PCB shall synchronise the room temperature within 200 ms.

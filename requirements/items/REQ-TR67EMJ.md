@@ -1,5 +1,5 @@
 ---
-id: SYS-VNKX29
+id: REQ-TR67EMJ
 type: system-requirement
 title: Heat pump driver limits sensor readings
 status: Review
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - security
   - i18n
-parent: INFO-6DQTKV
-order: 960
+former-id: SYS-VNKX29
+parent: REQ-7ED7ZET
+order: b0X
 links:
   - type: refines
-    target: STK-M7S0HJ
+    target: REQ-219619F
     confirmed: 6c2381e4092e
 ---
 The heat pump driver shall switch energy consumption when the network is unavailable.

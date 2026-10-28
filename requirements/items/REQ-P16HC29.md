@@ -1,15 +1,16 @@
 ---
-id: TC-ED0HAX
+id: REQ-P16HC29
 type: test-case
 title: "Verify: Pairing process encrypts relay events"
 status: Obsolete
 priority: Medium
 owner: محمد علي
-parent: INFO-F0M7VC
-order: 460
+former-id: TC-ED0HAX
+parent: REQ-67RQXCK
+order: aj
 links:
   - type: verifies
-    target: SYS-JF3REC
+    target: REQ-WSAW0GF
     confirmed: c2bec4a69526
 ---
 **Objective:** verify that the pairing process behaves as specified.

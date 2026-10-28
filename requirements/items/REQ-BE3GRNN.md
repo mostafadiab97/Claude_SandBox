@@ -1,5 +1,5 @@
 ---
-id: IF-Z1QGH4
+id: REQ-BE3GRNN
 type: interface-requirement
 title: Encrypt access tokens — detail
 status: Review
@@ -7,11 +7,12 @@ priority: High
 tags:
   - release-2.0
   - performance
-parent: IF-K7JSR2
-order: 10
+former-id: IF-Z1QGH4
+parent: REQ-2J5PNRS
+order: a0
 links:
   - type: refines
-    target: IF-K7JSR2
+    target: REQ-2J5PNRS
     confirmed: f9a25a4e5366
 ---
 The power supply shall store user preferences at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: SYS-CZFHR4
+id: REQ-M632RZ1
 type: system-requirement
 title: Main PCB validates user preferences
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - customer-request
   - connectivity
-parent: INFO-A6P9A8
-order: 140
+former-id: SYS-CZFHR4
+parent: REQ-CMCS31A
+order: aD
 links:
   - type: refines
-    target: STK-JAQHJP
+    target: REQ-V8PT5BV
     confirmed: b0af11a5c3c2
 ---
 The main PCB shall encrypt sensor readings for at least 10 years.

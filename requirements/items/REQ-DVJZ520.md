@@ -1,5 +1,5 @@
 ---
-id: HW-VW51XX
+id: REQ-DVJZ520
 type: hardware-requirement
 title: User account service limits the operating mode
 status: Review
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - accessibility
   - release-2.0
-parent: SYS-X09T8H
-order: 20
+former-id: HW-VW51XX
+parent: REQ-K9CPZEQ
+order: a1
 links:
   - type: refines
-    target: SYS-X09T8H
+    target: REQ-K9CPZEQ
     confirmed: 1d9be0f6bc96
 ---
 The cloud backend shall log error conditions using AES-256-GCM.

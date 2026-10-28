@@ -1,15 +1,16 @@
 ---
-id: CR-AZMX49
+id: REQ-RCRFVG5
 type: change-request
 title: "CR: extend tamper detection to display access tokens"
 status: Obsolete
 priority: Low
 owner: H. Mostafa
-parent: INFO-6QFMYN
-order: 90
+former-id: CR-AZMX49
+parent: REQ-1XKBKFE
+order: a8
 links:
   - type: relates-to
-    target: SYS-7DF4GN
+    target: REQ-301HF1Q
     confirmed: b8942c9f4893
 ---
 Requested by customer support (ticket #17094).

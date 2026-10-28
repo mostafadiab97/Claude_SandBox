@@ -1,5 +1,5 @@
 ---
-id: SYS-YHR5KF
+id: REQ-5TMVTPD
 type: system-requirement
 title: Over-temperature monitor detects audit records
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - release-1.0
   - performance
-parent: INFO-0229G8
-order: 110
+former-id: SYS-YHR5KF
+parent: REQ-H9113WA
+order: aA
 links:
   - type: refines
-    target: STK-1TB226
+    target: REQ-QAY0F49
     confirmed: ea29425b18b7
 ---
 The over-temperature monitor shall display the operating mode at least once per minute.

@@ -1,15 +1,16 @@
 ---
-id: SW-EDH25P
+id: REQ-9S52VAP
 type: software-requirement
 title: Bluetooth LE link restores sensor readings
 status: Review
 priority: Medium
 owner: S. Adel
-parent: SYS-AFWWZ5
-order: 10
+former-id: SW-EDH25P
+parent: REQ-39B8A58
+order: a0
 links:
   - type: refines
-    target: SYS-AFWWZ5
+    target: REQ-39B8A58
     confirmed: 67e16f182216
 ---
 The local API shall synchronise user preferences at least once per minute.

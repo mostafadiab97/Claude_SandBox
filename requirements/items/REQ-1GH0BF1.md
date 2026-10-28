@@ -1,5 +1,5 @@
 ---
-id: IF-2T5Z97
+id: REQ-1GH0BF1
 type: interface-requirement
 title: Boiler interface restores audit records
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - i18n
   - EMC
   - safety
-parent: SYS-RG9GAY
-order: 10
+former-id: IF-2T5Z97
+parent: REQ-Y8A0W34
+order: a0
 links:
   - type: refines
-    target: SYS-RG9GAY
+    target: REQ-Y8A0W34
     confirmed: 9687363c0226
 ---
 The heating controller shall restore user preferences within 200 ms.

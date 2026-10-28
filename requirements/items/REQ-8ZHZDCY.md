@@ -1,5 +1,5 @@
 ---
-id: DE-RGZAD7
+id: REQ-8ZHZDCY
 type: design-element
 title: Module secure_boot_93
 status: Review
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - security
   - release-2.0
-parent: SW-6PGF9P
-order: 10
+former-id: DE-RGZAD7
+parent: REQ-19WQSF0
+order: a0
 links:
   - type: implements
-    target: SW-6PGF9P
+    target: REQ-19WQSF0
     confirmed: aac694600023
 ---
 Implemented in `src/safe/secure_boot.c`.

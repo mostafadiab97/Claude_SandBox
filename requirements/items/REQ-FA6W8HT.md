@@ -1,5 +1,5 @@
 ---
-id: IF-ECNAHR
+id: REQ-FA6W8HT
 type: interface-requirement
 title: "Signal 240: the room temperature"
 status: Obsolete
@@ -8,7 +8,8 @@ tags:
   - ux
   - customer-request
   - regulatory
-parent: INFO-2TM0JP
-order: 2400
+former-id: IF-ECNAHR
+parent: REQ-RJ0KHPT
+order: b2r
 ---
 Interface signal number 240.

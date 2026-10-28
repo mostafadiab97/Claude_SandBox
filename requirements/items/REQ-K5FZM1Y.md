@@ -1,5 +1,5 @@
 ---
-id: HW-QX846K
+id: REQ-K5FZM1Y
 type: hardware-requirement
 title: Relay board validates sensor readings
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - power
   - i18n
-parent: SYS-MB5B23
-order: 30
+former-id: HW-QX846K
+parent: REQ-SJRS3E1
+order: a2
 links:
   - type: refines
-    target: SYS-MB5B23
+    target: REQ-SJRS3E1
     confirmed: 7dee66be9e03
 ---
 The main PCB shall calibrate audit records after a power loss.

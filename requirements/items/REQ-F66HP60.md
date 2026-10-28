@@ -1,5 +1,5 @@
 ---
-id: TC-1393CG
+id: REQ-F66HP60
 type: test-case
 title: "Verify: Boiler interface reports relay events"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - customer-request
-parent: INFO-MS9DAG
-order: 60
+former-id: TC-1393CG
+parent: REQ-XGWSK2K
+order: a5
 links:
   - type: verifies
-    target: SYS-FKQRCB
+    target: REQ-8S7NCV5
     confirmed: 52eaba4960b1
 ---
 **Objective:** verify that the boiler interface behaves as specified.

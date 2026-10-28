@@ -1,5 +1,5 @@
 ---
-id: SYS-RE1KVT
+id: REQ-WXJQC7F
 type: system-requirement
 title: Regulation loop measures the room temperature
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - cost
   - regulatory
-parent: INFO-6DQTKV
-order: 240
+former-id: SYS-RE1KVT
+parent: REQ-7ED7ZET
+order: aN
 links:
   - type: refines
-    target: STK-EFJRJ9
+    target: REQ-6WZCEAT
     confirmed: fc922ec1a72e
 ---
 The regulation loop shall synchronise the operating mode when the network is unavailable.

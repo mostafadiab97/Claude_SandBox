@@ -1,5 +1,5 @@
 ---
-id: TC-GP91AC
+id: REQ-ZSGECSC
 type: test-case
 title: Hub verification 32
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - accessibility
   - connectivity
-parent: INFO-ECHASH
-order: 410
+former-id: TC-GP91AC
+parent: REQ-6H15AV2
+order: ae
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

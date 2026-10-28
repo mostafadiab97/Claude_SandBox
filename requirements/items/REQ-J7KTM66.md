@@ -1,5 +1,5 @@
 ---
-id: DE-KXEB84
+id: REQ-J7KTM66
 type: design-element
 title: Module over-temperature_monitor_51
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: É. Laurent
 tags:
   - safety
-parent: SW-6431BN
-order: 10
+former-id: DE-KXEB84
+parent: REQ-Z0DX4ND
+order: a0
 links:
   - type: implements
-    target: SW-6431BN
+    target: REQ-Z0DX4ND
     confirmed: e22642543114
 ---
 Implemented in `src/safe/over-temperature_monitor.c`.

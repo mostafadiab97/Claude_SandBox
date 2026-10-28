@@ -1,5 +1,5 @@
 ---
-id: SW-6PB6KG
+id: REQ-C8T6DKJ
 type: software-requirement
 title: Boiler interface switchs the operating mode
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - safety
   - ux
-parent: SYS-JB56QD
-order: 20
+former-id: SW-6PB6KG
+parent: REQ-3CNNKR0
+order: a1
 links:
   - type: refines
-    target: SYS-JB56QD
+    target: REQ-3CNNKR0
     confirmed: 445531d1bb9c
 ---
 The regulation loop shall store the set point below 0.5 W in standby.

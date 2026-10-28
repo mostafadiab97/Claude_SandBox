@@ -1,15 +1,16 @@
 ---
-id: IF-11GZWP
+id: REQ-P8P43QW
 type: interface-requirement
 title: Zone valve logs the operating mode
 status: Review
 priority: High
 owner: H. Mostafa
-parent: SYS-Z0ETS8
-order: 20
+former-id: IF-11GZWP
+parent: REQ-ZEM6K15
+order: a1
 links:
   - type: refines
-    target: SYS-Z0ETS8
+    target: REQ-ZEM6K15
     confirmed: f371d67ea5c2
 ---
 The zone valve shall detect access tokens for up to 8 zones.

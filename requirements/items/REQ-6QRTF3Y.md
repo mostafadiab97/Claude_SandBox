@@ -1,14 +1,15 @@
 ---
-id: TC-N198GN
+id: REQ-6QRTF3Y
 type: test-case
 title: "Verify: Watchdog limits energy consumption"
 status: Approved
 priority: High
-parent: INFO-Z4TW4B
-order: 1160
+former-id: TC-N198GN
+parent: REQ-K6FGAY0
+order: b0r
 links:
   - type: verifies
-    target: SYS-C66JCG
+    target: REQ-60H0FZB
     confirmed: 7ce4fa00052a
 ---
 **Objective:** verify that the watchdog behaves as specified.

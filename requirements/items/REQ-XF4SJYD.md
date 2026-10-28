@@ -1,15 +1,16 @@
 ---
-id: IF-207HTQ
+id: REQ-XF4SJYD
 type: interface-requirement
 title: Heat pump driver switchs the set point
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: SYS-FVQQ8D
-order: 10
+former-id: IF-207HTQ
+parent: REQ-QJ3JPNY
+order: a0
 links:
   - type: refines
-    target: SYS-FVQQ8D
+    target: REQ-QJ3JPNY
     confirmed: 827b26e985af
 ---
 The heat pump driver shall log firmware images for at least 10 years.

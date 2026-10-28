@@ -1,15 +1,16 @@
 ---
-id: DE-RDRVKZ
+id: REQ-3KKJZWX
 type: design-element
 title: Module home_dashboard_21
 status: Review
 priority: Medium
 owner: محمد علي
-parent: SW-2HBB9D
-order: 10
+former-id: DE-RDRVKZ
+parent: REQ-4DJG22S
+order: a0
 links:
   - type: implements
-    target: SW-2HBB9D
+    target: REQ-4DJG22S
     confirmed: baed139faf83
 ---
 Implemented in `src/app/home_dashboard.c`.

@@ -1,5 +1,5 @@
 ---
-id: SW-2H5Z5Z
+id: REQ-YMKVD2W
 type: software-requirement
 title: Encryption layer encrypts relay events
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - accessibility
   - security
   - customer-request
-parent: SYS-5XEZ64
-order: 10
+former-id: SW-2H5Z5Z
+parent: REQ-BS6TC1D
+order: a0
 links:
   - type: refines
-    target: SYS-5XEZ64
+    target: REQ-BS6TC1D
     confirmed: 6b7714cc0542
 ---
 The watchdog shall report firmware images at least once per minute.

@@ -1,18 +1,19 @@
 ---
-id: TC-RDG3SF
+id: REQ-3F923HD
 type: test-case
 title: "Verify: Telemetry pipeline validates error conditions"
 status: Review
 priority: Low
 owner: H. Mostafa
-parent: INFO-7P4D8D
-order: 1230
+former-id: TC-RDG3SF
+parent: REQ-8351896
+order: b0y
 links:
   - type: verifies
-    target: SYS-FP6P6A
+    target: REQ-E5D2PRV
     confirmed: fa24f6ea73fa
   - type: verifies
-    target: SW-82VWC8
+    target: REQ-BVT3EF5
     confirmed: d65f935ce203
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

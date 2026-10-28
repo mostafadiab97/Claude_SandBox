@@ -1,5 +1,5 @@
 ---
-id: SW-XP397S
+id: REQ-A7BN875
 type: software-requirement
 title: Zigbee radio measures the connection state
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - cost
   - security
-parent: SYS-JF6ZTH
-order: 30
+former-id: SW-XP397S
+parent: REQ-4C2NNAK
+order: a2
 links:
   - type: refines
-    target: SYS-JF6ZTH
+    target: REQ-4C2NNAK
     confirmed: 75977e61ed0b
 ---
 The local API shall display relay events at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: SW-5HT6DY
+id: REQ-8297SPP
 type: software-requirement
 title: Wi-Fi module encrypts energy consumption
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - EMC
   - security
-parent: SYS-4X1SRM
-order: 40
+former-id: SW-5HT6DY
+parent: REQ-SHYGEGX
+order: a3
 links:
   - type: refines
-    target: SYS-4X1SRM
+    target: REQ-SHYGEGX
     confirmed: bc96873ba6c1
 ---
 The Wi-Fi module shall calibrate safety limits for up to 8 zones.

@@ -1,5 +1,5 @@
 ---
-id: TC-ZAY22T
+id: REQ-NXS6BMT
 type: test-case
 title: "Verify: Schedule editor restores safety limits"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - security
   - customer-request
   - release-2.0
-parent: INFO-J0FETE
-order: 740
+former-id: TC-ZAY22T
+parent: REQ-WR5ZJN9
+order: b0B
 links:
   - type: verifies
-    target: SYS-FCT3MK
+    target: REQ-X86M4P6
     confirmed: bc66988537d7
 ---
 **Objective:** verify that the schedule editor behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-DWKGYH
+id: REQ-QKEC0QE
 type: software-requirement
 title: Schedule editor limits access tokens
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - EMC
   - cost
-parent: SYS-XTEFPC
-order: 40
+former-id: SW-DWKGYH
+parent: REQ-6V3ZCKS
+order: a3
 links:
   - type: refines
-    target: SYS-XTEFPC
+    target: REQ-6V3ZCKS
     confirmed: d422e1c60e4c
 ---
 The schedule editor shall authenticate humidity values without user interaction.

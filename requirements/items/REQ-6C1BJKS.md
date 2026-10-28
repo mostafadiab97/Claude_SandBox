@@ -1,5 +1,5 @@
 ---
-id: RSK-RW5E05
+id: REQ-6C1BJKS
 type: risk
 title: "Risk: Wi-Fi module fails to display error conditions"
 status: Approved
@@ -8,8 +8,9 @@ owner: Y. Saber
 tags:
   - release-2.0
   - EMC
-parent: INFO-9MPGZT
-order: 60
+former-id: RSK-RW5E05
+parent: REQ-FD1MAS9
+order: a5
 ---
 **Hazard:** the Wi-Fi module could fail to log user preferences.
 

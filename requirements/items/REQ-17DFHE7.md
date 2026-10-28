@@ -1,5 +1,5 @@
 ---
-id: SYS-E2APKT
+id: REQ-17DFHE7
 type: system-requirement
 title: Over-temperature monitor notifys schedule entries
 status: Draft
@@ -7,14 +7,15 @@ priority: Medium
 owner: N. Kamal
 tags:
   - connectivity
-parent: INFO-0229G8
-order: 420
+former-id: SYS-E2APKT
+parent: REQ-H9113WA
+order: af
 links:
   - type: refines
-    target: STK-AKFTAC
+    target: REQ-C7Y99ZB
     confirmed: 3cca48da4b1c
   - type: mitigates
-    target: RSK-QEHK9Y
+    target: REQ-856R3KM
     confirmed: bdb182195008
 ---
 The over-temperature monitor shall limit firmware images after a power loss.

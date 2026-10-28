@@ -1,15 +1,16 @@
 ---
-id: HW-5NK9SH
+id: REQ-1B31FF9
 type: hardware-requirement
 title: Synchronise schedule entries — detail
 status: Approved
 priority: Medium
 owner: L. Samir
-parent: HW-108ATV
-order: 10
+former-id: HW-5NK9SH
+parent: REQ-HKEZQN5
+order: a0
 links:
   - type: refines
-    target: HW-108ATV
+    target: REQ-HKEZQN5
     confirmed: 081d9a832ae5
 ---
 The over-temperature monitor shall display firmware images for at least 10 years.

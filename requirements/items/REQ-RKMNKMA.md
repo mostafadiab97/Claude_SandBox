@@ -1,5 +1,5 @@
 ---
-id: SW-YEPWFV
+id: REQ-RKMNKMA
 type: software-requirement
 title: Encryption layer limits error conditions
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - performance
   - release-1.0
   - release-2.0
-parent: SYS-MGCE70
-order: 20
+former-id: SW-YEPWFV
+parent: REQ-M1Y9H4D
+order: a1
 links:
   - type: refines
-    target: SYS-MGCE70
+    target: REQ-M1Y9H4D
     confirmed: 8713b2c65e08
 ---
 The tamper detection shall restore the room temperature for up to 8 zones.

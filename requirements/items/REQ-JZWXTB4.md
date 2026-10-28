@@ -1,5 +1,5 @@
 ---
-id: TC-KMSMJY
+id: REQ-JZWXTB4
 type: test-case
 title: "Verify: Watchdog reports the connection state"
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - release-1.0
-parent: INFO-Z4TW4B
-order: 1200
+former-id: TC-KMSMJY
+parent: REQ-K6FGAY0
+order: b0v
 links:
   - type: verifies
-    target: SYS-21RSPB
+    target: REQ-1NZ47K3
     confirmed: 6d6c12313a2b
   - type: verifies
-    target: SW-YDB75D
+    target: REQ-W191KF9
     confirmed: 63cf0f5701dc
 ---
 **Objective:** verify that the watchdog behaves as specified.

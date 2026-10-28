@@ -1,5 +1,5 @@
 ---
-id: HW-5Y277S
+id: REQ-5Y4JMZD
 type: hardware-requirement
 title: Enclosure measures error conditions
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - release-2.0
   - safety
-parent: SYS-GW4A7W
-order: 30
+former-id: HW-5Y277S
+parent: REQ-P550GQC
+order: a2
 links:
   - type: refines
-    target: SYS-GW4A7W
+    target: REQ-P550GQC
     confirmed: 81dfb0ea3083
 ---
 The enclosure shall measure humidity values for up to 8 zones.

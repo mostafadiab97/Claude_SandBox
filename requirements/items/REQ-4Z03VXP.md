@@ -1,10 +1,11 @@
 ---
-id: IF-P15017
+id: REQ-4Z03VXP
 type: interface-requirement
 title: "Signal 313: the connection state"
 status: Approved
 priority: Medium
-parent: INFO-2TM0JP
-order: 3130
+former-id: IF-P15017
+parent: REQ-RJ0KHPT
+order: b42
 ---
 Interface signal number 313.

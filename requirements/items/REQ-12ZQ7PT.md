@@ -1,5 +1,5 @@
 ---
-id: TC-90BRVV
+id: REQ-12ZQ7PT
 type: test-case
 title: "Verify: Rotary knob logs humidity values"
 status: Draft
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - safety
   - release-2.0
-parent: INFO-HTSZ15
-order: 1480
+former-id: TC-90BRVV
+parent: REQ-Y9VHHKA
+order: b1N
 links:
   - type: verifies
-    target: SYS-186VAA
+    target: REQ-YS5Z53S
     confirmed: 8c9ff96ed042
 ---
 **Objective:** verify that the rotary knob behaves as specified.

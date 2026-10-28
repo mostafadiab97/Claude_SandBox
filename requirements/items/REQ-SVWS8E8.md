@@ -1,5 +1,5 @@
 ---
-id: HW-7YT92H
+id: REQ-SVWS8E8
 type: hardware-requirement
 title: Enclosure stores firmware images
 status: Review
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - release-2.0
   - regulatory
-parent: SYS-E79TSB
-order: 20
+former-id: HW-7YT92H
+parent: REQ-8KBPBZ8
+order: a1
 links:
   - type: refines
-    target: SYS-E79TSB
+    target: REQ-8KBPBZ8
     confirmed: dbeab1b468f4
 ---
 The relay board shall notify the connection state within 200 ms.

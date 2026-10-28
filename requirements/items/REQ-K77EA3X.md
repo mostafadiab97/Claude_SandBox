@@ -1,15 +1,16 @@
 ---
-id: TC-TWKR8T
+id: REQ-K77EA3X
 type: test-case
 title: "Verify: Local API logs the connection state"
 status: Approved
 priority: Medium
 owner: محمد علي
-parent: INFO-F0M7VC
-order: 1380
+former-id: TC-TWKR8T
+parent: REQ-67RQXCK
+order: b1D
 links:
   - type: verifies
-    target: SYS-FJYCC7
+    target: REQ-NR2D9YC
     confirmed: 7f14ac08d029
 ---
 **Objective:** verify that the local API behaves as specified.

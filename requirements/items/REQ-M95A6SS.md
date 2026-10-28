@@ -1,5 +1,5 @@
 ---
-id: HW-0C67M1
+id: REQ-M95A6SS
 type: hardware-requirement
 title: Power supply reports the connection state
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - customer-request
-parent: SYS-9J39GS
-order: 40
+former-id: HW-0C67M1
+parent: REQ-71PZPKN
+order: a3
 links:
   - type: refines
-    target: SYS-9J39GS
+    target: REQ-71PZPKN
     confirmed: 59241a6dbb43
 ---
 The battery backup shall switch sensor readings with an accuracy of ±0.5 °C.

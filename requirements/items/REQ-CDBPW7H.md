@@ -1,5 +1,5 @@
 ---
-id: IF-3YE122
+id: REQ-CDBPW7H
 type: interface-requirement
 title: Enclosure synchronises the connection state
 status: Review
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - release-1.0
   - accessibility
-parent: SYS-A1R34W
-order: 10
+former-id: IF-3YE122
+parent: REQ-04CHTD9
+order: a0
 links:
   - type: refines
-    target: SYS-A1R34W
+    target: REQ-04CHTD9
     confirmed: 95a4e5b7531a
 ---
 The main PCB shall authenticate access tokens in under 3 s.

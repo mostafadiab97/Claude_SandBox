@@ -1,5 +1,5 @@
 ---
-id: IF-PXMRCF
+id: REQ-PX23HMZ
 type: interface-requirement
 title: Rotary knob validates the operating mode
 status: Obsolete
@@ -8,11 +8,12 @@ tags:
   - safety
   - release-2.0
   - release-1.0
-parent: SYS-1BYGW7
-order: 30
+former-id: IF-PXMRCF
+parent: REQ-PTW96Y2
+order: a2
 links:
   - type: refines
-    target: SYS-1BYGW7
+    target: REQ-PTW96Y2
     confirmed: aaf2829fd5ea
 ---
 The status LED shall detect the room temperature at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: IF-229ZDK
+id: REQ-N39RN6T
 type: interface-requirement
 title: Backlight authenticates the operating mode
 status: Review
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - customer-request
   - regulatory
-parent: SYS-3WT38T
-order: 30
+former-id: IF-229ZDK
+parent: REQ-XDZWA0M
+order: a2
 links:
   - type: refines
-    target: SYS-3WT38T
+    target: REQ-XDZWA0M
     confirmed: 1cd452a3656a
 ---
 The status LED shall calibrate access tokens in all supported languages.

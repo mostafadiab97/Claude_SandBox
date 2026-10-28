@@ -1,5 +1,5 @@
 ---
-id: SYS-841ZEK
+id: REQ-2CJCCA6
 type: system-requirement
 title: Login screen restores the connection state
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: M. Farouk
 tags:
   - ux
-parent: INFO-2XXBRS
-order: 870
+former-id: SYS-841ZEK
+parent: REQ-QYXGSQ4
+order: b0O
 links:
   - type: refines
-    target: STK-4F6B1Y
+    target: REQ-5P7JDVE
     confirmed: 4a1d76b1da2c
 ---
 The login screen shall measure audit records within 200 ms.

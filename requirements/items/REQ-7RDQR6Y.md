@@ -1,5 +1,5 @@
 ---
-id: TC-P77JEY
+id: REQ-7RDQR6Y
 type: test-case
 title: "Verify: User account service calibrates humidity values"
 status: Review
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - connectivity
   - EMC
-parent: INFO-7P4D8D
-order: 370
+former-id: TC-P77JEY
+parent: REQ-8351896
+order: aa
 links:
   - type: verifies
-    target: SYS-K367WR
+    target: REQ-8Q2DZX1
     confirmed: 639fddbac072
 ---
 **Objective:** verify that the user account service behaves as specified.

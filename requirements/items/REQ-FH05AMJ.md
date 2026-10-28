@@ -1,5 +1,5 @@
 ---
-id: TC-2562G2
+id: REQ-FH05AMJ
 type: test-case
 title: "Verify: Secure boot measures sensor readings"
 status: Review
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - release-2.0
   - security
-parent: INFO-Z4TW4B
-order: 270
+former-id: TC-2562G2
+parent: REQ-K6FGAY0
+order: aQ
 links:
   - type: verifies
-    target: SYS-9NXWHJ
+    target: REQ-DJY0SP7
     confirmed: 538154ab2be8
 ---
 **Objective:** verify that the secure boot behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: SYS-ASMZ9Q
+id: REQ-1FQWZ0W
 type: system-requirement
 title: Touch display reports humidity values
 status: Draft
 priority: High
 owner: Y. Saber
-parent: INFO-PDR6FV
-order: 580
+former-id: SYS-ASMZ9Q
+parent: REQ-2ZA2TRZ
+order: av
 links:
   - type: refines
-    target: STK-KPV71Q
+    target: REQ-VQBZQVC
     confirmed: 10d9c216aea2
 ---
 The touch display shall validate firmware images without user interaction.

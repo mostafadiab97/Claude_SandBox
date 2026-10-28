@@ -1,5 +1,5 @@
 ---
-id: SW-T1V1CG
+id: REQ-K0QGYJV
 type: software-requirement
 title: Home dashboard switchs humidity values
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - ux
-parent: SYS-M72RBF
-order: 10
+former-id: SW-T1V1CG
+parent: REQ-J3F7ENB
+order: a0
 links:
   - type: refines
-    target: SYS-M72RBF
+    target: REQ-J3F7ENB
     confirmed: 9dbd45a382a2
 ---
 The home dashboard shall synchronise user preferences using AES-256-GCM.

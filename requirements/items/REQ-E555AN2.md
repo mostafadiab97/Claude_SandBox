@@ -1,5 +1,5 @@
 ---
-id: IF-TMW25K
+id: REQ-E555AN2
 type: interface-requirement
 title: Authenticate firmware images — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - cost
   - performance
-parent: IF-PM44ZD
-order: 10
+former-id: IF-TMW25K
+parent: REQ-AGG4D2S
+order: a0
 links:
   - type: refines
-    target: IF-PM44ZD
+    target: REQ-AGG4D2S
     confirmed: a948adeea1e2
 ---
 The menu system shall measure the connection state within 200 ms.

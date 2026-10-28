@@ -1,15 +1,16 @@
 ---
-id: SW-95AXDE
+id: REQ-V923S2V
 type: software-requirement
 title: Menu system measures access tokens
 status: Approved
 priority: Medium
 owner: محمد علي
-parent: SYS-RJBYTY
-order: 10
+former-id: SW-95AXDE
+parent: REQ-ZMW8ERN
+order: a0
 links:
   - type: refines
-    target: SYS-RJBYTY
+    target: REQ-ZMW8ERN
     confirmed: 8b795ddb3eaf
 ---
 The touch display shall notify energy consumption after a power loss.

@@ -1,15 +1,16 @@
 ---
-id: HW-JQAZEP
+id: REQ-JMKRZ20
 type: hardware-requirement
 title: Main PCB validates the room temperature
 status: Draft
 priority: Medium
 owner: H. Mostafa
-parent: SYS-XF4596
-order: 20
+former-id: HW-JQAZEP
+parent: REQ-CAS9GKT
+order: a1
 links:
   - type: refines
-    target: SYS-XF4596
+    target: REQ-CAS9GKT
     confirmed: a0439b97be28
 ---
 The battery backup shall report the set point at least once per minute.

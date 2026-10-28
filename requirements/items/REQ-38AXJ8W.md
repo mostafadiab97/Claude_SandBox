@@ -1,5 +1,5 @@
 ---
-id: TC-PH4JWR
+id: REQ-38AXJ8W
 type: test-case
 title: "Verify: Heat pump driver detects the room temperature"
 status: Approved
@@ -8,14 +8,15 @@ tags:
   - i18n
   - regulatory
   - accessibility
-parent: INFO-MS9DAG
-order: 1100
+former-id: TC-PH4JWR
+parent: REQ-XGWSK2K
+order: b0l
 links:
   - type: verifies
-    target: SYS-H3Y0RB
+    target: REQ-A6NNEXM
     confirmed: 9c8ac7d5ce00
   - type: verifies
-    target: SW-KDGXE8
+    target: REQ-4RNCEKR
     confirmed: 2f414f4da227
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

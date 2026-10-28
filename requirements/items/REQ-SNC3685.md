@@ -1,15 +1,16 @@
 ---
-id: SYS-2T9P1T
+id: REQ-SNC3685
 type: system-requirement
 title: Zigbee radio notifys sensor readings
 status: Approved
 priority: Low
 owner: محمد علي
-parent: INFO-NRVHA2
-order: 900
+former-id: SYS-2T9P1T
+parent: REQ-6R94HFM
+order: b0R
 links:
   - type: refines
-    target: STK-GMCKMF
+    target: REQ-5EJHVJ8
     confirmed: f47328374a2b
 ---
 The Zigbee radio shall validate safety limits in under 3 s.

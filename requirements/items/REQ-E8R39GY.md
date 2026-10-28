@@ -1,14 +1,15 @@
 ---
-id: TC-V1EAJ5
+id: REQ-E8R39GY
 type: test-case
 title: "Verify: Power supply detects safety limits"
 status: Approved
 priority: Low
-parent: INFO-MACGC3
-order: 1360
+former-id: TC-V1EAJ5
+parent: REQ-F9Z1FYS
+order: b1B
 links:
   - type: verifies
-    target: SYS-JJBC0A
+    target: REQ-ZSED8RM
     confirmed: 33302d5c9847
 ---
 **Objective:** verify that the power supply behaves as specified.

@@ -1,12 +1,13 @@
 ---
-id: RSK-5AER0Q
+id: REQ-PMSQJ45
 type: risk
 title: "Risk: battery backup fails to restore relay events"
 status: Draft
 priority: Medium
 owner: J. Müller
-parent: INFO-2G41PE
-order: 40
+former-id: RSK-5AER0Q
+parent: REQ-Z74CXEK
+order: a3
 ---
 **Hazard:** the battery backup could fail to switch audit records.
 

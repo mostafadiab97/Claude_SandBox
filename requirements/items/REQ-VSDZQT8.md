@@ -1,5 +1,5 @@
 ---
-id: TC-ZV34RE
+id: REQ-VSDZQT8
 type: test-case
 title: "Verify: Wi-Fi module calibrates sensor readings"
 status: Review
@@ -7,11 +7,12 @@ priority: High
 tags:
   - connectivity
   - ux
-parent: INFO-F0M7VC
-order: 1210
+former-id: TC-ZV34RE
+parent: REQ-67RQXCK
+order: b0w
 links:
   - type: verifies
-    target: SYS-SPKGTS
+    target: REQ-QS9H7YS
     confirmed: 8dbea22f8667
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-S6ZP5J
+id: REQ-A040V4J
 type: software-requirement
 title: User account service authenticates error conditions
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - cost
   - connectivity
-parent: SYS-ANP21Y
-order: 20
+former-id: SW-S6ZP5J
+parent: REQ-VGBPCZD
+order: a1
 links:
   - type: refines
-    target: SYS-ANP21Y
+    target: REQ-VGBPCZD
     confirmed: 3e91619f12fb
 ---
 The cloud backend shall validate the connection state when the network is unavailable.

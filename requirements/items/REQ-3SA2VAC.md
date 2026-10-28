@@ -1,5 +1,5 @@
 ---
-id: HW-B2Q493
+id: REQ-3SA2VAC
 type: hardware-requirement
 title: Relay board authenticates schedule entries
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: A. Hassan
 tags:
   - ux
-parent: SYS-3W1S3B
-order: 30
+former-id: HW-B2Q493
+parent: REQ-7A42WZ4
+order: a2
 links:
   - type: refines
-    target: SYS-3W1S3B
+    target: REQ-7A42WZ4
     confirmed: a83839a61248
 ---
 The enclosure shall store firmware images in under 3 s.

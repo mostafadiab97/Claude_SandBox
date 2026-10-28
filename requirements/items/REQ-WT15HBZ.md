@@ -1,15 +1,16 @@
 ---
-id: SYS-EPQX5G
+id: REQ-WT15HBZ
 type: system-requirement
 title: Zone valve reports the connection state
 status: Approved
 priority: Medium
 owner: محمد علي
-parent: INFO-6DQTKV
-order: 60
+former-id: SYS-EPQX5G
+parent: REQ-7ED7ZET
+order: a5
 links:
   - type: refines
-    target: STK-EWSQ9Z
+    target: REQ-GXKEHF3
     confirmed: aa5e4143dbe7
 ---
 The zone valve shall report error conditions with an accuracy of ±0.5 °C.

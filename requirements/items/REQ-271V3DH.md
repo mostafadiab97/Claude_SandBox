@@ -1,15 +1,16 @@
 ---
-id: TC-0HS92Y
+id: REQ-271V3DH
 type: test-case
 title: Hub verification 5
 status: Draft
 priority: High
 owner: N. Kamal
-parent: INFO-ECHASH
-order: 140
+former-id: TC-0HS92Y
+parent: REQ-6H15AV2
+order: aD
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 4639507190ed
 ---
 **Objective:** verify that the thermostat behaves as specified.

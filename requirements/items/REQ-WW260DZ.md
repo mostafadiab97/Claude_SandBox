@@ -1,5 +1,5 @@
 ---
-id: TC-ECEAR8
+id: REQ-WW260DZ
 type: test-case
 title: "Verify: Notification service displays the operating mode"
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - customer-request
   - accessibility
-parent: INFO-J0FETE
-order: 860
+former-id: TC-ECEAR8
+parent: REQ-WR5ZJN9
+order: b0N
 links:
   - type: verifies
-    target: SYS-VA9RN1
+    target: REQ-7DAZ6VS
     confirmed: 93a4d8e298aa
 ---
 **Objective:** verify that the notification service behaves as specified.

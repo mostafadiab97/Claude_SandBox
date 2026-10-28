@@ -1,14 +1,15 @@
 ---
-id: HW-7XGJ1X
+id: REQ-NJC46DW
 type: hardware-requirement
 title: Store the connection state — detail
 status: Draft
 priority: High
-parent: HW-VSCC6T
-order: 10
+former-id: HW-7XGJ1X
+parent: REQ-Q93TGWN
+order: a0
 links:
   - type: refines
-    target: HW-VSCC6T
+    target: REQ-Q93TGWN
     confirmed: 9a8071378ed4
 ---
 The secure boot shall encrypt sensor readings for up to 8 zones.

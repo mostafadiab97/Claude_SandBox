@@ -1,5 +1,5 @@
 ---
-id: DE-7C9WSW
+id: REQ-68HDC51
 type: design-element
 title: Module pairing_process_96
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - safety
   - i18n
-parent: SW-WK4X73
-order: 10
+former-id: DE-7C9WSW
+parent: REQ-R2MR26S
+order: a0
 links:
   - type: implements
-    target: SW-WK4X73
+    target: REQ-R2MR26S
     confirmed: 5448b16ac240
 ---
 Implemented in `src/conn/pairing_process.c`.

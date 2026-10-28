@@ -1,5 +1,5 @@
 ---
-id: DE-TK36ZT
+id: REQ-M90ZQHB
 type: design-element
 title: Module heat_pump_driver_49
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - release-1.0
   - i18n
-parent: SW-W0ZSKH
-order: 10
+former-id: DE-TK36ZT
+parent: REQ-4V4KG7T
+order: a0
 links:
   - type: implements
-    target: SW-W0ZSKH
+    target: REQ-4V4KG7T
     confirmed: 946b422ea2a8
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

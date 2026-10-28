@@ -1,18 +1,19 @@
 ---
-id: TC-NW026T
+id: REQ-6EG1AGC
 type: test-case
 title: "Verify: Notification service displays humidity values"
 status: Draft
 priority: Medium
 owner: A. Hassan
-parent: INFO-J0FETE
-order: 910
+former-id: TC-NW026T
+parent: REQ-WR5ZJN9
+order: b0S
 links:
   - type: verifies
-    target: SYS-XB38HS
+    target: REQ-56N4A6M
     confirmed: 51d064ca7d2a
   - type: verifies
-    target: SW-E3BXE1
+    target: REQ-ABMZPA4
     confirmed: a4c82810347b
 ---
 **Objective:** verify that the notification service behaves as specified.

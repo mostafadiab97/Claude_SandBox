@@ -1,5 +1,5 @@
 ---
-id: HW-9Q4H4S
+id: REQ-WB7WHDW
 type: hardware-requirement
 title: Tamper detection calibrates user preferences
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - power
   - ux
   - accessibility
-parent: SYS-21RSPB
-order: 20
+former-id: HW-9Q4H4S
+parent: REQ-1NZ47K3
+order: a1
 links:
   - type: refines
-    target: SYS-21RSPB
+    target: REQ-1NZ47K3
     confirmed: 6d6c12313a2b
 ---
 The watchdog shall store energy consumption in all supported languages.

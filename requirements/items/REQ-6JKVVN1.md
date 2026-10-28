@@ -1,7 +1,8 @@
 ---
-id: INFO-MK4XMC
+id: REQ-6JKVVN1
 type: information
-title: 4.1 Stakeholder needs
-parent: INFO-APHEKT
-order: 10
+title: Stakeholder needs
+former-id: INFO-MK4XMC
+parent: REQ-1VKER3H
+order: a0
 ---

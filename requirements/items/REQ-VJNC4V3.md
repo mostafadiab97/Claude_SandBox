@@ -1,5 +1,5 @@
 ---
-id: SW-JYMB1Z
+id: REQ-VJNC4V3
 type: software-requirement
 title: Watchdog calibrates safety limits
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: Y. Saber
 tags:
   - customer-request
-parent: SYS-9KQ0S9
-order: 30
+former-id: SW-JYMB1Z
+parent: REQ-K15V7RN
+order: a2
 links:
   - type: refines
-    target: SYS-9KQ0S9
+    target: REQ-K15V7RN
     confirmed: bc8207c9b248
 ---
 The watchdog shall switch relay events without user interaction.

@@ -1,15 +1,16 @@
 ---
-id: HW-JRNBW8
+id: REQ-W9T45BH
 type: hardware-requirement
 title: Main PCB authenticates sensor readings
 status: Draft
 priority: High
 owner: É. Laurent
-parent: SYS-E3W0C4
-order: 20
+former-id: HW-JRNBW8
+parent: REQ-8X792M6
+order: a1
 links:
   - type: refines
-    target: SYS-E3W0C4
+    target: REQ-8X792M6
     confirmed: 6069f1d540ab
 ---
 The enclosure shall limit the operating mode at least once per minute.

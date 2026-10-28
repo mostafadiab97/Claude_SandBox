@@ -1,5 +1,5 @@
 ---
-id: HW-MX35KF
+id: REQ-H8YDY7Q
 type: hardware-requirement
 title: Tamper detection measures schedule entries
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - safety
   - power
-parent: SYS-FRJ8JT
-order: 20
+former-id: HW-MX35KF
+parent: REQ-9MHZY2R
+order: a1
 links:
   - type: refines
-    target: SYS-FRJ8JT
+    target: REQ-9MHZY2R
     confirmed: 5c966bbd47be
 ---
 The encryption layer shall switch user preferences when the network is unavailable.

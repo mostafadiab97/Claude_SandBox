@@ -1,16 +1,17 @@
 ---
-id: SYS-E3Z9PA
+id: REQ-YPMJX9G
 type: system-requirement
 title: Main PCB detects firmware images
 status: Draft
 owner: A. Hassan
 tags:
   - cost
-parent: INFO-A6P9A8
-order: 2040
+former-id: SYS-E3Z9PA
+parent: REQ-CMCS31A
+order: b2H
 links:
   - type: refines
-    target: STK-4NGQJ5
+    target: REQ-4H1F9N3
     confirmed: 96640a7e340d
 ---
 The main PCB shall authenticate humidity values without user interaction.

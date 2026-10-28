@@ -1,5 +1,5 @@
 ---
-id: SYS-EMNHY1
+id: REQ-KZTR45M
 type: system-requirement
 title: Login screen validates sensor readings
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - ux
   - regulatory
   - connectivity
-parent: INFO-2XXBRS
-order: 2000
+former-id: SYS-EMNHY1
+parent: REQ-QYXGSQ4
+order: b2D
 links:
   - type: refines
-    target: STK-ND3D08
+    target: REQ-BWGMSWJ
     confirmed: df91c673f737
   - type: mitigates
-    target: RSK-KX4Z8F
+    target: REQ-1CKR5QB
     confirmed: ce36fe2999cf
 ---
 The login screen shall measure the room temperature for up to 8 zones.

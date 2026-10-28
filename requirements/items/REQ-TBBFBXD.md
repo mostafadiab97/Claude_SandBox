@@ -1,15 +1,16 @@
 ---
-id: HW-7V9YR7
+id: REQ-TBBFBXD
 type: hardware-requirement
 title: Relay board limits schedule entries
 status: Draft
 priority: High
 owner: K. Tanaka
-parent: SYS-ZHJT86
-order: 20
+former-id: HW-7V9YR7
+parent: REQ-Z350F9P
+order: a1
 links:
   - type: refines
-    target: SYS-ZHJT86
+    target: REQ-Z350F9P
     confirmed: d2ebf70532a7
 ---
 The power supply shall switch safety limits for up to 8 zones.

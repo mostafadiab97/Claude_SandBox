@@ -1,5 +1,5 @@
 ---
-id: TC-B6BCG8
+id: REQ-CGSZSB0
 type: test-case
 title: "Verify: Login screen notifys energy consumption"
 status: Obsolete
@@ -7,14 +7,15 @@ priority: Low
 owner: N. Kamal
 tags:
   - i18n
-parent: INFO-J0FETE
-order: 1080
+former-id: TC-B6BCG8
+parent: REQ-WR5ZJN9
+order: b0j
 links:
   - type: verifies
-    target: SYS-9PZN49
+    target: REQ-FWM1WC5
     confirmed: 62fe12aea17c
   - type: verifies
-    target: SW-5SKQZV
+    target: REQ-8R81M1Y
     confirmed: 254e4c6d5905
 ---
 **Objective:** verify that the login screen behaves as specified.

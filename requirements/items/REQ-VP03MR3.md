@@ -1,14 +1,15 @@
 ---
-id: SYS-FP2QK1
+id: REQ-VP03MR3
 type: system-requirement
 title: Secure boot authenticates the set point
 status: Draft
 priority: Medium
-parent: INFO-0229G8
-order: 1380
+former-id: SYS-FP2QK1
+parent: REQ-H9113WA
+order: b1D
 links:
   - type: refines
-    target: STK-AKFTAC
+    target: REQ-C7Y99ZB
     confirmed: 3cca48da4b1c
 ---
 The secure boot shall notify energy consumption when the network is unavailable.

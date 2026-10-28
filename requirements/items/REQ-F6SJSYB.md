@@ -1,5 +1,5 @@
 ---
-id: IF-E8FSNR
+id: REQ-F6SJSYB
 type: interface-requirement
 title: "Signal 226: schedule entries"
 status: Obsolete
@@ -8,7 +8,8 @@ owner: L. Samir
 tags:
   - performance
   - connectivity
-parent: INFO-2TM0JP
-order: 2260
+former-id: IF-E8FSNR
+parent: REQ-RJ0KHPT
+order: b2d
 ---
 Interface signal number 226.

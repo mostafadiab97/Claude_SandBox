@@ -1,5 +1,5 @@
 ---
-id: HW-YYKJ2M
+id: REQ-EK98GJD
 type: hardware-requirement
 title: Touch display stores sensor readings
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - regulatory
   - i18n
-parent: SYS-19AJTE
-order: 10
+former-id: HW-YYKJ2M
+parent: REQ-JVYQ4PD
+order: a0
 links:
   - type: refines
-    target: SYS-19AJTE
+    target: REQ-JVYQ4PD
     confirmed: 453482be94f2
 ---
 The menu system shall notify firmware images without user interaction.

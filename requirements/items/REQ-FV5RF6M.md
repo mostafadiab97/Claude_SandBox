@@ -1,5 +1,5 @@
 ---
-id: SW-HPDHYD
+id: REQ-FV5RF6M
 type: software-requirement
 title: Pairing process validates the operating mode
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - accessibility
   - EMC
-parent: SYS-EH295E
-order: 10
+former-id: SW-HPDHYD
+parent: REQ-5G4EJ5J
+order: a0
 links:
   - type: refines
-    target: SYS-EH295E
+    target: REQ-5G4EJ5J
     confirmed: 7d5baafb4296
 ---
 The Zigbee radio shall notify the set point without user interaction.

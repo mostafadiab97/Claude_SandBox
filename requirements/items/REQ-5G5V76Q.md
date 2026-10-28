@@ -1,5 +1,5 @@
 ---
-id: HW-NB3Q75
+id: REQ-5G5V76Q
 type: hardware-requirement
 title: Backlight encrypts humidity values
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - ux
   - accessibility
-parent: SYS-19PSY9
-order: 30
+former-id: HW-NB3Q75
+parent: REQ-HHTRF9W
+order: a2
 links:
   - type: refines
-    target: SYS-19PSY9
+    target: REQ-HHTRF9W
     confirmed: 6a61bda8a792
 ---
 The touch display shall log the operating mode when the network is unavailable.

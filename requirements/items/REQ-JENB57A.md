@@ -1,5 +1,5 @@
 ---
-id: HW-SEFEZQ
+id: REQ-JENB57A
 type: hardware-requirement
 title: Heating controller authenticates humidity values
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - security
   - ux
   - cost
-parent: SYS-ZDSZYH
-order: 20
+former-id: HW-SEFEZQ
+parent: REQ-FZ03N9V
+order: a1
 links:
   - type: refines
-    target: SYS-ZDSZYH
+    target: REQ-FZ03N9V
     confirmed: ad76d3ee3383
 ---
 The boiler interface shall detect humidity values below 0.5 W in standby.

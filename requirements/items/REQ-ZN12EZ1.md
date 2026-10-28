@@ -1,5 +1,5 @@
 ---
-id: IF-MDKH86
+id: REQ-ZN12EZ1
 type: interface-requirement
 title: Relay board detects access tokens
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: A. Hassan
 tags:
   - security
-parent: SYS-HEVMYH
-order: 20
+former-id: IF-MDKH86
+parent: REQ-6F2ZZC7
+order: a1
 links:
   - type: refines
-    target: SYS-HEVMYH
+    target: REQ-6F2ZZC7
     confirmed: 5cd34b16673e
 ---
 The battery backup shall display firmware images after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: HW-31R02D
+id: REQ-3ZZJ8N5
 type: hardware-requirement
 title: Wi-Fi module authenticates sensor readings
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: N. Kamal
 tags:
   - ux
-parent: SYS-VD95TW
-order: 10
+former-id: HW-31R02D
+parent: REQ-PVS2KNJ
+order: a0
 links:
   - type: refines
-    target: SYS-VD95TW
+    target: REQ-PVS2KNJ
     confirmed: 9bff03016b87
 ---
 The Bluetooth LE link shall log firmware images at least once per minute.

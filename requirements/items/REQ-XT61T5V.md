@@ -1,15 +1,16 @@
 ---
-id: SW-GR1195
+id: REQ-XT61T5V
 type: software-requirement
 title: Bluetooth LE link authenticates schedule entries
 status: Draft
 priority: Medium
 owner: H. Mostafa
-parent: SYS-568D4J
-order: 40
+former-id: SW-GR1195
+parent: REQ-2WNTMGV
+order: a3
 links:
   - type: refines
-    target: SYS-568D4J
+    target: REQ-2WNTMGV
     confirmed: 57968fcc7d39
 ---
 The pairing process shall calibrate schedule entries using AES-256-GCM.

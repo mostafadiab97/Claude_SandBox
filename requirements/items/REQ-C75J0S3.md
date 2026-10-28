@@ -1,5 +1,5 @@
 ---
-id: HW-DB1WTF
+id: REQ-C75J0S3
 type: hardware-requirement
 title: Zone valve synchronises schedule entries
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - EMC
   - performance
-parent: SYS-2V6AQ6
-order: 20
+former-id: HW-DB1WTF
+parent: REQ-ENZ8FT6
+order: a1
 links:
   - type: refines
-    target: SYS-2V6AQ6
+    target: REQ-ENZ8FT6
     confirmed: 2d2dda43be88
 ---
 The heating controller shall log humidity values after a power loss.

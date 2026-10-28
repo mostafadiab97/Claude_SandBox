@@ -1,5 +1,5 @@
 ---
-id: TC-1AJ46E
+id: REQ-RY867HP
 type: test-case
 title: "Verify: Power supply displays energy consumption"
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - power
   - regulatory
-parent: INFO-MACGC3
-order: 630
+former-id: TC-1AJ46E
+parent: REQ-F9Z1FYS
+order: b00
 links:
   - type: verifies
-    target: SYS-M23G4X
+    target: REQ-XPK7TS2
     confirmed: 3da3ac6dee1c
 ---
 **Objective:** verify that the power supply behaves as specified.

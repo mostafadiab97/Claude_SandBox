@@ -1,15 +1,16 @@
 ---
-id: SW-27VHKB
+id: REQ-1JPBRA3
 type: software-requirement
 title: Wi-Fi module detects sensor readings
 status: Approved
 priority: High
 owner: K. Tanaka
-parent: SYS-TXTNG4
-order: 20
+former-id: SW-27VHKB
+parent: REQ-K8WPAJM
+order: a1
 links:
   - type: refines
-    target: SYS-TXTNG4
+    target: REQ-K8WPAJM
     confirmed: bd9a41e3d87b
 ---
 The Wi-Fi module shall encrypt user preferences using AES-256-GCM.

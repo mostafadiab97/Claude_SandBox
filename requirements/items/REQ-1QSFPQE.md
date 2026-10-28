@@ -1,5 +1,5 @@
 ---
-id: HW-K4EQQV
+id: REQ-1QSFPQE
 type: hardware-requirement
 title: User account service limits access tokens
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: S. Adel
 tags:
   - customer-request
-parent: SYS-MASKXR
-order: 20
+former-id: HW-K4EQQV
+parent: REQ-WSY0MZM
+order: a1
 links:
   - type: refines
-    target: SYS-MASKXR
+    target: REQ-WSY0MZM
     confirmed: c14e888575b5
 ---
 The telemetry pipeline shall detect safety limits with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: IF-HVBTKM
+id: REQ-00RQ3GF
 type: interface-requirement
 title: Watchdog detects firmware images
 status: Approved
@@ -7,11 +7,12 @@ owner: H. Mostafa
 tags:
   - power
   - ux
-parent: SYS-BHD8S6
-order: 10
+former-id: IF-HVBTKM
+parent: REQ-YC34KJR
+order: a0
 links:
   - type: refines
-    target: SYS-BHD8S6
+    target: REQ-YC34KJR
     confirmed: b4b9539a5d88
 ---
 The encryption layer shall store audit records for up to 8 zones.

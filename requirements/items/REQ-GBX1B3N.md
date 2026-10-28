@@ -1,5 +1,5 @@
 ---
-id: IF-GDVY03
+id: REQ-GBX1B3N
 type: interface-requirement
 title: "Signal 518: the connection state"
 status: Approved
@@ -8,7 +8,8 @@ owner: محمد علي
 tags:
   - power
   - security
-parent: INFO-2TM0JP
-order: 5180
+former-id: IF-GDVY03
+parent: REQ-RJ0KHPT
+order: b7L
 ---
 Interface signal number 518.

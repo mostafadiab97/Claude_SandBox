@@ -1,5 +1,5 @@
 ---
-id: IF-HDCA70
+id: REQ-DZEVF5Y
 type: interface-requirement
 title: Mobile app authenticates energy consumption
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - performance
   - cost
   - i18n
-parent: SYS-QHMFA6
-order: 10
+former-id: IF-HDCA70
+parent: REQ-K2S78AW
+order: a0
 links:
   - type: refines
-    target: SYS-QHMFA6
+    target: REQ-K2S78AW
     confirmed: 9375eb52bc71
 ---
 The mobile app shall report sensor readings when the network is unavailable.

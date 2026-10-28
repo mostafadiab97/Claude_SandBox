@@ -1,5 +1,5 @@
 ---
-id: SYS-ZHJT86
+id: REQ-Z350F9P
 type: system-requirement
 title: Power supply stores relay events
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - release-1.0
   - customer-request
-parent: INFO-A6P9A8
-order: 1770
+former-id: SYS-ZHJT86
+parent: REQ-CMCS31A
+order: b1q
 links:
   - type: refines
-    target: STK-KEP05J
+    target: REQ-PRMNGRJ
     confirmed: 74304e03fe52
 ---
 The power supply shall limit the connection state in all supported languages.

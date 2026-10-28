@@ -1,15 +1,16 @@
 ---
-id: TC-B0FFGH
+id: REQ-D546JNG
 type: test-case
 title: "Verify: Power supply limits error conditions"
 status: Review
 priority: High
 owner: A. Hassan
-parent: INFO-MACGC3
-order: 1060
+former-id: TC-B0FFGH
+parent: REQ-F9Z1FYS
+order: b0h
 links:
   - type: verifies
-    target: SYS-JRYFKW
+    target: REQ-YED15DF
     confirmed: eaf4dadef412
 ---
 **Objective:** verify that the power supply behaves as specified.

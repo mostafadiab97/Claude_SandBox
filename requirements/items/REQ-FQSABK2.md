@@ -1,5 +1,5 @@
 ---
-id: SW-WJW0AJ
+id: REQ-FQSABK2
 type: software-requirement
 title: OTA server switchs the connection state
 status: Review
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - EMC
   - safety
-parent: SYS-N5W9W0
-order: 20
+former-id: SW-WJW0AJ
+parent: REQ-SPVVNKM
+order: a1
 links:
   - type: refines
-    target: SYS-N5W9W0
+    target: REQ-SPVVNKM
     confirmed: 87fdc793b541
 ---
 The cloud backend shall display the set point within 200 ms.

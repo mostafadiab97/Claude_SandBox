@@ -1,15 +1,16 @@
 ---
-id: SYS-HAHB1Q
+id: REQ-ZTVJEZ4
 type: system-requirement
 title: Tamper detection detects error conditions
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: INFO-0229G8
-order: 1160
+former-id: SYS-HAHB1Q
+parent: REQ-H9113WA
+order: b0r
 links:
   - type: refines
-    target: STK-G2H1B9
+    target: REQ-Q8ZRB9S
     confirmed: fce33b342585
 ---
 The tamper detection shall store relay events using AES-256-GCM.

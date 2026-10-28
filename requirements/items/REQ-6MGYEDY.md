@@ -1,14 +1,15 @@
 ---
-id: IF-S9VPZ9
+id: REQ-6MGYEDY
 type: interface-requirement
 title: Secure boot detects error conditions
 status: Review
 priority: Medium
-parent: SYS-7ECC65
-order: 10
+former-id: IF-S9VPZ9
+parent: REQ-A7HF8D3
+order: a0
 links:
   - type: refines
-    target: SYS-7ECC65
+    target: REQ-A7HF8D3
     confirmed: d20f7028dc77
 ---
 The over-temperature monitor shall measure humidity values for up to 8 zones.

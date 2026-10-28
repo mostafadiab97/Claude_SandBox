@@ -1,5 +1,5 @@
 ---
-id: SW-0PGBPJ
+id: REQ-Y8DP484
 type: software-requirement
 title: Home dashboard displays the operating mode
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - safety
   - performance
-parent: SYS-7BCVCV
-order: 30
+former-id: SW-0PGBPJ
+parent: REQ-24BZH40
+order: a2
 links:
   - type: refines
-    target: SYS-7BCVCV
+    target: REQ-24BZH40
     confirmed: 9b16ba8d6617
 ---
 The login screen shall log safety limits within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: TC-BT8QQ0
+id: REQ-Z2MDQVD
 type: test-case
 title: "Verify: Tamper detection limits audit records"
 status: Approved
@@ -8,14 +8,15 @@ tags:
   - EMC
   - cost
   - ux
-parent: INFO-Z4TW4B
-order: 410
+former-id: TC-BT8QQ0
+parent: REQ-K6FGAY0
+order: ae
 links:
   - type: verifies
-    target: SYS-4AZ7BD
+    target: REQ-KVE2D34
     confirmed: cd9c225e18ad
   - type: verifies
-    target: SW-XB5G6T
+    target: REQ-ZMZXPZA
     confirmed: ab37a081d370
 ---
 **Objective:** verify that the tamper detection behaves as specified.

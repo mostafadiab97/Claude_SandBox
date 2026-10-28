@@ -1,5 +1,5 @@
 ---
-id: SYS-G5S6EX
+id: REQ-5HPPTRY
 type: system-requirement
 title: Secure boot limits error conditions
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: L. Samir
 tags:
   - release-2.0
-parent: INFO-0229G8
-order: 370
+former-id: SYS-G5S6EX
+parent: REQ-H9113WA
+order: aa
 links:
   - type: refines
-    target: STK-92HHJV
+    target: REQ-Z7761RK
     confirmed: 260bd01800c6
 ---
 The secure boot shall calibrate audit records within 200 ms.

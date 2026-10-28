@@ -1,5 +1,5 @@
 ---
-id: SW-YZ3ZQJ
+id: REQ-14GQWSW
 type: software-requirement
 title: Zigbee radio switchs schedule entries
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - safety
   - power
   - regulatory
-parent: SYS-6DWMRM
-order: 20
+former-id: SW-YZ3ZQJ
+parent: REQ-GTJ8085
+order: a1
 links:
   - type: refines
-    target: SYS-6DWMRM
+    target: REQ-GTJ8085
     confirmed: 62af45041e6e
 ---
 The pairing process shall report error conditions for up to 8 zones.

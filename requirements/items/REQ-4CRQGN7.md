@@ -1,15 +1,16 @@
 ---
-id: IF-H5WZK0
+id: REQ-4CRQGN7
 type: interface-requirement
 title: Heating controller notifys the room temperature
 status: Obsolete
 priority: Medium
 owner: J. Müller
-parent: SYS-6SJ3GD
-order: 30
+former-id: IF-H5WZK0
+parent: REQ-DESXWYX
+order: a2
 links:
   - type: refines
-    target: SYS-6SJ3GD
+    target: REQ-DESXWYX
     confirmed: af53245ff967
 ---
 The boiler interface shall validate the connection state with an accuracy of ±0.5 °C.

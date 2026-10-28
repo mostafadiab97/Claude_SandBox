@@ -1,15 +1,16 @@
 ---
-id: DE-SB09H2
+id: REQ-1JJSWW4
 type: design-element
 title: Module tamper_detection_0
 status: Approved
 priority: Low
 owner: K. Tanaka
-parent: SW-XDFN16
-order: 10
+former-id: DE-SB09H2
+parent: REQ-NBZ6ABG
+order: a0
 links:
   - type: implements
-    target: SW-XDFN16
+    target: REQ-NBZ6ABG
     confirmed: e076f39e9842
 ---
 Implemented in `src/safe/tamper_detection.c`.

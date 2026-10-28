@@ -1,15 +1,16 @@
 ---
-id: SW-E0C6CJ
+id: REQ-C58NWQ8
 type: software-requirement
 title: Heat pump driver restores sensor readings
 status: Obsolete
 priority: Medium
 owner: R. Nabil
-parent: SYS-JP14AF
-order: 20
+former-id: SW-E0C6CJ
+parent: REQ-Q3Z9QBY
+order: a1
 links:
   - type: refines
-    target: SYS-JP14AF
+    target: REQ-Q3Z9QBY
     confirmed: 7e7a01db4f25
 ---
 The regulation loop shall report firmware images within 200 ms.

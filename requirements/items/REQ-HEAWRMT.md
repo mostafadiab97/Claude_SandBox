@@ -1,5 +1,5 @@
 ---
-id: TC-X0CNRN
+id: REQ-HEAWRMT
 type: test-case
 title: "Verify: Over-temperature monitor detects relay events"
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - regulatory
   - i18n
-parent: INFO-Z4TW4B
-order: 1460
+former-id: TC-X0CNRN
+parent: REQ-K6FGAY0
+order: b1L
 links:
   - type: verifies
-    target: SYS-JHZDTN
+    target: REQ-72BA5NA
     confirmed: a2bd8c822300
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

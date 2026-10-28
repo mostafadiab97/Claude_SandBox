@@ -1,15 +1,16 @@
 ---
-id: IF-TFCY0P
+id: REQ-YXVMMBN
 type: interface-requirement
 title: Schedule editor validates schedule entries
 status: Approved
 priority: High
 owner: N. Kamal
-parent: SYS-64QHS8
-order: 30
+former-id: IF-TFCY0P
+parent: REQ-6CNE4KJ
+order: a2
 links:
   - type: refines
-    target: SYS-64QHS8
+    target: REQ-6CNE4KJ
     confirmed: 16f3ad7fdfaa
 ---
 The mobile app shall log the room temperature below 0.5 W in standby.

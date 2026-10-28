@@ -1,16 +1,17 @@
 ---
-id: TC-MN1Y8J
+id: REQ-800NCTN
 type: test-case
 title: "Verify: Device registry validates error conditions"
 status: Draft
 owner: R. Nabil
 tags:
   - release-2.0
-parent: INFO-7P4D8D
-order: 960
+former-id: TC-MN1Y8J
+parent: REQ-8351896
+order: b0X
 links:
   - type: verifies
-    target: SYS-06G288
+    target: REQ-NGQ979G
     confirmed: 3805c8343c55
 ---
 **Objective:** verify that the device registry behaves as specified.

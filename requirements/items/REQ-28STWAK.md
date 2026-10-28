@@ -1,11 +1,12 @@
 ---
-id: IF-BDMVPH
+id: REQ-28STWAK
 type: interface-requirement
 title: "Signal 338: user preferences"
 status: Approved
 priority: Low
 owner: Y. Saber
-parent: INFO-2TM0JP
-order: 3380
+former-id: IF-BDMVPH
+parent: REQ-RJ0KHPT
+order: b4R
 ---
 Interface signal number 338.

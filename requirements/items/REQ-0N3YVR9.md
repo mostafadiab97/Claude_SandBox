@@ -1,5 +1,5 @@
 ---
-id: SYS-MA8PA2
+id: REQ-0N3YVR9
 type: system-requirement
 title: Bluetooth LE link detects user preferences
 status: Draft
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - performance
   - security
-parent: INFO-NRVHA2
-order: 1390
+former-id: SYS-MA8PA2
+parent: REQ-6R94HFM
+order: b1E
 links:
   - type: refines
-    target: STK-G2ZBHW
+    target: REQ-GXR8KE5
     confirmed: fee0d3303478
 ---
 The Bluetooth LE link shall authenticate user preferences with an accuracy of ±0.5 °C.

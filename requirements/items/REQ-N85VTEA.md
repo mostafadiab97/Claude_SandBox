@@ -1,5 +1,5 @@
 ---
-id: HW-K151GW
+id: REQ-N85VTEA
 type: hardware-requirement
 title: Encrypt relay events — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - release-2.0
   - safety
-parent: HW-FB7G52
-order: 10
+former-id: HW-K151GW
+parent: REQ-EGWGS6S
+order: a0
 links:
   - type: refines
-    target: HW-FB7G52
+    target: REQ-EGWGS6S
     confirmed: 43ac6cc2a75b
 ---
 The local API shall measure sensor readings in all supported languages.

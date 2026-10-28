@@ -1,5 +1,5 @@
 ---
-id: IF-3Q6M1K
+id: REQ-SCAPPE5
 type: interface-requirement
 title: Restore error conditions — detail
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - release-2.0
   - ux
-parent: IF-265QXZ
-order: 10
+former-id: IF-3Q6M1K
+parent: REQ-AZZWSJG
+order: a0
 links:
   - type: refines
-    target: IF-265QXZ
+    target: REQ-AZZWSJG
     confirmed: aef58d532a01
 ---
 The boiler interface shall validate error conditions using AES-256-GCM.

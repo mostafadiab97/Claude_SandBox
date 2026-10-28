@@ -1,5 +1,5 @@
 ---
-id: HW-EV4NV0
+id: REQ-TZMNZBZ
 type: hardware-requirement
 title: Restore firmware images — detail
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - i18n
   - performance
   - EMC
-parent: HW-0QWM5R
-order: 10
+former-id: HW-EV4NV0
+parent: REQ-WQ1347T
+order: a0
 links:
   - type: refines
-    target: HW-0QWM5R
+    target: REQ-WQ1347T
     confirmed: 7433b8cf5538
 ---
 The power supply shall log the set point with an accuracy of ±0.5 °C.

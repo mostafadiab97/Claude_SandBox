@@ -1,5 +1,5 @@
 ---
-id: TC-DY2AE7
+id: REQ-A0H0DV2
 type: test-case
 title: "Verify: Menu system limits error conditions"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - regulatory
   - ux
-parent: INFO-HTSZ15
-order: 890
+former-id: TC-DY2AE7
+parent: REQ-Y9VHHKA
+order: b0Q
 links:
   - type: verifies
-    target: SYS-Z3AF7E
+    target: REQ-Y6VKCP8
     confirmed: 9dfa61330ebe
 ---
 **Objective:** verify that the menu system behaves as specified.

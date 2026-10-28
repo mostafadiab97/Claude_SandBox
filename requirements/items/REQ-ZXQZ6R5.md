@@ -1,14 +1,15 @@
 ---
-id: IF-G4EE8D
+id: REQ-ZXQZ6R5
 type: interface-requirement
 title: Device registry logs error conditions
 status: Approved
 owner: L. Samir
-parent: SYS-A10V0R
-order: 10
+former-id: IF-G4EE8D
+parent: REQ-13K6ME8
+order: a0
 links:
   - type: refines
-    target: SYS-A10V0R
+    target: REQ-13K6ME8
     confirmed: ff47382f2bba
 ---
 The user account service shall limit the room temperature after a power loss.

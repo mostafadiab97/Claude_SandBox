@@ -1,5 +1,5 @@
 ---
-id: SW-2ATGBP
+id: REQ-1D3ETSM
 type: software-requirement
 title: Over-temperature monitor validates energy consumption
 status: Draft
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - EMC
   - i18n
-parent: SYS-N7H58H
-order: 30
+former-id: SW-2ATGBP
+parent: REQ-9T92A3R
+order: a2
 links:
   - type: refines
-    target: SYS-N7H58H
+    target: REQ-9T92A3R
     confirmed: a8a06726344d
 ---
 The watchdog shall limit firmware images for up to 8 zones.

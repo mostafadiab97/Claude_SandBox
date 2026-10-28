@@ -1,15 +1,16 @@
 ---
-id: IF-0M3FVY
+id: REQ-5QASMPD
 type: interface-requirement
 title: Power supply detects energy consumption
 status: Review
 priority: High
 owner: A. Hassan
-parent: SYS-9FNKPM
-order: 30
+former-id: IF-0M3FVY
+parent: REQ-02W5PGR
+order: a2
 links:
   - type: refines
-    target: SYS-9FNKPM
+    target: REQ-02W5PGR
     confirmed: c8a11d5e856a
 ---
 The relay board shall authenticate the connection state in all supported languages.

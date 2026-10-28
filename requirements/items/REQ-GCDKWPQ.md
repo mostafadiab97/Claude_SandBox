@@ -1,5 +1,5 @@
 ---
-id: SW-2Z8HJ2
+id: REQ-GCDKWPQ
 type: software-requirement
 title: Bluetooth LE link detects energy consumption
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - safety
   - i18n
   - connectivity
-parent: SYS-2T9P1T
-order: 20
+former-id: SW-2Z8HJ2
+parent: REQ-SNC3685
+order: a1
 links:
   - type: refines
-    target: SYS-2T9P1T
+    target: REQ-SNC3685
     confirmed: 67011a28308d
 ---
 The Zigbee radio shall detect schedule entries without user interaction.

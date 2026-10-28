@@ -1,15 +1,16 @@
 ---
-id: HW-1AYJXP
+id: REQ-55DM0QV
 type: hardware-requirement
 title: Battery backup limits access tokens
 status: Approved
 priority: High
 owner: K. Tanaka
-parent: SYS-1ZDBX0
-order: 30
+former-id: HW-1AYJXP
+parent: REQ-S3STR5Z
+order: a2
 links:
   - type: refines
-    target: SYS-1ZDBX0
+    target: REQ-S3STR5Z
     confirmed: 665bbcd834f8
 ---
 The power supply shall log schedule entries for up to 8 zones.

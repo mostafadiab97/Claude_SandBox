@@ -1,5 +1,5 @@
 ---
-id: IF-QKDFHJ
+id: REQ-XBWMWWV
 type: interface-requirement
 title: Telemetry pipeline validates schedule entries
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - customer-request
   - release-1.0
-parent: SYS-J2BCRS
-order: 10
+former-id: IF-QKDFHJ
+parent: REQ-DKZ6T1N
+order: a0
 links:
   - type: refines
-    target: SYS-J2BCRS
+    target: REQ-DKZ6T1N
     confirmed: dbe3e7f88972
 ---
 The OTA server shall switch humidity values at least once per minute.

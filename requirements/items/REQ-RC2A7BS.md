@@ -1,9 +1,10 @@
 ---
-id: IF-HNE7DK
+id: REQ-RC2A7BS
 type: interface-requirement
 title: "Signal 361: sensor readings"
 status: Draft
-parent: INFO-2TM0JP
-order: 3610
+former-id: IF-HNE7DK
+parent: REQ-RJ0KHPT
+order: b4o
 ---
 Interface signal number 361.

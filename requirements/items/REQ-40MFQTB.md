@@ -1,14 +1,15 @@
 ---
-id: SW-7YM472
+id: REQ-40MFQTB
 type: software-requirement
 title: Log relay events — detail
 status: Obsolete
 priority: Medium
-parent: SW-4RY29K
-order: 10
+former-id: SW-7YM472
+parent: REQ-04RZY5R
+order: a0
 links:
   - type: refines
-    target: SW-4RY29K
+    target: REQ-04RZY5R
     confirmed: 93ea078f9423
 ---
 The login screen shall log the room temperature after a power loss.

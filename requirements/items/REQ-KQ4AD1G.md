@@ -1,5 +1,5 @@
 ---
-id: DE-ZRPTQ0
+id: REQ-KQ4AD1G
 type: design-element
 title: Module telemetry_pipeline_50
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - power
   - performance
-parent: SW-ZAYE04
-order: 20
+former-id: DE-ZRPTQ0
+parent: REQ-5YX899V
+order: a1
 links:
   - type: implements
-    target: SW-ZAYE04
+    target: REQ-5YX899V
     confirmed: d8e70e7b6a32
 ---
 Implemented in `src/cloud/telemetry_pipeline.c`.

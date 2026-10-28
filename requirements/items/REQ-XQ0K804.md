@@ -1,14 +1,15 @@
 ---
-id: IF-N6RWNZ
+id: REQ-XQ0K804
 type: interface-requirement
 title: User account service reports error conditions
 status: Approved
 priority: Low
-parent: SYS-25J8VJ
-order: 40
+former-id: IF-N6RWNZ
+parent: REQ-70ZWP2Y
+order: a3
 links:
   - type: refines
-    target: SYS-25J8VJ
+    target: REQ-70ZWP2Y
     confirmed: 2c47b5d6654c
 ---
 The telemetry pipeline shall notify humidity values for up to 8 zones.

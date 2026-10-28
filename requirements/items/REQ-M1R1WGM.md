@@ -1,5 +1,5 @@
 ---
-id: HW-XNBJFG
+id: REQ-M1R1WGM
 type: hardware-requirement
 title: Main PCB switchs the set point
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - EMC
   - regulatory
-parent: SYS-A47H7R
-order: 20
+former-id: HW-XNBJFG
+parent: REQ-CZRWJVP
+order: a1
 links:
   - type: refines
-    target: SYS-A47H7R
+    target: REQ-CZRWJVP
     confirmed: fd7d82b6415e
 ---
 The battery backup shall log access tokens for up to 8 zones.

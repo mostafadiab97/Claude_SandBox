@@ -1,15 +1,16 @@
 ---
-id: SYS-CRWPMS
+id: REQ-HV1G3X0
 type: system-requirement
 title: Battery backup encrypts audit records
 status: Draft
 priority: Low
 owner: Y. Saber
-parent: INFO-A6P9A8
-order: 1570
+former-id: SYS-CRWPMS
+parent: REQ-CMCS31A
+order: b1W
 links:
   - type: refines
-    target: STK-JAQHJP
+    target: REQ-V8PT5BV
     confirmed: b0af11a5c3c2
 ---
 The battery backup shall store the set point when the network is unavailable.

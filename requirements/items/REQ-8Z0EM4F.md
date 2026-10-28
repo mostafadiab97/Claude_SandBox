@@ -1,5 +1,5 @@
 ---
-id: SYS-NA1SC7
+id: REQ-8Z0EM4F
 type: system-requirement
 title: Encryption layer detects the operating mode
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - power
   - connectivity
-parent: INFO-0229G8
-order: 1900
+former-id: SYS-NA1SC7
+parent: REQ-H9113WA
+order: b23
 links:
   - type: refines
-    target: STK-G2H1B9
+    target: REQ-Q8ZRB9S
     confirmed: fce33b342585
 ---
 The encryption layer shall detect access tokens for at least 10 years.

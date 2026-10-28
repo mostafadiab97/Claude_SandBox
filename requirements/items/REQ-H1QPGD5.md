@@ -1,15 +1,16 @@
 ---
-id: IF-C76JJV
+id: REQ-H1QPGD5
 type: interface-requirement
 title: Restore safety limits — detail
 status: Approved
 priority: High
 owner: É. Laurent
-parent: IF-3ZPQJB
-order: 10
+former-id: IF-C76JJV
+parent: REQ-QRD6J5F
+order: a0
 links:
   - type: refines
-    target: IF-3ZPQJB
+    target: REQ-QRD6J5F
     confirmed: b533d709a662
 ---
 The schedule editor shall store user preferences when the network is unavailable.

@@ -1,5 +1,5 @@
 ---
-id: TC-MZQ4E3
+id: REQ-TGGXB1P
 type: test-case
 title: "Verify: Touch display reports the operating mode"
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - performance
   - security
-parent: INFO-HTSZ15
-order: 1330
+former-id: TC-MZQ4E3
+parent: REQ-Y9VHHKA
+order: b18
 links:
   - type: verifies
-    target: SYS-21HNZD
+    target: REQ-70G6CJB
     confirmed: a99c46ec97b8
 ---
 **Objective:** verify that the touch display behaves as specified.

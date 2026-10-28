@@ -1,5 +1,5 @@
 ---
-id: SW-7BJP3T
+id: REQ-EMQH78Z
 type: software-requirement
 title: Secure boot detects schedule entries
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: S. Adel
 tags:
   - accessibility
-parent: SYS-HKPNTA
-order: 10
+former-id: SW-7BJP3T
+parent: REQ-R7B2459
+order: a0
 links:
   - type: refines
-    target: SYS-HKPNTA
+    target: REQ-R7B2459
     confirmed: 1b21455ffebe
 ---
 The over-temperature monitor shall measure the set point for at least 10 years.

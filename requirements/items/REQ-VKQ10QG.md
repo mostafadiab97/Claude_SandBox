@@ -1,5 +1,5 @@
 ---
-id: IF-9DX8M6
+id: REQ-VKQ10QG
 type: interface-requirement
 title: Boiler interface displays sensor readings
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - cost
   - release-2.0
   - customer-request
-parent: SYS-7AKQK2
-order: 10
+former-id: IF-9DX8M6
+parent: REQ-KSTR6EY
+order: a0
 links:
   - type: refines
-    target: SYS-7AKQK2
+    target: REQ-KSTR6EY
     confirmed: 0a4c44bfead6
 ---
 The boiler interface shall restore access tokens for up to 8 zones.

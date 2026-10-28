@@ -1,15 +1,16 @@
 ---
-id: HW-F921HW
+id: REQ-4VW9W3A
 type: hardware-requirement
 title: Encryption layer reports error conditions
 status: Approved
 priority: Low
 owner: J. Müller
-parent: SYS-8BT9A5
-order: 20
+former-id: HW-F921HW
+parent: REQ-SNCRWC2
+order: a1
 links:
   - type: refines
-    target: SYS-8BT9A5
+    target: REQ-SNCRWC2
     confirmed: 768828fca553
 ---
 The watchdog shall encrypt energy consumption at least once per minute.

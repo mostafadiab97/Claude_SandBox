@@ -1,5 +1,5 @@
 ---
-id: HW-A5KWC0
+id: REQ-EH8NPQ3
 type: hardware-requirement
 title: Report audit records — detail
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - performance
-parent: HW-GVXTHV
-order: 10
+former-id: HW-A5KWC0
+parent: REQ-K8K2NVK
+order: a0
 links:
   - type: refines
-    target: HW-GVXTHV
+    target: REQ-K8K2NVK
     confirmed: d5b204a2b54c
 ---
 The power supply shall display sensor readings without user interaction.

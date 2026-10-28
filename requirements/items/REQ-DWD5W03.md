@@ -1,5 +1,5 @@
 ---
-id: SYS-KR7GHB
+id: REQ-DWD5W03
 type: system-requirement
 title: Heat pump driver synchronises energy consumption
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - customer-request
   - security
   - cost
-parent: INFO-6DQTKV
-order: 610
+former-id: SYS-KR7GHB
+parent: REQ-7ED7ZET
+order: ay
 links:
   - type: refines
-    target: STK-M7S0HJ
+    target: REQ-219619F
     confirmed: 000356d5d38b
   - type: mitigates
-    target: RSK-G8ARKV
+    target: REQ-N90PXTW
     confirmed: dd1f8627cbb6
 ---
 The heat pump driver shall authenticate the connection state with an accuracy of ±0.5 °C.

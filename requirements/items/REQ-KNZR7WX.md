@@ -1,14 +1,15 @@
 ---
-id: DE-F8HZN8
+id: REQ-KNZR7WX
 type: design-element
 title: Module status_LED_1
 status: Draft
 priority: Medium
-parent: SW-NN9AC5
-order: 10
+former-id: DE-F8HZN8
+parent: REQ-82C056P
+order: a0
 links:
   - type: implements
-    target: SW-NN9AC5
+    target: REQ-82C056P
     confirmed: 7061d0cf83c1
 ---
 Implemented in `src/ui/status_LED.c`.

@@ -1,5 +1,5 @@
 ---
-id: IF-6G7FYS
+id: REQ-69W5Y7B
 type: interface-requirement
 title: Zigbee radio limits the connection state
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - regulatory
   - accessibility
-parent: SYS-W81PVH
-order: 10
+former-id: IF-6G7FYS
+parent: REQ-7BH6AP4
+order: a0
 links:
   - type: refines
-    target: SYS-W81PVH
+    target: REQ-7BH6AP4
     confirmed: d352273ada77
 ---
 The Wi-Fi module shall limit access tokens in under 3 s.

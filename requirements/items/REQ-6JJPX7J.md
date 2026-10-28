@@ -1,5 +1,5 @@
 ---
-id: SYS-64T5WP
+id: REQ-6JJPX7J
 type: system-requirement
 title: Heat pump driver authenticates energy consumption
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - i18n
   - customer-request
-parent: INFO-6DQTKV
-order: 980
+former-id: SYS-64T5WP
+parent: REQ-7ED7ZET
+order: b0Z
 links:
   - type: refines
-    target: STK-EWSQ9Z
+    target: REQ-GXKEHF3
     confirmed: aa5e4143dbe7
 ---
 The heat pump driver shall display firmware images when the network is unavailable.

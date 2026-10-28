@@ -1,5 +1,5 @@
 ---
-id: SW-TNBWPZ
+id: REQ-TMFZZHY
 type: software-requirement
 title: Login screen limits energy consumption
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - power
   - accessibility
   - performance
-parent: SYS-Y9J3XR
-order: 20
+former-id: SW-TNBWPZ
+parent: REQ-39BK840
+order: a1
 links:
   - type: refines
-    target: SYS-Y9J3XR
+    target: REQ-39BK840
     confirmed: e9321a9a2b2f
 ---
 The login screen shall limit the operating mode when the network is unavailable.

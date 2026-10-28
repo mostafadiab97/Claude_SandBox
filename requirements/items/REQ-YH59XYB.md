@@ -1,19 +1,20 @@
 ---
-id: SYS-J19Z2X
+id: REQ-YH59XYB
 type: system-requirement
 title: Relay board notifys user preferences
 status: Draft
 priority: Medium
 tags:
   - release-1.0
-parent: INFO-A6P9A8
-order: 920
+former-id: SYS-J19Z2X
+parent: REQ-CMCS31A
+order: b0T
 links:
   - type: refines
-    target: STK-M28XWW
+    target: REQ-2678XV5
     confirmed: bcf262f10744
   - type: mitigates
-    target: RSK-P3EG5Z
+    target: REQ-D0QP1BW
     confirmed: 24cf773c2491
 ---
 The relay board shall restore the connection state after a power loss.

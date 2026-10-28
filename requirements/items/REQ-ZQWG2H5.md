@@ -1,5 +1,5 @@
 ---
-id: TC-2WQ5Z3
+id: REQ-ZQWG2H5
 type: test-case
 title: "Verify: Pairing process calibrates firmware images"
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - release-1.0
   - performance
-parent: INFO-F0M7VC
-order: 770
+former-id: TC-2WQ5Z3
+parent: REQ-67RQXCK
+order: b0E
 links:
   - type: verifies
-    target: SYS-HY185S
+    target: REQ-NXPKECW
     confirmed: 4f41eab5e96a
 ---
 **Objective:** verify that the pairing process behaves as specified.

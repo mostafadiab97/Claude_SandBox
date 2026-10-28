@@ -1,15 +1,16 @@
 ---
-id: IF-8M3TJ2
+id: REQ-KS5ZG1T
 type: interface-requirement
 title: Watchdog notifys the operating mode
 status: Approved
 priority: Medium
 owner: S. Adel
-parent: SYS-X0S745
-order: 10
+former-id: IF-8M3TJ2
+parent: REQ-TDYXMKP
+order: a0
 links:
   - type: refines
-    target: SYS-X0S745
+    target: REQ-TDYXMKP
     confirmed: 45b34f17241c
 ---
 The watchdog shall detect the room temperature when the network is unavailable.

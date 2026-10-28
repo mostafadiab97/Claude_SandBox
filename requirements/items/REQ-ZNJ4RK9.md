@@ -1,5 +1,5 @@
 ---
-id: HW-1CD3SH
+id: REQ-ZNJ4RK9
 type: hardware-requirement
 title: Boiler interface encrypts the room temperature
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - release-2.0
   - release-1.0
-parent: SYS-C1KANF
-order: 20
+former-id: HW-1CD3SH
+parent: REQ-96M023B
+order: a1
 links:
   - type: refines
-    target: SYS-C1KANF
+    target: REQ-96M023B
     confirmed: c1311b4a3390
 ---
 The regulation loop shall calibrate access tokens at least once per minute.

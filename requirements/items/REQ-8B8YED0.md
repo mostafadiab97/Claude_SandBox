@@ -1,5 +1,5 @@
 ---
-id: SYS-M5YEH7
+id: REQ-8B8YED0
 type: system-requirement
 title: Over-temperature monitor synchronises access tokens
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - power
   - ux
   - safety
-parent: INFO-0229G8
-order: 160
+former-id: SYS-M5YEH7
+parent: REQ-H9113WA
+order: aF
 links:
   - type: refines
-    target: STK-1TB226
+    target: REQ-QAY0F49
     confirmed: ea29425b18b7
   - type: mitigates
-    target: RSK-MJR7PZ
+    target: REQ-C971M8M
     confirmed: a67337939a06
 ---
 The over-temperature monitor shall validate relay events in all supported languages.

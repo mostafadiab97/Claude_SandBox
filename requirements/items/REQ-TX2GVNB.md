@@ -1,15 +1,16 @@
 ---
-id: HW-DQJ7VF
+id: REQ-TX2GVNB
 type: hardware-requirement
 title: Battery backup switchs humidity values
 status: Approved
 priority: High
 owner: Y. Saber
-parent: SYS-E79TSB
-order: 40
+former-id: HW-DQJ7VF
+parent: REQ-8KBPBZ8
+order: a3
 links:
   - type: refines
-    target: SYS-E79TSB
+    target: REQ-8KBPBZ8
     confirmed: dbeab1b468f4
 ---
 The relay board shall measure the room temperature when the network is unavailable.

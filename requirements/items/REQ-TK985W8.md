@@ -1,5 +1,5 @@
 ---
-id: SYS-1AMMK8
+id: REQ-TK985W8
 type: system-requirement
 title: Local API stores access tokens
 status: Review
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - i18n
   - security
-parent: INFO-NRVHA2
-order: 1070
+former-id: SYS-1AMMK8
+parent: REQ-6R94HFM
+order: b0i
 links:
   - type: refines
-    target: STK-AAZ4HV
+    target: REQ-M9DYEF5
     confirmed: 44fc7956dbf8
 ---
 The local API shall encrypt error conditions in under 3 s.

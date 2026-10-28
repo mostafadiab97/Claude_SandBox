@@ -1,5 +1,5 @@
 ---
-id: SW-M4G9TB
+id: REQ-TTJ40KW
 type: software-requirement
 title: Home dashboard switchs user preferences
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - i18n
-parent: SYS-WZPXT3
-order: 30
+former-id: SW-M4G9TB
+parent: REQ-GMRFA4Q
+order: a2
 links:
   - type: refines
-    target: SYS-WZPXT3
+    target: REQ-GMRFA4Q
     confirmed: 758f34cfcd04
 ---
 The schedule editor shall validate user preferences below 0.5 W in standby.

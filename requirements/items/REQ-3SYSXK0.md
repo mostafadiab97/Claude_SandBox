@@ -1,14 +1,15 @@
 ---
-id: SYS-GC1TCM
+id: REQ-3SYSXK0
 type: system-requirement
 title: Home dashboard authenticates error conditions
 status: Review
 owner: Y. Saber
-parent: INFO-2XXBRS
-order: 1290
+former-id: SYS-GC1TCM
+parent: REQ-QYXGSQ4
+order: b14
 links:
   - type: refines
-    target: STK-ND3D08
+    target: REQ-BWGMSWJ
     confirmed: df91c673f737
 ---
 The home dashboard shall log schedule entries for up to 8 zones.

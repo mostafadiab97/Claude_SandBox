@@ -1,5 +1,5 @@
 ---
-id: IF-9Z0EZE
+id: REQ-DAFJSBY
 type: interface-requirement
 title: "Signal 644: the set point"
 status: Obsolete
@@ -9,7 +9,8 @@ tags:
   - cost
   - ux
   - power
-parent: INFO-2TM0JP
-order: 6440
+former-id: IF-9Z0EZE
+parent: REQ-RJ0KHPT
+order: b9N
 ---
 Interface signal number 644.

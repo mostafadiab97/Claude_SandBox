@@ -1,14 +1,15 @@
 ---
-id: SW-8PHRYR
+id: REQ-NDJ93Q0
 type: software-requirement
 title: Display safety limits — detail
 status: Approved
 priority: Medium
-parent: SW-H39NX1
-order: 10
+former-id: SW-8PHRYR
+parent: REQ-Y4W7Q35
+order: a0
 links:
   - type: refines
-    target: SW-H39NX1
+    target: REQ-Y4W7Q35
     confirmed: 440e73aa781d
 ---
 The over-temperature monitor shall detect the room temperature with an accuracy of ±0.5 °C.

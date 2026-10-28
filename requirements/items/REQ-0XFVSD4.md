@@ -1,15 +1,16 @@
 ---
-id: SW-0WYY42
+id: REQ-0XFVSD4
 type: software-requirement
 title: Watchdog stores audit records
 status: Review
 priority: Medium
 owner: H. Mostafa
-parent: SYS-4MWCBY
-order: 20
+former-id: SW-0WYY42
+parent: REQ-MND8W5P
+order: a1
 links:
   - type: refines
-    target: SYS-4MWCBY
+    target: REQ-MND8W5P
     confirmed: 12c71184dbf6
 ---
 The secure boot shall detect safety limits for at least 10 years.

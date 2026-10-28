@@ -1,15 +1,16 @@
 ---
-id: HW-RKNA08
+id: REQ-N3EH284
 type: hardware-requirement
 title: Device registry displays the room temperature
 status: Approved
 priority: Medium
 owner: محمد علي
-parent: SYS-J8E1WK
-order: 10
+former-id: HW-RKNA08
+parent: REQ-VVB2CAN
+order: a0
 links:
   - type: refines
-    target: SYS-J8E1WK
+    target: REQ-VVB2CAN
     confirmed: e3e45dbe823d
 ---
 The cloud backend shall report humidity values below 0.5 W in standby.

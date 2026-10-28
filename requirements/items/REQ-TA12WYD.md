@@ -1,16 +1,17 @@
 ---
-id: SYS-G05WA7
+id: REQ-TA12WYD
 type: system-requirement
 title: Battery backup measures the operating mode
 status: Obsolete
-parent: INFO-A6P9A8
-order: 70
+former-id: SYS-G05WA7
+parent: REQ-CMCS31A
+order: a6
 links:
   - type: refines
-    target: STK-KEP05J
+    target: REQ-PRMNGRJ
     confirmed: 74304e03fe52
   - type: mitigates
-    target: RSK-P3EG5Z
+    target: REQ-D0QP1BW
     confirmed: 24cf773c2491
 ---
 The battery backup shall log firmware images without user interaction.

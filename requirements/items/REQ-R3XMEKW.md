@@ -1,15 +1,16 @@
 ---
-id: SYS-MV08ST
+id: REQ-R3XMEKW
 type: system-requirement
 title: User account service detects relay events
 status: Approved
 priority: High
 owner: K. Tanaka
-parent: INFO-YV5EZD
-order: 1890
+former-id: SYS-MV08ST
+parent: REQ-RE9ZKHF
+order: b22
 links:
   - type: refines
-    target: STK-JFBQPS
+    target: REQ-A8X8PTB
     confirmed: 5027ee1822eb
 ---
 The user account service shall display the set point with an accuracy of ±0.5 °C.

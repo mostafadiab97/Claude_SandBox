@@ -1,5 +1,5 @@
 ---
-id: HW-C7ABV4
+id: REQ-STWQBZM
 type: hardware-requirement
 title: Zone valve reports the operating mode
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - accessibility
-parent: SYS-D1ZDY9
-order: 40
+former-id: HW-C7ABV4
+parent: REQ-5ARG7AP
+order: a3
 links:
   - type: refines
-    target: SYS-D1ZDY9
+    target: REQ-5ARG7AP
     confirmed: 3c95eb652d79
 ---
 The heat pump driver shall authenticate the room temperature within 200 ms.

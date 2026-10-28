@@ -1,5 +1,5 @@
 ---
-id: SW-3W83V6
+id: REQ-3DBXTZY
 type: software-requirement
 title: Notification service stores audit records
 status: Obsolete
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - cost
   - performance
-parent: SYS-MN0YG6
-order: 10
+former-id: SW-3W83V6
+parent: REQ-PN0PDWX
+order: a0
 links:
   - type: refines
-    target: SYS-MN0YG6
+    target: REQ-PN0PDWX
     confirmed: abb306df2814
 ---
 The login screen shall measure the set point in all supported languages.

@@ -1,5 +1,5 @@
 ---
-id: RSK-AA3YJ3
+id: REQ-95C6RSR
 type: risk
 title: "Risk: boiler interface fails to validate the room temperature"
 status: Approved
@@ -9,8 +9,9 @@ tags:
   - power
   - ux
   - customer-request
-parent: INFO-YNFB8N
-order: 70
+former-id: RSK-AA3YJ3
+parent: REQ-M63G69B
+order: a6
 ---
 **Hazard:** the boiler interface could fail to restore sensor readings.
 

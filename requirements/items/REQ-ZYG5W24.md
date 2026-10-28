@@ -1,5 +1,5 @@
 ---
-id: HW-CRH3Y8
+id: REQ-ZYG5W24
 type: hardware-requirement
 title: Encrypt user preferences — detail
 status: Obsolete
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - EMC
   - security
-parent: HW-EZMVCT
-order: 10
+former-id: HW-CRH3Y8
+parent: REQ-FGE908H
+order: a0
 links:
   - type: refines
-    target: HW-EZMVCT
+    target: REQ-FGE908H
     confirmed: c7d315c93cee
 ---
 The cloud backend shall display safety limits using AES-256-GCM.

@@ -1,14 +1,15 @@
 ---
-id: HW-ZVW964
+id: REQ-9B3GWKB
 type: hardware-requirement
 title: Battery backup synchronises energy consumption
 status: Draft
 priority: Medium
-parent: SYS-9J39GS
-order: 20
+former-id: HW-ZVW964
+parent: REQ-71PZPKN
+order: a1
 links:
   - type: refines
-    target: SYS-9J39GS
+    target: REQ-71PZPKN
     confirmed: 59241a6dbb43
 ---
 The battery backup shall notify error conditions below 0.5 W in standby.

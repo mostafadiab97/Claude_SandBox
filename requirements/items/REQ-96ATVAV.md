@@ -1,15 +1,16 @@
 ---
-id: SYS-045KKD
+id: REQ-96ATVAV
 type: system-requirement
 title: Status LED encrypts the set point
 status: Obsolete
 priority: High
 owner: H. Mostafa
-parent: INFO-PDR6FV
-order: 1690
+former-id: SYS-045KKD
+parent: REQ-2ZA2TRZ
+order: b1i
 links:
   - type: refines
-    target: STK-XZPKF8
+    target: REQ-3QFE217
     confirmed: f082d5e65a7a
 ---
 The status LED shall notify the room temperature at least once per minute.

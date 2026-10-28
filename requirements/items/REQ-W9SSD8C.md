@@ -1,15 +1,16 @@
 ---
-id: HW-NYPX7W
+id: REQ-W9SSD8C
 type: hardware-requirement
 title: Validate error conditions — detail
 status: Review
 priority: Medium
 owner: L. Samir
-parent: HW-60M6A4
-order: 10
+former-id: HW-NYPX7W
+parent: REQ-MQ01QXE
+order: a0
 links:
   - type: refines
-    target: HW-60M6A4
+    target: REQ-MQ01QXE
     confirmed: 951d86cd447b
 ---
 The cloud backend shall report the room temperature within 200 ms.

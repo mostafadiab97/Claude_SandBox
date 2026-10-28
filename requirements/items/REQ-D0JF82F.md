@@ -1,5 +1,5 @@
 ---
-id: HW-MPJJ3Q
+id: REQ-D0JF82F
 type: hardware-requirement
 title: Main PCB measures access tokens
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - connectivity
-parent: SYS-FMNTZ0
-order: 20
+former-id: HW-MPJJ3Q
+parent: REQ-Q01BYF2
+order: a1
 links:
   - type: refines
-    target: SYS-FMNTZ0
+    target: REQ-Q01BYF2
     confirmed: 07a6530c6e8f
 ---
 The battery backup shall synchronise firmware images below 0.5 W in standby.

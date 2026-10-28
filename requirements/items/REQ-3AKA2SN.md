@@ -1,5 +1,5 @@
 ---
-id: SW-5EA975
+id: REQ-3AKA2SN
 type: software-requirement
 title: Tamper detection logs the room temperature
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - security
   - ux
-parent: SYS-NVKX9K
-order: 40
+former-id: SW-5EA975
+parent: REQ-QFZ1F36
+order: a3
 links:
   - type: refines
-    target: SYS-NVKX9K
+    target: REQ-QFZ1F36
     confirmed: 720362ab5cfe
 ---
 The over-temperature monitor shall log relay events without user interaction.

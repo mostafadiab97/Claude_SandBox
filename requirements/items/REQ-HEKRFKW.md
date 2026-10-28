@@ -1,5 +1,5 @@
 ---
-id: TC-AJETFJ
+id: REQ-HEKRFKW
 type: test-case
 title: "Verify: Pairing process stores humidity values"
 status: Review
@@ -7,14 +7,15 @@ priority: Medium
 owner: J. Müller
 tags:
   - cost
-parent: INFO-F0M7VC
-order: 1410
+former-id: TC-AJETFJ
+parent: REQ-67RQXCK
+order: b1G
 links:
   - type: verifies
-    target: SYS-V9VR90
+    target: REQ-TNHZNKF
     confirmed: a13f663c17a2
   - type: verifies
-    target: SW-MZMJK1
+    target: REQ-WT7ETM7
     confirmed: 78c5cd05780a
 ---
 **Objective:** verify that the pairing process behaves as specified.

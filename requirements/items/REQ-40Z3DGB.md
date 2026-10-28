@@ -1,5 +1,5 @@
 ---
-id: HW-6T2XDV
+id: REQ-40Z3DGB
 type: hardware-requirement
 title: Status LED logs the room temperature
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - ux
   - cost
-parent: SYS-H3FFZV
-order: 10
+former-id: HW-6T2XDV
+parent: REQ-WEM21SV
+order: a0
 links:
   - type: refines
-    target: SYS-H3FFZV
+    target: REQ-WEM21SV
     confirmed: 5a7f9180a50d
 ---
 The backlight shall store the operating mode in under 3 s.

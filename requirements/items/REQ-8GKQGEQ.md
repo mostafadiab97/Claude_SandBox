@@ -1,5 +1,5 @@
 ---
-id: SW-6C7YSJ
+id: REQ-8GKQGEQ
 type: software-requirement
 title: Secure boot calibrates sensor readings
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - power
-parent: SYS-FRBAX4
-order: 30
+former-id: SW-6C7YSJ
+parent: REQ-T249YVE
+order: a2
 links:
   - type: refines
-    target: SYS-FRBAX4
+    target: REQ-T249YVE
     confirmed: a6ca038853e0
 ---
 The tamper detection shall synchronise humidity values after a power loss.

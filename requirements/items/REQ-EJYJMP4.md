@@ -1,15 +1,16 @@
 ---
-id: SYS-185CG5
+id: REQ-EJYJMP4
 type: system-requirement
 title: Zone valve validates the connection state
 status: Approved
 priority: High
 owner: M. Farouk
-parent: INFO-6DQTKV
-order: 320
+former-id: SYS-185CG5
+parent: REQ-7ED7ZET
+order: aV
 links:
   - type: refines
-    target: STK-Q8BNKR
+    target: REQ-FY0A6ZE
     confirmed: 6deaa78e6ab3
 ---
 The zone valve shall encrypt user preferences at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: IF-SPAJD2
+id: REQ-P06NM02
 type: interface-requirement
 title: Battery backup switchs user preferences
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - connectivity
-parent: SYS-FFTATD
-order: 10
+former-id: IF-SPAJD2
+parent: REQ-8WGXNDY
+order: a0
 links:
   - type: refines
-    target: SYS-FFTATD
+    target: REQ-8WGXNDY
     confirmed: 95a8578d9835
 ---
 The main PCB shall switch access tokens after a power loss.

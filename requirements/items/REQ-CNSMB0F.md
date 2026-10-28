@@ -1,5 +1,5 @@
 ---
-id: SW-C1SS8N
+id: REQ-CNSMB0F
 type: software-requirement
 title: OTA server limits the room temperature
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - security
   - power
-parent: SYS-QEFT7B
-order: 30
+former-id: SW-C1SS8N
+parent: REQ-VCPXGX6
+order: a2
 links:
   - type: refines
-    target: SYS-QEFT7B
+    target: REQ-VCPXGX6
     confirmed: aafd3f4bb931
 ---
 The OTA server shall synchronise sensor readings within 200 ms.

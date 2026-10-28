@@ -1,18 +1,19 @@
 ---
-id: SYS-XW4JM5
+id: REQ-055JC9M
 type: system-requirement
 title: Regulation loop validates user preferences
 status: Draft
 priority: Medium
 owner: H. Mostafa
-parent: INFO-6DQTKV
-order: 650
+former-id: SYS-XW4JM5
+parent: REQ-7ED7ZET
+order: b02
 links:
   - type: refines
-    target: STK-9YF5RE
+    target: REQ-FGZGBY5
     confirmed: 43643c03020f
   - type: mitigates
-    target: RSK-AA3YJ3
+    target: REQ-95C6RSR
     confirmed: 84e686f1bbcc
 ---
 The regulation loop shall switch error conditions in all supported languages.

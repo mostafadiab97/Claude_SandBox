@@ -1,5 +1,5 @@
 ---
-id: DE-VWA19A
+id: REQ-9XRVXNR
 type: design-element
 title: Module user_account_service_40
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: R. Nabil
 tags:
   - ux
-parent: SW-6MVV07
-order: 10
+former-id: DE-VWA19A
+parent: REQ-SRRDXSE
+order: a0
 links:
   - type: implements
-    target: SW-6MVV07
+    target: REQ-SRRDXSE
     confirmed: 58b332ca4f54
 ---
 Implemented in `src/cloud/user_account_service.c`.

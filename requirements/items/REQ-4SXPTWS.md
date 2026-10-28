@@ -1,5 +1,5 @@
 ---
-id: DE-5DSE6B
+id: REQ-4SXPTWS
 type: design-element
 title: Module menu_system_92
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - customer-request
   - power
-parent: SW-Z90YKD
-order: 20
+former-id: DE-5DSE6B
+parent: REQ-A1CT6N3
+order: a1
 links:
   - type: implements
-    target: SW-Z90YKD
+    target: REQ-A1CT6N3
     confirmed: b06648d1dbae
 ---
 Implemented in `src/ui/menu_system.c`.

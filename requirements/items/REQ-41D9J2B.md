@@ -1,5 +1,5 @@
 ---
-id: SW-TZNZPT
+id: REQ-41D9J2B
 type: software-requirement
 title: Mobile app authenticates access tokens
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - EMC
-parent: SYS-6REMTR
-order: 30
+former-id: SW-TZNZPT
+parent: REQ-ER16QEY
+order: a2
 links:
   - type: refines
-    target: SYS-6REMTR
+    target: REQ-ER16QEY
     confirmed: e73f40f41cec
 ---
 The login screen shall measure humidity values with an accuracy of ±0.5 °C.

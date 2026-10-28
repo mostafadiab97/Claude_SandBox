@@ -1,16 +1,17 @@
 ---
-id: CR-YZ577T
+id: REQ-25YXXHW
 type: change-request
 title: "CR: extend over-temperature monitor to limit the room temperature"
 status: Approved
 tags:
   - cost
   - regulatory
-parent: INFO-6QFMYN
-order: 60
+former-id: CR-YZ577T
+parent: REQ-1XKBKFE
+order: a5
 links:
   - type: relates-to
-    target: SYS-M0XMTJ
+    target: REQ-8Z1HB6X
     confirmed: 265474e3470a
 ---
 Requested by customer support (ticket #15198).

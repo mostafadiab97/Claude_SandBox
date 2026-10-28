@@ -1,15 +1,16 @@
 ---
-id: SYS-NSNRJD
+id: REQ-SKCWE3M
 type: system-requirement
 title: Home dashboard limits error conditions
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: INFO-2XXBRS
-order: 1700
+former-id: SYS-NSNRJD
+parent: REQ-QYXGSQ4
+order: b1j
 links:
   - type: refines
-    target: STK-55M3CZ
+    target: REQ-HTVZXH2
     confirmed: 45f1b5fe0502
 ---
 The home dashboard shall log sensor readings when the network is unavailable.

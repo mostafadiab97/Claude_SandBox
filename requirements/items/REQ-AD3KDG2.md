@@ -1,5 +1,5 @@
 ---
-id: SW-0FHH8Q
+id: REQ-AD3KDG2
 type: software-requirement
 title: Zone valve synchronises safety limits
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Low
 owner: R. Nabil
 tags:
   - connectivity
-parent: SYS-0KFPCF
-order: 20
+former-id: SW-0FHH8Q
+parent: REQ-YHPAPF6
+order: a1
 links:
   - type: refines
-    target: SYS-0KFPCF
+    target: REQ-YHPAPF6
     confirmed: 38fbc1f616e4
 ---
 The boiler interface shall measure firmware images when the network is unavailable.

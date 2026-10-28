@@ -1,5 +1,5 @@
 ---
-id: TC-APVT14
+id: REQ-0CK3HY0
 type: test-case
 title: "Regression: Wi-Fi module switchs schedule entries"
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - power
   - cost
-parent: INFO-ECHASH
-order: 950
+former-id: TC-APVT14
+parent: REQ-6H15AV2
+order: b0W
 links:
   - type: verifies
-    target: SYS-5NPG22
+    target: REQ-1H9ZVHN
     confirmed: de7334e55ef0
 ---
 **Objective:** verify that the device behaves as specified.

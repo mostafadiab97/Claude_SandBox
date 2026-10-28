@@ -1,5 +1,5 @@
 ---
-id: TC-XG0YQ7
+id: REQ-QQPAK0W
 type: test-case
 title: "Verify: Notification service synchronises schedule entries"
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 tags:
   - power
   - EMC
-parent: INFO-J0FETE
-order: 1420
+former-id: TC-XG0YQ7
+parent: REQ-WR5ZJN9
+order: b1H
 links:
   - type: verifies
-    target: SYS-E3W7YF
+    target: REQ-CP521FN
     confirmed: ff8815b3b9ff
   - type: verifies
-    target: SW-DN2SKS
+    target: REQ-38RF1V8
     confirmed: 0ed24975e2c6
 ---
 **Objective:** verify that the notification service behaves as specified.

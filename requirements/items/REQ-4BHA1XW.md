@@ -1,14 +1,15 @@
 ---
-id: HW-SR8QXM
+id: REQ-4BHA1XW
 type: hardware-requirement
 title: OTA server limits the room temperature
 status: Review
 owner: S. Adel
-parent: SYS-NKN3QV
-order: 10
+former-id: HW-SR8QXM
+parent: REQ-4V8EY3P
+order: a0
 links:
   - type: refines
-    target: SYS-NKN3QV
+    target: REQ-4V8EY3P
     confirmed: 2f2d653f73be
 ---
 The user account service shall authenticate audit records at least once per minute.

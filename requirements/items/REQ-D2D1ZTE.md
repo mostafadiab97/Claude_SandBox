@@ -1,5 +1,5 @@
 ---
-id: TC-23QE8C
+id: REQ-D2D1ZTE
 type: test-case
 title: "Verify: Telemetry pipeline switchs safety limits"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: N. Kamal
 tags:
   - release-1.0
-parent: INFO-7P4D8D
-order: 1010
+former-id: TC-23QE8C
+parent: REQ-8351896
+order: b0c
 links:
   - type: verifies
-    target: SYS-MQY2B0
+    target: REQ-090RJ6Q
     confirmed: ab87fdd691b9
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

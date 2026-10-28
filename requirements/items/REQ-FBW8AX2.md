@@ -1,5 +1,5 @@
 ---
-id: HW-TC3P2N
+id: REQ-FBW8AX2
 type: hardware-requirement
 title: Local API switchs the connection state
 status: Draft
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - regulatory
   - safety
-parent: SYS-N9J3YN
-order: 10
+former-id: HW-TC3P2N
+parent: REQ-19J4DQ3
+order: a0
 links:
   - type: refines
-    target: SYS-N9J3YN
+    target: REQ-19J4DQ3
     confirmed: ef7af70b0629
 ---
 The local API shall synchronise user preferences within 200 ms.

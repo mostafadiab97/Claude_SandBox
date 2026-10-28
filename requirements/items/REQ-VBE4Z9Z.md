@@ -1,5 +1,5 @@
 ---
-id: HW-V08HAY
+id: REQ-VBE4Z9Z
 type: hardware-requirement
 title: Battery backup authenticates humidity values
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - i18n
   - customer-request
   - safety
-parent: SYS-H7XP2M
-order: 10
+former-id: HW-V08HAY
+parent: REQ-0VFCCR7
+order: a0
 links:
   - type: refines
-    target: SYS-H7XP2M
+    target: REQ-0VFCCR7
     confirmed: 7b8641948b25
 ---
 The relay board shall synchronise sensor readings below 0.5 W in standby.

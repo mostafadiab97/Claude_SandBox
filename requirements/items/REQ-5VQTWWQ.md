@@ -1,5 +1,5 @@
 ---
-id: IF-26592E
+id: REQ-5VQTWWQ
 type: interface-requirement
 title: "Signal 241: schedule entries"
 status: Review
@@ -8,7 +8,8 @@ tags:
   - power
   - accessibility
   - release-1.0
-parent: INFO-2TM0JP
-order: 2410
+former-id: IF-26592E
+parent: REQ-RJ0KHPT
+order: b2s
 ---
 Interface signal number 241.

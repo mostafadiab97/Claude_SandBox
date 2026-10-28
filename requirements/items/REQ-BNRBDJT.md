@@ -1,5 +1,5 @@
 ---
-id: IF-7ASVEB
+id: REQ-BNRBDJT
 type: interface-requirement
 title: Touch display detects humidity values
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - safety
   - release-1.0
   - connectivity
-parent: SYS-QFCX4V
-order: 10
+former-id: IF-7ASVEB
+parent: REQ-Y9PF6ZF
+order: a0
 links:
   - type: refines
-    target: SYS-QFCX4V
+    target: REQ-Y9PF6ZF
     confirmed: 0a633adec0ec
 ---
 The touch display shall switch safety limits when the network is unavailable.

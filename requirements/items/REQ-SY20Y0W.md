@@ -1,16 +1,17 @@
 ---
-id: SW-8B20TR
+id: REQ-SY20Y0W
 type: software-requirement
 title: OTA server logs humidity values
 status: Approved
 owner: A. Hassan
 tags:
   - power
-parent: SYS-JAKPTT
-order: 20
+former-id: SW-8B20TR
+parent: REQ-HH7JK9T
+order: a1
 links:
   - type: refines
-    target: SYS-JAKPTT
+    target: REQ-HH7JK9T
     confirmed: c8ec22696e3b
 ---
 The device registry shall authenticate access tokens within 200 ms.

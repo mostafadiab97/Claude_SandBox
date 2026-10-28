@@ -1,14 +1,15 @@
 ---
-id: CR-AQ7Z80
+id: REQ-ZQC8CQ2
 type: change-request
 title: "CR: extend boiler interface to calibrate the connection state"
 status: Approved
 priority: High
-parent: INFO-ZBHTYF
-order: 220
+former-id: CR-AQ7Z80
+parent: REQ-XJDN42Y
+order: aL
 links:
   - type: relates-to
-    target: SYS-Q6G2TQ
+    target: REQ-N4J5CD5
     confirmed: 2157601a4542
 ---
 Requested by customer support (ticket #11311).

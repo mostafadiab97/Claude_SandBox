@@ -1,5 +1,5 @@
 ---
-id: IF-DHSQZQ
+id: REQ-6HPPV8D
 type: interface-requirement
 title: Mobile app stores the room temperature
 status: Review
@@ -7,11 +7,12 @@ priority: High
 tags:
   - EMC
   - safety
-parent: SYS-3TWJPP
-order: 20
+former-id: IF-DHSQZQ
+parent: REQ-RR2A2CN
+order: a1
 links:
   - type: refines
-    target: SYS-3TWJPP
+    target: REQ-RR2A2CN
     confirmed: 618b62b567a5
 ---
 The login screen shall display audit records in all supported languages.

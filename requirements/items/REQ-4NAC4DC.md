@@ -1,18 +1,19 @@
 ---
-id: TC-7WJQNP
+id: REQ-4NAC4DC
 type: test-case
 title: "Verify: Enclosure reports the room temperature"
 status: Approved
 priority: Medium
 owner: N. Kamal
-parent: INFO-MACGC3
-order: 1260
+former-id: TC-7WJQNP
+parent: REQ-F9Z1FYS
+order: b11
 links:
   - type: verifies
-    target: SYS-T9M88W
+    target: REQ-N0KC5GA
     confirmed: d3225946a824
   - type: verifies
-    target: SW-YZSBP4
+    target: REQ-HBMS0PS
     confirmed: 77cb9f1654aa
 ---
 **Objective:** verify that the enclosure behaves as specified.

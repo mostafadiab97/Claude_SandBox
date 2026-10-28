@@ -1,15 +1,16 @@
 ---
-id: DE-MWP6CD
+id: REQ-KCPYJ54
 type: design-element
 title: Module mobile_app_6
 status: Draft
 priority: Medium
 owner: A. Hassan
-parent: SW-677MHF
-order: 10
+former-id: DE-MWP6CD
+parent: REQ-C19ECNK
+order: a0
 links:
   - type: implements
-    target: SW-677MHF
+    target: REQ-C19ECNK
     confirmed: 4ca724906785
 ---
 Implemented in `src/app/mobile_app.c`.

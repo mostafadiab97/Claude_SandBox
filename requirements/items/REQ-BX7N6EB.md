@@ -1,5 +1,5 @@
 ---
-id: TC-7NVERV
+id: REQ-BX7N6EB
 type: test-case
 title: "Verify: Login screen detects the set point"
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - performance
-parent: INFO-J0FETE
-order: 140
+former-id: TC-7NVERV
+parent: REQ-WR5ZJN9
+order: aD
 links:
   - type: verifies
-    target: SYS-7BCVCV
+    target: REQ-24BZH40
     confirmed: 9b16ba8d6617
   - type: verifies
-    target: SW-DB7P83
+    target: REQ-MYTD6AZ
     confirmed: e42463f58435
 ---
 **Objective:** verify that the login screen behaves as specified.

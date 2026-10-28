@@ -1,18 +1,19 @@
 ---
-id: TC-F8VB6T
+id: REQ-REEGQXZ
 type: test-case
 title: "Verify: Backlight validates schedule entries"
 status: Review
 priority: High
 owner: Y. Saber
-parent: INFO-HTSZ15
-order: 1380
+former-id: TC-F8VB6T
+parent: REQ-Y9VHHKA
+order: b1D
 links:
   - type: verifies
-    target: SYS-3Z4RXV
+    target: REQ-KAB7NG1
     confirmed: 6ca149f912b8
   - type: verifies
-    target: SW-V860W7
+    target: REQ-65R2DP0
     confirmed: 56c1b62a6109
 ---
 **Objective:** verify that the backlight behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: UC-4P7T8A
+id: REQ-27QS7HP
 type: use-case
 title: "UC: Authenticate access tokens with the local API"
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - EMC
   - regulatory
-parent: INFO-0A0D2B
-order: 140
+former-id: UC-4P7T8A
+parent: REQ-X5TXBRB
+order: aD
 links:
   - type: relates-to
-    target: STK-0AD5XP
+    target: REQ-W8GJYMQ
     confirmed: 30e7f07df0d1
 ---
 **Actor:** home owner

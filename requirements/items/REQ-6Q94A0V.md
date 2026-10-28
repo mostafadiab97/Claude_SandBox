@@ -1,5 +1,5 @@
 ---
-id: SW-B8R9Q0
+id: REQ-6Q94A0V
 type: software-requirement
 title: Rotary knob stores firmware images
 status: Draft
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - safety
   - cost
-parent: SYS-933SE3
-order: 20
+former-id: SW-B8R9Q0
+parent: REQ-3668YHF
+order: a1
 links:
   - type: refines
-    target: SYS-933SE3
+    target: REQ-3668YHF
     confirmed: 87639e58a5eb
 ---
 The status LED shall switch schedule entries in under 3 s.

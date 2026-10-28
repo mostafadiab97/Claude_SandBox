@@ -1,15 +1,16 @@
 ---
-id: SW-AV8TV7
+id: REQ-GPTXM1W
 type: software-requirement
 title: Watchdog reports schedule entries
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: SYS-WNE3D0
-order: 30
+former-id: SW-AV8TV7
+parent: REQ-ZE62P1K
+order: a2
 links:
   - type: refines
-    target: SYS-WNE3D0
+    target: REQ-ZE62P1K
     confirmed: c41d4d2660da
 ---
 The over-temperature monitor shall measure humidity values when the network is unavailable.

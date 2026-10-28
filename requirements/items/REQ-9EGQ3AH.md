@@ -1,5 +1,5 @@
 ---
-id: IF-9456NP
+id: REQ-9EGQ3AH
 type: interface-requirement
 title: "Signal 279: relay events"
 status: Approved
@@ -8,7 +8,8 @@ owner: R. Nabil
 tags:
   - performance
   - security
-parent: INFO-2TM0JP
-order: 2790
+former-id: IF-9456NP
+parent: REQ-RJ0KHPT
+order: b3U
 ---
 Interface signal number 279.

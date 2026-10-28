@@ -1,5 +1,5 @@
 ---
-id: TC-HGS62V
+id: REQ-AWMKEV4
 type: test-case
 title: "Verify: Zone valve calibrates sensor readings"
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - cost
   - release-2.0
-parent: INFO-MS9DAG
-order: 1560
+former-id: TC-HGS62V
+parent: REQ-XGWSK2K
+order: b1V
 links:
   - type: verifies
-    target: SYS-6VZFH1
+    target: REQ-18EFAG8
     confirmed: 2c2479704519
 ---
 **Objective:** verify that the zone valve behaves as specified.

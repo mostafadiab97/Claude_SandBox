@@ -1,5 +1,5 @@
 ---
-id: TC-F3YFTH
+id: REQ-0CYHEP8
 type: test-case
 title: "Verify: Notification service encrypts schedule entries"
 status: Review
@@ -9,14 +9,15 @@ tags:
   - release-2.0
   - connectivity
   - i18n
-parent: INFO-J0FETE
-order: 1190
+former-id: TC-F3YFTH
+parent: REQ-WR5ZJN9
+order: b0u
 links:
   - type: verifies
-    target: SYS-XF6HRT
+    target: REQ-JQNGJRH
     confirmed: 8fa995f67a12
   - type: verifies
-    target: SW-4P595V
+    target: REQ-MF9JYG0
     confirmed: a1c29b0d37be
 ---
 **Objective:** verify that the notification service behaves as specified.

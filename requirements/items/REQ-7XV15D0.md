@@ -1,5 +1,5 @@
 ---
-id: SW-S1MSSQ
+id: REQ-7XV15D0
 type: software-requirement
 title: User account service validates relay events
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - EMC
   - cost
-parent: SYS-0DEP77
-order: 20
+former-id: SW-S1MSSQ
+parent: REQ-RH9ZCGV
+order: a1
 links:
   - type: refines
-    target: SYS-0DEP77
+    target: REQ-RH9ZCGV
     confirmed: 7dbcbeef3d13
 ---
 The device registry shall calibrate the room temperature for at least 10 years.

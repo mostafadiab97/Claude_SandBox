@@ -1,5 +1,5 @@
 ---
-id: HW-0KV8KS
+id: REQ-MH57TS9
 type: hardware-requirement
 title: Main PCB calibrates the set point
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: L. Samir
 tags:
   - regulatory
-parent: SYS-1K9BKF
-order: 20
+former-id: HW-0KV8KS
+parent: REQ-SCPDQHF
+order: a1
 links:
   - type: refines
-    target: SYS-1K9BKF
+    target: REQ-SCPDQHF
     confirmed: c64cd8bb0fb4
 ---
 The battery backup shall synchronise humidity values after a power loss.

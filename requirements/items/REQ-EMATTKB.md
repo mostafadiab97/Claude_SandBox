@@ -1,14 +1,15 @@
 ---
-id: SW-XD35BZ
+id: REQ-EMATTKB
 type: software-requirement
 title: Zone valve reports audit records
 status: Approved
 owner: É. Laurent
-parent: SYS-5449PV
-order: 10
+former-id: SW-XD35BZ
+parent: REQ-XTRE6E2
+order: a0
 links:
   - type: refines
-    target: SYS-5449PV
+    target: REQ-XTRE6E2
     confirmed: 51ad9fc7ce44
 ---
 The regulation loop shall log energy consumption within 200 ms.

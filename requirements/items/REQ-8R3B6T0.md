@@ -1,15 +1,16 @@
 ---
-id: SW-TN2FB3
+id: REQ-8R3B6T0
 type: software-requirement
 title: Status LED authenticates the set point
 status: Approved
 priority: Low
 owner: L. Samir
-parent: SYS-76BVFJ
-order: 40
+former-id: SW-TN2FB3
+parent: REQ-N13Q3PD
+order: a3
 links:
   - type: refines
-    target: SYS-76BVFJ
+    target: REQ-N13Q3PD
     confirmed: 3214f1c9f970
 ---
 The touch display shall notify error conditions with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: SYS-YTTXB8
+id: REQ-3S52D2S
 type: system-requirement
 title: Telemetry pipeline switchs audit records
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - i18n
   - regulatory
-parent: INFO-YV5EZD
-order: 690
+former-id: SYS-YTTXB8
+parent: REQ-RE9ZKHF
+order: b06
 links:
   - type: refines
-    target: STK-JFBQPS
+    target: REQ-A8X8PTB
     confirmed: 5027ee1822eb
 ---
 The telemetry pipeline shall encrypt the operating mode when the network is unavailable.

@@ -1,5 +1,5 @@
 ---
-id: IF-9FNEKJ
+id: REQ-JD4TV0D
 type: interface-requirement
 title: Heating controller displays relay events
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: R. Nabil
 tags:
   - customer-request
-parent: SYS-A4MNF7
-order: 20
+former-id: IF-9FNEKJ
+parent: REQ-DMYSH81
+order: a1
 links:
   - type: refines
-    target: SYS-A4MNF7
+    target: REQ-DMYSH81
     confirmed: 59d89f268e28
 ---
 The heating controller shall switch the operating mode for up to 8 zones.

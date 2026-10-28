@@ -1,15 +1,16 @@
 ---
-id: TC-A6HD1B
+id: REQ-0DD361F
 type: test-case
 title: "Verify: Tamper detection restores the connection state"
 status: Draft
 priority: Low
 owner: J. Müller
-parent: INFO-Z4TW4B
-order: 190
+former-id: TC-A6HD1B
+parent: REQ-K6FGAY0
+order: aI
 links:
   - type: verifies
-    target: SYS-BQJJNH
+    target: REQ-4YJNJH8
     confirmed: 699ed99f7701
 ---
 **Objective:** verify that the tamper detection behaves as specified.

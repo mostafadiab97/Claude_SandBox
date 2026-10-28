@@ -1,14 +1,15 @@
 ---
-id: TC-1V1GBW
+id: REQ-QPPD4XV
 type: test-case
 title: "Regression: Zigbee radio displays schedule entries"
 status: Draft
 priority: Medium
-parent: INFO-ECHASH
-order: 830
+former-id: TC-1V1GBW
+parent: REQ-6H15AV2
+order: b0K
 links:
   - type: verifies
-    target: SYS-ERGMGJ
+    target: REQ-CQD0SRB
     confirmed: 4e0d29ca2f08
 ---
 **Objective:** verify that the device behaves as specified.

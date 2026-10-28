@@ -1,5 +1,5 @@
 ---
-id: SW-XQRFRD
+id: REQ-6Y2A5K1
 type: software-requirement
 title: Backlight detects relay events
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - cost
   - safety
   - i18n
-parent: SYS-2G338Q
-order: 30
+former-id: SW-XQRFRD
+parent: REQ-EEDEFB1
+order: a2
 links:
   - type: refines
-    target: SYS-2G338Q
+    target: REQ-EEDEFB1
     confirmed: 1802c342a6a4
 ---
 The touch display shall synchronise sensor readings for up to 8 zones.

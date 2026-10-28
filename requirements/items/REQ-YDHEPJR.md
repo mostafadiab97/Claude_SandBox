@@ -1,5 +1,5 @@
 ---
-id: DEF-D6NMSD
+id: REQ-YDHEPJR
 type: defect
 title: "Defect: heat pump driver does not notify sensor readings"
 status: Review
@@ -8,14 +8,15 @@ owner: H. Mostafa
 tags:
   - ux
   - accessibility
-parent: INFO-ZBHTYF
-order: 120
+former-id: DEF-D6NMSD
+parent: REQ-XJDN42Y
+order: aB
 links:
   - type: relates-to
-    target: TC-3BEN3P
+    target: REQ-G8WZ1D6
     confirmed: 3e2e6d21d2e8
   - type: relates-to
-    target: SYS-VNKX29
+    target: REQ-TR67EMJ
     confirmed: 1e93aa64c8e1
 ---
 Found during regression testing of build 2.6.27.

@@ -1,5 +1,5 @@
 ---
-id: DE-58GT91
+id: REQ-9PQ86D0
 type: design-element
 title: Module zone_valve_44
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - EMC
   - accessibility
   - power
-parent: SW-GQ9PF6
-order: 10
+former-id: DE-58GT91
+parent: REQ-WANX09S
+order: a0
 links:
   - type: implements
-    target: SW-GQ9PF6
+    target: REQ-WANX09S
     confirmed: 3d406af483d9
 ---
 Implemented in `src/heat/zone_valve.c`.

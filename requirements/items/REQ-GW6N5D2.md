@@ -1,5 +1,5 @@
 ---
-id: HW-J9VJFQ
+id: REQ-GW6N5D2
 type: hardware-requirement
 title: Measure user preferences — detail
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - customer-request
-parent: HW-0AA75P
-order: 10
+former-id: HW-J9VJFQ
+parent: REQ-YYQC092
+order: a0
 links:
   - type: refines
-    target: HW-0AA75P
+    target: REQ-YYQC092
     confirmed: 70487a7cf864
 ---
 The enclosure shall authenticate energy consumption for at least 10 years.

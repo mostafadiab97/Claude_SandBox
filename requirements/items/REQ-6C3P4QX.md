@@ -1,18 +1,19 @@
 ---
-id: TC-WT51B7
+id: REQ-6C3P4QX
 type: test-case
 title: "Verify: Enclosure detects the operating mode"
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: INFO-MACGC3
-order: 610
+former-id: TC-WT51B7
+parent: REQ-F9Z1FYS
+order: ay
 links:
   - type: verifies
-    target: SYS-VCX096
+    target: REQ-NPB13E0
     confirmed: 63d283d89339
   - type: verifies
-    target: SW-D8ZPBJ
+    target: REQ-JM66AX5
     confirmed: 108303a36b9c
 ---
 **Objective:** verify that the enclosure behaves as specified.

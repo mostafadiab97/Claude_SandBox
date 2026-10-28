@@ -1,5 +1,5 @@
 ---
-id: SYS-29G535
+id: REQ-SWMBTEW
 type: system-requirement
 title: Home dashboard detects sensor readings
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - EMC
   - i18n
   - ux
-parent: INFO-2XXBRS
-order: 360
+former-id: SYS-29G535
+parent: REQ-QYXGSQ4
+order: aZ
 links:
   - type: refines
-    target: STK-639N9T
+    target: REQ-EMZ19WQ
     confirmed: 252da9caa62c
 ---
 The home dashboard shall restore humidity values in under 3 s.

@@ -1,5 +1,5 @@
 ---
-id: TC-TQEYS8
+id: REQ-YKEEFWG
 type: test-case
 title: "Verify: Secure boot measures error conditions"
 status: Draft
@@ -8,14 +8,15 @@ owner: N. Kamal
 tags:
   - safety
   - customer-request
-parent: INFO-Z4TW4B
-order: 1190
+former-id: TC-TQEYS8
+parent: REQ-K6FGAY0
+order: b0u
 links:
   - type: verifies
-    target: SYS-8T3EWK
+    target: REQ-C27RMWM
     confirmed: 6237143aa404
   - type: verifies
-    target: SW-G8JVAK
+    target: REQ-QWNXSBS
     confirmed: 069c0638481f
 ---
 **Objective:** verify that the secure boot behaves as specified.

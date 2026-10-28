@@ -1,5 +1,5 @@
 ---
-id: TC-N4AM6S
+id: REQ-BR0GBMM
 type: test-case
 title: "Verify: Secure boot synchronises schedule entries"
 status: Review
@@ -8,14 +8,15 @@ owner: N. Kamal
 tags:
   - EMC
   - regulatory
-parent: INFO-Z4TW4B
-order: 1510
+former-id: TC-N4AM6S
+parent: REQ-K6FGAY0
+order: b1Q
 links:
   - type: verifies
-    target: SYS-J8A4BW
+    target: REQ-6MEBSJR
     confirmed: b28f6844e565
   - type: verifies
-    target: SW-QZT0Y7
+    target: REQ-QPPQ2N3
     confirmed: 92e32f70136c
 ---
 **Objective:** verify that the secure boot behaves as specified.

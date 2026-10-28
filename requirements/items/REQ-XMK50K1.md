@@ -1,5 +1,5 @@
 ---
-id: IF-92MV9H
+id: REQ-XMK50K1
 type: interface-requirement
 title: Tamper detection notifys error conditions
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - cost
-parent: SYS-4W6C2G
-order: 10
+former-id: IF-92MV9H
+parent: REQ-EP6BFFN
+order: a0
 links:
   - type: refines
-    target: SYS-4W6C2G
+    target: REQ-EP6BFFN
     confirmed: 1bcb62ea4268
 ---
 The over-temperature monitor shall encrypt relay events without user interaction.

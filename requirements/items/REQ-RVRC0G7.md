@@ -1,16 +1,17 @@
 ---
-id: SW-9338A3
+id: REQ-RVRC0G7
 type: software-requirement
 title: Rotary knob reports sensor readings
 status: Draft
 owner: N. Kamal
 tags:
   - customer-request
-parent: SYS-QKZP7T
-order: 30
+former-id: SW-9338A3
+parent: REQ-RBJJVJD
+order: a2
 links:
   - type: refines
-    target: SYS-QKZP7T
+    target: REQ-RBJJVJD
     confirmed: a1c30d626e9c
 ---
 The status LED shall calibrate firmware images within 200 ms.

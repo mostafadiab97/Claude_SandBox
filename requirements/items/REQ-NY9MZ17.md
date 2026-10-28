@@ -1,16 +1,17 @@
 ---
-id: SYS-RAHT6W
+id: REQ-NY9MZ17
 type: system-requirement
 title: Main PCB validates the operating mode
 status: Approved
 owner: L. Samir
 tags:
   - cost
-parent: INFO-A6P9A8
-order: 680
+former-id: SYS-RAHT6W
+parent: REQ-CMCS31A
+order: b05
 links:
   - type: refines
-    target: STK-CDR1Y9
+    target: REQ-QC1Z78M
     confirmed: d9857f8b33bf
 ---
 The main PCB shall measure relay events when the network is unavailable.

@@ -1,14 +1,15 @@
 ---
-id: SW-7MWGRJ
+id: REQ-PVV0KY4
 type: software-requirement
 title: Regulation loop restores sensor readings
 status: Approved
 priority: High
-parent: SYS-PPY5Z1
-order: 10
+former-id: SW-7MWGRJ
+parent: REQ-ZM76EGY
+order: a0
 links:
   - type: refines
-    target: SYS-PPY5Z1
+    target: REQ-ZM76EGY
     confirmed: 0c11557d1e86
 ---
 The regulation loop shall log the operating mode for up to 8 zones.

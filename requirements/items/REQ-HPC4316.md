@@ -1,5 +1,5 @@
 ---
-id: IF-9D0BBF
+id: REQ-HPC4316
 type: interface-requirement
 title: Local API detects audit records
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - release-2.0
   - regulatory
   - accessibility
-parent: SYS-B2837M
-order: 10
+former-id: IF-9D0BBF
+parent: REQ-R0EZ7W0
+order: a0
 links:
   - type: refines
-    target: SYS-B2837M
+    target: REQ-R0EZ7W0
     confirmed: 53bb399bd946
 ---
 The local API shall switch error conditions using AES-256-GCM.

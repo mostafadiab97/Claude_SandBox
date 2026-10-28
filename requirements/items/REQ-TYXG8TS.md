@@ -1,15 +1,16 @@
 ---
-id: SW-6TBVQ4
+id: REQ-TYXG8TS
 type: software-requirement
 title: OTA server reports relay events
 status: Draft
 priority: Medium
 owner: N. Kamal
-parent: SYS-MASKXR
-order: 10
+former-id: SW-6TBVQ4
+parent: REQ-WSY0MZM
+order: a0
 links:
   - type: refines
-    target: SYS-MASKXR
+    target: REQ-WSY0MZM
     confirmed: c14e888575b5
 ---
 The telemetry pipeline shall measure firmware images for up to 8 zones.

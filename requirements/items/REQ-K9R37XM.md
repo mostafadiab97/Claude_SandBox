@@ -1,18 +1,19 @@
 ---
-id: TC-RMV6G3
+id: REQ-K9R37XM
 type: test-case
 title: "Verify: Status LED detects humidity values"
 status: Approved
 priority: Low
 owner: محمد علي
-parent: INFO-HTSZ15
-order: 1250
+former-id: TC-RMV6G3
+parent: REQ-Y9VHHKA
+order: b10
 links:
   - type: verifies
-    target: SYS-378XSW
+    target: REQ-BD91YMW
     confirmed: 5031ebc6a924
   - type: verifies
-    target: SW-69Q8PV
+    target: REQ-RPMPDN5
     confirmed: 8a81734f6f33
 ---
 **Objective:** verify that the status LED behaves as specified.

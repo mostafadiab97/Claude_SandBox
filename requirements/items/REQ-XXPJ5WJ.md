@@ -1,5 +1,5 @@
 ---
-id: TC-0J8Q62
+id: REQ-XXPJ5WJ
 type: test-case
 title: "Verify: Backlight stores safety limits"
 status: Approved
@@ -8,14 +8,15 @@ owner: R. Nabil
 tags:
   - security
   - release-1.0
-parent: INFO-HTSZ15
-order: 840
+former-id: TC-0J8Q62
+parent: REQ-Y9VHHKA
+order: b0L
 links:
   - type: verifies
-    target: SYS-RXWF3R
+    target: REQ-YQW5K1F
     confirmed: f3d27e3d9880
   - type: verifies
-    target: SW-CMCBBX
+    target: REQ-B4X5FV4
     confirmed: 3908acfc255d
 ---
 **Objective:** verify that the backlight behaves as specified.

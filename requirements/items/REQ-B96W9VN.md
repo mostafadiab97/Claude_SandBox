@@ -1,5 +1,5 @@
 ---
-id: TC-AMAV2Q
+id: REQ-B96W9VN
 type: test-case
 title: "Verify: Enclosure detects relay events"
 status: Draft
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - i18n
   - accessibility
-parent: INFO-MACGC3
-order: 1480
+former-id: TC-AMAV2Q
+parent: REQ-F9Z1FYS
+order: b1N
 links:
   - type: verifies
-    target: SYS-ZM6EM1
+    target: REQ-HTQ6KCV
     confirmed: bc2cbad41247
 ---
 **Objective:** verify that the enclosure behaves as specified.

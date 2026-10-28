@@ -1,15 +1,16 @@
 ---
-id: SW-3PZP74
+id: REQ-05CEG90
 type: software-requirement
 title: Rotary knob notifys the room temperature
 status: Approved
 priority: Medium
 owner: محمد علي
-parent: SYS-8DNBZZ
-order: 20
+former-id: SW-3PZP74
+parent: REQ-163RBQF
+order: a1
 links:
   - type: refines
-    target: SYS-8DNBZZ
+    target: REQ-163RBQF
     confirmed: 56dd9201bfb6
 ---
 The status LED shall synchronise the operating mode without user interaction.

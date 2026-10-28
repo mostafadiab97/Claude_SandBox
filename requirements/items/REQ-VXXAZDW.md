@@ -1,15 +1,16 @@
 ---
-id: SYS-BPXBWB
+id: REQ-VXXAZDW
 type: system-requirement
 title: Over-temperature monitor limits the operating mode
 status: Approved
 priority: High
 owner: L. Samir
-parent: INFO-0229G8
-order: 310
+former-id: SYS-BPXBWB
+parent: REQ-H9113WA
+order: aU
 links:
   - type: refines
-    target: STK-SZWQ0A
+    target: REQ-AVJ6PR8
     confirmed: fc1f05b44684
 ---
 The over-temperature monitor shall measure the set point below 0.5 W in standby.

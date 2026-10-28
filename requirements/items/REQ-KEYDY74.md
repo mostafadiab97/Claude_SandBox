@@ -1,14 +1,15 @@
 ---
-id: SYS-BD9F9G
+id: REQ-KEYDY74
 type: system-requirement
 title: Touch display switchs audit records
 status: Draft
 owner: J. Müller
-parent: INFO-PDR6FV
-order: 1540
+former-id: SYS-BD9F9G
+parent: REQ-2ZA2TRZ
+order: b1T
 links:
   - type: refines
-    target: STK-8PN4VS
+    target: REQ-WQB5JT6
     confirmed: a3e83ac40678
 ---
 The touch display shall detect safety limits within 200 ms.

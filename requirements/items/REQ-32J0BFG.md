@@ -1,5 +1,5 @@
 ---
-id: IF-1XMKJN
+id: REQ-32J0BFG
 type: interface-requirement
 title: Home dashboard logs humidity values
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - ux
   - regulatory
-parent: SYS-6YVE5W
-order: 10
+former-id: IF-1XMKJN
+parent: REQ-E8DEB31
+order: a0
 links:
   - type: refines
-    target: SYS-6YVE5W
+    target: REQ-E8DEB31
     confirmed: b6eeeafd6f52
 ---
 The home dashboard shall restore error conditions in under 3 s.

@@ -1,5 +1,5 @@
 ---
-id: DE-ANZKWC
+id: REQ-HKMYK2A
 type: design-element
 title: Module pairing_process_71
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - i18n
   - connectivity
-parent: SW-5AB404
-order: 20
+former-id: DE-ANZKWC
+parent: REQ-KSZF27W
+order: a1
 links:
   - type: implements
-    target: SW-5AB404
+    target: REQ-KSZF27W
     confirmed: a8ba41707fda
 ---
 Implemented in `src/conn/pairing_process.c`.

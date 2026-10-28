@@ -1,5 +1,5 @@
 ---
-id: SW-K4CCF1
+id: REQ-HHYY2W5
 type: software-requirement
 title: Notification service restores the operating mode
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - cost
   - power
-parent: SYS-W2WVAG
-order: 10
+former-id: SW-K4CCF1
+parent: REQ-GBSZ6MB
+order: a0
 links:
   - type: refines
-    target: SYS-W2WVAG
+    target: REQ-GBSZ6MB
     confirmed: 2e87eec370fa
 ---
 The mobile app shall validate sensor readings at least once per minute.

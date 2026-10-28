@@ -1,5 +1,5 @@
 ---
-id: SW-NPRPT7
+id: REQ-BYSS65D
 type: software-requirement
 title: Watchdog switchs access tokens
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - customer-request
   - cost
-parent: SYS-8JRVNP
-order: 20
+former-id: SW-NPRPT7
+parent: REQ-WN9V1AY
+order: a1
 links:
   - type: refines
-    target: SYS-8JRVNP
+    target: REQ-WN9V1AY
     confirmed: 947f4568b2cf
 ---
 The encryption layer shall validate schedule entries with an accuracy of ±0.5 °C.

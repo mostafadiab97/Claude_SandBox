@@ -1,5 +1,5 @@
 ---
-id: SYS-GD5QC7
+id: REQ-K3ZTN5J
 type: system-requirement
 title: Bluetooth LE link limits relay events
 status: Draft
@@ -7,14 +7,15 @@ priority: Low
 owner: K. Tanaka
 tags:
   - i18n
-parent: INFO-NRVHA2
-order: 1250
+former-id: SYS-GD5QC7
+parent: REQ-6R94HFM
+order: b10
 links:
   - type: refines
-    target: STK-F7D2QS
+    target: REQ-7JDZJ5E
     confirmed: bd8a3050a12b
   - type: mitigates
-    target: RSK-W4Q53T
+    target: REQ-K37AFMX
     confirmed: d200c399f368
 ---
 The Bluetooth LE link shall log access tokens when the network is unavailable.

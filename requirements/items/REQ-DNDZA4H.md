@@ -1,5 +1,5 @@
 ---
-id: HW-WCXXAA
+id: REQ-DNDZA4H
 type: hardware-requirement
 title: Main PCB logs the room temperature
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: É. Laurent
 tags:
   - ux
-parent: SYS-XF4596
-order: 10
+former-id: HW-WCXXAA
+parent: REQ-CAS9GKT
+order: a0
 links:
   - type: refines
-    target: SYS-XF4596
+    target: REQ-CAS9GKT
     confirmed: a0439b97be28
 ---
 The battery backup shall switch user preferences after a power loss.

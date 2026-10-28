@@ -1,14 +1,15 @@
 ---
-id: SW-HACSFD
+id: REQ-5NVJ3BE
 type: software-requirement
 title: Regulation loop calibrates safety limits
 status: Draft
 owner: A. Hassan
-parent: SYS-VNH1K0
-order: 10
+former-id: SW-HACSFD
+parent: REQ-58E6B2T
+order: a0
 links:
   - type: refines
-    target: SYS-VNH1K0
+    target: REQ-58E6B2T
     confirmed: ebf4ae33f617
 ---
 The heating controller shall measure the room temperature in under 3 s.

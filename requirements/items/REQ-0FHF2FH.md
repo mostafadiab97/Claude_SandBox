@@ -1,15 +1,16 @@
 ---
-id: SW-9278K9
+id: REQ-0FHF2FH
 type: software-requirement
 title: Rotary knob measures energy consumption
 status: Review
 priority: High
 owner: É. Laurent
-parent: SYS-J06B7Z
-order: 10
+former-id: SW-9278K9
+parent: REQ-J32MDNX
+order: a0
 links:
   - type: refines
-    target: SYS-J06B7Z
+    target: REQ-J32MDNX
     confirmed: 2ddf44dea71d
 ---
 The menu system shall report relay events at least once per minute.

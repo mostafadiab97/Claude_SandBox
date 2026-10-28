@@ -1,5 +1,5 @@
 ---
-id: SW-WHES8A
+id: REQ-4BA671T
 type: software-requirement
 title: Heat pump driver logs error conditions
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - ux
   - i18n
-parent: SYS-3AX1AH
-order: 30
+former-id: SW-WHES8A
+parent: REQ-RHQ93AH
+order: a2
 links:
   - type: refines
-    target: SYS-3AX1AH
+    target: REQ-RHQ93AH
     confirmed: 91599b187618
 ---
 The zone valve shall measure sensor readings in under 3 s.

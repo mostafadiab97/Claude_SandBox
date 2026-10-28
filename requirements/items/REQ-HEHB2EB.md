@@ -1,5 +1,5 @@
 ---
-id: SW-SFC6D4
+id: REQ-HEHB2EB
 type: software-requirement
 title: Encrypt safety limits — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - EMC
   - security
-parent: SW-MAV0K7
-order: 10
+former-id: SW-SFC6D4
+parent: REQ-25RMCNN
+order: a0
 links:
   - type: refines
-    target: SW-MAV0K7
+    target: REQ-25RMCNN
     confirmed: 8ccfd4812467
 ---
 The pairing process shall switch firmware images in all supported languages.

@@ -1,5 +1,5 @@
 ---
-id: SW-27JDT6
+id: REQ-PGCCC9P
 type: software-requirement
 title: Home dashboard restores access tokens
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - release-2.0
   - customer-request
   - safety
-parent: SYS-VJQ42N
-order: 20
+former-id: SW-27JDT6
+parent: REQ-VNQTVEQ
+order: a1
 links:
   - type: refines
-    target: SYS-VJQ42N
+    target: REQ-VNQTVEQ
     confirmed: 46ac6e51abcb
 ---
 The schedule editor shall display audit records within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: DE-GFTYAY
+id: REQ-B0VP1D5
 type: design-element
 title: Module zone_valve_19
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - release-1.0
   - cost
-parent: SW-7XM9Y3
-order: 20
+former-id: DE-GFTYAY
+parent: REQ-MDK0P3H
+order: a1
 links:
   - type: implements
-    target: SW-7XM9Y3
+    target: REQ-MDK0P3H
     confirmed: 948f514ebe9e
 ---
 Implemented in `src/heat/zone_valve.c`.

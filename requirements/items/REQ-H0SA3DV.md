@@ -1,14 +1,15 @@
 ---
-id: HW-Q0QWC1
+id: REQ-H0SA3DV
 type: hardware-requirement
 title: Relay board encrypts relay events
 status: Review
 priority: Medium
-parent: SYS-CJSA65
-order: 10
+former-id: HW-Q0QWC1
+parent: REQ-2DN59YS
+order: a0
 links:
   - type: refines
-    target: SYS-CJSA65
+    target: REQ-2DN59YS
     confirmed: 3bf01e0cf471
 ---
 The relay board shall detect audit records with an accuracy of ±0.5 °C.

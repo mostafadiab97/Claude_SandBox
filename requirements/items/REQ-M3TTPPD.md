@@ -1,5 +1,5 @@
 ---
-id: TC-YXCMKZ
+id: REQ-M3TTPPD
 type: test-case
 title: "Verify: Secure boot logs the connection state"
 status: Draft
@@ -7,14 +7,15 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - accessibility
-parent: INFO-Z4TW4B
-order: 1130
+former-id: TC-YXCMKZ
+parent: REQ-K6FGAY0
+order: b0o
 links:
   - type: verifies
-    target: SYS-W77D8P
+    target: REQ-10ZK2XJ
     confirmed: 939eef8c8900
   - type: verifies
-    target: SW-K76H4S
+    target: REQ-CV7WTVP
     confirmed: eb58fcaf9f95
 ---
 **Objective:** verify that the secure boot behaves as specified.

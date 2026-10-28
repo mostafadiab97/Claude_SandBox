@@ -1,5 +1,5 @@
 ---
-id: IF-VPCX5P
+id: REQ-7TH1XB5
 type: interface-requirement
 title: "Signal 054: the connection state"
 status: Approved
@@ -8,7 +8,8 @@ owner: Y. Saber
 tags:
   - ux
   - cost
-parent: INFO-2TM0JP
-order: 540
+former-id: IF-VPCX5P
+parent: REQ-RJ0KHPT
+order: ar
 ---
 Interface signal number 54.

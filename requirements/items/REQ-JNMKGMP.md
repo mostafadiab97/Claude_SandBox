@@ -1,5 +1,5 @@
 ---
-id: SYS-1F01HM
+id: REQ-JNMKGMP
 type: system-requirement
 title: Encryption layer notifys humidity values
 status: Review
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - connectivity
   - i18n
-parent: INFO-0229G8
-order: 1870
+former-id: SYS-1F01HM
+parent: REQ-H9113WA
+order: b20
 links:
   - type: refines
-    target: STK-1TB226
+    target: REQ-QAY0F49
     confirmed: ea29425b18b7
 ---
 The encryption layer shall notify humidity values in all supported languages.

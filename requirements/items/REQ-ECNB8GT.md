@@ -1,5 +1,5 @@
 ---
-id: SW-WR5B7D
+id: REQ-ECNB8GT
 type: software-requirement
 title: Heat pump driver detects safety limits
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - customer-request
   - EMC
   - regulatory
-parent: SYS-NBT9XG
-order: 20
+former-id: SW-WR5B7D
+parent: REQ-TT6RF80
+order: a1
 links:
   - type: refines
-    target: SYS-NBT9XG
+    target: REQ-TT6RF80
     confirmed: 61b403d3e0a5
 ---
 The heating controller shall detect energy consumption when the network is unavailable.

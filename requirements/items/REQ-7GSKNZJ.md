@@ -1,5 +1,5 @@
 ---
-id: TC-KS53QH
+id: REQ-7GSKNZJ
 type: test-case
 title: "Verify: User account service stores energy consumption"
 status: Approved
@@ -7,11 +7,12 @@ owner: É. Laurent
 tags:
   - power
   - accessibility
-parent: INFO-7P4D8D
-order: 720
+former-id: TC-KS53QH
+parent: REQ-8351896
+order: b09
 links:
   - type: verifies
-    target: SYS-XZE982
+    target: REQ-QW1EM2B
     confirmed: bc880bb42e39
 ---
 **Objective:** verify that the user account service behaves as specified.

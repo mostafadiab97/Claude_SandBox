@@ -1,5 +1,5 @@
 ---
-id: IF-TNFEP7
+id: REQ-PVWZ6VX
 type: interface-requirement
 title: Secure boot validates humidity values
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - safety
   - regulatory
-parent: SYS-GGT06W
-order: 10
+former-id: IF-TNFEP7
+parent: REQ-JGQ66HJ
+order: a0
 links:
   - type: refines
-    target: SYS-GGT06W
+    target: REQ-JGQ66HJ
     confirmed: 8325a5367f53
 ---
 The secure boot shall validate audit records in all supported languages.

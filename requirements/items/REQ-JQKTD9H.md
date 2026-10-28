@@ -1,11 +1,12 @@
 ---
-id: IF-GT8WA1
+id: REQ-JQKTD9H
 type: interface-requirement
 title: "Signal 228: error conditions"
 status: Draft
 priority: Medium
 owner: H. Mostafa
-parent: INFO-2TM0JP
-order: 2280
+former-id: IF-GT8WA1
+parent: REQ-RJ0KHPT
+order: b2f
 ---
 Interface signal number 228.

@@ -1,5 +1,5 @@
 ---
-id: SW-7NJ840
+id: REQ-RZEKB35
 type: software-requirement
 title: Zigbee radio restores the operating mode
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - accessibility
   - i18n
   - power
-parent: SYS-0C344V
-order: 20
+former-id: SW-7NJ840
+parent: REQ-3SWFYVD
+order: a1
 links:
   - type: refines
-    target: SYS-0C344V
+    target: REQ-3SWFYVD
     confirmed: 2edabd3093b3
 ---
 The local API shall notify sensor readings for at least 10 years.

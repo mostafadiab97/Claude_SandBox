@@ -1,5 +1,5 @@
 ---
-id: IF-R5F0DJ
+id: REQ-7AEA2BK
 type: interface-requirement
 title: Cloud backend validates sensor readings
 status: Review
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - EMC
   - power
-parent: SYS-WER09P
-order: 10
+former-id: IF-R5F0DJ
+parent: REQ-48R9ZCK
+order: a0
 links:
   - type: refines
-    target: SYS-WER09P
+    target: REQ-48R9ZCK
     confirmed: e5aed0f95da6
 ---
 The device registry shall report the operating mode in under 3 s.

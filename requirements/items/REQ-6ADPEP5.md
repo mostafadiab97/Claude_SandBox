@@ -1,15 +1,16 @@
 ---
-id: SYS-ZVPM29
+id: REQ-6ADPEP5
 type: system-requirement
 title: Tamper detection restores the set point
 status: Draft
 priority: Medium
 owner: É. Laurent
-parent: INFO-0229G8
-order: 1330
+former-id: SYS-ZVPM29
+parent: REQ-H9113WA
+order: b18
 links:
   - type: refines
-    target: STK-ZJRWCQ
+    target: REQ-9YG77WV
     confirmed: 080168ea99ae
 ---
 The tamper detection shall validate firmware images for up to 8 zones.

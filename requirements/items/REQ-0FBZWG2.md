@@ -1,5 +1,5 @@
 ---
-id: SW-8Y91Q6
+id: REQ-0FBZWG2
 type: software-requirement
 title: Secure boot notifys user preferences
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: L. Samir
 tags:
   - ux
-parent: SYS-B10NCR
-order: 10
+former-id: SW-8Y91Q6
+parent: REQ-FC06TMM
+order: a0
 links:
   - type: refines
-    target: SYS-B10NCR
+    target: REQ-FC06TMM
     confirmed: 9a60e2a0df86
 ---
 The encryption layer shall encrypt access tokens when the network is unavailable.

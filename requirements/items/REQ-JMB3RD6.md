@@ -1,5 +1,5 @@
 ---
-id: SW-WQQ1K9
+id: REQ-JMB3RD6
 type: software-requirement
 title: Report access tokens — detail
 status: Draft
@@ -7,11 +7,12 @@ owner: A. Hassan
 tags:
   - connectivity
   - cost
-parent: SW-QWPBFA
-order: 10
+former-id: SW-WQQ1K9
+parent: REQ-SZS60WR
+order: a0
 links:
   - type: refines
-    target: SW-QWPBFA
+    target: REQ-SZS60WR
     confirmed: 9176e64ec4e9
 ---
 The menu system shall calibrate energy consumption after a power loss.

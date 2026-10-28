@@ -1,15 +1,16 @@
 ---
-id: SW-5YWFJN
+id: REQ-KPFSDWW
 type: software-requirement
 title: Regulation loop logs schedule entries
 status: Review
 priority: Low
 owner: M. Farouk
-parent: SYS-V1TPCM
-order: 10
+former-id: SW-5YWFJN
+parent: REQ-7HPR7GZ
+order: a0
 links:
   - type: refines
-    target: SYS-V1TPCM
+    target: REQ-7HPR7GZ
     confirmed: 66b004f91487
 ---
 The boiler interface shall report humidity values using AES-256-GCM.

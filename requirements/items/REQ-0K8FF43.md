@@ -1,5 +1,5 @@
 ---
-id: SYS-0033FV
+id: REQ-0K8FF43
 type: system-requirement
 title: Main PCB authenticates safety limits
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - i18n
   - release-1.0
-parent: INFO-A6P9A8
-order: 1620
+former-id: SYS-0033FV
+parent: REQ-CMCS31A
+order: b1b
 links:
   - type: refines
-    target: STK-ZWN5M8
+    target: REQ-Z2PYD5A
     confirmed: 994b9d44bde8
 ---
 The main PCB shall limit access tokens in all supported languages.

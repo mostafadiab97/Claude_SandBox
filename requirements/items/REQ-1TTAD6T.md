@@ -1,5 +1,5 @@
 ---
-id: DE-YVKFKB
+id: REQ-1TTAD6T
 type: design-element
 title: Module boiler_interface_91
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: É. Laurent
 tags:
   - ux
-parent: SW-F7P00F
-order: 10
+former-id: DE-YVKFKB
+parent: REQ-G87HVCE
+order: a0
 links:
   - type: implements
-    target: SW-F7P00F
+    target: REQ-G87HVCE
     confirmed: 13678b388756
 ---
 Implemented in `src/heat/boiler_interface.c`.

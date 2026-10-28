@@ -1,5 +1,5 @@
 ---
-id: IF-KTXEJX
+id: REQ-60XD7QP
 type: interface-requirement
 title: "Signal 407: the operating mode"
 status: Draft
@@ -9,7 +9,8 @@ tags:
   - connectivity
   - EMC
   - release-1.0
-parent: INFO-2TM0JP
-order: 4070
+former-id: IF-KTXEJX
+parent: REQ-RJ0KHPT
+order: b5Y
 ---
 Interface signal number 407.

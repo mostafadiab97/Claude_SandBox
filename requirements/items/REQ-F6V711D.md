@@ -1,15 +1,16 @@
 ---
-id: HW-TJN4SA
+id: REQ-F6V711D
 type: hardware-requirement
 title: Enclosure measures sensor readings
 status: Draft
 priority: Medium
 owner: R. Nabil
-parent: SYS-A47H7R
-order: 40
+former-id: HW-TJN4SA
+parent: REQ-CZRWJVP
+order: a3
 links:
   - type: refines
-    target: SYS-A47H7R
+    target: REQ-CZRWJVP
     confirmed: fd7d82b6415e
 ---
 The battery backup shall measure humidity values after a power loss.

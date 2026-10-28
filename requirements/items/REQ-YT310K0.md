@@ -1,5 +1,5 @@
 ---
-id: SYS-ZDTV2N
+id: REQ-YT310K0
 type: system-requirement
 title: Watchdog calibrates the room temperature
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 tags:
   - release-1.0
   - EMC
-parent: INFO-0229G8
-order: 1030
+former-id: SYS-ZDTV2N
+parent: REQ-H9113WA
+order: b0e
 links:
   - type: refines
-    target: STK-XSQC89
+    target: REQ-Y7E2CS3
     confirmed: 66c246d6b1dc
 ---
 The watchdog shall measure humidity values within 200 ms.

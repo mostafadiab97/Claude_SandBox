@@ -1,5 +1,5 @@
 ---
-id: IF-0SK1Y9
+id: REQ-XE91B6H
 type: interface-requirement
 title: Backlight calibrates the set point
 status: Review
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - performance
   - EMC
-parent: SYS-MRW8P6
-order: 20
+former-id: IF-0SK1Y9
+parent: REQ-2JPQ3KZ
+order: a1
 links:
   - type: refines
-    target: SYS-MRW8P6
+    target: REQ-2JPQ3KZ
     confirmed: f8cc2c516026
 ---
 The menu system shall authenticate user preferences in under 3 s.

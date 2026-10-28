@@ -1,5 +1,5 @@
 ---
-id: TC-A4YXXT
+id: REQ-BWYMJGH
 type: test-case
 title: "Verify: Secure boot stores energy consumption"
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - i18n
   - EMC
-parent: INFO-Z4TW4B
-order: 770
+former-id: TC-A4YXXT
+parent: REQ-K6FGAY0
+order: b0E
 links:
   - type: verifies
-    target: SYS-7J9J7C
+    target: REQ-N8MVGME
     confirmed: 0f55b6e6a72b
 ---
 **Objective:** verify that the secure boot behaves as specified.

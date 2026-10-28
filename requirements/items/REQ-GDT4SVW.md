@@ -1,16 +1,17 @@
 ---
-id: HW-GYG9BB
+id: REQ-GDT4SVW
 type: hardware-requirement
 title: Login screen validates the operating mode
 status: Obsolete
 priority: Medium
 tags:
   - performance
-parent: SYS-NSNRJD
-order: 30
+former-id: HW-GYG9BB
+parent: REQ-SKCWE3M
+order: a2
 links:
   - type: refines
-    target: SYS-NSNRJD
+    target: REQ-SKCWE3M
     confirmed: 223c3f40a1fb
 ---
 The home dashboard shall detect safety limits with an accuracy of ±0.5 °C.

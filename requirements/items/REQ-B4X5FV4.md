@@ -1,5 +1,5 @@
 ---
-id: SW-CMCBBX
+id: REQ-B4X5FV4
 type: software-requirement
 title: Boiler interface displays sensor readings
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - i18n
-parent: SYS-KKM3DB
-order: 10
+former-id: SW-CMCBBX
+parent: REQ-P3T4X40
+order: a0
 links:
   - type: refines
-    target: SYS-KKM3DB
+    target: REQ-P3T4X40
     confirmed: cbda6c746ea4
 ---
 The zone valve shall log error conditions when the network is unavailable.

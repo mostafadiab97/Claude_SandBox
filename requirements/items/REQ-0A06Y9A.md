@@ -1,18 +1,19 @@
 ---
-id: TC-11PDTM
+id: REQ-0A06Y9A
 type: test-case
 title: "Verify: Home dashboard logs safety limits"
 status: Approved
 priority: High
 owner: L. Samir
-parent: INFO-J0FETE
-order: 1310
+former-id: TC-11PDTM
+parent: REQ-WR5ZJN9
+order: b16
 links:
   - type: verifies
-    target: SYS-BGBCA1
+    target: REQ-RBWFBZ4
     confirmed: 9336011838ef
   - type: verifies
-    target: SW-YZSBP4
+    target: REQ-HBMS0PS
     confirmed: 77cb9f1654aa
 ---
 **Objective:** verify that the home dashboard behaves as specified.

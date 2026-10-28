@@ -1,5 +1,5 @@
 ---
-id: TC-V3YHTG
+id: REQ-1SF0ATG
 type: test-case
 title: "Verify: Main PCB detects user preferences"
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - i18n
   - EMC
-parent: INFO-MACGC3
-order: 1190
+former-id: TC-V3YHTG
+parent: REQ-F9Z1FYS
+order: b0u
 links:
   - type: verifies
-    target: SYS-YWNG59
+    target: REQ-JS90YG9
     confirmed: 55afb91dbdbd
 ---
 **Objective:** verify that the main PCB behaves as specified.

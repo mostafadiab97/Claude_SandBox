@@ -1,5 +1,5 @@
 ---
-id: TC-BWTS02
+id: REQ-CVC5VWG
 type: test-case
 title: "Verify: Heat pump driver displays the connection state"
 status: Approved
@@ -8,14 +8,15 @@ owner: S. Adel
 tags:
   - release-1.0
   - cost
-parent: INFO-MS9DAG
-order: 1460
+former-id: TC-BWTS02
+parent: REQ-XGWSK2K
+order: b1L
 links:
   - type: verifies
-    target: SYS-D1ZDY9
+    target: REQ-5ARG7AP
     confirmed: 3c95eb652d79
   - type: verifies
-    target: SW-YH3CS4
+    target: REQ-27RKNKQ
     confirmed: a4cbb686541c
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

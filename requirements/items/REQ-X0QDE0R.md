@@ -1,5 +1,5 @@
 ---
-id: IF-81MS9Y
+id: REQ-X0QDE0R
 type: interface-requirement
 title: "Signal 462: safety limits"
 status: Review
@@ -8,7 +8,8 @@ owner: A. Hassan
 tags:
   - release-2.0
   - connectivity
-parent: INFO-2TM0JP
-order: 4620
+former-id: IF-81MS9Y
+parent: REQ-RJ0KHPT
+order: b6R
 ---
 Interface signal number 462.

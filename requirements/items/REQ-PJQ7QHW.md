@@ -1,17 +1,18 @@
 ---
-id: TC-71Q4M2
+id: REQ-PJQ7QHW
 type: test-case
 title: "Verify: Zone valve detects energy consumption"
 status: Obsolete
 owner: Y. Saber
-parent: INFO-MS9DAG
-order: 150
+former-id: TC-71Q4M2
+parent: REQ-XGWSK2K
+order: aE
 links:
   - type: verifies
-    target: SYS-6NZHN4
+    target: REQ-4SSWD4T
     confirmed: 98fdc9e71767
   - type: verifies
-    target: SW-3Z17MT
+    target: REQ-GWHHVB1
     confirmed: 9c00155f291a
 ---
 **Objective:** verify that the zone valve behaves as specified.

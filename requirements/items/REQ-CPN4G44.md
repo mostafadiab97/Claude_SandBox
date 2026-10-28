@@ -1,5 +1,5 @@
 ---
-id: IF-TCAQ5C
+id: REQ-CPN4G44
 type: interface-requirement
 title: Touch display logs the set point
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - power
   - EMC
-parent: SYS-NY5DFZ
-order: 40
+former-id: IF-TCAQ5C
+parent: REQ-7PZT8S2
+order: a3
 links:
   - type: refines
-    target: SYS-NY5DFZ
+    target: REQ-7PZT8S2
     confirmed: aa8559f49f1f
 ---
 The rotary knob shall switch the set point in under 3 s.

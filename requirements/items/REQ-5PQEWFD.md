@@ -1,15 +1,16 @@
 ---
-id: DE-Y05SZP
+id: REQ-5PQEWFD
 type: design-element
 title: Module status_LED_55
 status: Approved
 priority: Low
 owner: H. Mostafa
-parent: SW-KH465J
-order: 10
+former-id: DE-Y05SZP
+parent: REQ-X796ENE
+order: a0
 links:
   - type: implements
-    target: SW-KH465J
+    target: REQ-X796ENE
     confirmed: 55fde82329df
 ---
 Implemented in `src/ui/status_LED.c`.

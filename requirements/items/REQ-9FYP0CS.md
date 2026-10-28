@@ -1,5 +1,5 @@
 ---
-id: HW-QTHD52
+id: REQ-9FYP0CS
 type: hardware-requirement
 title: Relay board restores energy consumption
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - release-2.0
   - EMC
-parent: SYS-3V07ZT
-order: 30
+former-id: HW-QTHD52
+parent: REQ-FM6JB6Z
+order: a2
 links:
   - type: refines
-    target: SYS-3V07ZT
+    target: REQ-FM6JB6Z
     confirmed: bd35bc218b6c
 ---
 The relay board shall authenticate the operating mode for at least 10 years.

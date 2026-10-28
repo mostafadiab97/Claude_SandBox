@@ -1,5 +1,5 @@
 ---
-id: IF-3KZ2R7
+id: REQ-EFZ6Q6X
 type: interface-requirement
 title: User account service reports error conditions
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - EMC
   - accessibility
   - cost
-parent: SYS-NX7FXR
-order: 20
+former-id: IF-3KZ2R7
+parent: REQ-4YTJR6Z
+order: a1
 links:
   - type: refines
-    target: SYS-NX7FXR
+    target: REQ-4YTJR6Z
     confirmed: 409a2a77cfee
 ---
 The user account service shall calibrate the connection state below 0.5 W in standby.

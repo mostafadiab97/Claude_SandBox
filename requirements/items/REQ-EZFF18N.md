@@ -1,15 +1,16 @@
 ---
-id: TC-V7R5HX
+id: REQ-EZFF18N
 type: test-case
 title: "Verify: Device registry validates the room temperature"
 status: Draft
 priority: Medium
 owner: N. Kamal
-parent: INFO-7P4D8D
-order: 700
+former-id: TC-V7R5HX
+parent: REQ-8351896
+order: b07
 links:
   - type: verifies
-    target: SYS-2DFH04
+    target: REQ-H2YF6W3
     confirmed: 051320b022ae
 ---
 **Objective:** verify that the device registry behaves as specified.

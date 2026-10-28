@@ -1,5 +1,5 @@
 ---
-id: SW-EG7512
+id: REQ-GRW4G0R
 type: software-requirement
 title: Home dashboard switchs user preferences
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - EMC
   - customer-request
-parent: SYS-725VG3
-order: 30
+former-id: SW-EG7512
+parent: REQ-YK0P2R9
+order: a2
 links:
   - type: refines
-    target: SYS-725VG3
+    target: REQ-YK0P2R9
     confirmed: 73444b104e6b
 ---
 The notification service shall display the operating mode after a power loss.

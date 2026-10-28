@@ -1,5 +1,5 @@
 ---
-id: IF-G04MB2
+id: REQ-Y5R3JVA
 type: interface-requirement
 title: "Signal 616: energy consumption"
 status: Draft
@@ -7,7 +7,8 @@ owner: S. Adel
 tags:
   - accessibility
   - i18n
-parent: INFO-2TM0JP
-order: 6160
+former-id: IF-G04MB2
+parent: REQ-RJ0KHPT
+order: b8v
 ---
 Interface signal number 616.

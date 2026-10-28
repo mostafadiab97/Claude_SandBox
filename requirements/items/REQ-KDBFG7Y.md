@@ -1,5 +1,5 @@
 ---
-id: SYS-G1WQ30
+id: REQ-KDBFG7Y
 type: system-requirement
 title: Menu system stores the room temperature
 status: Obsolete
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - connectivity
   - accessibility
-parent: INFO-PDR6FV
-order: 2020
+former-id: SYS-G1WQ30
+parent: REQ-2ZA2TRZ
+order: b2F
 links:
   - type: refines
-    target: STK-8PN4VS
+    target: REQ-WQB5JT6
     confirmed: a3e83ac40678
 ---
 The menu system shall limit firmware images at least once per minute.

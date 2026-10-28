@@ -1,15 +1,16 @@
 ---
-id: SW-PPPS5W
+id: REQ-2HJJYC6
 type: software-requirement
 title: Login screen calibrates energy consumption
 status: Draft
 priority: High
 owner: É. Laurent
-parent: SYS-1XCVNB
-order: 20
+former-id: SW-PPPS5W
+parent: REQ-43JY6PF
+order: a1
 links:
   - type: refines
-    target: SYS-1XCVNB
+    target: REQ-43JY6PF
     confirmed: 54d963c03420
 ---
 The mobile app shall validate humidity values at least once per minute.

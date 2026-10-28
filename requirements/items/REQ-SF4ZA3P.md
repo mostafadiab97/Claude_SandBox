@@ -1,15 +1,16 @@
 ---
-id: DE-2R7X2W
+id: REQ-SF4ZA3P
 type: design-element
 title: Module tamper_detection_96
 status: Approved
 priority: Medium
 owner: É. Laurent
-parent: SW-0C148Q
-order: 10
+former-id: DE-2R7X2W
+parent: REQ-4BK3FWC
+order: a0
 links:
   - type: implements
-    target: SW-0C148Q
+    target: REQ-4BK3FWC
     confirmed: ed2ecc850d0d
 ---
 Implemented in `src/safe/tamper_detection.c`.

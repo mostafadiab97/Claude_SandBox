@@ -1,5 +1,5 @@
 ---
-id: SW-0GR1P0
+id: REQ-KAAK7YR
 type: software-requirement
 title: Zigbee radio measures the room temperature
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - security
-parent: SYS-TRKV8X
-order: 40
+former-id: SW-0GR1P0
+parent: REQ-NRK05CG
+order: a3
 links:
   - type: refines
-    target: SYS-TRKV8X
+    target: REQ-NRK05CG
     confirmed: 598d6ef77c60
 ---
 The Wi-Fi module shall report energy consumption when the network is unavailable.

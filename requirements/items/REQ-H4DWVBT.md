@@ -1,5 +1,5 @@
 ---
-id: HW-P9S47B
+id: REQ-H4DWVBT
 type: hardware-requirement
 title: User account service detects sensor readings
 status: Draft
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - release-1.0
   - accessibility
-parent: SYS-2NQ3E8
-order: 30
+former-id: HW-P9S47B
+parent: REQ-9FZHANA
+order: a2
 links:
   - type: refines
-    target: SYS-2NQ3E8
+    target: REQ-9FZHANA
     confirmed: 08cad2a24d2f
 ---
 The OTA server shall limit the set point at least once per minute.

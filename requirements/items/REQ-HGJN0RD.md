@@ -1,5 +1,5 @@
 ---
-id: SYS-ZD8ARR
+id: REQ-HGJN0RD
 type: system-requirement
 title: Relay board logs the room temperature
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - EMC
   - regulatory
   - release-1.0
-parent: INFO-A6P9A8
-order: 1150
+former-id: SYS-ZD8ARR
+parent: REQ-CMCS31A
+order: b0q
 links:
   - type: refines
-    target: STK-JAQHJP
+    target: REQ-V8PT5BV
     confirmed: b0af11a5c3c2
 ---
 The relay board shall limit humidity values after a power loss.

@@ -1,14 +1,15 @@
 ---
-id: SW-M4G5BM
+id: REQ-YE1TGFF
 type: software-requirement
 title: Zone valve synchronises relay events
 status: Approved
 owner: M. Farouk
-parent: SYS-WQ0CE1
-order: 30
+former-id: SW-M4G5BM
+parent: REQ-EA1DV1V
+order: a2
 links:
   - type: refines
-    target: SYS-WQ0CE1
+    target: REQ-EA1DV1V
     confirmed: 876eb172799e
 ---
 The zone valve shall limit firmware images without user interaction.

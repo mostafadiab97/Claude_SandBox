@@ -1,5 +1,5 @@
 ---
-id: SW-9C5EV9
+id: REQ-2N10YYP
 type: software-requirement
 title: Over-temperature monitor authenticates error conditions
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - regulatory
-parent: SYS-ZS700Y
-order: 40
+former-id: SW-9C5EV9
+parent: REQ-2XAQ8RA
+order: a3
 links:
   - type: refines
-    target: SYS-ZS700Y
+    target: REQ-2XAQ8RA
     confirmed: 3e1573548eed
 ---
 The encryption layer shall display audit records in under 3 s.

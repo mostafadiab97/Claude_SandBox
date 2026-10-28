@@ -1,5 +1,5 @@
 ---
-id: SYS-0MK9ZW
+id: REQ-YW090BX
 type: system-requirement
 title: Home dashboard restores user preferences
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - safety
   - power
   - ux
-parent: INFO-2XXBRS
-order: 1530
+former-id: SYS-0MK9ZW
+parent: REQ-QYXGSQ4
+order: b1S
 links:
   - type: refines
-    target: STK-MC9ASH
+    target: REQ-7NDC8E1
     confirmed: a4f2ebaecfbe
   - type: mitigates
-    target: RSK-0CZX1J
+    target: REQ-KTJ9C3X
     confirmed: 9a18d4435be9
 ---
 The home dashboard shall notify firmware images for at least 10 years.

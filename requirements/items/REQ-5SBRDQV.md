@@ -1,5 +1,5 @@
 ---
-id: HW-DF6CJF
+id: REQ-5SBRDQV
 type: hardware-requirement
 title: Enclosure limits the operating mode
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: L. Samir
 tags:
   - power
-parent: SYS-7NG4EK
-order: 30
+former-id: HW-DF6CJF
+parent: REQ-E29MYCT
+order: a2
 links:
   - type: refines
-    target: SYS-7NG4EK
+    target: REQ-E29MYCT
     confirmed: 9b2c415b0097
 ---
 The main PCB shall synchronise error conditions for at least 10 years.

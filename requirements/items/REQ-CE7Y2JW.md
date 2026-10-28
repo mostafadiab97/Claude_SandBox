@@ -1,5 +1,5 @@
 ---
-id: DE-YH1S3E
+id: REQ-CE7Y2JW
 type: design-element
 title: Module Zigbee_radio_27
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - security
   - EMC
   - release-2.0
-parent: SW-VZBJ86
-order: 10
+former-id: DE-YH1S3E
+parent: REQ-57ZH5SH
+order: a0
 links:
   - type: implements
-    target: SW-VZBJ86
+    target: REQ-57ZH5SH
     confirmed: 0ca132a1cacb
 ---
 Implemented in `src/conn/Zigbee_radio.c`.

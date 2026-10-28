@@ -1,5 +1,5 @@
 ---
-id: IF-S6EV1S
+id: REQ-CN2XECY
 type: interface-requirement
 title: Main PCB reports firmware images
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - security
   - accessibility
   - customer-request
-parent: SYS-0033FV
-order: 10
+former-id: IF-S6EV1S
+parent: REQ-0K8FF43
+order: a0
 links:
   - type: refines
-    target: SYS-0033FV
+    target: REQ-0K8FF43
     confirmed: c4f0539f5269
 ---
 The main PCB shall store the room temperature when the network is unavailable.

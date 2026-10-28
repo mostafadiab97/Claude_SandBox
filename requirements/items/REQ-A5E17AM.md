@@ -1,15 +1,16 @@
 ---
-id: SYS-324HGW
+id: REQ-A5E17AM
 type: system-requirement
 title: Battery backup calibrates humidity values
 status: Approved
 priority: High
 owner: É. Laurent
-parent: INFO-A6P9A8
-order: 620
+former-id: SYS-324HGW
+parent: REQ-CMCS31A
+order: az
 links:
   - type: refines
-    target: STK-2STGXE
+    target: REQ-67MQ0AB
     confirmed: c77fe61daf4b
 ---
 The battery backup shall synchronise safety limits within 200 ms.

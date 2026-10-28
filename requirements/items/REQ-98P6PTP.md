@@ -1,5 +1,5 @@
 ---
-id: HW-C31RWC
+id: REQ-98P6PTP
 type: hardware-requirement
 title: Main PCB detects the operating mode
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - ux
   - accessibility
-parent: SYS-2JYQS6
-order: 10
+former-id: HW-C31RWC
+parent: REQ-ZD15HFR
+order: a0
 links:
   - type: refines
-    target: SYS-2JYQS6
+    target: REQ-ZD15HFR
     confirmed: ecfbe5ff7471
 ---
 The battery backup shall display the operating mode when the network is unavailable.

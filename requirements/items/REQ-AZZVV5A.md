@@ -1,15 +1,16 @@
 ---
-id: DE-C1Z6KR
+id: REQ-AZZVV5A
 type: design-element
 title: Module tamper_detection_93
 status: Approved
 priority: Medium
 owner: L. Samir
-parent: SW-8WT1MT
-order: 10
+former-id: DE-C1Z6KR
+parent: REQ-DS9FFW5
+order: a0
 links:
   - type: implements
-    target: SW-8WT1MT
+    target: REQ-DS9FFW5
     confirmed: 54206fad4e31
 ---
 Implemented in `src/safe/tamper_detection.c`.

@@ -1,5 +1,5 @@
 ---
-id: TC-AVHAHM
+id: REQ-BXMTDNK
 type: test-case
 title: "Verify: Local API detects user preferences"
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - customer-request
   - i18n
   - EMC
-parent: INFO-F0M7VC
-order: 50
+former-id: TC-AVHAHM
+parent: REQ-67RQXCK
+order: a4
 links:
   - type: verifies
-    target: SYS-BJEV5G
+    target: REQ-1R6WJ3D
     confirmed: c5698f4c4723
   - type: verifies
-    target: SW-NMX28D
+    target: REQ-1CNKV6N
     confirmed: a642f03452f5
 ---
 **Objective:** verify that the local API behaves as specified.

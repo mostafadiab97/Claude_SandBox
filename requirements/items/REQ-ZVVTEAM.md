@@ -1,14 +1,15 @@
 ---
-id: IF-KJYRKK
+id: REQ-ZVVTEAM
 type: interface-requirement
 title: Device registry encrypts firmware images
 status: Approved
 owner: A. Hassan
-parent: SYS-E5040S
-order: 10
+former-id: IF-KJYRKK
+parent: REQ-WDV077E
+order: a0
 links:
   - type: refines
-    target: SYS-E5040S
+    target: REQ-WDV077E
     confirmed: fe7113d52fd1
 ---
 The cloud backend shall restore user preferences when the network is unavailable.

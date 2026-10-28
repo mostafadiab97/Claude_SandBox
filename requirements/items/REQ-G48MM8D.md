@@ -1,5 +1,5 @@
 ---
-id: DE-E1PW9C
+id: REQ-G48MM8D
 type: design-element
 title: Module device_registry_58
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - accessibility
   - release-1.0
-parent: SW-T99SWS
-order: 10
+former-id: DE-E1PW9C
+parent: REQ-APDWKB8
+order: a0
 links:
   - type: implements
-    target: SW-T99SWS
+    target: REQ-APDWKB8
     confirmed: 2319eaf6ac83
 ---
 Implemented in `src/cloud/device_registry.c`.

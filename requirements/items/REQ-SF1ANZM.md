@@ -1,5 +1,5 @@
 ---
-id: HW-RM556H
+id: REQ-SF1ANZM
 type: hardware-requirement
 title: Report audit records — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - cost
   - release-1.0
-parent: HW-EE1JC5
-order: 10
+former-id: HW-RM556H
+parent: REQ-15BVBWN
+order: a0
 links:
   - type: refines
-    target: HW-EE1JC5
+    target: REQ-15BVBWN
     confirmed: 86211a854f96
 ---
 The status LED shall calibrate the connection state with an accuracy of ±0.5 °C.

@@ -1,15 +1,16 @@
 ---
-id: SW-24C4KQ
+id: REQ-HS846MB
 type: software-requirement
 title: Rotary knob authenticates sensor readings
 status: Draft
 priority: High
 owner: Y. Saber
-parent: SYS-PEWC57
-order: 10
+former-id: SW-24C4KQ
+parent: REQ-53V3RRZ
+order: a0
 links:
   - type: refines
-    target: SYS-PEWC57
+    target: REQ-53V3RRZ
     confirmed: f5d264e731c2
 ---
 The status LED shall store the operating mode when the network is unavailable.

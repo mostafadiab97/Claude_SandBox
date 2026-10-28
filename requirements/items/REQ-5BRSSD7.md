@@ -1,15 +1,16 @@
 ---
-id: SYS-1WQ7QG
+id: REQ-5BRSSD7
 type: system-requirement
 title: User account service displays error conditions
 status: Review
 priority: Medium
 owner: J. Müller
-parent: INFO-YV5EZD
-order: 510
+former-id: SYS-1WQ7QG
+parent: REQ-RE9ZKHF
+order: ao
 links:
   - type: refines
-    target: STK-VT1KVD
+    target: REQ-36Y9ND0
     confirmed: fbcfb8475f32
 ---
 The user account service shall synchronise safety limits in all supported languages.

@@ -1,5 +1,5 @@
 ---
-id: HW-HPT0RH
+id: REQ-VZ0KZ1G
 type: hardware-requirement
 title: Cloud backend authenticates the operating mode
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: N. Kamal
 tags:
   - i18n
-parent: SYS-59MM6H
-order: 20
+former-id: HW-HPT0RH
+parent: REQ-D6CAXH8
+order: a1
 links:
   - type: refines
-    target: SYS-59MM6H
+    target: REQ-D6CAXH8
     confirmed: 45d68bfca0bb
 ---
 The OTA server shall synchronise user preferences below 0.5 W in standby.

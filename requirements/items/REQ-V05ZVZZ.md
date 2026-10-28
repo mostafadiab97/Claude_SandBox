@@ -1,5 +1,5 @@
 ---
-id: DE-F3RZMT
+id: REQ-V05ZVZZ
 type: design-element
 title: Module home_dashboard_27
 status: Draft
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - cost
   - accessibility
-parent: SW-EGCZEM
-order: 10
+former-id: DE-F3RZMT
+parent: REQ-KN3K2B4
+order: a0
 links:
   - type: implements
-    target: SW-EGCZEM
+    target: REQ-KN3K2B4
     confirmed: c3b84376e908
 ---
 Implemented in `src/app/home_dashboard.c`.

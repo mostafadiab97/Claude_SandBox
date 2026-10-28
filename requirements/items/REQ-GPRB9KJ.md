@@ -1,5 +1,5 @@
 ---
-id: HW-1EGDCA
+id: REQ-GPRB9KJ
 type: hardware-requirement
 title: Zigbee radio measures firmware images
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - i18n
   - security
-parent: SYS-GD5QC7
-order: 10
+former-id: HW-1EGDCA
+parent: REQ-K3ZTN5J
+order: a0
 links:
   - type: refines
-    target: SYS-GD5QC7
+    target: REQ-K3ZTN5J
     confirmed: ec1a86cc2ebb
 ---
 The Bluetooth LE link shall notify audit records when the network is unavailable.

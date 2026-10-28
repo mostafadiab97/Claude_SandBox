@@ -1,5 +1,5 @@
 ---
-id: TC-ZT703M
+id: REQ-VPFYBX2
 type: test-case
 title: "Regression: Notification service stores access tokens"
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: Y. Saber
 tags:
   - EMC
-parent: INFO-ECHASH
-order: 630
+former-id: TC-ZT703M
+parent: REQ-6H15AV2
+order: b00
 links:
   - type: verifies
-    target: SYS-BS5G2C
+    target: REQ-BHV7AVF
     confirmed: 19954ae1e0af
 ---
 **Objective:** verify that the device behaves as specified.

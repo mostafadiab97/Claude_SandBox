@@ -1,5 +1,5 @@
 ---
-id: TC-AF5Q4Q
+id: REQ-T322VRX
 type: test-case
 title: "Verify: Tamper detection displays error conditions"
 status: Review
@@ -8,14 +8,15 @@ owner: N. Kamal
 tags:
   - EMC
   - cost
-parent: INFO-Z4TW4B
-order: 350
+former-id: TC-AF5Q4Q
+parent: REQ-K6FGAY0
+order: aY
 links:
   - type: verifies
-    target: SYS-F7SWPF
+    target: REQ-7W5PV59
     confirmed: 89bbd5dd030b
   - type: verifies
-    target: SW-SKZG0A
+    target: REQ-BKVNXAX
     confirmed: ea742fa40ce3
 ---
 **Objective:** verify that the tamper detection behaves as specified.

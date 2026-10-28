@@ -1,5 +1,5 @@
 ---
-id: HW-36413F
+id: REQ-V7JE4ZG
 type: hardware-requirement
 title: Relay board reports the operating mode
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: M. Farouk
 tags:
   - release-1.0
-parent: SYS-467EA2
-order: 10
+former-id: HW-36413F
+parent: REQ-SXVZTB3
+order: a0
 links:
   - type: refines
-    target: SYS-467EA2
+    target: REQ-SXVZTB3
     confirmed: 60a80a1c9e4e
 ---
 The power supply shall authenticate the set point for at least 10 years.

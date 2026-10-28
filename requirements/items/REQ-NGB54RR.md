@@ -1,5 +1,5 @@
 ---
-id: SYS-F0WQVQ
+id: REQ-NGB54RR
 type: system-requirement
 title: Pairing process stores audit records
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - customer-request
   - connectivity
   - regulatory
-parent: INFO-NRVHA2
-order: 1570
+former-id: SYS-F0WQVQ
+parent: REQ-6R94HFM
+order: b1W
 links:
   - type: refines
-    target: STK-71VSKB
+    target: REQ-8TVXMWR
     confirmed: 994ecb1eff6f
 ---
 The pairing process shall authenticate user preferences in all supported languages.

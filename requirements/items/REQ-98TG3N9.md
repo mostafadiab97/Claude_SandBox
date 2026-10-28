@@ -1,5 +1,5 @@
 ---
-id: HW-N24S38
+id: REQ-98TG3N9
 type: hardware-requirement
 title: Relay board logs the operating mode
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - cost
-parent: SYS-47FSG3
-order: 10
+former-id: HW-N24S38
+parent: REQ-M1D0D2X
+order: a0
 links:
   - type: refines
-    target: SYS-47FSG3
+    target: REQ-M1D0D2X
     confirmed: 50f3571b1236
 ---
 The relay board shall store the room temperature in under 3 s.

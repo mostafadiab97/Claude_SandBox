@@ -1,5 +1,5 @@
 ---
-id: SYS-Y0VFQW
+id: REQ-WMGY1VS
 type: system-requirement
 title: Heating controller notifys access tokens
 status: Draft
@@ -8,14 +8,15 @@ owner: A. Hassan
 tags:
   - release-2.0
   - i18n
-parent: INFO-6DQTKV
-order: 40
+former-id: SYS-Y0VFQW
+parent: REQ-7ED7ZET
+order: a3
 links:
   - type: refines
-    target: STK-8W3602
+    target: REQ-Q1KNR7Q
     confirmed: 25b39ad8cae7
   - type: mitigates
-    target: RSK-G8ARKV
+    target: REQ-N90PXTW
     confirmed: dd1f8627cbb6
 ---
 The heating controller shall notify relay events within 200 ms.

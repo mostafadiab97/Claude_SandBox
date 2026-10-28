@@ -1,5 +1,5 @@
 ---
-id: SW-NFP3W5
+id: REQ-J0KAVKC
 type: software-requirement
 title: Restore energy consumption — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - EMC
   - release-2.0
   - i18n
-parent: SW-SYVSE6
-order: 10
+former-id: SW-NFP3W5
+parent: REQ-SPJY3H0
+order: a0
 links:
   - type: refines
-    target: SW-SYVSE6
+    target: REQ-SPJY3H0
     confirmed: 66a084570cb6
 ---
 The tamper detection shall detect energy consumption using AES-256-GCM.

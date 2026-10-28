@@ -1,5 +1,5 @@
 ---
-id: SW-NWYJVC
+id: REQ-35XV6M2
 type: software-requirement
 title: Display safety limits — detail
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - cost
   - release-1.0
   - release-2.0
-parent: SW-E3KVB3
-order: 10
+former-id: SW-NWYJVC
+parent: REQ-R3PBA6B
+order: a0
 links:
   - type: refines
-    target: SW-E3KVB3
+    target: REQ-R3PBA6B
     confirmed: e1114f8fa16b
 ---
 The status LED shall validate firmware images at least once per minute.

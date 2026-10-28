@@ -1,18 +1,19 @@
 ---
-id: TC-RMTT52
+id: REQ-5PNNKA4
 type: test-case
 title: "Verify: Menu system measures safety limits"
 status: Approved
 priority: Medium
 owner: J. Müller
-parent: INFO-HTSZ15
-order: 1030
+former-id: TC-RMTT52
+parent: REQ-Y9VHHKA
+order: b0e
 links:
   - type: verifies
-    target: SYS-TPWEFS
+    target: REQ-RCFJ9CQ
     confirmed: dcd525a7f6f5
   - type: verifies
-    target: SW-J6CQWH
+    target: REQ-HZHKJW5
     confirmed: 265a041c5665
 ---
 **Objective:** verify that the menu system behaves as specified.

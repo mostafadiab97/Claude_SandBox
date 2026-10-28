@@ -1,5 +1,5 @@
 ---
-id: HW-D23CVJ
+id: REQ-8EQSR38
 type: hardware-requirement
 title: Enclosure detects user preferences
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - performance
   - power
-parent: SYS-NYS190
-order: 20
+former-id: HW-D23CVJ
+parent: REQ-2X5QBYE
+order: a1
 links:
   - type: refines
-    target: SYS-NYS190
+    target: REQ-2X5QBYE
     confirmed: ed22064137e9
 ---
 The main PCB shall display the room temperature below 0.5 W in standby.

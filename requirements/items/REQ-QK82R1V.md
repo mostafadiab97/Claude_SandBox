@@ -1,5 +1,5 @@
 ---
-id: IF-CW8GK5
+id: REQ-QK82R1V
 type: interface-requirement
 title: Watchdog logs the operating mode
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - release-1.0
   - performance
-parent: SYS-9GHKM6
-order: 20
+former-id: IF-CW8GK5
+parent: REQ-17NBDW7
+order: a1
 links:
   - type: refines
-    target: SYS-9GHKM6
+    target: REQ-17NBDW7
     confirmed: ab9f96efc9a0
 ---
 The watchdog shall encrypt energy consumption at least once per minute.

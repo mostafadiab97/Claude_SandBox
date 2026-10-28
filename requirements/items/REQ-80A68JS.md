@@ -1,5 +1,5 @@
 ---
-id: DE-JY07MX
+id: REQ-80A68JS
 type: design-element
 title: Module schedule_editor_89
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - safety
   - EMC
-parent: SW-DWKGYH
-order: 10
+former-id: DE-JY07MX
+parent: REQ-QKEC0QE
+order: a0
 links:
   - type: implements
-    target: SW-DWKGYH
+    target: REQ-QKEC0QE
     confirmed: 0dcb4ff55039
 ---
 Implemented in `src/app/schedule_editor.c`.

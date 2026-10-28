@@ -1,15 +1,16 @@
 ---
-id: SW-NG0FN4
+id: REQ-7MBB9WM
 type: software-requirement
 title: Encryption layer reports access tokens
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: SYS-5BZJ6Y
-order: 10
+former-id: SW-NG0FN4
+parent: REQ-S2CYXSP
+order: a0
 links:
   - type: refines
-    target: SYS-5BZJ6Y
+    target: REQ-S2CYXSP
     confirmed: 4f8713624f57
 ---
 The over-temperature monitor shall measure access tokens after a power loss.

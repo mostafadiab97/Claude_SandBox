@@ -1,5 +1,5 @@
 ---
-id: HW-VGYREB
+id: REQ-FYBJW4D
 type: hardware-requirement
 title: Bluetooth LE link detects access tokens
 status: Review
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - accessibility
   - EMC
-parent: SYS-EJ6VGS
-order: 30
+former-id: HW-VGYREB
+parent: REQ-PSTERQ0
+order: a2
 links:
   - type: refines
-    target: SYS-EJ6VGS
+    target: REQ-PSTERQ0
     confirmed: 72a1d0da5245
 ---
 The local API shall restore humidity values for up to 8 zones.

@@ -1,5 +1,5 @@
 ---
-id: SYS-WY2MGE
+id: REQ-GF42JSW
 type: system-requirement
 title: Status LED authenticates sensor readings
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - power
   - release-1.0
-parent: INFO-PDR6FV
-order: 1260
+former-id: SYS-WY2MGE
+parent: REQ-2ZA2TRZ
+order: b11
 links:
   - type: refines
-    target: STK-KPV71Q
+    target: REQ-VQBZQVC
     confirmed: 10d9c216aea2
 ---
 The status LED shall report audit records at least once per minute.

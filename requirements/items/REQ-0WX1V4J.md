@@ -1,5 +1,5 @@
 ---
-id: HW-4ABH3S
+id: REQ-0WX1V4J
 type: hardware-requirement
 title: Device registry switchs firmware images
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - regulatory
   - power
   - performance
-parent: SYS-S5AVVB
-order: 30
+former-id: HW-4ABH3S
+parent: REQ-XTW7B1R
+order: a2
 links:
   - type: refines
-    target: SYS-S5AVVB
+    target: REQ-XTW7B1R
     confirmed: 21ef3d7af8e5
 ---
 The user account service shall encrypt access tokens for up to 8 zones.

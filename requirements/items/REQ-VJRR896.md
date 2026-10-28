@@ -1,15 +1,16 @@
 ---
-id: SW-MPW2CB
+id: REQ-VJRR896
 type: software-requirement
 title: Boiler interface switchs humidity values
 status: Approved
 priority: High
 owner: K. Tanaka
-parent: SYS-TC4ZEM
-order: 10
+former-id: SW-MPW2CB
+parent: REQ-PYT0J5S
+order: a0
 links:
   - type: refines
-    target: SYS-TC4ZEM
+    target: REQ-PYT0J5S
     confirmed: 36689a624b77
 ---
 The zone valve shall validate access tokens with an accuracy of ±0.5 °C.

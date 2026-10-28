@@ -1,15 +1,16 @@
 ---
-id: SW-CGTE1T
+id: REQ-3JAP38Y
 type: software-requirement
 title: Status LED validates sensor readings
 status: Approved
 priority: High
 owner: N. Kamal
-parent: SYS-017PAV
-order: 30
+former-id: SW-CGTE1T
+parent: REQ-2EXPE7A
+order: a2
 links:
   - type: refines
-    target: SYS-017PAV
+    target: REQ-2EXPE7A
     confirmed: 4d92fcc680f5
 ---
 The touch display shall log firmware images for at least 10 years.

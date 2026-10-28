@@ -1,5 +1,5 @@
 ---
-id: IF-AEH0N2
+id: REQ-DHHNTDN
 type: interface-requirement
 title: "Signal 069: firmware images"
 status: Approved
@@ -8,7 +8,8 @@ owner: L. Samir
 tags:
   - release-1.0
   - power
-parent: INFO-2TM0JP
-order: 690
+former-id: IF-AEH0N2
+parent: REQ-RJ0KHPT
+order: b06
 ---
 Interface signal number 69.

@@ -1,19 +1,20 @@
 ---
-id: DEF-FBAY66
+id: REQ-7VP1FWK
 type: defect
 title: "Defect: backlight does not calibrate safety limits"
 status: Approved
 tags:
   - security
   - power
-parent: INFO-7HY7F9
-order: 80
+former-id: DEF-FBAY66
+parent: REQ-HFYH0KW
+order: a7
 links:
   - type: relates-to
-    target: TC-GX7NG7
+    target: REQ-0NP6CKZ
     confirmed: 1f75e64a55a1
   - type: relates-to
-    target: SYS-JWK81Y
+    target: REQ-2QACV9V
     confirmed: 8656508483c4
 ---
 Found during regression testing of build 2.5.11.

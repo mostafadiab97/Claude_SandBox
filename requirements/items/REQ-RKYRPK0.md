@@ -1,15 +1,16 @@
 ---
-id: SW-VZYP6Z
+id: REQ-RKYRPK0
 type: software-requirement
 title: Encryption layer restores safety limits
 status: Obsolete
 priority: High
 owner: N. Kamal
-parent: SYS-TMA5SV
-order: 20
+former-id: SW-VZYP6Z
+parent: REQ-N3FW0BX
+order: a1
 links:
   - type: refines
-    target: SYS-TMA5SV
+    target: REQ-N3FW0BX
     confirmed: dbbdc041687a
 ---
 The over-temperature monitor shall authenticate the set point at least once per minute.

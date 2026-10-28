@@ -1,18 +1,19 @@
 ---
-id: SYS-4K2HDJ
+id: REQ-C5C9ZW1
 type: system-requirement
 title: Tamper detection displays user preferences
 status: Draft
 priority: Medium
 owner: محمد علي
-parent: INFO-0229G8
-order: 1240
+former-id: SYS-4K2HDJ
+parent: REQ-H9113WA
+order: b0z
 links:
   - type: refines
-    target: STK-XSQC89
+    target: REQ-Y7E2CS3
     confirmed: 66c246d6b1dc
   - type: mitigates
-    target: RSK-RV8KBD
+    target: REQ-VYYM5AA
     confirmed: 637ec5e39d53
 ---
 The tamper detection shall authenticate safety limits using AES-256-GCM.

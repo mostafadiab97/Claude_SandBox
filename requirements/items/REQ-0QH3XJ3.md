@@ -1,5 +1,5 @@
 ---
-id: RSK-8PEBF8
+id: REQ-0QH3XJ3
 type: risk
 title: "Risk: telemetry pipeline fails to restore the connection state"
 status: Review
@@ -8,8 +8,9 @@ tags:
   - customer-request
   - performance
   - connectivity
-parent: INFO-5BPX0K
-order: 40
+former-id: RSK-8PEBF8
+parent: REQ-RSBFCPW
+order: a3
 ---
 **Hazard:** the telemetry pipeline could fail to switch safety limits.
 

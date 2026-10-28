@@ -1,15 +1,16 @@
 ---
-id: HW-MFE86J
+id: REQ-TVDAT96
 type: hardware-requirement
 title: Main PCB restores the set point
 status: Draft
 priority: High
 owner: N. Kamal
-parent: SYS-R6T7X1
-order: 20
+former-id: HW-MFE86J
+parent: REQ-29AAAGW
+order: a1
 links:
   - type: refines
-    target: SYS-R6T7X1
+    target: REQ-29AAAGW
     confirmed: 03767e5db5f8
 ---
 The battery backup shall report safety limits in all supported languages.

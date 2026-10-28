@@ -1,15 +1,16 @@
 ---
-id: SW-AYY6EY
+id: REQ-G1J1HGM
 type: software-requirement
 title: Detect access tokens — detail
 status: Approved
 priority: Medium
 owner: H. Mostafa
-parent: SW-PX1ABP
-order: 10
+former-id: SW-AYY6EY
+parent: REQ-SPYABV3
+order: a0
 links:
   - type: refines
-    target: SW-PX1ABP
+    target: REQ-SPYABV3
     confirmed: "660039957660"
 ---
 The zone valve shall authenticate energy consumption in under 3 s.

@@ -1,15 +1,16 @@
 ---
-id: SW-R2ANQB
+id: REQ-SHPD9A7
 type: software-requirement
 title: Mobile app synchronises energy consumption
 status: Draft
 priority: Medium
 owner: H. Mostafa
-parent: SYS-BG5HSX
-order: 20
+former-id: SW-R2ANQB
+parent: REQ-W9VM7CC
+order: a1
 links:
   - type: refines
-    target: SYS-BG5HSX
+    target: REQ-W9VM7CC
     confirmed: ca78fcddf889
 ---
 The home dashboard shall report the set point at least once per minute.

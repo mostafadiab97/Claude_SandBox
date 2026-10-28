@@ -1,15 +1,16 @@
 ---
-id: SW-9KZ8NH
+id: REQ-QAM3SNW
 type: software-requirement
 title: Rotary knob encrypts user preferences
 status: Obsolete
 priority: Medium
 owner: M. Farouk
-parent: SYS-VCZ9T9
-order: 20
+former-id: SW-9KZ8NH
+parent: REQ-V4CQ0EG
+order: a1
 links:
   - type: refines
-    target: SYS-VCZ9T9
+    target: REQ-V4CQ0EG
     confirmed: 3778a55d2aaf
 ---
 The rotary knob shall detect schedule entries after a power loss.

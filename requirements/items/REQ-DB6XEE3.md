@@ -1,15 +1,16 @@
 ---
-id: TC-1PRHWH
+id: REQ-DB6XEE3
 type: test-case
 title: "Verify: Menu system notifys user preferences"
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: INFO-HTSZ15
-order: 380
+former-id: TC-1PRHWH
+parent: REQ-Y9VHHKA
+order: ab
 links:
   - type: verifies
-    target: SYS-E8YWD2
+    target: REQ-1GC83E9
     confirmed: 5ab6d3697437
 ---
 **Objective:** verify that the menu system behaves as specified.

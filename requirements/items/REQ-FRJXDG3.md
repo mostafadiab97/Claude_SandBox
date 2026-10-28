@@ -1,17 +1,18 @@
 ---
-id: TC-AQNVHZ
+id: REQ-FRJXDG3
 type: test-case
 title: "Verify: Schedule editor measures relay events"
 status: Draft
 priority: Medium
-parent: INFO-J0FETE
-order: 960
+former-id: TC-AQNVHZ
+parent: REQ-WR5ZJN9
+order: b0X
 links:
   - type: verifies
-    target: SYS-9AYNBP
+    target: REQ-R3BD293
     confirmed: f3e0173269c9
   - type: verifies
-    target: SW-AJP6HH
+    target: REQ-HAEYHZ6
     confirmed: e6cdf4908071
 ---
 **Objective:** verify that the schedule editor behaves as specified.

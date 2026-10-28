@@ -1,5 +1,5 @@
 ---
-id: RSK-ZVG8SE
+id: REQ-Q9N7D7W
 type: risk
 title: "Risk: mobile app fails to notify access tokens"
 status: Review
@@ -8,8 +8,9 @@ owner: S. Adel
 tags:
   - customer-request
   - accessibility
-parent: INFO-8K830K
-order: 50
+former-id: RSK-ZVG8SE
+parent: REQ-1XY7QMN
+order: a5
 ---
 **Hazard:** the mobile app could fail to validate the connection state.
 

@@ -1,15 +1,16 @@
 ---
-id: SYS-DCDDTY
+id: REQ-SVAHMDQ
 type: system-requirement
 title: Watchdog detects the room temperature
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: INFO-0229G8
-order: 440
+former-id: SYS-DCDDTY
+parent: REQ-H9113WA
+order: ah
 links:
   - type: refines
-    target: STK-1TB226
+    target: REQ-QAY0F49
     confirmed: ea29425b18b7
 ---
 The watchdog shall measure firmware images in under 3 s.

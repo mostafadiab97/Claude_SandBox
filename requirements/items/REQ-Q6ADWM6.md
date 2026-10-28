@@ -1,16 +1,17 @@
 ---
-id: IF-2MF6VW
+id: REQ-Q6ADWM6
 type: interface-requirement
 title: User account service restores energy consumption
 status: Obsolete
 priority: Medium
 tags:
   - safety
-parent: SYS-G8M4SE
-order: 40
+former-id: IF-2MF6VW
+parent: REQ-9W3N8PR
+order: a3
 links:
   - type: refines
-    target: SYS-G8M4SE
+    target: REQ-9W3N8PR
     confirmed: df8c85150795
 ---
 The device registry shall restore firmware images in all supported languages.

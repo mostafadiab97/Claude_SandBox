@@ -1,14 +1,15 @@
 ---
-id: IF-WJT6ZD
+id: REQ-2N35VAG
 type: interface-requirement
 title: Display the room temperature — detail
 status: Approved
 owner: A. Hassan
-parent: IF-ZV02TT
-order: 10
+former-id: IF-WJT6ZD
+parent: REQ-RS5BPK6
+order: a0
 links:
   - type: refines
-    target: IF-ZV02TT
+    target: REQ-RS5BPK6
     confirmed: 0531c9bcbf67
 ---
 The rotary knob shall calibrate sensor readings at least once per minute.

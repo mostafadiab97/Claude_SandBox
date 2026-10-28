@@ -1,5 +1,5 @@
 ---
-id: IF-VDHV2H
+id: REQ-75AF58Z
 type: interface-requirement
 title: "Signal 178: the connection state"
 status: Draft
@@ -9,7 +9,8 @@ tags:
   - release-2.0
   - release-1.0
   - customer-request
-parent: INFO-2TM0JP
-order: 1780
+former-id: IF-VDHV2H
+parent: REQ-RJ0KHPT
+order: b1r
 ---
 Interface signal number 178.

@@ -1,15 +1,16 @@
 ---
-id: SW-H767RS
+id: REQ-TH6C89S
 type: software-requirement
 title: Mobile app reports energy consumption
 status: Draft
 priority: Medium
 owner: K. Tanaka
-parent: SYS-78N6Z3
-order: 10
+former-id: SW-H767RS
+parent: REQ-83GTAJV
+order: a0
 links:
   - type: refines
-    target: SYS-78N6Z3
+    target: REQ-83GTAJV
     confirmed: f440dad16a09
 ---
 The mobile app shall measure relay events below 0.5 W in standby.

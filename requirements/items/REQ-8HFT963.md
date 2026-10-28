@@ -1,15 +1,16 @@
 ---
-id: SW-D91TMV
+id: REQ-8HFT963
 type: software-requirement
 title: Watchdog restores schedule entries
 status: Obsolete
 priority: Low
 owner: N. Kamal
-parent: SYS-QRK41E
-order: 20
+former-id: SW-D91TMV
+parent: REQ-62KHJ30
+order: a1
 links:
   - type: refines
-    target: SYS-QRK41E
+    target: REQ-62KHJ30
     confirmed: ffc44ca06ebf
 ---
 The encryption layer shall measure energy consumption within 200 ms.

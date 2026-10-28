@@ -1,5 +1,5 @@
 ---
-id: TC-HGC5N5
+id: REQ-289JXHH
 type: test-case
 title: "Verify: Watchdog encrypts user preferences"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - safety
   - cost
   - security
-parent: INFO-Z4TW4B
-order: 670
+former-id: TC-HGC5N5
+parent: REQ-K6FGAY0
+order: b04
 links:
   - type: verifies
-    target: SYS-BKCVJB
+    target: REQ-5CZT8BT
     confirmed: 7750ef7b4cd4
   - type: verifies
-    target: SW-NSH5XV
+    target: REQ-AY0W4FN
     confirmed: fbc7895c16c0
 ---
 **Objective:** verify that the watchdog behaves as specified.

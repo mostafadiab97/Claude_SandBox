@@ -1,5 +1,5 @@
 ---
-id: SYS-SKSNMS
+id: REQ-CEGSQS7
 type: system-requirement
 title: Local API encrypts user preferences
 status: Obsolete
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - EMC
   - customer-request
-parent: INFO-NRVHA2
-order: 1510
+former-id: SYS-SKSNMS
+parent: REQ-6R94HFM
+order: b1Q
 links:
   - type: refines
-    target: STK-GMCKMF
+    target: REQ-5EJHVJ8
     confirmed: 0937b27654b1
 ---
 The local API shall synchronise the room temperature in under 3 s.

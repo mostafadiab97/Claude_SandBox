@@ -1,5 +1,5 @@
 ---
-id: SYS-MGCE70
+id: REQ-M1Y9H4D
 type: system-requirement
 title: Tamper detection measures safety limits
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - performance
   - regulatory
   - i18n
-parent: INFO-0229G8
-order: 740
+former-id: SYS-MGCE70
+parent: REQ-H9113WA
+order: b0B
 links:
   - type: refines
-    target: STK-B4ZH98
+    target: REQ-PGNNV26
     confirmed: c19c22627f21
 ---
 The tamper detection shall log firmware images below 0.5 W in standby.

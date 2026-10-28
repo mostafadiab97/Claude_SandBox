@@ -1,5 +1,5 @@
 ---
-id: TC-4RGQHQ
+id: REQ-NQ4T4XT
 type: test-case
 title: "Verify: Mobile app restores humidity values"
 status: Approved
@@ -8,14 +8,15 @@ tags:
   - regulatory
   - accessibility
   - safety
-parent: INFO-J0FETE
-order: 920
+former-id: TC-4RGQHQ
+parent: REQ-WR5ZJN9
+order: b0T
 links:
   - type: verifies
-    target: SYS-W2WVAG
+    target: REQ-GBSZ6MB
     confirmed: 2e87eec370fa
   - type: verifies
-    target: SW-9EEFDN
+    target: REQ-3MNYEMC
     confirmed: 94ba9510fda2
 ---
 **Objective:** verify that the mobile app behaves as specified.

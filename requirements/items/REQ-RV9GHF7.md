@@ -1,15 +1,16 @@
 ---
-id: HW-NE6TEY
+id: REQ-RV9GHF7
 type: hardware-requirement
 title: Rotary knob switchs firmware images
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: SYS-186VAA
-order: 20
+former-id: HW-NE6TEY
+parent: REQ-YS5Z53S
+order: a1
 links:
   - type: refines
-    target: SYS-186VAA
+    target: REQ-YS5Z53S
     confirmed: 8c9ff96ed042
 ---
 The rotary knob shall restore humidity values for at least 10 years.

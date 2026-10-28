@@ -1,5 +1,5 @@
 ---
-id: IF-NQJY3F
+id: REQ-4VCE1XA
 type: interface-requirement
 title: Display access tokens — detail
 status: Review
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - release-2.0
   - power
-parent: IF-WD55BB
-order: 10
+former-id: IF-NQJY3F
+parent: REQ-WZ4XT8T
+order: a0
 links:
   - type: refines
-    target: IF-WD55BB
+    target: REQ-WZ4XT8T
     confirmed: 0e6f4098c95f
 ---
 The status LED shall log the room temperature for at least 10 years.

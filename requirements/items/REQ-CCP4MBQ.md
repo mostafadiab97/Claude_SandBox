@@ -1,5 +1,5 @@
 ---
-id: TC-Y1P4M2
+id: REQ-CCP4MBQ
 type: test-case
 title: "Verify: Pairing process authenticates the set point"
 status: Approved
@@ -8,14 +8,15 @@ owner: A. Hassan
 tags:
   - customer-request
   - safety
-parent: INFO-F0M7VC
-order: 290
+former-id: TC-Y1P4M2
+parent: REQ-67RQXCK
+order: aS
 links:
   - type: verifies
-    target: SYS-BJZPAW
+    target: REQ-7Y5KMWX
     confirmed: 118d961f538b
   - type: verifies
-    target: SW-G47V38
+    target: REQ-AM7PK77
     confirmed: 3319aa3f8a2a
 ---
 **Objective:** verify that the pairing process behaves as specified.

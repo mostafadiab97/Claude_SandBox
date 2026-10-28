@@ -1,15 +1,16 @@
 ---
-id: TC-PJKHC6
+id: REQ-G2YWMB3
 type: test-case
 title: "Verify: Pairing process encrypts the room temperature"
 status: Draft
 priority: Medium
 owner: L. Samir
-parent: INFO-F0M7VC
-order: 330
+former-id: TC-PJKHC6
+parent: REQ-67RQXCK
+order: aW
 links:
   - type: verifies
-    target: SYS-W1MEG3
+    target: REQ-VP326G6
     confirmed: 7ffa04910a1e
 ---
 **Objective:** verify that the pairing process behaves as specified.

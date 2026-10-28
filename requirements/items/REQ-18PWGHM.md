@@ -1,15 +1,16 @@
 ---
-id: CR-BH88FX
+id: REQ-18PWGHM
 type: change-request
 title: "CR: extend power supply to log energy consumption"
 status: Draft
 priority: High
 owner: L. Samir
-parent: INFO-BB7M2N
-order: 50
+former-id: CR-BH88FX
+parent: REQ-995FBPM
+order: a4
 links:
   - type: relates-to
-    target: SYS-M23G4X
+    target: REQ-XPK7TS2
     confirmed: 3da3ac6dee1c
 ---
 Requested by customer support (ticket #10718).

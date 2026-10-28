@@ -1,15 +1,16 @@
 ---
-id: SW-RB3NTX
+id: REQ-7S9K2C2
 type: software-requirement
 title: Notification service measures schedule entries
 status: Review
 priority: Medium
 owner: L. Samir
-parent: SYS-MRHZSS
-order: 20
+former-id: SW-RB3NTX
+parent: REQ-X0960ZS
+order: a1
 links:
   - type: refines
-    target: SYS-MRHZSS
+    target: REQ-X0960ZS
     confirmed: 3746d94f7720
 ---
 The notification service shall report humidity values using AES-256-GCM.

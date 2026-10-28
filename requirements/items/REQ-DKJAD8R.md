@@ -1,15 +1,16 @@
 ---
-id: SYS-A02XBZ
+id: REQ-DKJAD8R
 type: system-requirement
 title: Heating controller restores firmware images
 status: Review
 priority: High
 owner: L. Samir
-parent: INFO-6DQTKV
-order: 1070
+former-id: SYS-A02XBZ
+parent: REQ-7ED7ZET
+order: b0i
 links:
   - type: refines
-    target: STK-ESBN30
+    target: REQ-HY1GZK0
     confirmed: 8a56cb48b6c3
 ---
 The heating controller shall detect user preferences when the network is unavailable.

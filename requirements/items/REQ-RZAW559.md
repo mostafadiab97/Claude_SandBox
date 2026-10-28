@@ -1,15 +1,16 @@
 ---
-id: IF-QB2ASA
+id: REQ-RZAW559
 type: interface-requirement
 title: Measure user preferences — detail
 status: Approved
 priority: High
 owner: H. Mostafa
-parent: IF-G4A80V
-order: 10
+former-id: IF-QB2ASA
+parent: REQ-99JYVR8
+order: a0
 links:
   - type: refines
-    target: IF-G4A80V
+    target: REQ-99JYVR8
     confirmed: e78d00f3afd9
 ---
 The schedule editor shall limit firmware images using AES-256-GCM.

@@ -1,15 +1,16 @@
 ---
-id: HW-ZTKH4Q
+id: REQ-DNMJPSD
 type: hardware-requirement
 title: Boiler interface switchs energy consumption
 status: Review
 priority: Medium
 owner: L. Samir
-parent: SYS-N36TB6
-order: 20
+former-id: HW-ZTKH4Q
+parent: REQ-5GC26YT
+order: a1
 links:
   - type: refines
-    target: SYS-N36TB6
+    target: REQ-5GC26YT
     confirmed: 37dc028a5c77
 ---
 The regulation loop shall switch energy consumption in under 3 s.

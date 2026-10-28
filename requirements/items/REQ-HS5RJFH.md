@@ -1,5 +1,5 @@
 ---
-id: DE-DS9EJY
+id: REQ-HS5RJFH
 type: design-element
 title: Module zone_valve_1
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - cost
   - regulatory
-parent: SW-S7Z1Y4
-order: 10
+former-id: DE-DS9EJY
+parent: REQ-2S5180J
+order: a0
 links:
   - type: implements
-    target: SW-S7Z1Y4
+    target: REQ-2S5180J
     confirmed: b1317ed9239c
 ---
 Implemented in `src/heat/zone_valve.c`.

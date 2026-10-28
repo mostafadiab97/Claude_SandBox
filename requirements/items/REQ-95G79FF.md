@@ -1,5 +1,5 @@
 ---
-id: UC-T87MDY
+id: REQ-95G79FF
 type: use-case
 title: "UC: Synchronise firmware images with the menu system"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - power
   - accessibility
   - release-1.0
-parent: INFO-MK4XMC
-order: 130
+former-id: UC-T87MDY
+parent: REQ-6JKVVN1
+order: aC
 links:
   - type: relates-to
-    target: STK-PCP268
+    target: REQ-DMRJS9A
     confirmed: 74f66b1bb8e8
 ---
 **Actor:** home owner

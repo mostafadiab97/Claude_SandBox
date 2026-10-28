@@ -1,5 +1,5 @@
 ---
-id: TC-81V1ZJ
+id: REQ-BAYKJ5C
 type: test-case
 title: "Verify: Device registry restores the connection state"
 status: Approved
@@ -8,14 +8,15 @@ tags:
   - customer-request
   - power
   - regulatory
-parent: INFO-7P4D8D
-order: 1460
+former-id: TC-81V1ZJ
+parent: REQ-8351896
+order: b1L
 links:
   - type: verifies
-    target: SYS-8SN8KA
+    target: REQ-JYC0NB4
     confirmed: 57d91dd17cd7
   - type: verifies
-    target: SW-4C6BH6
+    target: REQ-KM0NNHS
     confirmed: 08d749a8875b
 ---
 **Objective:** verify that the device registry behaves as specified.

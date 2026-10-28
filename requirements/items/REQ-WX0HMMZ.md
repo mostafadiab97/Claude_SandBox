@@ -1,10 +1,11 @@
 ---
-id: IF-8BGJNJ
+id: REQ-WX0HMMZ
 type: interface-requirement
 title: "Signal 167: firmware images"
 status: Approved
 priority: Low
-parent: INFO-2TM0JP
-order: 1670
+former-id: IF-8BGJNJ
+parent: REQ-RJ0KHPT
+order: b1g
 ---
 Interface signal number 167.

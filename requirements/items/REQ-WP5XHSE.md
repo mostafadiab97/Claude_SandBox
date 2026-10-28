@@ -1,14 +1,15 @@
 ---
-id: TC-4FM2JJ
+id: REQ-WP5XHSE
 type: test-case
 title: "Verify: Over-temperature monitor limits sensor readings"
 status: Approved
 owner: H. Mostafa
-parent: INFO-Z4TW4B
-order: 840
+former-id: TC-4FM2JJ
+parent: REQ-K6FGAY0
+order: b0L
 links:
   - type: verifies
-    target: SYS-NVKX9K
+    target: REQ-QFZ1F36
     confirmed: 720362ab5cfe
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

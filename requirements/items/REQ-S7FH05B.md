@@ -1,15 +1,16 @@
 ---
-id: IF-X30HJY
+id: REQ-S7FH05B
 type: interface-requirement
 title: Bluetooth LE link measures error conditions
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: SYS-PDA2DJ
-order: 20
+former-id: IF-X30HJY
+parent: REQ-M49RZWY
+order: a1
 links:
   - type: refines
-    target: SYS-PDA2DJ
+    target: REQ-M49RZWY
     confirmed: 6c392c4860e1
 ---
 The Zigbee radio shall detect user preferences for at least 10 years.

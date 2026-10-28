@@ -1,15 +1,16 @@
 ---
-id: TC-3ZNJYK
+id: REQ-6KTCSFT
 type: test-case
 title: "Regression: Backlight displays firmware images"
 status: Draft
 priority: High
 owner: J. Müller
-parent: INFO-ECHASH
-order: 1640
+former-id: TC-3ZNJYK
+parent: REQ-6H15AV2
+order: b1d
 links:
   - type: verifies
-    target: SYS-BVR9MT
+    target: REQ-96F7GMN
     confirmed: 4ce801427d87
 ---
 **Objective:** verify that the device behaves as specified.

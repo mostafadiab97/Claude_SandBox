@@ -1,15 +1,16 @@
 ---
-id: TC-V4VMCY
+id: REQ-8Y566NA
 type: test-case
 title: "Verify: Schedule editor synchronises the set point"
 status: Draft
 priority: Medium
 owner: J. Müller
-parent: INFO-J0FETE
-order: 230
+former-id: TC-V4VMCY
+parent: REQ-WR5ZJN9
+order: aM
 links:
   - type: verifies
-    target: SYS-90Z9AA
+    target: REQ-R8AR4B2
     confirmed: fe1a440a5bde
 ---
 **Objective:** verify that the schedule editor behaves as specified.

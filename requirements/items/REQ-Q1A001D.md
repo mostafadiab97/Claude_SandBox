@@ -1,15 +1,16 @@
 ---
-id: TC-GXJ9KV
+id: REQ-Q1A001D
 type: test-case
 title: "Verify: Bluetooth LE link encrypts the operating mode"
 status: Draft
 priority: Low
 owner: R. Nabil
-parent: INFO-F0M7VC
-order: 1400
+former-id: TC-GXJ9KV
+parent: REQ-67RQXCK
+order: b1F
 links:
   - type: verifies
-    target: SYS-RP2FET
+    target: REQ-93NME1R
     confirmed: f29685558736
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

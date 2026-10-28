@@ -1,15 +1,16 @@
 ---
-id: HW-W5ECDV
+id: REQ-GVRWHJN
 type: hardware-requirement
 title: Local API notifys error conditions
 status: Draft
 priority: High
 owner: Y. Saber
-parent: SYS-HY185S
-order: 10
+former-id: HW-W5ECDV
+parent: REQ-NXPKECW
+order: a0
 links:
   - type: refines
-    target: SYS-HY185S
+    target: REQ-NXPKECW
     confirmed: 4f41eab5e96a
 ---
 The pairing process shall log access tokens when the network is unavailable.

@@ -1,5 +1,5 @@
 ---
-id: IF-B9T97E
+id: REQ-3JT4REV
 type: interface-requirement
 title: Over-temperature monitor validates audit records
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - ux
   - EMC
-parent: SYS-7N5VV8
-order: 20
+former-id: IF-B9T97E
+parent: REQ-94FP1C8
+order: a1
 links:
   - type: refines
-    target: SYS-7N5VV8
+    target: REQ-94FP1C8
     confirmed: 995bbbab086c
 ---
 The secure boot shall restore error conditions for at least 10 years.

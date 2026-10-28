@@ -1,19 +1,20 @@
 ---
-id: TC-AFD83Z
+id: REQ-44BJ0JK
 type: test-case
 title: "Verify: Backlight encrypts sensor readings"
 status: Approved
 priority: Medium
 tags:
   - power
-parent: INFO-HTSZ15
-order: 340
+former-id: TC-AFD83Z
+parent: REQ-Y9VHHKA
+order: aX
 links:
   - type: verifies
-    target: SYS-V6YEW7
+    target: REQ-C2KEYBG
     confirmed: 82cb35726de3
   - type: verifies
-    target: SW-R4W44X
+    target: REQ-BVN2G5S
     confirmed: da0d31d63794
 ---
 **Objective:** verify that the backlight behaves as specified.

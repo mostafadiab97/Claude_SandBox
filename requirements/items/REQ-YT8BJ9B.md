@@ -1,14 +1,15 @@
 ---
-id: TC-YPSENN
+id: REQ-YT8BJ9B
 type: test-case
 title: "Verify: Relay board switchs humidity values"
 status: Review
 priority: High
-parent: INFO-MACGC3
-order: 1630
+former-id: TC-YPSENN
+parent: REQ-F9Z1FYS
+order: b1c
 links:
   - type: verifies
-    target: SYS-ESNRC9
+    target: REQ-7FP22QF
     confirmed: 72173e46587d
 ---
 **Objective:** verify that the relay board behaves as specified.

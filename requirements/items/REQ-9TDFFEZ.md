@@ -1,15 +1,16 @@
 ---
-id: SW-TQ8WJB
+id: REQ-9TDFFEZ
 type: software-requirement
 title: Zigbee radio switchs access tokens
 status: Obsolete
 priority: Medium
 owner: A. Hassan
-parent: SYS-DGDEYQ
-order: 30
+former-id: SW-TQ8WJB
+parent: REQ-4VK134D
+order: a2
 links:
   - type: refines
-    target: SYS-DGDEYQ
+    target: REQ-4VK134D
     confirmed: 3502cbffc9ec
 ---
 The Bluetooth LE link shall limit relay events without user interaction.

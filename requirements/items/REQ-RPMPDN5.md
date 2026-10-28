@@ -1,5 +1,5 @@
 ---
-id: SW-69Q8PV
+id: REQ-RPMPDN5
 type: software-requirement
 title: Regulation loop restores safety limits
 status: Obsolete
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - customer-request
   - EMC
-parent: SYS-185CG5
-order: 10
+former-id: SW-69Q8PV
+parent: REQ-EJYJMP4
+order: a0
 links:
   - type: refines
-    target: SYS-185CG5
+    target: REQ-EJYJMP4
     confirmed: 594be3c2d403
 ---
 The zone valve shall notify schedule entries without user interaction.

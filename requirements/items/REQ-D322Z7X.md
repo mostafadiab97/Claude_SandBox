@@ -1,15 +1,16 @@
 ---
-id: TC-D86EVN
+id: REQ-D322Z7X
 type: test-case
 title: "Verify: Mobile app logs the operating mode"
 status: Draft
 priority: Medium
 owner: K. Tanaka
-parent: INFO-J0FETE
-order: 980
+former-id: TC-D86EVN
+parent: REQ-WR5ZJN9
+order: b0Z
 links:
   - type: verifies
-    target: SYS-M2DDZ3
+    target: REQ-4WD0KJT
     confirmed: 1fa4e7b531b5
 ---
 **Objective:** verify that the mobile app behaves as specified.

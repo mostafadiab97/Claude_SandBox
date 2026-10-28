@@ -1,5 +1,5 @@
 ---
-id: SYS-QT1CFV
+id: REQ-BBDCX27
 type: system-requirement
 title: Status LED reports sensor readings
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: M. Farouk
 tags:
   - accessibility
-parent: INFO-PDR6FV
-order: 1580
+former-id: SYS-QT1CFV
+parent: REQ-2ZA2TRZ
+order: b1X
 links:
   - type: refines
-    target: STK-XZPKF8
+    target: REQ-3QFE217
     confirmed: f082d5e65a7a
 ---
 The status LED shall synchronise the operating mode in all supported languages.

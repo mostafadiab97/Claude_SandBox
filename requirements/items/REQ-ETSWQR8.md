@@ -1,18 +1,19 @@
 ---
-id: TC-Q1N6D1
+id: REQ-ETSWQR8
 type: test-case
 title: "Verify: Battery backup restores sensor readings"
 status: Draft
 priority: High
 owner: A. Hassan
-parent: INFO-MACGC3
-order: 300
+former-id: TC-Q1N6D1
+parent: REQ-F9Z1FYS
+order: aT
 links:
   - type: verifies
-    target: SYS-C7RCJ1
+    target: REQ-D556VHF
     confirmed: 3bf493978048
   - type: verifies
-    target: SW-SVBNV7
+    target: REQ-FGHQ523
     confirmed: e80248c95f10
 ---
 **Objective:** verify that the battery backup behaves as specified.

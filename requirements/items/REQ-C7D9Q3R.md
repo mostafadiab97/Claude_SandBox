@@ -1,15 +1,16 @@
 ---
-id: SYS-14YX19
+id: REQ-C7D9Q3R
 type: system-requirement
 title: Touch display measures sensor readings
 status: Approved
 priority: Medium
 owner: M. Farouk
-parent: INFO-PDR6FV
-order: 1230
+former-id: SYS-14YX19
+parent: REQ-2ZA2TRZ
+order: b0y
 links:
   - type: refines
-    target: STK-MNQXK0
+    target: REQ-SBV9ENK
     confirmed: d3157dcb9034
 ---
 The touch display shall restore audit records without user interaction.

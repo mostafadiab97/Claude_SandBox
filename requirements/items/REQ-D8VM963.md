@@ -1,5 +1,5 @@
 ---
-id: HW-92MRPC
+id: REQ-D8VM963
 type: hardware-requirement
 title: Battery backup calibrates safety limits
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: L. Samir
 tags:
   - connectivity
-parent: SYS-TTC476
-order: 40
+former-id: HW-92MRPC
+parent: REQ-79Q9433
+order: a3
 links:
   - type: refines
-    target: SYS-TTC476
+    target: REQ-79Q9433
     confirmed: fcf4c01f1afd
 ---
 The enclosure shall notify user preferences in all supported languages.

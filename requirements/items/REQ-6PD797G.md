@@ -1,14 +1,15 @@
 ---
-id: SYS-CH0H2M
+id: REQ-6PD797G
 type: system-requirement
 title: Status LED switchs sensor readings
 status: Obsolete
 owner: S. Adel
-parent: INFO-PDR6FV
-order: 200
+former-id: SYS-CH0H2M
+parent: REQ-2ZA2TRZ
+order: aJ
 links:
   - type: refines
-    target: STK-8PN4VS
+    target: REQ-WQB5JT6
     confirmed: a3e83ac40678
 ---
 The status LED shall restore sensor readings when the network is unavailable.

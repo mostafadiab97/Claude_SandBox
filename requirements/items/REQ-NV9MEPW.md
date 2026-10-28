@@ -1,5 +1,5 @@
 ---
-id: IF-ZJWB7P
+id: REQ-NV9MEPW
 type: interface-requirement
 title: Measure safety limits — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - EMC
   - ux
-parent: IF-DHSQZQ
-order: 10
+former-id: IF-ZJWB7P
+parent: REQ-6HPPV8D
+order: a0
 links:
   - type: refines
-    target: IF-DHSQZQ
+    target: REQ-6HPPV8D
     confirmed: dad40b41baa4
 ---
 The login screen shall display relay events within 200 ms.

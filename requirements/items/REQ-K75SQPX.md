@@ -1,15 +1,16 @@
 ---
-id: TC-AGW6DX
+id: REQ-K75SQPX
 type: test-case
 title: "Verify: User account service encrypts the operating mode"
 status: Draft
 priority: High
 owner: J. Müller
-parent: INFO-7P4D8D
-order: 890
+former-id: TC-AGW6DX
+parent: REQ-8351896
+order: b0Q
 links:
   - type: verifies
-    target: SYS-N0SS0N
+    target: REQ-SPPTVWG
     confirmed: a340367acc67
 ---
 **Objective:** verify that the user account service behaves as specified.

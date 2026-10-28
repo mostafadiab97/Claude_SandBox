@@ -1,15 +1,16 @@
 ---
-id: TC-ASK8VA
+id: REQ-3RR22NN
 type: test-case
 title: "Regression: Schedule editor stores audit records"
 status: Approved
 tags:
   - connectivity
-parent: INFO-ECHASH
-order: 1490
+former-id: TC-ASK8VA
+parent: REQ-6H15AV2
+order: b1O
 links:
   - type: verifies
-    target: SYS-7RX5NN
+    target: REQ-XZGCQC0
     confirmed: 076f07709938
 ---
 **Objective:** verify that the device behaves as specified.

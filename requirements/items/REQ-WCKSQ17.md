@@ -1,5 +1,5 @@
 ---
-id: SYS-98RRJK
+id: REQ-WCKSQ17
 type: system-requirement
 title: Tamper detection displays access tokens
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - performance
   - ux
   - connectivity
-parent: INFO-0229G8
-order: 1300
+former-id: SYS-98RRJK
+parent: REQ-H9113WA
+order: b15
 links:
   - type: refines
-    target: STK-AKFTAC
+    target: REQ-C7Y99ZB
     confirmed: 3cca48da4b1c
   - type: mitigates
-    target: RSK-4SK8XQ
+    target: REQ-Q673PT3
     confirmed: d8a03dc18226
 ---
 The tamper detection shall notify access tokens in all supported languages.

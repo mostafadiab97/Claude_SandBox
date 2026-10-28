@@ -1,5 +1,5 @@
 ---
-id: IF-JG2Y8T
+id: REQ-9TN86D0
 type: interface-requirement
 title: Mobile app limits the room temperature
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - safety
   - connectivity
-parent: SYS-FBM4B7
-order: 20
+former-id: IF-JG2Y8T
+parent: REQ-0BCC2Y7
+order: a1
 links:
   - type: refines
-    target: SYS-FBM4B7
+    target: REQ-0BCC2Y7
     confirmed: c2dee4a6831a
 ---
 The mobile app shall store firmware images when the network is unavailable.

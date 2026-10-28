@@ -1,5 +1,5 @@
 ---
-id: IF-3M3YPZ
+id: REQ-5BPTTZ2
 type: interface-requirement
 title: Touch display limits sensor readings
 status: Draft
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - release-1.0
   - safety
-parent: SYS-M9DD33
-order: 20
+former-id: IF-3M3YPZ
+parent: REQ-R9CA0V4
+order: a1
 links:
   - type: refines
-    target: SYS-M9DD33
+    target: REQ-R9CA0V4
     confirmed: c0c5efe3652f
 ---
 The menu system shall detect the room temperature with an accuracy of ±0.5 °C.

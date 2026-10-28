@@ -1,11 +1,12 @@
 ---
-id: RSK-H5P7DK
+id: REQ-19NM7SG
 type: risk
 title: "Risk: status LED fails to synchronise safety limits"
 status: Draft
 priority: Medium
-parent: INFO-0V9DV4
-order: 100
+former-id: RSK-H5P7DK
+parent: REQ-HHCVAFQ
+order: a9
 ---
 **Hazard:** the status LED could fail to report user preferences.
 

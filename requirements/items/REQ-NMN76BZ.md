@@ -1,16 +1,17 @@
 ---
-id: SW-SERZC7
+id: REQ-NMN76BZ
 type: software-requirement
 title: Display error conditions — detail
 status: Review
 owner: Y. Saber
 tags:
   - EMC
-parent: SW-HY5F5F
-order: 10
+former-id: SW-SERZC7
+parent: REQ-7AP0S9G
+order: a0
 links:
   - type: refines
-    target: SW-HY5F5F
+    target: REQ-7AP0S9G
     confirmed: e62f4f79aa12
 ---
 The home dashboard shall report the operating mode when the network is unavailable.

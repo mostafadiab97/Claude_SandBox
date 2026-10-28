@@ -1,5 +1,5 @@
 ---
-id: TC-WMWMYP
+id: REQ-0D5B8NS
 type: test-case
 title: "Verify: Relay board restores relay events"
 status: Review
@@ -7,14 +7,15 @@ priority: Medium
 owner: محمد علي
 tags:
   - ux
-parent: INFO-MACGC3
-order: 1600
+former-id: TC-WMWMYP
+parent: REQ-F9Z1FYS
+order: b1Z
 links:
   - type: verifies
-    target: SYS-S1NYQA
+    target: REQ-EC78EH1
     confirmed: 1b9d0d62784e
   - type: verifies
-    target: SW-WN4TB1
+    target: REQ-NBSDMEX
     confirmed: d6c726def79d
 ---
 **Objective:** verify that the relay board behaves as specified.

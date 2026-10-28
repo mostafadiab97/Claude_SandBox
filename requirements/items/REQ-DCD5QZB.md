@@ -1,5 +1,5 @@
 ---
-id: DEF-NN77AA
+id: REQ-DCD5QZB
 type: defect
 title: "Defect: watchdog does not restore the connection state"
 status: Draft
@@ -7,14 +7,15 @@ priority: Medium
 owner: J. Müller
 tags:
   - accessibility
-parent: INFO-6QFMYN
-order: 30
+former-id: DEF-NN77AA
+parent: REQ-1XKBKFE
+order: a2
 links:
   - type: relates-to
-    target: TC-Z1EV5P
+    target: REQ-J58B8QW
     confirmed: fa9fa55b5270
   - type: relates-to
-    target: SYS-8BT9A5
+    target: REQ-SNCRWC2
     confirmed: 768828fca553
 ---
 Found during regression testing of build 2.6.21.

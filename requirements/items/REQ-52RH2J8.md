@@ -1,5 +1,5 @@
 ---
-id: TC-155EN8
+id: REQ-52RH2J8
 type: test-case
 title: "Regression: Main PCB measures user preferences"
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: محمد علي
 tags:
   - release-2.0
-parent: INFO-ECHASH
-order: 1940
+former-id: TC-155EN8
+parent: REQ-6H15AV2
+order: b27
 links:
   - type: verifies
-    target: SYS-H9YARC
+    target: REQ-7DP8FH8
     confirmed: 65250d626484
 ---
 **Objective:** verify that the device behaves as specified.

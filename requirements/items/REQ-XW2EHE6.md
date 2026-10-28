@@ -1,5 +1,5 @@
 ---
-id: SW-1588WB
+id: REQ-XW2EHE6
 type: software-requirement
 title: Secure boot authenticates the room temperature
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - cost
   - power
-parent: SYS-FP2QK1
-order: 30
+former-id: SW-1588WB
+parent: REQ-VP03MR3
+order: a2
 links:
   - type: refines
-    target: SYS-FP2QK1
+    target: REQ-VP03MR3
     confirmed: c97badc87373
 ---
 The secure boot shall limit user preferences without user interaction.

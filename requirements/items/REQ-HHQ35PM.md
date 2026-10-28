@@ -1,5 +1,5 @@
 ---
-id: SW-HE1CMM
+id: REQ-HHQ35PM
 type: software-requirement
 title: Wi-Fi module encrypts the room temperature
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: N. Kamal
 tags:
   - i18n
-parent: SYS-KC9B1E
-order: 10
+former-id: SW-HE1CMM
+parent: REQ-7XX0BJN
+order: a0
 links:
   - type: refines
-    target: SYS-KC9B1E
+    target: REQ-7XX0BJN
     confirmed: 3ee066e79e6d
 ---
 The Wi-Fi module shall synchronise audit records after a power loss.

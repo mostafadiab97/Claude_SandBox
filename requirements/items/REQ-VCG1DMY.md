@@ -1,5 +1,5 @@
 ---
-id: TC-T1R9NT
+id: REQ-VCG1DMY
 type: test-case
 title: "Verify: Power supply synchronises user preferences"
 status: Obsolete
@@ -7,11 +7,12 @@ owner: M. Farouk
 tags:
   - connectivity
   - ux
-parent: INFO-MACGC3
-order: 1400
+former-id: TC-T1R9NT
+parent: REQ-F9Z1FYS
+order: b1F
 links:
   - type: verifies
-    target: SYS-7X9ABB
+    target: REQ-EBVBB12
     confirmed: eca07da94791
 ---
 **Objective:** verify that the power supply behaves as specified.

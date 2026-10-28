@@ -1,15 +1,16 @@
 ---
-id: SYS-EFJFCR
+id: REQ-SG5ZHBV
 type: system-requirement
 title: Touch display encrypts the operating mode
 status: Obsolete
 priority: High
 owner: N. Kamal
-parent: INFO-PDR6FV
-order: 1040
+former-id: SYS-EFJFCR
+parent: REQ-2ZA2TRZ
+order: b0f
 links:
   - type: refines
-    target: STK-BSSZ8Z
+    target: REQ-BREZDN1
     confirmed: eb15999e37f0
 ---
 The touch display shall display the connection state without user interaction.

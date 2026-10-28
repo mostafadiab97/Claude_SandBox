@@ -1,5 +1,5 @@
 ---
-id: DEF-7E7R8X
+id: REQ-E9F7GZP
 type: defect
 title: "Defect: mobile app does not store access tokens"
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - release-2.0
   - performance
   - EMC
-parent: INFO-FH5FB3
-order: 80
+former-id: DEF-7E7R8X
+parent: REQ-MWRPGWA
+order: a7
 links:
   - type: relates-to
-    target: TC-HP4Q0C
+    target: REQ-93F2KMB
     confirmed: 667d311c484c
   - type: relates-to
-    target: SYS-EYJ94S
+    target: REQ-Z957H2Y
     confirmed: 68e2cd729db2
 ---
 Found during regression testing of build 2.2.12.

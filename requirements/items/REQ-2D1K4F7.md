@@ -1,5 +1,5 @@
 ---
-id: SYS-Q6QXAC
+id: REQ-2D1K4F7
 type: system-requirement
 title: Regulation loop notifys firmware images
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - performance
   - ux
   - power
-parent: INFO-6DQTKV
-order: 1220
+former-id: SYS-Q6QXAC
+parent: REQ-7ED7ZET
+order: b0x
 links:
   - type: refines
-    target: STK-M7S0HJ
+    target: REQ-219619F
     confirmed: 000356d5d38b
 ---
 The regulation loop shall notify the operating mode when the network is unavailable.

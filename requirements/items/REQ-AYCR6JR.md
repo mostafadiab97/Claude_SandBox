@@ -1,15 +1,16 @@
 ---
-id: HW-49D99S
+id: REQ-AYCR6JR
 type: hardware-requirement
 title: User account service logs the set point
 status: Approved
 priority: High
 owner: N. Kamal
-parent: SYS-KACHNP
-order: 10
+former-id: HW-49D99S
+parent: REQ-RCET7JB
+order: a0
 links:
   - type: refines
-    target: SYS-KACHNP
+    target: REQ-RCET7JB
     confirmed: 6d9bc192ec13
 ---
 The cloud backend shall calibrate sensor readings below 0.5 W in standby.

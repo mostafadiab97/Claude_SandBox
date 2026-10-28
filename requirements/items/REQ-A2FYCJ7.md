@@ -1,15 +1,16 @@
 ---
-id: IF-RM4JP8
+id: REQ-A2FYCJ7
 type: interface-requirement
 title: User account service stores sensor readings
 status: Draft
 priority: Medium
 owner: L. Samir
-parent: SYS-5KZ5DB
-order: 30
+former-id: IF-RM4JP8
+parent: REQ-WFWMCHR
+order: a2
 links:
   - type: refines
-    target: SYS-5KZ5DB
+    target: REQ-WFWMCHR
     confirmed: cd9a0ffd7c50
 ---
 The cloud backend shall synchronise schedule entries in all supported languages.

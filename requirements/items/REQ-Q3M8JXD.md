@@ -1,5 +1,5 @@
 ---
-id: SW-29HTB1
+id: REQ-Q3M8JXD
 type: software-requirement
 title: Mobile app calibrates relay events
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - release-1.0
   - release-2.0
-parent: SYS-QHMFA6
-order: 20
+former-id: SW-29HTB1
+parent: REQ-K2S78AW
+order: a1
 links:
   - type: refines
-    target: SYS-QHMFA6
+    target: REQ-K2S78AW
     confirmed: 9375eb52bc71
 ---
 The mobile app shall synchronise firmware images using AES-256-GCM.

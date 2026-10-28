@@ -1,18 +1,19 @@
 ---
-id: SYS-AC34S0
+id: REQ-FJMWQFX
 type: system-requirement
 title: Telemetry pipeline limits access tokens
 status: Draft
 priority: Medium
 owner: S. Adel
-parent: INFO-YV5EZD
-order: 1350
+former-id: SYS-AC34S0
+parent: REQ-RE9ZKHF
+order: b1A
 links:
   - type: refines
-    target: STK-QN5QGR
+    target: REQ-BY89KNK
     confirmed: ae0f58e089a1
   - type: mitigates
-    target: RSK-9BAEZR
+    target: REQ-ZC4S6SV
     confirmed: 09af4dd83b7f
 ---
 The telemetry pipeline shall measure audit records in all supported languages.

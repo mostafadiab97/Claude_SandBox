@@ -1,5 +1,5 @@
 ---
-id: SYS-HPD0VD
+id: REQ-6MCMEW9
 type: system-requirement
 title: Heat pump driver notifys relay events
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - EMC
   - ux
   - release-1.0
-parent: INFO-6DQTKV
-order: 440
+former-id: SYS-HPD0VD
+parent: REQ-7ED7ZET
+order: ah
 links:
   - type: refines
-    target: STK-75QZSA
+    target: REQ-NKR80ET
     confirmed: fef0332ed10c
 ---
 The heat pump driver shall measure error conditions when the network is unavailable.

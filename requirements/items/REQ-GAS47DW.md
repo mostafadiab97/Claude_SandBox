@@ -1,5 +1,5 @@
 ---
-id: DE-B22XSH
+id: REQ-GAS47DW
 type: design-element
 title: Module zone_valve_80
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - connectivity
   - ux
-parent: SW-CQC35W
-order: 10
+former-id: DE-B22XSH
+parent: REQ-144ZS07
+order: a0
 links:
   - type: implements
-    target: SW-CQC35W
+    target: REQ-144ZS07
     confirmed: 465a436c53ac
 ---
 Implemented in `src/heat/zone_valve.c`.

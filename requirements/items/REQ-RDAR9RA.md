@@ -1,15 +1,16 @@
 ---
-id: IF-HDJ271
+id: REQ-RDAR9RA
 type: interface-requirement
 title: Authenticate energy consumption — detail
 status: Obsolete
 priority: Low
 owner: A. Hassan
-parent: IF-8E6705
-order: 10
+former-id: IF-HDJ271
+parent: REQ-VF18K5A
+order: a0
 links:
   - type: refines
-    target: IF-8E6705
+    target: REQ-VF18K5A
     confirmed: 335aeeadad41
 ---
 The tamper detection shall measure relay events without user interaction.

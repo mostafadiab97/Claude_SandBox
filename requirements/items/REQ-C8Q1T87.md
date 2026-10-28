@@ -1,15 +1,16 @@
 ---
-id: TC-7MSVEB
+id: REQ-C8Q1T87
 type: test-case
 title: "Regression: Zone valve detects energy consumption"
 status: Approved
 priority: Low
 owner: L. Samir
-parent: INFO-ECHASH
-order: 2160
+former-id: TC-7MSVEB
+parent: REQ-6H15AV2
+order: b2T
 links:
   - type: verifies
-    target: SYS-6NZHN4
+    target: REQ-4SSWD4T
     confirmed: 98fdc9e71767
 ---
 **Objective:** verify that the device behaves as specified.

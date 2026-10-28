@@ -1,5 +1,5 @@
 ---
-id: IF-XPYZ63
+id: REQ-E83DSWF
 type: interface-requirement
 title: Encryption layer measures humidity values
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - power
-parent: SYS-10RD9F
-order: 10
+former-id: IF-XPYZ63
+parent: REQ-F2PF0EP
+order: a0
 links:
   - type: refines
-    target: SYS-10RD9F
+    target: REQ-F2PF0EP
     confirmed: c65b58fe967d
 ---
 The over-temperature monitor shall notify schedule entries at least once per minute.

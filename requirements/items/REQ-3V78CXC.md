@@ -1,5 +1,5 @@
 ---
-id: SW-BFCFP5
+id: REQ-3V78CXC
 type: software-requirement
 title: Zone valve limits audit records
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: N. Kamal
 tags:
   - release-2.0
-parent: SYS-C6SNN2
-order: 20
+former-id: SW-BFCFP5
+parent: REQ-WWDXC4C
+order: a1
 links:
   - type: refines
-    target: SYS-C6SNN2
+    target: REQ-WWDXC4C
     confirmed: 20d5c99b3fa6
 ---
 The regulation loop shall encrypt humidity values when the network is unavailable.

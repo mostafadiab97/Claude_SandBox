@@ -1,16 +1,17 @@
 ---
-id: TC-ED2AGE
+id: REQ-H6BX0W6
 type: test-case
 title: "Verify: Telemetry pipeline limits safety limits"
 status: Obsolete
 priority: Low
 tags:
   - EMC
-parent: INFO-7P4D8D
-order: 10
+former-id: TC-ED2AGE
+parent: REQ-8351896
+order: a0
 links:
   - type: verifies
-    target: SYS-26MZNR
+    target: REQ-RZRFJJ7
     confirmed: 96b161f89761
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

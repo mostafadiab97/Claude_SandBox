@@ -1,5 +1,5 @@
 ---
-id: IF-P4241E
+id: REQ-T32PS7H
 type: interface-requirement
 title: Relay board measures user preferences
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - customer-request
   - release-2.0
-parent: SYS-MB5B23
-order: 40
+former-id: IF-P4241E
+parent: REQ-SJRS3E1
+order: a3
 links:
   - type: refines
-    target: SYS-MB5B23
+    target: REQ-SJRS3E1
     confirmed: 7dee66be9e03
 ---
 The main PCB shall report schedule entries in all supported languages.

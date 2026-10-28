@@ -1,18 +1,19 @@
 ---
-id: SYS-1T0TAM
+id: REQ-Z7WZKTX
 type: system-requirement
 title: Battery backup stores the room temperature
 status: Approved
 priority: Medium
 owner: É. Laurent
-parent: INFO-A6P9A8
-order: 1240
+former-id: SYS-1T0TAM
+parent: REQ-CMCS31A
+order: b0z
 links:
   - type: refines
-    target: STK-KEP05J
+    target: REQ-PRMNGRJ
     confirmed: 74304e03fe52
   - type: mitigates
-    target: RSK-4NE1NJ
+    target: REQ-MZ5YCZY
     confirmed: 56f6781ca0d3
 ---
 The battery backup shall log the set point after a power loss.

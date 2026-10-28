@@ -1,15 +1,16 @@
 ---
-id: SW-P1MTB7
+id: REQ-B2V3ES7
 type: software-requirement
 title: Switch safety limits — detail
 status: Draft
 priority: High
 owner: Y. Saber
-parent: SW-AM74GS
-order: 10
+former-id: SW-P1MTB7
+parent: REQ-SNG0H08
+order: a0
 links:
   - type: refines
-    target: SW-AM74GS
+    target: REQ-SNG0H08
     confirmed: 17970884cc59
 ---
 The Zigbee radio shall restore humidity values at least once per minute.

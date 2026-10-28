@@ -1,5 +1,5 @@
 ---
-id: SW-VZQ8XH
+id: REQ-PTF1ZFD
 type: software-requirement
 title: Rotary knob displays humidity values
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - EMC
   - customer-request
   - security
-parent: SYS-2KGJFW
-order: 20
+former-id: SW-VZQ8XH
+parent: REQ-HG744HJ
+order: a1
 links:
   - type: refines
-    target: SYS-2KGJFW
+    target: REQ-HG744HJ
     confirmed: 33b6774f671a
 ---
 The status LED shall calibrate access tokens below 0.5 W in standby.

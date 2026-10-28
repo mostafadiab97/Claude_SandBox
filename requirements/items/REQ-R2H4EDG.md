@@ -1,5 +1,5 @@
 ---
-id: SW-G5HS1D
+id: REQ-R2H4EDG
 type: software-requirement
 title: Login screen notifys firmware images
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - connectivity
   - cost
-parent: SYS-0N6C2D
-order: 10
+former-id: SW-G5HS1D
+parent: REQ-G9QWE5X
+order: a0
 links:
   - type: refines
-    target: SYS-0N6C2D
+    target: REQ-G9QWE5X
     confirmed: 50615d725109
 ---
 The login screen shall switch humidity values when the network is unavailable.

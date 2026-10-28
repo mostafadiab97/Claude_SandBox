@@ -1,15 +1,16 @@
 ---
-id: IF-EFW96T
+id: REQ-S319GB9
 type: interface-requirement
 title: Battery backup stores firmware images
 status: Approved
 priority: Low
 owner: محمد علي
-parent: SYS-J73TGA
-order: 20
+former-id: IF-EFW96T
+parent: REQ-6JFKKZM
+order: a1
 links:
   - type: refines
-    target: SYS-J73TGA
+    target: REQ-6JFKKZM
     confirmed: c6ffa9bc0f1f
 ---
 The main PCB shall switch user preferences for up to 8 zones.

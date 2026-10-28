@@ -1,5 +1,5 @@
 ---
-id: SW-EP93X6
+id: REQ-X27WC6E
 type: software-requirement
 title: Pairing process notifys humidity values
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: S. Adel
 tags:
   - power
-parent: SYS-6DAVQX
-order: 30
+former-id: SW-EP93X6
+parent: REQ-RMJYY8D
+order: a2
 links:
   - type: refines
-    target: SYS-6DAVQX
+    target: REQ-RMJYY8D
     confirmed: 7edaaaba42b0
 ---
 The Bluetooth LE link shall synchronise error conditions for up to 8 zones.

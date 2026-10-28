@@ -1,15 +1,16 @@
 ---
-id: IF-WKA8TC
+id: REQ-N2QEA94
 type: interface-requirement
 title: Zigbee radio synchronises energy consumption
 status: Approved
 priority: High
 owner: R. Nabil
-parent: SYS-WF4FY5
-order: 10
+former-id: IF-WKA8TC
+parent: REQ-2ATZZA0
+order: a0
 links:
   - type: refines
-    target: SYS-WF4FY5
+    target: REQ-2ATZZA0
     confirmed: 98658dca5000
 ---
 The local API shall display the connection state after a power loss.

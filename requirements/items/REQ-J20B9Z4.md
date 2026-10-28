@@ -1,15 +1,16 @@
 ---
-id: IF-QB9W84
+id: REQ-J20B9Z4
 type: interface-requirement
 title: Detect energy consumption — detail
 status: Approved
 priority: Medium
 owner: É. Laurent
-parent: IF-TCAQ5C
-order: 10
+former-id: IF-QB9W84
+parent: REQ-CPN4G44
+order: a0
 links:
   - type: refines
-    target: IF-TCAQ5C
+    target: REQ-CPN4G44
     confirmed: 2cddef017379
 ---
 The rotary knob shall limit the connection state in all supported languages.

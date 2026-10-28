@@ -1,5 +1,5 @@
 ---
-id: IF-YSGHQD
+id: REQ-PSNDH1V
 type: interface-requirement
 title: OTA server calibrates the set point
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - ux
   - safety
-parent: SYS-SQM30D
-order: 30
+former-id: IF-YSGHQD
+parent: REQ-GHZMBVK
+order: a2
 links:
   - type: refines
-    target: SYS-SQM30D
+    target: REQ-GHZMBVK
     confirmed: 61b33a5fb3c5
 ---
 The telemetry pipeline shall log humidity values when the network is unavailable.

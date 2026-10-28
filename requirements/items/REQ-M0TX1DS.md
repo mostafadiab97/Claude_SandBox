@@ -1,5 +1,5 @@
 ---
-id: DEF-P4KWYD
+id: REQ-M0TX1DS
 type: defect
 title: "Defect: pairing process does not calibrate the connection state"
 status: Approved
@@ -8,14 +8,15 @@ owner: H. Mostafa
 tags:
   - cost
   - connectivity
-parent: INFO-Y69DRS
-order: 130
+former-id: DEF-P4KWYD
+parent: REQ-YW554H8
+order: aC
 links:
   - type: relates-to
-    target: TC-XTRJVZ
+    target: REQ-B9WXSTF
     confirmed: d552f36705c8
   - type: relates-to
-    target: SYS-JSEPSH
+    target: REQ-H8CB6ZQ
     confirmed: 07bbcfe4ef37
 ---
 Found during regression testing of build 2.0.35.

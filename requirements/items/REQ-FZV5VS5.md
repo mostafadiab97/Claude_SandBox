@@ -1,5 +1,5 @@
 ---
-id: TC-CSPTCR
+id: REQ-FZV5VS5
 type: test-case
 title: "Verify: Cloud backend notifys the connection state"
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - performance
   - ux
   - regulatory
-parent: INFO-7P4D8D
-order: 1220
+former-id: TC-CSPTCR
+parent: REQ-8351896
+order: b0x
 links:
   - type: verifies
-    target: SYS-ZG2A7P
+    target: REQ-MAGQ1BB
     confirmed: dd3e6f066e4e
 ---
 **Objective:** verify that the cloud backend behaves as specified.

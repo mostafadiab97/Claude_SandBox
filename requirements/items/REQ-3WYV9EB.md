@@ -1,5 +1,5 @@
 ---
-id: IF-M12QVM
+id: REQ-3WYV9EB
 type: interface-requirement
 title: Backlight authenticates the room temperature
 status: Review
@@ -9,11 +9,12 @@ tags:
   - security
   - regulatory
   - accessibility
-parent: SYS-JGZMEV
-order: 30
+former-id: IF-M12QVM
+parent: REQ-X57Z6YA
+order: a2
 links:
   - type: refines
-    target: SYS-JGZMEV
+    target: REQ-X57Z6YA
     confirmed: 06d6346c072b
 ---
 The menu system shall authenticate relay events using AES-256-GCM.

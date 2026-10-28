@@ -1,5 +1,5 @@
 ---
-id: TC-WR8KT0
+id: REQ-6MPVDZH
 type: test-case
 title: "Verify: Over-temperature monitor detects user preferences"
 status: Obsolete
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - i18n
   - release-2.0
-parent: INFO-Z4TW4B
-order: 1040
+former-id: TC-WR8KT0
+parent: REQ-K6FGAY0
+order: b0f
 links:
   - type: verifies
-    target: SYS-HKPNTA
+    target: REQ-R7B2459
     confirmed: 1b21455ffebe
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

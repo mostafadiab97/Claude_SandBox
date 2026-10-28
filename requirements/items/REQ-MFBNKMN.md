@@ -1,5 +1,5 @@
 ---
-id: IF-EW192F
+id: REQ-MFBNKMN
 type: interface-requirement
 title: "Signal 022: the room temperature"
 status: Draft
@@ -9,7 +9,8 @@ tags:
   - ux
   - customer-request
   - i18n
-parent: INFO-2TM0JP
-order: 220
+former-id: IF-EW192F
+parent: REQ-RJ0KHPT
+order: aL
 ---
 Interface signal number 22.

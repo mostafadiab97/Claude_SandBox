@@ -1,16 +1,17 @@
 ---
-id: TC-5TTMCB
+id: REQ-ZZFZQZ0
 type: test-case
 title: "Verify: Home dashboard authenticates error conditions"
 status: Draft
 priority: High
 tags:
   - security
-parent: INFO-J0FETE
-order: 950
+former-id: TC-5TTMCB
+parent: REQ-WR5ZJN9
+order: b0W
 links:
   - type: verifies
-    target: SYS-GC1TCM
+    target: REQ-3SYSXK0
     confirmed: 5e111d233bc7
 ---
 **Objective:** verify that the home dashboard behaves as specified.

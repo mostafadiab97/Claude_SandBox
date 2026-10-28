@@ -1,17 +1,18 @@
 ---
-id: DEF-747W47
+id: REQ-0HN1WE3
 type: defect
 title: "Defect: Zigbee radio does not encrypt relay events"
 status: Draft
 owner: J. Müller
-parent: INFO-Y69DRS
-order: 80
+former-id: DEF-747W47
+parent: REQ-YW554H8
+order: a7
 links:
   - type: relates-to
-    target: TC-ZE7GTA
+    target: REQ-5GSR3P0
     confirmed: ae4430bf0a2c
   - type: relates-to
-    target: SYS-1KYW4V
+    target: REQ-EQZCZSV
     confirmed: b5edec3ba8f3
 ---
 Found during regression testing of build 2.4.17.

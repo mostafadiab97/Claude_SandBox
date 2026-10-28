@@ -1,5 +1,5 @@
 ---
-id: SYS-SPX676
+id: REQ-VARSTZG
 type: system-requirement
 title: Zigbee radio measures the operating mode
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - EMC
   - i18n
-parent: INFO-NRVHA2
-order: 2090
+former-id: SYS-SPX676
+parent: REQ-6R94HFM
+order: b2M
 links:
   - type: refines
-    target: STK-0AD5XP
+    target: REQ-W8GJYMQ
     confirmed: 30e7f07df0d1
 ---
 The Zigbee radio shall measure error conditions within 200 ms.

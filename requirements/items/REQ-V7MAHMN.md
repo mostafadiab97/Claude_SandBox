@@ -1,5 +1,5 @@
 ---
-id: SYS-BCDQHB
+id: REQ-V7MAHMN
 type: system-requirement
 title: Zigbee radio authenticates sensor readings
 status: Review
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - i18n
   - release-1.0
-parent: INFO-NRVHA2
-order: 1190
+former-id: SYS-BCDQHB
+parent: REQ-6R94HFM
+order: b0u
 links:
   - type: refines
-    target: STK-1R2QT3
+    target: REQ-3MGNW4R
     confirmed: 7ca04f22a1b8
 ---
 The Zigbee radio shall store user preferences using AES-256-GCM.

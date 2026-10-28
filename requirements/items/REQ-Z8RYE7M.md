@@ -1,15 +1,16 @@
 ---
-id: TC-CEQNXN
+id: REQ-Z8RYE7M
 type: test-case
 title: "Verify: Zone valve detects energy consumption"
 status: Approved
 priority: Medium
 owner: S. Adel
-parent: INFO-MS9DAG
-order: 900
+former-id: TC-CEQNXN
+parent: REQ-XGWSK2K
+order: b0R
 links:
   - type: verifies
-    target: SYS-J8Q01T
+    target: REQ-66SD5Y0
     confirmed: d85270700def
 ---
 **Objective:** verify that the zone valve behaves as specified.

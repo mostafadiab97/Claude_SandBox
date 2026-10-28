@@ -1,5 +1,5 @@
 ---
-id: IF-BE42H0
+id: REQ-CJ509M1
 type: interface-requirement
 title: Synchronise humidity values — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - release-2.0
   - regulatory
-parent: IF-WEK17A
-order: 10
+former-id: IF-BE42H0
+parent: REQ-9TSBZ7R
+order: a0
 links:
   - type: refines
-    target: IF-WEK17A
+    target: REQ-9TSBZ7R
     confirmed: 8233721470f2
 ---
 The pairing process shall store humidity values in under 3 s.

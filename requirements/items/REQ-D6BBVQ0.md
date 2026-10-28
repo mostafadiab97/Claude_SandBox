@@ -1,5 +1,5 @@
 ---
-id: IF-D21ZWB
+id: REQ-D6BBVQ0
 type: interface-requirement
 title: Detect energy consumption — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - release-2.0
   - ux
-parent: IF-44A5Y2
-order: 10
+former-id: IF-D21ZWB
+parent: REQ-J9Z90P4
+order: a0
 links:
   - type: refines
-    target: IF-44A5Y2
+    target: REQ-J9Z90P4
     confirmed: d11129e8a561
 ---
 The heat pump driver shall display energy consumption within 200 ms.

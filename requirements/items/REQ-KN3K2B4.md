@@ -1,5 +1,5 @@
 ---
-id: SW-EGCZEM
+id: REQ-KN3K2B4
 type: software-requirement
 title: Mobile app stores sensor readings
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: L. Samir
 tags:
   - connectivity
-parent: SYS-4A8MB5
-order: 30
+former-id: SW-EGCZEM
+parent: REQ-P92XCH2
+order: a2
 links:
   - type: refines
-    target: SYS-4A8MB5
+    target: REQ-P92XCH2
     confirmed: d346149918c1
 ---
 The home dashboard shall encrypt safety limits at least once per minute.

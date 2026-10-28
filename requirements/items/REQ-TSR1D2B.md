@@ -1,5 +1,5 @@
 ---
-id: SW-RPRRHH
+id: REQ-TSR1D2B
 type: software-requirement
 title: Rotary knob logs user preferences
 status: Review
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - power
   - ux
-parent: SYS-T689CT
-order: 20
+former-id: SW-RPRRHH
+parent: REQ-WRWV27H
+order: a1
 links:
   - type: refines
-    target: SYS-T689CT
+    target: REQ-WRWV27H
     confirmed: dafb2a2d5621
 ---
 The status LED shall authenticate safety limits below 0.5 W in standby.

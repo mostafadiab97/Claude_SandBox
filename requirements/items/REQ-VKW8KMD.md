@@ -1,5 +1,5 @@
 ---
-id: SYS-XRP95E
+id: REQ-VKW8KMD
 type: system-requirement
 title: Enclosure logs the connection state
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - i18n
   - security
-parent: INFO-A6P9A8
-order: 2200
+former-id: SYS-XRP95E
+parent: REQ-CMCS31A
+order: b2X
 links:
   - type: refines
-    target: STK-2STGXE
+    target: REQ-67MQ0AB
     confirmed: c77fe61daf4b
 ---
 The enclosure shall notify energy consumption for at least 10 years.

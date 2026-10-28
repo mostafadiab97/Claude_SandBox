@@ -1,15 +1,16 @@
 ---
-id: SW-FESHHN
+id: REQ-2R6VTZE
 type: software-requirement
 title: Schedule editor detects energy consumption
 status: Draft
 priority: Medium
 owner: A. Hassan
-parent: SYS-HPNQHQ
-order: 40
+former-id: SW-FESHHN
+parent: REQ-6PY31M5
+order: a3
 links:
   - type: refines
-    target: SYS-HPNQHQ
+    target: REQ-6PY31M5
     confirmed: 4fe382f87558
 ---
 The login screen shall store user preferences when the network is unavailable.

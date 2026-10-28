@@ -1,5 +1,5 @@
 ---
-id: TC-K0ZBTS
+id: REQ-SFM0JGF
 type: test-case
 title: "Verify: Tamper detection validates firmware images"
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - EMC
   - release-1.0
-parent: INFO-Z4TW4B
-order: 620
+former-id: TC-K0ZBTS
+parent: REQ-K6FGAY0
+order: az
 links:
   - type: verifies
-    target: SYS-9QD67X
+    target: REQ-X0D7QGG
     confirmed: c23bbc65f43c
 ---
 **Objective:** verify that the tamper detection behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: TC-4Z6GVE
+id: REQ-1YF6BQY
 type: test-case
 title: "Verify: Wi-Fi module validates humidity values"
 status: Obsolete
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - security
   - cost
-parent: INFO-F0M7VC
-order: 1320
+former-id: TC-4Z6GVE
+parent: REQ-67RQXCK
+order: b17
 links:
   - type: verifies
-    target: SYS-4VCYRM
+    target: REQ-Y5TQ0M6
     confirmed: d32333e735ba
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

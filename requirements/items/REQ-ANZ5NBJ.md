@@ -1,5 +1,5 @@
 ---
-id: IF-EJ3J4J
+id: REQ-ANZ5NBJ
 type: interface-requirement
 title: "Signal 639: audit records"
 status: Approved
@@ -9,7 +9,8 @@ tags:
   - release-2.0
   - power
   - release-1.0
-parent: INFO-2TM0JP
-order: 6390
+former-id: IF-EJ3J4J
+parent: REQ-RJ0KHPT
+order: b9I
 ---
 Interface signal number 639.

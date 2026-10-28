@@ -1,5 +1,5 @@
 ---
-id: SYS-8YEDPY
+id: REQ-VZ8BMSA
 type: system-requirement
 title: Menu system synchronises schedule entries
 status: Review
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - regulatory
   - EMC
-parent: INFO-PDR6FV
-order: 1520
+former-id: SYS-8YEDPY
+parent: REQ-2ZA2TRZ
+order: b1R
 links:
   - type: refines
-    target: STK-EHVDJF
+    target: REQ-4T80DB9
     confirmed: cf195cdb6a20
 ---
 The menu system shall log energy consumption below 0.5 W in standby.

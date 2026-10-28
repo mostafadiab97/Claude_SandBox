@@ -1,5 +1,5 @@
 ---
-id: IF-23W30C
+id: REQ-FD239WH
 type: interface-requirement
 title: OTA server displays schedule entries
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - i18n
   - EMC
   - performance
-parent: SYS-RCK4NZ
-order: 10
+former-id: IF-23W30C
+parent: REQ-758F5BD
+order: a0
 links:
   - type: refines
-    target: SYS-RCK4NZ
+    target: REQ-758F5BD
     confirmed: 32fb1eff344d
 ---
 The device registry shall calibrate sensor readings when the network is unavailable.

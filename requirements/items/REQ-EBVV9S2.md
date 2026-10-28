@@ -1,5 +1,5 @@
 ---
-id: DEF-FCD2R1
+id: REQ-EBVV9S2
 type: defect
 title: "Defect: boiler interface does not limit firmware images"
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 owner: L. Samir
 tags:
   - connectivity
-parent: INFO-ZBHTYF
-order: 30
+former-id: DEF-FCD2R1
+parent: REQ-XJDN42Y
+order: a2
 links:
   - type: relates-to
-    target: TC-KGPGWV
+    target: REQ-7B39TZ9
     confirmed: 1b958c991b13
   - type: relates-to
-    target: SYS-FMC0YD
+    target: REQ-QWGMBHE
     confirmed: de721eeebf34
 ---
 Found during regression testing of build 2.8.37.

@@ -1,15 +1,16 @@
 ---
-id: IF-SJ55D3
+id: REQ-JYK1VMF
 type: interface-requirement
 title: Regulation loop displays safety limits
 status: Draft
 priority: High
 owner: H. Mostafa
-parent: SYS-GECB0Q
-order: 40
+former-id: IF-SJ55D3
+parent: REQ-FJ1M55T
+order: a3
 links:
   - type: refines
-    target: SYS-GECB0Q
+    target: REQ-FJ1M55T
     confirmed: 76c8ecd5a548
 ---
 The heat pump driver shall restore the operating mode at least once per minute.

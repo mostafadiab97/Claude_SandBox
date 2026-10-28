@@ -1,5 +1,5 @@
 ---
-id: HW-ETPJQG
+id: REQ-VGNX9P7
 type: hardware-requirement
 title: Bluetooth LE link calibrates safety limits
 status: Obsolete
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - performance
   - ux
-parent: SYS-GD5QC7
-order: 20
+former-id: HW-ETPJQG
+parent: REQ-K3ZTN5J
+order: a1
 links:
   - type: refines
-    target: SYS-GD5QC7
+    target: REQ-K3ZTN5J
     confirmed: ec1a86cc2ebb
 ---
 The Bluetooth LE link shall display humidity values for at least 10 years.

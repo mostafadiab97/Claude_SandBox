@@ -1,5 +1,5 @@
 ---
-id: IF-B9A0C0
+id: REQ-CTHYWZC
 type: interface-requirement
 title: Secure boot switchs access tokens
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - performance
   - EMC
   - regulatory
-parent: SYS-RZ204B
-order: 30
+former-id: IF-B9A0C0
+parent: REQ-VKX7BXX
+order: a2
 links:
   - type: refines
-    target: SYS-RZ204B
+    target: REQ-VKX7BXX
     confirmed: a414dd799ef0
 ---
 The secure boot shall limit the connection state in under 3 s.

@@ -1,14 +1,15 @@
 ---
-id: SYS-QRF69W
+id: REQ-2D06W8P
 type: system-requirement
 title: Enclosure notifys error conditions
 status: Review
 priority: Medium
-parent: INFO-A6P9A8
-order: 870
+former-id: SYS-QRF69W
+parent: REQ-CMCS31A
+order: b0O
 links:
   - type: refines
-    target: STK-KEP05J
+    target: REQ-PRMNGRJ
     confirmed: 74304e03fe52
 ---
 The enclosure shall report schedule entries using AES-256-GCM.

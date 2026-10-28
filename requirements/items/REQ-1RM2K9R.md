@@ -1,5 +1,5 @@
 ---
-id: SW-ENT2S5
+id: REQ-1RM2K9R
 type: software-requirement
 title: Local API switchs error conditions
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - customer-request
   - safety
   - security
-parent: SYS-T6SZE0
-order: 10
+former-id: SW-ENT2S5
+parent: REQ-FSK3RQV
+order: a0
 links:
   - type: refines
-    target: SYS-T6SZE0
+    target: REQ-FSK3RQV
     confirmed: eb82d81a139b
 ---
 The Wi-Fi module shall encrypt the set point without user interaction.

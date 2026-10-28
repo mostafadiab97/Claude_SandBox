@@ -1,15 +1,16 @@
 ---
-id: HW-TQ3JB1
+id: REQ-R6ATY4C
 type: hardware-requirement
 title: Enclosure validates the connection state
 status: Approved
 priority: Medium
 owner: S. Adel
-parent: SYS-VXY593
-order: 10
+former-id: HW-TQ3JB1
+parent: REQ-X0N0V4B
+order: a0
 links:
   - type: refines
-    target: SYS-VXY593
+    target: REQ-X0N0V4B
     confirmed: ee56b8ee15e6
 ---
 The main PCB shall calibrate safety limits below 0.5 W in standby.

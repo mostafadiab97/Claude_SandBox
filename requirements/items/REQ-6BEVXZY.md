@@ -1,5 +1,5 @@
 ---
-id: HW-AXSRYD
+id: REQ-6BEVXZY
 type: hardware-requirement
 title: Device registry measures the set point
 status: Review
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - accessibility
   - cost
-parent: SYS-XRA360
-order: 40
+former-id: HW-AXSRYD
+parent: REQ-A8A09WQ
+order: a3
 links:
   - type: refines
-    target: SYS-XRA360
+    target: REQ-A8A09WQ
     confirmed: 908f575295da
 ---
 The cloud backend shall validate the operating mode within 200 ms.

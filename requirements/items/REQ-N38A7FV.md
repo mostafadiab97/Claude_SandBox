@@ -1,5 +1,5 @@
 ---
-id: SYS-PV76TW
+id: REQ-N38A7FV
 type: system-requirement
 title: Login screen limits audit records
 status: Review
@@ -7,11 +7,12 @@ priority: High
 tags:
   - i18n
   - connectivity
-parent: INFO-2XXBRS
-order: 490
+former-id: SYS-PV76TW
+parent: REQ-QYXGSQ4
+order: am
 links:
   - type: refines
-    target: STK-BR4RT9
+    target: REQ-QZME2VX
     confirmed: 16def0c1f947
 ---
 The login screen shall notify firmware images within 200 ms.

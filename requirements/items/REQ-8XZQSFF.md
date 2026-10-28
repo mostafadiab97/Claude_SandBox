@@ -1,5 +1,5 @@
 ---
-id: UC-J1Q2GN
+id: REQ-8XZQSFF
 type: use-case
 title: "UC: Restore the set point with the status LED"
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - customer-request
   - safety
-parent: INFO-MK4XMC
-order: 140
+former-id: UC-J1Q2GN
+parent: REQ-6JKVVN1
+order: aD
 links:
   - type: relates-to
-    target: STK-FWM06B
+    target: REQ-MM7V23Z
     confirmed: bbd40f488fa4
 ---
 **Actor:** home owner

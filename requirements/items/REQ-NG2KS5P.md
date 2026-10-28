@@ -1,5 +1,5 @@
 ---
-id: SYS-SEWHSS
+id: REQ-NG2KS5P
 type: system-requirement
 title: Telemetry pipeline switchs the operating mode
 status: Draft
@@ -8,14 +8,15 @@ owner: J. Müller
 tags:
   - ux
   - security
-parent: INFO-YV5EZD
-order: 1660
+former-id: SYS-SEWHSS
+parent: REQ-RE9ZKHF
+order: b1f
 links:
   - type: refines
-    target: STK-JFBQPS
+    target: REQ-A8X8PTB
     confirmed: 5027ee1822eb
   - type: mitigates
-    target: RSK-Y1RXSP
+    target: REQ-D0C5GC1
     confirmed: 561d2ee3c121
 ---
 The telemetry pipeline shall notify safety limits when the network is unavailable.

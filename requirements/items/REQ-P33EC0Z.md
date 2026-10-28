@@ -1,15 +1,16 @@
 ---
-id: IF-EGR3GM
+id: REQ-P33EC0Z
 type: interface-requirement
 title: Tamper detection measures schedule entries
 status: Review
 priority: High
 owner: K. Tanaka
-parent: SYS-RZ204B
-order: 20
+former-id: IF-EGR3GM
+parent: REQ-VKX7BXX
+order: a1
 links:
   - type: refines
-    target: SYS-RZ204B
+    target: REQ-VKX7BXX
     confirmed: a414dd799ef0
 ---
 The secure boot shall validate access tokens for up to 8 zones.

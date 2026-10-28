@@ -1,14 +1,15 @@
 ---
-id: IF-WGESS5
+id: REQ-GTNHDYK
 type: interface-requirement
 title: Limit user preferences — detail
 status: Draft
 priority: High
-parent: IF-Y7XB4Z
-order: 10
+former-id: IF-WGESS5
+parent: REQ-W9Q01GV
+order: a0
 links:
   - type: refines
-    target: IF-Y7XB4Z
+    target: REQ-W9Q01GV
     confirmed: f4cee4842824
 ---
 The boiler interface shall restore humidity values with an accuracy of ±0.5 °C.

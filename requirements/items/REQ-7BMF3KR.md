@@ -1,5 +1,5 @@
 ---
-id: SW-6N2S7B
+id: REQ-7BMF3KR
 type: software-requirement
 title: Regulation loop switchs user preferences
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - security
   - performance
-parent: SYS-1WWXQV
-order: 20
+former-id: SW-6N2S7B
+parent: REQ-2BR3BD5
+order: a1
 links:
   - type: refines
-    target: SYS-1WWXQV
+    target: REQ-2BR3BD5
     confirmed: 46c684db9439
 ---
 The regulation loop shall measure the operating mode at least once per minute.

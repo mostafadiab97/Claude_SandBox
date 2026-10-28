@@ -1,5 +1,5 @@
 ---
-id: IF-514Z3Z
+id: REQ-Z39M1Y5
 type: interface-requirement
 title: "Signal 485: the connection state"
 status: Approved
@@ -8,7 +8,8 @@ owner: S. Adel
 tags:
   - release-2.0
   - release-1.0
-parent: INFO-2TM0JP
-order: 4850
+former-id: IF-514Z3Z
+parent: REQ-RJ0KHPT
+order: b6o
 ---
 Interface signal number 485.

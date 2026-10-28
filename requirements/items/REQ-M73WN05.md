@@ -1,5 +1,5 @@
 ---
-id: TC-DQRWSR
+id: REQ-M73WN05
 type: test-case
 title: "Verify: User account service synchronises audit records"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - customer-request
   - performance
-parent: INFO-7P4D8D
-order: 1140
+former-id: TC-DQRWSR
+parent: REQ-8351896
+order: b0p
 links:
   - type: verifies
-    target: SYS-FJTSEK
+    target: REQ-SBES3DX
     confirmed: 0ff5a626958c
 ---
 **Objective:** verify that the user account service behaves as specified.

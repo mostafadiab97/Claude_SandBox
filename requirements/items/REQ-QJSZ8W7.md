@@ -1,5 +1,5 @@
 ---
-id: DEF-83YRMH
+id: REQ-QJSZ8W7
 type: defect
 title: "Defect: over-temperature monitor does not detect access tokens"
 status: Approved
@@ -8,14 +8,15 @@ tags:
   - release-1.0
   - i18n
   - safety
-parent: INFO-6QFMYN
-order: 120
+former-id: DEF-83YRMH
+parent: REQ-1XKBKFE
+order: aB
 links:
   - type: relates-to
-    target: TC-W9KYM3
+    target: REQ-TAT405F
     confirmed: 64706e5b8dd5
   - type: relates-to
-    target: SYS-5BZJ6Y
+    target: REQ-S2CYXSP
     confirmed: 4f8713624f57
 ---
 Found during regression testing of build 2.3.18.

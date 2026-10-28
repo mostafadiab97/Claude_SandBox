@@ -1,5 +1,5 @@
 ---
-id: TC-P198C0
+id: REQ-GZSW45W
 type: test-case
 title: "Verify: Encryption layer stores safety limits"
 status: Obsolete
@@ -8,11 +8,12 @@ tags:
   - cost
   - accessibility
   - i18n
-parent: INFO-Z4TW4B
-order: 10
+former-id: TC-P198C0
+parent: REQ-K6FGAY0
+order: a0
 links:
   - type: verifies
-    target: SYS-RW42CM
+    target: REQ-TXG6AVW
     confirmed: 28c35d155880
 ---
 **Objective:** verify that the encryption layer behaves as specified.

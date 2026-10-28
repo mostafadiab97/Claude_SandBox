@@ -1,5 +1,5 @@
 ---
-id: TC-MWDJF8
+id: REQ-M1XG1GA
 type: test-case
 title: "Verify: Menu system encrypts sensor readings"
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: محمد علي
 tags:
   - performance
-parent: INFO-HTSZ15
-order: 150
+former-id: TC-MWDJF8
+parent: REQ-Y9VHHKA
+order: aE
 links:
   - type: verifies
-    target: SYS-ZWGKMZ
+    target: REQ-G15G5N0
     confirmed: de491092c347
 ---
 **Objective:** verify that the menu system behaves as specified.

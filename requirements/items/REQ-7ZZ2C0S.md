@@ -1,5 +1,5 @@
 ---
-id: SYS-PYKN9H
+id: REQ-7ZZ2C0S
 type: system-requirement
 title: Telemetry pipeline notifys the operating mode
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 tags:
   - security
   - ux
-parent: INFO-YV5EZD
-order: 90
+former-id: SYS-PYKN9H
+parent: REQ-RE9ZKHF
+order: a8
 links:
   - type: refines
-    target: STK-Y5PMTC
+    target: REQ-FPBMKN9
     confirmed: 047439fb0db8
 ---
 The telemetry pipeline shall measure audit records at least once per minute.

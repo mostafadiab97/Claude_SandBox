@@ -1,17 +1,18 @@
 ---
-id: SYS-00WQH9
+id: REQ-0SY5BMS
 type: system-requirement
 title: Menu system switchs humidity values
 status: Draft
 priority: Medium
-parent: INFO-PDR6FV
-order: 1970
+former-id: SYS-00WQH9
+parent: REQ-2ZA2TRZ
+order: b2A
 links:
   - type: refines
-    target: STK-KPV71Q
+    target: REQ-VQBZQVC
     confirmed: 10d9c216aea2
   - type: mitigates
-    target: RSK-0929HC
+    target: REQ-W57NTFR
     confirmed: 2975497b38ca
 ---
 The menu system shall store schedule entries in all supported languages.

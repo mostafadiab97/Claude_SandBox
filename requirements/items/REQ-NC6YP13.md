@@ -1,5 +1,5 @@
 ---
-id: SW-1N6JYM
+id: REQ-NC6YP13
 type: software-requirement
 title: Mobile app reports humidity values
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - performance
   - safety
   - power
-parent: SYS-S2EZJF
-order: 10
+former-id: SW-1N6JYM
+parent: REQ-6ESJ1D4
+order: a0
 links:
   - type: refines
-    target: SYS-S2EZJF
+    target: REQ-6ESJ1D4
     confirmed: b0a3b18f1cfd
 ---
 The home dashboard shall limit safety limits after a power loss.

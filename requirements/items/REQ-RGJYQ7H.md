@@ -1,15 +1,16 @@
 ---
-id: SYS-0R6VPN
+id: REQ-RGJYQ7H
 type: system-requirement
 title: Bluetooth LE link limits relay events
 status: Approved
 tags:
   - ux
-parent: INFO-NRVHA2
-order: 1040
+former-id: SYS-0R6VPN
+parent: REQ-6R94HFM
+order: b0f
 links:
   - type: refines
-    target: STK-G2ZBHW
+    target: REQ-GXR8KE5
     confirmed: fee0d3303478
 ---
 The Bluetooth LE link shall restore schedule entries for at least 10 years.

@@ -1,5 +1,5 @@
 ---
-id: TC-1AYT20
+id: REQ-4BYW4QA
 type: test-case
 title: "Verify: Touch display detects energy consumption"
 status: Draft
@@ -7,14 +7,15 @@ priority: Low
 owner: A. Hassan
 tags:
   - regulatory
-parent: INFO-HTSZ15
-order: 200
+former-id: TC-1AYT20
+parent: REQ-Y9VHHKA
+order: aJ
 links:
   - type: verifies
-    target: SYS-3PT4BJ
+    target: REQ-ABD02P3
     confirmed: 0a43238dc6c3
   - type: verifies
-    target: SW-99AAP4
+    target: REQ-R7NN846
     confirmed: 3a4ac0fc5bf5
 ---
 **Objective:** verify that the touch display behaves as specified.

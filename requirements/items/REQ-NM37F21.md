@@ -1,14 +1,15 @@
 ---
-id: TC-9FT8DT
+id: REQ-NM37F21
 type: test-case
 title: "Regression: Home dashboard encrypts user preferences"
 status: Approved
 owner: J. Müller
-parent: INFO-ECHASH
-order: 1220
+former-id: TC-9FT8DT
+parent: REQ-6H15AV2
+order: b0x
 links:
   - type: verifies
-    target: SYS-228KWQ
+    target: REQ-PW4KWQ9
     confirmed: 96ed9cb06525
 ---
 **Objective:** verify that the device behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SYS-HX38ZE
+id: REQ-0SX6R76
 type: system-requirement
 title: Heat pump driver measures the connection state
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - connectivity
   - accessibility
-parent: INFO-6DQTKV
-order: 1770
+former-id: SYS-HX38ZE
+parent: REQ-7ED7ZET
+order: b1q
 links:
   - type: refines
-    target: STK-AA05P4
+    target: REQ-REA5VGA
     confirmed: e2bec3bcd11c
 ---
 The heat pump driver shall detect access tokens at least once per minute.

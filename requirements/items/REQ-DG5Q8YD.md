@@ -1,14 +1,15 @@
 ---
-id: SW-52NFB3
+id: REQ-DG5Q8YD
 type: software-requirement
 title: Backlight notifys audit records
 status: Approved
 owner: H. Mostafa
-parent: SYS-9YAX2Y
-order: 10
+former-id: SW-52NFB3
+parent: REQ-VK5ZJ33
+order: a0
 links:
   - type: refines
-    target: SYS-9YAX2Y
+    target: REQ-VK5ZJ33
     confirmed: b8ba4474f101
 ---
 The menu system shall log access tokens at least once per minute.

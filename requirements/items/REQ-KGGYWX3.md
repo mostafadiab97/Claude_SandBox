@@ -1,5 +1,5 @@
 ---
-id: SYS-X6T49B
+id: REQ-KGGYWX3
 type: system-requirement
 title: Encryption layer reports access tokens
 status: Review
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - EMC
   - connectivity
-parent: INFO-0229G8
-order: 1220
+former-id: SYS-X6T49B
+parent: REQ-H9113WA
+order: b0x
 links:
   - type: refines
-    target: STK-1TB226
+    target: REQ-QAY0F49
     confirmed: ea29425b18b7
 ---
 The encryption layer shall restore relay events for up to 8 zones.

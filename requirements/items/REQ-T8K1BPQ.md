@@ -1,15 +1,16 @@
 ---
-id: SW-TK44GG
+id: REQ-T8K1BPQ
 type: software-requirement
 title: Status LED synchronises audit records
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: SYS-NY5DFZ
-order: 20
+former-id: SW-TK44GG
+parent: REQ-7PZT8S2
+order: a1
 links:
   - type: refines
-    target: SYS-NY5DFZ
+    target: REQ-7PZT8S2
     confirmed: aa8559f49f1f
 ---
 The rotary knob shall authenticate audit records after a power loss.

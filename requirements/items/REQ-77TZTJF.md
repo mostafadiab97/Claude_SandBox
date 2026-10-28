@@ -1,17 +1,18 @@
 ---
-id: SYS-9TKGBW
+id: REQ-77TZTJF
 type: system-requirement
 title: Over-temperature monitor limits error conditions
 status: Draft
 owner: L. Samir
-parent: INFO-0229G8
-order: 540
+former-id: SYS-9TKGBW
+parent: REQ-H9113WA
+order: ar
 links:
   - type: refines
-    target: STK-7X7S81
+    target: REQ-N96QXC6
     confirmed: 0b0c08c75491
   - type: mitigates
-    target: RSK-JW7YBZ
+    target: REQ-G4DF4P0
     confirmed: fdd2a6f94f2a
 ---
 The over-temperature monitor shall notify access tokens in under 3 s.

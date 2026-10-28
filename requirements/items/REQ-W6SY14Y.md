@@ -1,16 +1,17 @@
 ---
-id: SW-Q1CXD3
+id: REQ-W6SY14Y
 type: software-requirement
 title: Bluetooth LE link reports error conditions
 status: Draft
 owner: M. Farouk
 tags:
   - i18n
-parent: SYS-4R41VA
-order: 10
+former-id: SW-Q1CXD3
+parent: REQ-2DW0JKQ
+order: a0
 links:
   - type: refines
-    target: SYS-4R41VA
+    target: REQ-2DW0JKQ
     confirmed: 83721f87c9d0
 ---
 The pairing process shall log energy consumption within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: IF-G75MMX
+id: REQ-FJD20AQ
 type: interface-requirement
 title: Home dashboard validates access tokens
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - release-2.0
   - performance
   - ux
-parent: SYS-GGV7F0
-order: 10
+former-id: IF-G75MMX
+parent: REQ-444WTRT
+order: a0
 links:
   - type: refines
-    target: SYS-GGV7F0
+    target: REQ-444WTRT
     confirmed: aba31ae0874e
 ---
 The login screen shall restore sensor readings for at least 10 years.

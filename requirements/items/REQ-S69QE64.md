@@ -1,5 +1,5 @@
 ---
-id: SW-95QS75
+id: REQ-S69QE64
 type: software-requirement
 title: Status LED switchs safety limits
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: محمد علي
 tags:
   - safety
-parent: SYS-26VKCE
-order: 30
+former-id: SW-95QS75
+parent: REQ-SV28FZ6
+order: a2
 links:
   - type: refines
-    target: SYS-26VKCE
+    target: REQ-SV28FZ6
     confirmed: 5c68d7d11bea
 ---
 The menu system shall display error conditions in under 3 s.

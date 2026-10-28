@@ -1,5 +1,5 @@
 ---
-id: IF-F3S2KH
+id: REQ-60YEGDA
 type: interface-requirement
 title: Power supply limits error conditions
 status: Approved
@@ -7,11 +7,12 @@ owner: H. Mostafa
 tags:
   - security
   - ux
-parent: SYS-324HGW
-order: 30
+former-id: IF-F3S2KH
+parent: REQ-A5E17AM
+order: a2
 links:
   - type: refines
-    target: SYS-324HGW
+    target: REQ-A5E17AM
     confirmed: 827d08f24199
 ---
 The battery backup shall display the connection state for at least 10 years.

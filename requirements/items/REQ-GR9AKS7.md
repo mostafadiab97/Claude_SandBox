@@ -1,15 +1,16 @@
 ---
-id: SYS-QGA0VX
+id: REQ-GR9AKS7
 type: system-requirement
 title: Heat pump driver restores sensor readings
 status: Draft
 priority: Low
 owner: Y. Saber
-parent: INFO-6DQTKV
-order: 270
+former-id: SYS-QGA0VX
+parent: REQ-7ED7ZET
+order: aQ
 links:
   - type: refines
-    target: STK-9YF5RE
+    target: REQ-FGZGBY5
     confirmed: 43643c03020f
 ---
 The heat pump driver shall switch the operating mode without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: TC-TBSYGK
+id: REQ-C0C407M
 type: test-case
 title: "Verify: Heat pump driver reports safety limits"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - release-1.0
   - release-2.0
-parent: INFO-MS9DAG
-order: 780
+former-id: TC-TBSYGK
+parent: REQ-XGWSK2K
+order: b0F
 links:
   - type: verifies
-    target: SYS-YN2K60
+    target: REQ-QRWZEWA
     confirmed: 2659248bd16e
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

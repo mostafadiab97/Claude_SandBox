@@ -1,5 +1,5 @@
 ---
-id: SW-T0Z7E3
+id: REQ-YNYMV60
 type: software-requirement
 title: Encrypt access tokens — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - EMC
   - release-2.0
-parent: SW-2MFHZ9
-order: 10
+former-id: SW-T0Z7E3
+parent: REQ-VV7J0C9
+order: a0
 links:
   - type: refines
-    target: SW-2MFHZ9
+    target: REQ-VV7J0C9
     confirmed: e7127e3a9176
 ---
 The heating controller shall display the connection state after a power loss.

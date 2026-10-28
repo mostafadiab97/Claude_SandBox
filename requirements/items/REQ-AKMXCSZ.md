@@ -1,5 +1,5 @@
 ---
-id: SYS-RB6KMZ
+id: REQ-AKMXCSZ
 type: system-requirement
 title: Zigbee radio synchronises the connection state
 status: Draft
@@ -7,11 +7,12 @@ owner: M. Farouk
 tags:
   - regulatory
   - EMC
-parent: INFO-NRVHA2
-order: 680
+former-id: SYS-RB6KMZ
+parent: REQ-6R94HFM
+order: b05
 links:
   - type: refines
-    target: STK-AAZ4HV
+    target: REQ-M9DYEF5
     confirmed: 44fc7956dbf8
 ---
 The Zigbee radio shall restore error conditions at least once per minute.

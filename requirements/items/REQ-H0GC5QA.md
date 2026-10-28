@@ -1,5 +1,5 @@
 ---
-id: IF-8F3D9E
+id: REQ-H0GC5QA
 type: interface-requirement
 title: "Signal 502: audit records"
 status: Draft
@@ -8,7 +8,8 @@ tags:
   - ux
   - EMC
   - security
-parent: INFO-2TM0JP
-order: 5020
+former-id: IF-8F3D9E
+parent: REQ-RJ0KHPT
+order: b75
 ---
 Interface signal number 502.

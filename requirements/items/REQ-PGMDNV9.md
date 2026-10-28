@@ -1,5 +1,5 @@
 ---
-id: SYS-K2NWME
+id: REQ-PGMDNV9
 type: system-requirement
 title: Battery backup stores the room temperature
 status: Approved
@@ -8,14 +8,15 @@ owner: Y. Saber
 tags:
   - EMC
   - connectivity
-parent: INFO-A6P9A8
-order: 370
+former-id: SYS-K2NWME
+parent: REQ-CMCS31A
+order: aa
 links:
   - type: refines
-    target: STK-M28XWW
+    target: REQ-2678XV5
     confirmed: bcf262f10744
   - type: mitigates
-    target: RSK-3VPDQ8
+    target: REQ-WWVJC3K
     confirmed: 3cf91f6b37bc
 ---
 The battery backup shall switch the operating mode within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: SYS-CB7E79
+id: REQ-SHTW6AT
 type: system-requirement
 title: Power supply detects error conditions
 status: Review
@@ -7,14 +7,15 @@ priority: Medium
 tags:
   - connectivity
   - security
-parent: INFO-A6P9A8
-order: 1260
+former-id: SYS-CB7E79
+parent: REQ-CMCS31A
+order: b11
 links:
   - type: refines
-    target: STK-2STGXE
+    target: REQ-67MQ0AB
     confirmed: c77fe61daf4b
   - type: mitigates
-    target: RSK-46TQ95
+    target: REQ-PWM7XS5
     confirmed: d8376349dea6
 ---
 The power supply shall validate humidity values below 0.5 W in standby.

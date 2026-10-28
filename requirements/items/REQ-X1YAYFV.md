@@ -1,5 +1,5 @@
 ---
-id: SW-FXTSYV
+id: REQ-X1YAYFV
 type: software-requirement
 title: Cloud backend synchronises energy consumption
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - customer-request
   - safety
-parent: SYS-3FB1DA
-order: 20
+former-id: SW-FXTSYV
+parent: REQ-FGHND7N
+order: a1
 links:
   - type: refines
-    target: SYS-3FB1DA
+    target: REQ-FGHND7N
     confirmed: e3f29c8362d3
 ---
 The telemetry pipeline shall detect error conditions without user interaction.

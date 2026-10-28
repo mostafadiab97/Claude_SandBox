@@ -1,5 +1,5 @@
 ---
-id: SW-BQZPJX
+id: REQ-1NF5CB6
 type: software-requirement
 title: Menu system calibrates energy consumption
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - cost
   - power
   - performance
-parent: SYS-3J52W8
-order: 20
+former-id: SW-BQZPJX
+parent: REQ-A10PCXF
+order: a1
 links:
   - type: refines
-    target: SYS-3J52W8
+    target: REQ-A10PCXF
     confirmed: 92ce5ba8e9a8
 ---
 The backlight shall notify error conditions without user interaction.

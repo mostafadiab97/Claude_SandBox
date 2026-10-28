@@ -1,5 +1,5 @@
 ---
-id: SW-GXPBJW
+id: REQ-MBVQC33
 type: software-requirement
 title: Tamper detection measures sensor readings
 status: Draft
@@ -7,11 +7,12 @@ owner: H. Mostafa
 tags:
   - security
   - customer-request
-parent: SYS-Z166W7
-order: 10
+former-id: SW-GXPBJW
+parent: REQ-HTWH7EY
+order: a0
 links:
   - type: refines
-    target: SYS-Z166W7
+    target: REQ-HTWH7EY
     confirmed: 099678ac6f39
 ---
 The secure boot shall limit the room temperature in all supported languages.

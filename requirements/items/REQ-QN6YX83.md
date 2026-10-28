@@ -1,5 +1,5 @@
 ---
-id: SYS-PN9GQ2
+id: REQ-QN6YX83
 type: system-requirement
 title: Zigbee radio restores firmware images
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - accessibility
   - connectivity
   - EMC
-parent: INFO-NRVHA2
-order: 930
+former-id: SYS-PN9GQ2
+parent: REQ-6R94HFM
+order: b0U
 links:
   - type: refines
-    target: STK-22X165
+    target: REQ-QCFMNYV
     confirmed: 0023c9af8e7d
 ---
 The Zigbee radio shall switch safety limits within 200 ms.

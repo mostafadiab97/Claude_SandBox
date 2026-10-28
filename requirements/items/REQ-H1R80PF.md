@@ -1,16 +1,17 @@
 ---
-id: TC-05WBNN
+id: REQ-H1R80PF
 type: test-case
 title: "Regression: Schedule editor stores the set point"
 status: Draft
 priority: Low
 tags:
   - connectivity
-parent: INFO-ECHASH
-order: 1650
+former-id: TC-05WBNN
+parent: REQ-6H15AV2
+order: b1e
 links:
   - type: verifies
-    target: SYS-ZNDMZ4
+    target: REQ-D8TX3Z0
     confirmed: 57cabc46b0d2
 ---
 **Objective:** verify that the device behaves as specified.

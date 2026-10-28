@@ -1,5 +1,5 @@
 ---
-id: SW-B1DE53
+id: REQ-XFF5VZB
 type: software-requirement
 title: Switch schedule entries — detail
 status: Review
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - connectivity
   - regulatory
-parent: SW-5CN5AS
-order: 10
+former-id: SW-B1DE53
+parent: REQ-Z5TG554
+order: a0
 links:
   - type: refines
-    target: SW-5CN5AS
+    target: REQ-Z5TG554
     confirmed: e17c58f91496
 ---
 The zone valve shall synchronise firmware images for up to 8 zones.

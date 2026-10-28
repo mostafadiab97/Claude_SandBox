@@ -1,15 +1,16 @@
 ---
-id: SW-40GA7S
+id: REQ-55H79CZ
 type: software-requirement
 title: Status LED stores user preferences
 status: Draft
 priority: Low
 owner: A. Hassan
-parent: SYS-63GREP
-order: 20
+former-id: SW-40GA7S
+parent: REQ-20KV4SP
+order: a1
 links:
   - type: refines
-    target: SYS-63GREP
+    target: REQ-20KV4SP
     confirmed: b483aeef9b3f
 ---
 The backlight shall switch user preferences after a power loss.

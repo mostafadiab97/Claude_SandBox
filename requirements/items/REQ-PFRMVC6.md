@@ -1,15 +1,16 @@
 ---
-id: SW-0WRWJT
+id: REQ-PFRMVC6
 type: software-requirement
 title: Tamper detection limits sensor readings
 status: Approved
 priority: High
 owner: Y. Saber
-parent: SYS-WKCZDQ
-order: 20
+former-id: SW-0WRWJT
+parent: REQ-AN5WSWC
+order: a1
 links:
   - type: refines
-    target: SYS-WKCZDQ
+    target: REQ-AN5WSWC
     confirmed: ef7ce1eb28d3
 ---
 The watchdog shall validate the connection state in all supported languages.

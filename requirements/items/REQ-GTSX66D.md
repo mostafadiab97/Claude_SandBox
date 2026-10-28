@@ -1,14 +1,15 @@
 ---
-id: HW-9QJ80D
+id: REQ-GTSX66D
 type: hardware-requirement
 title: Secure boot detects access tokens
 status: Approved
 owner: M. Farouk
-parent: SYS-RAGJWJ
-order: 20
+former-id: HW-9QJ80D
+parent: REQ-60B7EGX
+order: a1
 links:
   - type: refines
-    target: SYS-RAGJWJ
+    target: REQ-60B7EGX
     confirmed: 8fefcc6bf8d8
 ---
 The over-temperature monitor shall display energy consumption for at least 10 years.

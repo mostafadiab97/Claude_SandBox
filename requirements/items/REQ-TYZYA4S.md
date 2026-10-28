@@ -1,5 +1,5 @@
 ---
-id: SW-M422RM
+id: REQ-TYZYA4S
 type: software-requirement
 title: Zone valve stores sensor readings
 status: Review
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - release-2.0
   - EMC
-parent: SYS-CE57ME
-order: 20
+former-id: SW-M422RM
+parent: REQ-VH5J2HY
+order: a1
 links:
   - type: refines
-    target: SYS-CE57ME
+    target: REQ-VH5J2HY
     confirmed: 4e23886933b6
 ---
 The boiler interface shall validate audit records for at least 10 years.

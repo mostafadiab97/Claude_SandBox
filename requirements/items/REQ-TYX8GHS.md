@@ -1,14 +1,15 @@
 ---
-id: SYS-ZM6XAB
+id: REQ-TYX8GHS
 type: system-requirement
 title: Pairing process calibrates sensor readings
 status: Draft
 priority: Low
-parent: INFO-NRVHA2
-order: 160
+former-id: SYS-ZM6XAB
+parent: REQ-6R94HFM
+order: aF
 links:
   - type: refines
-    target: STK-Q9RBYT
+    target: REQ-B31NWSC
     confirmed: a67c8b718d88
 ---
 The pairing process shall restore the room temperature within 200 ms.

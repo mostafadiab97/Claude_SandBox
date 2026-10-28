@@ -1,5 +1,5 @@
 ---
-id: SYS-NJ73ZK
+id: REQ-M3BR6KY
 type: system-requirement
 title: Pairing process measures safety limits
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: H. Mostafa
 tags:
   - ux
-parent: INFO-NRVHA2
-order: 1790
+former-id: SYS-NJ73ZK
+parent: REQ-6R94HFM
+order: b1s
 links:
   - type: refines
-    target: STK-71VSKB
+    target: REQ-8TVXMWR
     confirmed: 994ecb1eff6f
 ---
 The pairing process shall synchronise sensor readings in under 3 s.

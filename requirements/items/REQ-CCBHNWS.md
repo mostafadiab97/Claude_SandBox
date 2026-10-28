@@ -1,5 +1,5 @@
 ---
-id: IF-XHXNTK
+id: REQ-CCBHNWS
 type: interface-requirement
 title: Device registry validates the set point
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - security
-parent: SYS-F5DVP4
-order: 30
+former-id: IF-XHXNTK
+parent: REQ-7MXJ7E0
+order: a2
 links:
   - type: refines
-    target: SYS-F5DVP4
+    target: REQ-7MXJ7E0
     confirmed: fd7bc4fcdfea
 ---
 The cloud backend shall encrypt user preferences in under 3 s.

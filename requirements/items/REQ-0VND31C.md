@@ -1,15 +1,16 @@
 ---
-id: HW-RCG3AF
+id: REQ-0VND31C
 type: hardware-requirement
 title: Display energy consumption — detail
 status: Draft
 priority: Low
 owner: Y. Saber
-parent: HW-6JH9SE
-order: 10
+former-id: HW-RCG3AF
+parent: REQ-NGTF5TY
+order: a0
 links:
   - type: refines
-    target: HW-6JH9SE
+    target: REQ-NGTF5TY
     confirmed: c5b4237c6576
 ---
 The pairing process shall detect relay events with an accuracy of ±0.5 °C.

@@ -1,19 +1,20 @@
 ---
-id: SYS-34B7MH
+id: REQ-ED37SCP
 type: system-requirement
 title: Menu system reports firmware images
 status: Draft
 owner: N. Kamal
 tags:
   - connectivity
-parent: INFO-PDR6FV
-order: 50
+former-id: SYS-34B7MH
+parent: REQ-2ZA2TRZ
+order: a4
 links:
   - type: refines
-    target: STK-4K2NE4
+    target: REQ-1DHEN00
     confirmed: 7cfb31353d89
   - type: mitigates
-    target: RSK-W1W7WX
+    target: REQ-Y2BZ4A5
     confirmed: 902c1cbc8514
 ---
 The menu system shall log firmware images for at least 10 years.

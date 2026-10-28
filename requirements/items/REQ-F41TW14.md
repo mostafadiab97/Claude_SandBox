@@ -1,5 +1,5 @@
 ---
-id: SW-CCMBYY
+id: REQ-F41TW14
 type: software-requirement
 title: Notify sensor readings — detail
 status: Approved
@@ -7,11 +7,12 @@ owner: K. Tanaka
 tags:
   - accessibility
   - i18n
-parent: SW-Z78B12
-order: 10
+former-id: SW-CCMBYY
+parent: REQ-WXH29S7
+order: a0
 links:
   - type: refines
-    target: SW-Z78B12
+    target: REQ-WXH29S7
     confirmed: bbd897175876
 ---
 The user account service shall switch audit records in under 3 s.

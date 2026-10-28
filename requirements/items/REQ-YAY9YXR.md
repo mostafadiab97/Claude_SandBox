@@ -1,5 +1,5 @@
 ---
-id: HW-WBT7TY
+id: REQ-YAY9YXR
 type: hardware-requirement
 title: Device registry logs sensor readings
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - i18n
   - regulatory
   - cost
-parent: SYS-EQ67JM
-order: 20
+former-id: HW-WBT7TY
+parent: REQ-KMJYZF7
+order: a1
 links:
   - type: refines
-    target: SYS-EQ67JM
+    target: REQ-KMJYZF7
     confirmed: deb3f38239b9
 ---
 The OTA server shall log user preferences at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: HW-J3N489
+id: REQ-FFXXXGK
 type: hardware-requirement
 title: Validate sensor readings — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: محمد علي
 tags:
   - cost
-parent: HW-0GH3MQ
-order: 10
+former-id: HW-J3N489
+parent: REQ-8RQEDE5
+order: a0
 links:
   - type: refines
-    target: HW-0GH3MQ
+    target: REQ-8RQEDE5
     confirmed: 1a2ba3c1da10
 ---
 The relay board shall log sensor readings below 0.5 W in standby.

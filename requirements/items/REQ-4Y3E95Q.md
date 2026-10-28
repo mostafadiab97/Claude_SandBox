@@ -1,5 +1,5 @@
 ---
-id: TC-S7BZ5K
+id: REQ-4Y3E95Q
 type: test-case
 title: "Verify: Over-temperature monitor encrypts error conditions"
 status: Draft
@@ -7,14 +7,15 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - customer-request
-parent: INFO-Z4TW4B
-order: 800
+former-id: TC-S7BZ5K
+parent: REQ-K6FGAY0
+order: b0H
 links:
   - type: verifies
-    target: SYS-Y8Q9XD
+    target: REQ-Z3ES3B3
     confirmed: dfd0a878dd51
   - type: verifies
-    target: SW-B45075
+    target: REQ-RM9RV7Z
     confirmed: 44b6eb114f52
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: TC-RYMG64
+id: REQ-EKVTF11
 type: test-case
 title: "Verify: Heating controller reports the connection state"
 status: Review
 priority: Medium
 owner: S. Adel
-parent: INFO-MS9DAG
-order: 600
+former-id: TC-RYMG64
+parent: REQ-XGWSK2K
+order: ax
 links:
   - type: verifies
-    target: SYS-YKN19M
+    target: REQ-E16RF9X
     confirmed: cf6a8acfb8a2
 ---
 **Objective:** verify that the heating controller behaves as specified.

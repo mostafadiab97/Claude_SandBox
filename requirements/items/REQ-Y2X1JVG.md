@@ -1,16 +1,17 @@
 ---
-id: TC-MENMWZ
+id: REQ-Y2X1JVG
 type: test-case
 title: "Verify: Over-temperature monitor measures the connection state"
 status: Approved
 owner: L. Samir
 tags:
   - safety
-parent: INFO-Z4TW4B
-order: 1250
+former-id: TC-MENMWZ
+parent: REQ-K6FGAY0
+order: b10
 links:
   - type: verifies
-    target: SYS-8FZWQN
+    target: REQ-CKNG4P8
     confirmed: da1b062f4b9e
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

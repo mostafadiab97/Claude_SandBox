@@ -1,15 +1,16 @@
 ---
-id: TC-RYGD11
+id: REQ-XWSP8JY
 type: test-case
 title: "Regression: Local API displays schedule entries"
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: INFO-ECHASH
-order: 540
+former-id: TC-RYGD11
+parent: REQ-6H15AV2
+order: ar
 links:
   - type: verifies
-    target: SYS-FA8CFD
+    target: REQ-KPTHK4E
     confirmed: 7868d91ae4aa
 ---
 **Objective:** verify that the device behaves as specified.

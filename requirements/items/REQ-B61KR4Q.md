@@ -1,14 +1,15 @@
 ---
-id: SW-TQAA5G
+id: REQ-B61KR4Q
 type: software-requirement
 title: Over-temperature monitor displays error conditions
 status: Draft
 owner: N. Kamal
-parent: SYS-Z166W7
-order: 30
+former-id: SW-TQAA5G
+parent: REQ-HTWH7EY
+order: a2
 links:
   - type: refines
-    target: SYS-Z166W7
+    target: REQ-HTWH7EY
     confirmed: 099678ac6f39
 ---
 The secure boot shall measure humidity values at least once per minute.

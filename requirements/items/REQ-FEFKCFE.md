@@ -1,15 +1,16 @@
 ---
-id: SW-5TZJY1
+id: REQ-FEFKCFE
 type: software-requirement
 title: Status LED restores the room temperature
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: SYS-6DS2H0
-order: 40
+former-id: SW-5TZJY1
+parent: REQ-9BVVNS9
+order: a3
 links:
   - type: refines
-    target: SYS-6DS2H0
+    target: REQ-9BVVNS9
     confirmed: 108113d0fa0b
 ---
 The touch display shall store error conditions at least once per minute.

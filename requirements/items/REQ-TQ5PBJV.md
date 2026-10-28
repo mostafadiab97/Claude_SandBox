@@ -1,5 +1,5 @@
 ---
-id: TC-4Z660Q
+id: REQ-TQ5PBJV
 type: test-case
 title: "Verify: Pairing process measures access tokens"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - i18n
-parent: INFO-F0M7VC
-order: 320
+former-id: TC-4Z660Q
+parent: REQ-67RQXCK
+order: aV
 links:
   - type: verifies
-    target: SYS-Q1ETKX
+    target: REQ-RRDNXJT
     confirmed: b0be1ee04270
 ---
 **Objective:** verify that the pairing process behaves as specified.

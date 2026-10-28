@@ -1,18 +1,19 @@
 ---
-id: TC-RDC6VT
+id: REQ-NB4D7F5
 type: test-case
 title: "Verify: Relay board stores audit records"
 status: Approved
 priority: Medium
 owner: S. Adel
-parent: INFO-MACGC3
-order: 170
+former-id: TC-RDC6VT
+parent: REQ-F9Z1FYS
+order: aG
 links:
   - type: verifies
-    target: SYS-422XBG
+    target: REQ-BGNBT5F
     confirmed: 5a6b1faa9b43
   - type: verifies
-    target: SW-QQWQ93
+    target: REQ-QBRTCP1
     confirmed: 901c1d122bd5
 ---
 **Objective:** verify that the relay board behaves as specified.

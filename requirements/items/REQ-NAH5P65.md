@@ -1,5 +1,5 @@
 ---
-id: SW-5XH32A
+id: REQ-NAH5P65
 type: software-requirement
 title: Pairing process validates access tokens
 status: Review
@@ -8,11 +8,12 @@ tags:
   - EMC
   - release-1.0
   - regulatory
-parent: SYS-CM44AM
-order: 20
+former-id: SW-5XH32A
+parent: REQ-PR70XPC
+order: a1
 links:
   - type: refines
-    target: SYS-CM44AM
+    target: REQ-PR70XPC
     confirmed: 2a3acc022feb
 ---
 The pairing process shall authenticate error conditions using AES-256-GCM.

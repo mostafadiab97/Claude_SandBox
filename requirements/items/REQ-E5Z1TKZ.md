@@ -1,16 +1,17 @@
 ---
-id: SW-E53Q06
+id: REQ-E5Z1TKZ
 type: software-requirement
 title: Mobile app synchronises sensor readings
 status: Approved
 tags:
   - accessibility
   - regulatory
-parent: SYS-NE90V9
-order: 30
+former-id: SW-E53Q06
+parent: REQ-N59N0W3
+order: a2
 links:
   - type: refines
-    target: SYS-NE90V9
+    target: REQ-N59N0W3
     confirmed: d34ffbeb0cc6
 ---
 The notification service shall measure the room temperature without user interaction.

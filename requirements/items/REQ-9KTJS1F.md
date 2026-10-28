@@ -1,16 +1,17 @@
 ---
-id: IF-JQSZFF
+id: REQ-9KTJS1F
 type: interface-requirement
 title: Regulation loop calibrates error conditions
 status: Review
 priority: Low
 tags:
   - safety
-parent: SYS-SJH59J
-order: 30
+former-id: IF-JQSZFF
+parent: REQ-95STN6W
+order: a2
 links:
   - type: refines
-    target: SYS-SJH59J
+    target: REQ-95STN6W
     confirmed: 7dfb91f535ef
 ---
 The boiler interface shall report humidity values using AES-256-GCM.

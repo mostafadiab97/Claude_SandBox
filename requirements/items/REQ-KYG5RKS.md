@@ -1,5 +1,5 @@
 ---
-id: SW-73R052
+id: REQ-KYG5RKS
 type: software-requirement
 title: Notification service validates error conditions
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - regulatory
   - power
-parent: SYS-AY7604
-order: 10
+former-id: SW-73R052
+parent: REQ-TVYEGT2
+order: a0
 links:
   - type: refines
-    target: SYS-AY7604
+    target: REQ-TVYEGT2
     confirmed: b500de19135f
 ---
 The home dashboard shall calibrate schedule entries using AES-256-GCM.

@@ -1,5 +1,5 @@
 ---
-id: TC-KCW5P3
+id: REQ-RENR17M
 type: test-case
 title: "Verify: OTA server synchronises error conditions"
 status: Approved
@@ -8,14 +8,15 @@ owner: H. Mostafa
 tags:
   - cost
   - performance
-parent: INFO-7P4D8D
-order: 210
+former-id: TC-KCW5P3
+parent: REQ-8351896
+order: aK
 links:
   - type: verifies
-    target: SYS-NM7171
+    target: REQ-ZF5TC5N
     confirmed: 8f7808f9b2b6
   - type: verifies
-    target: SW-A58ZR3
+    target: REQ-4BDGHXM
     confirmed: f7cc69a0ad64
 ---
 **Objective:** verify that the OTA server behaves as specified.

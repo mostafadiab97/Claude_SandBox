@@ -1,15 +1,16 @@
 ---
-id: TC-5B2S4V
+id: REQ-GY7V4W5
 type: test-case
 title: Hub verification 21
 status: Draft
 priority: Low
 owner: J. Müller
-parent: INFO-ECHASH
-order: 300
+former-id: TC-5B2S4V
+parent: REQ-6H15AV2
+order: aT
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

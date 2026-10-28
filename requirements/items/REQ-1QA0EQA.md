@@ -1,5 +1,5 @@
 ---
-id: TC-GJA61Q
+id: REQ-1QA0EQA
 type: test-case
 title: "Verify: Status LED notifys schedule entries"
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - security
   - release-2.0
   - performance
-parent: INFO-HTSZ15
-order: 500
+former-id: TC-GJA61Q
+parent: REQ-Y9VHHKA
+order: an
 links:
   - type: verifies
-    target: SYS-VN8P2R
+    target: REQ-Z7KQTPA
     confirmed: 09343cc43a29
 ---
 **Objective:** verify that the status LED behaves as specified.

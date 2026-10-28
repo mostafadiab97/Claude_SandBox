@@ -1,5 +1,5 @@
 ---
-id: HW-HEHFNE
+id: REQ-3B8NR5B
 type: hardware-requirement
 title: Local API detects the room temperature
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - performance
   - i18n
   - customer-request
-parent: SYS-SKSNMS
-order: 20
+former-id: HW-HEHFNE
+parent: REQ-CEGSQS7
+order: a1
 links:
   - type: refines
-    target: SYS-SKSNMS
+    target: REQ-CEGSQS7
     confirmed: 25a2208d5d33
 ---
 The local API shall store the set point for up to 8 zones.

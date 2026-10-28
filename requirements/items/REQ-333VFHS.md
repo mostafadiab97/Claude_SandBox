@@ -1,5 +1,5 @@
 ---
-id: SW-4D3AV2
+id: REQ-333VFHS
 type: software-requirement
 title: User account service stores user preferences
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - release-2.0
   - safety
-parent: SYS-1F931E
-order: 30
+former-id: SW-4D3AV2
+parent: REQ-KDXGXZC
+order: a2
 links:
   - type: refines
-    target: SYS-1F931E
+    target: REQ-KDXGXZC
     confirmed: 51652603599b
 ---
 The cloud backend shall detect sensor readings for at least 10 years.

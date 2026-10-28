@@ -1,13 +1,14 @@
 ---
-id: SW-HJS6GR
+id: REQ-Y0MKKSY
 type: software-requirement
 title: Cloud backend notifys the connection state
 status: Approved
-parent: SYS-DMYBQ9
-order: 20
+former-id: SW-HJS6GR
+parent: REQ-00CXS7S
+order: a1
 links:
   - type: refines
-    target: SYS-DMYBQ9
+    target: REQ-00CXS7S
     confirmed: bc350f64bb32
 ---
 The cloud backend shall encrypt the set point in under 3 s.

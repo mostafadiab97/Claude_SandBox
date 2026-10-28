@@ -1,5 +1,5 @@
 ---
-id: SW-6VNZC0
+id: REQ-RDMR8EN
 type: software-requirement
 title: Local API synchronises access tokens
 status: Review
@@ -9,11 +9,12 @@ tags:
   - cost
   - i18n
   - release-1.0
-parent: SYS-F6VRWH
-order: 20
+former-id: SW-6VNZC0
+parent: REQ-5PW0SDX
+order: a1
 links:
   - type: refines
-    target: SYS-F6VRWH
+    target: REQ-5PW0SDX
     confirmed: abf71e4c34db
 ---
 The Zigbee radio shall calibrate safety limits using AES-256-GCM.

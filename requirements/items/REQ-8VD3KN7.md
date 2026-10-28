@@ -1,5 +1,5 @@
 ---
-id: DE-0NB39K
+id: REQ-8VD3KN7
 type: design-element
 title: Module device_registry_95
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - release-1.0
   - ux
-parent: SW-J23FTM
-order: 10
+former-id: DE-0NB39K
+parent: REQ-89DJDT1
+order: a0
 links:
   - type: implements
-    target: SW-J23FTM
+    target: REQ-89DJDT1
     confirmed: 059802c9377c
 ---
 Implemented in `src/cloud/device_registry.c`.

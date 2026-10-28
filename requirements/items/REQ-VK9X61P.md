@@ -1,5 +1,5 @@
 ---
-id: HW-VF8E6V
+id: REQ-VK9X61P
 type: hardware-requirement
 title: Schedule editor authenticates the room temperature
 status: Draft
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - security
   - power
-parent: SYS-0847E1
-order: 40
+former-id: HW-VF8E6V
+parent: REQ-5KHGZ49
+order: a3
 links:
   - type: refines
-    target: SYS-0847E1
+    target: REQ-5KHGZ49
     confirmed: d8c0c127c7a5
 ---
 The notification service shall detect firmware images for at least 10 years.

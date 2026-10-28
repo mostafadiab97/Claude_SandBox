@@ -1,5 +1,5 @@
 ---
-id: SW-Y80T2H
+id: REQ-73CDG8K
 type: software-requirement
 title: Store audit records — detail
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: محمد علي
 tags:
   - EMC
-parent: SW-616CH6
-order: 10
+former-id: SW-Y80T2H
+parent: REQ-D56X103
+order: a0
 links:
   - type: refines
-    target: SW-616CH6
+    target: REQ-D56X103
     confirmed: 3666376b13b0
 ---
 The menu system shall notify safety limits in all supported languages.

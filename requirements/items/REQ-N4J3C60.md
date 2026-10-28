@@ -1,14 +1,15 @@
 ---
-id: HW-KEPSCF
+id: REQ-N4J3C60
 type: hardware-requirement
 title: Status LED displays the connection state
 status: Draft
 owner: K. Tanaka
-parent: SYS-QKZP7T
-order: 10
+former-id: HW-KEPSCF
+parent: REQ-RBJJVJD
+order: a0
 links:
   - type: refines
-    target: SYS-QKZP7T
+    target: REQ-RBJJVJD
     confirmed: a1c30d626e9c
 ---
 The status LED shall limit error conditions in all supported languages.

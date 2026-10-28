@@ -1,5 +1,5 @@
 ---
-id: SYS-PT1QDH
+id: REQ-6EYT1EP
 type: system-requirement
 title: Battery backup reports the operating mode
 status: Review
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - i18n
   - performance
-parent: INFO-A6P9A8
-order: 90
+former-id: SYS-PT1QDH
+parent: REQ-CMCS31A
+order: a8
 links:
   - type: refines
-    target: STK-7F9256
+    target: REQ-GXZBB32
     confirmed: 5588db2eb80a
 ---
 The battery backup shall restore the operating mode for at least 10 years.

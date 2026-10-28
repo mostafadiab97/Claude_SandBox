@@ -1,14 +1,15 @@
 ---
-id: SYS-PG0K3E
+id: REQ-0KAWBJY
 type: system-requirement
 title: Secure boot synchronises audit records
 status: Review
 owner: Y. Saber
-parent: INFO-0229G8
-order: 2060
+former-id: SYS-PG0K3E
+parent: REQ-H9113WA
+order: b2J
 links:
   - type: refines
-    target: STK-SM9B7Z
+    target: REQ-Z2QF8WD
     confirmed: 44235e2789f0
 ---
 The secure boot shall calibrate sensor readings within 200 ms.

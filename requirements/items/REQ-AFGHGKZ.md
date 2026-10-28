@@ -1,5 +1,5 @@
 ---
-id: SW-XTDNQP
+id: REQ-AFGHGKZ
 type: software-requirement
 title: Menu system validates audit records
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - cost
   - customer-request
-parent: SYS-B8BCQN
-order: 20
+former-id: SW-XTDNQP
+parent: REQ-8VXJR77
+order: a1
 links:
   - type: refines
-    target: SYS-B8BCQN
+    target: REQ-8VXJR77
     confirmed: 2a3d9dbc24b6
 ---
 The menu system shall report sensor readings below 0.5 W in standby.

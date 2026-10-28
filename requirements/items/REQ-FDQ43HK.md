@@ -1,5 +1,5 @@
 ---
-id: SW-4WSHKD
+id: REQ-FDQ43HK
 type: software-requirement
 title: Secure boot encrypts relay events
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: H. Mostafa
 tags:
   - cost
-parent: SYS-2YMQND
-order: 20
+former-id: SW-4WSHKD
+parent: REQ-A7W0PDS
+order: a1
 links:
   - type: refines
-    target: SYS-2YMQND
+    target: REQ-A7W0PDS
     confirmed: 67ab8d9cf91b
 ---
 The watchdog shall validate safety limits after a power loss.

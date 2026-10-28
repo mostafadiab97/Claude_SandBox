@@ -1,14 +1,15 @@
 ---
-id: SW-X4XPGG
+id: REQ-1KM933C
 type: software-requirement
 title: User account service stores access tokens
 status: Approved
 priority: High
-parent: SYS-WATCFH
-order: 40
+former-id: SW-X4XPGG
+parent: REQ-FVAXXQD
+order: a3
 links:
   - type: refines
-    target: SYS-WATCFH
+    target: REQ-FVAXXQD
     confirmed: b64888f762a3
 ---
 The telemetry pipeline shall report the connection state for up to 8 zones.

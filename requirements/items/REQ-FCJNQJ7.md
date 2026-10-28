@@ -1,16 +1,17 @@
 ---
-id: SYS-EKVD3G
+id: REQ-FCJNQJ7
 type: system-requirement
 title: Main PCB restores error conditions
 status: Draft
 tags:
   - connectivity
   - cost
-parent: INFO-A6P9A8
-order: 2410
+former-id: SYS-EKVD3G
+parent: REQ-CMCS31A
+order: b2s
 links:
   - type: refines
-    target: STK-CDR1Y9
+    target: REQ-QC1Z78M
     confirmed: d9857f8b33bf
 ---
 The main PCB shall display sensor readings below 0.5 W in standby.

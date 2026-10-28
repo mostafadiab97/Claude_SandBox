@@ -1,5 +1,5 @@
 ---
-id: SW-20QPSK
+id: REQ-JJ0CMWK
 type: software-requirement
 title: Watchdog switchs error conditions
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - release-1.0
-parent: SYS-GD6JM3
-order: 10
+former-id: SW-20QPSK
+parent: REQ-3YAMCMR
+order: a0
 links:
   - type: refines
-    target: SYS-GD6JM3
+    target: REQ-3YAMCMR
     confirmed: 3ff6f348020f
 ---
 The encryption layer shall authenticate relay events using AES-256-GCM.

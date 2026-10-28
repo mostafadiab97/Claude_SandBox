@@ -1,14 +1,15 @@
 ---
-id: SYS-F1889A
+id: REQ-QM0J4PT
 type: system-requirement
 title: Relay board reports safety limits
 status: Draft
 owner: Y. Saber
-parent: INFO-A6P9A8
-order: 2330
+former-id: SYS-F1889A
+parent: REQ-CMCS31A
+order: b2k
 links:
   - type: refines
-    target: STK-CDR1Y9
+    target: REQ-QC1Z78M
     confirmed: 0ced3207c14d
 ---
 The relay board shall synchronise access tokens for up to 8 zones.

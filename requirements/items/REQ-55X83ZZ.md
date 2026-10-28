@@ -1,5 +1,5 @@
 ---
-id: SW-XF0MYQ
+id: REQ-55X83ZZ
 type: software-requirement
 title: Log audit records — detail
 status: Review
@@ -8,11 +8,12 @@ tags:
   - ux
   - connectivity
   - regulatory
-parent: SW-QVQSYN
-order: 10
+former-id: SW-XF0MYQ
+parent: REQ-ZESZ4WC
+order: a0
 links:
   - type: refines
-    target: SW-QVQSYN
+    target: REQ-ZESZ4WC
     confirmed: 5e9c45c3b23e
 ---
 The telemetry pipeline shall calibrate safety limits at least once per minute.

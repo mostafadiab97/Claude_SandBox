@@ -1,16 +1,17 @@
 ---
-id: IF-1THQ4Y
+id: REQ-P0BTVEE
 type: interface-requirement
 title: Encryption layer validates energy consumption
 status: Approved
 owner: L. Samir
 tags:
   - safety
-parent: SYS-BGEM84
-order: 10
+former-id: IF-1THQ4Y
+parent: REQ-TZQDNSR
+order: a0
 links:
   - type: refines
-    target: SYS-BGEM84
+    target: REQ-TZQDNSR
     confirmed: 7c077fec9862
 ---
 The tamper detection shall report the set point when the network is unavailable.

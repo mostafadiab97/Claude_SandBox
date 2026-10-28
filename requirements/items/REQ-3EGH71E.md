@@ -1,16 +1,17 @@
 ---
-id: HW-6FKT8A
+id: REQ-3EGH71E
 type: hardware-requirement
 title: Relay board displays the set point
 status: Approved
 owner: A. Hassan
 tags:
   - regulatory
-parent: SYS-DZR11A
-order: 20
+former-id: HW-6FKT8A
+parent: REQ-0ANDY61
+order: a1
 links:
   - type: refines
-    target: SYS-DZR11A
+    target: REQ-0ANDY61
     confirmed: f59e21414ac4
 ---
 The relay board shall report the room temperature when the network is unavailable.

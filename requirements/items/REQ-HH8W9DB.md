@@ -1,14 +1,15 @@
 ---
-id: TC-FDX101
+id: REQ-HH8W9DB
 type: test-case
 title: "Verify: Home dashboard encrypts energy consumption"
 status: Draft
 priority: Medium
-parent: INFO-J0FETE
-order: 760
+former-id: TC-FDX101
+parent: REQ-WR5ZJN9
+order: b0D
 links:
   - type: verifies
-    target: SYS-8YT9NF
+    target: REQ-2KDEVK8
     confirmed: 89f10c1dd66e
 ---
 **Objective:** verify that the home dashboard behaves as specified.

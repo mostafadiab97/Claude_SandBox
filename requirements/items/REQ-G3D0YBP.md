@@ -1,15 +1,16 @@
 ---
-id: TC-4MDM5K
+id: REQ-G3D0YBP
 type: test-case
 title: "Regression: Notification service synchronises firmware images"
 status: Approved
 priority: Medium
 owner: J. Müller
-parent: INFO-ECHASH
-order: 760
+former-id: TC-4MDM5K
+parent: REQ-6H15AV2
+order: b0D
 links:
   - type: verifies
-    target: SYS-9WHVE0
+    target: REQ-WDHBVAE
     confirmed: b19b26310755
 ---
 **Objective:** verify that the device behaves as specified.

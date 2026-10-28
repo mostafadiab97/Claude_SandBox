@@ -1,5 +1,5 @@
 ---
-id: IF-WXAEFF
+id: REQ-H74KTP6
 type: interface-requirement
 title: "Signal 493: sensor readings"
 status: Review
@@ -9,7 +9,8 @@ tags:
   - connectivity
   - safety
   - security
-parent: INFO-2TM0JP
-order: 4930
+former-id: IF-WXAEFF
+parent: REQ-RJ0KHPT
+order: b6w
 ---
 Interface signal number 493.

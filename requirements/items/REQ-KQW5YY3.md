@@ -1,5 +1,5 @@
 ---
-id: TC-Z1EQNA
+id: REQ-KQW5YY3
 type: test-case
 title: "Verify: Bluetooth LE link limits relay events"
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - safety
   - security
   - customer-request
-parent: INFO-F0M7VC
-order: 870
+former-id: TC-Z1EQNA
+parent: REQ-67RQXCK
+order: b0O
 links:
   - type: verifies
-    target: SYS-GD5QC7
+    target: REQ-K3ZTN5J
     confirmed: ec1a86cc2ebb
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: TC-5SD6D7
+id: REQ-TPT9F8B
 type: test-case
 title: "Verify: Main PCB displays sensor readings"
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - ux
   - safety
-parent: INFO-MACGC3
-order: 40
+former-id: TC-5SD6D7
+parent: REQ-F9Z1FYS
+order: a3
 links:
   - type: verifies
-    target: SYS-80ZJ33
+    target: REQ-Z02MCDH
     confirmed: 7a5b090e57ac
 ---
 **Objective:** verify that the main PCB behaves as specified.

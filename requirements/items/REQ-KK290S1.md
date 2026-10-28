@@ -1,17 +1,18 @@
 ---
-id: TC-Y4JGYZ
+id: REQ-KK290S1
 type: test-case
 title: "Verify: Battery backup stores sensor readings"
 status: Approved
 owner: N. Kamal
-parent: INFO-MACGC3
-order: 800
+former-id: TC-Y4JGYZ
+parent: REQ-F9Z1FYS
+order: b0H
 links:
   - type: verifies
-    target: SYS-VMW9A5
+    target: REQ-XHKV7E4
     confirmed: b407b79e1420
   - type: verifies
-    target: SW-0AJSZ5
+    target: REQ-S1JV5J7
     confirmed: a6c79179d7d9
 ---
 **Objective:** verify that the battery backup behaves as specified.

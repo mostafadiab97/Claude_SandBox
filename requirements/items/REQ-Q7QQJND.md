@@ -1,5 +1,5 @@
 ---
-id: DE-8JH723
+id: REQ-Q7QQJND
 type: design-element
 title: Module mobile_app_24
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - ux
   - release-2.0
-parent: SW-W6JK8N
-order: 10
+former-id: DE-8JH723
+parent: REQ-Y9EE2KF
+order: a0
 links:
   - type: implements
-    target: SW-W6JK8N
+    target: REQ-Y9EE2KF
     confirmed: ce7723cdc2d3
 ---
 Implemented in `src/app/mobile_app.c`.

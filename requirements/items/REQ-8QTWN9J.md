@@ -1,14 +1,15 @@
 ---
-id: SW-A5EGGY
+id: REQ-8QTWN9J
 type: software-requirement
 title: Regulation loop validates the connection state
 status: Draft
 owner: R. Nabil
-parent: SYS-C6SNN2
-order: 10
+former-id: SW-A5EGGY
+parent: REQ-WWDXC4C
+order: a0
 links:
   - type: refines
-    target: SYS-C6SNN2
+    target: REQ-WWDXC4C
     confirmed: 20d5c99b3fa6
 ---
 The regulation loop shall authenticate user preferences after a power loss.

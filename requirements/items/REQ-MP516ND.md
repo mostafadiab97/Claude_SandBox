@@ -1,15 +1,16 @@
 ---
-id: IF-BXKZV6
+id: REQ-MP516ND
 type: interface-requirement
 title: Notify the set point — detail
 status: Obsolete
 priority: High
 owner: A. Hassan
-parent: IF-X4G3A0
-order: 10
+former-id: IF-BXKZV6
+parent: REQ-FK5VJS7
+order: a0
 links:
   - type: refines
-    target: IF-X4G3A0
+    target: REQ-FK5VJS7
     confirmed: a19bc8253fe5
 ---
 The user account service shall synchronise the operating mode at least once per minute.

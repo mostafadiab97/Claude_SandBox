@@ -1,5 +1,5 @@
 ---
-id: TC-ZJPJ4Q
+id: REQ-1K6FTGW
 type: test-case
 title: "Regression: Backlight limits the connection state"
 status: Draft
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - release-2.0
   - regulatory
-parent: INFO-ECHASH
-order: 850
+former-id: TC-ZJPJ4Q
+parent: REQ-6H15AV2
+order: b0M
 links:
   - type: verifies
-    target: SYS-T3DJD4
+    target: REQ-WP33HKX
     confirmed: c316125af8be
 ---
 **Objective:** verify that the device behaves as specified.

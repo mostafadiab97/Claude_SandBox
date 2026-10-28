@@ -1,5 +1,5 @@
 ---
-id: SW-EJ8HY7
+id: REQ-HDE3REG
 type: software-requirement
 title: Status LED restores humidity values
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - regulatory
   - performance
   - accessibility
-parent: SYS-V8VVYW
-order: 30
+former-id: SW-EJ8HY7
+parent: REQ-WTYEQR1
+order: a2
 links:
   - type: refines
-    target: SYS-V8VVYW
+    target: REQ-WTYEQR1
     confirmed: de6e639c3dac
 ---
 The rotary knob shall calibrate safety limits at least once per minute.

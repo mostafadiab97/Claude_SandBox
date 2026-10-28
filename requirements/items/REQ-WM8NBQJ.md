@@ -1,16 +1,17 @@
 ---
-id: IF-6860KX
+id: REQ-WM8NBQJ
 type: interface-requirement
 title: Tamper detection stores firmware images
 status: Approved
 owner: J. Müller
 tags:
   - security
-parent: SYS-N5JVR8
-order: 30
+former-id: IF-6860KX
+parent: REQ-78M54BZ
+order: a2
 links:
   - type: refines
-    target: SYS-N5JVR8
+    target: REQ-78M54BZ
     confirmed: f9d9c27a7ebf
 ---
 The watchdog shall report energy consumption in all supported languages.

@@ -1,5 +1,5 @@
 ---
-id: SYS-FKQRCB
+id: REQ-8S7NCV5
 type: system-requirement
 title: Boiler interface reports relay events
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - ux
   - power
-parent: INFO-6DQTKV
-order: 70
+former-id: SYS-FKQRCB
+parent: REQ-7ED7ZET
+order: a6
 links:
   - type: refines
-    target: STK-Q8BNKR
+    target: REQ-FY0A6ZE
     confirmed: 6deaa78e6ab3
 ---
 The boiler interface shall notify relay events in all supported languages.

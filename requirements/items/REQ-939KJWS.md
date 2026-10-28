@@ -1,5 +1,5 @@
 ---
-id: HW-Y9EFKZ
+id: REQ-939KJWS
 type: hardware-requirement
 title: Notify firmware images — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - cost
   - i18n
   - connectivity
-parent: HW-M71GF9
-order: 10
+former-id: HW-Y9EFKZ
+parent: REQ-1YCW758
+order: a0
 links:
   - type: refines
-    target: HW-M71GF9
+    target: REQ-1YCW758
     confirmed: 998b8bbd9aba
 ---
 The status LED shall limit the set point in under 3 s.

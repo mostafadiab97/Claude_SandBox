@@ -1,5 +1,5 @@
 ---
-id: TC-QN6CF3
+id: REQ-E6TSQHP
 type: test-case
 title: "Verify: Notification service authenticates relay events"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: محمد علي
 tags:
   - performance
-parent: INFO-J0FETE
-order: 1530
+former-id: TC-QN6CF3
+parent: REQ-WR5ZJN9
+order: b1S
 links:
   - type: verifies
-    target: SYS-EC81QP
+    target: REQ-NBAMPQZ
     confirmed: 1189223f2096
 ---
 **Objective:** verify that the notification service behaves as specified.

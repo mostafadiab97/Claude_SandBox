@@ -1,5 +1,5 @@
 ---
-id: IF-3H50X6
+id: REQ-J52EDCJ
 type: interface-requirement
 title: Store user preferences — detail
 status: Review
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - release-2.0
   - ux
-parent: IF-AR9TJ8
-order: 10
+former-id: IF-3H50X6
+parent: REQ-HD3ZTDK
+order: a0
 links:
   - type: refines
-    target: IF-AR9TJ8
+    target: REQ-HD3ZTDK
     confirmed: a1782658ce49
 ---
 The telemetry pipeline shall limit sensor readings when the network is unavailable.

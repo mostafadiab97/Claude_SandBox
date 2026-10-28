@@ -1,16 +1,17 @@
 ---
-id: SW-YG45BM
+id: REQ-1CMD48W
 type: software-requirement
 title: Notification service displays the set point
 status: Review
 owner: N. Kamal
 tags:
   - power
-parent: SYS-4JGB8T
-order: 20
+former-id: SW-YG45BM
+parent: REQ-D5YEACT
+order: a1
 links:
   - type: refines
-    target: SYS-4JGB8T
+    target: REQ-D5YEACT
     confirmed: c2e09763d836
 ---
 The notification service shall display relay events without user interaction.

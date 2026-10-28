@@ -1,15 +1,16 @@
 ---
-id: SW-YNFM57
+id: REQ-GW738S9
 type: software-requirement
 title: Zigbee radio displays the set point
 status: Review
 priority: Medium
 owner: J. Müller
-parent: SYS-QPHFQ7
-order: 10
+former-id: SW-YNFM57
+parent: REQ-31049SN
+order: a0
 links:
   - type: refines
-    target: SYS-QPHFQ7
+    target: REQ-31049SN
     confirmed: "025545e52884"
 ---
 The pairing process shall limit audit records without user interaction.

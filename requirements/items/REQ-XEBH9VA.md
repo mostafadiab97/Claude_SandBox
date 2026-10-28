@@ -1,5 +1,5 @@
 ---
-id: SYS-SASG4P
+id: REQ-XEBH9VA
 type: system-requirement
 title: Device registry notifys sensor readings
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: محمد علي
 tags:
   - safety
-parent: INFO-YV5EZD
-order: 1910
+former-id: SYS-SASG4P
+parent: REQ-RE9ZKHF
+order: b24
 links:
   - type: refines
-    target: STK-JFBQPS
+    target: REQ-A8X8PTB
     confirmed: 5027ee1822eb
 ---
 The device registry shall switch firmware images for at least 10 years.

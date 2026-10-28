@@ -1,5 +1,5 @@
 ---
-id: TC-PBTRWG
+id: REQ-VBX4Z63
 type: test-case
 title: "Verify: Over-temperature monitor restores sensor readings"
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: L. Samir
 tags:
   - power
-parent: INFO-Z4TW4B
-order: 220
+former-id: TC-PBTRWG
+parent: REQ-K6FGAY0
+order: aL
 links:
   - type: verifies
-    target: SYS-6B2AFX
+    target: REQ-M89P0JQ
     confirmed: 2f261bacbfde
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

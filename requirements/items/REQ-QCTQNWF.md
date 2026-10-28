@@ -1,5 +1,5 @@
 ---
-id: SYS-RZKYW5
+id: REQ-QCTQNWF
 type: system-requirement
 title: Mobile app logs audit records
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - accessibility
   - safety
-parent: INFO-2XXBRS
-order: 1600
+former-id: SYS-RZKYW5
+parent: REQ-QYXGSQ4
+order: b1Z
 links:
   - type: refines
-    target: STK-HBX3YS
+    target: REQ-S86K9Q8
     confirmed: b42a2f94d25d
 ---
 The mobile app shall encrypt audit records with an accuracy of ±0.5 °C.

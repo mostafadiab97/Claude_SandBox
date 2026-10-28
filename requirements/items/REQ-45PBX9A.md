@@ -1,5 +1,5 @@
 ---
-id: HW-JS5H3Y
+id: REQ-45PBX9A
 type: hardware-requirement
 title: Relay board synchronises error conditions
 status: Draft
@@ -7,11 +7,12 @@ owner: S. Adel
 tags:
   - safety
   - power
-parent: SYS-R4K32S
-order: 20
+former-id: HW-JS5H3Y
+parent: REQ-222GKXF
+order: a1
 links:
   - type: refines
-    target: SYS-R4K32S
+    target: REQ-222GKXF
     confirmed: 5bdb17b664f3
 ---
 The power supply shall measure the room temperature at least once per minute.

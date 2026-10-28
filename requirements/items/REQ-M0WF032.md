@@ -1,15 +1,16 @@
 ---
-id: HW-AV83H5
+id: REQ-M0WF032
 type: hardware-requirement
 title: Local API restores error conditions
 status: Obsolete
 priority: Medium
 owner: H. Mostafa
-parent: SYS-X57709
-order: 40
+former-id: HW-AV83H5
+parent: REQ-GFKSCK5
+order: a3
 links:
   - type: refines
-    target: SYS-X57709
+    target: REQ-GFKSCK5
     confirmed: 8f0b9de9eefc
 ---
 The Zigbee radio shall measure firmware images when the network is unavailable.

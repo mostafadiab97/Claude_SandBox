@@ -1,5 +1,5 @@
 ---
-id: SYS-85957D
+id: REQ-QEEBGFY
 type: system-requirement
 title: Relay board stores error conditions
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - power
-parent: INFO-A6P9A8
-order: 630
+former-id: SYS-85957D
+parent: REQ-CMCS31A
+order: b00
 links:
   - type: refines
-    target: STK-7F9256
+    target: REQ-GXZBB32
     confirmed: 5588db2eb80a
 ---
 The relay board shall calibrate the set point when the network is unavailable.

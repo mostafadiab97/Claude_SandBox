@@ -1,14 +1,15 @@
 ---
-id: TC-059NH8
+id: REQ-5M6C5WJ
 type: test-case
 title: "Verify: User account service calibrates relay events"
 status: Review
 priority: High
-parent: INFO-7P4D8D
-order: 580
+former-id: TC-059NH8
+parent: REQ-8351896
+order: av
 links:
   - type: verifies
-    target: SYS-KCC5WV
+    target: REQ-PSHZ85Z
     confirmed: 201bc4a0f987
 ---
 **Objective:** verify that the user account service behaves as specified.

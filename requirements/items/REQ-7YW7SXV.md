@@ -1,5 +1,5 @@
 ---
-id: SW-GYNE56
+id: REQ-7YW7SXV
 type: software-requirement
 title: Home dashboard synchronises schedule entries
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - EMC
   - release-1.0
   - safety
-parent: SYS-A8AYK0
-order: 10
+former-id: SW-GYNE56
+parent: REQ-Z94YSEP
+order: a0
 links:
   - type: refines
-    target: SYS-A8AYK0
+    target: REQ-Z94YSEP
     confirmed: 7c18672779dd
 ---
 The schedule editor shall measure energy consumption when the network is unavailable.

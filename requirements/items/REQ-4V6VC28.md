@@ -1,15 +1,16 @@
 ---
-id: IF-ZGYV8H
+id: REQ-4V6VC28
 type: interface-requirement
 title: Telemetry pipeline measures audit records
 status: Approved
 priority: Low
 owner: محمد علي
-parent: SYS-XZE9DK
-order: 40
+former-id: IF-ZGYV8H
+parent: REQ-YGYNCGG
+order: a3
 links:
   - type: refines
-    target: SYS-XZE9DK
+    target: REQ-YGYNCGG
     confirmed: 7345ac77c8fe
 ---
 The user account service shall synchronise the connection state within 200 ms.

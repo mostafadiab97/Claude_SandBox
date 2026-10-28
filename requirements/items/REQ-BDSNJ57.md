@@ -1,5 +1,5 @@
 ---
-id: TC-0BHR49
+id: REQ-BDSNJ57
 type: test-case
 title: "Verify: Device registry validates the connection state"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: محمد علي
 tags:
   - connectivity
-parent: INFO-7P4D8D
-order: 620
+former-id: TC-0BHR49
+parent: REQ-8351896
+order: az
 links:
   - type: verifies
-    target: SYS-BQ9NSH
+    target: REQ-Q9X7D3E
     confirmed: e9c956142786
 ---
 **Objective:** verify that the device registry behaves as specified.

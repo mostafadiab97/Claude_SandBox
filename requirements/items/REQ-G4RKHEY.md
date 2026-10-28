@@ -1,18 +1,19 @@
 ---
-id: SYS-9FTG47
+id: REQ-G4RKHEY
 type: system-requirement
 title: Secure boot switchs the set point
 status: Review
 priority: Medium
 owner: J. Müller
-parent: INFO-0229G8
-order: 490
+former-id: SYS-9FTG47
+parent: REQ-H9113WA
+order: am
 links:
   - type: refines
-    target: STK-ZJRWCQ
+    target: REQ-9YG77WV
     confirmed: dc746945e71d
   - type: mitigates
-    target: RSK-4SK8XQ
+    target: REQ-Q673PT3
     confirmed: d8a03dc18226
 ---
 The secure boot shall report sensor readings below 0.5 W in standby.

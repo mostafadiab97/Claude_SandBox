@@ -1,15 +1,16 @@
 ---
-id: TC-E3JMGS
+id: REQ-BFCG2AW
 type: test-case
 title: "Verify: Wi-Fi module logs error conditions"
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: INFO-F0M7VC
-order: 1330
+former-id: TC-E3JMGS
+parent: REQ-67RQXCK
+order: b18
 links:
   - type: verifies
-    target: SYS-A3STJH
+    target: REQ-1054S3M
     confirmed: 01e4f44d3a9c
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

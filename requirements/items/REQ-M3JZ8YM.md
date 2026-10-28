@@ -1,5 +1,5 @@
 ---
-id: TC-4V4ZX3
+id: REQ-M3JZ8YM
 type: test-case
 title: "Regression: Main PCB measures user preferences"
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - i18n
   - release-2.0
   - ux
-parent: INFO-ECHASH
-order: 1270
+former-id: TC-4V4ZX3
+parent: REQ-6H15AV2
+order: b12
 links:
   - type: verifies
-    target: SYS-H9YARC
+    target: REQ-7DP8FH8
     confirmed: 65250d626484
 ---
 **Objective:** verify that the device behaves as specified.

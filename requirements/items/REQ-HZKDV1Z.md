@@ -1,14 +1,15 @@
 ---
-id: SW-CWTAQN
+id: REQ-HZKDV1Z
 type: software-requirement
 title: Over-temperature monitor measures error conditions
 status: Review
 priority: Medium
-parent: SYS-0T0BYJ
-order: 20
+former-id: SW-CWTAQN
+parent: REQ-273B0DP
+order: a1
 links:
   - type: refines
-    target: SYS-0T0BYJ
+    target: REQ-273B0DP
     confirmed: 0905190a23c4
 ---
 The encryption layer shall report sensor readings for at least 10 years.

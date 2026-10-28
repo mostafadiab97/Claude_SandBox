@@ -1,5 +1,5 @@
 ---
-id: IF-27687Y
+id: REQ-ZQQB1AX
 type: interface-requirement
 title: Zone valve authenticates firmware images
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 tags:
   - ux
   - security
-parent: SYS-8F73DW
-order: 10
+former-id: IF-27687Y
+parent: REQ-QG4NKYK
+order: a0
 links:
   - type: refines
-    target: SYS-8F73DW
+    target: REQ-QG4NKYK
     confirmed: 13efe84ae7ac
 ---
 The regulation loop shall limit user preferences for up to 8 zones.

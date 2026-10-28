@@ -1,5 +1,5 @@
 ---
-id: SYS-7WCAWK
+id: REQ-QMV6ZXP
 type: system-requirement
 title: Battery backup calibrates the operating mode
 status: Draft
@@ -8,14 +8,15 @@ owner: R. Nabil
 tags:
   - cost
   - i18n
-parent: INFO-A6P9A8
-order: 1200
+former-id: SYS-7WCAWK
+parent: REQ-CMCS31A
+order: b0v
 links:
   - type: refines
-    target: STK-CDR1Y9
+    target: REQ-QC1Z78M
     confirmed: d9857f8b33bf
   - type: mitigates
-    target: RSK-W413B9
+    target: REQ-187H7N8
     confirmed: 1a4d2dc5e12b
 ---
 The battery backup shall synchronise humidity values within 200 ms.

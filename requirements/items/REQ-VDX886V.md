@@ -1,5 +1,5 @@
 ---
-id: SW-JY4F6P
+id: REQ-VDX886V
 type: software-requirement
 title: Mobile app reports sensor readings
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - security
   - i18n
   - customer-request
-parent: SYS-G2WJ4Z
-order: 30
+former-id: SW-JY4F6P
+parent: REQ-Y9F757T
+order: a2
 links:
   - type: refines
-    target: SYS-G2WJ4Z
+    target: REQ-Y9F757T
     confirmed: 24c104aab763
 ---
 The login screen shall store firmware images in all supported languages.

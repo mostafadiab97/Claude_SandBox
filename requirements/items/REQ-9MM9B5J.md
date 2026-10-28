@@ -1,5 +1,5 @@
 ---
-id: TC-JPFB08
+id: REQ-9MM9B5J
 type: test-case
 title: "Verify: Mobile app switchs the connection state"
 status: Obsolete
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - regulatory
   - i18n
-parent: INFO-J0FETE
-order: 420
+former-id: TC-JPFB08
+parent: REQ-WR5ZJN9
+order: af
 links:
   - type: verifies
-    target: SYS-5GVCBE
+    target: REQ-M56R4F8
     confirmed: 4f9a7c40ce36
 ---
 **Objective:** verify that the mobile app behaves as specified.

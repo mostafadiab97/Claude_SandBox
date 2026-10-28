@@ -1,5 +1,5 @@
 ---
-id: SW-J2H2ET
+id: REQ-B7NDTCA
 type: software-requirement
 title: Cloud backend synchronises access tokens
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - EMC
-parent: SYS-7FWKHS
-order: 10
+former-id: SW-J2H2ET
+parent: REQ-WAWMSPD
+order: a0
 links:
   - type: refines
-    target: SYS-7FWKHS
+    target: REQ-WAWMSPD
     confirmed: d6b178d90ee1
 ---
 The device registry shall notify firmware images for up to 8 zones.

@@ -1,16 +1,17 @@
 ---
-id: IF-V3GJ45
+id: REQ-RZEPC3V
 type: interface-requirement
 title: Detect firmware images — detail
 status: Approved
 priority: Medium
 tags:
   - customer-request
-parent: IF-80DE29
-order: 10
+former-id: IF-V3GJ45
+parent: REQ-ST4C40P
+order: a0
 links:
   - type: refines
-    target: IF-80DE29
+    target: REQ-ST4C40P
     confirmed: bfaf94a9a91e
 ---
 The secure boot shall restore the room temperature with an accuracy of ±0.5 °C.

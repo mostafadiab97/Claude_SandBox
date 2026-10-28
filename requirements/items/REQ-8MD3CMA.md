@@ -1,5 +1,5 @@
 ---
-id: SYS-A1EMZ9
+id: REQ-8MD3CMA
 type: system-requirement
 title: Backlight notifys audit records
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - safety
   - security
-parent: INFO-PDR6FV
-order: 840
+former-id: SYS-A1EMZ9
+parent: REQ-2ZA2TRZ
+order: b0L
 links:
   - type: refines
-    target: STK-PCP268
+    target: REQ-DMRJS9A
     confirmed: 74f66b1bb8e8
 ---
 The backlight shall limit user preferences using AES-256-GCM.

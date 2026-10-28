@@ -1,18 +1,19 @@
 ---
-id: DEF-91SS6T
+id: REQ-J516ZSS
 type: defect
 title: "Defect: watchdog does not display schedule entries"
 status: Approved
 priority: Medium
 owner: N. Kamal
-parent: INFO-6QFMYN
-order: 140
+former-id: DEF-91SS6T
+parent: REQ-1XKBKFE
+order: aD
 links:
   - type: relates-to
-    target: TC-95M7JW
+    target: REQ-KV3QY0R
     confirmed: ac91d772d1f9
   - type: relates-to
-    target: SYS-AB1WG2
+    target: REQ-WQ6EFZQ
     confirmed: 70d3053751d1
 ---
 Found during regression testing of build 2.8.25.

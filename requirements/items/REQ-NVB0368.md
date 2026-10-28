@@ -1,15 +1,16 @@
 ---
-id: IF-SPDVSM
+id: REQ-NVB0368
 type: interface-requirement
 title: Bluetooth LE link encrypts error conditions
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: SYS-7F4FY9
-order: 10
+former-id: IF-SPDVSM
+parent: REQ-P78AYDQ
+order: a0
 links:
   - type: refines
-    target: SYS-7F4FY9
+    target: REQ-P78AYDQ
     confirmed: a9c0f51b3815
 ---
 The local API shall authenticate humidity values when the network is unavailable.

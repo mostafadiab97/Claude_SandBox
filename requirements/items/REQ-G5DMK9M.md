@@ -1,5 +1,5 @@
 ---
-id: SW-G9KYJY
+id: REQ-G5DMK9M
 type: software-requirement
 title: Menu system reports the connection state
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - safety
   - accessibility
-parent: SYS-MRW8P6
-order: 30
+former-id: SW-G9KYJY
+parent: REQ-2JPQ3KZ
+order: a2
 links:
   - type: refines
-    target: SYS-MRW8P6
+    target: REQ-2JPQ3KZ
     confirmed: f8cc2c516026
 ---
 The menu system shall log access tokens when the network is unavailable.

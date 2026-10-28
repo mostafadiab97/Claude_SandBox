@@ -1,17 +1,18 @@
 ---
-id: TC-J6GTZQ
+id: REQ-C4S564K
 type: test-case
 title: "Verify: Login screen calibrates energy consumption"
 status: Draft
 priority: Medium
-parent: INFO-J0FETE
-order: 890
+former-id: TC-J6GTZQ
+parent: REQ-WR5ZJN9
+order: b0Q
 links:
   - type: verifies
-    target: SYS-MN0YG6
+    target: REQ-PN0PDWX
     confirmed: abb306df2814
   - type: verifies
-    target: SW-EGCZEM
+    target: REQ-KN3K2B4
     confirmed: c3b84376e908
 ---
 **Objective:** verify that the login screen behaves as specified.

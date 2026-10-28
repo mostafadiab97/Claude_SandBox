@@ -1,5 +1,5 @@
 ---
-id: DE-CY3N8A
+id: REQ-6DA1PEF
 type: design-element
 title: Module OTA_server_6
 status: Draft
@@ -7,11 +7,12 @@ tags:
   - connectivity
   - i18n
   - safety
-parent: SW-2JXWJW
-order: 20
+former-id: DE-CY3N8A
+parent: REQ-8CK0YD6
+order: a1
 links:
   - type: implements
-    target: SW-2JXWJW
+    target: REQ-8CK0YD6
     confirmed: de8b2ae7c14f
 ---
 Implemented in `src/cloud/OTA_server.c`.

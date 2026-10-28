@@ -1,5 +1,5 @@
 ---
-id: TC-D9DJCK
+id: REQ-T9JT2ZT
 type: test-case
 title: "Verify: OTA server validates the operating mode"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - EMC
   - accessibility
   - i18n
-parent: INFO-7P4D8D
-order: 100
+former-id: TC-D9DJCK
+parent: REQ-8351896
+order: a9
 links:
   - type: verifies
-    target: SYS-XVVWVF
+    target: REQ-244HGW6
     confirmed: f37bc3493af5
 ---
 **Objective:** verify that the OTA server behaves as specified.

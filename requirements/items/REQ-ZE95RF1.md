@@ -1,16 +1,17 @@
 ---
-id: TC-1TH1S8
+id: REQ-ZE95RF1
 type: test-case
 title: "Verify: OTA server notifys error conditions"
 status: Approved
 owner: M. Farouk
 tags:
   - i18n
-parent: INFO-7P4D8D
-order: 900
+former-id: TC-1TH1S8
+parent: REQ-8351896
+order: b0R
 links:
   - type: verifies
-    target: SYS-KC8K49
+    target: REQ-7JRJWMP
     confirmed: d331f9bc5a8a
 ---
 **Objective:** verify that the OTA server behaves as specified.

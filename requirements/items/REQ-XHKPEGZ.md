@@ -1,15 +1,16 @@
 ---
-id: TC-ZRRYW5
+id: REQ-XHKPEGZ
 type: test-case
 title: "Verify: Cloud backend encrypts user preferences"
 status: Approved
 priority: High
 owner: A. Hassan
-parent: INFO-7P4D8D
-order: 480
+former-id: TC-ZRRYW5
+parent: REQ-8351896
+order: al
 links:
   - type: verifies
-    target: SYS-RGPMZF
+    target: REQ-KVCQEKY
     confirmed: 44306853822b
 ---
 **Objective:** verify that the cloud backend behaves as specified.

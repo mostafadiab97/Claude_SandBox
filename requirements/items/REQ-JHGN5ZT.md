@@ -1,5 +1,5 @@
 ---
-id: SYS-5S3EBH
+id: REQ-JHGN5ZT
 type: system-requirement
 title: Heat pump driver encrypts safety limits
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: S. Adel
 tags:
   - accessibility
-parent: INFO-6DQTKV
-order: 1180
+former-id: SYS-5S3EBH
+parent: REQ-7ED7ZET
+order: b0t
 links:
   - type: refines
-    target: STK-NTBW06
+    target: REQ-S4C7PYC
     confirmed: d92faafa8cce
 ---
 The heat pump driver shall switch error conditions for up to 8 zones.

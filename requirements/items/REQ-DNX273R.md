@@ -1,15 +1,16 @@
 ---
-id: HW-C0G901
+id: REQ-DNX273R
 type: hardware-requirement
 title: Switch audit records — detail
 status: Obsolete
 priority: Low
 owner: محمد علي
-parent: HW-3A31S0
-order: 10
+former-id: HW-C0G901
+parent: REQ-TVNS1DZ
+order: a0
 links:
   - type: refines
-    target: HW-3A31S0
+    target: REQ-TVNS1DZ
     confirmed: e27e1f346453
 ---
 The battery backup shall display user preferences without user interaction.

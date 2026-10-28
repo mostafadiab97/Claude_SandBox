@@ -1,5 +1,5 @@
 ---
-id: SW-ZYTYMG
+id: REQ-SR3FFPS
 type: software-requirement
 title: Report firmware images — detail
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - EMC
   - performance
   - security
-parent: SW-ZDMTP8
-order: 10
+former-id: SW-ZYTYMG
+parent: REQ-HX43KFA
+order: a0
 links:
   - type: refines
-    target: SW-ZDMTP8
+    target: REQ-HX43KFA
     confirmed: 029d370c01d0
 ---
 The regulation loop shall measure the room temperature after a power loss.

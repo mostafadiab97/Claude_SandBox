@@ -1,15 +1,16 @@
 ---
-id: IF-XC3JEB
+id: REQ-9DPYT4R
 type: interface-requirement
 title: Bluetooth LE link limits user preferences
 status: Obsolete
 priority: Medium
 owner: M. Farouk
-parent: SYS-F9GP9Y
-order: 30
+former-id: IF-XC3JEB
+parent: REQ-4JCY9Z0
+order: a2
 links:
   - type: refines
-    target: SYS-F9GP9Y
+    target: REQ-4JCY9Z0
     confirmed: 443125a88fee
 ---
 The Wi-Fi module shall detect the operating mode within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: SW-J1F7RJ
+id: REQ-NPCDBRR
 type: software-requirement
 title: Over-temperature monitor switchs sensor readings
 status: Review
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - safety
   - regulatory
-parent: SYS-YHR5KF
-order: 10
+former-id: SW-J1F7RJ
+parent: REQ-5TMVTPD
+order: a0
 links:
   - type: refines
-    target: SYS-YHR5KF
+    target: REQ-5TMVTPD
     confirmed: 660a8488c508
 ---
 The over-temperature monitor shall switch safety limits using AES-256-GCM.

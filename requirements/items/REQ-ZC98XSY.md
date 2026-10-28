@@ -1,5 +1,5 @@
 ---
-id: DE-2Q21T7
+id: REQ-ZC98XSY
 type: design-element
 title: Module encryption_layer_16
 status: Review
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - security
   - release-1.0
-parent: SW-32EWKS
-order: 10
+former-id: DE-2Q21T7
+parent: REQ-5YSNG1N
+order: a0
 links:
   - type: implements
-    target: SW-32EWKS
+    target: REQ-5YSNG1N
     confirmed: 298ae8cf8b78
 ---
 Implemented in `src/safe/encryption_layer.c`.

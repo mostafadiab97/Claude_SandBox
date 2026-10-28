@@ -1,14 +1,15 @@
 ---
-id: TC-6PRK32
+id: REQ-7RH2F5P
 type: test-case
 title: "Verify: Notification service logs the operating mode"
 status: Approved
 owner: J. Müller
-parent: INFO-J0FETE
-order: 1150
+former-id: TC-6PRK32
+parent: REQ-WR5ZJN9
+order: b0q
 links:
   - type: verifies
-    target: SYS-NE90V9
+    target: REQ-N59N0W3
     confirmed: d34ffbeb0cc6
 ---
 **Objective:** verify that the notification service behaves as specified.

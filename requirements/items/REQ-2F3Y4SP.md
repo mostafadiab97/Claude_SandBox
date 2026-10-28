@@ -1,15 +1,16 @@
 ---
-id: IF-TQ9VCD
+id: REQ-2F3Y4SP
 type: interface-requirement
 title: Backlight stores access tokens
 status: Obsolete
 tags:
   - release-1.0
-parent: SYS-VFV0E7
-order: 30
+former-id: IF-TQ9VCD
+parent: REQ-8S39EJD
+order: a2
 links:
   - type: refines
-    target: SYS-VFV0E7
+    target: REQ-8S39EJD
     confirmed: 846c545e5032
 ---
 The menu system shall detect access tokens after a power loss.

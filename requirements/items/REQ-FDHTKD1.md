@@ -1,15 +1,16 @@
 ---
-id: DE-A5K8SZ
+id: REQ-FDHTKD1
 type: design-element
 title: Module menu_system_74
 status: Approved
 priority: Low
 owner: É. Laurent
-parent: SW-52NFB3
-order: 10
+former-id: DE-A5K8SZ
+parent: REQ-DG5Q8YD
+order: a0
 links:
   - type: implements
-    target: SW-52NFB3
+    target: REQ-DG5Q8YD
     confirmed: 11bb078b09cd
 ---
 Implemented in `src/ui/menu_system.c`.

@@ -1,16 +1,17 @@
 ---
-id: SYS-VJF36E
+id: REQ-HVTBNW8
 type: system-requirement
 title: Power supply displays error conditions
 status: Draft
 priority: High
 tags:
   - EMC
-parent: INFO-A6P9A8
-order: 380
+former-id: SYS-VJF36E
+parent: REQ-CMCS31A
+order: ab
 links:
   - type: refines
-    target: STK-CDR1Y9
+    target: REQ-QC1Z78M
     confirmed: d9857f8b33bf
 ---
 The power supply shall notify the room temperature at least once per minute.

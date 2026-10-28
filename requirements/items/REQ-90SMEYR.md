@@ -1,5 +1,5 @@
 ---
-id: DE-B38P9N
+id: REQ-90SMEYR
 type: design-element
 title: Module schedule_editor_87
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - cost
   - performance
-parent: SW-2P252V
-order: 20
+former-id: DE-B38P9N
+parent: REQ-EFTGX4R
+order: a1
 links:
   - type: implements
-    target: SW-2P252V
+    target: REQ-EFTGX4R
     confirmed: 3e6e63c540b2
 ---
 Implemented in `src/app/schedule_editor.c`.

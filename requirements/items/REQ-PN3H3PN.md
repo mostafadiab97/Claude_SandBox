@@ -1,15 +1,16 @@
 ---
-id: IF-W6JZ0T
+id: REQ-PN3H3PN
 type: interface-requirement
 title: Encryption layer encrypts error conditions
 status: Review
 priority: Medium
 owner: M. Farouk
-parent: SYS-38FJX0
-order: 20
+former-id: IF-W6JZ0T
+parent: REQ-X6GGVEP
+order: a1
 links:
   - type: refines
-    target: SYS-38FJX0
+    target: REQ-X6GGVEP
     confirmed: 215aef7ef123
 ---
 The over-temperature monitor shall encrypt safety limits for at least 10 years.

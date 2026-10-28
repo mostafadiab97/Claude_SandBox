@@ -1,5 +1,5 @@
 ---
-id: SW-JJ45BS
+id: REQ-XMTQEMC
 type: software-requirement
 title: Device registry notifys sensor readings
 status: Draft
@@ -7,11 +7,12 @@ owner: N. Kamal
 tags:
   - performance
   - customer-request
-parent: SYS-KQAHRZ
-order: 30
+former-id: SW-JJ45BS
+parent: REQ-Y5E53W3
+order: a2
 links:
   - type: refines
-    target: SYS-KQAHRZ
+    target: REQ-Y5E53W3
     confirmed: 32db0e11587f
 ---
 The user account service shall authenticate the operating mode in under 3 s.

@@ -1,5 +1,5 @@
 ---
-id: IF-A126EW
+id: REQ-HWXFRN5
 type: interface-requirement
 title: Local API calibrates firmware images
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - regulatory
   - power
-parent: SYS-C7XPC7
-order: 30
+former-id: IF-A126EW
+parent: REQ-Z7QFA6T
+order: a2
 links:
   - type: refines
-    target: SYS-C7XPC7
+    target: REQ-Z7QFA6T
     confirmed: 159fdc89b57b
 ---
 The Wi-Fi module shall authenticate energy consumption in under 3 s.

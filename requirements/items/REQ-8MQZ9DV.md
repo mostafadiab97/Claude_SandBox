@@ -1,15 +1,16 @@
 ---
-id: SYS-W4JX9Z
+id: REQ-8MQZ9DV
 type: system-requirement
 title: Zigbee radio authenticates relay events
 status: Obsolete
 priority: High
 owner: H. Mostafa
-parent: INFO-NRVHA2
-order: 1430
+former-id: SYS-W4JX9Z
+parent: REQ-6R94HFM
+order: b1I
 links:
   - type: refines
-    target: STK-GMCKMF
+    target: REQ-5EJHVJ8
     confirmed: f47328374a2b
 ---
 The Zigbee radio shall validate safety limits when the network is unavailable.

@@ -1,5 +1,5 @@
 ---
-id: SW-BK6VXZ
+id: REQ-3M3CT9W
 type: software-requirement
 title: Wi-Fi module notifys the connection state
 status: Draft
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - release-1.0
   - safety
-parent: SYS-558WVB
-order: 20
+former-id: SW-BK6VXZ
+parent: REQ-YSKSPN3
+order: a1
 links:
   - type: refines
-    target: SYS-558WVB
+    target: REQ-YSKSPN3
     confirmed: 244554b45f3a
 ---
 The pairing process shall authenticate the operating mode for up to 8 zones.

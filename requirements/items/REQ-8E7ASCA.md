@@ -1,5 +1,5 @@
 ---
-id: TC-RD0RYP
+id: REQ-8E7ASCA
 type: test-case
 title: "Verify: Bluetooth LE link measures the operating mode"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - release-2.0
-parent: INFO-F0M7VC
-order: 490
+former-id: TC-RD0RYP
+parent: REQ-67RQXCK
+order: am
 links:
   - type: verifies
-    target: SYS-FJEMQ2
+    target: REQ-AYCB30Y
     confirmed: 8fcf329b307d
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

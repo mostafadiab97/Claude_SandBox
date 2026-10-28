@@ -1,15 +1,16 @@
 ---
-id: HW-ER62ED
+id: REQ-6FXGB9Q
 type: hardware-requirement
 title: Tamper detection measures error conditions
 status: Approved
 priority: Medium
 owner: É. Laurent
-parent: SYS-5JP4T4
-order: 40
+former-id: HW-ER62ED
+parent: REQ-5RZXY01
+order: a3
 links:
   - type: refines
-    target: SYS-5JP4T4
+    target: REQ-5RZXY01
     confirmed: 8b6fa0928d20
 ---
 The encryption layer shall limit error conditions in all supported languages.

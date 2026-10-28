@@ -1,5 +1,5 @@
 ---
-id: CR-WXZXWB
+id: REQ-V7PM7KK
 type: change-request
 title: "CR: extend secure boot to validate schedule entries"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - performance
   - release-1.0
   - regulatory
-parent: INFO-6QFMYN
-order: 160
+former-id: CR-WXZXWB
+parent: REQ-1XKBKFE
+order: aF
 links:
   - type: relates-to
-    target: SYS-8T3EWK
+    target: REQ-C27RMWM
     confirmed: 6237143aa404
 ---
 Requested by customer support (ticket #16306).

@@ -1,5 +1,5 @@
 ---
-id: IF-XVE3QA
+id: REQ-V7VDK5P
 type: interface-requirement
 title: "Signal 134: the operating mode"
 status: Draft
@@ -8,7 +8,8 @@ owner: L. Samir
 tags:
   - release-2.0
   - connectivity
-parent: INFO-2TM0JP
-order: 1340
+former-id: IF-XVE3QA
+parent: REQ-RJ0KHPT
+order: b19
 ---
 Interface signal number 134.

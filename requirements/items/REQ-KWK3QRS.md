@@ -1,5 +1,5 @@
 ---
-id: HW-3VNC9H
+id: REQ-KWK3QRS
 type: hardware-requirement
 title: Telemetry pipeline displays firmware images
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - release-1.0
   - power
-parent: SYS-FN0RX8
-order: 30
+former-id: HW-3VNC9H
+parent: REQ-89HPNKM
+order: a2
 links:
   - type: refines
-    target: SYS-FN0RX8
+    target: REQ-89HPNKM
     confirmed: 30d123440a38
 ---
 The cloud backend shall synchronise access tokens below 0.5 W in standby.

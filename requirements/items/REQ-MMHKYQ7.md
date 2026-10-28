@@ -1,5 +1,5 @@
 ---
-id: IF-ETC1WT
+id: REQ-MMHKYQ7
 type: interface-requirement
 title: Regulation loop switchs firmware images
 status: Approved
@@ -7,11 +7,12 @@ owner: J. Müller
 tags:
   - regulatory
   - cost
-parent: SYS-YC69H2
-order: 20
+former-id: IF-ETC1WT
+parent: REQ-Q28YZDM
+order: a1
 links:
   - type: refines
-    target: SYS-YC69H2
+    target: REQ-Q28YZDM
     confirmed: e34bdb6b99b2
 ---
 The heating controller shall switch audit records for up to 8 zones.

@@ -1,5 +1,5 @@
 ---
-id: DE-45JBV7
+id: REQ-5517XRE
 type: design-element
 title: Module backlight_51
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - performance
   - connectivity
-parent: SW-8NMEER
-order: 20
+former-id: DE-45JBV7
+parent: REQ-3Q1CVXG
+order: a1
 links:
   - type: implements
-    target: SW-8NMEER
+    target: REQ-3Q1CVXG
     confirmed: 7e2bfb083d08
 ---
 Implemented in `src/ui/backlight.c`.

@@ -1,5 +1,5 @@
 ---
-id: SYS-YWXHFA
+id: REQ-RVXMF1V
 type: system-requirement
 title: Device registry stores the connection state
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: S. Adel
 tags:
   - connectivity
-parent: INFO-YV5EZD
-order: 1560
+former-id: SYS-YWXHFA
+parent: REQ-RE9ZKHF
+order: b1V
 links:
   - type: refines
-    target: STK-Y5PMTC
+    target: REQ-FPBMKN9
     confirmed: 047439fb0db8
 ---
 The device registry shall store error conditions with an accuracy of ±0.5 °C.

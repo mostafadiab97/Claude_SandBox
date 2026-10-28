@@ -1,15 +1,16 @@
 ---
-id: SW-9MPDBK
+id: REQ-YPTKXK8
 type: software-requirement
 title: Schedule editor calibrates humidity values
 status: Draft
 priority: High
 owner: A. Hassan
-parent: SYS-EC81QP
-order: 40
+former-id: SW-9MPDBK
+parent: REQ-NBAMPQZ
+order: a3
 links:
   - type: refines
-    target: SYS-EC81QP
+    target: REQ-NBAMPQZ
     confirmed: 1189223f2096
 ---
 The notification service shall encrypt access tokens within 200 ms.

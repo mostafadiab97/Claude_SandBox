@@ -1,16 +1,17 @@
 ---
-id: TC-J0FFJE
+id: REQ-TFTY4A9
 type: test-case
 title: "Verify: Status LED calibrates the operating mode"
 status: Review
 priority: Medium
 tags:
   - ux
-parent: INFO-HTSZ15
-order: 30
+former-id: TC-J0FFJE
+parent: REQ-Y9VHHKA
+order: a2
 links:
   - type: verifies
-    target: SYS-2KGJFW
+    target: REQ-HG744HJ
     confirmed: 33b6774f671a
 ---
 **Objective:** verify that the status LED behaves as specified.

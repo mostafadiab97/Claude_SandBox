@@ -1,5 +1,5 @@
 ---
-id: HW-B111D0
+id: REQ-0BP1VET
 type: hardware-requirement
 title: Pairing process measures energy consumption
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - customer-request
   - release-2.0
-parent: SYS-C5SNMV
-order: 30
+former-id: HW-B111D0
+parent: REQ-774FTE6
+order: a2
 links:
   - type: refines
-    target: SYS-C5SNMV
+    target: REQ-774FTE6
     confirmed: aa7b6b73deff
 ---
 The Zigbee radio shall detect schedule entries with an accuracy of ±0.5 °C.

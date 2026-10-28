@@ -1,5 +1,5 @@
 ---
-id: IF-CEWBDQ
+id: REQ-QY8J0YR
 type: interface-requirement
 title: Backlight encrypts relay events
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Low
 tags:
   - EMC
   - cost
-parent: SYS-ECD1HY
-order: 30
+former-id: IF-CEWBDQ
+parent: REQ-5TTMZGQ
+order: a2
 links:
   - type: refines
-    target: SYS-ECD1HY
+    target: REQ-5TTMZGQ
     confirmed: 7483f5483c58
 ---
 The touch display shall detect the connection state for at least 10 years.

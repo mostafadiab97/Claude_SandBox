@@ -1,5 +1,5 @@
 ---
-id: IF-46PXWG
+id: REQ-V60B0FV
 type: interface-requirement
 title: Over-temperature monitor restores firmware images
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - performance
-parent: SYS-V5VS4J
-order: 40
+former-id: IF-46PXWG
+parent: REQ-N2XFHY3
+order: a3
 links:
   - type: refines
-    target: SYS-V5VS4J
+    target: REQ-N2XFHY3
     confirmed: 147eefc8e2dc
 ---
 The secure boot shall limit the connection state within 200 ms.

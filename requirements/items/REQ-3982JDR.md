@@ -1,5 +1,5 @@
 ---
-id: IF-7QTA6Q
+id: REQ-3982JDR
 type: interface-requirement
 title: "Signal 600: schedule entries"
 status: Draft
@@ -9,7 +9,8 @@ tags:
   - release-2.0
   - EMC
   - regulatory
-parent: INFO-2TM0JP
-order: 6000
+former-id: IF-7QTA6Q
+parent: REQ-RJ0KHPT
+order: b8f
 ---
 Interface signal number 600.

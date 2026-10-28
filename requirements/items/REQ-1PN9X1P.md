@@ -1,15 +1,16 @@
 ---
-id: DE-KX3Y53
+id: REQ-1PN9X1P
 type: design-element
 title: Module telemetry_pipeline_11
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: SW-P0RYRS
-order: 10
+former-id: DE-KX3Y53
+parent: REQ-RHANMVW
+order: a0
 links:
   - type: implements
-    target: SW-P0RYRS
+    target: REQ-RHANMVW
     confirmed: cbf2ac96207f
 ---
 Implemented in `src/cloud/telemetry_pipeline.c`.

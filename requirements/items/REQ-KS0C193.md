@@ -1,5 +1,5 @@
 ---
-id: SYS-98SWXJ
+id: REQ-KS0C193
 type: system-requirement
 title: Main PCB encrypts the connection state
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - connectivity
   - customer-request
-parent: INFO-A6P9A8
-order: 710
+former-id: SYS-98SWXJ
+parent: REQ-CMCS31A
+order: b08
 links:
   - type: refines
-    target: STK-CDR1Y9
+    target: REQ-QC1Z78M
     confirmed: 0ced3207c14d
 ---
 The main PCB shall report energy consumption without user interaction.

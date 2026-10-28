@@ -1,5 +1,5 @@
 ---
-id: SW-YBBSY4
+id: REQ-8PXEN9G
 type: software-requirement
 title: Regulation loop calibrates access tokens
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - performance
   - ux
-parent: SYS-EC5N2Y
-order: 20
+former-id: SW-YBBSY4
+parent: REQ-QZW142T
+order: a1
 links:
   - type: refines
-    target: SYS-EC5N2Y
+    target: REQ-QZW142T
     confirmed: 450d9078b1b0
 ---
 The regulation loop shall store the set point when the network is unavailable.

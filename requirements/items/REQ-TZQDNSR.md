@@ -1,15 +1,16 @@
 ---
-id: SYS-BGEM84
+id: REQ-TZQDNSR
 type: system-requirement
 title: Tamper detection validates user preferences
 status: Approved
 priority: Low
 owner: M. Farouk
-parent: INFO-0229G8
-order: 1230
+former-id: SYS-BGEM84
+parent: REQ-H9113WA
+order: b0y
 links:
   - type: refines
-    target: STK-DJ9M3M
+    target: REQ-375SK1B
     confirmed: ba30e28a130f
 ---
 The tamper detection shall measure schedule entries without user interaction.

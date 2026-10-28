@@ -1,5 +1,5 @@
 ---
-id: SW-300REX
+id: REQ-SFFGHSZ
 type: software-requirement
 title: Device registry encrypts the operating mode
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - power
   - security
-parent: SYS-1F54XW
-order: 30
+former-id: SW-300REX
+parent: REQ-5FT15N5
+order: a2
 links:
   - type: refines
-    target: SYS-1F54XW
+    target: REQ-5FT15N5
     confirmed: 63e961a2987d
 ---
 The cloud backend shall store schedule entries with an accuracy of ±0.5 °C.

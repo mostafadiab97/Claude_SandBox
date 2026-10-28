@@ -1,15 +1,16 @@
 ---
-id: SW-7GK72R
+id: REQ-NNWWSVH
 type: software-requirement
 title: Encrypt humidity values — detail
 status: Draft
 priority: High
 owner: K. Tanaka
-parent: SW-002HHY
-order: 10
+former-id: SW-7GK72R
+parent: REQ-QDPSW3J
+order: a0
 links:
   - type: refines
-    target: SW-002HHY
+    target: REQ-QDPSW3J
     confirmed: 594dfa21602b
 ---
 The pairing process shall validate firmware images when the network is unavailable.

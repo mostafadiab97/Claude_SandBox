@@ -1,5 +1,5 @@
 ---
-id: SW-RWE0S5
+id: REQ-XYD788N
 type: software-requirement
 title: Rotary knob authenticates sensor readings
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: A. Hassan
 tags:
   - release-1.0
-parent: SYS-RDQ73V
-order: 10
+former-id: SW-RWE0S5
+parent: REQ-8VJ7WNS
+order: a0
 links:
   - type: refines
-    target: SYS-RDQ73V
+    target: REQ-8VJ7WNS
     confirmed: 2791d2fc7833
 ---
 The touch display shall synchronise the connection state for at least 10 years.

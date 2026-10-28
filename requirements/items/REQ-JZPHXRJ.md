@@ -1,5 +1,5 @@
 ---
-id: IF-5JGFQX
+id: REQ-JZPHXRJ
 type: interface-requirement
 title: Authenticate relay events — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - cost
   - safety
   - customer-request
-parent: IF-M7HYKX
-order: 10
+former-id: IF-5JGFQX
+parent: REQ-3QY85SH
+order: a0
 links:
   - type: refines
-    target: IF-M7HYKX
+    target: REQ-3QY85SH
     confirmed: 7174db36477e
 ---
 The secure boot shall authenticate the room temperature when the network is unavailable.

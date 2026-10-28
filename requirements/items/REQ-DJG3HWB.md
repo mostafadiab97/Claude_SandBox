@@ -1,5 +1,5 @@
 ---
-id: HW-6624QR
+id: REQ-DJG3HWB
 type: hardware-requirement
 title: Mobile app validates sensor readings
 status: Draft
@@ -7,11 +7,12 @@ owner: É. Laurent
 tags:
   - cost
   - regulatory
-parent: SYS-V06HGN
-order: 30
+former-id: HW-6624QR
+parent: REQ-6YR68JJ
+order: a2
 links:
   - type: refines
-    target: SYS-V06HGN
+    target: REQ-6YR68JJ
     confirmed: 4d613392a0ae
 ---
 The notification service shall report the room temperature at least once per minute.

@@ -1,15 +1,16 @@
 ---
-id: SW-6ZKWGN
+id: REQ-RQJ29X5
 type: software-requirement
 title: Watchdog restores audit records
 status: Approved
 priority: Medium
 owner: É. Laurent
-parent: SYS-KF7ZE3
-order: 10
+former-id: SW-6ZKWGN
+parent: REQ-6PB57PX
+order: a0
 links:
   - type: refines
-    target: SYS-KF7ZE3
+    target: REQ-6PB57PX
     confirmed: 3dd7a8ccfac1
 ---
 The secure boot shall notify audit records when the network is unavailable.

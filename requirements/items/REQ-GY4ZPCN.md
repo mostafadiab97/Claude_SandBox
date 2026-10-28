@@ -1,5 +1,5 @@
 ---
-id: CR-9MHA3Z
+id: REQ-GY4ZPCN
 type: change-request
 title: "CR: extend boiler interface to log access tokens"
 status: Review
@@ -8,11 +8,12 @@ tags:
   - i18n
   - safety
   - performance
-parent: INFO-ZBHTYF
-order: 70
+former-id: CR-9MHA3Z
+parent: REQ-XJDN42Y
+order: a6
 links:
   - type: relates-to
-    target: SYS-A6SZV3
+    target: REQ-XW7FZ05
     confirmed: 2cf0a5310219
 ---
 Requested by customer support (ticket #15260).

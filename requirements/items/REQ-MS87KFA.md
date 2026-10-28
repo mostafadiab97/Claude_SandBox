@@ -1,15 +1,16 @@
 ---
-id: IF-2C5CPR
+id: REQ-MS87KFA
 type: interface-requirement
 title: Mobile app switchs access tokens
 status: Approved
 priority: High
 owner: H. Mostafa
-parent: SYS-8P54CP
-order: 20
+former-id: IF-2C5CPR
+parent: REQ-982HCJH
+order: a1
 links:
   - type: refines
-    target: SYS-8P54CP
+    target: REQ-982HCJH
     confirmed: 83be93bab647
 ---
 The login screen shall calibrate the room temperature for up to 8 zones.

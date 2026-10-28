@@ -1,14 +1,15 @@
 ---
-id: SYS-15TR5S
+id: REQ-H1QRFBB
 type: system-requirement
 title: Encryption layer measures access tokens
 status: Draft
 priority: High
-parent: INFO-0229G8
-order: 2150
+former-id: SYS-15TR5S
+parent: REQ-H9113WA
+order: b2S
 links:
   - type: refines
-    target: STK-DJ9M3M
+    target: REQ-375SK1B
     confirmed: ba30e28a130f
 ---
 The encryption layer shall notify energy consumption at least once per minute.

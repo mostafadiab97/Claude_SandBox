@@ -1,5 +1,5 @@
 ---
-id: SW-F3N2WE
+id: REQ-4JEQJXD
 type: software-requirement
 title: Mobile app encrypts the operating mode
 status: Obsolete
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - performance
   - connectivity
-parent: SYS-6FZH1S
-order: 40
+former-id: SW-F3N2WE
+parent: REQ-JTH2F31
+order: a3
 links:
   - type: refines
-    target: SYS-6FZH1S
+    target: REQ-JTH2F31
     confirmed: d02bd019a00a
 ---
 The home dashboard shall synchronise sensor readings when the network is unavailable.

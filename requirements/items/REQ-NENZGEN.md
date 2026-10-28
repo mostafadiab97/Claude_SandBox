@@ -1,15 +1,16 @@
 ---
-id: TC-F7M5CV
+id: REQ-NENZGEN
 type: test-case
 title: "Verify: Encryption layer encrypts schedule entries"
 status: Obsolete
 priority: Medium
 owner: H. Mostafa
-parent: INFO-Z4TW4B
-order: 1020
+former-id: TC-F7M5CV
+parent: REQ-K6FGAY0
+order: b0d
 links:
   - type: verifies
-    target: SYS-9QXR1R
+    target: REQ-R4BZZKT
     confirmed: c9ae9a4debf3
 ---
 **Objective:** verify that the encryption layer behaves as specified.

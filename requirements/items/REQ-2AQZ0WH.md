@@ -1,5 +1,5 @@
 ---
-id: SW-3HHEEC
+id: REQ-2AQZ0WH
 type: software-requirement
 title: Authenticate audit records — detail
 status: Draft
@@ -7,11 +7,12 @@ tags:
   - release-1.0
   - EMC
   - i18n
-parent: SW-X9ECZ8
-order: 10
+former-id: SW-3HHEEC
+parent: REQ-SKY3CRV
+order: a0
 links:
   - type: refines
-    target: SW-X9ECZ8
+    target: REQ-SKY3CRV
     confirmed: 3485feb279ff
 ---
 The encryption layer shall detect user preferences for at least 10 years.

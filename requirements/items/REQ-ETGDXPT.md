@@ -1,5 +1,5 @@
 ---
-id: DE-3D0CJM
+id: REQ-ETGDXPT
 type: design-element
 title: Module Wi-Fi_module_93
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - i18n
   - safety
-parent: SW-3BACPR
-order: 10
+former-id: DE-3D0CJM
+parent: REQ-J5CQY09
+order: a0
 links:
   - type: implements
-    target: SW-3BACPR
+    target: REQ-J5CQY09
     confirmed: 1f6d28989a54
 ---
 Implemented in `src/conn/Wi-Fi_module.c`.

@@ -1,5 +1,5 @@
 ---
-id: IF-C38JY4
+id: REQ-C9JBZJ5
 type: interface-requirement
 title: Local API reports humidity values
 status: Draft
@@ -7,11 +7,12 @@ owner: H. Mostafa
 tags:
   - connectivity
   - release-1.0
-parent: SYS-BJ0Q20
-order: 20
+former-id: IF-C38JY4
+parent: REQ-J216NC7
+order: a1
 links:
   - type: refines
-    target: SYS-BJ0Q20
+    target: REQ-J216NC7
     confirmed: 5bd6f55bad83
 ---
 The Bluetooth LE link shall display the connection state with an accuracy of ±0.5 °C.

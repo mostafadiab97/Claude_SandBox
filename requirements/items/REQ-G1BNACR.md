@@ -1,5 +1,5 @@
 ---
-id: IF-NTEVZ4
+id: REQ-G1BNACR
 type: interface-requirement
 title: "Signal 432: energy consumption"
 status: Review
@@ -8,7 +8,8 @@ owner: A. Hassan
 tags:
   - regulatory
   - EMC
-parent: INFO-2TM0JP
-order: 4320
+former-id: IF-NTEVZ4
+parent: REQ-RJ0KHPT
+order: b5x
 ---
 Interface signal number 432.

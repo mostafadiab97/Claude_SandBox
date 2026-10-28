@@ -1,14 +1,15 @@
 ---
-id: SYS-HQCMZ8
+id: REQ-TFHY48H
 type: system-requirement
 title: Cloud backend switchs user preferences
 status: Draft
 owner: S. Adel
-parent: INFO-YV5EZD
-order: 1200
+former-id: SYS-HQCMZ8
+parent: REQ-RE9ZKHF
+order: b0v
 links:
   - type: refines
-    target: STK-1CAAXP
+    target: REQ-ZEW4521
     confirmed: a853df6f0866
 ---
 The cloud backend shall measure the room temperature using AES-256-GCM.

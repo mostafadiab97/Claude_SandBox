@@ -1,5 +1,5 @@
 ---
-id: STK-W18EQ4
+id: REQ-GPRWN7N
 type: stakeholder-need
 title: Relay board must switch the set point
 status: Review
@@ -9,7 +9,8 @@ tags:
   - release-1.0
   - customer-request
   - connectivity
-parent: INFO-6W132E
-order: 20
+former-id: STK-W18EQ4
+parent: REQ-QV7VW2A
+order: a1
 ---
 As a home owner I want the relay board to measure schedule entries, so that my home stays comfortable.

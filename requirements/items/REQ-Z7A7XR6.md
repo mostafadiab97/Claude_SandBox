@@ -1,15 +1,16 @@
 ---
-id: SW-2MA9KP
+id: REQ-Z7A7XR6
 type: software-requirement
 title: Authenticate error conditions — detail
 status: Approved
 priority: High
 owner: M. Farouk
-parent: SW-YM8WV2
-order: 10
+former-id: SW-2MA9KP
+parent: REQ-SMX9V4C
+order: a0
 links:
   - type: refines
-    target: SW-YM8WV2
+    target: REQ-SMX9V4C
     confirmed: 7d17fc612096
 ---
 The encryption layer shall restore firmware images without user interaction.

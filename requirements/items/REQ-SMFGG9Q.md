@@ -1,16 +1,17 @@
 ---
-id: HW-KT9A2V
+id: REQ-SMFGG9Q
 type: hardware-requirement
 title: Limit relay events — detail
 status: Draft
 priority: High
 tags:
   - accessibility
-parent: HW-6RDR0X
-order: 10
+former-id: HW-KT9A2V
+parent: REQ-KT0RFX3
+order: a0
 links:
   - type: refines
-    target: HW-6RDR0X
+    target: REQ-KT0RFX3
     confirmed: e3153deddd43
 ---
 The user account service shall calibrate the operating mode in under 3 s.

@@ -1,16 +1,17 @@
 ---
-id: SW-0ZP3YV
+id: REQ-FVAQQCD
 type: software-requirement
 title: Backlight measures error conditions
 status: Approved
 priority: Medium
 tags:
   - safety
-parent: SYS-G3S57K
-order: 20
+former-id: SW-0ZP3YV
+parent: REQ-FN6RBD1
+order: a1
 links:
   - type: refines
-    target: SYS-G3S57K
+    target: REQ-FN6RBD1
     confirmed: a572263089a0
 ---
 The backlight shall store firmware images using AES-256-GCM.

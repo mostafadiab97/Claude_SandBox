@@ -1,15 +1,16 @@
 ---
-id: DE-SNZR9T
+id: REQ-V3QFVFB
 type: design-element
 title: Module Wi-Fi_module_23
 status: Draft
 priority: Medium
 owner: A. Hassan
-parent: SW-3GWTBM
-order: 10
+former-id: DE-SNZR9T
+parent: REQ-BFYPPKC
+order: a0
 links:
   - type: implements
-    target: SW-3GWTBM
+    target: REQ-BFYPPKC
     confirmed: 2f6ecdddaf9a
 ---
 Implemented in `src/conn/Wi-Fi_module.c`.

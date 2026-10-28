@@ -1,5 +1,5 @@
 ---
-id: SYS-S17F3W
+id: REQ-B5QM2ZG
 type: system-requirement
 title: Menu system notifys the room temperature
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - EMC
   - i18n
-parent: INFO-PDR6FV
-order: 360
+former-id: SYS-S17F3W
+parent: REQ-2ZA2TRZ
+order: aZ
 links:
   - type: refines
-    target: STK-8PN4VS
+    target: REQ-WQB5JT6
     confirmed: a3e83ac40678
 ---
 The menu system shall restore the room temperature using AES-256-GCM.

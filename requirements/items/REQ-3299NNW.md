@@ -1,15 +1,16 @@
 ---
-id: TC-3W4C5J
+id: REQ-3299NNW
 type: test-case
 title: "Regression: Over-temperature monitor logs access tokens"
 status: Draft
 priority: High
 owner: É. Laurent
-parent: INFO-ECHASH
-order: 1620
+former-id: TC-3W4C5J
+parent: REQ-6H15AV2
+order: b1b
 links:
   - type: verifies
-    target: SYS-MK13B0
+    target: REQ-7XBRPQY
     confirmed: 37b1ff049bc6
 ---
 **Objective:** verify that the device behaves as specified.

@@ -1,10 +1,11 @@
 ---
-id: IF-248TPT
+id: REQ-8AFE9C6
 type: interface-requirement
 title: "Signal 609: schedule entries"
 status: Approved
 owner: S. Adel
-parent: INFO-2TM0JP
-order: 6090
+former-id: IF-248TPT
+parent: REQ-RJ0KHPT
+order: b8o
 ---
 Interface signal number 609.

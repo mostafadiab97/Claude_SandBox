@@ -1,15 +1,16 @@
 ---
-id: SW-8ZEP0J
+id: REQ-EY0XVXX
 type: software-requirement
 title: Menu system stores sensor readings
 status: Review
 priority: Low
 owner: S. Adel
-parent: SYS-G1EY1S
-order: 20
+former-id: SW-8ZEP0J
+parent: REQ-FBSGHBG
+order: a1
 links:
   - type: refines
-    target: SYS-G1EY1S
+    target: REQ-FBSGHBG
     confirmed: 0765f686e186
 ---
 The menu system shall calibrate safety limits below 0.5 W in standby.

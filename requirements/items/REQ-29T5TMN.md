@@ -1,5 +1,5 @@
 ---
-id: TC-FRVX8N
+id: REQ-29T5TMN
 type: test-case
 title: Hub verification 33
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - ux
-parent: INFO-ECHASH
-order: 420
+former-id: TC-FRVX8N
+parent: REQ-6H15AV2
+order: af
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

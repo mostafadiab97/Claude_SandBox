@@ -1,16 +1,17 @@
 ---
-id: IF-TTS1YH
+id: REQ-7JK2EXQ
 type: interface-requirement
 title: Cloud backend encrypts energy consumption
 status: Approved
 owner: K. Tanaka
 tags:
   - power
-parent: SYS-5T8QY1
-order: 10
+former-id: IF-TTS1YH
+parent: REQ-ECXS8HP
+order: a0
 links:
   - type: refines
-    target: SYS-5T8QY1
+    target: REQ-ECXS8HP
     confirmed: e938f1e76d9e
 ---
 The user account service shall synchronise the set point when the network is unavailable.

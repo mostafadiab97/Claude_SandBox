@@ -1,5 +1,5 @@
 ---
-id: SW-38JJJT
+id: REQ-56ZBGAJ
 type: software-requirement
 title: Notify the operating mode — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: N. Kamal
 tags:
   - i18n
-parent: SW-J20KDY
-order: 10
+former-id: SW-38JJJT
+parent: REQ-TNYTMVD
+order: a0
 links:
   - type: refines
-    target: SW-J20KDY
+    target: REQ-TNYTMVD
     confirmed: 046e3bad56fa
 ---
 The over-temperature monitor shall encrypt schedule entries in under 3 s.

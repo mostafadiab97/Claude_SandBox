@@ -1,16 +1,17 @@
 ---
-id: IF-RREG5Q
+id: REQ-MW8YV74
 type: interface-requirement
 title: User account service synchronises error conditions
 status: Approved
 priority: High
 tags:
   - ux
-parent: SYS-X4ZQAJ
-order: 10
+former-id: IF-RREG5Q
+parent: REQ-A5VJKDZ
+order: a0
 links:
   - type: refines
-    target: SYS-X4ZQAJ
+    target: REQ-A5VJKDZ
     confirmed: 6b28de77da9f
 ---
 The telemetry pipeline shall authenticate access tokens for up to 8 zones.

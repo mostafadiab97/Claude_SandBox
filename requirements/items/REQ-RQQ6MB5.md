@@ -1,5 +1,5 @@
 ---
-id: DE-YT9GGF
+id: REQ-RQQ6MB5
 type: design-element
 title: Module zone_valve_60
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - cost
   - power
   - security
-parent: SW-7N8903
-order: 10
+former-id: DE-YT9GGF
+parent: REQ-6Z2T7BM
+order: a0
 links:
   - type: implements
-    target: SW-7N8903
+    target: REQ-6Z2T7BM
     confirmed: c4f9336a63bd
 ---
 Implemented in `src/heat/zone_valve.c`.

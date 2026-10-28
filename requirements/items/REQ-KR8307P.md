@@ -1,15 +1,16 @@
 ---
-id: DE-WMXRFN
+id: REQ-KR8307P
 type: design-element
 title: Module rotary_knob_22
 status: Review
 priority: Medium
 owner: A. Hassan
-parent: SW-C8FAVC
-order: 10
+former-id: DE-WMXRFN
+parent: REQ-14PEZYK
+order: a0
 links:
   - type: implements
-    target: SW-C8FAVC
+    target: REQ-14PEZYK
     confirmed: 32e2bf7ec416
 ---
 Implemented in `src/ui/rotary_knob.c`.

@@ -1,5 +1,5 @@
 ---
-id: SW-T1QQVW
+id: REQ-XH0KF06
 type: software-requirement
 title: User account service reports energy consumption
 status: Approved
@@ -7,11 +7,12 @@ owner: S. Adel
 tags:
   - ux
   - cost
-parent: SYS-EK761P
-order: 20
+former-id: SW-T1QQVW
+parent: REQ-R53ZXDT
+order: a1
 links:
   - type: refines
-    target: SYS-EK761P
+    target: REQ-R53ZXDT
     confirmed: db6748ce1b10
 ---
 The OTA server shall store schedule entries within 200 ms.

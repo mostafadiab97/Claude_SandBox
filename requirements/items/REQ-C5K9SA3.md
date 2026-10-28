@@ -1,5 +1,5 @@
 ---
-id: SW-8KX7ZM
+id: REQ-C5K9SA3
 type: software-requirement
 title: Mobile app synchronises schedule entries
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - security
-parent: SYS-MJMPET
-order: 10
+former-id: SW-8KX7ZM
+parent: REQ-HZEQDMX
+order: a0
 links:
   - type: refines
-    target: SYS-MJMPET
+    target: REQ-HZEQDMX
     confirmed: db16e70cbc4d
 ---
 The login screen shall report the operating mode using AES-256-GCM.

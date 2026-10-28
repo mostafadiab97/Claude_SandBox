@@ -1,15 +1,16 @@
 ---
-id: TC-5CVQEZ
+id: REQ-GPR4C8E
 type: test-case
 title: "Verify: OTA server measures energy consumption"
 status: Draft
 priority: Medium
 owner: N. Kamal
-parent: INFO-7P4D8D
-order: 460
+former-id: TC-5CVQEZ
+parent: REQ-8351896
+order: aj
 links:
   - type: verifies
-    target: SYS-86C690
+    target: REQ-QFMXM3D
     confirmed: 69daa9458ae7
 ---
 **Objective:** verify that the OTA server behaves as specified.

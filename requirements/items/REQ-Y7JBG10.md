@@ -1,18 +1,19 @@
 ---
-id: DEF-XJ24RB
+id: REQ-Y7JBG10
 type: defect
 title: "Defect: pairing process does not synchronise schedule entries"
 status: Draft
 priority: Medium
 owner: H. Mostafa
-parent: INFO-Y69DRS
-order: 10
+former-id: DEF-XJ24RB
+parent: REQ-YW554H8
+order: a0
 links:
   - type: relates-to
-    target: TC-R3XJAW
+    target: REQ-GCYP2SH
     confirmed: 80872881cabf
   - type: relates-to
-    target: SYS-DZWWWA
+    target: REQ-BWJ3AFX
     confirmed: 0999a3b2ce99
 ---
 Found during regression testing of build 2.6.29.

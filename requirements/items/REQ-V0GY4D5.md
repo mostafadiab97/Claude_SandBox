@@ -1,5 +1,5 @@
 ---
-id: TC-YT9JRS
+id: REQ-V0GY4D5
 type: test-case
 title: "Verify: Regulation loop synchronises the room temperature"
 status: Review
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - safety
   - performance
-parent: INFO-MS9DAG
-order: 130
+former-id: TC-YT9JRS
+parent: REQ-XGWSK2K
+order: aC
 links:
   - type: verifies
-    target: SYS-S55V4N
+    target: REQ-2QD5T4F
     confirmed: 706f127e04d0
 ---
 **Objective:** verify that the regulation loop behaves as specified.

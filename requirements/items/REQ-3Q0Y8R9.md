@@ -1,14 +1,15 @@
 ---
-id: SW-DGV4A0
+id: REQ-3Q0Y8R9
 type: software-requirement
 title: Zigbee radio displays relay events
 status: Draft
 owner: A. Hassan
-parent: SYS-AG7C1J
-order: 20
+former-id: SW-DGV4A0
+parent: REQ-55ZTTKQ
+order: a1
 links:
   - type: refines
-    target: SYS-AG7C1J
+    target: REQ-55ZTTKQ
     confirmed: cee47aab4775
 ---
 The Zigbee radio shall log safety limits below 0.5 W in standby.

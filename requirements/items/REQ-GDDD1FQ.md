@@ -1,15 +1,16 @@
 ---
-id: TC-X38T6J
+id: REQ-GDDD1FQ
 type: test-case
 title: "Verify: Pairing process authenticates sensor readings"
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: INFO-F0M7VC
-order: 1200
+former-id: TC-X38T6J
+parent: REQ-67RQXCK
+order: b0v
 links:
   - type: verifies
-    target: SYS-568D4J
+    target: REQ-2WNTMGV
     confirmed: 57968fcc7d39
 ---
 **Objective:** verify that the pairing process behaves as specified.

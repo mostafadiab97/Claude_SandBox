@@ -1,5 +1,5 @@
 ---
-id: IF-GFTVXX
+id: REQ-5ZSE679
 type: interface-requirement
 title: "Signal 398: the set point"
 status: Draft
@@ -9,7 +9,8 @@ tags:
   - cost
   - EMC
   - security
-parent: INFO-2TM0JP
-order: 3980
+former-id: IF-GFTVXX
+parent: REQ-RJ0KHPT
+order: b5P
 ---
 Interface signal number 398.

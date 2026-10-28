@@ -1,5 +1,5 @@
 ---
-id: TC-9AST03
+id: REQ-95Z1HQ6
 type: test-case
 title: "Verify: OTA server stores humidity values"
 status: Approved
@@ -8,14 +8,15 @@ tags:
   - ux
   - EMC
   - safety
-parent: INFO-7P4D8D
-order: 290
+former-id: TC-9AST03
+parent: REQ-8351896
+order: aS
 links:
   - type: verifies
-    target: SYS-QEFT7B
+    target: REQ-VCPXGX6
     confirmed: aafd3f4bb931
   - type: verifies
-    target: SW-B5J7X8
+    target: REQ-VR0XBC8
     confirmed: 367a6b674b14
 ---
 **Objective:** verify that the OTA server behaves as specified.

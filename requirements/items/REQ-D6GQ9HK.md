@@ -1,5 +1,5 @@
 ---
-id: SW-6Y9Q4D
+id: REQ-D6GQ9HK
 type: software-requirement
 title: Tamper detection measures audit records
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: K. Tanaka
 tags:
   - connectivity
-parent: SYS-G5S6EX
-order: 30
+former-id: SW-6Y9Q4D
+parent: REQ-5HPPTRY
+order: a2
 links:
   - type: refines
-    target: SYS-G5S6EX
+    target: REQ-5HPPTRY
     confirmed: e5867026fabe
 ---
 The secure boot shall switch the connection state in all supported languages.

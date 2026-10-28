@@ -1,5 +1,5 @@
 ---
-id: HW-4GWP6Y
+id: REQ-PDH1HQB
 type: hardware-requirement
 title: Device registry measures audit records
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - security
   - regulatory
-parent: SYS-2NQ3E8
-order: 20
+former-id: HW-4GWP6Y
+parent: REQ-9FZHANA
+order: a1
 links:
   - type: refines
-    target: SYS-2NQ3E8
+    target: REQ-9FZHANA
     confirmed: 08cad2a24d2f
 ---
 The OTA server shall display the set point with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: IF-Y2VBHY
+id: REQ-DTZS59J
 type: interface-requirement
 title: Zigbee radio stores the set point
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - security
   - power
-parent: SYS-JDST6C
-order: 10
+former-id: IF-Y2VBHY
+parent: REQ-C52S4BX
+order: a0
 links:
   - type: refines
-    target: SYS-JDST6C
+    target: REQ-C52S4BX
     confirmed: 7ea47e8c8d56
 ---
 The Bluetooth LE link shall store sensor readings at least once per minute.

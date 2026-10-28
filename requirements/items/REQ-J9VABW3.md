@@ -1,14 +1,15 @@
 ---
-id: HW-F5791G
+id: REQ-J9VABW3
 type: hardware-requirement
 title: Boiler interface limits relay events
 status: Draft
 owner: A. Hassan
-parent: SYS-1EZV5G
-order: 40
+former-id: HW-F5791G
+parent: REQ-389SR14
+order: a3
 links:
   - type: refines
-    target: SYS-1EZV5G
+    target: REQ-389SR14
     confirmed: 3dec0cd02007
 ---
 The boiler interface shall store sensor readings in all supported languages.

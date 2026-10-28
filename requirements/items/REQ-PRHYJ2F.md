@@ -1,5 +1,5 @@
 ---
-id: SYS-GK8E6S
+id: REQ-PRHYJ2F
 type: system-requirement
 title: Telemetry pipeline detects safety limits
 status: Approved
@@ -8,14 +8,15 @@ owner: N. Kamal
 tags:
   - performance
   - ux
-parent: INFO-YV5EZD
-order: 100
+former-id: SYS-GK8E6S
+parent: REQ-RE9ZKHF
+order: a9
 links:
   - type: refines
-    target: STK-R8QH58
+    target: REQ-BN3T0GR
     confirmed: 13d6784d2cc9
   - type: mitigates
-    target: RSK-HW7CT1
+    target: REQ-2XXW52D
     confirmed: 9979c7ab202d
 ---
 The telemetry pipeline shall calibrate firmware images when the network is unavailable.

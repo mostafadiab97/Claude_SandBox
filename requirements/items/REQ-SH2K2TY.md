@@ -1,15 +1,16 @@
 ---
-id: TC-8EQ56V
+id: REQ-SH2K2TY
 type: test-case
 title: "Verify: Battery backup detects safety limits"
 status: Approved
 priority: High
 owner: R. Nabil
-parent: INFO-MACGC3
-order: 1230
+former-id: TC-8EQ56V
+parent: REQ-F9Z1FYS
+order: b0y
 links:
   - type: verifies
-    target: SYS-DS9BCD
+    target: REQ-R9KTZAB
     confirmed: 71372d39e051
 ---
 **Objective:** verify that the battery backup behaves as specified.

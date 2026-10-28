@@ -1,5 +1,5 @@
 ---
-id: SYS-6YVE5W
+id: REQ-E8DEB31
 type: system-requirement
 title: Home dashboard displays the connection state
 status: Approved
@@ -8,14 +8,15 @@ tags:
   - performance
   - ux
   - release-2.0
-parent: INFO-2XXBRS
-order: 680
+former-id: SYS-6YVE5W
+parent: REQ-QYXGSQ4
+order: b05
 links:
   - type: refines
-    target: STK-639N9T
+    target: REQ-EMZ19WQ
     confirmed: 252da9caa62c
   - type: mitigates
-    target: RSK-8FFR90
+    target: REQ-6TFCRWD
     confirmed: 63c04ae06813
 ---
 The home dashboard shall switch user preferences at least once per minute.

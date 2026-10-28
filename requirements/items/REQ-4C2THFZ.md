@@ -1,16 +1,17 @@
 ---
-id: TC-WQ3CEY
+id: REQ-4C2THFZ
 type: test-case
 title: "Regression: Local API validates the connection state"
 status: Approved
 priority: High
 tags:
   - i18n
-parent: INFO-ECHASH
-order: 1870
+former-id: TC-WQ3CEY
+parent: REQ-6H15AV2
+order: b20
 links:
   - type: verifies
-    target: SYS-7GR1GZ
+    target: REQ-BNSVZ8R
     confirmed: b3432a56f6cd
 ---
 **Objective:** verify that the device behaves as specified.

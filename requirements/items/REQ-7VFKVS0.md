@@ -1,16 +1,17 @@
 ---
-id: TC-T1ZW3T
+id: REQ-7VFKVS0
 type: test-case
 title: "Verify: Cloud backend validates schedule entries"
 status: Approved
 priority: Medium
 tags:
   - connectivity
-parent: INFO-7P4D8D
-order: 220
+former-id: TC-T1ZW3T
+parent: REQ-8351896
+order: aL
 links:
   - type: verifies
-    target: SYS-KT3GD2
+    target: REQ-EFVZM4Z
     confirmed: 8a0b2b4def8d
 ---
 **Objective:** verify that the cloud backend behaves as specified.

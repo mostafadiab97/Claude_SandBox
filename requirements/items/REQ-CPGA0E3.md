@@ -1,5 +1,5 @@
 ---
-id: IF-3G8BRS
+id: REQ-CPGA0E3
 type: interface-requirement
 title: Main PCB reports sensor readings
 status: Draft
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - i18n
   - cost
-parent: SYS-J19Z2X
-order: 20
+former-id: IF-3G8BRS
+parent: REQ-YH59XYB
+order: a1
 links:
   - type: refines
-    target: SYS-J19Z2X
+    target: REQ-YH59XYB
     confirmed: 341b2e9527f9
 ---
 The relay board shall calibrate schedule entries at least once per minute.

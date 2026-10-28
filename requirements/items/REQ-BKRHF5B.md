@@ -1,18 +1,19 @@
 ---
-id: TC-E6K33Z
+id: REQ-BKRHF5B
 type: test-case
 title: "Verify: Pairing process switchs sensor readings"
 status: Draft
 priority: Medium
 owner: K. Tanaka
-parent: INFO-F0M7VC
-order: 700
+former-id: TC-E6K33Z
+parent: REQ-67RQXCK
+order: b07
 links:
   - type: verifies
-    target: SYS-96CWW2
+    target: REQ-74P9MAJ
     confirmed: e023ac8016f0
   - type: verifies
-    target: SW-9338A3
+    target: REQ-RVRC0G7
     confirmed: e7cbb10f2f38
 ---
 **Objective:** verify that the pairing process behaves as specified.

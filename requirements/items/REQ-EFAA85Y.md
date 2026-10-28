@@ -1,5 +1,5 @@
 ---
-id: SW-GFQVB0
+id: REQ-EFAA85Y
 type: software-requirement
 title: Backlight restores audit records
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - release-2.0
   - regulatory
-parent: SYS-EFJFCR
-order: 10
+former-id: SW-GFQVB0
+parent: REQ-SG5ZHBV
+order: a0
 links:
   - type: refines
-    target: SYS-EFJFCR
+    target: REQ-SG5ZHBV
     confirmed: b46684aa0799
 ---
 The touch display shall switch the room temperature using AES-256-GCM.

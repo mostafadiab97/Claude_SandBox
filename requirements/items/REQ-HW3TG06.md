@@ -1,18 +1,19 @@
 ---
-id: TC-BGTA9C
+id: REQ-HW3TG06
 type: test-case
 title: "Verify: Mobile app encrypts safety limits"
 status: Review
 priority: Medium
 owner: S. Adel
-parent: INFO-J0FETE
-order: 1460
+former-id: TC-BGTA9C
+parent: REQ-WR5ZJN9
+order: b1L
 links:
   - type: verifies
-    target: SYS-RV3J4H
+    target: REQ-2PXRV1Y
     confirmed: c844415dcddc
   - type: verifies
-    target: SW-RFFCF6
+    target: REQ-32F8R7P
     confirmed: e55ee221dfd4
 ---
 **Objective:** verify that the mobile app behaves as specified.

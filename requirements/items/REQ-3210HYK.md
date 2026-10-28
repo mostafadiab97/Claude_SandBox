@@ -1,5 +1,5 @@
 ---
-id: SW-9R119K
+id: REQ-3210HYK
 type: software-requirement
 title: Telemetry pipeline reports error conditions
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - EMC
   - release-2.0
-parent: SYS-AP48M6
-order: 20
+former-id: SW-9R119K
+parent: REQ-RW13WJP
+order: a1
 links:
   - type: refines
-    target: SYS-AP48M6
+    target: REQ-RW13WJP
     confirmed: 5bc25d897362
 ---
 The device registry shall detect schedule entries with an accuracy of ±0.5 °C.

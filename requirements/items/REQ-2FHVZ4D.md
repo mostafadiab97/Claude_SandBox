@@ -1,14 +1,15 @@
 ---
-id: IF-WBE1YE
+id: REQ-2FHVZ4D
 type: interface-requirement
 title: Notification service notifys firmware images
 status: Obsolete
 owner: K. Tanaka
-parent: SYS-BKCGFY
-order: 30
+former-id: IF-WBE1YE
+parent: REQ-9B3KSET
+order: a2
 links:
   - type: refines
-    target: SYS-BKCGFY
+    target: REQ-9B3KSET
     confirmed: cca1fb8df9ed
 ---
 The schedule editor shall limit firmware images within 200 ms.

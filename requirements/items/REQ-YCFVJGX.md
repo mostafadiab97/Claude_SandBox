@@ -1,5 +1,5 @@
 ---
-id: HW-ZYARY9
+id: REQ-YCFVJGX
 type: hardware-requirement
 title: Cloud backend detects energy consumption
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 tags:
   - EMC
   - connectivity
-parent: SYS-HV5YB5
-order: 10
+former-id: HW-ZYARY9
+parent: REQ-FGM0DYR
+order: a0
 links:
   - type: refines
-    target: SYS-HV5YB5
+    target: REQ-FGM0DYR
     confirmed: a372a699b46d
 ---
 The telemetry pipeline shall display the room temperature without user interaction.

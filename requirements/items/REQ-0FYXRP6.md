@@ -1,15 +1,16 @@
 ---
-id: TC-MNWNAV
+id: REQ-0FYXRP6
 type: test-case
 title: "Verify: Heating controller calibrates the room temperature"
 status: Draft
 priority: Medium
 owner: A. Hassan
-parent: INFO-MS9DAG
-order: 1520
+former-id: TC-MNWNAV
+parent: REQ-XGWSK2K
+order: b1R
 links:
   - type: verifies
-    target: SYS-7JZD7P
+    target: REQ-2K5K4N4
     confirmed: 3d215316f1d7
 ---
 **Objective:** verify that the heating controller behaves as specified.

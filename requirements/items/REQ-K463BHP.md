@@ -1,19 +1,20 @@
 ---
-id: TC-H0QP13
+id: REQ-K463BHP
 type: test-case
 title: "Verify: Cloud backend reports user preferences"
 status: Review
 priority: Low
 tags:
   - release-1.0
-parent: INFO-7P4D8D
-order: 1210
+former-id: TC-H0QP13
+parent: REQ-8351896
+order: b0w
 links:
   - type: verifies
-    target: SYS-M866DW
+    target: REQ-EFACKTK
     confirmed: ca116b04f822
   - type: verifies
-    target: SW-V860W7
+    target: REQ-65R2DP0
     confirmed: 56c1b62a6109
 ---
 **Objective:** verify that the cloud backend behaves as specified.

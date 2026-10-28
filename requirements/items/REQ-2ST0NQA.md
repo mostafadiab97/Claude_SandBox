@@ -1,5 +1,5 @@
 ---
-id: SYS-QJNNZD
+id: REQ-2ST0NQA
 type: system-requirement
 title: Battery backup restores schedule entries
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - power
   - regulatory
-parent: INFO-A6P9A8
-order: 670
+former-id: SYS-QJNNZD
+parent: REQ-CMCS31A
+order: b04
 links:
   - type: refines
-    target: STK-TT8FXG
+    target: REQ-S1GZKZX
     confirmed: 85d87c7e9a76
 ---
 The battery backup shall restore the room temperature using AES-256-GCM.

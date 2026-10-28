@@ -1,15 +1,16 @@
 ---
-id: SW-3JG04C
+id: REQ-XQA7BNQ
 type: software-requirement
 title: Authenticate audit records — detail
 status: Draft
 priority: Low
 owner: A. Hassan
-parent: SW-WNWSQY
-order: 10
+former-id: SW-3JG04C
+parent: REQ-ZT4WGB2
+order: a0
 links:
   - type: refines
-    target: SW-WNWSQY
+    target: REQ-ZT4WGB2
     confirmed: 2ad6d2e20386
 ---
 The Zigbee radio shall validate access tokens with an accuracy of ±0.5 °C.

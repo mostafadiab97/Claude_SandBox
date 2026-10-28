@@ -1,16 +1,17 @@
 ---
-id: SW-B77WFD
+id: REQ-QT7PXXA
 type: software-requirement
 title: Pairing process encrypts error conditions
 status: Draft
 priority: Low
 tags:
   - release-2.0
-parent: SYS-91NRJ9
-order: 10
+former-id: SW-B77WFD
+parent: REQ-JNHH86M
+order: a0
 links:
   - type: refines
-    target: SYS-91NRJ9
+    target: REQ-JNHH86M
     confirmed: 8a99ad0fb5ef
 ---
 The Wi-Fi module shall calibrate safety limits in under 3 s.

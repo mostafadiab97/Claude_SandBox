@@ -1,15 +1,16 @@
 ---
-id: TC-QH1XMV
+id: REQ-XPK2N43
 type: test-case
 title: "Verify: Schedule editor measures sensor readings"
 status: Obsolete
 priority: High
 owner: K. Tanaka
-parent: INFO-J0FETE
-order: 1130
+former-id: TC-QH1XMV
+parent: REQ-WR5ZJN9
+order: b0o
 links:
   - type: verifies
-    target: SYS-ZFAGA9
+    target: REQ-FF5B6MJ
     confirmed: 088ced33b5bc
 ---
 **Objective:** verify that the schedule editor behaves as specified.

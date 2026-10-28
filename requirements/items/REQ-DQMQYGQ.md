@@ -1,5 +1,5 @@
 ---
-id: HW-A940SW
+id: REQ-DQMQYGQ
 type: hardware-requirement
 title: Local API authenticates audit records
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - release-1.0
   - security
-parent: SYS-VH6JH8
-order: 20
+former-id: HW-A940SW
+parent: REQ-MG1JG36
+order: a1
 links:
   - type: refines
-    target: SYS-VH6JH8
+    target: REQ-MG1JG36
     confirmed: 1e4273ef3726
 ---
 The pairing process shall report error conditions in all supported languages.

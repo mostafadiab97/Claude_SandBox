@@ -1,14 +1,15 @@
 ---
-id: IF-72K2PZ
+id: REQ-W9RCXXD
 type: interface-requirement
 title: Battery backup restores schedule entries
 status: Approved
 owner: محمد علي
-parent: SYS-JR1SW0
-order: 10
+former-id: IF-72K2PZ
+parent: REQ-8KAKZXP
+order: a0
 links:
   - type: refines
-    target: SYS-JR1SW0
+    target: REQ-8KAKZXP
     confirmed: 509dfc30f5e8
 ---
 The relay board shall switch sensor readings for at least 10 years.

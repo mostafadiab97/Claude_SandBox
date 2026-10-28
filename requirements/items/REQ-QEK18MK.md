@@ -1,15 +1,16 @@
 ---
-id: SW-PMDEK4
+id: REQ-QEK18MK
 type: software-requirement
 title: Encryption layer synchronises firmware images
 status: Approved
 priority: Medium
 owner: É. Laurent
-parent: SYS-9FTG47
-order: 10
+former-id: SW-PMDEK4
+parent: REQ-G4RKHEY
+order: a0
 links:
   - type: refines
-    target: SYS-9FTG47
+    target: REQ-G4RKHEY
     confirmed: 6b7150a5bc62
 ---
 The secure boot shall report user preferences with an accuracy of ±0.5 °C.

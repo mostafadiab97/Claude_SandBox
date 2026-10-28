@@ -1,15 +1,16 @@
 ---
-id: SW-5ZFSND
+id: REQ-31CEQDS
 type: software-requirement
 title: Tamper detection encrypts user preferences
 status: Draft
 priority: Medium
 owner: J. Müller
-parent: SYS-CB769Y
-order: 40
+former-id: SW-5ZFSND
+parent: REQ-W7GCRX4
+order: a3
 links:
   - type: refines
-    target: SYS-CB769Y
+    target: REQ-W7GCRX4
     confirmed: 78ff4291b8f5
 ---
 The watchdog shall limit safety limits in all supported languages.

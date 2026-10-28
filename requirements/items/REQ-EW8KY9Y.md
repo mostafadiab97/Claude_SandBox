@@ -1,13 +1,14 @@
 ---
-id: IF-HAK9XC
+id: REQ-EW8KY9Y
 type: interface-requirement
 title: Pairing process detects audit records
 status: Obsolete
-parent: SYS-WKJRPW
-order: 30
+former-id: IF-HAK9XC
+parent: REQ-9H6JKNQ
+order: a2
 links:
   - type: refines
-    target: SYS-WKJRPW
+    target: REQ-9H6JKNQ
     confirmed: d8654a6b0ca3
 ---
 The pairing process shall notify sensor readings in all supported languages.

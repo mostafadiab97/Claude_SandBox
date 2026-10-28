@@ -1,18 +1,19 @@
 ---
-id: TC-95YRV4
+id: REQ-SY2XQHW
 type: test-case
 title: "Verify: Schedule editor detects firmware images"
 status: Approved
 priority: Low
 owner: Y. Saber
-parent: INFO-J0FETE
-order: 510
+former-id: TC-95YRV4
+parent: REQ-WR5ZJN9
+order: ao
 links:
   - type: verifies
-    target: SYS-YW7JJY
+    target: REQ-A9MQHYC
     confirmed: eb4dd1b8dfac
   - type: verifies
-    target: SW-Q0G587
+    target: REQ-YGPC9RA
     confirmed: 4aab3e3585cc
 ---
 **Objective:** verify that the schedule editor behaves as specified.

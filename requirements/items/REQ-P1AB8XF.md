@@ -1,5 +1,5 @@
 ---
-id: HW-36WGJV
+id: REQ-P1AB8XF
 type: hardware-requirement
 title: Report schedule entries — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - security
   - EMC
-parent: HW-HHESAK
-order: 10
+former-id: HW-36WGJV
+parent: REQ-CRDMRCD
+order: a0
 links:
   - type: refines
-    target: HW-HHESAK
+    target: REQ-CRDMRCD
     confirmed: 6b37096db50b
 ---
 The battery backup shall detect error conditions below 0.5 W in standby.

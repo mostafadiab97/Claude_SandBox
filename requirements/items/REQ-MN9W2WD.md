@@ -1,15 +1,16 @@
 ---
-id: TC-0RGXV2
+id: REQ-MN9W2WD
 type: test-case
 title: "Verify: Wi-Fi module authenticates error conditions"
 status: Draft
 priority: Medium
 owner: A. Hassan
-parent: INFO-F0M7VC
-order: 910
+former-id: TC-0RGXV2
+parent: REQ-67RQXCK
+order: b0S
 links:
   - type: verifies
-    target: SYS-5YJ231
+    target: REQ-MSAG52N
     confirmed: 72fe6dc471a9
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

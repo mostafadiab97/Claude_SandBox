@@ -1,15 +1,16 @@
 ---
-id: HW-0749TV
+id: REQ-PFMWSS8
 type: hardware-requirement
 title: Enclosure measures access tokens
 status: Draft
 priority: High
 owner: R. Nabil
-parent: SYS-04PZ39
-order: 10
+former-id: HW-0749TV
+parent: REQ-6PBEP6G
+order: a0
 links:
   - type: refines
-    target: SYS-04PZ39
+    target: REQ-6PBEP6G
     confirmed: ba731e9e2cc5
 ---
 The battery backup shall authenticate audit records after a power loss.

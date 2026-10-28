@@ -1,5 +1,5 @@
 ---
-id: SYS-7BE6SJ
+id: REQ-RGWCAM4
 type: system-requirement
 title: Rotary knob logs user preferences
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - ux
   - accessibility
-parent: INFO-PDR6FV
-order: 1770
+former-id: SYS-7BE6SJ
+parent: REQ-2ZA2TRZ
+order: b1q
 links:
   - type: refines
-    target: STK-KPV71Q
+    target: REQ-VQBZQVC
     confirmed: 10d9c216aea2
 ---
 The rotary knob shall encrypt audit records when the network is unavailable.

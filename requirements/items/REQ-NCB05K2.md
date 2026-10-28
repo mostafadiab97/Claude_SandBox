@@ -1,5 +1,5 @@
 ---
-id: HW-XAQHS8
+id: REQ-NCB05K2
 type: hardware-requirement
 title: Regulation loop notifys audit records
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - power
   - performance
-parent: SYS-GECB0Q
-order: 20
+former-id: HW-XAQHS8
+parent: REQ-FJ1M55T
+order: a1
 links:
   - type: refines
-    target: SYS-GECB0Q
+    target: REQ-FJ1M55T
     confirmed: 76c8ecd5a548
 ---
 The heat pump driver shall restore error conditions without user interaction.

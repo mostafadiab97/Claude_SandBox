@@ -1,5 +1,5 @@
 ---
-id: TC-6SZKFA
+id: REQ-MJW3SZZ
 type: test-case
 title: "Verify: Heat pump driver measures firmware images"
 status: Review
@@ -7,14 +7,15 @@ priority: Medium
 owner: L. Samir
 tags:
   - power
-parent: INFO-MS9DAG
-order: 1470
+former-id: TC-6SZKFA
+parent: REQ-XGWSK2K
+order: b1M
 links:
   - type: verifies
-    target: SYS-3NA7W8
+    target: REQ-X79WZPJ
     confirmed: 303f8590e242
   - type: verifies
-    target: SW-F7EPJP
+    target: REQ-4GD72TM
     confirmed: feab156e1a57
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

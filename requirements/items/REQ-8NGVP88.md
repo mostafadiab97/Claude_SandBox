@@ -1,5 +1,5 @@
 ---
-id: TC-Q0E7GZ
+id: REQ-8NGVP88
 type: test-case
 title: "Verify: Wi-Fi module detects schedule entries"
 status: Approved
@@ -8,14 +8,15 @@ owner: J. Müller
 tags:
   - regulatory
   - i18n
-parent: INFO-F0M7VC
-order: 800
+former-id: TC-Q0E7GZ
+parent: REQ-67RQXCK
+order: b0H
 links:
   - type: verifies
-    target: SYS-AKZ1R4
+    target: REQ-K15JQP3
     confirmed: da5ffbb2dc98
   - type: verifies
-    target: SW-AT00E2
+    target: REQ-Z8TBDTM
     confirmed: 7f592a075c3f
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

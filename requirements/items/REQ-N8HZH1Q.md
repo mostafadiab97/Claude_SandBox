@@ -1,15 +1,16 @@
 ---
-id: HW-KJ30E0
+id: REQ-N8HZH1Q
 type: hardware-requirement
 title: Power supply notifys the set point
 status: Approved
 priority: High
 owner: R. Nabil
-parent: SYS-RQ231H
-order: 20
+former-id: HW-KJ30E0
+parent: REQ-CPAZTBV
+order: a1
 links:
   - type: refines
-    target: SYS-RQ231H
+    target: REQ-CPAZTBV
     confirmed: 88585ac7e9a1
 ---
 The relay board shall detect error conditions at least once per minute.

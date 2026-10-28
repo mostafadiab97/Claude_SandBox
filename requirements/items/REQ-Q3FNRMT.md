@@ -1,14 +1,15 @@
 ---
-id: SW-8BPCAK
+id: REQ-Q3FNRMT
 type: software-requirement
 title: Notify firmware images — detail
 status: Review
 owner: É. Laurent
-parent: SW-4D3AV2
-order: 10
+former-id: SW-8BPCAK
+parent: REQ-333VFHS
+order: a0
 links:
   - type: refines
-    target: SW-4D3AV2
+    target: REQ-333VFHS
     confirmed: cf9fe2dfac00
 ---
 The cloud backend shall log error conditions within 200 ms.

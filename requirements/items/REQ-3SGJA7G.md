@@ -1,14 +1,15 @@
 ---
-id: TC-3H1RM9
+id: REQ-3SGJA7G
 type: test-case
 title: "Regression: Heat pump driver reports the room temperature"
 status: Approved
 priority: High
-parent: INFO-ECHASH
-order: 840
+former-id: TC-3H1RM9
+parent: REQ-6H15AV2
+order: b0L
 links:
   - type: verifies
-    target: SYS-5N9SCM
+    target: REQ-NCJ3MEG
     confirmed: "3408558e1049"
 ---
 **Objective:** verify that the device behaves as specified.

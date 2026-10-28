@@ -1,17 +1,18 @@
 ---
-id: TC-J545NA
+id: REQ-RCGBZF4
 type: test-case
 title: "Verify: Power supply switchs the set point"
 status: Approved
 owner: Y. Saber
-parent: INFO-MACGC3
-order: 1470
+former-id: TC-J545NA
+parent: REQ-F9Z1FYS
+order: b1M
 links:
   - type: verifies
-    target: SYS-R6BCVX
+    target: REQ-CHSRQQ4
     confirmed: 22f4af60b62c
   - type: verifies
-    target: SW-E3BXE1
+    target: REQ-ABMZPA4
     confirmed: a4c82810347b
 ---
 **Objective:** verify that the power supply behaves as specified.

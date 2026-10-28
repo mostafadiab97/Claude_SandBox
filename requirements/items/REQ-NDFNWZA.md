@@ -1,5 +1,5 @@
 ---
-id: SW-5Y4A5D
+id: REQ-NDFNWZA
 type: software-requirement
 title: Menu system notifys error conditions
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - ux
-parent: SYS-TFXCHW
-order: 20
+former-id: SW-5Y4A5D
+parent: REQ-3S6527M
+order: a1
 links:
   - type: refines
-    target: SYS-TFXCHW
+    target: REQ-3S6527M
     confirmed: e2bb9e80b6f4
 ---
 The status LED shall report firmware images below 0.5 W in standby.

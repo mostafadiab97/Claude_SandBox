@@ -1,5 +1,5 @@
 ---
-id: SYS-KC8K49
+id: REQ-7JRJWMP
 type: system-requirement
 title: OTA server notifys error conditions
 status: Draft
@@ -8,14 +8,15 @@ owner: N. Kamal
 tags:
   - accessibility
   - ux
-parent: INFO-YV5EZD
-order: 1060
+former-id: SYS-KC8K49
+parent: REQ-RE9ZKHF
+order: b0h
 links:
   - type: refines
-    target: STK-8Y3SDF
+    target: REQ-ATQSVGJ
     confirmed: 2609d2cce998
   - type: mitigates
-    target: RSK-8PEBF8
+    target: REQ-0QH3XJ3
     confirmed: be2e33598f0d
 ---
 The OTA server shall encrypt the set point for up to 8 zones.

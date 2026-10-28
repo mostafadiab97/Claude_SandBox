@@ -1,5 +1,5 @@
 ---
-id: IF-FKGRVJ
+id: REQ-39V9H5B
 type: interface-requirement
 title: Bluetooth LE link stores the operating mode
 status: Draft
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - release-1.0
   - customer-request
-parent: SYS-DVDRV2
-order: 30
+former-id: IF-FKGRVJ
+parent: REQ-9T0XEBB
+order: a2
 links:
   - type: refines
-    target: SYS-DVDRV2
+    target: REQ-9T0XEBB
     confirmed: 1dc89c6de993
 ---
 The pairing process shall limit the room temperature below 0.5 W in standby.

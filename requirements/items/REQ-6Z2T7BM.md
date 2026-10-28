@@ -1,5 +1,5 @@
 ---
-id: SW-7N8903
+id: REQ-6Z2T7BM
 type: software-requirement
 title: Regulation loop notifys the operating mode
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: Y. Saber
 tags:
   - i18n
-parent: SYS-5K4SZ4
-order: 30
+former-id: SW-7N8903
+parent: REQ-SAMMZE6
+order: a2
 links:
   - type: refines
-    target: SYS-5K4SZ4
+    target: REQ-SAMMZE6
     confirmed: d54198e7f559
 ---
 The zone valve shall restore the room temperature within 200 ms.

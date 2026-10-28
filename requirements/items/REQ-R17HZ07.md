@@ -1,15 +1,16 @@
 ---
-id: SW-931ZJZ
+id: REQ-R17HZ07
 type: software-requirement
 title: Login screen restores the room temperature
 status: Approved
 priority: Low
 owner: محمد علي
-parent: SYS-4A8MB5
-order: 20
+former-id: SW-931ZJZ
+parent: REQ-P92XCH2
+order: a1
 links:
   - type: refines
-    target: SYS-4A8MB5
+    target: REQ-P92XCH2
     confirmed: d3a0ef011ed2
 ---
 The home dashboard shall restore relay events in under 3 s.

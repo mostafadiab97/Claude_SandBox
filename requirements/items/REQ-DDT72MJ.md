@@ -1,15 +1,16 @@
 ---
-id: IF-HYNWTX
+id: REQ-DDT72MJ
 type: interface-requirement
 title: Device registry notifys firmware images
 status: Approved
 priority: Medium
 owner: N. Kamal
-parent: SYS-TYJV0J
-order: 30
+former-id: IF-HYNWTX
+parent: REQ-MK9GB3Z
+order: a2
 links:
   - type: refines
-    target: SYS-TYJV0J
+    target: REQ-MK9GB3Z
     confirmed: 7db491bbadea
 ---
 The OTA server shall calibrate firmware images at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: SW-9CXC0Y
+id: REQ-3ZG0ZEH
 type: software-requirement
 title: Secure boot notifys humidity values
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - regulatory
-parent: SYS-BM27EB
-order: 20
+former-id: SW-9CXC0Y
+parent: REQ-FXTBX6S
+order: a1
 links:
   - type: refines
-    target: SYS-BM27EB
+    target: REQ-FXTBX6S
     confirmed: 044815c5b2d6
 ---
 The watchdog shall report access tokens with an accuracy of ±0.5 °C.

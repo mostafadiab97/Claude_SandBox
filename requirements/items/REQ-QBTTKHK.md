@@ -1,5 +1,5 @@
 ---
-id: IF-P09HH3
+id: REQ-QBTTKHK
 type: interface-requirement
 title: "Signal 399: schedule entries"
 status: Approved
@@ -9,7 +9,8 @@ tags:
   - power
   - regulatory
   - customer-request
-parent: INFO-2TM0JP
-order: 3990
+former-id: IF-P09HH3
+parent: REQ-RJ0KHPT
+order: b5Q
 ---
 Interface signal number 399.

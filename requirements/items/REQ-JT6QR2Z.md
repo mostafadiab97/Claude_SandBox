@@ -1,18 +1,19 @@
 ---
-id: TC-2M4SX3
+id: REQ-JT6QR2Z
 type: test-case
 title: "Verify: Tamper detection validates user preferences"
 status: Draft
 priority: High
 owner: R. Nabil
-parent: INFO-Z4TW4B
-order: 880
+former-id: TC-2M4SX3
+parent: REQ-K6FGAY0
+order: b0P
 links:
   - type: verifies
-    target: SYS-BGEM84
+    target: REQ-TZQDNSR
     confirmed: 7c077fec9862
   - type: verifies
-    target: SW-JE2GH1
+    target: REQ-08SFWPE
     confirmed: 00c6a3ef7be5
 ---
 **Objective:** verify that the tamper detection behaves as specified.

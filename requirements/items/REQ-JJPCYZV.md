@@ -1,5 +1,5 @@
 ---
-id: SW-XPWAKQ
+id: REQ-JJPCYZV
 type: software-requirement
 title: Status LED synchronises the room temperature
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: محمد علي
 tags:
   - release-2.0
-parent: SYS-378XSW
-order: 40
+former-id: SW-XPWAKQ
+parent: REQ-BD91YMW
+order: a3
 links:
   - type: refines
-    target: SYS-378XSW
+    target: REQ-BD91YMW
     confirmed: 5031ebc6a924
 ---
 The status LED shall synchronise energy consumption for up to 8 zones.

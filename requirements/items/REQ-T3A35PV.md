@@ -1,5 +1,5 @@
 ---
-id: SYS-9W9NZD
+id: REQ-T3A35PV
 type: system-requirement
 title: Touch display calibrates the room temperature
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - ux
   - power
-parent: INFO-PDR6FV
-order: 1960
+former-id: SYS-9W9NZD
+parent: REQ-2ZA2TRZ
+order: b29
 links:
   - type: refines
-    target: STK-PCP268
+    target: REQ-DMRJS9A
     confirmed: 74f66b1bb8e8
 ---
 The touch display shall encrypt error conditions without user interaction.

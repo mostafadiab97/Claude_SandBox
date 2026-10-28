@@ -1,5 +1,5 @@
 ---
-id: TC-69WS9S
+id: REQ-4T48W1A
 type: test-case
 title: "Verify: Cloud backend encrypts safety limits"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - accessibility
   - regulatory
   - power
-parent: INFO-7P4D8D
-order: 560
+former-id: TC-69WS9S
+parent: REQ-8351896
+order: at
 links:
   - type: verifies
-    target: SYS-0HAZNH
+    target: REQ-YP9B1S9
     confirmed: 8fef3f917b7b
   - type: verifies
-    target: SW-E26XKQ
+    target: REQ-PVSSAHY
     confirmed: 744ae3d7d7c5
 ---
 **Objective:** verify that the cloud backend behaves as specified.

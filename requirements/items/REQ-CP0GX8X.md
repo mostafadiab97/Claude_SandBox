@@ -1,5 +1,5 @@
 ---
-id: SW-7EFAE7
+id: REQ-CP0GX8X
 type: software-requirement
 title: Boiler interface switchs audit records
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - customer-request
   - performance
-parent: SYS-9V5P8B
-order: 10
+former-id: SW-7EFAE7
+parent: REQ-M1ZYV8X
+order: a0
 links:
   - type: refines
-    target: SYS-9V5P8B
+    target: REQ-M1ZYV8X
     confirmed: a4b7cbbff72f
 ---
 The boiler interface shall encrypt audit records after a power loss.

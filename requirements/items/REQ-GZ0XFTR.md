@@ -1,5 +1,5 @@
 ---
-id: HW-VC0M4B
+id: REQ-GZ0XFTR
 type: hardware-requirement
 title: Relay board switchs the set point
 status: Review
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - i18n
   - regulatory
-parent: SYS-R8S84Y
-order: 10
+former-id: HW-VC0M4B
+parent: REQ-VTMBTS5
+order: a0
 links:
   - type: refines
-    target: SYS-R8S84Y
+    target: REQ-VTMBTS5
     confirmed: 1adc29377b0d
 ---
 The power supply shall report sensor readings below 0.5 W in standby.

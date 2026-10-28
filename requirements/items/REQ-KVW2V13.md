@@ -1,5 +1,5 @@
 ---
-id: TC-NW6ZV9
+id: REQ-KVW2V13
 type: test-case
 title: "Verify: Tamper detection reports safety limits"
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: Y. Saber
 tags:
   - customer-request
-parent: INFO-Z4TW4B
-order: 60
+former-id: TC-NW6ZV9
+parent: REQ-K6FGAY0
+order: a5
 links:
   - type: verifies
-    target: SYS-5RDA7K
+    target: REQ-85GMKSH
     confirmed: 0b455862f511
 ---
 **Objective:** verify that the tamper detection behaves as specified.

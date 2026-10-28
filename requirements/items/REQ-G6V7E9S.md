@@ -1,5 +1,5 @@
 ---
-id: SW-DYTS58
+id: REQ-G6V7E9S
 type: software-requirement
 title: Store audit records — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - security
-parent: SW-SKZG0A
-order: 10
+former-id: SW-DYTS58
+parent: REQ-BKVNXAX
+order: a0
 links:
   - type: refines
-    target: SW-SKZG0A
+    target: REQ-BKVNXAX
     confirmed: ea742fa40ce3
 ---
 The touch display shall validate energy consumption within 200 ms.

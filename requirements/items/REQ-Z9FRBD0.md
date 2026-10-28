@@ -1,5 +1,5 @@
 ---
-id: SW-PSKGXZ
+id: REQ-Z9FRBD0
 type: software-requirement
 title: Heat pump driver restores the set point
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: محمد علي
 tags:
   - safety
-parent: SYS-6SJ3GD
-order: 20
+former-id: SW-PSKGXZ
+parent: REQ-DESXWYX
+order: a1
 links:
   - type: refines
-    target: SYS-6SJ3GD
+    target: REQ-DESXWYX
     confirmed: af53245ff967
 ---
 The boiler interface shall display user preferences in under 3 s.

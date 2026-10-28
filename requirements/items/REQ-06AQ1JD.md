@@ -1,5 +1,5 @@
 ---
-id: IF-RV7YW7
+id: REQ-06AQ1JD
 type: interface-requirement
 title: Enclosure displays user preferences
 status: Obsolete
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - power
   - release-2.0
-parent: SYS-6PYBJD
-order: 20
+former-id: IF-RV7YW7
+parent: REQ-E7EV6P4
+order: a1
 links:
   - type: refines
-    target: SYS-6PYBJD
+    target: REQ-E7EV6P4
     confirmed: fd85d789dbcd
 ---
 The main PCB shall measure error conditions within 200 ms.

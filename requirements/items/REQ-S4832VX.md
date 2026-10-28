@@ -1,5 +1,5 @@
 ---
-id: IF-MN63HC
+id: REQ-S4832VX
 type: interface-requirement
 title: Heat pump driver encrypts audit records
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - release-2.0
   - customer-request
-parent: SYS-6TVT9J
-order: 30
+former-id: IF-MN63HC
+parent: REQ-WTBR2TG
+order: a2
 links:
   - type: refines
-    target: SYS-6TVT9J
+    target: REQ-WTBR2TG
     confirmed: 0af48dc95869
 ---
 The regulation loop shall measure relay events in under 3 s.

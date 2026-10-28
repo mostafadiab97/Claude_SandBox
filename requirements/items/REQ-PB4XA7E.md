@@ -1,5 +1,5 @@
 ---
-id: TC-Y6Q125
+id: REQ-PB4XA7E
 type: test-case
 title: "Verify: Schedule editor reports the set point"
 status: Review
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - power
   - cost
-parent: INFO-J0FETE
-order: 70
+former-id: TC-Y6Q125
+parent: REQ-WR5ZJN9
+order: a6
 links:
   - type: verifies
-    target: SYS-HPT8TA
+    target: REQ-JYNEA7Y
     confirmed: 55ed01be7cc1
 ---
 **Objective:** verify that the schedule editor behaves as specified.

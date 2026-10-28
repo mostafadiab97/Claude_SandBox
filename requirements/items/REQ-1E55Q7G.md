@@ -1,18 +1,19 @@
 ---
-id: SYS-K86C96
+id: REQ-1E55Q7G
 type: system-requirement
 title: Status LED detects error conditions
 status: Approved
 priority: High
 owner: H. Mostafa
-parent: INFO-PDR6FV
-order: 1780
+former-id: SYS-K86C96
+parent: REQ-2ZA2TRZ
+order: b1r
 links:
   - type: refines
-    target: STK-35QR7F
+    target: REQ-QCK2ZS7
     confirmed: bc1aebb7918d
   - type: mitigates
-    target: RSK-S88NZ1
+    target: REQ-4HTMT91
     confirmed: 257f5def6363
 ---
 The status LED shall authenticate firmware images in all supported languages.

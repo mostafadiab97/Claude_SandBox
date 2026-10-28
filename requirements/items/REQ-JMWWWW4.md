@@ -1,5 +1,5 @@
 ---
-id: HW-6J3MRA
+id: REQ-JMWWWW4
 type: hardware-requirement
 title: Power supply measures the room temperature
 status: Review
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - customer-request
   - release-2.0
-parent: SYS-27GEFX
-order: 20
+former-id: HW-6J3MRA
+parent: REQ-9MCA4ZS
+order: a1
 links:
   - type: refines
-    target: SYS-27GEFX
+    target: REQ-9MCA4ZS
     confirmed: "546768219639"
 ---
 The battery backup shall store the set point without user interaction.

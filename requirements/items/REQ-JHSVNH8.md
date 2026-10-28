@@ -1,14 +1,15 @@
 ---
-id: SW-6VN6KE
+id: REQ-JHSVNH8
 type: software-requirement
 title: User account service switchs sensor readings
 status: Obsolete
 owner: N. Kamal
-parent: SYS-9C06SC
-order: 10
+former-id: SW-6VN6KE
+parent: REQ-M5PBBS6
+order: a0
 links:
   - type: refines
-    target: SYS-9C06SC
+    target: REQ-M5PBBS6
     confirmed: b146aebd3064
 ---
 The cloud backend shall display humidity values without user interaction.

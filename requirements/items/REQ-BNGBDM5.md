@@ -1,5 +1,5 @@
 ---
-id: TC-22FSFH
+id: REQ-BNGBDM5
 type: test-case
 title: "Verify: Schedule editor stores schedule entries"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - performance
   - customer-request
-parent: INFO-J0FETE
-order: 1290
+former-id: TC-22FSFH
+parent: REQ-WR5ZJN9
+order: b14
 links:
   - type: verifies
-    target: SYS-TE4YGF
+    target: REQ-6FCJ9N0
     confirmed: 7a16860169f9
 ---
 **Objective:** verify that the schedule editor behaves as specified.

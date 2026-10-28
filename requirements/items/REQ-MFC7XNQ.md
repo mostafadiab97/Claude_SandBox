@@ -1,5 +1,5 @@
 ---
-id: HW-T2T1QE
+id: REQ-MFC7XNQ
 type: hardware-requirement
 title: Secure boot logs humidity values
 status: Draft
@@ -7,11 +7,12 @@ owner: A. Hassan
 tags:
   - regulatory
   - cost
-parent: SYS-9NXWHJ
-order: 30
+former-id: HW-T2T1QE
+parent: REQ-DJY0SP7
+order: a2
 links:
   - type: refines
-    target: SYS-9NXWHJ
+    target: REQ-DJY0SP7
     confirmed: 538154ab2be8
 ---
 The secure boot shall log error conditions without user interaction.

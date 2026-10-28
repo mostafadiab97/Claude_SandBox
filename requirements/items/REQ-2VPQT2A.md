@@ -1,17 +1,18 @@
 ---
-id: TC-Z8M5MV
+id: REQ-2VPQT2A
 type: test-case
 title: "Verify: Touch display logs the room temperature"
 status: Review
 owner: N. Kamal
-parent: INFO-HTSZ15
-order: 740
+former-id: TC-Z8M5MV
+parent: REQ-Y9VHHKA
+order: b0B
 links:
   - type: verifies
-    target: SYS-TYH61D
+    target: REQ-92WJY75
     confirmed: be2e7216bf63
   - type: verifies
-    target: SW-0A69AZ
+    target: REQ-W6FF3VJ
     confirmed: 470d2dbe7eaf
 ---
 **Objective:** verify that the touch display behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-W77SFQ
+id: REQ-HKD1P7N
 type: software-requirement
 title: Pairing process logs error conditions
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - i18n
   - cost
   - accessibility
-parent: SYS-MY3DCX
-order: 40
+former-id: SW-W77SFQ
+parent: REQ-GGT2621
+order: a3
 links:
   - type: refines
-    target: SYS-MY3DCX
+    target: REQ-GGT2621
     confirmed: ace85c596789
 ---
 The Bluetooth LE link shall display the connection state in all supported languages.

@@ -1,14 +1,15 @@
 ---
-id: SYS-244X2N
+id: REQ-4H2GHHD
 type: system-requirement
 title: Bluetooth LE link detects energy consumption
 status: Review
 priority: High
-parent: INFO-NRVHA2
-order: 2050
+former-id: SYS-244X2N
+parent: REQ-6R94HFM
+order: b2I
 links:
   - type: refines
-    target: STK-22X165
+    target: REQ-QCFMNYV
     confirmed: 0023c9af8e7d
 ---
 The Bluetooth LE link shall synchronise the room temperature using AES-256-GCM.

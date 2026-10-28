@@ -1,14 +1,15 @@
 ---
-id: IF-KPV14P
+id: REQ-4ZTPPD0
 type: interface-requirement
 title: Power supply authenticates user preferences
 status: Approved
 owner: K. Tanaka
-parent: SYS-9B4YX3
-order: 40
+former-id: IF-KPV14P
+parent: REQ-ZRZYNZ8
+order: a3
 links:
   - type: refines
-    target: SYS-9B4YX3
+    target: REQ-ZRZYNZ8
     confirmed: 7e7b28ad44d1
 ---
 The relay board shall detect humidity values in all supported languages.

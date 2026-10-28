@@ -1,5 +1,5 @@
 ---
-id: SW-3X3E1R
+id: REQ-G5CYF0M
 type: software-requirement
 title: Wi-Fi module logs sensor readings
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - release-2.0
   - security
-parent: SYS-2TKSSR
-order: 40
+former-id: SW-3X3E1R
+parent: REQ-6J8J6CK
+order: a3
 links:
   - type: refines
-    target: SYS-2TKSSR
+    target: REQ-6J8J6CK
     confirmed: 7b7bf03ff065
 ---
 The Wi-Fi module shall store the set point when the network is unavailable.

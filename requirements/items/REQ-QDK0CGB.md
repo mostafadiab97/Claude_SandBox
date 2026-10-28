@@ -1,15 +1,16 @@
 ---
-id: SW-6MWK37
+id: REQ-QDK0CGB
 type: software-requirement
 title: OTA server stores safety limits
 status: Approved
 priority: Low
 owner: A. Hassan
-parent: SYS-GK8E6S
-order: 20
+former-id: SW-6MWK37
+parent: REQ-PRHYJ2F
+order: a1
 links:
   - type: refines
-    target: SYS-GK8E6S
+    target: REQ-PRHYJ2F
     confirmed: 3497825150a9
 ---
 The telemetry pipeline shall store audit records using AES-256-GCM.

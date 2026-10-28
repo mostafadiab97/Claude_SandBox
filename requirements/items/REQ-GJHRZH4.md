@@ -1,5 +1,5 @@
 ---
-id: TC-370KDA
+id: REQ-GJHRZH4
 type: test-case
 title: "Verify: Notification service encrypts error conditions"
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - regulatory
   - ux
-parent: INFO-J0FETE
-order: 300
+former-id: TC-370KDA
+parent: REQ-WR5ZJN9
+order: aT
 links:
   - type: verifies
-    target: SYS-T44M5X
+    target: REQ-ED1Z2TR
     confirmed: b93a511f8f0f
 ---
 **Objective:** verify that the notification service behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: IF-FAPBM9
+id: REQ-V6Z604Z
 type: interface-requirement
 title: Tamper detection logs the operating mode
 status: Review
 priority: Low
 owner: N. Kamal
-parent: SYS-4W6C2G
-order: 20
+former-id: IF-FAPBM9
+parent: REQ-EP6BFFN
+order: a1
 links:
   - type: refines
-    target: SYS-4W6C2G
+    target: REQ-EP6BFFN
     confirmed: 1bcb62ea4268
 ---
 The over-temperature monitor shall measure the set point with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: TC-NMR3WN
+id: REQ-H84XFPH
 type: test-case
 title: "Verify: Encryption layer switchs the room temperature"
 status: Obsolete
@@ -8,14 +8,15 @@ owner: É. Laurent
 tags:
   - EMC
   - security
-parent: INFO-Z4TW4B
-order: 820
+former-id: TC-NMR3WN
+parent: REQ-K6FGAY0
+order: b0J
 links:
   - type: verifies
-    target: SYS-BBX6H4
+    target: REQ-FN2JXAS
     confirmed: eea34ba9a0b3
   - type: verifies
-    target: SW-95QS75
+    target: REQ-S69QE64
     confirmed: 81a7bc4043b2
 ---
 **Objective:** verify that the encryption layer behaves as specified.

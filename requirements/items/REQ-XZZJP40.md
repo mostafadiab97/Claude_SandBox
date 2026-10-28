@@ -1,5 +1,5 @@
 ---
-id: SW-RS7WYD
+id: REQ-XZZJP40
 type: software-requirement
 title: Notification service stores humidity values
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - i18n
   - performance
   - security
-parent: SYS-1G38N7
-order: 20
+former-id: SW-RS7WYD
+parent: REQ-0Z7H5M4
+order: a1
 links:
   - type: refines
-    target: SYS-1G38N7
+    target: REQ-0Z7H5M4
     confirmed: 4a4496e229e3
 ---
 The login screen shall validate user preferences without user interaction.

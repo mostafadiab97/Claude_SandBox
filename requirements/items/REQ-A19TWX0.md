@@ -1,15 +1,16 @@
 ---
-id: SYS-67M60W
+id: REQ-A19TWX0
 type: system-requirement
 title: Login screen validates error conditions
 status: Draft
 priority: Medium
 owner: K. Tanaka
-parent: INFO-2XXBRS
-order: 1810
+former-id: SYS-67M60W
+parent: REQ-QYXGSQ4
+order: b1u
 links:
   - type: refines
-    target: STK-4F6B1Y
+    target: REQ-5P7JDVE
     confirmed: 4a1d76b1da2c
 ---
 The login screen shall limit the connection state for at least 10 years.

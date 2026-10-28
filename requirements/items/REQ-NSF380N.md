@@ -1,5 +1,5 @@
 ---
-id: SW-PHVBK4
+id: REQ-NSF380N
 type: software-requirement
 title: Measure access tokens — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - ux
   - connectivity
-parent: SW-B03YJ8
-order: 10
+former-id: SW-PHVBK4
+parent: REQ-K3MWQ69
+order: a0
 links:
   - type: refines
-    target: SW-B03YJ8
+    target: REQ-K3MWQ69
     confirmed: 588f622701dc
 ---
 The rotary knob shall validate the set point in under 3 s.

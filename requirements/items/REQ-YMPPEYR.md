@@ -1,5 +1,5 @@
 ---
-id: IF-SYSVMM
+id: REQ-YMPPEYR
 type: interface-requirement
 title: Calibrate the connection state — detail
 status: Review
@@ -9,11 +9,12 @@ tags:
   - safety
   - power
   - accessibility
-parent: IF-V7Z88C
-order: 10
+former-id: IF-SYSVMM
+parent: REQ-6HSQ6ZW
+order: a0
 links:
   - type: refines
-    target: IF-V7Z88C
+    target: REQ-6HSQ6ZW
     confirmed: e65731bb68a6
 ---
 The Bluetooth LE link shall encrypt humidity values after a power loss.

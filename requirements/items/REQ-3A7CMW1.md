@@ -1,18 +1,19 @@
 ---
-id: TC-NRKTZ4
+id: REQ-3A7CMW1
 type: test-case
 title: "Verify: Cloud backend detects the room temperature"
 status: Approved
 priority: High
 owner: K. Tanaka
-parent: INFO-7P4D8D
-order: 240
+former-id: TC-NRKTZ4
+parent: REQ-8351896
+order: aN
 links:
   - type: verifies
-    target: SYS-C849TP
+    target: REQ-XA0H1EA
     confirmed: 0e79beed01a7
   - type: verifies
-    target: SW-B5J7X8
+    target: REQ-VR0XBC8
     confirmed: 367a6b674b14
 ---
 **Objective:** verify that the cloud backend behaves as specified.

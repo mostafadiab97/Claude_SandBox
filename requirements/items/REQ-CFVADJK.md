@@ -1,5 +1,5 @@
 ---
-id: HW-PVQ67C
+id: REQ-CFVADJK
 type: hardware-requirement
 title: Notification service calibrates audit records
 status: Review
@@ -9,11 +9,12 @@ tags:
   - security
   - safety
   - customer-request
-parent: SYS-M9R01H
-order: 20
+former-id: HW-PVQ67C
+parent: REQ-EZY9M63
+order: a1
 links:
   - type: refines
-    target: SYS-M9R01H
+    target: REQ-EZY9M63
     confirmed: 1e8e0f56ab78
 ---
 The mobile app shall encrypt error conditions using AES-256-GCM.

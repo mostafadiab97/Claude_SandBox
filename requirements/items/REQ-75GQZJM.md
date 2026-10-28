@@ -1,5 +1,5 @@
 ---
-id: TC-FWX8C8
+id: REQ-75GQZJM
 type: test-case
 title: "Verify: User account service synchronises the operating mode"
 status: Draft
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - customer-request
   - performance
-parent: INFO-7P4D8D
-order: 1040
+former-id: TC-FWX8C8
+parent: REQ-8351896
+order: b0f
 links:
   - type: verifies
-    target: SYS-JZGGVQ
+    target: REQ-J23W5Z5
     confirmed: 2a9e2d07c950
 ---
 **Objective:** verify that the user account service behaves as specified.

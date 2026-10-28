@@ -1,5 +1,5 @@
 ---
-id: SYS-069B79
+id: REQ-FV37PCV
 type: system-requirement
 title: Heat pump driver authenticates firmware images
 status: Draft
@@ -8,14 +8,15 @@ owner: K. Tanaka
 tags:
   - customer-request
   - safety
-parent: INFO-6DQTKV
-order: 1310
+former-id: SYS-069B79
+parent: REQ-7ED7ZET
+order: b16
 links:
   - type: refines
-    target: STK-8W3602
+    target: REQ-Q1KNR7Q
     confirmed: 25b39ad8cae7
   - type: mitigates
-    target: RSK-AA3YJ3
+    target: REQ-95C6RSR
     confirmed: 84e686f1bbcc
 ---
 The heat pump driver shall log sensor readings in all supported languages.

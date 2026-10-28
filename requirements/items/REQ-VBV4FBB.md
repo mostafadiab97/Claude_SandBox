@@ -1,5 +1,5 @@
 ---
-id: SW-XV2Q87
+id: REQ-VBV4FBB
 type: software-requirement
 title: Zone valve validates schedule entries
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: N. Kamal
 tags:
   - security
-parent: SYS-S4CRQY
-order: 20
+former-id: SW-XV2Q87
+parent: REQ-S85HGV0
+order: a1
 links:
   - type: refines
-    target: SYS-S4CRQY
+    target: REQ-S85HGV0
     confirmed: 665acc28f34d
 ---
 The boiler interface shall restore safety limits at least once per minute.

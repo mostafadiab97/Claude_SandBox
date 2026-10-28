@@ -1,14 +1,15 @@
 ---
-id: SW-RSRRDG
+id: REQ-VA7A4BW
 type: software-requirement
 title: Over-temperature monitor limits the operating mode
 status: Obsolete
 owner: H. Mostafa
-parent: SYS-FP2QK1
-order: 20
+former-id: SW-RSRRDG
+parent: REQ-VP03MR3
+order: a1
 links:
   - type: refines
-    target: SYS-FP2QK1
+    target: REQ-VP03MR3
     confirmed: c97badc87373
 ---
 The secure boot shall store the connection state when the network is unavailable.

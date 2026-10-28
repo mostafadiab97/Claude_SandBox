@@ -1,15 +1,16 @@
 ---
-id: SW-S609ES
+id: REQ-DNYD2WD
 type: software-requirement
 title: Encrypt firmware images — detail
 status: Review
 priority: Medium
 owner: L. Samir
-parent: SW-VCX2ZT
-order: 10
+former-id: SW-S609ES
+parent: REQ-3QX3CC3
+order: a0
 links:
   - type: refines
-    target: SW-VCX2ZT
+    target: REQ-3QX3CC3
     confirmed: 191e742150bb
 ---
 The menu system shall limit access tokens with an accuracy of ±0.5 °C.

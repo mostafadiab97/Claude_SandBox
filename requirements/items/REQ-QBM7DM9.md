@@ -1,15 +1,16 @@
 ---
-id: IF-CPY0S1
+id: REQ-QBM7DM9
 type: interface-requirement
 title: Status LED measures energy consumption
 status: Approved
 priority: High
 owner: R. Nabil
-parent: SYS-VCZ9T9
-order: 30
+former-id: IF-CPY0S1
+parent: REQ-V4CQ0EG
+order: a2
 links:
   - type: refines
-    target: SYS-VCZ9T9
+    target: REQ-V4CQ0EG
     confirmed: 3778a55d2aaf
 ---
 The rotary knob shall notify schedule entries when the network is unavailable.

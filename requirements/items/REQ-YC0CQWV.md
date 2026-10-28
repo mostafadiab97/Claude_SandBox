@@ -1,5 +1,5 @@
 ---
-id: DEF-FWNEY9
+id: REQ-YC0CQWV
 type: defect
 title: "Defect: home dashboard does not validate safety limits"
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 tags:
   - connectivity
   - safety
-parent: INFO-FH5FB3
-order: 60
+former-id: DEF-FWNEY9
+parent: REQ-MWRPGWA
+order: a5
 links:
   - type: relates-to
-    target: TC-PAPJK4
+    target: REQ-1Q7X9M4
     confirmed: c4ff7a1d709c
   - type: relates-to
-    target: SYS-KE3ZCS
+    target: REQ-QV0A247
     confirmed: "131852556952"
 ---
 Found during regression testing of build 2.6.7.

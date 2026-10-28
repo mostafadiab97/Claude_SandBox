@@ -1,15 +1,16 @@
 ---
-id: TC-NH8M4M
+id: REQ-Q80V0XP
 type: test-case
 title: Hub verification 35
 status: Review
 priority: Medium
 owner: J. Müller
-parent: INFO-ECHASH
-order: 440
+former-id: TC-NH8M4M
+parent: REQ-6H15AV2
+order: ah
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

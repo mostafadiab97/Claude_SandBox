@@ -1,16 +1,17 @@
 ---
-id: SW-243VXZ
+id: REQ-3ZSNQD9
 type: software-requirement
 title: Backlight stores error conditions
 status: Obsolete
 priority: Medium
 tags:
   - power
-parent: SYS-G1WQ30
-order: 20
+former-id: SW-243VXZ
+parent: REQ-KDBFG7Y
+order: a1
 links:
   - type: refines
-    target: SYS-G1WQ30
+    target: REQ-KDBFG7Y
     confirmed: 6324bbe48da8
 ---
 The menu system shall validate the set point for at least 10 years.

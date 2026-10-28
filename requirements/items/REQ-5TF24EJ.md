@@ -1,15 +1,16 @@
 ---
-id: SW-DBGSQ3
+id: REQ-5TF24EJ
 type: software-requirement
 title: Watchdog logs access tokens
 status: Draft
 priority: High
 owner: محمد علي
-parent: SYS-7DF4GN
-order: 30
+former-id: SW-DBGSQ3
+parent: REQ-301HF1Q
+order: a2
 links:
   - type: refines
-    target: SYS-7DF4GN
+    target: REQ-301HF1Q
     confirmed: b8942c9f4893
 ---
 The tamper detection shall store safety limits for up to 8 zones.

@@ -1,5 +1,5 @@
 ---
-id: HW-31CENT
+id: REQ-3JW1M2X
 type: hardware-requirement
 title: Heat pump driver notifys audit records
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - customer-request
   - cost
-parent: SYS-GCSJ6X
-order: 10
+former-id: HW-31CENT
+parent: REQ-GYWFQBZ
+order: a0
 links:
   - type: refines
-    target: SYS-GCSJ6X
+    target: REQ-GYWFQBZ
     confirmed: bc98a50160a3
 ---
 The regulation loop shall measure audit records in all supported languages.

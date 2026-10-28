@@ -1,5 +1,5 @@
 ---
-id: HW-4JK4MP
+id: REQ-W1BS9H4
 type: hardware-requirement
 title: Detect audit records — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - cost
   - EMC
-parent: HW-TC3P2N
-order: 10
+former-id: HW-4JK4MP
+parent: REQ-FBW8AX2
+order: a0
 links:
   - type: refines
-    target: HW-TC3P2N
+    target: REQ-FBW8AX2
     confirmed: 1d53a29eb7a7
 ---
 The local API shall restore the operating mode in all supported languages.

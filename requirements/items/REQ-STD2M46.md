@@ -1,17 +1,18 @@
 ---
-id: SYS-3CAV4T
+id: REQ-STD2M46
 type: system-requirement
 title: User account service authenticates safety limits
 status: Review
 priority: High
-parent: INFO-YV5EZD
-order: 1540
+former-id: SYS-3CAV4T
+parent: REQ-RE9ZKHF
+order: b1T
 links:
   - type: refines
-    target: STK-JFBQPS
+    target: REQ-A8X8PTB
     confirmed: 5027ee1822eb
   - type: mitigates
-    target: RSK-HKANA4
+    target: REQ-W55MEDH
     confirmed: dc7034353f37
 ---
 The user account service shall encrypt humidity values with an accuracy of ±0.5 °C.

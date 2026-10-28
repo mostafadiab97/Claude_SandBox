@@ -1,14 +1,15 @@
 ---
-id: TC-55YBA0
+id: REQ-VVP1W0H
 type: test-case
 title: "Verify: Regulation loop stores user preferences"
 status: Draft
 priority: Medium
-parent: INFO-MS9DAG
-order: 810
+former-id: TC-55YBA0
+parent: REQ-XGWSK2K
+order: b0I
 links:
   - type: verifies
-    target: SYS-EC5N2Y
+    target: REQ-QZW142T
     confirmed: 450d9078b1b0
 ---
 **Objective:** verify that the regulation loop behaves as specified.

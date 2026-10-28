@@ -1,5 +1,5 @@
 ---
-id: SW-XMBMSB
+id: REQ-BGGWENV
 type: software-requirement
 title: Login screen notifys energy consumption
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - power
   - safety
-parent: SYS-YX6EBV
-order: 30
+former-id: SW-XMBMSB
+parent: REQ-AJNTHEY
+order: a2
 links:
   - type: refines
-    target: SYS-YX6EBV
+    target: REQ-AJNTHEY
     confirmed: d90c022122ab
 ---
 The mobile app shall log relay events when the network is unavailable.

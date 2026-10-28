@@ -1,15 +1,16 @@
 ---
-id: IF-DBVQ07
+id: REQ-ES21HDD
 type: interface-requirement
 title: Main PCB restores sensor readings
 status: Obsolete
 priority: Low
 owner: S. Adel
-parent: SYS-2G95V5
-order: 30
+former-id: IF-DBVQ07
+parent: REQ-Y6WGRCS
+order: a2
 links:
   - type: refines
-    target: SYS-2G95V5
+    target: REQ-Y6WGRCS
     confirmed: c56996de7c48
 ---
 The relay board shall log the connection state in under 3 s.

@@ -1,16 +1,17 @@
 ---
-id: TC-DE5Q0R
+id: REQ-NSX0MBX
 type: test-case
 title: "Verify: OTA server displays the connection state"
 status: Review
 owner: H. Mostafa
 tags:
   - ux
-parent: INFO-7P4D8D
-order: 760
+former-id: TC-DE5Q0R
+parent: REQ-8351896
+order: b0D
 links:
   - type: verifies
-    target: SYS-7SSV4S
+    target: REQ-Y8K6PRS
     confirmed: b8e679420187
 ---
 **Objective:** verify that the OTA server behaves as specified.

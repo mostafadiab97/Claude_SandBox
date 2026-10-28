@@ -1,5 +1,5 @@
 ---
-id: SYS-48BXDV
+id: REQ-JQBQHV4
 type: system-requirement
 title: Enclosure limits sensor readings
 status: Approved
@@ -7,14 +7,15 @@ tags:
   - i18n
   - security
   - safety
-parent: INFO-A6P9A8
-order: 1940
+former-id: SYS-48BXDV
+parent: REQ-CMCS31A
+order: b27
 links:
   - type: refines
-    target: STK-JAQHJP
+    target: REQ-V8PT5BV
     confirmed: b0af11a5c3c2
   - type: mitigates
-    target: RSK-3VPDQ8
+    target: REQ-WWVJC3K
     confirmed: 3cf91f6b37bc
 ---
 The enclosure shall display schedule entries for at least 10 years.

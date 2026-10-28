@@ -1,5 +1,5 @@
 ---
-id: SYS-WATCFH
+id: REQ-FVAXXQD
 type: system-requirement
 title: Telemetry pipeline logs safety limits
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - ux
   - regulatory
   - accessibility
-parent: INFO-YV5EZD
-order: 1510
+former-id: SYS-WATCFH
+parent: REQ-RE9ZKHF
+order: b1Q
 links:
   - type: refines
-    target: STK-R8QH58
+    target: REQ-BN3T0GR
     confirmed: 13d6784d2cc9
   - type: mitigates
-    target: RSK-9BAEZR
+    target: REQ-ZC4S6SV
     confirmed: 09af4dd83b7f
 ---
 The telemetry pipeline shall report access tokens without user interaction.

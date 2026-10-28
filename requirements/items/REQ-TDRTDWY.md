@@ -1,15 +1,16 @@
 ---
-id: IF-NXZ80V
+id: REQ-TDRTDWY
 type: interface-requirement
 title: Local API encrypts the set point
 status: Approved
 priority: High
 owner: M. Farouk
-parent: SYS-AFXTVK
-order: 30
+former-id: IF-NXZ80V
+parent: REQ-HFKWETR
+order: a2
 links:
   - type: refines
-    target: SYS-AFXTVK
+    target: REQ-HFKWETR
     confirmed: f28f5499c8de
 ---
 The local API shall calibrate firmware images for up to 8 zones.

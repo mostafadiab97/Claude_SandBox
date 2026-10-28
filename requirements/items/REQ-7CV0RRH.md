@@ -1,18 +1,19 @@
 ---
-id: SYS-26ZAHT
+id: REQ-7CV0RRH
 type: system-requirement
 title: User account service measures firmware images
 status: Approved
 priority: Low
 owner: S. Adel
-parent: INFO-YV5EZD
-order: 300
+former-id: SYS-26ZAHT
+parent: REQ-RE9ZKHF
+order: aT
 links:
   - type: refines
-    target: STK-1CAAXP
+    target: REQ-ZEW4521
     confirmed: a853df6f0866
   - type: mitigates
-    target: RSK-9BAEZR
+    target: REQ-ZC4S6SV
     confirmed: 09af4dd83b7f
 ---
 The user account service shall report error conditions at least once per minute.

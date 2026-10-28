@@ -1,5 +1,5 @@
 ---
-id: HW-4Y1GEY
+id: REQ-VM83N9H
 type: hardware-requirement
 title: Login screen displays user preferences
 status: Review
@@ -7,11 +7,12 @@ owner: M. Farouk
 tags:
   - release-2.0
   - i18n
-parent: SYS-QEXJSV
-order: 10
+former-id: HW-4Y1GEY
+parent: REQ-42MKG64
+order: a0
 links:
   - type: refines
-    target: SYS-QEXJSV
+    target: REQ-42MKG64
     confirmed: 4affd2b49de2
 ---
 The login screen shall switch energy consumption at least once per minute.

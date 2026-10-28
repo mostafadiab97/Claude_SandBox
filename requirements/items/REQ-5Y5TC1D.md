@@ -1,15 +1,16 @@
 ---
-id: TC-3MWN9B
+id: REQ-5Y5TC1D
 type: test-case
 title: "Verify: Battery backup limits user preferences"
 status: Obsolete
 priority: Medium
 owner: J. Müller
-parent: INFO-MACGC3
-order: 1300
+former-id: TC-3MWN9B
+parent: REQ-F9Z1FYS
+order: b15
 links:
   - type: verifies
-    target: SYS-SPCMHW
+    target: REQ-ABKVP5N
     confirmed: 0232f50fadbf
 ---
 **Objective:** verify that the battery backup behaves as specified.

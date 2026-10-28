@@ -1,15 +1,16 @@
 ---
-id: SW-27FKRX
+id: REQ-BRRPB98
 type: software-requirement
 title: Local API limits audit records
 status: Draft
 tags:
   - accessibility
-parent: SYS-KCYXE8
-order: 10
+former-id: SW-27FKRX
+parent: REQ-MH5K517
+order: a0
 links:
   - type: refines
-    target: SYS-KCYXE8
+    target: REQ-MH5K517
     confirmed: 408bfd180337
 ---
 The Bluetooth LE link shall validate the set point in under 3 s.

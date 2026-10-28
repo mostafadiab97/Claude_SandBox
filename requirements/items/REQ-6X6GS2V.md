@@ -1,18 +1,19 @@
 ---
-id: TC-6GV8WX
+id: REQ-6X6GS2V
 type: test-case
 title: "Verify: OTA server measures the set point"
 status: Draft
 priority: High
 owner: R. Nabil
-parent: INFO-7P4D8D
-order: 320
+former-id: TC-6GV8WX
+parent: REQ-8351896
+order: aV
 links:
   - type: verifies
-    target: SYS-MNWAKG
+    target: REQ-DGZD7G8
     confirmed: 979db4a6f2e3
   - type: verifies
-    target: SW-Z0AQ5S
+    target: REQ-7WS1854
     confirmed: 1b912bd6dd9a
 ---
 **Objective:** verify that the OTA server behaves as specified.

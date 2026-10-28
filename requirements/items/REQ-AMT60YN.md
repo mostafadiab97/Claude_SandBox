@@ -1,5 +1,5 @@
 ---
-id: HW-ZXP195
+id: REQ-AMT60YN
 type: hardware-requirement
 title: Main PCB validates audit records
 status: Draft
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - cost
   - security
-parent: SYS-CN7FHD
-order: 10
+former-id: HW-ZXP195
+parent: REQ-27VHM11
+order: a0
 links:
   - type: refines
-    target: SYS-CN7FHD
+    target: REQ-27VHM11
     confirmed: 5f0cd41f8d2d
 ---
 The relay board shall validate the set point when the network is unavailable.

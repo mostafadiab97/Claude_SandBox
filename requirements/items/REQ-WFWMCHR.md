@@ -1,5 +1,5 @@
 ---
-id: SYS-5KZ5DB
+id: REQ-WFWMCHR
 type: system-requirement
 title: Cloud backend logs audit records
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - EMC
   - security
   - performance
-parent: INFO-YV5EZD
-order: 1570
+former-id: SYS-5KZ5DB
+parent: REQ-RE9ZKHF
+order: b1W
 links:
   - type: refines
-    target: STK-R8QH58
+    target: REQ-BN3T0GR
     confirmed: 13d6784d2cc9
 ---
 The cloud backend shall log the room temperature after a power loss.

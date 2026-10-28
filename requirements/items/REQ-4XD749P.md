@@ -1,18 +1,19 @@
 ---
-id: TC-GGJPK4
+id: REQ-4XD749P
 type: test-case
 title: "Verify: Boiler interface calibrates the operating mode"
 status: Approved
 priority: High
 owner: K. Tanaka
-parent: INFO-MS9DAG
-order: 90
+former-id: TC-GGJPK4
+parent: REQ-XGWSK2K
+order: a8
 links:
   - type: verifies
-    target: SYS-0KFPCF
+    target: REQ-YHPAPF6
     confirmed: 38fbc1f616e4
   - type: verifies
-    target: SW-WRPYK6
+    target: REQ-R5YSJVW
     confirmed: e6e2d2f0347c
 ---
 **Objective:** verify that the boiler interface behaves as specified.

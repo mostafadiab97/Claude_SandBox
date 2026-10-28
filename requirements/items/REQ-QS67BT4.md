@@ -1,18 +1,19 @@
 ---
-id: DEF-HQ84AK
+id: REQ-QS67BT4
 type: defect
 title: "Defect: home dashboard does not synchronise the room temperature"
 status: Approved
 priority: High
 owner: N. Kamal
-parent: INFO-FH5FB3
-order: 40
+former-id: DEF-HQ84AK
+parent: REQ-MWRPGWA
+order: a3
 links:
   - type: relates-to
-    target: TC-ZQ3YEN
+    target: REQ-3496KK4
     confirmed: b577b5741a7e
   - type: relates-to
-    target: SYS-6YVE5W
+    target: REQ-E8DEB31
     confirmed: b6eeeafd6f52
 ---
 Found during regression testing of build 2.2.27.

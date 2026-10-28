@@ -1,5 +1,5 @@
 ---
-id: SW-RBFCJJ
+id: REQ-TK8D561
 type: software-requirement
 title: Local API restores relay events
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - i18n
   - performance
-parent: SYS-7W8YGY
-order: 20
+former-id: SW-RBFCJJ
+parent: REQ-NAKKA1A
+order: a1
 links:
   - type: refines
-    target: SYS-7W8YGY
+    target: REQ-NAKKA1A
     confirmed: aca44262add5
 ---
 The Bluetooth LE link shall authenticate sensor readings with an accuracy of ±0.5 °C.

@@ -1,14 +1,15 @@
 ---
-id: SW-MHCCCB
+id: REQ-NTB7V02
 type: software-requirement
 title: Watchdog logs schedule entries
 status: Draft
 priority: Medium
-parent: SYS-G5S6EX
-order: 20
+former-id: SW-MHCCCB
+parent: REQ-5HPPTRY
+order: a1
 links:
   - type: refines
-    target: SYS-G5S6EX
+    target: REQ-5HPPTRY
     confirmed: e5867026fabe
 ---
 The secure boot shall store audit records at least once per minute.

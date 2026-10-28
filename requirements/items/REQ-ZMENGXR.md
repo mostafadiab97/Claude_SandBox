@@ -1,15 +1,16 @@
 ---
-id: HW-VZR2AP
+id: REQ-ZMENGXR
 type: hardware-requirement
 title: Status LED limits sensor readings
 status: Approved
 priority: High
 owner: M. Farouk
-parent: SYS-2KGJFW
-order: 30
+former-id: HW-VZR2AP
+parent: REQ-HG744HJ
+order: a2
 links:
   - type: refines
-    target: SYS-2KGJFW
+    target: REQ-HG744HJ
     confirmed: 33b6774f671a
 ---
 The status LED shall limit schedule entries within 200 ms.

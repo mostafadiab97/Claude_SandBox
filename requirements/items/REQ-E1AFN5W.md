@@ -1,5 +1,5 @@
 ---
-id: SYS-3C9GVX
+id: REQ-E1AFN5W
 type: system-requirement
 title: Regulation loop limits safety limits
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - i18n
   - EMC
-parent: INFO-6DQTKV
-order: 870
+former-id: SYS-3C9GVX
+parent: REQ-7ED7ZET
+order: b0O
 links:
   - type: refines
-    target: STK-Q8BNKR
+    target: REQ-FY0A6ZE
     confirmed: 6deaa78e6ab3
 ---
 The regulation loop shall calibrate audit records within 200 ms.

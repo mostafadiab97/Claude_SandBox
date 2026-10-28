@@ -1,16 +1,17 @@
 ---
-id: HW-TDZZ3X
+id: REQ-AVSMFV3
 type: hardware-requirement
 title: Power supply restores schedule entries
 status: Review
 priority: High
 tags:
   - EMC
-parent: SYS-DAW84D
-order: 10
+former-id: HW-TDZZ3X
+parent: REQ-PE6W47Z
+order: a0
 links:
   - type: refines
-    target: SYS-DAW84D
+    target: REQ-PE6W47Z
     confirmed: d28364cb190d
 ---
 The enclosure shall display the set point with an accuracy of ±0.5 °C.

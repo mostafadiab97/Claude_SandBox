@@ -1,14 +1,15 @@
 ---
-id: TC-XQS46J
+id: REQ-3BZQ6TZ
 type: test-case
 title: "Regression: Mobile app encrypts audit records"
 status: Approved
 owner: L. Samir
-parent: INFO-ECHASH
-order: 1960
+former-id: TC-XQS46J
+parent: REQ-6H15AV2
+order: b29
 links:
   - type: verifies
-    target: SYS-5EDM7V
+    target: REQ-QCXJ0FE
     confirmed: 50e6801cc264
 ---
 **Objective:** verify that the device behaves as specified.

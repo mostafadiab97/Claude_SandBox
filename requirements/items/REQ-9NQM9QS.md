@@ -1,5 +1,5 @@
 ---
-id: TC-7C271Q
+id: REQ-9NQM9QS
 type: test-case
 title: "Verify: Wi-Fi module switchs humidity values"
 status: Obsolete
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - accessibility
   - regulatory
-parent: INFO-F0M7VC
-order: 1060
+former-id: TC-7C271Q
+parent: REQ-67RQXCK
+order: b0h
 links:
   - type: verifies
-    target: SYS-YFQ7J9
+    target: REQ-JMY59GP
     confirmed: 879d2491ed8f
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

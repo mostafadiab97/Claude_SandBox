@@ -1,5 +1,5 @@
 ---
-id: DE-QBEBP6
+id: REQ-G7TEXEK
 type: design-element
 title: Module menu_system_22
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - release-1.0
   - ux
-parent: SW-KFN479
-order: 10
+former-id: DE-QBEBP6
+parent: REQ-8D3V6SA
+order: a0
 links:
   - type: implements
-    target: SW-KFN479
+    target: REQ-8D3V6SA
     confirmed: b3134a49a3a8
 ---
 Implemented in `src/ui/menu_system.c`.

@@ -1,5 +1,5 @@
 ---
-id: SW-6PCV22
+id: REQ-NMMQZ9A
 type: software-requirement
 title: OTA server reports audit records
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - release-1.0
   - release-2.0
-parent: SYS-2RPS4X
-order: 20
+former-id: SW-6PCV22
+parent: REQ-DK1Y1RM
+order: a1
 links:
   - type: refines
-    target: SYS-2RPS4X
+    target: REQ-DK1Y1RM
     confirmed: 6a90f09e6ec1
 ---
 The OTA server shall authenticate sensor readings without user interaction.

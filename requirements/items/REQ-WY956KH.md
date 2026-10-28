@@ -1,5 +1,5 @@
 ---
-id: IF-251M89
+id: REQ-WY956KH
 type: interface-requirement
 title: Tamper detection stores firmware images
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - customer-request
-parent: SYS-S1NHF1
-order: 20
+former-id: IF-251M89
+parent: REQ-DR6MFJ1
+order: a1
 links:
   - type: refines
-    target: SYS-S1NHF1
+    target: REQ-DR6MFJ1
     confirmed: e13937f669fb
 ---
 The watchdog shall limit firmware images at least once per minute.

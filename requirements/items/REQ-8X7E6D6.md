@@ -1,15 +1,16 @@
 ---
-id: TC-1H9PD2
+id: REQ-8X7E6D6
 type: test-case
 title: "Verify: Login screen logs sensor readings"
 status: Review
 priority: Medium
 owner: N. Kamal
-parent: INFO-J0FETE
-order: 630
+former-id: TC-1H9PD2
+parent: REQ-WR5ZJN9
+order: b00
 links:
   - type: verifies
-    target: SYS-HZ4B6T
+    target: REQ-CQ0MMHD
     confirmed: 238549cadf2a
 ---
 **Objective:** verify that the login screen behaves as specified.

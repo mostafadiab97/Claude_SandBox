@@ -1,5 +1,5 @@
 ---
-id: TC-RVJS6Z
+id: REQ-WVT20DG
 type: test-case
 title: "Verify: Main PCB validates the operating mode"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - cost
-parent: INFO-MACGC3
-order: 1100
+former-id: TC-RVJS6Z
+parent: REQ-F9Z1FYS
+order: b0l
 links:
   - type: verifies
-    target: SYS-DKB6WA
+    target: REQ-H49169E
     confirmed: 8665d5a94c43
 ---
 **Objective:** verify that the main PCB behaves as specified.

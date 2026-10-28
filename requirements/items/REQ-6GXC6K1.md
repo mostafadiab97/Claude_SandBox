@@ -1,5 +1,5 @@
 ---
-id: DEF-TZ4XKA
+id: REQ-6GXC6K1
 type: defect
 title: "Defect: notification service does not notify error conditions"
 status: Draft
@@ -8,14 +8,15 @@ owner: محمد علي
 tags:
   - release-2.0
   - cost
-parent: INFO-FH5FB3
-order: 150
+former-id: DEF-TZ4XKA
+parent: REQ-MWRPGWA
+order: aE
 links:
   - type: relates-to
-    target: TC-DPYGBP
+    target: REQ-49BTRM5
     confirmed: c8d1dbe24c12
   - type: relates-to
-    target: SYS-NE90V9
+    target: REQ-N59N0W3
     confirmed: d34ffbeb0cc6
 ---
 Found during regression testing of build 2.7.35.

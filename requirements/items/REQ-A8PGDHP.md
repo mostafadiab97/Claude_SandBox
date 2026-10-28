@@ -1,5 +1,5 @@
 ---
-id: TC-W0QVXR
+id: REQ-A8PGDHP
 type: test-case
 title: "Verify: Mobile app validates sensor readings"
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: N. Kamal
 tags:
   - release-1.0
-parent: INFO-J0FETE
-order: 810
+former-id: TC-W0QVXR
+parent: REQ-WR5ZJN9
+order: b0I
 links:
   - type: verifies
-    target: SYS-35QZ1B
+    target: REQ-7403B62
     confirmed: eaceeabf6305
 ---
 **Objective:** verify that the mobile app behaves as specified.

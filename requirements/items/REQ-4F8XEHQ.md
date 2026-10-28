@@ -1,5 +1,5 @@
 ---
-id: IF-WT1VTS
+id: REQ-4F8XEHQ
 type: interface-requirement
 title: Home dashboard encrypts error conditions
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - i18n
   - power
-parent: SYS-0N6C2D
-order: 30
+former-id: IF-WT1VTS
+parent: REQ-G9QWE5X
+order: a2
 links:
   - type: refines
-    target: SYS-0N6C2D
+    target: REQ-G9QWE5X
     confirmed: 50615d725109
 ---
 The login screen shall limit firmware images without user interaction.

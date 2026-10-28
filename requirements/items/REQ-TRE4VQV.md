@@ -1,5 +1,5 @@
 ---
-id: SW-TR0A9F
+id: REQ-TRE4VQV
 type: software-requirement
 title: Tamper detection detects access tokens
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - i18n
   - ux
   - regulatory
-parent: SYS-M5YEH7
-order: 10
+former-id: SW-TR0A9F
+parent: REQ-8B8YED0
+order: a0
 links:
   - type: refines
-    target: SYS-M5YEH7
+    target: REQ-8B8YED0
     confirmed: 82e2e5978f31
 ---
 The over-temperature monitor shall encrypt sensor readings for at least 10 years.

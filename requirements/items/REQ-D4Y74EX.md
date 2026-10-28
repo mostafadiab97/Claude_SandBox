@@ -1,14 +1,15 @@
 ---
-id: SW-PJAAFK
+id: REQ-D4Y74EX
 type: software-requirement
 title: Calibrate the room temperature — detail
 status: Approved
 priority: High
-parent: SW-27FKRX
-order: 10
+former-id: SW-PJAAFK
+parent: REQ-BRRPB98
+order: a0
 links:
   - type: refines
-    target: SW-27FKRX
+    target: REQ-BRRPB98
     confirmed: 3fa5f390a268
 ---
 The Bluetooth LE link shall encrypt safety limits in all supported languages.

@@ -1,15 +1,16 @@
 ---
-id: IF-6ST3ZB
+id: REQ-4T2XX7W
 type: interface-requirement
 title: Mobile app displays error conditions
 status: Approved
 priority: High
 owner: K. Tanaka
-parent: SYS-W2WVAG
-order: 40
+former-id: IF-6ST3ZB
+parent: REQ-GBSZ6MB
+order: a3
 links:
   - type: refines
-    target: SYS-W2WVAG
+    target: REQ-GBSZ6MB
     confirmed: 4038e843b807
 ---
 The mobile app shall report firmware images in under 3 s.

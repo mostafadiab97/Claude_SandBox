@@ -1,5 +1,5 @@
 ---
-id: TC-5033FT
+id: REQ-0RYHPKJ
 type: test-case
 title: "Regression: Enclosure logs the connection state"
 status: Review
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - ux
   - cost
-parent: INFO-ECHASH
-order: 990
+former-id: TC-5033FT
+parent: REQ-6H15AV2
+order: b0a
 links:
   - type: verifies
-    target: SYS-XRP95E
+    target: REQ-VKW8KMD
     confirmed: c526dc6b205d
 ---
 **Objective:** verify that the device behaves as specified.

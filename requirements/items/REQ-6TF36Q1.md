@@ -1,5 +1,5 @@
 ---
-id: SYS-5YM37Q
+id: REQ-6TF36Q1
 type: system-requirement
 title: Power supply notifys the operating mode
 status: Review
@@ -9,11 +9,12 @@ tags:
   - cost
   - power
   - accessibility
-parent: INFO-A6P9A8
-order: 2320
+former-id: SYS-5YM37Q
+parent: REQ-CMCS31A
+order: b2j
 links:
   - type: refines
-    target: STK-4NGQJ5
+    target: REQ-4H1F9N3
     confirmed: 96640a7e340d
 ---
 The power supply shall authenticate the connection state with an accuracy of ±0.5 °C.

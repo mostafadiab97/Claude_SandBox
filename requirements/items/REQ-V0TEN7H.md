@@ -1,5 +1,5 @@
 ---
-id: HW-B94NGY
+id: REQ-V0TEN7H
 type: hardware-requirement
 title: Status LED limits access tokens
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - connectivity
   - safety
-parent: SYS-WY2MGE
-order: 10
+former-id: HW-B94NGY
+parent: REQ-GF42JSW
+order: a0
 links:
   - type: refines
-    target: SYS-WY2MGE
+    target: REQ-GF42JSW
     confirmed: cd0fa22d1fa7
 ---
 The status LED shall notify the set point with an accuracy of ±0.5 °C.

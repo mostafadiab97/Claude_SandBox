@@ -1,5 +1,5 @@
 ---
-id: SW-SFG56J
+id: REQ-3HZA0WE
 type: software-requirement
 title: User account service logs sensor readings
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: R. Nabil
 tags:
   - release-1.0
-parent: SYS-5KXJ51
-order: 10
+former-id: SW-SFG56J
+parent: REQ-X8M7P49
+order: a0
 links:
   - type: refines
-    target: SYS-5KXJ51
+    target: REQ-X8M7P49
     confirmed: 7d8bc76969c6
 ---
 The telemetry pipeline shall restore relay events within 200 ms.

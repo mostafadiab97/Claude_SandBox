@@ -1,5 +1,5 @@
 ---
-id: IF-ZW7PM5
+id: REQ-WM6XGT9
 type: interface-requirement
 title: Over-temperature monitor logs the room temperature
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: É. Laurent
 tags:
   - release-2.0
-parent: SYS-12Y20P
-order: 10
+former-id: IF-ZW7PM5
+parent: REQ-0C64JCK
+order: a0
 links:
   - type: refines
-    target: SYS-12Y20P
+    target: REQ-0C64JCK
     confirmed: 83d1b44e122c
 ---
 The encryption layer shall display audit records using AES-256-GCM.

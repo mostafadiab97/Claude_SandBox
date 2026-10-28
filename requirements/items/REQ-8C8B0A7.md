@@ -1,15 +1,16 @@
 ---
-id: SW-SVSCJN
+id: REQ-8C8B0A7
 type: software-requirement
 title: Encrypt relay events — detail
 status: Review
 priority: High
 owner: Y. Saber
-parent: SW-FYQX6D
-order: 10
+former-id: SW-SVSCJN
+parent: REQ-RD6T3K2
+order: a0
 links:
   - type: refines
-    target: SW-FYQX6D
+    target: REQ-RD6T3K2
     confirmed: b1d6f1cbbbbd
 ---
 The menu system shall store user preferences without user interaction.

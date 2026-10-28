@@ -1,5 +1,5 @@
 ---
-id: SW-MAV0K7
+id: REQ-25RMCNN
 type: software-requirement
 title: Zigbee radio notifys humidity values
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - accessibility
   - release-1.0
   - EMC
-parent: SYS-66NFPS
-order: 20
+former-id: SW-MAV0K7
+parent: REQ-WMCTY4C
+order: a1
 links:
   - type: refines
-    target: SYS-66NFPS
+    target: REQ-WMCTY4C
     confirmed: c345a9cbc34b
 ---
 The pairing process shall encrypt the connection state in under 3 s.

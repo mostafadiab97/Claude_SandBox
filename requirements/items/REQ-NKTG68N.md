@@ -1,11 +1,12 @@
 ---
-id: IF-P2DA92
+id: REQ-NKTG68N
 type: interface-requirement
 title: "Signal 312: firmware images"
 status: Approved
 priority: High
 owner: R. Nabil
-parent: INFO-2TM0JP
-order: 3120
+former-id: IF-P2DA92
+parent: REQ-RJ0KHPT
+order: b41
 ---
 Interface signal number 312.

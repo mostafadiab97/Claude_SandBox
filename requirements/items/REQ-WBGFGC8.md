@@ -1,5 +1,5 @@
 ---
-id: DE-XEJWJJ
+id: REQ-WBGFGC8
 type: design-element
 title: Module Bluetooth_LE_link_43
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - i18n
   - cost
   - release-2.0
-parent: SW-54JE3M
-order: 20
+former-id: DE-XEJWJJ
+parent: REQ-FKMVR7K
+order: a1
 links:
   - type: implements
-    target: SW-54JE3M
+    target: REQ-FKMVR7K
     confirmed: 48914f25607c
 ---
 Implemented in `src/conn/Bluetooth_LE_link.c`.

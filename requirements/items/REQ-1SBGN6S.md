@@ -1,5 +1,5 @@
 ---
-id: SW-9NFKQF
+id: REQ-1SBGN6S
 type: software-requirement
 title: Login screen restores humidity values
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - i18n
   - security
-parent: SYS-HHZXC3
-order: 10
+former-id: SW-9NFKQF
+parent: REQ-HFG5CZP
+order: a0
 links:
   - type: refines
-    target: SYS-HHZXC3
+    target: REQ-HFG5CZP
     confirmed: ed2dc7884456
 ---
 The notification service shall report sensor readings for at least 10 years.

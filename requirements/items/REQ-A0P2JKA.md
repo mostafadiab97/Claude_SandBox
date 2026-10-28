@@ -1,5 +1,5 @@
 ---
-id: SW-GDVXA7
+id: REQ-A0P2JKA
 type: software-requirement
 title: Validate firmware images — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - security
   - connectivity
-parent: SW-GEQD7V
-order: 10
+former-id: SW-GDVXA7
+parent: REQ-X1GZ3E9
+order: a0
 links:
   - type: refines
-    target: SW-GEQD7V
+    target: REQ-X1GZ3E9
     confirmed: b4c2cec05ff8
 ---
 The boiler interface shall limit energy consumption using AES-256-GCM.

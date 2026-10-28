@@ -1,5 +1,5 @@
 ---
-id: SYS-A103QP
+id: REQ-Y9FVQ7Q
 type: system-requirement
 title: OTA server encrypts sensor readings
 status: Approved
@@ -8,14 +8,15 @@ owner: M. Farouk
 tags:
   - customer-request
   - security
-parent: INFO-YV5EZD
-order: 1990
+former-id: SYS-A103QP
+parent: REQ-RE9ZKHF
+order: b2C
 links:
   - type: refines
-    target: STK-DNB9QM
+    target: REQ-VPP3H2E
     confirmed: 90394ce55463
   - type: mitigates
-    target: RSK-HW7CT1
+    target: REQ-2XXW52D
     confirmed: 9979c7ab202d
 ---
 The OTA server shall synchronise sensor readings without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: IF-P2SR9N
+id: REQ-TW2KAHZ
 type: interface-requirement
 title: "Signal 360: energy consumption"
 status: Obsolete
@@ -8,7 +8,8 @@ owner: Y. Saber
 tags:
   - release-2.0
   - accessibility
-parent: INFO-2TM0JP
-order: 3600
+former-id: IF-P2SR9N
+parent: REQ-RJ0KHPT
+order: b4n
 ---
 Interface signal number 360.

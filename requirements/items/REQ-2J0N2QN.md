@@ -1,5 +1,5 @@
 ---
-id: SW-W5R2WN
+id: REQ-2J0N2QN
 type: software-requirement
 title: Secure boot limits the operating mode
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - security
   - accessibility
-parent: SYS-MRYHNM
-order: 20
+former-id: SW-W5R2WN
+parent: REQ-GCPQ4HC
+order: a1
 links:
   - type: refines
-    target: SYS-MRYHNM
+    target: REQ-GCPQ4HC
     confirmed: 82b2ddf90cf3
 ---
 The watchdog shall restore error conditions at least once per minute.

@@ -1,15 +1,16 @@
 ---
-id: HW-47ZBB0
+id: REQ-SFBREH3
 type: hardware-requirement
 title: Detect user preferences — detail
 status: Draft
 priority: High
 owner: Y. Saber
-parent: HW-BYY4KV
-order: 10
+former-id: HW-47ZBB0
+parent: REQ-9RJGE83
+order: a0
 links:
   - type: refines
-    target: HW-BYY4KV
+    target: REQ-9RJGE83
     confirmed: bdf05f84df12
 ---
 The Bluetooth LE link shall log firmware images for at least 10 years.

@@ -1,5 +1,5 @@
 ---
-id: IF-4HJGAF
+id: REQ-9ZD2QVM
 type: interface-requirement
 title: Heating controller displays the connection state
 status: Approved
@@ -7,11 +7,12 @@ owner: S. Adel
 tags:
   - security
   - performance
-parent: SYS-XP4ZAH
-order: 10
+former-id: IF-4HJGAF
+parent: REQ-FB5KG2Y
+order: a0
 links:
   - type: refines
-    target: SYS-XP4ZAH
+    target: REQ-FB5KG2Y
     confirmed: b8b57a2c487b
 ---
 The regulation loop shall detect the room temperature at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: SYS-G2WJ4Z
+id: REQ-Y9F757T
 type: system-requirement
 title: Login screen limits sensor readings
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - customer-request
   - release-2.0
-parent: INFO-2XXBRS
-order: 1220
+former-id: SYS-G2WJ4Z
+parent: REQ-QYXGSQ4
+order: b0x
 links:
   - type: refines
-    target: STK-55M3CZ
+    target: REQ-HTVZXH2
     confirmed: 45f1b5fe0502
 ---
 The login screen shall log user preferences below 0.5 W in standby.

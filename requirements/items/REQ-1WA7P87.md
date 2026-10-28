@@ -1,5 +1,5 @@
 ---
-id: TC-YDP04E
+id: REQ-1WA7P87
 type: test-case
 title: "Verify: Encryption layer switchs error conditions"
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - customer-request
-parent: INFO-Z4TW4B
-order: 980
+former-id: TC-YDP04E
+parent: REQ-K6FGAY0
+order: b0Z
 links:
   - type: verifies
-    target: SYS-HB35Z8
+    target: REQ-WS4KCQE
     confirmed: ff97b22b6617
 ---
 **Objective:** verify that the encryption layer behaves as specified.

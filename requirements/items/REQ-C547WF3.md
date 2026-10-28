@@ -1,15 +1,16 @@
 ---
-id: SW-FC71ZM
+id: REQ-C547WF3
 type: software-requirement
 title: Heating controller authenticates access tokens
 status: Draft
 priority: Medium
 owner: H. Mostafa
-parent: SYS-VNKX29
-order: 20
+former-id: SW-FC71ZM
+parent: REQ-TR67EMJ
+order: a1
 links:
   - type: refines
-    target: SYS-VNKX29
+    target: REQ-TR67EMJ
     confirmed: 1e93aa64c8e1
 ---
 The heat pump driver shall switch humidity values below 0.5 W in standby.

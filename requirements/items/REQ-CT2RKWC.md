@@ -1,5 +1,5 @@
 ---
-id: TC-B91ZGQ
+id: REQ-CT2RKWC
 type: test-case
 title: "Verify: User account service displays error conditions"
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: A. Hassan
 tags:
   - cost
-parent: INFO-7P4D8D
-order: 430
+former-id: TC-B91ZGQ
+parent: REQ-8351896
+order: ag
 links:
   - type: verifies
-    target: SYS-1WQ7QG
+    target: REQ-5BRSSD7
     confirmed: 54178d5c99b7
 ---
 **Objective:** verify that the user account service behaves as specified.

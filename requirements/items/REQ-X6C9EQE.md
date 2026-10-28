@@ -1,5 +1,5 @@
 ---
-id: SW-ZXQK87
+id: REQ-X6C9EQE
 type: software-requirement
 title: User account service synchronises the room temperature
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - customer-request
-parent: SYS-DRG6R3
-order: 20
+former-id: SW-ZXQK87
+parent: REQ-PEF0WVS
+order: a1
 links:
   - type: refines
-    target: SYS-DRG6R3
+    target: REQ-PEF0WVS
     confirmed: 08f38a1d34b8
 ---
 The OTA server shall log audit records with an accuracy of ±0.5 °C.

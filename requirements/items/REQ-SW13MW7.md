@@ -1,5 +1,5 @@
 ---
-id: SYS-531285
+id: REQ-SW13MW7
 type: system-requirement
 title: Encryption layer synchronises user preferences
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - EMC
-parent: INFO-0229G8
-order: 1410
+former-id: SYS-531285
+parent: REQ-H9113WA
+order: b1G
 links:
   - type: refines
-    target: STK-1TB226
+    target: REQ-QAY0F49
     confirmed: ea29425b18b7
 ---
 The encryption layer shall synchronise safety limits using AES-256-GCM.

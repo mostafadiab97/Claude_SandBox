@@ -1,7 +1,8 @@
 ---
-id: INFO-PDR6FV
+id: REQ-2ZA2TRZ
 type: information
-title: 4.2 System requirements
-parent: INFO-APHEKT
-order: 20
+title: System requirements
+former-id: INFO-PDR6FV
+parent: REQ-1VKER3H
+order: a1
 ---

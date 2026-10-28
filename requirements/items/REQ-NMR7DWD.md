@@ -1,5 +1,5 @@
 ---
-id: SW-DSH4Q4
+id: REQ-NMR7DWD
 type: software-requirement
 title: OTA server synchronises error conditions
 status: Review
@@ -8,11 +8,12 @@ tags:
   - i18n
   - EMC
   - connectivity
-parent: SYS-S5AVVB
-order: 10
+former-id: SW-DSH4Q4
+parent: REQ-XTW7B1R
+order: a0
 links:
   - type: refines
-    target: SYS-S5AVVB
+    target: REQ-XTW7B1R
     confirmed: 21ef3d7af8e5
 ---
 The user account service shall log firmware images using AES-256-GCM.

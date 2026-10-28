@@ -1,5 +1,5 @@
 ---
-id: TC-BQWMVH
+id: REQ-DM0SF29
 type: test-case
 title: "Verify: Backlight restores relay events"
 status: Draft
@@ -7,14 +7,15 @@ priority: Medium
 owner: محمد علي
 tags:
   - i18n
-parent: INFO-HTSZ15
-order: 1300
+former-id: TC-BQWMVH
+parent: REQ-Y9VHHKA
+order: b15
 links:
   - type: verifies
-    target: SYS-XNZMY7
+    target: REQ-BXXG4N0
     confirmed: 1e674699e206
   - type: verifies
-    target: SW-5AHKSR
+    target: REQ-EENPQ7M
     confirmed: e2079d0acc83
 ---
 **Objective:** verify that the backlight behaves as specified.

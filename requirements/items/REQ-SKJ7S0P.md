@@ -1,5 +1,5 @@
 ---
-id: TC-W6WTQ4
+id: REQ-SKJ7S0P
 type: test-case
 title: "Verify: Relay board encrypts user preferences"
 status: Obsolete
@@ -8,14 +8,15 @@ owner: H. Mostafa
 tags:
   - power
   - cost
-parent: INFO-MACGC3
-order: 1410
+former-id: TC-W6WTQ4
+parent: REQ-F9Z1FYS
+order: b1G
 links:
   - type: verifies
-    target: SYS-H7XP2M
+    target: REQ-0VFCCR7
     confirmed: 7b8641948b25
   - type: verifies
-    target: SW-CN0XQA
+    target: REQ-8W2J8VB
     confirmed: f0c87b0c4ded
 ---
 **Objective:** verify that the relay board behaves as specified.

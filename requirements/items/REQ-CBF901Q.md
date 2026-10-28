@@ -1,15 +1,16 @@
 ---
-id: DE-PDANM6
+id: REQ-CBF901Q
 type: design-element
 title: Module schedule_editor_95
 status: Obsolete
 priority: Medium
 owner: R. Nabil
-parent: SW-A5ENPD
-order: 10
+former-id: DE-PDANM6
+parent: REQ-9R5NAGR
+order: a0
 links:
   - type: implements
-    target: SW-A5ENPD
+    target: REQ-9R5NAGR
     confirmed: 24a2d85fdf90
 ---
 Implemented in `src/app/schedule_editor.c`.

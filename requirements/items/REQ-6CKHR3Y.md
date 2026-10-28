@@ -1,5 +1,5 @@
 ---
-id: TC-1JWJ3H
+id: REQ-6CKHR3Y
 type: test-case
 title: "Verify: Mobile app displays sensor readings"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - customer-request
-parent: INFO-J0FETE
-order: 540
+former-id: TC-1JWJ3H
+parent: REQ-WR5ZJN9
+order: ar
 links:
   - type: verifies
-    target: SYS-YX6EBV
+    target: REQ-AJNTHEY
     confirmed: d90c022122ab
 ---
 **Objective:** verify that the mobile app behaves as specified.

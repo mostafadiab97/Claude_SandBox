@@ -1,5 +1,5 @@
 ---
-id: TC-TPDENB
+id: REQ-KRAFWYQ
 type: test-case
 title: "Verify: User account service restores schedule entries"
 status: Review
@@ -7,14 +7,15 @@ priority: High
 owner: N. Kamal
 tags:
   - power
-parent: INFO-7P4D8D
-order: 1590
+former-id: TC-TPDENB
+parent: REQ-8351896
+order: b1Y
 links:
   - type: verifies
-    target: SYS-2NJC1D
+    target: REQ-CES1JSE
     confirmed: c95413eef36f
   - type: verifies
-    target: SW-1DHCGS
+    target: REQ-YGF56RH
     confirmed: 7c536d464892
 ---
 **Objective:** verify that the user account service behaves as specified.

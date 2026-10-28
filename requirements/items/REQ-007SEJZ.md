@@ -1,14 +1,15 @@
 ---
-id: HW-VMC9C0
+id: REQ-007SEJZ
 type: hardware-requirement
 title: Rotary knob stores the room temperature
 status: Draft
 owner: S. Adel
-parent: SYS-J6PC66
-order: 10
+former-id: HW-VMC9C0
+parent: REQ-F26X3E7
+order: a0
 links:
   - type: refines
-    target: SYS-J6PC66
+    target: REQ-F26X3E7
     confirmed: b91cd2a500bd
 ---
 The menu system shall limit schedule entries in under 3 s.

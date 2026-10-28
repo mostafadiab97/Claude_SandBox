@@ -1,16 +1,17 @@
 ---
-id: SYS-MRYHNM
+id: REQ-GCPQ4HC
 type: system-requirement
 title: Watchdog stores sensor readings
 status: Approved
 priority: Low
 tags:
   - ux
-parent: INFO-0229G8
-order: 1280
+former-id: SYS-MRYHNM
+parent: REQ-H9113WA
+order: b13
 links:
   - type: refines
-    target: STK-7X7S81
+    target: REQ-N96QXC6
     confirmed: 0b0c08c75491
 ---
 The watchdog shall switch relay events at least once per minute.

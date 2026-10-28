@@ -1,11 +1,12 @@
 ---
-id: IF-DHKGMK
+id: REQ-GGKHPVD
 type: interface-requirement
 title: "Signal 089: the room temperature"
 status: Draft
 priority: High
 owner: A. Hassan
-parent: INFO-2TM0JP
-order: 890
+former-id: IF-DHKGMK
+parent: REQ-RJ0KHPT
+order: b0Q
 ---
 Interface signal number 89.

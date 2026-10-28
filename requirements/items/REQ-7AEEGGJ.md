@@ -1,5 +1,5 @@
 ---
-id: HW-NHAYGN
+id: REQ-7AEEGGJ
 type: hardware-requirement
 title: Main PCB notifys the connection state
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - customer-request
   - EMC
-parent: SYS-T9M88W
-order: 10
+former-id: HW-NHAYGN
+parent: REQ-N0KC5GA
+order: a0
 links:
   - type: refines
-    target: SYS-T9M88W
+    target: REQ-N0KC5GA
     confirmed: d3225946a824
 ---
 The enclosure shall authenticate humidity values for up to 8 zones.

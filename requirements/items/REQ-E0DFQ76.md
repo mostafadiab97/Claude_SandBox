@@ -1,14 +1,15 @@
 ---
-id: HW-TZKKGX
+id: REQ-E0DFQ76
 type: hardware-requirement
 title: Over-temperature monitor authenticates audit records
 status: Review
 priority: Medium
-parent: SYS-3JQGM8
-order: 40
+former-id: HW-TZKKGX
+parent: REQ-0A641HY
+order: a3
 links:
   - type: refines
-    target: SYS-3JQGM8
+    target: REQ-0A641HY
     confirmed: 9748f881870f
 ---
 The encryption layer shall switch error conditions for at least 10 years.

@@ -1,5 +1,5 @@
 ---
-id: RSK-HW7CT1
+id: REQ-2XXW52D
 type: risk
 title: "Risk: OTA server fails to detect the operating mode"
 status: Approved
@@ -7,8 +7,9 @@ priority: Medium
 owner: R. Nabil
 tags:
   - EMC
-parent: INFO-5BPX0K
-order: 70
+former-id: RSK-HW7CT1
+parent: REQ-RSBFCPW
+order: a6
 ---
 **Hazard:** the OTA server could fail to display audit records.
 

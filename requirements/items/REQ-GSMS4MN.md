@@ -1,15 +1,16 @@
 ---
-id: TC-WSK4A8
+id: REQ-GSMS4MN
 type: test-case
 title: "Verify: Schedule editor measures firmware images"
 status: Review
 priority: High
 owner: L. Samir
-parent: INFO-J0FETE
-order: 260
+former-id: TC-WSK4A8
+parent: REQ-WR5ZJN9
+order: aP
 links:
   - type: verifies
-    target: SYS-R2FDWQ
+    target: REQ-JJMJXVK
     confirmed: 08d5a1fe5a7b
 ---
 **Objective:** verify that the schedule editor behaves as specified.

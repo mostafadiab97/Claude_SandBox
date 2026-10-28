@@ -1,5 +1,5 @@
 ---
-id: SW-5K8Z5S
+id: REQ-JBF97XT
 type: software-requirement
 title: Restore the connection state — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - customer-request
   - performance
-parent: SW-2EK2H0
-order: 10
+former-id: SW-5K8Z5S
+parent: REQ-6N9CS9N
+order: a0
 links:
   - type: refines
-    target: SW-2EK2H0
+    target: REQ-6N9CS9N
     confirmed: 799a820f6357
 ---
 The heat pump driver shall authenticate access tokens at least once per minute.

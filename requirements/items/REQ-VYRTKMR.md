@@ -1,5 +1,5 @@
 ---
-id: IF-Y6GSBD
+id: REQ-VYRTKMR
 type: interface-requirement
 title: "Signal 263: the connection state"
 status: Approved
@@ -7,7 +7,8 @@ priority: High
 owner: L. Samir
 tags:
   - safety
-parent: INFO-2TM0JP
-order: 2630
+former-id: IF-Y6GSBD
+parent: REQ-RJ0KHPT
+order: b3E
 ---
 Interface signal number 263.

@@ -1,5 +1,5 @@
 ---
-id: SYS-2V6AQ6
+id: REQ-ENZ8FT6
 type: system-requirement
 title: Heating controller stores audit records
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - accessibility
   - cost
-parent: INFO-6DQTKV
-order: 550
+former-id: SYS-2V6AQ6
+parent: REQ-7ED7ZET
+order: as
 links:
   - type: refines
-    target: STK-W1SAZ0
+    target: REQ-HA39PC8
     confirmed: f0954f8ba0a2
 ---
 The heating controller shall report the connection state in all supported languages.

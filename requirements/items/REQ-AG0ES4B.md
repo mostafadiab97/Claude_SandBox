@@ -1,5 +1,5 @@
 ---
-id: TC-YBFQAG
+id: REQ-AG0ES4B
 type: test-case
 title: "Verify: Login screen limits firmware images"
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 tags:
   - regulatory
   - i18n
-parent: INFO-J0FETE
-order: 940
+former-id: TC-YBFQAG
+parent: REQ-WR5ZJN9
+order: b0V
 links:
   - type: verifies
-    target: SYS-J17HQ6
+    target: REQ-53SHBXS
     confirmed: e0be285eec93
   - type: verifies
-    target: SW-WRPYK6
+    target: REQ-R5YSJVW
     confirmed: 54253c7ea624
 ---
 **Objective:** verify that the login screen behaves as specified.

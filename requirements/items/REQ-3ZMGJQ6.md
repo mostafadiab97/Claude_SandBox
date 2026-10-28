@@ -1,15 +1,16 @@
 ---
-id: HW-H3DFWS
+id: REQ-3ZMGJQ6
 type: hardware-requirement
 title: Battery backup limits safety limits
 status: Obsolete
 priority: Low
 owner: J. Müller
-parent: SYS-SGGFKV
-order: 20
+former-id: HW-H3DFWS
+parent: REQ-E8T9V5N
+order: a1
 links:
   - type: refines
-    target: SYS-SGGFKV
+    target: REQ-E8T9V5N
     confirmed: 04cafacc256c
 ---
 The main PCB shall encrypt humidity values without user interaction.

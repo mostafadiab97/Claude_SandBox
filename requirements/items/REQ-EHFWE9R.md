@@ -1,5 +1,5 @@
 ---
-id: TC-0C4NSS
+id: REQ-EHFWE9R
 type: test-case
 title: "Verify: Login screen limits the connection state"
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: محمد علي
 tags:
   - accessibility
-parent: INFO-J0FETE
-order: 130
+former-id: TC-0C4NSS
+parent: REQ-WR5ZJN9
+order: aC
 links:
   - type: verifies
-    target: SYS-ZW9PC7
+    target: REQ-PM3KZFS
     confirmed: cf666200a270
 ---
 **Objective:** verify that the login screen behaves as specified.

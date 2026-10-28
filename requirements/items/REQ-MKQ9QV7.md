@@ -1,16 +1,17 @@
 ---
-id: DE-GVER1N
+id: REQ-MKQ9QV7
 type: design-element
 title: Module Bluetooth_LE_link_53
 status: Review
 owner: S. Adel
 tags:
   - performance
-parent: SW-C5Z5Y1
-order: 10
+former-id: DE-GVER1N
+parent: REQ-FZY7TVT
+order: a0
 links:
   - type: implements
-    target: SW-C5Z5Y1
+    target: REQ-FZY7TVT
     confirmed: 14a9de62496e
 ---
 Implemented in `src/conn/Bluetooth_LE_link.c`.

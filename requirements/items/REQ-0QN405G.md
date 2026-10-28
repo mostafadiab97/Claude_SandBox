@@ -1,5 +1,5 @@
 ---
-id: SW-Y6GN0H
+id: REQ-0QN405G
 type: software-requirement
 title: Local API reports audit records
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - EMC
   - cost
-parent: SYS-0536MA
-order: 10
+former-id: SW-Y6GN0H
+parent: REQ-P411WTK
+order: a0
 links:
   - type: refines
-    target: SYS-0536MA
+    target: REQ-P411WTK
     confirmed: c760f3df8901
 ---
 The Wi-Fi module shall synchronise energy consumption below 0.5 W in standby.

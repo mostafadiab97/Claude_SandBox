@@ -1,15 +1,16 @@
 ---
-id: IF-W8F41K
+id: REQ-AV1WVSK
 type: interface-requirement
 title: Power supply validates audit records
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: SYS-A6KWV7
-order: 20
+former-id: IF-W8F41K
+parent: REQ-ZGEFNWM
+order: a1
 links:
   - type: refines
-    target: SYS-A6KWV7
+    target: REQ-ZGEFNWM
     confirmed: 4488148b69d2
 ---
 The enclosure shall validate audit records after a power loss.

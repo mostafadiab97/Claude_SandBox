@@ -1,5 +1,5 @@
 ---
-id: IF-WVVF3Q
+id: REQ-78QJ0M4
 type: interface-requirement
 title: Rotary knob validates the room temperature
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: R. Nabil
 tags:
   - connectivity
-parent: SYS-9YAX2Y
-order: 20
+former-id: IF-WVVF3Q
+parent: REQ-VK5ZJ33
+order: a1
 links:
   - type: refines
-    target: SYS-9YAX2Y
+    target: REQ-VK5ZJ33
     confirmed: b8ba4474f101
 ---
 The menu system shall calibrate energy consumption within 200 ms.

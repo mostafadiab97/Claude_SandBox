@@ -1,5 +1,5 @@
 ---
-id: SW-DTX806
+id: REQ-RHE5XZX
 type: software-requirement
 title: Mobile app switchs access tokens
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - release-2.0
   - accessibility
-parent: SYS-5EDMMX
-order: 30
+former-id: SW-DTX806
+parent: REQ-TTKRBX8
+order: a2
 links:
   - type: refines
-    target: SYS-5EDMMX
+    target: REQ-TTKRBX8
     confirmed: 6f6f1dc47197
 ---
 The home dashboard shall store the connection state after a power loss.

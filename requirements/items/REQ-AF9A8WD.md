@@ -1,5 +1,5 @@
 ---
-id: IF-F9A0G8
+id: REQ-AF9A8WD
 type: interface-requirement
 title: Over-temperature monitor measures energy consumption
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - release-1.0
   - EMC
   - safety
-parent: SYS-2ZWKRN
-order: 40
+former-id: IF-F9A0G8
+parent: REQ-7EHG9PS
+order: a3
 links:
   - type: refines
-    target: SYS-2ZWKRN
+    target: REQ-7EHG9PS
     confirmed: da49b7d4a05b
 ---
 The over-temperature monitor shall display error conditions within 200 ms.

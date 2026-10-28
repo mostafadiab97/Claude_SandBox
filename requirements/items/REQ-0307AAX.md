@@ -1,5 +1,5 @@
 ---
-id: SW-EFCBX4
+id: REQ-0307AAX
 type: software-requirement
 title: Heat pump driver calibrates error conditions
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: محمد علي
 tags:
   - safety
-parent: SYS-YGWC8P
-order: 20
+former-id: SW-EFCBX4
+parent: REQ-SH0PS76
+order: a1
 links:
   - type: refines
-    target: SYS-YGWC8P
+    target: REQ-SH0PS76
     confirmed: 77480e1be3cd
 ---
 The heating controller shall restore the operating mode with an accuracy of ±0.5 °C.

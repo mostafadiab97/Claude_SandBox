@@ -1,16 +1,17 @@
 ---
-id: SYS-BJE0SP
+id: REQ-N2MPVA7
 type: system-requirement
 title: Relay board limits sensor readings
 status: Review
 priority: Medium
 tags:
   - ux
-parent: INFO-A6P9A8
-order: 850
+former-id: SYS-BJE0SP
+parent: REQ-CMCS31A
+order: b0M
 links:
   - type: refines
-    target: STK-2STGXE
+    target: REQ-67MQ0AB
     confirmed: c77fe61daf4b
 ---
 The relay board shall validate the set point within 200 ms.

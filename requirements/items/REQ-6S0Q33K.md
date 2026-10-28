@@ -1,15 +1,16 @@
 ---
-id: HW-H40DQZ
+id: REQ-6S0Q33K
 type: hardware-requirement
 title: Pairing process detects energy consumption
 status: Draft
 priority: High
 owner: J. Müller
-parent: SYS-9W0KTX
-order: 20
+former-id: HW-H40DQZ
+parent: REQ-BWX988Q
+order: a1
 links:
   - type: refines
-    target: SYS-9W0KTX
+    target: REQ-BWX988Q
     confirmed: a4802eb2b834
 ---
 The Bluetooth LE link shall limit safety limits within 200 ms.

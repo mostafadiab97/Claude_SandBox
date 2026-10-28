@@ -1,5 +1,5 @@
 ---
-id: SYS-725VG3
+id: REQ-YK0P2R9
 type: system-requirement
 title: Notification service synchronises relay events
 status: Approved
@@ -9,8 +9,9 @@ tags:
   - i18n
   - cost
   - release-2.0
-parent: INFO-2XXBRS
-order: 320
+former-id: SYS-725VG3
+parent: REQ-QYXGSQ4
+order: aV
 links:
   - type: refines
     target: STK-H87WHA

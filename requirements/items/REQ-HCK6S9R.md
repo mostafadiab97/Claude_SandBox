@@ -1,15 +1,16 @@
 ---
-id: SW-VMEXJ3
+id: REQ-HCK6S9R
 type: software-requirement
 title: Encryption layer authenticates the connection state
 status: Obsolete
 priority: Medium
 owner: S. Adel
-parent: SYS-HF856T
-order: 10
+former-id: SW-VMEXJ3
+parent: REQ-VD3A46J
+order: a0
 links:
   - type: refines
-    target: SYS-HF856T
+    target: REQ-VD3A46J
     confirmed: 96551a11c8e9
 ---
 The secure boot shall detect firmware images below 0.5 W in standby.

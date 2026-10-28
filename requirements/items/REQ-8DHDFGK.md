@@ -1,5 +1,5 @@
 ---
-id: IF-399K50
+id: REQ-8DHDFGK
 type: interface-requirement
 title: "Signal 528: user preferences"
 status: Approved
@@ -7,7 +7,8 @@ priority: Medium
 owner: Y. Saber
 tags:
   - connectivity
-parent: INFO-2TM0JP
-order: 5280
+former-id: IF-399K50
+parent: REQ-RJ0KHPT
+order: b7V
 ---
 Interface signal number 528.

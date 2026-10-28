@@ -1,15 +1,16 @@
 ---
-id: TC-99TDKT
+id: REQ-YV3STXX
 type: test-case
 title: "Verify: Cloud backend reports energy consumption"
 status: Approved
 priority: High
 owner: R. Nabil
-parent: INFO-7P4D8D
-order: 110
+former-id: TC-99TDKT
+parent: REQ-8351896
+order: aA
 links:
   - type: verifies
-    target: SYS-78Q17V
+    target: REQ-JFKDB4C
     confirmed: d45a11dd5456
 ---
 **Objective:** verify that the cloud backend behaves as specified.

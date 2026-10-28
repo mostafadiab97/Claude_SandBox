@@ -1,5 +1,5 @@
 ---
-id: HW-5E6DJY
+id: REQ-FTE1M0R
 type: hardware-requirement
 title: Notification service reports the set point
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - ux
   - release-2.0
   - power
-parent: SYS-7JSRR1
-order: 20
+former-id: HW-5E6DJY
+parent: REQ-KTXE533
+order: a1
 links:
   - type: refines
-    target: SYS-7JSRR1
+    target: REQ-KTXE533
     confirmed: 0658795b70c4
 ---
 The notification service shall report schedule entries for at least 10 years.

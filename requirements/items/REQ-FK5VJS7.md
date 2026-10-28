@@ -1,5 +1,5 @@
 ---
-id: IF-X4G3A0
+id: REQ-FK5VJS7
 type: interface-requirement
 title: User account service switchs the room temperature
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: R. Nabil
 tags:
   - ux
-parent: SYS-HYQA89
-order: 20
+former-id: IF-X4G3A0
+parent: REQ-45XBD0V
+order: a1
 links:
   - type: refines
-    target: SYS-HYQA89
+    target: REQ-45XBD0V
     confirmed: 02764287a3b2
 ---
 The user account service shall store schedule entries in all supported languages.

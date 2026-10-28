@@ -1,5 +1,5 @@
 ---
-id: DE-VCV2E0
+id: REQ-J5K7E89
 type: design-element
 title: Module zone_valve_68
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - EMC
   - power
   - customer-request
-parent: SW-QRFPC8
-order: 10
+former-id: DE-VCV2E0
+parent: REQ-JQTGFE6
+order: a0
 links:
   - type: implements
-    target: SW-QRFPC8
+    target: REQ-JQTGFE6
     confirmed: 346fbb4510b3
 ---
 Implemented in `src/heat/zone_valve.c`.

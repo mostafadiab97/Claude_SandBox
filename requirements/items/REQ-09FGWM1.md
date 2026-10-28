@@ -1,5 +1,5 @@
 ---
-id: SW-YMCQ15
+id: REQ-09FGWM1
 type: software-requirement
 title: Status LED validates energy consumption
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - EMC
   - accessibility
-parent: SYS-QFCX4V
-order: 30
+former-id: SW-YMCQ15
+parent: REQ-Y9PF6ZF
+order: a2
 links:
   - type: refines
-    target: SYS-QFCX4V
+    target: REQ-Y9PF6ZF
     confirmed: 0a633adec0ec
 ---
 The touch display shall store user preferences with an accuracy of ±0.5 °C.

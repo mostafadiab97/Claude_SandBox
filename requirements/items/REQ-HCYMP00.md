@@ -1,5 +1,5 @@
 ---
-id: TC-D6D1RM
+id: REQ-HCYMP00
 type: test-case
 title: "Regression: Battery backup detects safety limits"
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Low
 tags:
   - customer-request
   - accessibility
-parent: INFO-ECHASH
-order: 1330
+former-id: TC-D6D1RM
+parent: REQ-6H15AV2
+order: b18
 links:
   - type: verifies
-    target: SYS-DS9BCD
+    target: REQ-R9KTZAB
     confirmed: 71372d39e051
 ---
 **Objective:** verify that the device behaves as specified.

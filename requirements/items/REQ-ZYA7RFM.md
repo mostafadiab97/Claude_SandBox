@@ -1,18 +1,19 @@
 ---
-id: TC-AHQ3K8
+id: REQ-ZYA7RFM
 type: test-case
 title: "Verify: Zone valve restores the operating mode"
 status: Draft
 priority: High
 owner: R. Nabil
-parent: INFO-MS9DAG
-order: 220
+former-id: TC-AHQ3K8
+parent: REQ-XGWSK2K
+order: aL
 links:
   - type: verifies
-    target: SYS-9QT5AW
+    target: REQ-R47232G
     confirmed: 29ca05a07a2d
   - type: verifies
-    target: SW-6N2S7B
+    target: REQ-7BMF3KR
     confirmed: 19719b00925d
 ---
 **Objective:** verify that the zone valve behaves as specified.

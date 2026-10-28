@@ -1,18 +1,19 @@
 ---
-id: SYS-PF652Q
+id: REQ-EEZQ79J
 type: system-requirement
 title: User account service calibrates energy consumption
 status: Obsolete
 priority: Low
 owner: K. Tanaka
-parent: INFO-YV5EZD
-order: 880
+former-id: SYS-PF652Q
+parent: REQ-RE9ZKHF
+order: b0P
 links:
   - type: refines
-    target: STK-VT1KVD
+    target: REQ-36Y9ND0
     confirmed: fbcfb8475f32
   - type: mitigates
-    target: RSK-Y8NNRK
+    target: REQ-3WNE8Q2
     confirmed: 6f2b17958ae9
 ---
 The user account service shall display humidity values in under 3 s.

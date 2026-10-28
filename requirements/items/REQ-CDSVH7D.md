@@ -1,5 +1,5 @@
 ---
-id: IF-08HG6T
+id: REQ-CDSVH7D
 type: interface-requirement
 title: "Signal 068: the connection state"
 status: Obsolete
@@ -7,7 +7,8 @@ priority: Medium
 owner: N. Kamal
 tags:
   - release-2.0
-parent: INFO-2TM0JP
-order: 680
+former-id: IF-08HG6T
+parent: REQ-RJ0KHPT
+order: b05
 ---
 Interface signal number 68.

@@ -1,5 +1,5 @@
 ---
-id: IF-XQQZ1E
+id: REQ-RKE5H6A
 type: interface-requirement
 title: Backlight notifys audit records
 status: Review
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - connectivity
   - release-2.0
-parent: SYS-TYCMRT
-order: 10
+former-id: IF-XQQZ1E
+parent: REQ-RJXG4JV
+order: a0
 links:
   - type: refines
-    target: SYS-TYCMRT
+    target: REQ-RJXG4JV
     confirmed: cd494a5f904a
 ---
 The status LED shall display relay events for at least 10 years.

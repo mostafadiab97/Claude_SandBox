@@ -1,5 +1,5 @@
 ---
-id: IF-FEXPGH
+id: REQ-D8H0SPZ
 type: interface-requirement
 title: "Signal 308: sensor readings"
 status: Approved
@@ -7,7 +7,8 @@ priority: Medium
 tags:
   - release-2.0
   - release-1.0
-parent: INFO-2TM0JP
-order: 3080
+former-id: IF-FEXPGH
+parent: REQ-RJ0KHPT
+order: b3x
 ---
 Interface signal number 308.

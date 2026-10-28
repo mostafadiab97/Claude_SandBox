@@ -1,15 +1,16 @@
 ---
-id: HW-VS4FDT
+id: REQ-DQBB0MD
 type: hardware-requirement
 title: Enclosure stores the connection state
 status: Approved
 priority: High
 owner: S. Adel
-parent: SYS-84WAA6
-order: 10
+former-id: HW-VS4FDT
+parent: REQ-DDVX1KJ
+order: a0
 links:
   - type: refines
-    target: SYS-84WAA6
+    target: REQ-DDVX1KJ
     confirmed: 34578fd70293
 ---
 The battery backup shall limit schedule entries after a power loss.

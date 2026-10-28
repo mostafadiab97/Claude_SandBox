@@ -1,5 +1,5 @@
 ---
-id: HW-GT5K68
+id: REQ-Z9VQC51
 type: hardware-requirement
 title: Power supply notifys the set point
 status: Review
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - ux
   - power
-parent: SYS-7X9ABB
-order: 10
+former-id: HW-GT5K68
+parent: REQ-EBVBB12
+order: a0
 links:
   - type: refines
-    target: SYS-7X9ABB
+    target: REQ-EBVBB12
     confirmed: eca07da94791
 ---
 The power supply shall log access tokens in all supported languages.

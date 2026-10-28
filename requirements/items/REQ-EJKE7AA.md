@@ -1,5 +1,5 @@
 ---
-id: TC-BJWMZ7
+id: REQ-EJKE7AA
 type: test-case
 title: "Verify: Boiler interface limits audit records"
 status: Draft
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - customer-request
   - safety
-parent: INFO-MS9DAG
-order: 840
+former-id: TC-BJWMZ7
+parent: REQ-XGWSK2K
+order: b0L
 links:
   - type: verifies
-    target: SYS-5EWC97
+    target: REQ-BD7JAPN
     confirmed: 112d894849fe
 ---
 **Objective:** verify that the boiler interface behaves as specified.

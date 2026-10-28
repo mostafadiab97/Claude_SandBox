@@ -1,5 +1,5 @@
 ---
-id: TC-VVAA87
+id: REQ-B2DMW79
 type: test-case
 title: "Verify: Rotary knob encrypts access tokens"
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - customer-request
   - accessibility
-parent: INFO-HTSZ15
-order: 920
+former-id: TC-VVAA87
+parent: REQ-Y9VHHKA
+order: b0T
 links:
   - type: verifies
-    target: SYS-C6PXHJ
+    target: REQ-S76AHNS
     confirmed: 603d88c764e7
 ---
 **Objective:** verify that the rotary knob behaves as specified.

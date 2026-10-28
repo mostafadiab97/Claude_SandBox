@@ -1,5 +1,5 @@
 ---
-id: TC-G8CHN4
+id: REQ-J42F1A1
 type: test-case
 title: "Verify: Heating controller logs access tokens"
 status: Review
@@ -8,14 +8,15 @@ tags:
   - accessibility
   - release-1.0
   - i18n
-parent: INFO-MS9DAG
-order: 920
+former-id: TC-G8CHN4
+parent: REQ-XGWSK2K
+order: b0T
 links:
   - type: verifies
-    target: SYS-X39PY1
+    target: REQ-DCNDFWC
     confirmed: faeb181df037
   - type: verifies
-    target: SW-WHES8A
+    target: REQ-4BA671T
     confirmed: 8f304568f2fd
 ---
 **Objective:** verify that the heating controller behaves as specified.

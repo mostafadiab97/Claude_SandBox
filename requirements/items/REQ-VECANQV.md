@@ -1,19 +1,20 @@
 ---
-id: DEF-KBEXZF
+id: REQ-VECANQV
 type: defect
 title: "Defect: backlight does not restore the operating mode"
 status: Approved
 owner: R. Nabil
 tags:
   - EMC
-parent: INFO-7HY7F9
-order: 70
+former-id: DEF-KBEXZF
+parent: REQ-HFYH0KW
+order: a6
 links:
   - type: relates-to
-    target: TC-9Q2PAR
+    target: REQ-40QCVBT
     confirmed: 6fac3707ae93
   - type: relates-to
-    target: SYS-63GREP
+    target: REQ-20KV4SP
     confirmed: b483aeef9b3f
 ---
 Found during regression testing of build 2.6.8.

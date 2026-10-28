@@ -1,5 +1,5 @@
 ---
-id: SYS-A8AYK0
+id: REQ-Z94YSEP
 type: system-requirement
 title: Schedule editor switchs the room temperature
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - power
   - safety
   - performance
-parent: INFO-2XXBRS
-order: 240
+former-id: SYS-A8AYK0
+parent: REQ-QYXGSQ4
+order: aN
 links:
   - type: refines
-    target: STK-B9Y7CM
+    target: REQ-YGQ30E7
     confirmed: 2e83dea5db22
 ---
 The schedule editor shall authenticate firmware images in all supported languages.

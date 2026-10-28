@@ -1,16 +1,17 @@
 ---
-id: IF-HH8CCD
+id: REQ-N4WEBZ6
 type: interface-requirement
 title: OTA server authenticates relay events
 status: Draft
 owner: محمد علي
 tags:
   - ux
-parent: SYS-SASG4P
-order: 40
+former-id: IF-HH8CCD
+parent: REQ-XEBH9VA
+order: a3
 links:
   - type: refines
-    target: SYS-SASG4P
+    target: REQ-XEBH9VA
     confirmed: 00a1e26f4144
 ---
 The device registry shall notify the operating mode at least once per minute.

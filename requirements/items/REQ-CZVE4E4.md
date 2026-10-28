@@ -1,5 +1,5 @@
 ---
-id: SYS-B92MZT
+id: REQ-CZVE4E4
 type: system-requirement
 title: Tamper detection synchronises firmware images
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - release-2.0
-parent: INFO-0229G8
-order: 1840
+former-id: SYS-B92MZT
+parent: REQ-H9113WA
+order: b1x
 links:
   - type: refines
-    target: STK-G2H1B9
+    target: REQ-Q8ZRB9S
     confirmed: fce33b342585
 ---
 The tamper detection shall encrypt humidity values for up to 8 zones.

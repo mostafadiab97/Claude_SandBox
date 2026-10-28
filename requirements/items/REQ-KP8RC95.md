@@ -1,5 +1,5 @@
 ---
-id: SW-MP066D
+id: REQ-KP8RC95
 type: software-requirement
 title: Pairing process measures firmware images
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: L. Samir
 tags:
   - power
-parent: SYS-YFQ7J9
-order: 10
+former-id: SW-MP066D
+parent: REQ-JMY59GP
+order: a0
 links:
   - type: refines
-    target: SYS-YFQ7J9
+    target: REQ-JMY59GP
     confirmed: 879d2491ed8f
 ---
 The Wi-Fi module shall display schedule entries after a power loss.

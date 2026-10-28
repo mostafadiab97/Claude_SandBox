@@ -1,5 +1,5 @@
 ---
-id: TC-6P5P8K
+id: REQ-1SATCPZ
 type: test-case
 title: "Regression: Encryption layer calibrates the connection state"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: A. Hassan
 tags:
   - security
-parent: INFO-ECHASH
-order: 1760
+former-id: TC-6P5P8K
+parent: REQ-6H15AV2
+order: b1p
 links:
   - type: verifies
-    target: SYS-1HN03J
+    target: REQ-78GKHB3
     confirmed: e85c5bf1399b
 ---
 **Objective:** verify that the device behaves as specified.

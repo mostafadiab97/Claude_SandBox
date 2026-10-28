@@ -1,5 +1,5 @@
 ---
-id: SW-Y0PTMD
+id: REQ-ADQ47E5
 type: software-requirement
 title: Cloud backend detects the room temperature
 status: Draft
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - regulatory
   - accessibility
-parent: SYS-XFVHXG
-order: 30
+former-id: SW-Y0PTMD
+parent: REQ-4BHTWA2
+order: a2
 links:
   - type: refines
-    target: SYS-XFVHXG
+    target: REQ-4BHTWA2
     confirmed: 6ba023b53f4f
 ---
 The cloud backend shall synchronise the room temperature at least once per minute.

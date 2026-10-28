@@ -1,5 +1,5 @@
 ---
-id: IF-X0KMBW
+id: REQ-EXHRQ2T
 type: interface-requirement
 title: "Signal 330: relay events"
 status: Approved
@@ -9,7 +9,8 @@ tags:
   - security
   - customer-request
   - release-2.0
-parent: INFO-2TM0JP
-order: 3300
+former-id: IF-X0KMBW
+parent: REQ-RJ0KHPT
+order: b4J
 ---
 Interface signal number 330.

@@ -1,5 +1,5 @@
 ---
-id: TC-6EEJH9
+id: REQ-SR4MPHF
 type: test-case
 title: "Verify: Enclosure restores the connection state"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - cost
-parent: INFO-MACGC3
-order: 1430
+former-id: TC-6EEJH9
+parent: REQ-F9Z1FYS
+order: b1I
 links:
   - type: verifies
-    target: SYS-DAW84D
+    target: REQ-PE6W47Z
     confirmed: d28364cb190d
 ---
 **Objective:** verify that the enclosure behaves as specified.

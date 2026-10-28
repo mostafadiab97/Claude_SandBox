@@ -1,15 +1,16 @@
 ---
-id: CR-6Q1434
+id: REQ-BXZRGPS
 type: change-request
 title: "CR: extend regulation loop to detect humidity values"
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: INFO-ZBHTYF
-order: 40
+former-id: CR-6Q1434
+parent: REQ-XJDN42Y
+order: a3
 links:
   - type: relates-to
-    target: SYS-RE1KVT
+    target: REQ-WXJQC7F
     confirmed: 33051d32765f
 ---
 Requested by customer support (ticket #16422).

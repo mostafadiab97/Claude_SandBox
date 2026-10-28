@@ -1,5 +1,5 @@
 ---
-id: TC-MHSX1M
+id: REQ-78MGFR2
 type: test-case
 title: "Verify: Regulation loop switchs the operating mode"
 status: Review
@@ -8,14 +8,15 @@ owner: محمد علي
 tags:
   - release-2.0
   - ux
-parent: INFO-MS9DAG
-order: 990
+former-id: TC-MHSX1M
+parent: REQ-XGWSK2K
+order: b0a
 links:
   - type: verifies
-    target: SYS-C1KANF
+    target: REQ-96M023B
     confirmed: c1311b4a3390
   - type: verifies
-    target: SW-KBQ6EC
+    target: REQ-YAFR7KQ
     confirmed: 1aed1bac3759
 ---
 **Objective:** verify that the regulation loop behaves as specified.

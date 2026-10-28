@@ -1,5 +1,5 @@
 ---
-id: SYS-K8NQFV
+id: REQ-QY1DS22
 type: system-requirement
 title: Zone valve measures relay events
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - safety
   - cost
-parent: INFO-6DQTKV
-order: 1760
+former-id: SYS-K8NQFV
+parent: REQ-7ED7ZET
+order: b1p
 links:
   - type: refines
-    target: STK-EFJRJ9
+    target: REQ-6WZCEAT
     confirmed: fc922ec1a72e
 ---
 The zone valve shall report schedule entries within 200 ms.

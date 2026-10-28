@@ -1,5 +1,5 @@
 ---
-id: SW-QRJHSA
+id: REQ-9PPTBCG
 type: software-requirement
 title: Device registry notifys safety limits
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - performance
   - connectivity
   - power
-parent: SYS-0K19ZT
-order: 20
+former-id: SW-QRJHSA
+parent: REQ-NKHMC95
+order: a1
 links:
   - type: refines
-    target: SYS-0K19ZT
+    target: REQ-NKHMC95
     confirmed: 46a84c8b4189
 ---
 The OTA server shall synchronise the connection state without user interaction.

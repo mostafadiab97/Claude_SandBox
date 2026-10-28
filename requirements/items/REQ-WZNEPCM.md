@@ -1,15 +1,16 @@
 ---
-id: HW-43YV30
+id: REQ-WZNEPCM
 type: hardware-requirement
 title: Relay board logs schedule entries
 status: Approved
 priority: Medium
 owner: J. Müller
-parent: SYS-C9V44A
-order: 40
+former-id: HW-43YV30
+parent: REQ-ZJC48D7
+order: a3
 links:
   - type: refines
-    target: SYS-C9V44A
+    target: REQ-ZJC48D7
     confirmed: 884859b61c66
 ---
 The relay board shall log sensor readings when the network is unavailable.

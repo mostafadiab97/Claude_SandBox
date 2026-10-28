@@ -1,5 +1,5 @@
 ---
-id: HW-TF80RP
+id: REQ-A9MHGKY
 type: hardware-requirement
 title: Telemetry pipeline notifys the set point
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: N. Kamal
 tags:
   - security
-parent: SYS-8RS5SX
-order: 40
+former-id: HW-TF80RP
+parent: REQ-MRTEEED
+order: a3
 links:
   - type: refines
-    target: SYS-8RS5SX
+    target: REQ-MRTEEED
     confirmed: 46ee13bca2b0
 ---
 The OTA server shall measure user preferences at least once per minute.

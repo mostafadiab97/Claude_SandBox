@@ -1,14 +1,15 @@
 ---
-id: TC-JKM0AJ
+id: REQ-C7KQHA1
 type: test-case
 title: "Verify: Secure boot measures schedule entries"
 status: Draft
 priority: High
-parent: INFO-Z4TW4B
-order: 690
+former-id: TC-JKM0AJ
+parent: REQ-K6FGAY0
+order: b06
 links:
   - type: verifies
-    target: SYS-EJR3YH
+    target: REQ-5AFTQWT
     confirmed: 7b3dac33b561
 ---
 **Objective:** verify that the secure boot behaves as specified.

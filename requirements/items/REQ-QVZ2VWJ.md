@@ -1,14 +1,15 @@
 ---
-id: TC-BKY4D5
+id: REQ-QVZ2VWJ
 type: test-case
 title: "Verify: Pairing process logs schedule entries"
 status: Approved
 owner: L. Samir
-parent: INFO-F0M7VC
-order: 480
+former-id: TC-BKY4D5
+parent: REQ-67RQXCK
+order: al
 links:
   - type: verifies
-    target: SYS-TKV6VE
+    target: REQ-PQTXAGM
     confirmed: 2a2c879fe6d8
 ---
 **Objective:** verify that the pairing process behaves as specified.

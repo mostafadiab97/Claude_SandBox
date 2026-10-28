@@ -1,5 +1,5 @@
 ---
-id: TC-T245VV
+id: REQ-D68P7RB
 type: test-case
 title: "Regression: Regulation loop synchronises audit records"
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - performance
-parent: INFO-ECHASH
-order: 1140
+former-id: TC-T245VV
+parent: REQ-6H15AV2
+order: b0p
 links:
   - type: verifies
-    target: SYS-5FN1TB
+    target: REQ-ACEDPGP
     confirmed: 52219f23d7ef
 ---
 **Objective:** verify that the device behaves as specified.

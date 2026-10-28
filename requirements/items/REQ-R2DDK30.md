@@ -1,5 +1,5 @@
 ---
-id: SYS-1SK52W
+id: REQ-R2DDK30
 type: system-requirement
 title: Backlight authenticates the operating mode
 status: Review
@@ -7,11 +7,12 @@ owner: S. Adel
 tags:
   - customer-request
   - EMC
-parent: INFO-PDR6FV
-order: 1150
+former-id: SYS-1SK52W
+parent: REQ-2ZA2TRZ
+order: b0q
 links:
   - type: refines
-    target: STK-PCP268
+    target: REQ-DMRJS9A
     confirmed: 74f66b1bb8e8
 ---
 The backlight shall log the set point when the network is unavailable.

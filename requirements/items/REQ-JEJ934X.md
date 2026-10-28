@@ -1,5 +1,5 @@
 ---
-id: IF-TFF349
+id: REQ-JEJ934X
 type: interface-requirement
 title: User account service notifys error conditions
 status: Obsolete
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - connectivity
   - ux
-parent: SYS-27ZRZ6
-order: 30
+former-id: IF-TFF349
+parent: REQ-HZB6Z1A
+order: a2
 links:
   - type: refines
-    target: SYS-27ZRZ6
+    target: REQ-HZB6Z1A
     confirmed: 2208a37cfcbe
 ---
 The telemetry pipeline shall measure humidity values in under 3 s.

@@ -1,15 +1,16 @@
 ---
-id: DE-283MRW
+id: REQ-02ABNPQ
 type: design-element
 title: Module regulation_loop_35
 status: Review
 priority: Medium
 owner: R. Nabil
-parent: SW-X16RV8
-order: 10
+former-id: DE-283MRW
+parent: REQ-N51ESAD
+order: a0
 links:
   - type: implements
-    target: SW-X16RV8
+    target: REQ-N51ESAD
     confirmed: af92f41ebf4b
 ---
 Implemented in `src/heat/regulation_loop.c`.

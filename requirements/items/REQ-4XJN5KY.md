@@ -1,16 +1,17 @@
 ---
-id: SW-P98Z8W
+id: REQ-4XJN5KY
 type: software-requirement
 title: Menu system validates the connection state
 status: Draft
 owner: A. Hassan
 tags:
   - connectivity
-parent: SYS-00WQH9
-order: 10
+former-id: SW-P98Z8W
+parent: REQ-0SY5BMS
+order: a0
 links:
   - type: refines
-    target: SYS-00WQH9
+    target: REQ-0SY5BMS
     confirmed: 5df07efae901
 ---
 The menu system shall detect the connection state within 200 ms.

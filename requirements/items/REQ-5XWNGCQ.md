@@ -1,5 +1,5 @@
 ---
-id: HW-6M2NAZ
+id: REQ-5XWNGCQ
 type: hardware-requirement
 title: Backlight calibrates sensor readings
 status: Review
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - power
   - regulatory
-parent: SYS-7Q4FYP
-order: 10
+former-id: HW-6M2NAZ
+parent: REQ-RBJSQM3
+order: a0
 links:
   - type: refines
-    target: SYS-7Q4FYP
+    target: REQ-RBJSQM3
     confirmed: af798c8aaa0c
 ---
 The backlight shall encrypt the operating mode in all supported languages.

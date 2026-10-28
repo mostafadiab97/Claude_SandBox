@@ -1,5 +1,5 @@
 ---
-id: SYS-N56168
+id: REQ-2QERQ97
 type: system-requirement
 title: Relay board restores relay events
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 owner: H. Mostafa
 tags:
   - power
-parent: INFO-A6P9A8
-order: 1380
+former-id: SYS-N56168
+parent: REQ-CMCS31A
+order: b1D
 links:
   - type: refines
-    target: STK-TT8FXG
+    target: REQ-S1GZKZX
     confirmed: 85d87c7e9a76
 ---
 The relay board shall notify access tokens below 0.5 W in standby.

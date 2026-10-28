@@ -1,5 +1,5 @@
 ---
-id: SW-EBZFGS
+id: REQ-CCWRND9
 type: software-requirement
 title: Notify firmware images — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - safety
   - performance
-parent: SW-S9VAGC
-order: 10
+former-id: SW-EBZFGS
+parent: REQ-CFK8B7W
+order: a0
 links:
   - type: refines
-    target: SW-S9VAGC
+    target: REQ-CFK8B7W
     confirmed: 68b2b15ce1a7
 ---
 The regulation loop shall restore safety limits after a power loss.

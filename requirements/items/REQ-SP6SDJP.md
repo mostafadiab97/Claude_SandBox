@@ -1,5 +1,5 @@
 ---
-id: IF-NC3WG0
+id: REQ-SP6SDJP
 type: interface-requirement
 title: Touch display limits audit records
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: S. Adel
 tags:
   - accessibility
-parent: SYS-3P41N6
-order: 20
+former-id: IF-NC3WG0
+parent: REQ-X89XFR8
+order: a1
 links:
   - type: refines
-    target: SYS-3P41N6
+    target: REQ-X89XFR8
     confirmed: 6d3c703cd5e8
 ---
 The menu system shall store access tokens after a power loss.

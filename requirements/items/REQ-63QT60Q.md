@@ -1,5 +1,5 @@
 ---
-id: TC-KGK67Q
+id: REQ-63QT60Q
 type: test-case
 title: Hub verification 20
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: A. Hassan
 tags:
   - customer-request
-parent: INFO-ECHASH
-order: 290
+former-id: TC-KGK67Q
+parent: REQ-6H15AV2
+order: aS
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

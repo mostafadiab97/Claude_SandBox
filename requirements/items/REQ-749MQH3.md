@@ -1,5 +1,5 @@
 ---
-id: SW-A1MR5H
+id: REQ-749MQH3
 type: software-requirement
 title: Notification service stores access tokens
 status: Obsolete
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - connectivity
   - security
-parent: SYS-QDWM3F
-order: 20
+former-id: SW-A1MR5H
+parent: REQ-E75SXGC
+order: a1
 links:
   - type: refines
-    target: SYS-QDWM3F
+    target: REQ-E75SXGC
     confirmed: 6815e3fba85c
 ---
 The home dashboard shall store user preferences for up to 8 zones.

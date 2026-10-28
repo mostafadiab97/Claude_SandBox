@@ -1,15 +1,16 @@
 ---
-id: SW-ZVGGME
+id: REQ-4DHB4XB
 type: software-requirement
 title: Menu system detects access tokens
 status: Draft
 priority: Low
 owner: L. Samir
-parent: SYS-9YBZ5V
-order: 20
+former-id: SW-ZVGGME
+parent: REQ-S8AK061
+order: a1
 links:
   - type: refines
-    target: SYS-9YBZ5V
+    target: REQ-S8AK061
     confirmed: 50bd568ec960
 ---
 The rotary knob shall validate audit records within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: HW-B8HNZZ
+id: REQ-ZVPKH8A
 type: hardware-requirement
 title: Cloud backend displays access tokens
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: L. Samir
 tags:
   - security
-parent: SYS-5KZ5DB
-order: 10
+former-id: HW-B8HNZZ
+parent: REQ-WFWMCHR
+order: a0
 links:
   - type: refines
-    target: SYS-5KZ5DB
+    target: REQ-WFWMCHR
     confirmed: cd9a0ffd7c50
 ---
 The cloud backend shall validate the operating mode for up to 8 zones.

@@ -1,5 +1,5 @@
 ---
-id: IF-VAR3XV
+id: REQ-77F4PA2
 type: interface-requirement
 title: "Signal 363: the room temperature"
 status: Draft
@@ -8,7 +8,8 @@ owner: H. Mostafa
 tags:
   - ux
   - cost
-parent: INFO-2TM0JP
-order: 3630
+former-id: IF-VAR3XV
+parent: REQ-RJ0KHPT
+order: b4q
 ---
 Interface signal number 363.

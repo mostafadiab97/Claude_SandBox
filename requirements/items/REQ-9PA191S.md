@@ -1,13 +1,14 @@
 ---
-id: SW-HGQW2K
+id: REQ-9PA191S
 type: software-requirement
 title: Limit audit records — detail
 status: Approved
-parent: SW-C295KT
-order: 10
+former-id: SW-HGQW2K
+parent: REQ-5NS3G37
+order: a0
 links:
   - type: refines
-    target: SW-C295KT
+    target: REQ-5NS3G37
     confirmed: 805eac7a90c1
 ---
 The mobile app shall validate access tokens using AES-256-GCM.

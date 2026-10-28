@@ -1,15 +1,16 @@
 ---
-id: IF-3JZPJM
+id: REQ-Y4JECDD
 type: interface-requirement
 title: Watchdog authenticates safety limits
 status: Review
 priority: Medium
 owner: محمد علي
-parent: SYS-2TCHQB
-order: 10
+former-id: IF-3JZPJM
+parent: REQ-ECC9ESP
+order: a0
 links:
   - type: refines
-    target: SYS-2TCHQB
+    target: REQ-ECC9ESP
     confirmed: d50f8cfb5fb0
 ---
 The tamper detection shall log firmware images at least once per minute.

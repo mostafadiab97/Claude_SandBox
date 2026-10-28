@@ -1,5 +1,5 @@
 ---
-id: SYS-ZS700Y
+id: REQ-2XAQ8RA
 type: system-requirement
 title: Encryption layer displays the set point
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - connectivity
   - ux
   - release-2.0
-parent: INFO-0229G8
-order: 960
+former-id: SYS-ZS700Y
+parent: REQ-H9113WA
+order: b0X
 links:
   - type: refines
-    target: STK-B4ZH98
+    target: REQ-PGNNV26
     confirmed: c19c22627f21
 ---
 The encryption layer shall encrypt error conditions when the network is unavailable.

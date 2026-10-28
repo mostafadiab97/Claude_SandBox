@@ -1,5 +1,5 @@
 ---
-id: DEF-HKES3C
+id: REQ-CQF7VJJ
 type: defect
 title: "Defect: status LED does not calibrate the connection state"
 status: Draft
@@ -7,14 +7,15 @@ owner: M. Farouk
 tags:
   - performance
   - ux
-parent: INFO-7HY7F9
-order: 140
+former-id: DEF-HKES3C
+parent: REQ-HFYH0KW
+order: aD
 links:
   - type: relates-to
-    target: TC-QGG4X6
+    target: REQ-J743EVC
     confirmed: b5a126e93b63
   - type: relates-to
-    target: SYS-D5BE23
+    target: REQ-AYKW2SY
     confirmed: 909e2792e686
 ---
 Found during regression testing of build 2.3.26.

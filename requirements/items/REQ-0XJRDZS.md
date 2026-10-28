@@ -1,15 +1,16 @@
 ---
-id: SW-689012
+id: REQ-0XJRDZS
 type: software-requirement
 title: Telemetry pipeline detects access tokens
 status: Approved
 priority: High
 owner: É. Laurent
-parent: SYS-GK8E6S
-order: 10
+former-id: SW-689012
+parent: REQ-PRHYJ2F
+order: a0
 links:
   - type: refines
-    target: SYS-GK8E6S
+    target: REQ-PRHYJ2F
     confirmed: 3497825150a9
 ---
 The telemetry pipeline shall notify sensor readings at least once per minute.

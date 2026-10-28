@@ -1,5 +1,5 @@
 ---
-id: SW-20KKJR
+id: REQ-W6XMEBV
 type: software-requirement
 title: Device registry synchronises user preferences
 status: Review
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - cost
   - customer-request
-parent: SYS-6MTAQR
-order: 20
+former-id: SW-20KKJR
+parent: REQ-H1HVVK4
+order: a1
 links:
   - type: refines
-    target: SYS-6MTAQR
+    target: REQ-H1HVVK4
     confirmed: 76300eb27743
 ---
 The device registry shall report access tokens with an accuracy of ±0.5 °C.

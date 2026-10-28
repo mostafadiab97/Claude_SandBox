@@ -1,5 +1,5 @@
 ---
-id: TC-5MZNA0
+id: REQ-B9SGES8
 type: test-case
 title: "Verify: Device registry switchs the connection state"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - i18n
   - safety
   - security
-parent: INFO-7P4D8D
-order: 1600
+former-id: TC-5MZNA0
+parent: REQ-8351896
+order: b1Z
 links:
   - type: verifies
-    target: SYS-E60WCX
+    target: REQ-SDZFT6Q
     confirmed: 52a4389d660e
 ---
 **Objective:** verify that the device registry behaves as specified.

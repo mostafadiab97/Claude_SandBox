@@ -1,14 +1,15 @@
 ---
-id: HW-84R0C3
+id: REQ-V9W7TTB
 type: hardware-requirement
 title: Switch relay events — detail
 status: Approved
 priority: High
-parent: HW-TMG1CN
-order: 10
+former-id: HW-84R0C3
+parent: REQ-QE6BSYF
+order: a0
 links:
   - type: refines
-    target: HW-TMG1CN
+    target: REQ-QE6BSYF
     confirmed: f0a590c223fa
 ---
 The touch display shall validate safety limits for at least 10 years.

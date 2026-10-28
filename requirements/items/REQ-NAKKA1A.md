@@ -1,5 +1,5 @@
 ---
-id: SYS-7W8YGY
+id: REQ-NAKKA1A
 type: system-requirement
 title: Bluetooth LE link synchronises the set point
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - cost
   - power
-parent: INFO-NRVHA2
-order: 1670
+former-id: SYS-7W8YGY
+parent: REQ-6R94HFM
+order: b1g
 links:
   - type: refines
-    target: STK-GMCKMF
+    target: REQ-5EJHVJ8
     confirmed: f47328374a2b
 ---
 The Bluetooth LE link shall restore energy consumption in all supported languages.

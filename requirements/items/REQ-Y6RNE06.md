@@ -1,5 +1,5 @@
 ---
-id: IF-MJF96P
+id: REQ-Y6RNE06
 type: interface-requirement
 title: Power supply calibrates user preferences
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - EMC
   - performance
-parent: SYS-RK543Q
-order: 10
+former-id: IF-MJF96P
+parent: REQ-4BYNG6Z
+order: a0
 links:
   - type: refines
-    target: SYS-RK543Q
+    target: REQ-4BYNG6Z
     confirmed: fe331aa72f1d
 ---
 The main PCB shall encrypt user preferences after a power loss.

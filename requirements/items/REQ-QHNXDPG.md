@@ -1,15 +1,16 @@
 ---
-id: SW-WY8PBH
+id: REQ-QHNXDPG
 type: software-requirement
 title: Calibrate relay events — detail
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: SW-HRH6Q5
-order: 10
+former-id: SW-WY8PBH
+parent: REQ-42P5E65
+order: a0
 links:
   - type: refines
-    target: SW-HRH6Q5
+    target: REQ-42P5E65
     confirmed: 7cb421d9f7e5
 ---
 The mobile app shall store user preferences using AES-256-GCM.

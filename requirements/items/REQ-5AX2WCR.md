@@ -1,14 +1,15 @@
 ---
-id: TC-X9P5F4
+id: REQ-5AX2WCR
 type: test-case
 title: "Verify: Zigbee radio measures the operating mode"
 status: Approved
 priority: Medium
-parent: INFO-F0M7VC
-order: 1460
+former-id: TC-X9P5F4
+parent: REQ-67RQXCK
+order: b1L
 links:
   - type: verifies
-    target: SYS-SPX676
+    target: REQ-VARSTZG
     confirmed: c915b489dd1f
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

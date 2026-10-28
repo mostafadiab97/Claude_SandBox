@@ -1,15 +1,16 @@
 ---
-id: DE-FY7KA5
+id: REQ-XKA7NT7
 type: design-element
 title: Module Bluetooth_LE_link_33
 status: Obsolete
 priority: Medium
 owner: L. Samir
-parent: SW-ME792H
-order: 10
+former-id: DE-FY7KA5
+parent: REQ-4RTEDT7
+order: a0
 links:
   - type: implements
-    target: SW-ME792H
+    target: REQ-4RTEDT7
     confirmed: 838d8d76f9cf
 ---
 Implemented in `src/conn/Bluetooth_LE_link.c`.

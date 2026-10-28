@@ -1,5 +1,5 @@
 ---
-id: IF-MQAWCM
+id: REQ-BZQS9MG
 type: interface-requirement
 title: Secure boot reports safety limits
 status: Draft
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - regulatory
   - EMC
-parent: SYS-V7ZK4B
-order: 10
+former-id: IF-MQAWCM
+parent: REQ-EJBN4HC
+order: a0
 links:
   - type: refines
-    target: SYS-V7ZK4B
+    target: REQ-EJBN4HC
     confirmed: d3ae0a8a942d
 ---
 The watchdog shall display schedule entries within 200 ms.

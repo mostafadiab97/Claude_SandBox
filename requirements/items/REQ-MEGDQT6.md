@@ -1,18 +1,19 @@
 ---
-id: TC-C80ADT
+id: REQ-MEGDQT6
 type: test-case
 title: "Verify: Regulation loop authenticates access tokens"
 status: Obsolete
 priority: Medium
 owner: Y. Saber
-parent: INFO-MS9DAG
-order: 630
+former-id: TC-C80ADT
+parent: REQ-XGWSK2K
+order: b00
 links:
   - type: verifies
-    target: SYS-GCSJ6X
+    target: REQ-GYWFQBZ
     confirmed: bc98a50160a3
   - type: verifies
-    target: SW-MGBSAX
+    target: REQ-M552WMH
     confirmed: bb0b38fdb7a5
 ---
 **Objective:** verify that the regulation loop behaves as specified.

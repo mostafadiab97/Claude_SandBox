@@ -1,19 +1,20 @@
 ---
-id: TC-0V28A3
+id: REQ-JMEWYHT
 type: test-case
 title: "Verify: Status LED restores audit records"
 status: Approved
 priority: Medium
 tags:
   - power
-parent: INFO-HTSZ15
-order: 100
+former-id: TC-0V28A3
+parent: REQ-Y9VHHKA
+order: a9
 links:
   - type: verifies
-    target: SYS-6GCZ5P
+    target: REQ-DF485Z2
     confirmed: d0b47df35e0a
   - type: verifies
-    target: SW-GE2P45
+    target: REQ-6H34P9K
     confirmed: 17b26ef78c68
 ---
 **Objective:** verify that the status LED behaves as specified.

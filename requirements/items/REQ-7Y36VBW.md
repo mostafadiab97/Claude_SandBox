@@ -1,14 +1,15 @@
 ---
-id: HW-VX4TQ8
+id: REQ-7Y36VBW
 type: hardware-requirement
 title: Over-temperature monitor reports the connection state
 status: Approved
 priority: Low
-parent: SYS-2C5AG5
-order: 40
+former-id: HW-VX4TQ8
+parent: REQ-TM6AFX9
+order: a3
 links:
   - type: refines
-    target: SYS-2C5AG5
+    target: REQ-TM6AFX9
     confirmed: f015c93439ed
 ---
 The secure boot shall switch sensor readings at least once per minute.

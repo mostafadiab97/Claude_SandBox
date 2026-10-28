@@ -1,14 +1,15 @@
 ---
-id: SW-H3T1NT
+id: REQ-13TCDNE
 type: software-requirement
 title: Cloud backend logs audit records
 status: Approved
 priority: Low
-parent: SYS-K70KRX
-order: 30
+former-id: SW-H3T1NT
+parent: REQ-XEEWBZC
+order: a2
 links:
   - type: refines
-    target: SYS-K70KRX
+    target: REQ-XEEWBZC
     confirmed: 0aa34a333db0
 ---
 The telemetry pipeline shall limit sensor readings at least once per minute.

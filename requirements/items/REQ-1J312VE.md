@@ -1,5 +1,5 @@
 ---
-id: TC-MAETV5
+id: REQ-1J312VE
 type: test-case
 title: "Regression: Touch display notifys firmware images"
 status: Draft
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - i18n
   - connectivity
-parent: INFO-ECHASH
-order: 620
+former-id: TC-MAETV5
+parent: REQ-6H15AV2
+order: az
 links:
   - type: verifies
-    target: SYS-76BVFJ
+    target: REQ-N13Q3PD
     confirmed: 3214f1c9f970
 ---
 **Objective:** verify that the device behaves as specified.

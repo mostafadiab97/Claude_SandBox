@@ -1,14 +1,15 @@
 ---
-id: HW-221Y0Z
+id: REQ-5VY08MJ
 type: hardware-requirement
 title: Watchdog encrypts the connection state
 status: Review
 owner: K. Tanaka
-parent: SYS-KGMJR6
-order: 10
+former-id: HW-221Y0Z
+parent: REQ-3WETC0K
+order: a0
 links:
   - type: refines
-    target: SYS-KGMJR6
+    target: REQ-3WETC0K
     confirmed: 173f8dfb735a
 ---
 The watchdog shall limit humidity values when the network is unavailable.

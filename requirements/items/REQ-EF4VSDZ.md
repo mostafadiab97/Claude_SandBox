@@ -1,18 +1,19 @@
 ---
-id: TC-TAQ8E2
+id: REQ-EF4VSDZ
 type: test-case
 title: "Verify: Mobile app logs audit records"
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: INFO-J0FETE
-order: 1180
+former-id: TC-TAQ8E2
+parent: REQ-WR5ZJN9
+order: b0t
 links:
   - type: verifies
-    target: SYS-RZKYW5
+    target: REQ-QCTQNWF
     confirmed: 7688feffffa3
   - type: verifies
-    target: SW-R2ANQB
+    target: REQ-SHPD9A7
     confirmed: bece0b29d288
 ---
 **Objective:** verify that the mobile app behaves as specified.

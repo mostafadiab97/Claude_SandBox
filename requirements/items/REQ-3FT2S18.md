@@ -1,5 +1,5 @@
 ---
-id: IF-D5QW6E
+id: REQ-3FT2S18
 type: interface-requirement
 title: Validate firmware images — detail
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - cost
   - connectivity
   - ux
-parent: IF-JEXCH8
-order: 10
+former-id: IF-D5QW6E
+parent: REQ-SKD01PM
+order: a0
 links:
   - type: refines
-    target: IF-JEXCH8
+    target: REQ-SKD01PM
     confirmed: e32c152d4abb
 ---
 The menu system shall encrypt the room temperature without user interaction.

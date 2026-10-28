@@ -1,5 +1,5 @@
 ---
-id: IF-YEV2AF
+id: REQ-PZ3H6ZG
 type: interface-requirement
 title: Telemetry pipeline displays access tokens
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: J. Müller
 tags:
   - performance
-parent: SYS-RAASTZ
-order: 30
+former-id: IF-YEV2AF
+parent: REQ-QMFR7EA
+order: a2
 links:
   - type: refines
-    target: SYS-RAASTZ
+    target: REQ-QMFR7EA
     confirmed: 6b0c923b5313
 ---
 The OTA server shall measure access tokens with an accuracy of ±0.5 °C.

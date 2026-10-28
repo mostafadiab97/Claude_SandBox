@@ -1,15 +1,16 @@
 ---
-id: SW-CBSX5J
+id: REQ-GYVHFSX
 type: software-requirement
 title: Heating controller authenticates humidity values
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: SYS-6B3TJP
-order: 30
+former-id: SW-CBSX5J
+parent: REQ-7FSGQXD
+order: a2
 links:
   - type: refines
-    target: SYS-6B3TJP
+    target: REQ-7FSGQXD
     confirmed: e1f0da4672bf
 ---
 The regulation loop shall report safety limits when the network is unavailable.

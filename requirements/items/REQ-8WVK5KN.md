@@ -1,5 +1,5 @@
 ---
-id: SYS-3JPXMD
+id: REQ-8WVK5KN
 type: system-requirement
 title: Schedule editor detects energy consumption
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - release-2.0
   - accessibility
-parent: INFO-2XXBRS
-order: 1580
+former-id: SYS-3JPXMD
+parent: REQ-QYXGSQ4
+order: b1X
 links:
   - type: refines
-    target: STK-F8MTPC
+    target: REQ-1ZYN1HD
     confirmed: bbf5b4f56657
 ---
 The schedule editor shall measure humidity values for up to 8 zones.

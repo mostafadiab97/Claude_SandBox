@@ -1,5 +1,5 @@
 ---
-id: SW-CWY7CJ
+id: REQ-3STGGGV
 type: software-requirement
 title: Backlight displays the operating mode
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: H. Mostafa
 tags:
   - safety
-parent: SYS-97KT0W
-order: 30
+former-id: SW-CWY7CJ
+parent: REQ-7A0DC7K
+order: a2
 links:
   - type: refines
-    target: SYS-97KT0W
+    target: REQ-7A0DC7K
     confirmed: 26b3fcad096f
 ---
 The touch display shall restore energy consumption in under 3 s.

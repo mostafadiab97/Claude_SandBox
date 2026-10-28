@@ -1,5 +1,5 @@
 ---
-id: UC-MNAGE1
+id: REQ-B0FR45M
 type: use-case
 title: "UC: Switch firmware images with the login screen"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: N. Kamal
 tags:
   - i18n
-parent: INFO-QHXQWK
-order: 170
+former-id: UC-MNAGE1
+parent: REQ-N3B9NZ4
+order: aD
 links:
   - type: relates-to
-    target: STK-HBX3YS
+    target: REQ-S86K9Q8
     confirmed: b42a2f94d25d
 ---
 **Actor:** home owner

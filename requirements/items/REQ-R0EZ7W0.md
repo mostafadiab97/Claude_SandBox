@@ -1,5 +1,5 @@
 ---
-id: SYS-B2837M
+id: REQ-R0EZ7W0
 type: system-requirement
 title: Local API authenticates sensor readings
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: S. Adel
 tags:
   - safety
-parent: INFO-NRVHA2
-order: 1200
+former-id: SYS-B2837M
+parent: REQ-6R94HFM
+order: b0v
 links:
   - type: refines
-    target: STK-Q9RBYT
+    target: REQ-B31NWSC
     confirmed: a67c8b718d88
 ---
 The local API shall notify access tokens for at least 10 years.

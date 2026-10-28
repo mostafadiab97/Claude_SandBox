@@ -1,15 +1,16 @@
 ---
-id: TC-JHVNYA
+id: REQ-X1WC19K
 type: test-case
 title: "Regression: Encryption layer switchs the room temperature"
 status: Approved
 priority: High
 owner: A. Hassan
-parent: INFO-ECHASH
-order: 1520
+former-id: TC-JHVNYA
+parent: REQ-6H15AV2
+order: b1R
 links:
   - type: verifies
-    target: SYS-BBX6H4
+    target: REQ-FN2JXAS
     confirmed: eea34ba9a0b3
 ---
 **Objective:** verify that the device behaves as specified.

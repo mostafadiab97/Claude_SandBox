@@ -1,5 +1,5 @@
 ---
-id: TC-MYKEKV
+id: REQ-21FX0Q9
 type: test-case
 title: "Verify: Touch display limits the connection state"
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - accessibility
   - security
-parent: INFO-HTSZ15
-order: 1170
+former-id: TC-MYKEKV
+parent: REQ-Y9VHHKA
+order: b0s
 links:
   - type: verifies
-    target: SYS-NN047S
+    target: REQ-6Q0RGTQ
     confirmed: 44642ef24cf7
 ---
 **Objective:** verify that the touch display behaves as specified.

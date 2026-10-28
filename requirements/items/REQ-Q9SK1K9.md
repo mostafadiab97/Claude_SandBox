@@ -1,5 +1,5 @@
 ---
-id: TC-HP128S
+id: REQ-Q9SK1K9
 type: test-case
 title: "Verify: Encryption layer encrypts the operating mode"
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - customer-request
   - power
   - safety
-parent: INFO-Z4TW4B
-order: 1100
+former-id: TC-HP128S
+parent: REQ-K6FGAY0
+order: b0l
 links:
   - type: verifies
-    target: SYS-TTBBAW
+    target: REQ-RT54X0B
     confirmed: 219ba032e325
 ---
 **Objective:** verify that the encryption layer behaves as specified.

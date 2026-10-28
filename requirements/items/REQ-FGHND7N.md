@@ -1,5 +1,5 @@
 ---
-id: SYS-3FB1DA
+id: REQ-FGHND7N
 type: system-requirement
 title: Telemetry pipeline detects error conditions
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - release-1.0
   - accessibility
   - power
-parent: INFO-YV5EZD
-order: 340
+former-id: SYS-3FB1DA
+parent: REQ-RE9ZKHF
+order: aX
 links:
   - type: refines
-    target: STK-Y5PMTC
+    target: REQ-FPBMKN9
     confirmed: 047439fb0db8
 ---
 The telemetry pipeline shall restore the room temperature after a power loss.

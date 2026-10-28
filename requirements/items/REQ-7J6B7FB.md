@@ -1,5 +1,5 @@
 ---
-id: HW-MCTF70
+id: REQ-7J6B7FB
 type: hardware-requirement
 title: Enclosure synchronises error conditions
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - connectivity
   - regulatory
   - release-1.0
-parent: SYS-9W5PJ5
-order: 30
+former-id: HW-MCTF70
+parent: REQ-QT9ZQ3W
+order: a2
 links:
   - type: refines
-    target: SYS-9W5PJ5
+    target: REQ-QT9ZQ3W
     confirmed: f35119afdb2b
 ---
 The enclosure shall restore audit records for up to 8 zones.

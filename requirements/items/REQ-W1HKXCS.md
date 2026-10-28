@@ -1,5 +1,5 @@
 ---
-id: TC-5AMCAR
+id: REQ-W1HKXCS
 type: test-case
 title: "Regression: Schedule editor measures safety limits"
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: M. Farouk
 tags:
   - safety
-parent: INFO-ECHASH
-order: 970
+former-id: TC-5AMCAR
+parent: REQ-6H15AV2
+order: b0Y
 links:
   - type: verifies
-    target: SYS-5T7DGP
+    target: REQ-DG88HFJ
     confirmed: 65eb9c0bc016
 ---
 **Objective:** verify that the device behaves as specified.

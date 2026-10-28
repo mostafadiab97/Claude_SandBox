@@ -1,15 +1,16 @@
 ---
-id: SW-WYCN3E
+id: REQ-WKXPQ7C
 type: software-requirement
 title: Cloud backend stores humidity values
 status: Draft
 priority: High
 owner: Y. Saber
-parent: SYS-PYK237
-order: 20
+former-id: SW-WYCN3E
+parent: REQ-NRJAH0X
+order: a1
 links:
   - type: refines
-    target: SYS-PYK237
+    target: REQ-NRJAH0X
     confirmed: 8258f49e00ae
 ---
 The device registry shall encrypt firmware images for up to 8 zones.

@@ -1,5 +1,5 @@
 ---
-id: TC-PFTAJJ
+id: REQ-2MWMMTY
 type: test-case
 title: "Verify: Boiler interface detects schedule entries"
 status: Review
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - cost
   - customer-request
-parent: INFO-MS9DAG
-order: 140
+former-id: TC-PFTAJJ
+parent: REQ-XGWSK2K
+order: aD
 links:
   - type: verifies
-    target: SYS-FMC0YD
+    target: REQ-QWGMBHE
     confirmed: de721eeebf34
 ---
 **Objective:** verify that the boiler interface behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: TC-KQ3HVH
+id: REQ-4MP42P8
 type: test-case
 title: "Verify: Schedule editor encrypts the room temperature"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - performance
   - connectivity
   - release-1.0
-parent: INFO-J0FETE
-order: 1270
+former-id: TC-KQ3HVH
+parent: REQ-WR5ZJN9
+order: b12
 links:
   - type: verifies
-    target: SYS-3V1R9W
+    target: REQ-A61RRS8
     confirmed: 36b7913e764d
 ---
 **Objective:** verify that the schedule editor behaves as specified.

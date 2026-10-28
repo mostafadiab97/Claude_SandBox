@@ -1,5 +1,5 @@
 ---
-id: SYS-AXK7J9
+id: REQ-6JEC1MF
 type: system-requirement
 title: Enclosure stores the room temperature
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - power
   - release-2.0
   - release-1.0
-parent: INFO-A6P9A8
-order: 2240
+former-id: SYS-AXK7J9
+parent: REQ-CMCS31A
+order: b2b
 links:
   - type: refines
-    target: STK-JAQHJP
+    target: REQ-V8PT5BV
     confirmed: b0af11a5c3c2
 ---
 The enclosure shall authenticate schedule entries at least once per minute.

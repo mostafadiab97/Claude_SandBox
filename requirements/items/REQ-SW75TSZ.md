@@ -1,14 +1,15 @@
 ---
-id: HW-ERQREG
+id: REQ-SW75TSZ
 type: hardware-requirement
 title: Menu system logs the set point
 status: Review
 priority: Medium
-parent: SYS-FC1AYV
-order: 20
+former-id: HW-ERQREG
+parent: REQ-VVSCHQ0
+order: a1
 links:
   - type: refines
-    target: SYS-FC1AYV
+    target: REQ-VVSCHQ0
     confirmed: eb5c3ea75cd1
 ---
 The status LED shall calibrate energy consumption for at least 10 years.

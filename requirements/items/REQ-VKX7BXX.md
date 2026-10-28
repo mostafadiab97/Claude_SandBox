@@ -1,15 +1,16 @@
 ---
-id: SYS-RZ204B
+id: REQ-VKX7BXX
 type: system-requirement
 title: Secure boot authenticates the set point
 status: Approved
 priority: High
 owner: Y. Saber
-parent: INFO-0229G8
-order: 830
+former-id: SYS-RZ204B
+parent: REQ-H9113WA
+order: b0K
 links:
   - type: refines
-    target: STK-92HHJV
+    target: REQ-Z7761RK
     confirmed: 260bd01800c6
 ---
 The secure boot shall display user preferences after a power loss.

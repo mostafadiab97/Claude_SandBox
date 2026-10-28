@@ -1,5 +1,5 @@
 ---
-id: SYS-6QAARD
+id: REQ-KQ7SN5H
 type: system-requirement
 title: Zone valve encrypts humidity values
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - cost
   - performance
   - customer-request
-parent: INFO-6DQTKV
-order: 500
+former-id: SYS-6QAARD
+parent: REQ-7ED7ZET
+order: an
 links:
   - type: refines
-    target: STK-AA05P4
+    target: REQ-REA5VGA
     confirmed: e2bec3bcd11c
 ---
 The zone valve shall detect access tokens at least once per minute.

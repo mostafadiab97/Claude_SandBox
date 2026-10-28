@@ -1,14 +1,15 @@
 ---
-id: HW-D6JKPY
+id: REQ-0H3CC8Y
 type: hardware-requirement
 title: Local API stores the operating mode
 status: Approved
 owner: محمد علي
-parent: SYS-WYF7D8
-order: 20
+former-id: HW-D6JKPY
+parent: REQ-9FPN2X9
+order: a1
 links:
   - type: refines
-    target: SYS-WYF7D8
+    target: REQ-9FPN2X9
     confirmed: 40dbdbb8a1de
 ---
 The local API shall restore relay events after a power loss.

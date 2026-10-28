@@ -1,5 +1,5 @@
 ---
-id: SYS-8FK5CW
+id: REQ-1XQXMWT
 type: system-requirement
 title: Encryption layer displays the operating mode
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - release-2.0
   - connectivity
-parent: INFO-0229G8
-order: 890
+former-id: SYS-8FK5CW
+parent: REQ-H9113WA
+order: b0Q
 links:
   - type: refines
-    target: STK-7X7S81
+    target: REQ-N96QXC6
     confirmed: 0b0c08c75491
 ---
 The encryption layer shall synchronise firmware images using AES-256-GCM.

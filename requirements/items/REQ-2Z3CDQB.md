@@ -1,5 +1,5 @@
 ---
-id: SW-7DYY7E
+id: REQ-2Z3CDQB
 type: software-requirement
 title: Mobile app authenticates access tokens
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - safety
   - ux
-parent: SYS-P05AE4
-order: 10
+former-id: SW-7DYY7E
+parent: REQ-BCZ6972
+order: a0
 links:
   - type: refines
-    target: SYS-P05AE4
+    target: REQ-BCZ6972
     confirmed: 53c0872f8a94
 ---
 The login screen shall synchronise the connection state for at least 10 years.

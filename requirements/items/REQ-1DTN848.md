@@ -1,15 +1,16 @@
 ---
-id: SW-PPTXQK
+id: REQ-1DTN848
 type: software-requirement
 title: Mobile app switchs sensor readings
 status: Approved
 priority: Low
 owner: N. Kamal
-parent: SYS-TETJ5F
-order: 20
+former-id: SW-PPTXQK
+parent: REQ-2JC31WQ
+order: a1
 links:
   - type: refines
-    target: SYS-TETJ5F
+    target: REQ-2JC31WQ
     confirmed: c924d6e8986e
 ---
 The notification service shall notify user preferences at least once per minute.

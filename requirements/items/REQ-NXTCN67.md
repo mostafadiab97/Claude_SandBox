@@ -1,15 +1,16 @@
 ---
-id: SYS-T58ZF0
+id: REQ-NXTCN67
 type: system-requirement
 title: Wi-Fi module authenticates the operating mode
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: INFO-NRVHA2
-order: 1650
+former-id: SYS-T58ZF0
+parent: REQ-6R94HFM
+order: b1e
 links:
   - type: refines
-    target: STK-F7D2QS
+    target: REQ-7JDZJ5E
     confirmed: bd8a3050a12b
 ---
 The Wi-Fi module shall display audit records when the network is unavailable.

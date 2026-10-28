@@ -1,5 +1,5 @@
 ---
-id: SW-SK3S3V
+id: REQ-8S723QD
 type: software-requirement
 title: Secure boot synchronises the set point
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - cost
   - i18n
-parent: SYS-ZAZTW7
-order: 20
+former-id: SW-SK3S3V
+parent: REQ-6HWZA41
+order: a1
 links:
   - type: refines
-    target: SYS-ZAZTW7
+    target: REQ-6HWZA41
     confirmed: d837048ec1c4
 ---
 The secure boot shall report energy consumption within 200 ms.

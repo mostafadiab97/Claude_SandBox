@@ -1,5 +1,5 @@
 ---
-id: SW-87EW4E
+id: REQ-BPW5VFY
 type: software-requirement
 title: Over-temperature monitor detects access tokens
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - customer-request
   - release-2.0
-parent: SYS-BBX6H4
-order: 10
+former-id: SW-87EW4E
+parent: REQ-FN2JXAS
+order: a0
 links:
   - type: refines
-    target: SYS-BBX6H4
+    target: REQ-FN2JXAS
     confirmed: eea34ba9a0b3
 ---
 The encryption layer shall limit sensor readings for at least 10 years.

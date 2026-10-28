@@ -1,5 +1,5 @@
 ---
-id: SYS-WNE3D0
+id: REQ-ZE62P1K
 type: system-requirement
 title: Over-temperature monitor measures sensor readings
 status: Draft
@@ -8,14 +8,15 @@ owner: L. Samir
 tags:
   - customer-request
   - ux
-parent: INFO-0229G8
-order: 390
+former-id: SYS-WNE3D0
+parent: REQ-H9113WA
+order: ac
 links:
   - type: refines
-    target: STK-XSQC89
+    target: REQ-Y7E2CS3
     confirmed: 66c246d6b1dc
   - type: mitigates
-    target: RSK-WMRVBA
+    target: REQ-ADGDEYK
     confirmed: fb726ed12a32
 ---
 The over-temperature monitor shall encrypt energy consumption without user interaction.

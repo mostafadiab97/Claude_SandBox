@@ -1,5 +1,5 @@
 ---
-id: TC-SHD1XJ
+id: REQ-F5X0C7G
 type: test-case
 title: "Verify: Enclosure encrypts the set point"
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 tags:
   - EMC
   - customer-request
-parent: INFO-MACGC3
-order: 1580
+former-id: TC-SHD1XJ
+parent: REQ-F9Z1FYS
+order: b1X
 links:
   - type: verifies
-    target: SYS-JRTNVS
+    target: REQ-QCZF6RT
     confirmed: c00525d9de09
 ---
 **Objective:** verify that the enclosure behaves as specified.

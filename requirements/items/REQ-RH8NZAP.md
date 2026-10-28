@@ -1,13 +1,14 @@
 ---
-id: SW-8APXQF
+id: REQ-RH8NZAP
 type: software-requirement
 title: Menu system validates error conditions
 status: Approved
-parent: SYS-QFCX4V
-order: 40
+former-id: SW-8APXQF
+parent: REQ-Y9PF6ZF
+order: a3
 links:
   - type: refines
-    target: SYS-QFCX4V
+    target: REQ-Y9PF6ZF
     confirmed: 0a633adec0ec
 ---
 The touch display shall notify user preferences when the network is unavailable.

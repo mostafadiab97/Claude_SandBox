@@ -1,15 +1,16 @@
 ---
-id: UC-GSJNH6
+id: REQ-3C3M1PN
 type: use-case
 title: "UC: Validate energy consumption with the watchdog"
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: INFO-RE7JP9
-order: 130
+former-id: UC-GSJNH6
+parent: REQ-3EBQKRK
+order: aC
 links:
   - type: relates-to
-    target: STK-SM9B7Z
+    target: REQ-Z2QF8WD
     confirmed: 44235e2789f0
 ---
 **Actor:** home owner

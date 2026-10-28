@@ -1,15 +1,16 @@
 ---
-id: SW-CA3FX2
+id: REQ-66R1SWG
 type: software-requirement
 title: Device registry detects humidity values
 status: Review
 tags:
   - EMC
-parent: SYS-Z3C3F8
-order: 40
+former-id: SW-CA3FX2
+parent: REQ-PB3JZJG
+order: a3
 links:
   - type: refines
-    target: SYS-Z3C3F8
+    target: REQ-PB3JZJG
     confirmed: 0af14c27b0f7
 ---
 The user account service shall store the set point in under 3 s.

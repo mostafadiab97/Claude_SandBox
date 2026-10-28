@@ -1,5 +1,5 @@
 ---
-id: SW-J20KDY
+id: REQ-TNYTMVD
 type: software-requirement
 title: Measure the operating mode — detail
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: É. Laurent
 tags:
   - accessibility
-parent: SW-J1F7RJ
-order: 10
+former-id: SW-J20KDY
+parent: REQ-NPCDBRR
+order: a0
 links:
   - type: refines
-    target: SW-J1F7RJ
+    target: REQ-NPCDBRR
     confirmed: e359424549f7
 ---
 The over-temperature monitor shall validate relay events below 0.5 W in standby.

@@ -1,15 +1,16 @@
 ---
-id: SW-D1ZF2N
+id: REQ-V9AFJ9Q
 type: software-requirement
 title: Measure access tokens — detail
 status: Draft
 priority: Low
 owner: R. Nabil
-parent: SW-RZD9YZ
-order: 10
+former-id: SW-D1ZF2N
+parent: REQ-A33F5NX
+order: a0
 links:
   - type: refines
-    target: SW-RZD9YZ
+    target: REQ-A33F5NX
     confirmed: da6a2a0d52cb
 ---
 The status LED shall calibrate safety limits below 0.5 W in standby.

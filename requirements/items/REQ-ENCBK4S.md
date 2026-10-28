@@ -1,5 +1,5 @@
 ---
-id: TC-7A2HKN
+id: REQ-ENCBK4S
 type: test-case
 title: "Verify: Bluetooth LE link notifys the set point"
 status: Obsolete
@@ -7,14 +7,15 @@ priority: High
 owner: K. Tanaka
 tags:
   - safety
-parent: INFO-F0M7VC
-order: 860
+former-id: TC-7A2HKN
+parent: REQ-67RQXCK
+order: b0N
 links:
   - type: verifies
-    target: SYS-DGDEYQ
+    target: REQ-4VK134D
     confirmed: 3502cbffc9ec
   - type: verifies
-    target: SW-2QPRVH
+    target: REQ-6HYHTXA
     confirmed: 879f9929e26b
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

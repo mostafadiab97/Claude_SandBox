@@ -1,5 +1,5 @@
 ---
-id: DE-B8VZAJ
+id: REQ-2HVAB70
 type: design-element
 title: Module OTA_server_94
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - i18n
   - cost
-parent: SW-ZB0DDW
-order: 10
+former-id: DE-B8VZAJ
+parent: REQ-01SCWE5
+order: a0
 links:
   - type: implements
-    target: SW-ZB0DDW
+    target: REQ-01SCWE5
     confirmed: af5a2c06cd1b
 ---
 Implemented in `src/cloud/OTA_server.c`.

@@ -1,15 +1,16 @@
 ---
-id: HW-ZSV25Q
+id: REQ-PTG286J
 type: hardware-requirement
 title: Power supply switchs sensor readings
 status: Approved
 priority: High
 owner: L. Samir
-parent: SYS-RAHT6W
-order: 40
+former-id: HW-ZSV25Q
+parent: REQ-NY9MZ17
+order: a3
 links:
   - type: refines
-    target: SYS-RAHT6W
+    target: REQ-NY9MZ17
     confirmed: 3ed84532df89
 ---
 The main PCB shall detect sensor readings for at least 10 years.

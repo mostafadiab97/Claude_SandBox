@@ -1,18 +1,19 @@
 ---
-id: SYS-PH3PWA
+id: REQ-2EFA4DF
 type: system-requirement
 title: OTA server logs the connection state
 status: Approved
 priority: High
 owner: محمد علي
-parent: INFO-YV5EZD
-order: 1480
+former-id: SYS-PH3PWA
+parent: REQ-RE9ZKHF
+order: b1N
 links:
   - type: refines
-    target: STK-SKPX7F
+    target: REQ-M17BCB3
     confirmed: ff820400e2f9
   - type: mitigates
-    target: RSK-PEJG0K
+    target: REQ-465CM6F
     confirmed: b0f54061ad18
 ---
 The OTA server shall limit error conditions in all supported languages.

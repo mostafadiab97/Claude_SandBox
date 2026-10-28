@@ -1,5 +1,5 @@
 ---
-id: SYS-VY28RQ
+id: REQ-VEXRYCE
 type: system-requirement
 title: Login screen validates the connection state
 status: Approved
@@ -8,8 +8,9 @@ owner: J. Müller
 tags:
   - power
   - accessibility
-parent: INFO-2XXBRS
-order: 1970
+former-id: SYS-VY28RQ
+parent: REQ-QYXGSQ4
+order: b2A
 links:
   - type: refines
     target: STK-H87WHA

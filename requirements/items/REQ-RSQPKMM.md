@@ -1,5 +1,5 @@
 ---
-id: IF-SWY9DQ
+id: REQ-RSQPKMM
 type: interface-requirement
 title: Heating controller reports user preferences
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - release-2.0
   - customer-request
-parent: SYS-K8NQFV
-order: 30
+former-id: IF-SWY9DQ
+parent: REQ-QY1DS22
+order: a2
 links:
   - type: refines
-    target: SYS-K8NQFV
+    target: REQ-QY1DS22
     confirmed: 85b34b755d1e
 ---
 The zone valve shall display the set point without user interaction.

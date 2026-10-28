@@ -1,15 +1,16 @@
 ---
-id: SYS-E5040S
+id: REQ-WDV077E
 type: system-requirement
 title: Cloud backend switchs sensor readings
 status: Approved
 priority: Low
 owner: A. Hassan
-parent: INFO-YV5EZD
-order: 1650
+former-id: SYS-E5040S
+parent: REQ-RE9ZKHF
+order: b1e
 links:
   - type: refines
-    target: STK-4NCGP6
+    target: REQ-6WXSS37
     confirmed: 34735dce772b
 ---
 The cloud backend shall calibrate energy consumption in under 3 s.

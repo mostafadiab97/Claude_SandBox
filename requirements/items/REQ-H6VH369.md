@@ -1,5 +1,5 @@
 ---
-id: IF-Q14RQQ
+id: REQ-H6VH369
 type: interface-requirement
 title: "Signal 344: schedule entries"
 status: Obsolete
@@ -9,7 +9,8 @@ tags:
   - ux
   - regulatory
   - connectivity
-parent: INFO-2TM0JP
-order: 3440
+former-id: IF-Q14RQQ
+parent: REQ-RJ0KHPT
+order: b4X
 ---
 Interface signal number 344.

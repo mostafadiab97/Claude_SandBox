@@ -1,15 +1,16 @@
 ---
-id: TC-ZMM0JQ
+id: REQ-CEZJ0JG
 type: test-case
 title: "Verify: Regulation loop limits safety limits"
 status: Draft
 priority: High
 owner: N. Kamal
-parent: INFO-MS9DAG
-order: 640
+former-id: TC-ZMM0JQ
+parent: REQ-XGWSK2K
+order: b01
 links:
   - type: verifies
-    target: SYS-3C9GVX
+    target: REQ-E1AFN5W
     confirmed: 982b55b41ef5
 ---
 **Objective:** verify that the regulation loop behaves as specified.

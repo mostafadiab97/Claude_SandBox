@@ -1,15 +1,16 @@
 ---
-id: HW-W4QDHW
+id: REQ-SK03A94
 type: hardware-requirement
 title: Enclosure restores error conditions
 status: Draft
 priority: Medium
 owner: Y. Saber
-parent: SYS-CB7E79
-order: 10
+former-id: HW-W4QDHW
+parent: REQ-SHTW6AT
+order: a0
 links:
   - type: refines
-    target: SYS-CB7E79
+    target: REQ-SHTW6AT
     confirmed: 1e8a0199df87
 ---
 The power supply shall limit access tokens for at least 10 years.

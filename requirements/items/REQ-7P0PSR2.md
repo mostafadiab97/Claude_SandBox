@@ -1,14 +1,15 @@
 ---
-id: TC-P7J0MD
+id: REQ-7P0PSR2
 type: test-case
 title: "Verify: Enclosure switchs audit records"
 status: Approved
 owner: L. Samir
-parent: INFO-MACGC3
-order: 1030
+former-id: TC-P7J0MD
+parent: REQ-F9Z1FYS
+order: b0e
 links:
   - type: verifies
-    target: SYS-0F1D8X
+    target: REQ-HQCFJ0J
     confirmed: de3125cc19b7
 ---
 **Objective:** verify that the enclosure behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: TC-1DZD2G
+id: REQ-6TJ6Y70
 type: test-case
 title: "Verify: Backlight restores safety limits"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - cost
-parent: INFO-HTSZ15
-order: 1210
+former-id: TC-1DZD2G
+parent: REQ-Y9VHHKA
+order: b0w
 links:
   - type: verifies
-    target: SYS-N54KFA
+    target: REQ-HJS4CX9
     confirmed: 09253c52493b
 ---
 **Objective:** verify that the backlight behaves as specified.

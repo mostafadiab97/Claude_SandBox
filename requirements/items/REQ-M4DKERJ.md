@@ -1,5 +1,5 @@
 ---
-id: SW-FWYVED
+id: REQ-M4DKERJ
 type: software-requirement
 title: Menu system validates the set point
 status: Obsolete
@@ -8,11 +8,12 @@ tags:
   - connectivity
   - regulatory
   - ux
-parent: SYS-017PAV
-order: 10
+former-id: SW-FWYVED
+parent: REQ-2EXPE7A
+order: a0
 links:
   - type: refines
-    target: SYS-017PAV
+    target: REQ-2EXPE7A
     confirmed: 4d92fcc680f5
 ---
 The touch display shall notify energy consumption in under 3 s.

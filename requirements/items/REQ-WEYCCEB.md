@@ -1,5 +1,5 @@
 ---
-id: TC-7H2D2P
+id: REQ-WEYCCEB
 type: test-case
 title: "Verify: Relay board stores the operating mode"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - customer-request
-parent: INFO-MACGC3
-order: 320
+former-id: TC-7H2D2P
+parent: REQ-F9Z1FYS
+order: aV
 links:
   - type: verifies
-    target: SYS-X38ARN
+    target: REQ-H7EE1KX
     confirmed: eb49855d4e1d
 ---
 **Objective:** verify that the relay board behaves as specified.

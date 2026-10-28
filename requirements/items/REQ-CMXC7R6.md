@@ -1,15 +1,16 @@
 ---
-id: SW-EHGN0R
+id: REQ-CMXC7R6
 type: software-requirement
 title: Schedule editor encrypts sensor readings
 status: Approved
 priority: High
 owner: J. Müller
-parent: SYS-841ZEK
-order: 10
+former-id: SW-EHGN0R
+parent: REQ-2CJCCA6
+order: a0
 links:
   - type: refines
-    target: SYS-841ZEK
+    target: REQ-2CJCCA6
     confirmed: f5675ac44211
 ---
 The login screen shall measure firmware images after a power loss.

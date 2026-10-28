@@ -1,18 +1,19 @@
 ---
-id: SYS-MQPMA3
+id: REQ-CJE6CS7
 type: system-requirement
 title: Pairing process logs the operating mode
 status: Draft
 priority: Medium
 owner: L. Samir
-parent: INFO-NRVHA2
-order: 2000
+former-id: SYS-MQPMA3
+parent: REQ-6R94HFM
+order: b2D
 links:
   - type: refines
-    target: STK-1R2QT3
+    target: REQ-3MGNW4R
     confirmed: 7ca04f22a1b8
   - type: mitigates
-    target: RSK-6Q7HV9
+    target: REQ-G7V6B35
     confirmed: 67f9d16d1648
 ---
 The pairing process shall encrypt error conditions when the network is unavailable.

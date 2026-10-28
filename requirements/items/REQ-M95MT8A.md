@@ -1,15 +1,16 @@
 ---
-id: SYS-T11C75
+id: REQ-M95MT8A
 type: system-requirement
 title: Relay board measures user preferences
 status: Draft
 priority: High
 owner: J. Müller
-parent: INFO-A6P9A8
-order: 1400
+former-id: SYS-T11C75
+parent: REQ-CMCS31A
+order: b1F
 links:
   - type: refines
-    target: STK-CDR1Y9
+    target: REQ-QC1Z78M
     confirmed: d9857f8b33bf
 ---
 The relay board shall report user preferences in under 3 s.

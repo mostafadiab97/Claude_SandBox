@@ -1,14 +1,15 @@
 ---
-id: TC-QCH9PF
+id: REQ-39WKB29
 type: test-case
 title: "Verify: Schedule editor limits schedule entries"
 status: Obsolete
 owner: K. Tanaka
-parent: INFO-J0FETE
-order: 1360
+former-id: TC-QCH9PF
+parent: REQ-WR5ZJN9
+order: b1B
 links:
   - type: verifies
-    target: SYS-HB2DW1
+    target: REQ-156Z627
     confirmed: c311446b8020
 ---
 **Objective:** verify that the schedule editor behaves as specified.

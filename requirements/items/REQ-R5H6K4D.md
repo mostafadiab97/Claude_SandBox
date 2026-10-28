@@ -1,5 +1,5 @@
 ---
-id: IF-EDY9DX
+id: REQ-R5H6K4D
 type: interface-requirement
 title: Limit firmware images — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - cost
-parent: IF-WK30J1
-order: 10
+former-id: IF-EDY9DX
+parent: REQ-E7CZD7M
+order: a0
 links:
   - type: refines
-    target: IF-WK30J1
+    target: REQ-E7CZD7M
     confirmed: 6e888350d66f
 ---
 The cloud backend shall validate sensor readings for up to 8 zones.

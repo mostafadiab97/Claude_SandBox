@@ -1,7 +1,8 @@
 ---
-id: INFO-6DQTKV
+id: REQ-7ED7ZET
 type: information
-title: 1.2 System requirements
-parent: INFO-FBGE35
-order: 20
+title: System requirements
+former-id: INFO-6DQTKV
+parent: REQ-7VTYWPY
+order: a1
 ---

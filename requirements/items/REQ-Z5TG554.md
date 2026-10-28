@@ -1,15 +1,16 @@
 ---
-id: SW-5CN5AS
+id: REQ-Z5TG554
 type: software-requirement
 title: Regulation loop restores access tokens
 status: Approved
 priority: Medium
 owner: محمد علي
-parent: SYS-K8NQFV
-order: 20
+former-id: SW-5CN5AS
+parent: REQ-QY1DS22
+order: a1
 links:
   - type: refines
-    target: SYS-K8NQFV
+    target: REQ-QY1DS22
     confirmed: 85b34b755d1e
 ---
 The zone valve shall synchronise firmware images within 200 ms.

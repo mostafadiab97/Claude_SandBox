@@ -1,5 +1,5 @@
 ---
-id: SW-0YS706
+id: REQ-ZD8NBJD
 type: software-requirement
 title: Telemetry pipeline switchs the operating mode
 status: Obsolete
@@ -8,11 +8,12 @@ tags:
   - connectivity
   - release-2.0
   - safety
-parent: SYS-RBD8MR
-order: 10
+former-id: SW-0YS706
+parent: REQ-TP2GDPC
+order: a0
 links:
   - type: refines
-    target: SYS-RBD8MR
+    target: REQ-TP2GDPC
     confirmed: fce90764ac1a
 ---
 The OTA server shall restore the connection state without user interaction.

@@ -1,19 +1,20 @@
 ---
-id: TC-38N5BJ
+id: REQ-E6PKZPB
 type: test-case
 title: "Verify: Home dashboard synchronises firmware images"
 status: Draft
 owner: J. Müller
 tags:
   - cost
-parent: INFO-J0FETE
-order: 700
+former-id: TC-38N5BJ
+parent: REQ-WR5ZJN9
+order: b07
 links:
   - type: verifies
-    target: SYS-5EDMMX
+    target: REQ-TTKRBX8
     confirmed: 6f6f1dc47197
   - type: verifies
-    target: SW-8T7BET
+    target: REQ-WEPJN4C
     confirmed: 62a7da2a6c53
 ---
 **Objective:** verify that the home dashboard behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: DE-VYZCKV
+id: REQ-KBSZWFP
 type: design-element
 title: Module OTA_server_2
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - connectivity
   - release-2.0
-parent: SW-B7PSYK
-order: 10
+former-id: DE-VYZCKV
+parent: REQ-HH4XBQR
+order: a0
 links:
   - type: implements
-    target: SW-B7PSYK
+    target: REQ-HH4XBQR
     confirmed: 731cd43eda8e
 ---
 Implemented in `src/cloud/OTA_server.c`.

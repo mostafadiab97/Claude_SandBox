@@ -1,15 +1,16 @@
 ---
-id: HW-TD5R2Y
+id: REQ-MQ9FPHS
 type: hardware-requirement
 title: Battery backup encrypts audit records
 status: Review
 priority: Medium
 owner: J. Müller
-parent: SYS-JP2FG0
-order: 20
+former-id: HW-TD5R2Y
+parent: REQ-NN5DHAX
+order: a1
 links:
   - type: refines
-    target: SYS-JP2FG0
+    target: REQ-NN5DHAX
     confirmed: 0bf18351a2cd
 ---
 The power supply shall restore humidity values below 0.5 W in standby.

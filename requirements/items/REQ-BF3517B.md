@@ -1,5 +1,5 @@
 ---
-id: IF-J2XK89
+id: REQ-BF3517B
 type: interface-requirement
 title: Schedule editor authenticates the room temperature
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - EMC
   - security
   - regulatory
-parent: SYS-KFH2GP
-order: 10
+former-id: IF-J2XK89
+parent: REQ-1ZYXNNF
+order: a0
 links:
   - type: refines
-    target: SYS-KFH2GP
+    target: REQ-1ZYXNNF
     confirmed: a8dcaf0bf6d6
 ---
 The login screen shall calibrate sensor readings for at least 10 years.

@@ -1,5 +1,5 @@
 ---
-id: SW-D41A4Q
+id: REQ-8QTQNBA
 type: software-requirement
 title: Device registry restores the connection state
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: R. Nabil
 tags:
   - release-2.0
-parent: SYS-XZE982
-order: 30
+former-id: SW-D41A4Q
+parent: REQ-QW1EM2B
+order: a2
 links:
   - type: refines
-    target: SYS-XZE982
+    target: REQ-QW1EM2B
     confirmed: bc880bb42e39
 ---
 The user account service shall calibrate access tokens without user interaction.

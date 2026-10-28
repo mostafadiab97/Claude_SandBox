@@ -1,5 +1,5 @@
 ---
-id: HW-69DE8T
+id: REQ-FWE15SW
 type: hardware-requirement
 title: User account service reports audit records
 status: Draft
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - connectivity
   - regulatory
-parent: SYS-ZG2A7P
-order: 20
+former-id: HW-69DE8T
+parent: REQ-MAGQ1BB
+order: a1
 links:
   - type: refines
-    target: SYS-ZG2A7P
+    target: REQ-MAGQ1BB
     confirmed: dd3e6f066e4e
 ---
 The cloud backend shall log schedule entries within 200 ms.

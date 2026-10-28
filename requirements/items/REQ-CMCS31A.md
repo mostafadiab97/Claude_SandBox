@@ -1,7 +1,8 @@
 ---
-id: INFO-A6P9A8
+id: REQ-CMCS31A
 type: information
-title: 5.2 System requirements
-parent: INFO-DNAGHM
-order: 20
+title: System requirements
+former-id: INFO-A6P9A8
+parent: REQ-SGXYWPG
+order: a1
 ---

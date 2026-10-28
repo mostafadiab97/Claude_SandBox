@@ -1,16 +1,17 @@
 ---
-id: IF-S3PNKH
+id: REQ-0DAFDZD
 type: interface-requirement
 title: Boiler interface calibrates error conditions
 status: Review
 owner: محمد علي
 tags:
   - power
-parent: SYS-7ME2MH
-order: 30
+former-id: IF-S3PNKH
+parent: REQ-3753MVK
+order: a2
 links:
   - type: refines
-    target: SYS-7ME2MH
+    target: REQ-3753MVK
     confirmed: 212fa2a7c66a
 ---
 The heat pump driver shall synchronise the connection state within 200 ms.

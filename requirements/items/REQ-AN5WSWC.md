@@ -1,18 +1,19 @@
 ---
-id: SYS-WKCZDQ
+id: REQ-AN5WSWC
 type: system-requirement
 title: Watchdog calibrates the room temperature
 status: Approved
 priority: Low
 owner: H. Mostafa
-parent: INFO-0229G8
-order: 910
+former-id: SYS-WKCZDQ
+parent: REQ-H9113WA
+order: b0S
 links:
   - type: refines
-    target: STK-92HHJV
+    target: REQ-Z7761RK
     confirmed: 260bd01800c6
   - type: mitigates
-    target: RSK-RV8KBD
+    target: REQ-VYYM5AA
     confirmed: 637ec5e39d53
 ---
 The watchdog shall display safety limits using AES-256-GCM.

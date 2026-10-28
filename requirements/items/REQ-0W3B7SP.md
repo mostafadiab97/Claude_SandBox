@@ -1,5 +1,5 @@
 ---
-id: SW-547Q93
+id: REQ-0W3B7SP
 type: software-requirement
 title: Menu system displays audit records
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - safety
   - cost
-parent: SYS-K5036G
-order: 20
+former-id: SW-547Q93
+parent: REQ-5ZJJJWX
+order: a1
 links:
   - type: refines
-    target: SYS-K5036G
+    target: REQ-5ZJJJWX
     confirmed: 028aea2d56ab
 ---
 The menu system shall authenticate audit records after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: TC-PH812X
+id: REQ-SQKYM1F
 type: test-case
 title: "Regression: Mobile app restores access tokens"
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: J. Müller
 tags:
   - i18n
-parent: INFO-ECHASH
-order: 1190
+former-id: TC-PH812X
+parent: REQ-6H15AV2
+order: b0u
 links:
   - type: verifies
-    target: SYS-QHMFA6
+    target: REQ-K2S78AW
     confirmed: 9375eb52bc71
 ---
 **Objective:** verify that the device behaves as specified.

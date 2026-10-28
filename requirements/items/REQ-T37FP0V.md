@@ -1,5 +1,5 @@
 ---
-id: IF-4BERRE
+id: REQ-T37FP0V
 type: interface-requirement
 title: "Signal 147: the operating mode"
 status: Approved
@@ -8,7 +8,8 @@ owner: R. Nabil
 tags:
   - release-1.0
   - safety
-parent: INFO-2TM0JP
-order: 1470
+former-id: IF-4BERRE
+parent: REQ-RJ0KHPT
+order: b1M
 ---
 Interface signal number 147.

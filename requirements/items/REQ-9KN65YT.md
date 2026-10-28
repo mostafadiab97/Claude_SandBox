@@ -1,5 +1,5 @@
 ---
-id: HW-ZR809F
+id: REQ-9KN65YT
 type: hardware-requirement
 title: Heat pump driver logs the set point
 status: Obsolete
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - cost
   - release-1.0
-parent: SYS-K8C5H7
-order: 20
+former-id: HW-ZR809F
+parent: REQ-CFE22NG
+order: a1
 links:
   - type: refines
-    target: SYS-K8C5H7
+    target: REQ-CFE22NG
     confirmed: 968ca6703d93
 ---
 The heat pump driver shall restore firmware images for up to 8 zones.

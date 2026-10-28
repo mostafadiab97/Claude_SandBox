@@ -1,15 +1,16 @@
 ---
-id: TC-VSXW8T
+id: REQ-19WACNR
 type: test-case
 title: "Verify: Pairing process logs firmware images"
 status: Draft
 priority: Medium
 owner: H. Mostafa
-parent: INFO-F0M7VC
-order: 1490
+former-id: TC-VSXW8T
+parent: REQ-67RQXCK
+order: b1O
 links:
   - type: verifies
-    target: SYS-RP9EW2
+    target: REQ-1K6VZF7
     confirmed: 0ce16e7c9c10
 ---
 **Objective:** verify that the pairing process behaves as specified.

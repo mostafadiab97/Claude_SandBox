@@ -1,14 +1,15 @@
 ---
-id: HW-AZMTZS
+id: REQ-FW4ZT7H
 type: hardware-requirement
 title: Menu system switchs safety limits
 status: Draft
 owner: N. Kamal
-parent: SYS-MRW8P6
-order: 40
+former-id: HW-AZMTZS
+parent: REQ-2JPQ3KZ
+order: a3
 links:
   - type: refines
-    target: SYS-MRW8P6
+    target: REQ-2JPQ3KZ
     confirmed: f8cc2c516026
 ---
 The menu system shall calibrate the room temperature without user interaction.

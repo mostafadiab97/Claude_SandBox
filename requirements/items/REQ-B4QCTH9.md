@@ -1,5 +1,5 @@
 ---
-id: TC-WXD3Q2
+id: REQ-B4QCTH9
 type: test-case
 title: "Verify: Menu system notifys the set point"
 status: Review
@@ -9,14 +9,15 @@ tags:
   - i18n
   - accessibility
   - safety
-parent: INFO-HTSZ15
-order: 1410
+former-id: TC-WXD3Q2
+parent: REQ-Y9VHHKA
+order: b1G
 links:
   - type: verifies
-    target: SYS-T098Z1
+    target: REQ-SF9Q7GE
     confirmed: 8bf9018cb7b2
   - type: verifies
-    target: SW-B03YJ8
+    target: REQ-K3MWQ69
     confirmed: 588f622701dc
 ---
 **Objective:** verify that the menu system behaves as specified.

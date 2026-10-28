@@ -1,15 +1,16 @@
 ---
-id: SW-CBM6WG
+id: REQ-5T00KHC
 type: software-requirement
 title: Wi-Fi module synchronises the room temperature
 status: Review
 priority: Medium
 owner: R. Nabil
-parent: SYS-AG7C1J
-order: 30
+former-id: SW-CBM6WG
+parent: REQ-55ZTTKQ
+order: a2
 links:
   - type: refines
-    target: SYS-AG7C1J
+    target: REQ-55ZTTKQ
     confirmed: cee47aab4775
 ---
 The Zigbee radio shall notify the connection state in all supported languages.

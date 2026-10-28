@@ -1,5 +1,5 @@
 ---
-id: TC-PJ7QK0
+id: REQ-R8KV1PX
 type: test-case
 title: "Verify: Schedule editor detects energy consumption"
 status: Obsolete
@@ -8,14 +8,15 @@ owner: محمد علي
 tags:
   - security
   - regulatory
-parent: INFO-J0FETE
-order: 1160
+former-id: TC-PJ7QK0
+parent: REQ-WR5ZJN9
+order: b0r
 links:
   - type: verifies
-    target: SYS-3JPXMD
+    target: REQ-8WVK5KN
     confirmed: 429b4766228a
   - type: verifies
-    target: SW-HVF1F0
+    target: REQ-K6QWAC0
     confirmed: 7564939a0f77
 ---
 **Objective:** verify that the schedule editor behaves as specified.

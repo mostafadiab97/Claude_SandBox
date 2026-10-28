@@ -1,5 +1,5 @@
 ---
-id: TC-9RDHAE
+id: REQ-D6XPH57
 type: test-case
 title: "Verify: Pairing process authenticates the set point"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - connectivity
   - cost
-parent: INFO-F0M7VC
-order: 70
+former-id: TC-9RDHAE
+parent: REQ-67RQXCK
+order: a6
 links:
   - type: verifies
-    target: SYS-DZWWWA
+    target: REQ-BWJ3AFX
     confirmed: 0999a3b2ce99
 ---
 **Objective:** verify that the pairing process behaves as specified.

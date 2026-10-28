@@ -1,15 +1,16 @@
 ---
-id: HW-4N69FC
+id: REQ-JXS0MSX
 type: hardware-requirement
 title: Calibrate audit records — detail
 status: Draft
 priority: Medium
 owner: J. Müller
-parent: HW-Y15PQY
-order: 10
+former-id: HW-4N69FC
+parent: REQ-YWMFVCT
+order: a0
 links:
   - type: refines
-    target: HW-Y15PQY
+    target: REQ-YWMFVCT
     confirmed: 5effad950c23
 ---
 The cloud backend shall measure the set point in under 3 s.

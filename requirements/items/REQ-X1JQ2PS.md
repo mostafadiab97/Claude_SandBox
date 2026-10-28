@@ -1,15 +1,16 @@
 ---
-id: SW-VQZJBE
+id: REQ-X1JQ2PS
 type: software-requirement
 title: Schedule editor calibrates access tokens
 status: Approved
 tags:
   - EMC
-parent: SYS-YW7JJY
-order: 20
+former-id: SW-VQZJBE
+parent: REQ-A9MQHYC
+order: a1
 links:
   - type: refines
-    target: SYS-YW7JJY
+    target: REQ-A9MQHYC
     confirmed: eb4dd1b8dfac
 ---
 The schedule editor shall encrypt the operating mode without user interaction.

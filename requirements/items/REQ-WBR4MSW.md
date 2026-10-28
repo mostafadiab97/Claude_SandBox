@@ -1,15 +1,16 @@
 ---
-id: TC-DS9K5M
+id: REQ-WBR4MSW
 type: test-case
 title: "Verify: Cloud backend notifys safety limits"
 status: Approved
 priority: Medium
 owner: L. Samir
-parent: INFO-7P4D8D
-order: 790
+former-id: TC-DS9K5M
+parent: REQ-8351896
+order: b0G
 links:
   - type: verifies
-    target: SYS-AH9G64
+    target: REQ-EBK9509
     confirmed: e3199b24d9a9
 ---
 **Objective:** verify that the cloud backend behaves as specified.

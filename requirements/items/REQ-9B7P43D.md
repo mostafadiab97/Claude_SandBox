@@ -1,5 +1,5 @@
 ---
-id: TC-5P6DEV
+id: REQ-9B7P43D
 type: test-case
 title: "Verify: Telemetry pipeline restores energy consumption"
 status: Approved
@@ -8,14 +8,15 @@ owner: A. Hassan
 tags:
   - release-2.0
   - safety
-parent: INFO-7P4D8D
-order: 380
+former-id: TC-5P6DEV
+parent: REQ-8351896
+order: ab
 links:
   - type: verifies
-    target: SYS-6A5W87
+    target: REQ-9YN386K
     confirmed: 739d6ec12ecc
   - type: verifies
-    target: SW-1NE15M
+    target: REQ-3FB2ST0
     confirmed: c98e92367d85
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

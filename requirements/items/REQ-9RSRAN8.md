@@ -1,16 +1,17 @@
 ---
-id: TC-WDSQWB
+id: REQ-9RSRAN8
 type: test-case
 title: "Verify: Zigbee radio switchs safety limits"
 status: Draft
 priority: Medium
 tags:
   - power
-parent: INFO-F0M7VC
-order: 430
+former-id: TC-WDSQWB
+parent: REQ-67RQXCK
+order: ag
 links:
   - type: verifies
-    target: SYS-EH295E
+    target: REQ-5G4EJ5J
     confirmed: 7d5baafb4296
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

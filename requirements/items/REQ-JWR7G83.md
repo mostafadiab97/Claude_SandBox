@@ -1,15 +1,16 @@
 ---
-id: SW-ZAKESV
+id: REQ-JWR7G83
 type: software-requirement
 title: Status LED logs humidity values
 status: Draft
 priority: Medium
 owner: K. Tanaka
-parent: SYS-WEYZAK
-order: 20
+former-id: SW-ZAKESV
+parent: REQ-YAYJM7A
+order: a1
 links:
   - type: refines
-    target: SYS-WEYZAK
+    target: REQ-YAYJM7A
     confirmed: 7b40fcf8dbb4
 ---
 The backlight shall authenticate firmware images in all supported languages.

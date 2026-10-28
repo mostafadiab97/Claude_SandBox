@@ -1,5 +1,5 @@
 ---
-id: CR-PX622S
+id: REQ-J57QC6V
 type: change-request
 title: "CR: extend telemetry pipeline to notify energy consumption"
 status: Review
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - ux
   - customer-request
-parent: INFO-M91889
-order: 20
+former-id: CR-PX622S
+parent: REQ-9FNWH0D
+order: a1
 links:
   - type: relates-to
-    target: SYS-25J8VJ
+    target: REQ-70ZWP2Y
     confirmed: 2c47b5d6654c
 ---
 Requested by customer support (ticket #11905).

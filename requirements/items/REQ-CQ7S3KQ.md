@@ -1,5 +1,5 @@
 ---
-id: SW-RTNM9J
+id: REQ-CQ7S3KQ
 type: software-requirement
 title: OTA server switchs the operating mode
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - safety
   - i18n
-parent: SYS-TX0P0A
-order: 40
+former-id: SW-RTNM9J
+parent: REQ-XWK1AAE
+order: a3
 links:
   - type: refines
-    target: SYS-TX0P0A
+    target: REQ-XWK1AAE
     confirmed: 1e529db5157b
 ---
 The telemetry pipeline shall limit schedule entries within 200 ms.

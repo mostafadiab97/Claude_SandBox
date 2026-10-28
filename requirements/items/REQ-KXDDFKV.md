@@ -1,5 +1,5 @@
 ---
-id: SW-5VFSCY
+id: REQ-KXDDFKV
 type: software-requirement
 title: Regulation loop logs audit records
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - safety
   - performance
-parent: SYS-8F73DW
-order: 40
+former-id: SW-5VFSCY
+parent: REQ-QG4NKYK
+order: a3
 links:
   - type: refines
-    target: SYS-8F73DW
+    target: REQ-QG4NKYK
     confirmed: 13efe84ae7ac
 ---
 The regulation loop shall authenticate schedule entries below 0.5 W in standby.

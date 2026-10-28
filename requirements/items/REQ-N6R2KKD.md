@@ -1,18 +1,19 @@
 ---
-id: TC-KTSMC3
+id: REQ-N6R2KKD
 type: test-case
 title: "Verify: Local API validates schedule entries"
 status: Review
 priority: Medium
 owner: K. Tanaka
-parent: INFO-F0M7VC
-order: 890
+former-id: TC-KTSMC3
+parent: REQ-67RQXCK
+order: b0Q
 links:
   - type: verifies
-    target: SYS-EJ6VGS
+    target: REQ-PSTERQ0
     confirmed: 72a1d0da5245
   - type: verifies
-    target: SW-GBZD65
+    target: REQ-GC6WG48
     confirmed: 40e865bce9f5
 ---
 **Objective:** verify that the local API behaves as specified.

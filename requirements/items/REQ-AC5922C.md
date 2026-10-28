@@ -1,15 +1,16 @@
 ---
-id: TC-XNGE8D
+id: REQ-AC5922C
 type: test-case
 title: "Regression: Schedule editor detects energy consumption"
 status: Obsolete
 priority: High
 owner: L. Samir
-parent: INFO-ECHASH
-order: 1550
+former-id: TC-XNGE8D
+parent: REQ-6H15AV2
+order: b1U
 links:
   - type: verifies
-    target: SYS-3JPXMD
+    target: REQ-8WVK5KN
     confirmed: 429b4766228a
 ---
 **Objective:** verify that the device behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: DE-2713X5
+id: REQ-V1WPTJG
 type: design-element
 title: Module touch_display_57
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - cost
-parent: SW-0H4SD5
-order: 10
+former-id: DE-2713X5
+parent: REQ-CNF0NVX
+order: a0
 links:
   - type: implements
-    target: SW-0H4SD5
+    target: REQ-CNF0NVX
     confirmed: 5a2775a6e59d
 ---
 Implemented in `src/ui/touch_display.c`.

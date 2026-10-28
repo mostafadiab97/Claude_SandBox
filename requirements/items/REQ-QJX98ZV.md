@@ -1,14 +1,15 @@
 ---
-id: IF-6R5RGW
+id: REQ-QJX98ZV
 type: interface-requirement
 title: Battery backup validates schedule entries
 status: Approved
 owner: J. Müller
-parent: SYS-JRTNVS
-order: 20
+former-id: IF-6R5RGW
+parent: REQ-QCZF6RT
+order: a1
 links:
   - type: refines
-    target: SYS-JRTNVS
+    target: REQ-QCZF6RT
     confirmed: c00525d9de09
 ---
 The enclosure shall log sensor readings without user interaction.

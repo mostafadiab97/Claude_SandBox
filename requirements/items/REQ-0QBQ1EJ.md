@@ -1,5 +1,5 @@
 ---
-id: HW-YX2D2K
+id: REQ-0QBQ1EJ
 type: hardware-requirement
 title: Switch user preferences — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - ux
   - accessibility
-parent: HW-K32RZ8
-order: 10
+former-id: HW-YX2D2K
+parent: REQ-N82P90A
+order: a0
 links:
   - type: refines
-    target: HW-K32RZ8
+    target: REQ-N82P90A
     confirmed: b776ab27c2dc
 ---
 The power supply shall restore user preferences at least once per minute.

@@ -1,15 +1,16 @@
 ---
-id: SYS-3P41N6
+id: REQ-X89XFR8
 type: system-requirement
 title: Menu system measures safety limits
 status: Draft
 priority: Low
 owner: J. Müller
-parent: INFO-PDR6FV
-order: 110
+former-id: SYS-3P41N6
+parent: REQ-2ZA2TRZ
+order: aA
 links:
   - type: refines
-    target: STK-BV5YMS
+    target: REQ-XR7FDXB
     confirmed: 07434b0b5615
 ---
 The menu system shall notify energy consumption within 200 ms.

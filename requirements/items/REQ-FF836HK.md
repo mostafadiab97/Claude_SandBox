@@ -1,15 +1,16 @@
 ---
-id: TC-8X947E
+id: REQ-FF836HK
 type: test-case
 title: "Regression: Watchdog logs the connection state"
 status: Review
 priority: Medium
 owner: L. Samir
-parent: INFO-ECHASH
-order: 910
+former-id: TC-8X947E
+parent: REQ-6H15AV2
+order: b0S
 links:
   - type: verifies
-    target: SYS-F2DJDC
+    target: REQ-W18RFR4
     confirmed: 2d379fb34255
 ---
 **Objective:** verify that the device behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SYS-T9M88W
+id: REQ-N0KC5GA
 type: system-requirement
 title: Enclosure reports the room temperature
 status: Obsolete
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - i18n
   - customer-request
-parent: INFO-A6P9A8
-order: 1800
+former-id: SYS-T9M88W
+parent: REQ-CMCS31A
+order: b1t
 links:
   - type: refines
-    target: STK-KEP05J
+    target: REQ-PRMNGRJ
     confirmed: 74304e03fe52
 ---
 The enclosure shall display safety limits at least once per minute.

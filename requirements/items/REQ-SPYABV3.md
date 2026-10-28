@@ -1,5 +1,5 @@
 ---
-id: SW-PX1ABP
+id: REQ-SPYABV3
 type: software-requirement
 title: Boiler interface synchronises the connection state
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - connectivity
   - performance
   - safety
-parent: SYS-3HMH2V
-order: 10
+former-id: SW-PX1ABP
+parent: REQ-GSZGDN0
+order: a0
 links:
   - type: refines
-    target: SYS-3HMH2V
+    target: REQ-GSZGDN0
     confirmed: a44672610aca
 ---
 The zone valve shall restore user preferences within 200 ms.

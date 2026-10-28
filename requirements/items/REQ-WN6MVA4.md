@@ -1,15 +1,16 @@
 ---
-id: DE-A05SJB
+id: REQ-WN6MVA4
 type: design-element
 title: Module menu_system_40
 status: Approved
 priority: High
 owner: K. Tanaka
-parent: SW-FT9SM6
-order: 20
+former-id: DE-A05SJB
+parent: REQ-28Q4S4E
+order: a1
 links:
   - type: implements
-    target: SW-FT9SM6
+    target: REQ-28Q4S4E
     confirmed: 023162502ec1
 ---
 Implemented in `src/ui/menu_system.c`.

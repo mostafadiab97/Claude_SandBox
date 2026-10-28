@@ -1,5 +1,5 @@
 ---
-id: IF-396BKJ
+id: REQ-79W8ADT
 type: interface-requirement
 title: "Signal 513: energy consumption"
 status: Approved
@@ -8,7 +8,8 @@ owner: É. Laurent
 tags:
   - ux
   - release-1.0
-parent: INFO-2TM0JP
-order: 5130
+former-id: IF-396BKJ
+parent: REQ-RJ0KHPT
+order: b7G
 ---
 Interface signal number 513.

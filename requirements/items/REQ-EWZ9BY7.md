@@ -1,15 +1,16 @@
 ---
-id: SW-7NWEV1
+id: REQ-EWZ9BY7
 type: software-requirement
 title: Home dashboard detects the connection state
 status: Approved
 priority: Medium
 owner: H. Mostafa
-parent: SYS-ZFAGA9
-order: 20
+former-id: SW-7NWEV1
+parent: REQ-FF5B6MJ
+order: a1
 links:
   - type: refines
-    target: SYS-ZFAGA9
+    target: REQ-FF5B6MJ
     confirmed: 088ced33b5bc
 ---
 The schedule editor shall notify energy consumption when the network is unavailable.

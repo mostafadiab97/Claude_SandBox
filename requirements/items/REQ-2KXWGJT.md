@@ -1,16 +1,17 @@
 ---
-id: HW-DS0GBQ
+id: REQ-2KXWGJT
 type: hardware-requirement
 title: Enclosure synchronises relay events
 status: Draft
 priority: Medium
 tags:
   - security
-parent: SYS-WRCCVQ
-order: 20
+former-id: HW-DS0GBQ
+parent: REQ-7AV7MGG
+order: a1
 links:
   - type: refines
-    target: SYS-WRCCVQ
+    target: REQ-7AV7MGG
     confirmed: 22615937890b
 ---
 The enclosure shall validate relay events at least once per minute.

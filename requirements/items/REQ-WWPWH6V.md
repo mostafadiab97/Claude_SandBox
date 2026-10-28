@@ -1,15 +1,16 @@
 ---
-id: SW-V15JYD
+id: REQ-WWPWH6V
 type: software-requirement
 title: Heating controller authenticates safety limits
 status: Draft
 priority: High
 owner: S. Adel
-parent: SYS-5449PV
-order: 30
+former-id: SW-V15JYD
+parent: REQ-XTRE6E2
+order: a2
 links:
   - type: refines
-    target: SYS-5449PV
+    target: REQ-XTRE6E2
     confirmed: 51ad9fc7ce44
 ---
 The regulation loop shall notify schedule entries within 200 ms.

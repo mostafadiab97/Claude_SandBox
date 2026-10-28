@@ -1,5 +1,5 @@
 ---
-id: SW-69W76B
+id: REQ-X1MKC82
 type: software-requirement
 title: Store energy consumption — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - safety
   - ux
   - release-1.0
-parent: SW-1X1JNY
-order: 10
+former-id: SW-69W76B
+parent: REQ-J9F3JYJ
+order: a0
 links:
   - type: refines
-    target: SW-1X1JNY
+    target: REQ-J9F3JYJ
     confirmed: 6e440666b89b
 ---
 The boiler interface shall encrypt the connection state in all supported languages.

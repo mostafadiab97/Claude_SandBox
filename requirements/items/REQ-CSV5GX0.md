@@ -1,5 +1,5 @@
 ---
-id: SW-DTHKJ4
+id: REQ-CSV5GX0
 type: software-requirement
 title: Mobile app restores audit records
 status: Review
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - i18n
   - release-2.0
-parent: SYS-33WX8J
-order: 10
+former-id: SW-DTHKJ4
+parent: REQ-38QNR1B
+order: a0
 links:
   - type: refines
-    target: SYS-33WX8J
+    target: REQ-38QNR1B
     confirmed: 78ea2220229f
 ---
 The schedule editor shall detect humidity values for up to 8 zones.

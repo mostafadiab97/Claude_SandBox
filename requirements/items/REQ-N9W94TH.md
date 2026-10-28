@@ -1,5 +1,5 @@
 ---
-id: SW-N01DZF
+id: REQ-N9W94TH
 type: software-requirement
 title: Schedule editor detects safety limits
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - safety
   - regulatory
   - power
-parent: SYS-APGJQA
-order: 40
+former-id: SW-N01DZF
+parent: REQ-NQHP2YC
+order: a3
 links:
   - type: refines
-    target: SYS-APGJQA
+    target: REQ-NQHP2YC
     confirmed: "45019195e843"
 ---
 The login screen shall synchronise the room temperature at least once per minute.

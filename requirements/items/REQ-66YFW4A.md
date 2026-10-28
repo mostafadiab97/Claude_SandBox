@@ -1,5 +1,5 @@
 ---
-id: HW-3XRRN1
+id: REQ-66YFW4A
 type: hardware-requirement
 title: Menu system measures sensor readings
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - safety
   - i18n
-parent: SYS-G1EY1S
-order: 10
+former-id: HW-3XRRN1
+parent: REQ-FBSGHBG
+order: a0
 links:
   - type: refines
-    target: SYS-G1EY1S
+    target: REQ-FBSGHBG
     confirmed: 0765f686e186
 ---
 The menu system shall log access tokens using AES-256-GCM.

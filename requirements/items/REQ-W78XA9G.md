@@ -1,5 +1,5 @@
 ---
-id: DE-NKY5F1
+id: REQ-W78XA9G
 type: design-element
 title: Module OTA_server_78
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - regulatory
   - i18n
   - connectivity
-parent: SW-74FH7T
-order: 20
+former-id: DE-NKY5F1
+parent: REQ-AAE8RAX
+order: a1
 links:
   - type: implements
-    target: SW-74FH7T
+    target: REQ-AAE8RAX
     confirmed: 89ab6af8e498
 ---
 Implemented in `src/cloud/OTA_server.c`.

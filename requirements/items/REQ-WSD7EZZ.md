@@ -1,5 +1,5 @@
 ---
-id: TC-49P7W9
+id: REQ-WSD7EZZ
 type: test-case
 title: "Regression: User account service logs user preferences"
 status: Obsolete
@@ -8,11 +8,12 @@ tags:
   - i18n
   - regulatory
   - performance
-parent: INFO-ECHASH
-order: 1180
+former-id: TC-49P7W9
+parent: REQ-6H15AV2
+order: b0t
 links:
   - type: verifies
-    target: SYS-AWQ3YN
+    target: REQ-BWMZ077
     confirmed: f3aedc76f0ed
 ---
 **Objective:** verify that the device behaves as specified.

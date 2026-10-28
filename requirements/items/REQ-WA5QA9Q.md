@@ -1,5 +1,5 @@
 ---
-id: SW-JQJBXR
+id: REQ-WA5QA9Q
 type: software-requirement
 title: Log user preferences — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - regulatory
-parent: SW-4E66T1
-order: 10
+former-id: SW-JQJBXR
+parent: REQ-YPAEAWV
+order: a0
 links:
   - type: refines
-    target: SW-4E66T1
+    target: REQ-YPAEAWV
     confirmed: 47283d5608fe
 ---
 The pairing process shall authenticate schedule entries for up to 8 zones.

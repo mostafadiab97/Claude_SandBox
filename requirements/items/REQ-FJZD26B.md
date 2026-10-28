@@ -1,5 +1,5 @@
 ---
-id: HW-B7D2DT
+id: REQ-FJZD26B
 type: hardware-requirement
 title: Relay board limits user preferences
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 owner: K. Tanaka
 tags:
   - connectivity
-parent: SYS-R6BCVX
-order: 40
+former-id: HW-B7D2DT
+parent: REQ-CHSRQQ4
+order: a3
 links:
   - type: refines
-    target: SYS-R6BCVX
+    target: REQ-CHSRQQ4
     confirmed: 22f4af60b62c
 ---
 The power supply shall notify relay events when the network is unavailable.

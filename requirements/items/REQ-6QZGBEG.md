@@ -1,5 +1,5 @@
 ---
-id: HW-TWJZ95
+id: REQ-6QZGBEG
 type: hardware-requirement
 title: Rotary knob stores error conditions
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: Y. Saber
 tags:
   - accessibility
-parent: SYS-M3FMZZ
-order: 30
+former-id: HW-TWJZ95
+parent: REQ-2965TER
+order: a2
 links:
   - type: refines
-    target: SYS-M3FMZZ
+    target: REQ-2965TER
     confirmed: 462438fa0d84
 ---
 The status LED shall measure firmware images using AES-256-GCM.

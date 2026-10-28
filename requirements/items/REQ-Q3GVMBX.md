@@ -1,15 +1,16 @@
 ---
-id: SW-3MWJFT
+id: REQ-Q3GVMBX
 type: software-requirement
 title: Schedule editor authenticates access tokens
 status: Approved
 priority: Low
 owner: A. Hassan
-parent: SYS-FS8JEV
-order: 40
+former-id: SW-3MWJFT
+parent: REQ-PY74FHZ
+order: a3
 links:
   - type: refines
-    target: SYS-FS8JEV
+    target: REQ-PY74FHZ
     confirmed: 0f8454ecd67d
 ---
 The mobile app shall encrypt access tokens without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: SW-C8FNS6
+id: REQ-H2KW4JG
 type: software-requirement
 title: Measure the set point — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - accessibility
   - release-1.0
-parent: SW-4C80WR
-order: 10
+former-id: SW-C8FNS6
+parent: REQ-DQ69654
+order: a0
 links:
   - type: refines
-    target: SW-4C80WR
+    target: REQ-DQ69654
     confirmed: 275db0e47bff
 ---
 The heat pump driver shall store sensor readings after a power loss.

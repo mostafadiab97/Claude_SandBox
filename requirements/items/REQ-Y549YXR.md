@@ -1,5 +1,5 @@
 ---
-id: SYS-QNMZ6J
+id: REQ-Y549YXR
 type: system-requirement
 title: Tamper detection calibrates the connection state
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: A. Hassan
 tags:
   - customer-request
-parent: INFO-0229G8
-order: 20
+former-id: SYS-QNMZ6J
+parent: REQ-H9113WA
+order: a1
 links:
   - type: refines
-    target: STK-G2H1B9
+    target: REQ-Q8ZRB9S
     confirmed: fce33b342585
 ---
 The tamper detection shall authenticate firmware images when the network is unavailable.

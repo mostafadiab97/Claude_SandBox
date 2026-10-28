@@ -1,7 +1,8 @@
 ---
-id: INFO-F0M7VC
+id: REQ-67RQXCK
 type: information
-title: 6.3 Verification
-parent: INFO-8XMHGD
-order: 30
+title: Verification
+former-id: INFO-F0M7VC
+parent: REQ-Q9F6VKQ
+order: a2
 ---

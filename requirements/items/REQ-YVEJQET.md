@@ -1,15 +1,16 @@
 ---
-id: IF-GAQ53Z
+id: REQ-YVEJQET
 type: interface-requirement
 title: Mobile app encrypts the set point
 status: Approved
 priority: Medium
 owner: N. Kamal
-parent: SYS-ZM1TJV
-order: 10
+former-id: IF-GAQ53Z
+parent: REQ-TK8PFSP
+order: a0
 links:
   - type: refines
-    target: SYS-ZM1TJV
+    target: REQ-TK8PFSP
     confirmed: d30e404e164e
 ---
 The mobile app shall validate sensor readings below 0.5 W in standby.

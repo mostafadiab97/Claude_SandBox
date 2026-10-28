@@ -1,5 +1,5 @@
 ---
-id: TC-NGBPBK
+id: REQ-AKXJ0GJ
 type: test-case
 title: "Verify: Touch display displays the connection state"
 status: Draft
@@ -7,14 +7,15 @@ priority: Medium
 owner: M. Farouk
 tags:
   - ux
-parent: INFO-HTSZ15
-order: 870
+former-id: TC-NGBPBK
+parent: REQ-Y9VHHKA
+order: b0O
 links:
   - type: verifies
-    target: SYS-4S6M65
+    target: REQ-DPPPJSC
     confirmed: 5a70ac433dd3
   - type: verifies
-    target: SW-Z2HZNM
+    target: REQ-HHZT3QX
     confirmed: f7fe8182d612
 ---
 **Objective:** verify that the touch display behaves as specified.

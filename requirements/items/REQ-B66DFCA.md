@@ -1,5 +1,5 @@
 ---
-id: DEF-43F8JP
+id: REQ-B66DFCA
 type: defect
 title: "Defect: tamper detection does not validate the connection state"
 status: Review
@@ -8,14 +8,15 @@ owner: محمد علي
 tags:
   - accessibility
   - cost
-parent: INFO-6QFMYN
-order: 110
+former-id: DEF-43F8JP
+parent: REQ-1XKBKFE
+order: aA
 links:
   - type: relates-to
-    target: TC-4B23T4
+    target: REQ-0697Z7E
     confirmed: 598768167fed
   - type: relates-to
-    target: SYS-XFVPHY
+    target: REQ-VJDSGE0
     confirmed: 7476eaa71d9e
 ---
 Found during regression testing of build 2.2.13.

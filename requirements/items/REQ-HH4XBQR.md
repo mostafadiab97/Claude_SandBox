@@ -1,5 +1,5 @@
 ---
-id: SW-B7PSYK
+id: REQ-HH4XBQR
 type: software-requirement
 title: Cloud backend calibrates the room temperature
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: J. Müller
 tags:
   - ux
-parent: SYS-7SSV4S
-order: 10
+former-id: SW-B7PSYK
+parent: REQ-Y8K6PRS
+order: a0
 links:
   - type: refines
-    target: SYS-7SSV4S
+    target: REQ-Y8K6PRS
     confirmed: b8e679420187
 ---
 The OTA server shall measure schedule entries below 0.5 W in standby.

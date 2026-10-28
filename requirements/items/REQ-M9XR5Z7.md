@@ -1,5 +1,5 @@
 ---
-id: TC-PSQ7F2
+id: REQ-M9XR5Z7
 type: test-case
 title: "Verify: Secure boot synchronises audit records"
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - release-2.0
   - accessibility
-parent: INFO-Z4TW4B
-order: 1480
+former-id: TC-PSQ7F2
+parent: REQ-K6FGAY0
+order: b1N
 links:
   - type: verifies
-    target: SYS-PG0K3E
+    target: REQ-0KAWBJY
     confirmed: 2c023351a960
 ---
 **Objective:** verify that the secure boot behaves as specified.

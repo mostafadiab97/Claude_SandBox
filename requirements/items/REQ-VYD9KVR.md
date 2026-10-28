@@ -1,5 +1,5 @@
 ---
-id: SW-VMZPTT
+id: REQ-VYD9KVR
 type: software-requirement
 title: Tamper detection measures sensor readings
 status: Draft
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - safety
   - connectivity
-parent: SYS-81C7XG
-order: 10
+former-id: SW-VMZPTT
+parent: REQ-FF77ZPP
+order: a0
 links:
   - type: refines
-    target: SYS-81C7XG
+    target: REQ-FF77ZPP
     confirmed: b58b7666ff81
 ---
 The watchdog shall limit user preferences for up to 8 zones.

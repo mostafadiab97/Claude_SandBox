@@ -1,5 +1,5 @@
 ---
-id: SW-R2YQ6Z
+id: REQ-065PHS0
 type: software-requirement
 title: Pairing process logs access tokens
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - security
   - connectivity
   - power
-parent: SYS-F9GP9Y
-order: 10
+former-id: SW-R2YQ6Z
+parent: REQ-4JCY9Z0
+order: a0
 links:
   - type: refines
-    target: SYS-F9GP9Y
+    target: REQ-4JCY9Z0
     confirmed: 443125a88fee
 ---
 The Wi-Fi module shall synchronise access tokens when the network is unavailable.

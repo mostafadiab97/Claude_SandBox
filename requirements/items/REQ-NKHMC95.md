@@ -1,5 +1,5 @@
 ---
-id: SYS-0K19ZT
+id: REQ-NKHMC95
 type: system-requirement
 title: OTA server restores schedule entries
 status: Draft
@@ -8,14 +8,15 @@ owner: H. Mostafa
 tags:
   - release-1.0
   - customer-request
-parent: INFO-YV5EZD
-order: 750
+former-id: SYS-0K19ZT
+parent: REQ-RE9ZKHF
+order: b0C
 links:
   - type: refines
-    target: STK-VT1KVD
+    target: REQ-36Y9ND0
     confirmed: fbcfb8475f32
   - type: mitigates
-    target: RSK-M50SEK
+    target: REQ-RGWQXYM
     confirmed: e28fa3964498
 ---
 The OTA server shall calibrate the connection state for up to 8 zones.

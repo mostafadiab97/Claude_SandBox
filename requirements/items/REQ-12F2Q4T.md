@@ -1,14 +1,15 @@
 ---
-id: UC-4EPM0H
+id: REQ-12F2Q4T
 type: use-case
 title: "UC: Detect firmware images with the main PCB"
 status: Approved
 priority: High
-parent: INFO-6W132E
-order: 140
+former-id: UC-4EPM0H
+parent: REQ-QV7VW2A
+order: aD
 links:
   - type: relates-to
-    target: STK-Y4WG9E
+    target: REQ-Z62Y5S5
     confirmed: 9c3c4f9c0995
 ---
 **Actor:** home owner

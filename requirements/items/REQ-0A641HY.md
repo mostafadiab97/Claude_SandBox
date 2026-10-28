@@ -1,5 +1,5 @@
 ---
-id: SYS-3JQGM8
+id: REQ-0A641HY
 type: system-requirement
 title: Encryption layer authenticates the operating mode
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - security
   - performance
   - ux
-parent: INFO-0229G8
-order: 2080
+former-id: SYS-3JQGM8
+parent: REQ-H9113WA
+order: b2L
 links:
   - type: refines
-    target: STK-AKFTAC
+    target: REQ-C7Y99ZB
     confirmed: 3cca48da4b1c
 ---
 The encryption layer shall measure sensor readings within 200 ms.

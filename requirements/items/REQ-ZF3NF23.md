@@ -1,5 +1,5 @@
 ---
-id: HW-W0ZHZF
+id: REQ-ZF3NF23
 type: hardware-requirement
 title: Tamper detection switchs access tokens
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - release-1.0
   - performance
-parent: SYS-6DKMVB
-order: 30
+former-id: HW-W0ZHZF
+parent: REQ-JEP1255
+order: a2
 links:
   - type: refines
-    target: SYS-6DKMVB
+    target: REQ-JEP1255
     confirmed: 5ee18259fea5
 ---
 The secure boot shall switch user preferences in under 3 s.

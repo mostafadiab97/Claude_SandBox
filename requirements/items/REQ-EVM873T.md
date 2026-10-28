@@ -1,5 +1,5 @@
 ---
-id: SYS-F961QG
+id: REQ-EVM873T
 type: system-requirement
 title: Enclosure restores the connection state
 status: Draft
@@ -7,14 +7,15 @@ priority: Medium
 owner: N. Kamal
 tags:
   - connectivity
-parent: INFO-A6P9A8
-order: 1410
+former-id: SYS-F961QG
+parent: REQ-CMCS31A
+order: b1G
 links:
   - type: refines
-    target: STK-Y4WG9E
+    target: REQ-Z62Y5S5
     confirmed: 9c3c4f9c0995
   - type: mitigates
-    target: RSK-46TQ95
+    target: REQ-PWM7XS5
     confirmed: d8376349dea6
 ---
 The enclosure shall report firmware images after a power loss.

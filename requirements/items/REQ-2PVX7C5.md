@@ -1,15 +1,16 @@
 ---
-id: SW-Q26K4A
+id: REQ-2PVX7C5
 type: software-requirement
 title: Schedule editor restores energy consumption
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: SYS-6RXFNT
-order: 20
+former-id: SW-Q26K4A
+parent: REQ-G6H7R8E
+order: a1
 links:
   - type: refines
-    target: SYS-6RXFNT
+    target: REQ-G6H7R8E
     confirmed: 58653acb842c
 ---
 The notification service shall log the room temperature below 0.5 W in standby.

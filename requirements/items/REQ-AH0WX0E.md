@@ -1,5 +1,5 @@
 ---
-id: DE-RNBK96
+id: REQ-AH0WX0E
 type: design-element
 title: Module user_account_service_61
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - connectivity
-parent: SW-BQDSXR
-order: 10
+former-id: DE-RNBK96
+parent: REQ-EKM11Z2
+order: a0
 links:
   - type: implements
-    target: SW-BQDSXR
+    target: REQ-EKM11Z2
     confirmed: cd249f114907
 ---
 Implemented in `src/cloud/user_account_service.c`.

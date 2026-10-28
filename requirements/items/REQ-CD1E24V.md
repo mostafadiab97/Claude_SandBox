@@ -1,5 +1,5 @@
 ---
-id: IF-MNGYH5
+id: REQ-CD1E24V
 type: interface-requirement
 title: "Signal 247: error conditions"
 status: Approved
@@ -8,7 +8,8 @@ owner: N. Kamal
 tags:
   - performance
   - cost
-parent: INFO-2TM0JP
-order: 2470
+former-id: IF-MNGYH5
+parent: REQ-RJ0KHPT
+order: b2y
 ---
 Interface signal number 247.

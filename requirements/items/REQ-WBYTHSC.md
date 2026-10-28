@@ -1,5 +1,5 @@
 ---
-id: SW-BWNQZY
+id: REQ-WBYTHSC
 type: software-requirement
 title: Encryption layer limits the room temperature
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - ux
-parent: SYS-WKCZDQ
-order: 30
+former-id: SW-BWNQZY
+parent: REQ-AN5WSWC
+order: a2
 links:
   - type: refines
-    target: SYS-WKCZDQ
+    target: REQ-AN5WSWC
     confirmed: ef7ce1eb28d3
 ---
 The watchdog shall display the room temperature with an accuracy of ±0.5 °C.

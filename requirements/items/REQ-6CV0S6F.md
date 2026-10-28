@@ -1,5 +1,5 @@
 ---
-id: HW-85SX6P
+id: REQ-6CV0S6F
 type: hardware-requirement
 title: Battery backup authenticates the operating mode
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - power
   - regulatory
-parent: SYS-48BXDV
-order: 10
+former-id: HW-85SX6P
+parent: REQ-JQBQHV4
+order: a0
 links:
   - type: refines
-    target: SYS-48BXDV
+    target: REQ-JQBQHV4
     confirmed: b17b907e6406
 ---
 The enclosure shall limit relay events without user interaction.

@@ -1,18 +1,19 @@
 ---
-id: TC-FT21R4
+id: REQ-C958QZX
 type: test-case
 title: "Verify: Secure boot notifys the operating mode"
 status: Draft
 priority: Medium
 owner: S. Adel
-parent: INFO-Z4TW4B
-order: 780
+former-id: TC-FT21R4
+parent: REQ-K6FGAY0
+order: b0F
 links:
   - type: verifies
-    target: SYS-4MWCBY
+    target: REQ-MND8W5P
     confirmed: 12c71184dbf6
   - type: verifies
-    target: SW-H6KK0F
+    target: REQ-Z0CVGH2
     confirmed: e94aaaa10742
 ---
 **Objective:** verify that the secure boot behaves as specified.

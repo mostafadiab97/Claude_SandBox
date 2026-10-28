@@ -1,18 +1,19 @@
 ---
-id: SYS-MW6N7P
+id: REQ-7P088ZG
 type: system-requirement
 title: Home dashboard limits energy consumption
 status: Draft
 owner: Y. Saber
 tags:
   - release-2.0
-parent: INFO-2XXBRS
-order: 1920
+former-id: SYS-MW6N7P
+parent: REQ-QYXGSQ4
+order: b25
 links:
   - type: refines
     target: STK-H87WHA
   - type: mitigates
-    target: RSK-HTQ195
+    target: REQ-ZD4752F
     confirmed: feaa24748b2b
 ---
 The home dashboard shall validate the room temperature below 0.5 W in standby.

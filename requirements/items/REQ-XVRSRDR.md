@@ -1,5 +1,5 @@
 ---
-id: HW-05RNX3
+id: REQ-XVRSRDR
 type: hardware-requirement
 title: Watchdog validates relay events
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: M. Farouk
 tags:
   - power
-parent: SYS-FDJDP9
-order: 30
+former-id: HW-05RNX3
+parent: REQ-AR75A1G
+order: a2
 links:
   - type: refines
-    target: SYS-FDJDP9
+    target: REQ-AR75A1G
     confirmed: 3facea10cce7
 ---
 The secure boot shall calibrate access tokens for at least 10 years.

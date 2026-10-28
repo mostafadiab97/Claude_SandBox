@@ -1,5 +1,5 @@
 ---
-id: SW-Q1KTGV
+id: REQ-ZWJT6XR
 type: software-requirement
 title: Over-temperature monitor validates relay events
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - regulatory
   - ux
-parent: SYS-NJ7PF3
-order: 10
+former-id: SW-Q1KTGV
+parent: REQ-PXN146P
+order: a0
 links:
   - type: refines
-    target: SYS-NJ7PF3
+    target: REQ-PXN146P
     confirmed: 76cdb89e5d14
 ---
 The tamper detection shall detect energy consumption for up to 8 zones.

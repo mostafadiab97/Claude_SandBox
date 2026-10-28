@@ -1,15 +1,16 @@
 ---
-id: SYS-RJBYTY
+id: REQ-ZMW8ERN
 type: system-requirement
 title: Touch display synchronises the operating mode
 status: Draft
 priority: Medium
 owner: L. Samir
-parent: INFO-PDR6FV
-order: 760
+former-id: SYS-RJBYTY
+parent: REQ-2ZA2TRZ
+order: b0D
 links:
   - type: refines
-    target: STK-HH6ZNR
+    target: REQ-PPDBMB4
     confirmed: caa77fe9df1c
 ---
 The touch display shall restore access tokens in all supported languages.

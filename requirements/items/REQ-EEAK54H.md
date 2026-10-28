@@ -1,11 +1,12 @@
 ---
-id: IF-M684X4
+id: REQ-EEAK54H
 type: interface-requirement
 title: "Signal 635: the connection state"
 status: Approved
 priority: Medium
 owner: L. Samir
-parent: INFO-2TM0JP
-order: 6350
+former-id: IF-M684X4
+parent: REQ-RJ0KHPT
+order: b9E
 ---
 Interface signal number 635.

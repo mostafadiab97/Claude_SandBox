@@ -1,5 +1,5 @@
 ---
-id: IF-SG1CFN
+id: REQ-GPRHNPM
 type: interface-requirement
 title: "Signal 504: audit records"
 status: Approved
@@ -8,7 +8,8 @@ owner: K. Tanaka
 tags:
   - ux
   - connectivity
-parent: INFO-2TM0JP
-order: 5040
+former-id: IF-SG1CFN
+parent: REQ-RJ0KHPT
+order: b77
 ---
 Interface signal number 504.

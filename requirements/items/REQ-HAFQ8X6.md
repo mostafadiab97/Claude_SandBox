@@ -1,5 +1,5 @@
 ---
-id: TC-C0R2SS
+id: REQ-HAFQ8X6
 type: test-case
 title: "Regression: Telemetry pipeline restores energy consumption"
 status: Draft
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - security
   - regulatory
-parent: INFO-ECHASH
-order: 2000
+former-id: TC-C0R2SS
+parent: REQ-6H15AV2
+order: b2D
 links:
   - type: verifies
-    target: SYS-6A5W87
+    target: REQ-9YN386K
     confirmed: 739d6ec12ecc
 ---
 **Objective:** verify that the device behaves as specified.

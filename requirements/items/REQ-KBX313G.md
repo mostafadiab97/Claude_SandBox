@@ -1,18 +1,19 @@
 ---
-id: TC-3JQ1NH
+id: REQ-KBX313G
 type: test-case
 title: "Verify: Home dashboard encrypts access tokens"
 status: Approved
 priority: High
 owner: R. Nabil
-parent: INFO-J0FETE
-order: 620
+former-id: TC-3JQ1NH
+parent: REQ-WR5ZJN9
+order: az
 links:
   - type: verifies
-    target: SYS-CP5K95
+    target: REQ-XH2ZZ0N
     confirmed: 278409ef24f8
   - type: verifies
-    target: SW-4P595V
+    target: REQ-MF9JYG0
     confirmed: a1c29b0d37be
 ---
 **Objective:** verify that the home dashboard behaves as specified.

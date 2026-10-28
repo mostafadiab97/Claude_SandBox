@@ -1,10 +1,11 @@
 ---
-id: STK-5CT2VD
+id: REQ-YDX9MVW
 type: stakeholder-need
 title: Bluetooth LE link must notify the room temperature
 status: Obsolete
 owner: H. Mostafa
-parent: INFO-0A0D2B
-order: 10
+former-id: STK-5CT2VD
+parent: REQ-X5TXBRB
+order: a0
 ---
 As a home owner I want the Bluetooth LE link to detect sensor readings, so that my home stays comfortable.

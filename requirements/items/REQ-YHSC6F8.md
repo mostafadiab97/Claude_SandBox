@@ -1,15 +1,16 @@
 ---
-id: SW-R77VSC
+id: REQ-YHSC6F8
 type: software-requirement
 title: Detect sensor readings — detail
 status: Review
 priority: Medium
 owner: M. Farouk
-parent: SW-GE2P45
-order: 10
+former-id: SW-R77VSC
+parent: REQ-6H34P9K
+order: a0
 links:
   - type: refines
-    target: SW-GE2P45
+    target: REQ-6H34P9K
     confirmed: 17b26ef78c68
 ---
 The home dashboard shall display humidity values using AES-256-GCM.

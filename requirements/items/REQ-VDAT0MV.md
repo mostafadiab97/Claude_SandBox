@@ -1,5 +1,5 @@
 ---
-id: SW-A4QTAC
+id: REQ-VDAT0MV
 type: software-requirement
 title: Tamper detection notifys energy consumption
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - customer-request
   - release-2.0
-parent: SYS-KVH0QX
-order: 10
+former-id: SW-A4QTAC
+parent: REQ-7Z26VSZ
+order: a0
 links:
   - type: refines
-    target: SYS-KVH0QX
+    target: REQ-7Z26VSZ
     confirmed: 12318aa6eb13
 ---
 The over-temperature monitor shall limit humidity values below 0.5 W in standby.

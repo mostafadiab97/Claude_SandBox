@@ -1,5 +1,5 @@
 ---
-id: IF-B0STNV
+id: REQ-7ZKPWB5
 type: interface-requirement
 title: Encryption layer notifys the operating mode
 status: Approved
@@ -7,11 +7,12 @@ owner: محمد علي
 tags:
   - customer-request
   - security
-parent: SYS-7T162W
-order: 30
+former-id: IF-B0STNV
+parent: REQ-0RW492W
+order: a2
 links:
   - type: refines
-    target: SYS-7T162W
+    target: REQ-0RW492W
     confirmed: c3b62ffd68f1
 ---
 The over-temperature monitor shall calibrate relay events in under 3 s.

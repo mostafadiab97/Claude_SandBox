@@ -1,5 +1,5 @@
 ---
-id: IF-2KTZGH
+id: REQ-FCJRWFK
 type: interface-requirement
 title: Pairing process notifys the set point
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - security
   - release-1.0
-parent: SYS-JKNRQ3
-order: 30
+former-id: IF-2KTZGH
+parent: REQ-MM8GTZJ
+order: a2
 links:
   - type: refines
-    target: SYS-JKNRQ3
+    target: REQ-MM8GTZJ
     confirmed: 2f3dabce7169
 ---
 The pairing process shall validate audit records at least once per minute.

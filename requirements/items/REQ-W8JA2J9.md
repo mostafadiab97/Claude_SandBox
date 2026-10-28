@@ -1,5 +1,5 @@
 ---
-id: TC-0PKAMZ
+id: REQ-W8JA2J9
 type: test-case
 title: "Verify: Pairing process validates access tokens"
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: R. Nabil
 tags:
   - power
-parent: INFO-F0M7VC
-order: 220
+former-id: TC-0PKAMZ
+parent: REQ-67RQXCK
+order: aL
 links:
   - type: verifies
-    target: SYS-CM44AM
+    target: REQ-PR70XPC
     confirmed: 2a3acc022feb
 ---
 **Objective:** verify that the pairing process behaves as specified.

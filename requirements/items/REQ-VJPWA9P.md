@@ -1,5 +1,5 @@
 ---
-id: IF-FDXN2Q
+id: REQ-VJPWA9P
 type: interface-requirement
 title: "Signal 033: user preferences"
 status: Approved
@@ -7,7 +7,8 @@ priority: High
 owner: N. Kamal
 tags:
   - connectivity
-parent: INFO-2TM0JP
-order: 330
+former-id: IF-FDXN2Q
+parent: REQ-RJ0KHPT
+order: aW
 ---
 Interface signal number 33.

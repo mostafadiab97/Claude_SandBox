@@ -1,15 +1,16 @@
 ---
-id: HW-2X6N3X
+id: REQ-F4JHXWH
 type: hardware-requirement
 title: Cloud backend limits the room temperature
 status: Draft
 priority: Medium
 owner: J. Müller
-parent: SYS-VEFG9D
-order: 40
+former-id: HW-2X6N3X
+parent: REQ-9T1P54R
+order: a3
 links:
   - type: refines
-    target: SYS-VEFG9D
+    target: REQ-9T1P54R
     confirmed: f2ed11769dc3
 ---
 The OTA server shall report relay events with an accuracy of ±0.5 °C.

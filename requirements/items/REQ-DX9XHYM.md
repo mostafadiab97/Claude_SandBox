@@ -1,15 +1,16 @@
 ---
-id: SW-K3F3HS
+id: REQ-DX9XHYM
 type: software-requirement
 title: Menu system displays access tokens
 status: Approved
 priority: Low
 owner: Y. Saber
-parent: SYS-KMZ032
-order: 20
+former-id: SW-K3F3HS
+parent: REQ-2E3JP7D
+order: a1
 links:
   - type: refines
-    target: SYS-KMZ032
+    target: REQ-2E3JP7D
     confirmed: 604e69a0125a
 ---
 The menu system shall display audit records without user interaction.

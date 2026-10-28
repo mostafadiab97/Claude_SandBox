@@ -1,5 +1,5 @@
 ---
-id: TC-QXD4C7
+id: REQ-M86S7EE
 type: test-case
 title: "Verify: Heat pump driver limits the connection state"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - performance
   - safety
   - release-2.0
-parent: INFO-MS9DAG
-order: 790
+former-id: TC-QXD4C7
+parent: REQ-XGWSK2K
+order: b0G
 links:
   - type: verifies
-    target: SYS-NEEMPT
+    target: REQ-CSQ5WDR
     confirmed: 0bcec31c69de
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

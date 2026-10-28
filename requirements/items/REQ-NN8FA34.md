@@ -1,5 +1,5 @@
 ---
-id: TC-NQ8XMV
+id: REQ-NN8FA34
 type: test-case
 title: "Verify: Pairing process limits access tokens"
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - customer-request
   - cost
-parent: INFO-F0M7VC
-order: 680
+former-id: TC-NQ8XMV
+parent: REQ-67RQXCK
+order: b05
 links:
   - type: verifies
-    target: SYS-X1DW4B
+    target: REQ-CFX186J
     confirmed: ac324fd128ba
 ---
 **Objective:** verify that the pairing process behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: IF-K3PPS4
+id: REQ-ZD1YMJT
 type: interface-requirement
 title: Local API displays the connection state
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - safety
   - accessibility
-parent: SYS-ZKTQQ8
-order: 30
+former-id: IF-K3PPS4
+parent: REQ-GAN1A2X
+order: a2
 links:
   - type: refines
-    target: SYS-ZKTQQ8
+    target: REQ-GAN1A2X
     confirmed: 495d5a5d64dd
 ---
 The local API shall store error conditions in under 3 s.

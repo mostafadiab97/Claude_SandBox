@@ -1,5 +1,5 @@
 ---
-id: SYS-94CAYR
+id: REQ-V32ZD57
 type: system-requirement
 title: User account service detects user preferences
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 tags:
   - safety
   - connectivity
-parent: INFO-YV5EZD
-order: 310
+former-id: SYS-94CAYR
+parent: REQ-RE9ZKHF
+order: aU
 links:
   - type: refines
-    target: STK-Y5PMTC
+    target: REQ-FPBMKN9
     confirmed: 047439fb0db8
 ---
 The user account service shall authenticate the set point when the network is unavailable.

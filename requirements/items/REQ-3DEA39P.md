@@ -1,5 +1,5 @@
 ---
-id: TC-DAEQTK
+id: REQ-3DEA39P
 type: test-case
 title: "Verify: Enclosure measures access tokens"
 status: Review
@@ -9,11 +9,12 @@ tags:
   - power
   - regulatory
   - release-1.0
-parent: INFO-MACGC3
-order: 240
+former-id: TC-DAEQTK
+parent: REQ-F9Z1FYS
+order: aN
 links:
   - type: verifies
-    target: SYS-YW8M7A
+    target: REQ-6XTSEB4
     confirmed: 8a991d854752
 ---
 **Objective:** verify that the enclosure behaves as specified.

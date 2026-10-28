@@ -1,5 +1,5 @@
 ---
-id: SYS-TGB5BV
+id: REQ-FD54NF7
 type: system-requirement
 title: Bluetooth LE link encrypts audit records
 status: Approved
@@ -7,14 +7,15 @@ priority: High
 owner: K. Tanaka
 tags:
   - regulatory
-parent: INFO-NRVHA2
-order: 2160
+former-id: SYS-TGB5BV
+parent: REQ-6R94HFM
+order: b2T
 links:
   - type: refines
-    target: STK-G2ZBHW
+    target: REQ-GXR8KE5
     confirmed: fee0d3303478
   - type: mitigates
-    target: RSK-6H3D9M
+    target: REQ-0HFM6HD
     confirmed: c7f45fccd8d0
 ---
 The Bluetooth LE link shall store sensor readings when the network is unavailable.

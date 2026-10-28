@@ -1,5 +1,5 @@
 ---
-id: HW-E5Y8CC
+id: REQ-HFBGY1B
 type: hardware-requirement
 title: Schedule editor logs user preferences
 status: Review
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - EMC
   - cost
-parent: SYS-WZPXT3
-order: 40
+former-id: HW-E5Y8CC
+parent: REQ-GMRFA4Q
+order: a3
 links:
   - type: refines
-    target: SYS-WZPXT3
+    target: REQ-GMRFA4Q
     confirmed: 758f34cfcd04
 ---
 The schedule editor shall calibrate humidity values without user interaction.

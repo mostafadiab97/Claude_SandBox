@@ -1,7 +1,8 @@
 ---
-id: INFO-AXMPFC
+id: REQ-YA89TQ4
 type: information
-title: 7. Safety & Security
-order: 80
+title: Safety & Security
+former-id: INFO-AXMPFC
+order: a7
 ---
 Requirements for the safety & security.

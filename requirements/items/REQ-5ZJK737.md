@@ -1,5 +1,5 @@
 ---
-id: SYS-970YNT
+id: REQ-5ZJK737
 type: system-requirement
 title: Schedule editor stores firmware images
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - safety
   - power
   - regulatory
-parent: INFO-2XXBRS
-order: 810
+former-id: SYS-970YNT
+parent: REQ-QYXGSQ4
+order: b0I
 links:
   - type: refines
-    target: STK-4F6B1Y
+    target: REQ-5P7JDVE
     confirmed: 4a1d76b1da2c
 ---
 The schedule editor shall report firmware images using AES-256-GCM.

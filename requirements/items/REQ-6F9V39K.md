@@ -1,5 +1,5 @@
 ---
-id: SYS-Q32CFF
+id: REQ-6F9V39K
 type: system-requirement
 title: Touch display measures the connection state
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: A. Hassan
 tags:
   - i18n
-parent: INFO-PDR6FV
-order: 1920
+former-id: SYS-Q32CFF
+parent: REQ-2ZA2TRZ
+order: b25
 links:
   - type: refines
-    target: STK-HH6ZNR
+    target: REQ-PPDBMB4
     confirmed: caa77fe9df1c
 ---
 The touch display shall restore sensor readings in under 3 s.

@@ -1,5 +1,5 @@
 ---
-id: RSK-Y1RXSP
+id: REQ-D0C5GC1
 type: risk
 title: "Risk: OTA server fails to authenticate sensor readings"
 status: Review
@@ -9,8 +9,9 @@ tags:
   - release-2.0
   - power
   - safety
-parent: INFO-5BPX0K
-order: 30
+former-id: RSK-Y1RXSP
+parent: REQ-RSBFCPW
+order: a2
 ---
 **Hazard:** the OTA server could fail to store access tokens.
 

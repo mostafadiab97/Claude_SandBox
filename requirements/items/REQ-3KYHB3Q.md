@@ -1,5 +1,5 @@
 ---
-id: SW-E05HS7
+id: REQ-3KYHB3Q
 type: software-requirement
 title: OTA server authenticates user preferences
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: A. Hassan
 tags:
   - regulatory
-parent: SYS-2NJC1D
-order: 40
+former-id: SW-E05HS7
+parent: REQ-CES1JSE
+order: a3
 links:
   - type: refines
-    target: SYS-2NJC1D
+    target: REQ-CES1JSE
     confirmed: c95413eef36f
 ---
 The user account service shall display relay events for at least 10 years.

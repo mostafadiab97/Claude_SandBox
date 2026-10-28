@@ -1,15 +1,16 @@
 ---
-id: SYS-CJSA65
+id: REQ-2DN59YS
 type: system-requirement
 title: Relay board measures audit records
 status: Draft
 priority: High
 owner: M. Farouk
-parent: INFO-A6P9A8
-order: 1760
+former-id: SYS-CJSA65
+parent: REQ-CMCS31A
+order: b1p
 links:
   - type: refines
-    target: STK-4NGQJ5
+    target: REQ-4H1F9N3
     confirmed: 96640a7e340d
 ---
 The relay board shall switch schedule entries with an accuracy of ±0.5 °C.

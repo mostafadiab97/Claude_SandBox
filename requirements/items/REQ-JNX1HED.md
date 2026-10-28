@@ -1,17 +1,18 @@
 ---
-id: TC-BTTBVQ
+id: REQ-JNX1HED
 type: test-case
 title: "Verify: Enclosure logs the connection state"
 status: Draft
 owner: A. Hassan
-parent: INFO-MACGC3
-order: 1560
+former-id: TC-BTTBVQ
+parent: REQ-F9Z1FYS
+order: b1V
 links:
   - type: verifies
-    target: SYS-XRP95E
+    target: REQ-VKW8KMD
     confirmed: c526dc6b205d
   - type: verifies
-    target: SW-H767RS
+    target: REQ-TH6C89S
     confirmed: ddd704c50367
 ---
 **Objective:** verify that the enclosure behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: TC-RYCZFZ
+id: REQ-TKRT5QP
 type: test-case
 title: "Verify: Main PCB stores sensor readings"
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - security
   - safety
   - release-1.0
-parent: INFO-MACGC3
-order: 880
+former-id: TC-RYCZFZ
+parent: REQ-F9Z1FYS
+order: b0P
 links:
   - type: verifies
-    target: SYS-5C94DF
+    target: REQ-4CBY78D
     confirmed: c00f25df31a0
 ---
 **Objective:** verify that the main PCB behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: HW-74MXR0
+id: REQ-QXV8HKB
 type: hardware-requirement
 title: User account service encrypts the room temperature
 status: Review
 priority: High
 owner: S. Adel
-parent: SYS-0HAZNH
-order: 40
+former-id: HW-74MXR0
+parent: REQ-YP9B1S9
+order: a3
 links:
   - type: refines
-    target: SYS-0HAZNH
+    target: REQ-YP9B1S9
     confirmed: 8fef3f917b7b
 ---
 The cloud backend shall log user preferences below 0.5 W in standby.

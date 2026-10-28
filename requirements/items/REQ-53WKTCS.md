@@ -1,14 +1,15 @@
 ---
-id: TC-NE17ZC
+id: REQ-53WKTCS
 type: test-case
 title: "Verify: Enclosure authenticates relay events"
 status: Approved
 owner: H. Mostafa
-parent: INFO-MACGC3
-order: 1200
+former-id: TC-NE17ZC
+parent: REQ-F9Z1FYS
+order: b0v
 links:
   - type: verifies
-    target: SYS-NSQBT9
+    target: REQ-36A28XW
     confirmed: a72d25c263cd
 ---
 **Objective:** verify that the enclosure behaves as specified.

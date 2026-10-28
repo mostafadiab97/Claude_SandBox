@@ -1,16 +1,17 @@
 ---
-id: SW-VKX0ZM
+id: REQ-4KR116W
 type: software-requirement
 title: Device registry logs the set point
 status: Approved
 priority: Medium
 tags:
   - ux
-parent: SYS-6892JV
-order: 30
+former-id: SW-VKX0ZM
+parent: REQ-901RZ6N
+order: a2
 links:
   - type: refines
-    target: SYS-6892JV
+    target: REQ-901RZ6N
     confirmed: 75d4ba20cb76
 ---
 The device registry shall log energy consumption without user interaction.

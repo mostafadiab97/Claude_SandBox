@@ -1,11 +1,12 @@
 ---
-id: SYS-SD1N38
+id: REQ-6VREK7W
 type: system-requirement
 title: Mobile app limits relay events
 status: Obsolete
 priority: Medium
-parent: INFO-2XXBRS
-order: 1070
+former-id: SYS-SD1N38
+parent: REQ-QYXGSQ4
+order: b0i
 links:
   - type: refines
     target: STK-H87WHA

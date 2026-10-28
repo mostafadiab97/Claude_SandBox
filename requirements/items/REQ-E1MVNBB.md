@@ -1,15 +1,16 @@
 ---
-id: SYS-XDJVKC
+id: REQ-E1MVNBB
 type: system-requirement
 title: Secure boot authenticates the set point
 status: Draft
 priority: Low
 owner: R. Nabil
-parent: INFO-0229G8
-order: 470
+former-id: SYS-XDJVKC
+parent: REQ-H9113WA
+order: ak
 links:
   - type: refines
-    target: STK-AKFTAC
+    target: REQ-C7Y99ZB
     confirmed: 3cca48da4b1c
 ---
 The secure boot shall authenticate error conditions for up to 8 zones.

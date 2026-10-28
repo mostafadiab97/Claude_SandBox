@@ -1,5 +1,5 @@
 ---
-id: IF-EPQPEG
+id: REQ-KH5TDMX
 type: interface-requirement
 title: "Signal 506: firmware images"
 status: Draft
@@ -9,7 +9,8 @@ tags:
   - EMC
   - cost
   - performance
-parent: INFO-2TM0JP
-order: 5060
+former-id: IF-EPQPEG
+parent: REQ-RJ0KHPT
+order: b79
 ---
 Interface signal number 506.

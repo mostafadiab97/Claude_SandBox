@@ -1,16 +1,17 @@
 ---
-id: HW-XZXPN5
+id: REQ-HHD6Z30
 type: hardware-requirement
 title: Notification service restores schedule entries
 status: Draft
 priority: Low
 tags:
   - i18n
-parent: SYS-4B136B
-order: 20
+former-id: HW-XZXPN5
+parent: REQ-DB22HV0
+order: a1
 links:
   - type: refines
-    target: SYS-4B136B
+    target: REQ-DB22HV0
     confirmed: f1cf885c4dcd
 ---
 The schedule editor shall notify schedule entries without user interaction.

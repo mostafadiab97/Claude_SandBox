@@ -1,5 +1,5 @@
 ---
-id: TC-ADG5QC
+id: REQ-AD0047E
 type: test-case
 title: "Regression: Watchdog reports energy consumption"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - security
   - accessibility
   - release-1.0
-parent: INFO-ECHASH
-order: 1480
+former-id: TC-ADG5QC
+parent: REQ-6H15AV2
+order: b1N
 links:
   - type: verifies
-    target: SYS-4NQ8GT
+    target: REQ-33MFB68
     confirmed: 81a097bb4f90
 ---
 **Objective:** verify that the device behaves as specified.

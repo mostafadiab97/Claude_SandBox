@@ -1,5 +1,5 @@
 ---
-id: TC-6Z2A02
+id: REQ-FS322DM
 type: test-case
 title: "Verify: Status LED displays error conditions"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - safety
   - i18n
-parent: INFO-HTSZ15
-order: 1530
+former-id: TC-6Z2A02
+parent: REQ-Y9VHHKA
+order: b1S
 links:
   - type: verifies
-    target: SYS-933SE3
+    target: REQ-3668YHF
     confirmed: 87639e58a5eb
 ---
 **Objective:** verify that the status LED behaves as specified.

@@ -1,14 +1,15 @@
 ---
-id: DE-YVRVE8
+id: REQ-A5TX11K
 type: design-element
 title: Module secure_boot_63
 status: Approved
 priority: Medium
-parent: SW-5ZAFWN
-order: 10
+former-id: DE-YVRVE8
+parent: REQ-A7SNEQF
+order: a0
 links:
   - type: implements
-    target: SW-5ZAFWN
+    target: REQ-A7SNEQF
     confirmed: dabae8beaf50
 ---
 Implemented in `src/safe/secure_boot.c`.

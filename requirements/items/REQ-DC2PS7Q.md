@@ -1,5 +1,5 @@
 ---
-id: HW-N61M2B
+id: REQ-DC2PS7Q
 type: hardware-requirement
 title: Relay board restores audit records
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - security
-parent: SYS-ES2T78
-order: 30
+former-id: HW-N61M2B
+parent: REQ-MZPRC42
+order: a2
 links:
   - type: refines
-    target: SYS-ES2T78
+    target: REQ-MZPRC42
     confirmed: 96c465893601
 ---
 The enclosure shall notify relay events after a power loss.

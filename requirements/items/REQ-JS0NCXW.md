@@ -1,5 +1,5 @@
 ---
-id: DE-MC0KJ1
+id: REQ-JS0NCXW
 type: design-element
 title: Module watchdog_70
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - safety
   - regulatory
   - customer-request
-parent: SW-YW3489
-order: 10
+former-id: DE-MC0KJ1
+parent: REQ-Z02758V
+order: a0
 links:
   - type: implements
-    target: SW-YW3489
+    target: REQ-Z02758V
     confirmed: aa240ff1313e
 ---
 Implemented in `src/safe/watchdog.c`.

@@ -1,5 +1,5 @@
 ---
-id: CR-JJTMJF
+id: REQ-7PRXVQG
 type: change-request
 title: "CR: extend zone valve to encrypt the set point"
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: J. Müller
 tags:
   - EMC
-parent: INFO-ZBHTYF
-order: 100
+former-id: CR-JJTMJF
+parent: REQ-XJDN42Y
+order: a9
 links:
   - type: relates-to
-    target: SYS-ZQSPB3
+    target: REQ-7638CXD
     confirmed: c8c012d7096b
 ---
 Requested by customer support (ticket #17102).

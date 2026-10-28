@@ -1,15 +1,16 @@
 ---
-id: SW-PDQWRS
+id: REQ-NPYSDVE
 type: software-requirement
 title: Status LED authenticates the connection state
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: SYS-1SK52W
-order: 30
+former-id: SW-PDQWRS
+parent: REQ-R2DDK30
+order: a2
 links:
   - type: refines
-    target: SYS-1SK52W
+    target: REQ-R2DDK30
     confirmed: 27622b3cf4f9
 ---
 The backlight shall calibrate error conditions below 0.5 W in standby.

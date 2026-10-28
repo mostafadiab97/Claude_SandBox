@@ -1,15 +1,16 @@
 ---
-id: SYS-19AJTE
+id: REQ-JVYQ4PD
 type: system-requirement
 title: Menu system restores humidity values
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: INFO-PDR6FV
-order: 1010
+former-id: SYS-19AJTE
+parent: REQ-2ZA2TRZ
+order: b0c
 links:
   - type: refines
-    target: STK-KPV71Q
+    target: REQ-VQBZQVC
     confirmed: 10d9c216aea2
 ---
 The menu system shall restore safety limits below 0.5 W in standby.

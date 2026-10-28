@@ -1,15 +1,16 @@
 ---
-id: HW-RXWNM1
+id: REQ-1HBY7J6
 type: hardware-requirement
 title: Rotary knob synchronises audit records
 status: Draft
 priority: Medium
 owner: S. Adel
-parent: SYS-76BVFJ
-order: 20
+former-id: HW-RXWNM1
+parent: REQ-N13Q3PD
+order: a1
 links:
   - type: refines
-    target: SYS-76BVFJ
+    target: REQ-N13Q3PD
     confirmed: 3214f1c9f970
 ---
 The touch display shall limit humidity values when the network is unavailable.

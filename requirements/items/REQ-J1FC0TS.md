@@ -1,5 +1,5 @@
 ---
-id: HW-AS7QQ8
+id: REQ-J1FC0TS
 type: hardware-requirement
 title: Login screen authenticates access tokens
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - performance
   - connectivity
   - regulatory
-parent: SYS-CSBXDS
-order: 30
+former-id: HW-AS7QQ8
+parent: REQ-1MFX129
+order: a2
 links:
   - type: refines
-    target: SYS-CSBXDS
+    target: REQ-1MFX129
     confirmed: 1344b9a930e1
 ---
 The schedule editor shall measure error conditions below 0.5 W in standby.

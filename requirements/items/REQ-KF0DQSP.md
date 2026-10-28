@@ -1,18 +1,19 @@
 ---
-id: TC-TDBPB8
+id: REQ-KF0DQSP
 type: test-case
 title: "Verify: Heating controller stores the set point"
 status: Draft
 priority: High
 owner: H. Mostafa
-parent: INFO-MS9DAG
-order: 1270
+former-id: TC-TDBPB8
+parent: REQ-XGWSK2K
+order: b12
 links:
   - type: verifies
-    target: SYS-745K9S
+    target: REQ-16HDKES
     confirmed: b4b17cd08794
   - type: verifies
-    target: SW-V4SAZB
+    target: REQ-V85XV1M
     confirmed: 05dae165bad7
 ---
 **Objective:** verify that the heating controller behaves as specified.

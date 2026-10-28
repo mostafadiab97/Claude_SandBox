@@ -1,5 +1,5 @@
 ---
-id: DE-1HK7C5
+id: REQ-24MQND0
 type: design-element
 title: Module heat_pump_driver_14
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - power
   - customer-request
   - connectivity
-parent: SW-43Q8JK
-order: 10
+former-id: DE-1HK7C5
+parent: REQ-GXTVP8V
+order: a0
 links:
   - type: implements
-    target: SW-43Q8JK
+    target: REQ-GXTVP8V
     confirmed: c9cebc6a89ed
 ---
 Implemented in `src/heat/heat_pump_driver.c`.

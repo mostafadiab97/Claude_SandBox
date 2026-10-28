@@ -1,14 +1,15 @@
 ---
-id: SYS-QYMGFJ
+id: REQ-XS1VJSH
 type: system-requirement
 title: Regulation loop stores the room temperature
 status: Review
 priority: Low
-parent: INFO-6DQTKV
-order: 630
+former-id: SYS-QYMGFJ
+parent: REQ-7ED7ZET
+order: b00
 links:
   - type: refines
-    target: STK-NTBW06
+    target: REQ-S4C7PYC
     confirmed: d92faafa8cce
 ---
 The regulation loop shall notify schedule entries without user interaction.

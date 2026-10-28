@@ -1,5 +1,5 @@
 ---
-id: SYS-5FSH1D
+id: REQ-QAGJ3HS
 type: system-requirement
 title: Zone valve switchs the set point
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - power
   - i18n
-parent: INFO-6DQTKV
-order: 1660
+former-id: SYS-5FSH1D
+parent: REQ-7ED7ZET
+order: b1f
 links:
   - type: refines
-    target: STK-ESBN30
+    target: REQ-HY1GZK0
     confirmed: 8a56cb48b6c3
 ---
 The zone valve shall report the room temperature when the network is unavailable.

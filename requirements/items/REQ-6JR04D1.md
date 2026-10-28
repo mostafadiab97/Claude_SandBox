@@ -1,5 +1,5 @@
 ---
-id: CR-DQ8W64
+id: REQ-6JR04D1
 type: change-request
 title: "CR: extend user account service to encrypt audit records"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - security
   - regulatory
-parent: INFO-M91889
-order: 150
+former-id: CR-DQ8W64
+parent: REQ-9FNWH0D
+order: aE
 links:
   - type: relates-to
-    target: SYS-9P1HDM
+    target: REQ-RPS4RWY
     confirmed: d55d9bf1fce6
 ---
 Requested by customer support (ticket #11165).

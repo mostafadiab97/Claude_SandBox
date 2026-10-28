@@ -1,5 +1,5 @@
 ---
-id: IF-QK2BTP
+id: REQ-YMTQ6ZR
 type: interface-requirement
 title: Zigbee radio restores error conditions
 status: Obsolete
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - release-1.0
   - release-2.0
-parent: SYS-B7MWJ2
-order: 10
+former-id: IF-QK2BTP
+parent: REQ-8782FZK
+order: a0
 links:
   - type: refines
-    target: SYS-B7MWJ2
+    target: REQ-8782FZK
     confirmed: cfcb93c868dc
 ---
 The Zigbee radio shall display sensor readings without user interaction.

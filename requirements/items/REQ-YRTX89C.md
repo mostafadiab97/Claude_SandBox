@@ -1,11 +1,12 @@
 ---
-id: IF-MWB5ZH
+id: REQ-YRTX89C
 type: interface-requirement
 title: "Signal 373: the connection state"
 status: Approved
 priority: Low
 owner: L. Samir
-parent: INFO-2TM0JP
-order: 3730
+former-id: IF-MWB5ZH
+parent: REQ-RJ0KHPT
+order: b50
 ---
 Interface signal number 373.

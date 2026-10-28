@@ -1,14 +1,15 @@
 ---
-id: SW-G0Q0MG
+id: REQ-ZYY0K1N
 type: software-requirement
 title: Log audit records — detail
 status: Draft
 priority: High
-parent: SW-RN99C6
-order: 10
+former-id: SW-G0Q0MG
+parent: REQ-AV7BNMF
+order: a0
 links:
   - type: refines
-    target: SW-RN99C6
+    target: REQ-AV7BNMF
     confirmed: f4a454d2a519
 ---
 The boiler interface shall display audit records in all supported languages.

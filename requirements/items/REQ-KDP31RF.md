@@ -1,5 +1,5 @@
 ---
-id: TC-WJN1D0
+id: REQ-KDP31RF
 type: test-case
 title: "Verify: Home dashboard detects sensor readings"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - performance
   - release-1.0
-parent: INFO-J0FETE
-order: 280
+former-id: TC-WJN1D0
+parent: REQ-WR5ZJN9
+order: aR
 links:
   - type: verifies
-    target: SYS-29G535
+    target: REQ-SWMBTEW
     confirmed: 68b37681cbe6
 ---
 **Objective:** verify that the home dashboard behaves as specified.

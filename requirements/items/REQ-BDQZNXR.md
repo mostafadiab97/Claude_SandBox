@@ -1,15 +1,16 @@
 ---
-id: IF-6PVG9F
+id: REQ-BDQZNXR
 type: interface-requirement
 title: Main PCB detects the connection state
 status: Obsolete
 priority: High
 owner: H. Mostafa
-parent: SYS-4000EB
-order: 20
+former-id: IF-6PVG9F
+parent: REQ-MZJPBNF
+order: a1
 links:
   - type: refines
-    target: SYS-4000EB
+    target: REQ-MZJPBNF
     confirmed: 34de3a2ac266
 ---
 The relay board shall encrypt sensor readings below 0.5 W in standby.

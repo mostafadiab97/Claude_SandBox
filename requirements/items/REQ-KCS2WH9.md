@@ -1,5 +1,5 @@
 ---
-id: HW-WZQVAR
+id: REQ-KCS2WH9
 type: hardware-requirement
 title: Relay board stores audit records
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - security
   - regulatory
-parent: SYS-FN6K6C
-order: 30
+former-id: HW-WZQVAR
+parent: REQ-GWKMKHF
+order: a2
 links:
   - type: refines
-    target: SYS-FN6K6C
+    target: REQ-GWKMKHF
     confirmed: de635490bacc
 ---
 The enclosure shall log audit records below 0.5 W in standby.

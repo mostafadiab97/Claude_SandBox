@@ -1,5 +1,5 @@
 ---
-id: DE-NGXPZJ
+id: REQ-HH4CSKW
 type: design-element
 title: Module OTA_server_76
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - release-1.0
   - ux
-parent: SW-HPB5A1
-order: 10
+former-id: DE-NGXPZJ
+parent: REQ-4F82R5K
+order: a0
 links:
   - type: implements
-    target: SW-HPB5A1
+    target: REQ-4F82R5K
     confirmed: 270e97be5e45
 ---
 Implemented in `src/cloud/OTA_server.c`.

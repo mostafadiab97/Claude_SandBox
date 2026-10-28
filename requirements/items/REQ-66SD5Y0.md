@@ -1,5 +1,5 @@
 ---
-id: SYS-J8Q01T
+id: REQ-66SD5Y0
 type: system-requirement
 title: Zone valve detects energy consumption
 status: Draft
@@ -8,14 +8,15 @@ tags:
   - regulatory
   - connectivity
   - cost
-parent: INFO-6DQTKV
-order: 1280
+former-id: SYS-J8Q01T
+parent: REQ-7ED7ZET
+order: b13
 links:
   - type: refines
-    target: STK-W1SAZ0
+    target: REQ-HA39PC8
     confirmed: f0954f8ba0a2
   - type: mitigates
-    target: RSK-BCAGDN
+    target: REQ-8G7SNRG
     confirmed: 872827ad2760
 ---
 The zone valve shall report humidity values for at least 10 years.

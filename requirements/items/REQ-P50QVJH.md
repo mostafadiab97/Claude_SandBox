@@ -1,5 +1,5 @@
 ---
-id: HW-3XG0PT
+id: REQ-P50QVJH
 type: hardware-requirement
 title: Bluetooth LE link detects access tokens
 status: Approved
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - EMC
   - customer-request
-parent: SYS-0ZTB0C
-order: 20
+former-id: HW-3XG0PT
+parent: REQ-YN1TCK7
+order: a1
 links:
   - type: refines
-    target: SYS-0ZTB0C
+    target: REQ-YN1TCK7
     confirmed: 930b53a550f7
 ---
 The local API shall display the set point in under 3 s.

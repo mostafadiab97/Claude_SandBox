@@ -1,5 +1,5 @@
 ---
-id: SW-YDAQGT
+id: REQ-2VDW4HK
 type: software-requirement
 title: Over-temperature monitor measures schedule entries
 status: Review
@@ -8,11 +8,12 @@ tags:
   - performance
   - ux
   - regulatory
-parent: SYS-V7ZK4B
-order: 30
+former-id: SW-YDAQGT
+parent: REQ-EJBN4HC
+order: a2
 links:
   - type: refines
-    target: SYS-V7ZK4B
+    target: REQ-EJBN4HC
     confirmed: d3ae0a8a942d
 ---
 The watchdog shall limit the room temperature for up to 8 zones.

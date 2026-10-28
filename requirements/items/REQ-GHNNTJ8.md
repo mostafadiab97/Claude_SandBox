@@ -1,5 +1,5 @@
 ---
-id: TC-97QFYX
+id: REQ-GHNNTJ8
 type: test-case
 title: "Verify: Encryption layer displays the set point"
 status: Draft
@@ -8,14 +8,15 @@ owner: H. Mostafa
 tags:
   - accessibility
   - power
-parent: INFO-Z4TW4B
-order: 730
+former-id: TC-97QFYX
+parent: REQ-K6FGAY0
+order: b0A
 links:
   - type: verifies
-    target: SYS-ZS700Y
+    target: REQ-2XAQ8RA
     confirmed: 3e1573548eed
   - type: verifies
-    target: SW-PY0PQQ
+    target: REQ-WBV56JP
     confirmed: 895d0c73b9f2
 ---
 **Objective:** verify that the encryption layer behaves as specified.

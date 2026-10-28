@@ -1,16 +1,17 @@
 ---
-id: SW-Q9WYXA
+id: REQ-4KDK974
 type: software-requirement
 title: Over-temperature monitor validates error conditions
 status: Draft
 priority: Medium
 tags:
   - regulatory
-parent: SYS-WNE3D0
-order: 10
+former-id: SW-Q9WYXA
+parent: REQ-ZE62P1K
+order: a0
 links:
   - type: refines
-    target: SYS-WNE3D0
+    target: REQ-ZE62P1K
     confirmed: c41d4d2660da
 ---
 The over-temperature monitor shall calibrate error conditions using AES-256-GCM.

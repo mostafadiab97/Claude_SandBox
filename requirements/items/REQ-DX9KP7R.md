@@ -1,5 +1,5 @@
 ---
-id: SW-WE02C8
+id: REQ-DX9KP7R
 type: software-requirement
 title: Local API calibrates user preferences
 status: Obsolete
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - accessibility
   - cost
-parent: SYS-V3JY7R
-order: 20
+former-id: SW-WE02C8
+parent: REQ-Y2QCE6V
+order: a1
 links:
   - type: refines
-    target: SYS-V3JY7R
+    target: REQ-Y2QCE6V
     confirmed: a0359a8db234
 ---
 The Zigbee radio shall encrypt access tokens for at least 10 years.

@@ -1,5 +1,5 @@
 ---
-id: CR-FFBBPS
+id: REQ-42QRHR7
 type: change-request
 title: "CR: extend heat pump driver to store safety limits"
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: Y. Saber
 tags:
   - regulatory
-parent: INFO-ZBHTYF
-order: 50
+former-id: CR-FFBBPS
+parent: REQ-XJDN42Y
+order: a4
 links:
   - type: relates-to
-    target: SYS-QGA0VX
+    target: REQ-GR9AKS7
     confirmed: 773f6956359c
 ---
 Requested by customer support (ticket #15663).

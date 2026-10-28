@@ -1,5 +1,5 @@
 ---
-id: TC-JR9A50
+id: REQ-2FZ2RVN
 type: test-case
 title: "Verify: Heating controller measures user preferences"
 status: Review
@@ -7,14 +7,15 @@ owner: R. Nabil
 tags:
   - customer-request
   - cost
-parent: INFO-MS9DAG
-order: 1310
+former-id: TC-JR9A50
+parent: REQ-XGWSK2K
+order: b16
 links:
   - type: verifies
-    target: SYS-YC69H2
+    target: REQ-Q28YZDM
     confirmed: e34bdb6b99b2
   - type: verifies
-    target: SW-N3NVXW
+    target: REQ-NW5RTYP
     confirmed: 82e0295a63ac
 ---
 **Objective:** verify that the heating controller behaves as specified.

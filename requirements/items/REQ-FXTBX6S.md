@@ -1,5 +1,5 @@
 ---
-id: SYS-BM27EB
+id: REQ-FXTBX6S
 type: system-requirement
 title: Watchdog synchronises safety limits
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: S. Adel
 tags:
   - release-1.0
-parent: INFO-0229G8
-order: 1630
+former-id: SYS-BM27EB
+parent: REQ-H9113WA
+order: b1c
 links:
   - type: refines
-    target: STK-B4ZH98
+    target: REQ-PGNNV26
     confirmed: c19c22627f21
 ---
 The watchdog shall store the connection state in all supported languages.

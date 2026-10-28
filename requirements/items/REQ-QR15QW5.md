@@ -1,5 +1,5 @@
 ---
-id: TC-XAGXXQ
+id: REQ-QR15QW5
 type: test-case
 title: "Verify: Zigbee radio authenticates the room temperature"
 status: Approved
@@ -8,14 +8,15 @@ tags:
   - EMC
   - i18n
   - power
-parent: INFO-F0M7VC
-order: 110
+former-id: TC-XAGXXQ
+parent: REQ-67RQXCK
+order: aA
 links:
   - type: verifies
-    target: SYS-8BB6P4
+    target: REQ-H09Y5DF
     confirmed: 6499795c1519
   - type: verifies
-    target: SW-3KKPHH
+    target: REQ-HBBBDNN
     confirmed: c8866c781995
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: IF-87E2X9
+id: REQ-4H3JWYZ
 type: interface-requirement
 title: Encryption layer restores firmware images
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: S. Adel
 tags:
   - regulatory
-parent: SYS-CB769Y
-order: 30
+former-id: IF-87E2X9
+parent: REQ-W7GCRX4
+order: a2
 links:
   - type: refines
-    target: SYS-CB769Y
+    target: REQ-W7GCRX4
     confirmed: 78ff4291b8f5
 ---
 The watchdog shall log firmware images for at least 10 years.

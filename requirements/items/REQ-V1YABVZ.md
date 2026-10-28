@@ -1,5 +1,5 @@
 ---
-id: HW-T23EW6
+id: REQ-V1YABVZ
 type: hardware-requirement
 title: Touch display validates humidity values
 status: Review
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - i18n
   - performance
-parent: SYS-6Y9BHS
-order: 20
+former-id: HW-T23EW6
+parent: REQ-DVVNZG6
+order: a1
 links:
   - type: refines
-    target: SYS-6Y9BHS
+    target: REQ-DVVNZG6
     confirmed: cb3485657a51
 ---
 The backlight shall encrypt the connection state in all supported languages.

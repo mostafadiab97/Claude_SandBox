@@ -1,5 +1,5 @@
 ---
-id: IF-BYY19Z
+id: REQ-SP8WWTA
 type: interface-requirement
 title: Tamper detection switchs sensor readings
 status: Obsolete
@@ -7,11 +7,12 @@ owner: J. Müller
 tags:
   - regulatory
   - safety
-parent: SYS-4NQ8GT
-order: 40
+former-id: IF-BYY19Z
+parent: REQ-33MFB68
+order: a3
 links:
   - type: refines
-    target: SYS-4NQ8GT
+    target: REQ-33MFB68
     confirmed: 81a097bb4f90
 ---
 The watchdog shall store sensor readings when the network is unavailable.

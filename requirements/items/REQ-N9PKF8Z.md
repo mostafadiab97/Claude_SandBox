@@ -1,13 +1,14 @@
 ---
-id: TC-FBN2Z7
+id: REQ-N9PKF8Z
 type: test-case
 title: "Verify: Telemetry pipeline notifys schedule entries"
 status: Review
-parent: INFO-7P4D8D
-order: 600
+former-id: TC-FBN2Z7
+parent: REQ-8351896
+order: ax
 links:
   - type: verifies
-    target: SYS-3MCFDD
+    target: REQ-89S1J9Z
     confirmed: a0fea72fbd43
 ---
 **Objective:** verify that the telemetry pipeline behaves as specified.

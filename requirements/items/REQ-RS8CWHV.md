@@ -1,14 +1,15 @@
 ---
-id: DE-J54GGF
+id: REQ-RS8CWHV
 type: design-element
 title: Module over-temperature_monitor_7
 status: Approved
 priority: Low
-parent: SW-GY72BR
-order: 10
+former-id: DE-J54GGF
+parent: REQ-G9TSGT8
+order: a0
 links:
   - type: implements
-    target: SW-GY72BR
+    target: REQ-G9TSGT8
     confirmed: b60a5a88c89f
 ---
 Implemented in `src/safe/over-temperature_monitor.c`.

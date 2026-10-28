@@ -1,5 +1,5 @@
 ---
-id: HW-RJQ6ZE
+id: REQ-96FZP2K
 type: hardware-requirement
 title: Notification service switchs humidity values
 status: Review
@@ -9,11 +9,12 @@ tags:
   - power
   - connectivity
   - accessibility
-parent: SYS-BKCGFY
-order: 10
+former-id: HW-RJQ6ZE
+parent: REQ-9B3KSET
+order: a0
 links:
   - type: refines
-    target: SYS-BKCGFY
+    target: REQ-9B3KSET
     confirmed: cca1fb8df9ed
 ---
 The schedule editor shall switch relay events below 0.5 W in standby.

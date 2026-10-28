@@ -1,15 +1,16 @@
 ---
-id: TC-W4FSE0
+id: REQ-2TWTC9M
 type: test-case
 title: Hub verification 39
 status: Approved
 priority: High
 owner: H. Mostafa
-parent: INFO-ECHASH
-order: 480
+former-id: TC-W4FSE0
+parent: REQ-6H15AV2
+order: al
 links:
   - type: verifies
-    target: SYS-K3Z0CT
+    target: REQ-KK9EHP7
     confirmed: 8c08ebec4abb
 ---
 **Objective:** verify that the thermostat behaves as specified.

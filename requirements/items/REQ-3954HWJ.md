@@ -1,5 +1,5 @@
 ---
-id: SW-2QFPBY
+id: REQ-3954HWJ
 type: software-requirement
 title: Heat pump driver logs the set point
 status: Review
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - release-1.0
   - power
-parent: SYS-HX38ZE
-order: 20
+former-id: SW-2QFPBY
+parent: REQ-0SX6R76
+order: a1
 links:
   - type: refines
-    target: SYS-HX38ZE
+    target: REQ-0SX6R76
     confirmed: afcd446a898e
 ---
 The heat pump driver shall measure the room temperature in under 3 s.

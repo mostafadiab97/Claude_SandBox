@@ -1,5 +1,5 @@
 ---
-id: SW-WEFXSM
+id: REQ-JFFADXQ
 type: software-requirement
 title: Zone valve calibrates the set point
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - customer-request
   - release-2.0
-parent: SYS-YC69H2
-order: 10
+former-id: SW-WEFXSM
+parent: REQ-Q28YZDM
+order: a0
 links:
   - type: refines
-    target: SYS-YC69H2
+    target: REQ-Q28YZDM
     confirmed: e34bdb6b99b2
 ---
 The heating controller shall report energy consumption after a power loss.

@@ -1,5 +1,5 @@
 ---
-id: TC-E0MD39
+id: REQ-JGMF2YX
 type: test-case
 title: "Verify: Status LED authenticates sensor readings"
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - regulatory
   - accessibility
-parent: INFO-HTSZ15
-order: 960
+former-id: TC-E0MD39
+parent: REQ-Y9VHHKA
+order: b0X
 links:
   - type: verifies
-    target: SYS-WY2MGE
+    target: REQ-GF42JSW
     confirmed: cd0fa22d1fa7
 ---
 **Objective:** verify that the status LED behaves as specified.

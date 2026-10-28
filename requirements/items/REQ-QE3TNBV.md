@@ -1,5 +1,5 @@
 ---
-id: IF-CMKTJ6
+id: REQ-QE3TNBV
 type: interface-requirement
 title: "Signal 522: the set point"
 status: Draft
@@ -8,7 +8,8 @@ tags:
   - performance
   - connectivity
   - security
-parent: INFO-2TM0JP
-order: 5220
+former-id: IF-CMKTJ6
+parent: REQ-RJ0KHPT
+order: b7P
 ---
 Interface signal number 522.

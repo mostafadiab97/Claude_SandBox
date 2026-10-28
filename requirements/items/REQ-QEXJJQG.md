@@ -1,5 +1,5 @@
 ---
-id: TC-EMHD52
+id: REQ-QEXJJQG
 type: test-case
 title: "Verify: Over-temperature monitor stores the set point"
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - regulatory
   - customer-request
   - ux
-parent: INFO-Z4TW4B
-order: 1060
+former-id: TC-EMHD52
+parent: REQ-K6FGAY0
+order: b0h
 links:
   - type: verifies
-    target: SYS-10RD9F
+    target: REQ-F2PF0EP
     confirmed: c65b58fe967d
   - type: verifies
-    target: SW-7ZZBED
+    target: REQ-D9WZFHH
     confirmed: 91cf5b7270df
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

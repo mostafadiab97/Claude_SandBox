@@ -1,5 +1,5 @@
 ---
-id: TC-XSX3MX
+id: REQ-E63DWW8
 type: test-case
 title: "Regression: Boiler interface detects schedule entries"
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - regulatory
   - cost
   - safety
-parent: INFO-ECHASH
-order: 530
+former-id: TC-XSX3MX
+parent: REQ-6H15AV2
+order: aq
 links:
   - type: verifies
-    target: SYS-FMC0YD
+    target: REQ-QWGMBHE
     confirmed: de721eeebf34
 ---
 **Objective:** verify that the device behaves as specified.

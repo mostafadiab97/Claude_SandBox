@@ -1,15 +1,16 @@
 ---
-id: TC-VQGV4X
+id: REQ-W5SQTSB
 type: test-case
 title: "Verify: Backlight calibrates sensor readings"
 status: Draft
 priority: Low
 owner: S. Adel
-parent: INFO-HTSZ15
-order: 640
+former-id: TC-VQGV4X
+parent: REQ-Y9VHHKA
+order: b01
 links:
   - type: verifies
-    target: SYS-WTN381
+    target: REQ-5ZNMHMS
     confirmed: 0039c77a1442
 ---
 **Objective:** verify that the backlight behaves as specified.

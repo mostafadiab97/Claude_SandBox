@@ -1,5 +1,5 @@
 ---
-id: TC-QWKVFF
+id: REQ-BM74GJR
 type: test-case
 title: "Verify: Mobile app encrypts audit records"
 status: Approved
@@ -7,11 +7,12 @@ owner: K. Tanaka
 tags:
   - release-1.0
   - connectivity
-parent: INFO-J0FETE
-order: 1000
+former-id: TC-QWKVFF
+parent: REQ-WR5ZJN9
+order: b0b
 links:
   - type: verifies
-    target: SYS-5EDM7V
+    target: REQ-QCXJ0FE
     confirmed: 50e6801cc264
 ---
 **Objective:** verify that the mobile app behaves as specified.

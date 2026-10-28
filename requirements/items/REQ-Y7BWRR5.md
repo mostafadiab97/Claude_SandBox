@@ -1,15 +1,16 @@
 ---
-id: TC-N8DA8A
+id: REQ-Y7BWRR5
 type: test-case
 title: "Verify: Encryption layer limits humidity values"
 status: Review
 priority: Medium
 owner: L. Samir
-parent: INFO-Z4TW4B
-order: 20
+former-id: TC-N8DA8A
+parent: REQ-K6FGAY0
+order: a1
 links:
   - type: verifies
-    target: SYS-BHD8S6
+    target: REQ-YC34KJR
     confirmed: b4b9539a5d88
 ---
 **Objective:** verify that the encryption layer behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: TC-TK32YW
+id: REQ-E6AXZ5W
 type: test-case
 title: "Verify: Pairing process logs energy consumption"
 status: Review
 priority: Medium
 owner: M. Farouk
-parent: INFO-F0M7VC
-order: 1420
+former-id: TC-TK32YW
+parent: REQ-67RQXCK
+order: b1H
 links:
   - type: verifies
-    target: SYS-JSEPSH
+    target: REQ-H8CB6ZQ
     confirmed: 07bbcfe4ef37
 ---
 **Objective:** verify that the pairing process behaves as specified.

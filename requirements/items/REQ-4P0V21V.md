@@ -1,5 +1,5 @@
 ---
-id: DE-XH12PY
+id: REQ-4P0V21V
 type: design-element
 title: Module rotary_knob_47
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - security
   - release-1.0
   - i18n
-parent: SW-VPV3G6
-order: 10
+former-id: DE-XH12PY
+parent: REQ-SWWMZFP
+order: a0
 links:
   - type: implements
-    target: SW-VPV3G6
+    target: REQ-SWWMZFP
     confirmed: ff90ed9a72ed
 ---
 Implemented in `src/ui/rotary_knob.c`.

@@ -1,15 +1,16 @@
 ---
-id: DE-3EQ38K
+id: REQ-D3E4NFJ
 type: design-element
 title: Module Zigbee_radio_49
 status: Approved
 priority: Medium
 owner: S. Adel
-parent: SW-6VNZC0
-order: 10
+former-id: DE-3EQ38K
+parent: REQ-RDMR8EN
+order: a0
 links:
   - type: implements
-    target: SW-6VNZC0
+    target: REQ-RDMR8EN
     confirmed: 15dbe7fe8ade
 ---
 Implemented in `src/conn/Zigbee_radio.c`.

@@ -1,16 +1,17 @@
 ---
-id: SW-V8AHJS
+id: REQ-7HS9XYF
 type: software-requirement
 title: Watchdog displays safety limits
 status: Review
 priority: Medium
 tags:
   - ux
-parent: SYS-W3VB1X
-order: 20
+former-id: SW-V8AHJS
+parent: REQ-KBZR5EK
+order: a1
 links:
   - type: refines
-    target: SYS-W3VB1X
+    target: REQ-KBZR5EK
     confirmed: 0b387183e7b1
 ---
 The tamper detection shall store access tokens below 0.5 W in standby.

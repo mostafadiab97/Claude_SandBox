@@ -1,15 +1,16 @@
 ---
-id: SW-44307Q
+id: REQ-JFY1Z87
 type: software-requirement
 title: Notification service synchronises firmware images
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: SYS-ZQ6H6R
-order: 20
+former-id: SW-44307Q
+parent: REQ-TNDSK41
+order: a1
 links:
   - type: refines
-    target: SYS-ZQ6H6R
+    target: REQ-TNDSK41
     confirmed: ac0d92980689
 ---
 The login screen shall switch the operating mode after a power loss.

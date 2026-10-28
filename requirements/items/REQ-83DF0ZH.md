@@ -1,5 +1,5 @@
 ---
-id: TC-HWMRVP
+id: REQ-83DF0ZH
 type: test-case
 title: "Verify: Mobile app restores the set point"
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - EMC
   - ux
   - connectivity
-parent: INFO-J0FETE
-order: 350
+former-id: TC-HWMRVP
+parent: REQ-WR5ZJN9
+order: aY
 links:
   - type: verifies
-    target: SYS-GYKHZH
+    target: REQ-QH5TX73
     confirmed: 315e5e474525
 ---
 **Objective:** verify that the mobile app behaves as specified.

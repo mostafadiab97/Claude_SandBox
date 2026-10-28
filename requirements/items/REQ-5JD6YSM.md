@@ -1,5 +1,5 @@
 ---
-id: SYS-ZD3S52
+id: REQ-5JD6YSM
 type: system-requirement
 title: Telemetry pipeline limits the room temperature
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - connectivity
   - power
-parent: INFO-YV5EZD
-order: 1730
+former-id: SYS-ZD3S52
+parent: REQ-RE9ZKHF
+order: b1m
 links:
   - type: refines
-    target: STK-Y5PMTC
+    target: REQ-FPBMKN9
     confirmed: 047439fb0db8
 ---
 The telemetry pipeline shall display safety limits in under 3 s.

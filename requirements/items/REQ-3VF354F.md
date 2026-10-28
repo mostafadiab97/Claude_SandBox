@@ -1,5 +1,5 @@
 ---
-id: HW-G5J6TP
+id: REQ-3VF354F
 type: hardware-requirement
 title: Switch the connection state — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - customer-request
   - release-2.0
-parent: HW-H17QK8
-order: 10
+former-id: HW-G5J6TP
+parent: REQ-NGYA16S
+order: a0
 links:
   - type: refines
-    target: HW-H17QK8
+    target: REQ-NGYA16S
     confirmed: 95dbe6f53a1d
 ---
 The telemetry pipeline shall store audit records for at least 10 years.

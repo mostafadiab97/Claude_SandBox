@@ -1,5 +1,5 @@
 ---
-id: HW-SADH3C
+id: REQ-0PBDSKE
 type: hardware-requirement
 title: Heat pump driver limits sensor readings
 status: Approved
@@ -7,11 +7,12 @@ owner: H. Mostafa
 tags:
   - security
   - performance
-parent: SYS-849P26
-order: 10
+former-id: HW-SADH3C
+parent: REQ-S3K8TNJ
+order: a0
 links:
   - type: refines
-    target: SYS-849P26
+    target: REQ-S3K8TNJ
     confirmed: 4fcdac202dc1
 ---
 The zone valve shall display audit records in under 3 s.

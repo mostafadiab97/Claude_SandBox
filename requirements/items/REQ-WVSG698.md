@@ -1,15 +1,16 @@
 ---
-id: SW-H71N1T
+id: REQ-WVSG698
 type: software-requirement
 title: Status LED detects error conditions
 status: Approved
 priority: Medium
 owner: محمد علي
-parent: SYS-ZWGKMZ
-order: 30
+former-id: SW-H71N1T
+parent: REQ-G15G5N0
+order: a2
 links:
   - type: refines
-    target: SYS-ZWGKMZ
+    target: REQ-G15G5N0
     confirmed: de491092c347
 ---
 The menu system shall validate sensor readings at least once per minute.

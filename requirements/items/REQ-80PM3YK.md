@@ -1,15 +1,16 @@
 ---
-id: SW-XHRAWT
+id: REQ-80PM3YK
 type: software-requirement
 title: Rotary knob restores the connection state
 status: Draft
 priority: High
 owner: H. Mostafa
-parent: SYS-V1S2ND
-order: 30
+former-id: SW-XHRAWT
+parent: REQ-727CVG0
+order: a2
 links:
   - type: refines
-    target: SYS-V1S2ND
+    target: REQ-727CVG0
     confirmed: 4aae50eaee58
 ---
 The menu system shall store humidity values for at least 10 years.

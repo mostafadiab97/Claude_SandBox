@@ -1,15 +1,16 @@
 ---
-id: TC-95Z22C
+id: REQ-AR9XY57
 type: test-case
 title: "Verify: Notification service measures the operating mode"
 status: Draft
 priority: High
 owner: J. Müller
-parent: INFO-J0FETE
-order: 320
+former-id: TC-95Z22C
+parent: REQ-WR5ZJN9
+order: aV
 links:
   - type: verifies
-    target: SYS-A6TWWN
+    target: REQ-K1BZ0HP
     confirmed: bf12fa6151fd
 ---
 **Objective:** verify that the notification service behaves as specified.

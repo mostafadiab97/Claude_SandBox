@@ -1,5 +1,5 @@
 ---
-id: IF-JKJFD6
+id: REQ-009D6YZ
 type: interface-requirement
 title: Boiler interface reports humidity values
 status: Review
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - i18n
   - cost
-parent: SYS-4ZV4DE
-order: 30
+former-id: IF-JKJFD6
+parent: REQ-68GER74
+order: a2
 links:
   - type: refines
-    target: SYS-4ZV4DE
+    target: REQ-68GER74
     confirmed: 67b9d1fd1831
 ---
 The heat pump driver shall authenticate relay events in all supported languages.

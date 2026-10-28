@@ -1,18 +1,19 @@
 ---
-id: TC-01K2AB
+id: REQ-EXXEQGY
 type: test-case
 title: "Verify: Wi-Fi module switchs schedule entries"
 status: Draft
 priority: Medium
 owner: J. Müller
-parent: INFO-F0M7VC
-order: 440
+former-id: TC-01K2AB
+parent: REQ-67RQXCK
+order: ah
 links:
   - type: verifies
-    target: SYS-5NPG22
+    target: REQ-1H9ZVHN
     confirmed: de7334e55ef0
   - type: verifies
-    target: SW-9PFE3C
+    target: REQ-R8QX8XF
     confirmed: bbde3871e044
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: DE-WKNNPR
+id: REQ-XS2K881
 type: design-element
 title: Module mobile_app_34
 status: Draft
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - ux
   - accessibility
-parent: SW-RFFCF6
-order: 20
+former-id: DE-WKNNPR
+parent: REQ-32F8R7P
+order: a1
 links:
   - type: implements
-    target: SW-RFFCF6
+    target: REQ-32F8R7P
     confirmed: e55ee221dfd4
 ---
 Implemented in `src/app/mobile_app.c`.

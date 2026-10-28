@@ -1,5 +1,5 @@
 ---
-id: TC-HP6PAW
+id: REQ-R3C25AH
 type: test-case
 title: "Verify: Enclosure logs the operating mode"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: A. Hassan
 tags:
   - safety
-parent: INFO-MACGC3
-order: 1710
+former-id: TC-HP6PAW
+parent: REQ-F9Z1FYS
+order: b1k
 links:
   - type: verifies
-    target: SYS-10B2S4
+    target: REQ-M486CMC
     confirmed: b19977729874
 ---
 **Objective:** verify that the enclosure behaves as specified.

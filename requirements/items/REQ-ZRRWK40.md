@@ -1,18 +1,19 @@
 ---
-id: TC-7MQA9R
+id: REQ-ZRRWK40
 type: test-case
 title: "Verify: Encryption layer calibrates firmware images"
 status: Approved
 priority: Medium
 owner: S. Adel
-parent: INFO-Z4TW4B
-order: 1430
+former-id: TC-7MQA9R
+parent: REQ-K6FGAY0
+order: b1I
 links:
   - type: verifies
-    target: SYS-MG3QAE
+    target: REQ-6JV91R3
     confirmed: fd1ef0a3e1ca
   - type: verifies
-    target: SW-TEJ96F
+    target: REQ-55KGAGW
     confirmed: c978465ae5a5
 ---
 **Objective:** verify that the encryption layer behaves as specified.

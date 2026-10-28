@@ -1,16 +1,17 @@
 ---
-id: SW-KMSG1B
+id: REQ-JDPXYX3
 type: software-requirement
 title: Zone valve measures the set point
 status: Approved
 priority: High
 tags:
   - release-1.0
-parent: SYS-19PGBF
-order: 30
+former-id: SW-KMSG1B
+parent: REQ-MEZG2J4
+order: a2
 links:
   - type: refines
-    target: SYS-19PGBF
+    target: REQ-MEZG2J4
     confirmed: ae3b18f7d74c
 ---
 The heating controller shall measure safety limits within 200 ms.

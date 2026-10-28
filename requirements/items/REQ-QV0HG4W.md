@@ -1,16 +1,17 @@
 ---
-id: DE-CPTYSR
+id: REQ-QV0HG4W
 type: design-element
 title: Module pairing_process_43
 status: Review
 owner: J. Müller
 tags:
   - connectivity
-parent: SW-JEH13M
-order: 20
+former-id: DE-CPTYSR
+parent: REQ-5838Y08
+order: a1
 links:
   - type: implements
-    target: SW-JEH13M
+    target: REQ-5838Y08
     confirmed: 6a3acdb4791f
 ---
 Implemented in `src/conn/pairing_process.c`.

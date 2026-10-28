@@ -1,5 +1,5 @@
 ---
-id: SYS-2094E7
+id: REQ-1VNKX7H
 type: system-requirement
 title: Main PCB switchs humidity values
 status: Review
@@ -9,11 +9,12 @@ tags:
   - safety
   - release-1.0
   - security
-parent: INFO-A6P9A8
-order: 190
+former-id: SYS-2094E7
+parent: REQ-CMCS31A
+order: aI
 links:
   - type: refines
-    target: STK-7F9256
+    target: REQ-GXZBB32
     confirmed: 5588db2eb80a
 ---
 The main PCB shall authenticate sensor readings in under 3 s.

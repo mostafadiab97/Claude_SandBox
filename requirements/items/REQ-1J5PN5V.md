@@ -1,5 +1,5 @@
 ---
-id: SW-22N8Y1
+id: REQ-1J5PN5V
 type: software-requirement
 title: Zigbee radio limits relay events
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - power
   - release-2.0
-parent: SYS-GW0M6J
-order: 40
+former-id: SW-22N8Y1
+parent: REQ-YNDHH68
+order: a3
 links:
   - type: refines
-    target: SYS-GW0M6J
+    target: REQ-YNDHH68
     confirmed: 9c07e786f103
 ---
 The pairing process shall calibrate relay events within 200 ms.

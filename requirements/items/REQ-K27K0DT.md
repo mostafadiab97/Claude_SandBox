@@ -1,14 +1,15 @@
 ---
-id: HW-MCMA48
+id: REQ-K27K0DT
 type: hardware-requirement
 title: Battery backup synchronises firmware images
 status: Approved
 owner: S. Adel
-parent: SYS-BP947W
-order: 10
+former-id: HW-MCMA48
+parent: REQ-Y7VXC9H
+order: a0
 links:
   - type: refines
-    target: SYS-BP947W
+    target: REQ-Y7VXC9H
     confirmed: f8fcab8bd387
 ---
 The power supply shall report access tokens with an accuracy of ±0.5 °C.

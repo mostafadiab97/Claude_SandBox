@@ -1,5 +1,5 @@
 ---
-id: SYS-0T0BYJ
+id: REQ-273B0DP
 type: system-requirement
 title: Encryption layer calibrates audit records
 status: Approved
@@ -8,14 +8,15 @@ owner: R. Nabil
 tags:
   - release-2.0
   - EMC
-parent: INFO-0229G8
-order: 330
+former-id: SYS-0T0BYJ
+parent: REQ-H9113WA
+order: aW
 links:
   - type: refines
-    target: STK-DJ9M3M
+    target: REQ-375SK1B
     confirmed: ba30e28a130f
   - type: mitigates
-    target: RSK-4WN2DG
+    target: REQ-3DEFD6F
     confirmed: b41c475816a4
 ---
 The encryption layer shall authenticate schedule entries in all supported languages.

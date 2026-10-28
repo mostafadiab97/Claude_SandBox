@@ -1,15 +1,16 @@
 ---
-id: SW-0H7T74
+id: REQ-STC1968
 type: software-requirement
 title: OTA server logs schedule entries
 status: Review
 priority: Medium
 owner: É. Laurent
-parent: SYS-X7Q0GZ
-order: 20
+former-id: SW-0H7T74
+parent: REQ-EP8W3RT
+order: a1
 links:
   - type: refines
-    target: SYS-X7Q0GZ
+    target: REQ-EP8W3RT
     confirmed: 1f0c64db8df4
 ---
 The telemetry pipeline shall report the connection state at least once per minute.

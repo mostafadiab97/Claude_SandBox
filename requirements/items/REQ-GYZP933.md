@@ -1,5 +1,5 @@
 ---
-id: IF-5P92ZG
+id: REQ-GYZP933
 type: interface-requirement
 title: Power supply stores relay events
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - i18n
   - ux
-parent: SYS-82CVHQ
-order: 40
+former-id: IF-5P92ZG
+parent: REQ-TCRNYA1
+order: a3
 links:
   - type: refines
-    target: SYS-82CVHQ
+    target: REQ-TCRNYA1
     confirmed: 53eb98981ee7
 ---
 The power supply shall measure firmware images below 0.5 W in standby.

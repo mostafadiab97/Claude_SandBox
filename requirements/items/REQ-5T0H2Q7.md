@@ -1,16 +1,17 @@
 ---
-id: TC-Q2WAQ6
+id: REQ-5T0H2Q7
 type: test-case
 title: "Verify: Rotary knob reports the operating mode"
 status: Obsolete
 priority: Medium
 tags:
   - release-2.0
-parent: INFO-HTSZ15
-order: 1430
+former-id: TC-Q2WAQ6
+parent: REQ-Y9VHHKA
+order: b1I
 links:
   - type: verifies
-    target: SYS-4RKE3A
+    target: REQ-5R1F7DB
     confirmed: a899eccfab06
 ---
 **Objective:** verify that the rotary knob behaves as specified.

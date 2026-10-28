@@ -1,15 +1,16 @@
 ---
-id: SW-EDR9HM
+id: REQ-0YS2WFG
 type: software-requirement
 title: Calibrate humidity values — detail
 status: Obsolete
 priority: High
 owner: N. Kamal
-parent: SW-Z90YKD
-order: 10
+former-id: SW-EDR9HM
+parent: REQ-A1CT6N3
+order: a0
 links:
   - type: refines
-    target: SW-Z90YKD
+    target: REQ-A1CT6N3
     confirmed: b06648d1dbae
 ---
 The menu system shall measure error conditions with an accuracy of ±0.5 °C.

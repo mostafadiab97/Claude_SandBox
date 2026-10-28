@@ -1,5 +1,5 @@
 ---
-id: TC-6FQZKG
+id: REQ-X4K2ZXK
 type: test-case
 title: "Verify: Heat pump driver authenticates energy consumption"
 status: Draft
@@ -7,14 +7,15 @@ owner: N. Kamal
 tags:
   - cost
   - performance
-parent: INFO-MS9DAG
-order: 710
+former-id: TC-6FQZKG
+parent: REQ-XGWSK2K
+order: b08
 links:
   - type: verifies
-    target: SYS-64T5WP
+    target: REQ-6JJPX7J
     confirmed: 6eadc6d38c4a
   - type: verifies
-    target: SW-CQC35W
+    target: REQ-144ZS07
     confirmed: 465a436c53ac
 ---
 **Objective:** verify that the heat pump driver behaves as specified.

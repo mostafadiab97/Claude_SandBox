@@ -1,17 +1,18 @@
 ---
-id: TC-HAATCF
+id: REQ-6Q6M5HS
 type: test-case
 title: "Verify: Local API displays schedule entries"
 status: Approved
 owner: A. Hassan
-parent: INFO-F0M7VC
-order: 530
+former-id: TC-HAATCF
+parent: REQ-67RQXCK
+order: aq
 links:
   - type: verifies
-    target: SYS-FA8CFD
+    target: REQ-KPTHK4E
     confirmed: 7868d91ae4aa
   - type: verifies
-    target: SW-J9XSE6
+    target: REQ-QSZFAF6
     confirmed: 2a159346ffb0
 ---
 **Objective:** verify that the local API behaves as specified.

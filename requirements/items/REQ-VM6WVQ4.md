@@ -1,5 +1,5 @@
 ---
-id: HW-CXQNJP
+id: REQ-VM6WVQ4
 type: hardware-requirement
 title: Regulation loop logs sensor readings
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - safety
   - release-1.0
-parent: SYS-MSJYD9
-order: 20
+former-id: HW-CXQNJP
+parent: REQ-0YZEF7C
+order: a1
 links:
   - type: refines
-    target: SYS-MSJYD9
+    target: REQ-0YZEF7C
     confirmed: a4f989d37c98
 ---
 The zone valve shall authenticate the connection state in under 3 s.

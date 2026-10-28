@@ -1,5 +1,5 @@
 ---
-id: SW-DCD4TG
+id: REQ-MFWJADQ
 type: software-requirement
 title: Mobile app switchs user preferences
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - EMC
   - i18n
   - connectivity
-parent: SYS-CG6CRR
-order: 10
+former-id: SW-DCD4TG
+parent: REQ-EJX4F3B
+order: a0
 links:
   - type: refines
-    target: SYS-CG6CRR
+    target: REQ-EJX4F3B
     confirmed: 221cd3163355
 ---
 The home dashboard shall switch humidity values after a power loss.

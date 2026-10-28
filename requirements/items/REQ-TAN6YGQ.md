@@ -1,15 +1,16 @@
 ---
-id: SW-J6W17Y
+id: REQ-TAN6YGQ
 type: software-requirement
 title: Local API calibrates access tokens
 status: Review
 priority: Low
 owner: R. Nabil
-parent: SYS-TC0THB
-order: 20
+former-id: SW-J6W17Y
+parent: REQ-M54QCCE
+order: a1
 links:
   - type: refines
-    target: SYS-TC0THB
+    target: REQ-M54QCCE
     confirmed: c7a17f22b84b
 ---
 The Wi-Fi module shall encrypt the connection state after a power loss.

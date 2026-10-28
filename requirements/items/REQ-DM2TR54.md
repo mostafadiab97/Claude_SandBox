@@ -1,16 +1,17 @@
 ---
-id: SYS-SNV0V5
+id: REQ-DM2TR54
 type: system-requirement
 title: Encryption layer logs user preferences
 status: Approved
 owner: R. Nabil
 tags:
   - connectivity
-parent: INFO-0229G8
-order: 1950
+former-id: SYS-SNV0V5
+parent: REQ-H9113WA
+order: b28
 links:
   - type: refines
-    target: STK-ZJRWCQ
+    target: REQ-9YG77WV
     confirmed: 080168ea99ae
 ---
 The encryption layer shall measure the room temperature within 200 ms.

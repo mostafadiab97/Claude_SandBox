@@ -1,5 +1,5 @@
 ---
-id: TC-ZW3JYS
+id: REQ-TPRRW8A
 type: test-case
 title: "Verify: Cloud backend restores the connection state"
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - release-2.0
   - connectivity
-parent: INFO-7P4D8D
-order: 50
+former-id: TC-ZW3JYS
+parent: REQ-8351896
+order: a4
 links:
   - type: verifies
-    target: SYS-3BVVSM
+    target: REQ-KWY4YDV
     confirmed: 8d4772f02317
 ---
 **Objective:** verify that the cloud backend behaves as specified.

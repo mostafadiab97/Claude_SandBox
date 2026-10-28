@@ -1,5 +1,5 @@
 ---
-id: HW-383029
+id: REQ-FXG47YA
 type: hardware-requirement
 title: Store the set point — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - EMC
   - release-2.0
-parent: HW-25HAVG
-order: 10
+former-id: HW-383029
+parent: REQ-07NE9TM
+order: a0
 links:
   - type: refines
-    target: HW-25HAVG
+    target: REQ-07NE9TM
     confirmed: bfa13e8c14f9
 ---
 The telemetry pipeline shall store user preferences below 0.5 W in standby.

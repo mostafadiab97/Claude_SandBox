@@ -1,5 +1,5 @@
 ---
-id: DE-TS5XGY
+id: REQ-WXSYXGX
 type: design-element
 title: Module encryption_layer_80
 status: Review
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - EMC
   - regulatory
-parent: SW-5E60W1
-order: 10
+former-id: DE-TS5XGY
+parent: REQ-MYM6DPC
+order: a0
 links:
   - type: implements
-    target: SW-5E60W1
+    target: REQ-MYM6DPC
     confirmed: 5558bbda3681
 ---
 Implemented in `src/safe/encryption_layer.c`.

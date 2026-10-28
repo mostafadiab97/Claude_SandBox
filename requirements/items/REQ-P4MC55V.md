@@ -1,15 +1,16 @@
 ---
-id: TC-V9KX95
+id: REQ-P4MC55V
 type: test-case
 title: "Verify: Login screen validates sensor readings"
 status: Obsolete
 priority: Low
 owner: N. Kamal
-parent: INFO-J0FETE
-order: 1470
+former-id: TC-V9KX95
+parent: REQ-WR5ZJN9
+order: b1M
 links:
   - type: verifies
-    target: SYS-EMNHY1
+    target: REQ-KZTR45M
     confirmed: 84eef3783091
 ---
 **Objective:** verify that the login screen behaves as specified.

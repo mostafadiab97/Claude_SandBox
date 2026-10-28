@@ -1,14 +1,15 @@
 ---
-id: TC-9YCE6S
+id: REQ-2BZB673
 type: test-case
 title: "Regression: Login screen stores the connection state"
 status: Approved
 owner: K. Tanaka
-parent: INFO-ECHASH
-order: 800
+former-id: TC-9YCE6S
+parent: REQ-6H15AV2
+order: b0H
 links:
   - type: verifies
-    target: SYS-8P54CP
+    target: REQ-982HCJH
     confirmed: 83be93bab647
 ---
 **Objective:** verify that the device behaves as specified.

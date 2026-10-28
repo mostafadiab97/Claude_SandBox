@@ -1,5 +1,5 @@
 ---
-id: SW-J9S9TQ
+id: REQ-E11S3J4
 type: software-requirement
 title: Secure boot logs access tokens
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - EMC
   - safety
   - security
-parent: SYS-7DF4GN
-order: 20
+former-id: SW-J9S9TQ
+parent: REQ-301HF1Q
+order: a1
 links:
   - type: refines
-    target: SYS-7DF4GN
+    target: REQ-301HF1Q
     confirmed: b8942c9f4893
 ---
 The tamper detection shall notify the set point within 200 ms.

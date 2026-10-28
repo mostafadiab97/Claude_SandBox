@@ -1,5 +1,5 @@
 ---
-id: TC-JMS8X8
+id: REQ-JW085NB
 type: test-case
 title: "Verify: OTA server calibrates the set point"
 status: Draft
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - cost
   - customer-request
-parent: INFO-7P4D8D
-order: 190
+former-id: TC-JMS8X8
+parent: REQ-8351896
+order: aI
 links:
   - type: verifies
-    target: SYS-2B7SGQ
+    target: REQ-QKQMW5J
     confirmed: 16e49588c382
 ---
 **Objective:** verify that the OTA server behaves as specified.

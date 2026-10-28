@@ -1,5 +1,5 @@
 ---
-id: SYS-ETTXK3
+id: REQ-KY4VTPD
 type: system-requirement
 title: Boiler interface calibrates access tokens
 status: Draft
@@ -8,14 +8,15 @@ owner: R. Nabil
 tags:
   - power
   - customer-request
-parent: INFO-6DQTKV
-order: 690
+former-id: SYS-ETTXK3
+parent: REQ-7ED7ZET
+order: b06
 links:
   - type: refines
-    target: STK-9YF5RE
+    target: REQ-FGZGBY5
     confirmed: 43643c03020f
   - type: mitigates
-    target: RSK-CMYE51
+    target: REQ-MSZ8QFP
     confirmed: b0be101f1b7b
 ---
 The boiler interface shall detect access tokens when the network is unavailable.

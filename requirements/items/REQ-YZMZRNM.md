@@ -1,5 +1,5 @@
 ---
-id: DEF-Y74FS1
+id: REQ-YZMZRNM
 type: defect
 title: "Defect: power supply does not calibrate the room temperature"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - power
   - EMC
   - release-2.0
-parent: INFO-BB7M2N
-order: 90
+former-id: DEF-Y74FS1
+parent: REQ-995FBPM
+order: a8
 links:
   - type: relates-to
-    target: TC-571QHG
+    target: REQ-H00B0RK
     confirmed: 06b665964e59
   - type: relates-to
-    target: SYS-C6GTWA
+    target: REQ-2W8C2K6
     confirmed: 4675716bf203
 ---
 Found during regression testing of build 2.3.14.

@@ -1,5 +1,5 @@
 ---
-id: SYS-JGSYAF
+id: REQ-VQSZ3CB
 type: system-requirement
 title: Cloud backend restores sensor readings
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - accessibility
   - security
   - safety
-parent: INFO-YV5EZD
-order: 1740
+former-id: SYS-JGSYAF
+parent: REQ-RE9ZKHF
+order: b1n
 links:
   - type: refines
-    target: STK-R8QH58
+    target: REQ-BN3T0GR
     confirmed: 13d6784d2cc9
 ---
 The cloud backend shall notify the room temperature below 0.5 W in standby.

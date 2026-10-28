@@ -1,14 +1,15 @@
 ---
-id: SW-YBSDT7
+id: REQ-R3KKKKH
 type: software-requirement
 title: Mobile app stores the connection state
 status: Draft
 owner: L. Samir
-parent: SYS-0847E1
-order: 30
+former-id: SW-YBSDT7
+parent: REQ-5KHGZ49
+order: a2
 links:
   - type: refines
-    target: SYS-0847E1
+    target: REQ-5KHGZ49
     confirmed: d8c0c127c7a5
 ---
 The notification service shall calibrate user preferences when the network is unavailable.

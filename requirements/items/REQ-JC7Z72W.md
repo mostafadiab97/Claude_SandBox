@@ -1,15 +1,16 @@
 ---
-id: TC-1ZCRH6
+id: REQ-JC7Z72W
 type: test-case
 title: "Verify: Enclosure stores the room temperature"
 status: Draft
 priority: High
 owner: É. Laurent
-parent: INFO-MACGC3
-order: 1590
+former-id: TC-1ZCRH6
+parent: REQ-F9Z1FYS
+order: b1Y
 links:
   - type: verifies
-    target: SYS-AXK7J9
+    target: REQ-6JEC1MF
     confirmed: 3cfd57c0b514
 ---
 **Objective:** verify that the enclosure behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: IF-1HJ5EJ
+id: REQ-1H81ZN1
 type: interface-requirement
 title: Switch the room temperature — detail
 status: Review
 priority: Medium
 owner: S. Adel
-parent: IF-H5WZK0
-order: 10
+former-id: IF-1HJ5EJ
+parent: REQ-4CRQGN7
+order: a0
 links:
   - type: refines
-    target: IF-H5WZK0
+    target: REQ-4CRQGN7
     confirmed: c13813b57602
 ---
 The boiler interface shall restore safety limits when the network is unavailable.

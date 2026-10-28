@@ -1,5 +1,5 @@
 ---
-id: SW-KKYJFE
+id: REQ-JE7B1NE
 type: software-requirement
 title: Validate safety limits — detail
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - accessibility
   - release-2.0
-parent: SW-1F45WK
-order: 10
+former-id: SW-KKYJFE
+parent: REQ-A77NW71
+order: a0
 links:
   - type: refines
-    target: SW-1F45WK
+    target: REQ-A77NW71
     confirmed: 25dd1b843598
 ---
 The notification service shall encrypt the set point in under 3 s.

@@ -1,18 +1,19 @@
 ---
-id: TC-V92BGY
+id: REQ-9S7J0H7
 type: test-case
 title: "Verify: Schedule editor stores audit records"
 status: Approved
 priority: Medium
 owner: É. Laurent
-parent: INFO-J0FETE
-order: 20
+former-id: TC-V92BGY
+parent: REQ-WR5ZJN9
+order: a1
 links:
   - type: verifies
-    target: SYS-7RX5NN
+    target: REQ-XZGCQC0
     confirmed: 076f07709938
   - type: verifies
-    target: SW-57FCES
+    target: REQ-FR4F14S
     confirmed: 00bc06cc95d8
 ---
 **Objective:** verify that the schedule editor behaves as specified.

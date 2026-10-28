@@ -1,19 +1,20 @@
 ---
-id: SYS-JKF1QX
+id: REQ-4Q67RJE
 type: system-requirement
 title: Encryption layer logs audit records
 status: Approved
 owner: Y. Saber
 tags:
   - safety
-parent: INFO-0229G8
-order: 620
+former-id: SYS-JKF1QX
+parent: REQ-H9113WA
+order: az
 links:
   - type: refines
-    target: STK-DJ9M3M
+    target: REQ-375SK1B
     confirmed: ba30e28a130f
   - type: mitigates
-    target: RSK-4K4PV0
+    target: REQ-45CBKT5
     confirmed: a3307c1a9b06
 ---
 The encryption layer shall authenticate safety limits with an accuracy of ±0.5 °C.

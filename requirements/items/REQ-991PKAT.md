@@ -1,14 +1,15 @@
 ---
-id: TC-44Z992
+id: REQ-991PKAT
 type: test-case
 title: "Verify: Wi-Fi module stores access tokens"
 status: Draft
 priority: High
-parent: INFO-F0M7VC
-order: 260
+former-id: TC-44Z992
+parent: REQ-67RQXCK
+order: aP
 links:
   - type: verifies
-    target: SYS-QNK6H4
+    target: REQ-H862292
     confirmed: 1c52736d21f7
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

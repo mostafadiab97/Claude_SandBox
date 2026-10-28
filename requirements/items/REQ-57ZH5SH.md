@@ -1,15 +1,16 @@
 ---
-id: SW-VZBJ86
+id: REQ-57ZH5SH
 type: software-requirement
 title: Zigbee radio switchs access tokens
 status: Approved
 priority: Low
 owner: R. Nabil
-parent: SYS-0J8RA9
-order: 20
+former-id: SW-VZBJ86
+parent: REQ-9Y4F13Z
+order: a1
 links:
   - type: refines
-    target: SYS-0J8RA9
+    target: REQ-9Y4F13Z
     confirmed: e16a16e4a8ad
 ---
 The Zigbee radio shall limit sensor readings when the network is unavailable.

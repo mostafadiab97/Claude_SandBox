@@ -1,14 +1,15 @@
 ---
-id: TC-KA9FPV
+id: REQ-8Y55SZ9
 type: test-case
 title: "Verify: Mobile app limits humidity values"
 status: Review
 owner: L. Samir
-parent: INFO-J0FETE
-order: 390
+former-id: TC-KA9FPV
+parent: REQ-WR5ZJN9
+order: ac
 links:
   - type: verifies
-    target: SYS-G2YZ1M
+    target: REQ-WBPCE50
     confirmed: ea46b375483c
 ---
 **Objective:** verify that the mobile app behaves as specified.

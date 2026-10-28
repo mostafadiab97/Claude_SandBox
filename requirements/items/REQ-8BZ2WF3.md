@@ -1,5 +1,5 @@
 ---
-id: SW-0CA54W
+id: REQ-8BZ2WF3
 type: software-requirement
 title: Touch display detects energy consumption
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - power
   - customer-request
-parent: SYS-Y4YCS0
-order: 20
+former-id: SW-0CA54W
+parent: REQ-XWFNNXT
+order: a1
 links:
   - type: refines
-    target: SYS-Y4YCS0
+    target: REQ-XWFNNXT
     confirmed: a080ef16fc5e
 ---
 The menu system shall limit the connection state in under 3 s.

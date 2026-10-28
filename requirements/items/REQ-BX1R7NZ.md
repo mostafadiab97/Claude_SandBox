@@ -1,15 +1,16 @@
 ---
-id: SW-BZ0QWG
+id: REQ-BX1R7NZ
 type: software-requirement
 title: Log schedule entries — detail
 status: Approved
 priority: Medium
 owner: M. Farouk
-parent: SW-N2SS39
-order: 10
+former-id: SW-BZ0QWG
+parent: REQ-WKYH3S2
+order: a0
 links:
   - type: refines
-    target: SW-N2SS39
+    target: REQ-WKYH3S2
     confirmed: 50e7f7afa151
 ---
 The zone valve shall authenticate the connection state for at least 10 years.

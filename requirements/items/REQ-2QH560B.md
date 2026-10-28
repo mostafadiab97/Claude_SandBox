@@ -1,5 +1,5 @@
 ---
-id: TC-5M4AV7
+id: REQ-2QH560B
 type: test-case
 title: "Verify: Main PCB restores humidity values"
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - safety
   - release-2.0
   - connectivity
-parent: INFO-MACGC3
-order: 870
+former-id: TC-5M4AV7
+parent: REQ-F9Z1FYS
+order: b0O
 links:
   - type: verifies
-    target: SYS-2SXPK4
+    target: REQ-08FNYP0
     confirmed: a35d491379ed
   - type: verifies
-    target: SW-54RD93
+    target: REQ-2VQDWWS
     confirmed: 8da42f132cf2
 ---
 **Objective:** verify that the main PCB behaves as specified.

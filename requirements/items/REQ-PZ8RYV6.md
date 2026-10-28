@@ -1,5 +1,5 @@
 ---
-id: IF-791BG9
+id: REQ-PZ8RYV6
 type: interface-requirement
 title: Main PCB limits audit records
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - customer-request
   - release-1.0
-parent: SYS-H9YARC
-order: 10
+former-id: IF-791BG9
+parent: REQ-7DP8FH8
+order: a0
 links:
   - type: refines
-    target: SYS-H9YARC
+    target: REQ-7DP8FH8
     confirmed: 65250d626484
 ---
 The main PCB shall detect the set point at least once per minute.

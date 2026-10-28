@@ -1,5 +1,5 @@
 ---
-id: IF-PS7Z41
+id: REQ-R8974JG
 type: interface-requirement
 title: Status LED validates the set point
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - EMC
   - cost
-parent: SYS-S17F3W
-order: 30
+former-id: IF-PS7Z41
+parent: REQ-B5QM2ZG
+order: a2
 links:
   - type: refines
-    target: SYS-S17F3W
+    target: REQ-B5QM2ZG
     confirmed: 02e3c6ed2cec
 ---
 The menu system shall calibrate energy consumption with an accuracy of ±0.5 °C.

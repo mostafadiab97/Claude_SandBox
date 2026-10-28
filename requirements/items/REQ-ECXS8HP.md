@@ -1,5 +1,5 @@
 ---
-id: SYS-5T8QY1
+id: REQ-ECXS8HP
 type: system-requirement
 title: User account service measures safety limits
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - regulatory
   - power
   - security
-parent: INFO-YV5EZD
-order: 1500
+former-id: SYS-5T8QY1
+parent: REQ-RE9ZKHF
+order: b1P
 links:
   - type: refines
-    target: STK-Y5PMTC
+    target: REQ-FPBMKN9
     confirmed: 047439fb0db8
 ---
 The user account service shall authenticate error conditions using AES-256-GCM.

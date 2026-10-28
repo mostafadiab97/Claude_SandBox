@@ -1,5 +1,5 @@
 ---
-id: CR-G9DT7G
+id: REQ-VGEJNF1
 type: change-request
 title: "CR: extend zone valve to measure user preferences"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - i18n
   - release-2.0
   - accessibility
-parent: INFO-ZBHTYF
-order: 150
+former-id: CR-G9DT7G
+parent: REQ-XJDN42Y
+order: aE
 links:
   - type: relates-to
-    target: SYS-QNW27Q
+    target: REQ-NBF8HWW
     confirmed: 560625c6b46e
 ---
 Requested by customer support (ticket #15915).

@@ -1,5 +1,5 @@
 ---
-id: HW-34S5C8
+id: REQ-G0JDVZR
 type: hardware-requirement
 title: Main PCB measures humidity values
 status: Review
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - release-1.0
   - security
-parent: SYS-75ZSGD
-order: 20
+former-id: HW-34S5C8
+parent: REQ-NHG4VB7
+order: a1
 links:
   - type: refines
-    target: SYS-75ZSGD
+    target: REQ-NHG4VB7
     confirmed: 58f0d670cbc1
 ---
 The main PCB shall log sensor readings using AES-256-GCM.

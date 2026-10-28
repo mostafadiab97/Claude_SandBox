@@ -1,18 +1,19 @@
 ---
-id: SYS-HH08PK
+id: REQ-KAM51ED
 type: system-requirement
 title: Local API validates the set point
 status: Review
 priority: Medium
 owner: L. Samir
-parent: INFO-NRVHA2
-order: 1030
+former-id: SYS-HH08PK
+parent: REQ-6R94HFM
+order: b0e
 links:
   - type: refines
-    target: STK-XSZSEZ
+    target: REQ-YN3XNWJ
     confirmed: 1038f4e2e9d4
   - type: mitigates
-    target: RSK-6H3D9M
+    target: REQ-0HFM6HD
     confirmed: c7f45fccd8d0
 ---
 The local API shall encrypt the connection state in all supported languages.

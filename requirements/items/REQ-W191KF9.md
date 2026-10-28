@@ -1,15 +1,16 @@
 ---
-id: SW-YDB75D
+id: REQ-W191KF9
 type: software-requirement
 title: Regulation loop restores energy consumption
 status: Review
 priority: High
 owner: H. Mostafa
-parent: SYS-MV4PNS
-order: 20
+former-id: SW-YDB75D
+parent: REQ-NTS0RXZ
+order: a1
 links:
   - type: refines
-    target: SYS-MV4PNS
+    target: REQ-NTS0RXZ
     confirmed: 1a518ac6e066
 ---
 The heat pump driver shall encrypt the connection state after a power loss.

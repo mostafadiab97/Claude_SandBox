@@ -1,5 +1,5 @@
 ---
-id: SW-DFY2R9
+id: REQ-4MR92QV
 type: software-requirement
 title: Schedule editor synchronises access tokens
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: K. Tanaka
 tags:
   - release-1.0
-parent: SYS-FCT3MK
-order: 40
+former-id: SW-DFY2R9
+parent: REQ-X86M4P6
+order: a3
 links:
   - type: refines
-    target: SYS-FCT3MK
+    target: REQ-X86M4P6
     confirmed: bc66988537d7
 ---
 The schedule editor shall log user preferences after a power loss.

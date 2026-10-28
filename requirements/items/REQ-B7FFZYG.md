@@ -1,5 +1,5 @@
 ---
-id: TC-X5BXNT
+id: REQ-B7FFZYG
 type: test-case
 title: "Regression: Relay board encrypts the set point"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - security
   - ux
   - safety
-parent: INFO-ECHASH
-order: 1050
+former-id: TC-X5BXNT
+parent: REQ-6H15AV2
+order: b0g
 links:
   - type: verifies
-    target: SYS-J3QEM9
+    target: REQ-TT6G6JA
     confirmed: 78aeb447b6ae
 ---
 **Objective:** verify that the device behaves as specified.

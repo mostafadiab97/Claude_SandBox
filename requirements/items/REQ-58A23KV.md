@@ -1,15 +1,16 @@
 ---
-id: SYS-EVBYJ7
+id: REQ-58A23KV
 type: system-requirement
 title: Login screen restores energy consumption
 status: Draft
 tags:
   - connectivity
-parent: INFO-2XXBRS
-order: 1780
+former-id: SYS-EVBYJ7
+parent: REQ-QYXGSQ4
+order: b1r
 links:
   - type: refines
-    target: STK-4F6B1Y
+    target: REQ-5P7JDVE
     confirmed: 4a1d76b1da2c
 ---
 The login screen shall display user preferences at least once per minute.

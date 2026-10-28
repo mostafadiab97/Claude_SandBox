@@ -1,15 +1,16 @@
 ---
-id: DE-D09DZD
+id: REQ-VREY991
 type: design-element
 title: Module OTA_server_57
 status: Draft
 priority: Medium
 owner: Y. Saber
-parent: SW-RWSWX9
-order: 10
+former-id: DE-D09DZD
+parent: REQ-HVG4DZJ
+order: a0
 links:
   - type: implements
-    target: SW-RWSWX9
+    target: REQ-HVG4DZJ
     confirmed: b91655295cc4
 ---
 Implemented in `src/cloud/OTA_server.c`.

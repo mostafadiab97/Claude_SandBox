@@ -1,15 +1,16 @@
 ---
-id: TC-1BF2QB
+id: REQ-FFTGN2V
 type: test-case
 title: "Verify: Rotary knob measures firmware images"
 status: Approved
 priority: High
 owner: K. Tanaka
-parent: INFO-HTSZ15
-order: 220
+former-id: TC-1BF2QB
+parent: REQ-Y9VHHKA
+order: aL
 links:
   - type: verifies
-    target: SYS-Q0NNG8
+    target: REQ-7R8GTE6
     confirmed: d9d2819ed73b
 ---
 **Objective:** verify that the rotary knob behaves as specified.

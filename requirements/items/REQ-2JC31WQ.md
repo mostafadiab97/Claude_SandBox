@@ -1,5 +1,5 @@
 ---
-id: SYS-TETJ5F
+id: REQ-2JC31WQ
 type: system-requirement
 title: Notification service calibrates the set point
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - security
   - connectivity
   - ux
-parent: INFO-2XXBRS
-order: 1420
+former-id: SYS-TETJ5F
+parent: REQ-QYXGSQ4
+order: b1H
 links:
   - type: refines
-    target: STK-F8MTPC
+    target: REQ-1ZYN1HD
     confirmed: bbf5b4f56657
 ---
 The notification service shall detect audit records after a power loss.

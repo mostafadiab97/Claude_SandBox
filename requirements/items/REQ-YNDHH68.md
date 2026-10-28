@@ -1,5 +1,5 @@
 ---
-id: SYS-GW0M6J
+id: REQ-YNDHH68
 type: system-requirement
 title: Pairing process logs the connection state
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: H. Mostafa
 tags:
   - accessibility
-parent: INFO-NRVHA2
-order: 2110
+former-id: SYS-GW0M6J
+parent: REQ-6R94HFM
+order: b2O
 links:
   - type: refines
-    target: STK-AAZ4HV
+    target: REQ-M9DYEF5
     confirmed: 44fc7956dbf8
 ---
 The pairing process shall detect the connection state for up to 8 zones.

@@ -1,5 +1,5 @@
 ---
-id: SW-84ARJA
+id: REQ-P32Y3RE
 type: software-requirement
 title: Heating controller displays relay events
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - i18n
   - release-1.0
   - cost
-parent: SYS-Y62PFM
-order: 30
+former-id: SW-84ARJA
+parent: REQ-3NYYTRF
+order: a2
 links:
   - type: refines
-    target: SYS-Y62PFM
+    target: REQ-3NYYTRF
     confirmed: daa058155ad3
 ---
 The regulation loop shall store humidity values in under 3 s.

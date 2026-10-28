@@ -1,15 +1,16 @@
 ---
-id: SW-6431BN
+id: REQ-Z0DX4ND
 type: software-requirement
 title: Encryption layer displays the operating mode
 status: Review
 priority: High
 owner: J. Müller
-parent: SYS-8FZWQN
-order: 20
+former-id: SW-6431BN
+parent: REQ-CKNG4P8
+order: a1
 links:
   - type: refines
-    target: SYS-8FZWQN
+    target: REQ-CKNG4P8
     confirmed: da1b062f4b9e
 ---
 The over-temperature monitor shall encrypt schedule entries using AES-256-GCM.

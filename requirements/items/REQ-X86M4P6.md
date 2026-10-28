@@ -1,5 +1,5 @@
 ---
-id: SYS-FCT3MK
+id: REQ-X86M4P6
 type: system-requirement
 title: Schedule editor restores safety limits
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: H. Mostafa
 tags:
   - accessibility
-parent: INFO-2XXBRS
-order: 990
+former-id: SYS-FCT3MK
+parent: REQ-QYXGSQ4
+order: b0a
 links:
   - type: refines
-    target: STK-639N9T
+    target: REQ-EMZ19WQ
     confirmed: 252da9caa62c
 ---
 The schedule editor shall switch audit records when the network is unavailable.

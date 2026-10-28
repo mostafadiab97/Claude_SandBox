@@ -1,5 +1,5 @@
 ---
-id: IF-PGFFDM
+id: REQ-QCAZ4W3
 type: interface-requirement
 title: Touch display authenticates user preferences
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 owner: L. Samir
 tags:
   - ux
-parent: SYS-T098Z1
-order: 30
+former-id: IF-PGFFDM
+parent: REQ-SF9Q7GE
+order: a2
 links:
   - type: refines
-    target: SYS-T098Z1
+    target: REQ-SF9Q7GE
     confirmed: 8bf9018cb7b2
 ---
 The menu system shall validate humidity values at least once per minute.

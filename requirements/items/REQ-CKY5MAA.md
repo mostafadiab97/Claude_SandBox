@@ -1,5 +1,5 @@
 ---
-id: HW-ZQ8HQN
+id: REQ-CKY5MAA
 type: hardware-requirement
 title: Calibrate the room temperature — detail
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: M. Farouk
 tags:
   - ux
-parent: HW-44S1K2
-order: 10
+former-id: HW-ZQ8HQN
+parent: REQ-GV7QGKK
+order: a0
 links:
   - type: refines
-    target: HW-44S1K2
+    target: REQ-GV7QGKK
     confirmed: 0e091040df8f
 ---
 The relay board shall authenticate user preferences using AES-256-GCM.

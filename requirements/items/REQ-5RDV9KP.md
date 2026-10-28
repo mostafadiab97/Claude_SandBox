@@ -1,15 +1,16 @@
 ---
-id: IF-54RPEX
+id: REQ-5RDV9KP
 type: interface-requirement
 title: Calibrate the room temperature — detail
 status: Review
 priority: High
 owner: محمد علي
-parent: IF-QS1ZXM
-order: 10
+former-id: IF-54RPEX
+parent: REQ-0NWNRWS
+order: a0
 links:
   - type: refines
-    target: IF-QS1ZXM
+    target: REQ-0NWNRWS
     confirmed: 7e7c7e73d25f
 ---
 The boiler interface shall authenticate firmware images without user interaction.

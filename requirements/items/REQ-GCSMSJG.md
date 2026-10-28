@@ -1,5 +1,5 @@
 ---
-id: IF-957GBT
+id: REQ-GCSMSJG
 type: interface-requirement
 title: Zone valve validates the room temperature
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: محمد علي
 tags:
   - accessibility
-parent: SYS-Y33EQ3
-order: 30
+former-id: IF-957GBT
+parent: REQ-C2Q8T0W
+order: a2
 links:
   - type: refines
-    target: SYS-Y33EQ3
+    target: REQ-C2Q8T0W
     confirmed: 06b5de7a3ad6
 ---
 The zone valve shall store relay events at least once per minute.

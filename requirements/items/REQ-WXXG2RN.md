@@ -1,5 +1,5 @@
 ---
-id: SW-YMPT0J
+id: REQ-WXXG2RN
 type: software-requirement
 title: Limit firmware images — detail
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - security
   - EMC
   - accessibility
-parent: SW-W0W05G
-order: 10
+former-id: SW-YMPT0J
+parent: REQ-3NCR1T9
+order: a0
 links:
   - type: refines
-    target: SW-W0W05G
+    target: REQ-3NCR1T9
     confirmed: 37e8cd81b452
 ---
 The telemetry pipeline shall switch user preferences within 200 ms.

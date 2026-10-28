@@ -1,5 +1,5 @@
 ---
-id: TC-RKFSMH
+id: REQ-19YTP87
 type: test-case
 title: "Verify: Touch display notifys firmware images"
 status: Approved
@@ -8,14 +8,15 @@ owner: Y. Saber
 tags:
   - safety
   - connectivity
-parent: INFO-HTSZ15
-order: 710
+former-id: TC-RKFSMH
+parent: REQ-Y9VHHKA
+order: b08
 links:
   - type: verifies
-    target: SYS-76BVFJ
+    target: REQ-N13Q3PD
     confirmed: 3214f1c9f970
   - type: verifies
-    target: SW-SV5WNT
+    target: REQ-T440D0C
     confirmed: 3601ce92e4e2
 ---
 **Objective:** verify that the touch display behaves as specified.

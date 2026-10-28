@@ -1,5 +1,5 @@
 ---
-id: HW-TS4REE
+id: REQ-2N6FR2R
 type: hardware-requirement
 title: Power supply synchronises relay events
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: S. Adel
 tags:
   - release-1.0
-parent: SYS-QGGTRG
-order: 10
+former-id: HW-TS4REE
+parent: REQ-CNQYTT2
+order: a0
 links:
   - type: refines
-    target: SYS-QGGTRG
+    target: REQ-CNQYTT2
     confirmed: e1c94732a57d
 ---
 The enclosure shall log access tokens for up to 8 zones.

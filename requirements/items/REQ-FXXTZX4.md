@@ -1,17 +1,18 @@
 ---
-id: TC-V6HV2C
+id: REQ-FXXTZX4
 type: test-case
 title: "Verify: Main PCB displays schedule entries"
 status: Review
 priority: Medium
-parent: INFO-MACGC3
-order: 500
+former-id: TC-V6HV2C
+parent: REQ-F9Z1FYS
+order: an
 links:
   - type: verifies
-    target: SYS-RK543Q
+    target: REQ-4BYNG6Z
     confirmed: fe331aa72f1d
   - type: verifies
-    target: SW-YTDRCH
+    target: REQ-1PHK646
     confirmed: 676ecf1ac386
 ---
 **Objective:** verify that the main PCB behaves as specified.

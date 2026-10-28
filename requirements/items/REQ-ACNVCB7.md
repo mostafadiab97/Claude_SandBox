@@ -1,18 +1,19 @@
 ---
-id: TC-3PD074
+id: REQ-ACNVCB7
 type: test-case
 title: "Verify: Local API validates audit records"
 status: Draft
 priority: Low
 owner: R. Nabil
-parent: INFO-F0M7VC
-order: 830
+former-id: TC-3PD074
+parent: REQ-67RQXCK
+order: b0K
 links:
   - type: verifies
-    target: SYS-FXSC63
+    target: REQ-99B435T
     confirmed: c0c686516288
   - type: verifies
-    target: SW-Z90YKD
+    target: REQ-A1CT6N3
     confirmed: b06648d1dbae
 ---
 **Objective:** verify that the local API behaves as specified.

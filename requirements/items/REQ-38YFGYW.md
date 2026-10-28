@@ -1,5 +1,5 @@
 ---
-id: SYS-FG76ZF
+id: REQ-38YFGYW
 type: system-requirement
 title: Enclosure stores error conditions
 status: Review
@@ -7,14 +7,15 @@ priority: Medium
 owner: R. Nabil
 tags:
   - i18n
-parent: INFO-A6P9A8
-order: 1640
+former-id: SYS-FG76ZF
+parent: REQ-CMCS31A
+order: b1d
 links:
   - type: refines
-    target: STK-ZWN5M8
+    target: REQ-Z2PYD5A
     confirmed: 994b9d44bde8
   - type: mitigates
-    target: RSK-CYTG6T
+    target: REQ-VDC6H37
     confirmed: 2c8e05c3e368
 ---
 The enclosure shall display humidity values without user interaction.

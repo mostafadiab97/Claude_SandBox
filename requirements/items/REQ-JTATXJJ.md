@@ -1,5 +1,5 @@
 ---
-id: SYS-JX8WF1
+id: REQ-JTATXJJ
 type: system-requirement
 title: Battery backup limits user preferences
 status: Draft
@@ -7,14 +7,15 @@ priority: Medium
 owner: L. Samir
 tags:
   - performance
-parent: INFO-A6P9A8
-order: 1550
+former-id: SYS-JX8WF1
+parent: REQ-CMCS31A
+order: b1U
 links:
   - type: refines
-    target: STK-922G3A
+    target: REQ-XZNTF7S
     confirmed: ea4a6a665922
   - type: mitigates
-    target: RSK-W413B9
+    target: REQ-187H7N8
     confirmed: 1a4d2dc5e12b
 ---
 The battery backup shall notify safety limits after a power loss.

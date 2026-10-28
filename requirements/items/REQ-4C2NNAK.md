@@ -1,15 +1,16 @@
 ---
-id: SYS-JF6ZTH
+id: REQ-4C2NNAK
 type: system-requirement
 title: Local API reports safety limits
 status: Review
 priority: Low
 owner: M. Farouk
-parent: INFO-NRVHA2
-order: 120
+former-id: SYS-JF6ZTH
+parent: REQ-6R94HFM
+order: aB
 links:
   - type: refines
-    target: STK-F7D2QS
+    target: REQ-7JDZJ5E
     confirmed: bd8a3050a12b
 ---
 The local API shall detect the set point for up to 8 zones.

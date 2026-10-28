@@ -1,14 +1,15 @@
 ---
-id: IF-FKVS9Z
+id: REQ-4AG0NYC
 type: interface-requirement
 title: Main PCB limits sensor readings
 status: Review
 priority: High
-parent: SYS-4JV7MY
-order: 10
+former-id: IF-FKVS9Z
+parent: REQ-EKP7AXG
+order: a0
 links:
   - type: refines
-    target: SYS-4JV7MY
+    target: REQ-EKP7AXG
     confirmed: 199fce62923b
 ---
 The battery backup shall validate firmware images below 0.5 W in standby.

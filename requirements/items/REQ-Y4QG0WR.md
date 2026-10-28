@@ -1,5 +1,5 @@
 ---
-id: IF-YRD13M
+id: REQ-Y4QG0WR
 type: interface-requirement
 title: "Signal 632: the room temperature"
 status: Draft
@@ -9,7 +9,8 @@ tags:
   - regulatory
   - release-1.0
   - release-2.0
-parent: INFO-2TM0JP
-order: 6320
+former-id: IF-YRD13M
+parent: REQ-RJ0KHPT
+order: b9B
 ---
 Interface signal number 632.

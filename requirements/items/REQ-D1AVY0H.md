@@ -1,15 +1,16 @@
 ---
-id: HW-1VHJ5A
+id: REQ-D1AVY0H
 type: hardware-requirement
 title: Secure boot synchronises the connection state
 status: Obsolete
 priority: High
 owner: R. Nabil
-parent: SYS-X6T49B
-order: 40
+former-id: HW-1VHJ5A
+parent: REQ-KGGYWX3
+order: a3
 links:
   - type: refines
-    target: SYS-X6T49B
+    target: REQ-KGGYWX3
     confirmed: 3c41bdfef76d
 ---
 The encryption layer shall authenticate the operating mode in all supported languages.

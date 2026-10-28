@@ -1,5 +1,5 @@
 ---
-id: IF-3N8REX
+id: REQ-F9E01T9
 type: interface-requirement
 title: Telemetry pipeline logs access tokens
 status: Review
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - connectivity
   - power
-parent: SYS-2RPS4X
-order: 30
+former-id: IF-3N8REX
+parent: REQ-DK1Y1RM
+order: a2
 links:
   - type: refines
-    target: SYS-2RPS4X
+    target: REQ-DK1Y1RM
     confirmed: 6a90f09e6ec1
 ---
 The OTA server shall log the operating mode at least once per minute.

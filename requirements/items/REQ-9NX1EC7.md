@@ -1,18 +1,19 @@
 ---
-id: TC-D9M97S
+id: REQ-9NX1EC7
 type: test-case
 title: "Verify: Cloud backend restores sensor readings"
 status: Approved
 priority: High
 owner: Y. Saber
-parent: INFO-7P4D8D
-order: 1430
+former-id: TC-D9M97S
+parent: REQ-8351896
+order: b1I
 links:
   - type: verifies
-    target: SYS-JGSYAF
+    target: REQ-VQSZ3CB
     confirmed: 68f515bb8ed8
   - type: verifies
-    target: SW-ZS27TP
+    target: REQ-W1PFRT4
     confirmed: f73a85af36cb
 ---
 **Objective:** verify that the cloud backend behaves as specified.

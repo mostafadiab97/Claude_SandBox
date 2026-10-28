@@ -1,5 +1,5 @@
 ---
-id: SW-VD99JH
+id: REQ-KXXNJF0
 type: software-requirement
 title: Boiler interface calibrates error conditions
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - release-1.0
   - EMC
-parent: SYS-TXF8EG
-order: 30
+former-id: SW-VD99JH
+parent: REQ-JB7W2BD
+order: a2
 links:
   - type: refines
-    target: SYS-TXF8EG
+    target: REQ-JB7W2BD
     confirmed: 941441170ff9
 ---
 The regulation loop shall restore safety limits below 0.5 W in standby.

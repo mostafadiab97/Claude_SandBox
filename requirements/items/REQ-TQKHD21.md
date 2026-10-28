@@ -1,5 +1,5 @@
 ---
-id: TC-N48DXP
+id: REQ-TQKHD21
 type: test-case
 title: "Verify: Main PCB displays access tokens"
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: K. Tanaka
 tags:
   - i18n
-parent: INFO-MACGC3
-order: 940
+former-id: TC-N48DXP
+parent: REQ-F9Z1FYS
+order: b0V
 links:
   - type: verifies
-    target: SYS-VG4CAX
+    target: REQ-DQ7BS3V
     confirmed: a7c55f8eb200
 ---
 **Objective:** verify that the main PCB behaves as specified.

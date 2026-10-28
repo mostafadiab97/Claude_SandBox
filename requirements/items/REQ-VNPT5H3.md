@@ -1,16 +1,17 @@
 ---
-id: SW-H0YSRP
+id: REQ-VNPT5H3
 type: software-requirement
 title: Schedule editor calibrates the operating mode
 status: Approved
 priority: Medium
 tags:
   - EMC
-parent: SYS-QDWM3F
-order: 10
+former-id: SW-H0YSRP
+parent: REQ-E75SXGC
+order: a0
 links:
   - type: refines
-    target: SYS-QDWM3F
+    target: REQ-E75SXGC
     confirmed: 6815e3fba85c
 ---
 The home dashboard shall limit safety limits at least once per minute.

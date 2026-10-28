@@ -1,15 +1,16 @@
 ---
-id: TC-NM35FX
+id: REQ-R5VFCMD
 type: test-case
 title: "Verify: Regulation loop restores the set point"
 status: Draft
 priority: Medium
 owner: H. Mostafa
-parent: INFO-MS9DAG
-order: 100
+former-id: TC-NM35FX
+parent: REQ-XGWSK2K
+order: a9
 links:
   - type: verifies
-    target: SYS-1WWXQV
+    target: REQ-2BR3BD5
     confirmed: 46c684db9439
 ---
 **Objective:** verify that the regulation loop behaves as specified.

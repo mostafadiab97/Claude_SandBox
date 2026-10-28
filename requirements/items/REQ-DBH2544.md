@@ -1,5 +1,5 @@
 ---
-id: SW-43Z6G6
+id: REQ-DBH2544
 type: software-requirement
 title: Limit error conditions — detail
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: S. Adel
 tags:
   - i18n
-parent: SW-JRCG5Y
-order: 10
+former-id: SW-43Z6G6
+parent: REQ-MB0M823
+order: a0
 links:
   - type: refines
-    target: SW-JRCG5Y
+    target: REQ-MB0M823
     confirmed: 8482d8a30b68
 ---
 The user account service shall synchronise the room temperature with an accuracy of ±0.5 °C.

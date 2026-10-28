@@ -1,15 +1,16 @@
 ---
-id: SW-RV5WTX
+id: REQ-JDDW2ZE
 type: software-requirement
 title: Store energy consumption — detail
 status: Approved
 priority: High
 owner: S. Adel
-parent: SW-RCX98F
-order: 10
+former-id: SW-RV5WTX
+parent: REQ-EBYGRJ4
+order: a0
 links:
   - type: refines
-    target: SW-RCX98F
+    target: REQ-EBYGRJ4
     confirmed: 821760d68a5a
 ---
 The heating controller shall measure sensor readings below 0.5 W in standby.

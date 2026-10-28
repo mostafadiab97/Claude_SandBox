@@ -1,15 +1,16 @@
 ---
-id: TC-FQNGHY
+id: REQ-94YS42K
 type: test-case
 title: "Regression: Heat pump driver synchronises relay events"
 status: Draft
 priority: High
 owner: K. Tanaka
-parent: INFO-ECHASH
-order: 1660
+former-id: TC-FQNGHY
+parent: REQ-6H15AV2
+order: b1f
 links:
   - type: verifies
-    target: SYS-R95DE9
+    target: REQ-99489MT
     confirmed: ed1eb0f9c553
 ---
 **Objective:** verify that the device behaves as specified.

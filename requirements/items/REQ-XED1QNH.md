@@ -1,15 +1,16 @@
 ---
-id: SYS-4T8ANS
+id: REQ-XED1QNH
 type: system-requirement
 title: Bluetooth LE link switchs the room temperature
 status: Draft
 priority: Low
 owner: L. Samir
-parent: INFO-NRVHA2
-order: 260
+former-id: SYS-4T8ANS
+parent: REQ-6R94HFM
+order: aP
 links:
   - type: refines
-    target: STK-AAZ4HV
+    target: REQ-M9DYEF5
     confirmed: 44fc7956dbf8
 ---
 The Bluetooth LE link shall display sensor readings at least once per minute.

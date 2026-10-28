@@ -1,16 +1,17 @@
 ---
-id: SYS-YD6GC1
+id: REQ-EC8X8XD
 type: system-requirement
 title: Telemetry pipeline calibrates audit records
 status: Approved
 owner: M. Farouk
 tags:
   - ux
-parent: INFO-YV5EZD
-order: 140
+former-id: SYS-YD6GC1
+parent: REQ-RE9ZKHF
+order: aD
 links:
   - type: refines
-    target: STK-R8QH58
+    target: REQ-BN3T0GR
     confirmed: 13d6784d2cc9
 ---
 The telemetry pipeline shall measure relay events in all supported languages.

@@ -1,5 +1,5 @@
 ---
-id: SW-0PW7HW
+id: REQ-T36X53M
 type: software-requirement
 title: Encryption layer validates firmware images
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - power
   - ux
-parent: SYS-BKCVJB
-order: 10
+former-id: SW-0PW7HW
+parent: REQ-5CZT8BT
+order: a0
 links:
   - type: refines
-    target: SYS-BKCVJB
+    target: REQ-5CZT8BT
     confirmed: 7750ef7b4cd4
 ---
 The watchdog shall synchronise the room temperature at least once per minute.

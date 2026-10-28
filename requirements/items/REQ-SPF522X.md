@@ -1,11 +1,12 @@
 ---
-id: IF-GVQW47
+id: REQ-SPF522X
 type: interface-requirement
 title: "Signal 045: schedule entries"
 status: Review
 priority: Medium
 owner: H. Mostafa
-parent: INFO-2TM0JP
-order: 450
+former-id: IF-GVQW47
+parent: REQ-RJ0KHPT
+order: ai
 ---
 Interface signal number 45.

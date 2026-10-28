@@ -1,5 +1,5 @@
 ---
-id: TC-GJ1HVK
+id: REQ-NQ5V19K
 type: test-case
 title: "Verify: Zigbee radio switchs safety limits"
 status: Obsolete
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - accessibility
   - safety
-parent: INFO-F0M7VC
-order: 1370
+former-id: TC-GJ1HVK
+parent: REQ-67RQXCK
+order: b1C
 links:
   - type: verifies
-    target: SYS-ZTHS0F
+    target: REQ-MSN5XXC
     confirmed: 1917153ef15c
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

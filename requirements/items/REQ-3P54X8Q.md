@@ -1,5 +1,5 @@
 ---
-id: HW-12FGVY
+id: REQ-3P54X8Q
 type: hardware-requirement
 title: Rotary knob detects energy consumption
 status: Review
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - EMC
   - regulatory
-parent: SYS-H3FFZV
-order: 30
+former-id: HW-12FGVY
+parent: REQ-WEM21SV
+order: a2
 links:
   - type: refines
-    target: SYS-H3FFZV
+    target: REQ-WEM21SV
     confirmed: 5a7f9180a50d
 ---
 The backlight shall limit the set point within 200 ms.

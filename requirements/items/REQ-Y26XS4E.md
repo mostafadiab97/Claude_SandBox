@@ -1,5 +1,5 @@
 ---
-id: TC-SVDKQC
+id: REQ-Y26XS4E
 type: test-case
 title: "Regression: Over-temperature monitor measures sensor readings"
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: J. Müller
 tags:
   - release-2.0
-parent: INFO-ECHASH
-order: 1580
+former-id: TC-SVDKQC
+parent: REQ-6H15AV2
+order: b1X
 links:
   - type: verifies
-    target: SYS-WNE3D0
+    target: REQ-ZE62P1K
     confirmed: c41d4d2660da
 ---
 **Objective:** verify that the device behaves as specified.

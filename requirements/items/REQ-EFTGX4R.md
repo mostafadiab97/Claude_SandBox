@@ -1,5 +1,5 @@
 ---
-id: SW-2P252V
+id: REQ-EFTGX4R
 type: software-requirement
 title: Schedule editor calibrates the set point
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - power
   - security
-parent: SYS-HPT8TA
-order: 30
+former-id: SW-2P252V
+parent: REQ-JYNEA7Y
+order: a2
 links:
   - type: refines
-    target: SYS-HPT8TA
+    target: REQ-JYNEA7Y
     confirmed: 55ed01be7cc1
 ---
 The schedule editor shall encrypt energy consumption below 0.5 W in standby.

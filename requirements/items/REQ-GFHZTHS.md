@@ -1,15 +1,16 @@
 ---
-id: SYS-S0ZBTB
+id: REQ-GFHZTHS
 type: system-requirement
 title: Bluetooth LE link authenticates audit records
 status: Review
 priority: Medium
 owner: É. Laurent
-parent: INFO-NRVHA2
-order: 1380
+former-id: SYS-S0ZBTB
+parent: REQ-6R94HFM
+order: b1D
 links:
   - type: refines
-    target: STK-F7D2QS
+    target: REQ-7JDZJ5E
     confirmed: bd8a3050a12b
 ---
 The Bluetooth LE link shall detect the operating mode at least once per minute.

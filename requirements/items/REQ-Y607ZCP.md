@@ -1,15 +1,16 @@
 ---
-id: HW-ZV5HPS
+id: REQ-Y607ZCP
 type: hardware-requirement
 title: Enclosure stores audit records
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: SYS-10B2S4
-order: 20
+former-id: HW-ZV5HPS
+parent: REQ-M486CMC
+order: a1
 links:
   - type: refines
-    target: SYS-10B2S4
+    target: REQ-M486CMC
     confirmed: b19977729874
 ---
 The enclosure shall measure safety limits after a power loss.

@@ -1,17 +1,18 @@
 ---
-id: DEF-1YQGDD
+id: REQ-5R0R3F1
 type: defect
 title: "Defect: telemetry pipeline does not detect safety limits"
 status: Review
 priority: Medium
-parent: INFO-M91889
-order: 10
+former-id: DEF-1YQGDD
+parent: REQ-9FNWH0D
+order: a0
 links:
   - type: relates-to
-    target: TC-AD54Z2
+    target: REQ-PT4WE8P
     confirmed: b9b240fbc5f9
   - type: relates-to
-    target: SYS-KBPFCV
+    target: REQ-TZ1N94B
     confirmed: 659b9683cc27
 ---
 Found during regression testing of build 2.2.38.

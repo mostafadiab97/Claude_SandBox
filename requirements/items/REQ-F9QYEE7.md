@@ -1,15 +1,16 @@
 ---
-id: DE-54Q76V
+id: REQ-F9QYEE7
 type: design-element
 title: Module menu_system_70
 status: Approved
 priority: Medium
 owner: L. Samir
-parent: SW-R4QT7A
-order: 10
+former-id: DE-54Q76V
+parent: REQ-SADWD7A
+order: a0
 links:
   - type: implements
-    target: SW-R4QT7A
+    target: REQ-SADWD7A
     confirmed: a85baa8919af
 ---
 Implemented in `src/ui/menu_system.c`.

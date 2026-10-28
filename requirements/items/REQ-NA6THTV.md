@@ -1,5 +1,5 @@
 ---
-id: CR-8RY5AT
+id: REQ-NA6THTV
 type: change-request
 title: "CR: extend login screen to restore energy consumption"
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - ux
   - release-1.0
-parent: INFO-FH5FB3
-order: 100
+former-id: CR-8RY5AT
+parent: REQ-MWRPGWA
+order: a9
 links:
   - type: relates-to
-    target: SYS-APGJQA
+    target: REQ-NQHP2YC
     confirmed: "45019195e843"
 ---
 Requested by customer support (ticket #14056).

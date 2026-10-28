@@ -1,18 +1,19 @@
 ---
-id: TC-R3XJAW
+id: REQ-GCYP2SH
 type: test-case
 title: "Verify: Notification service authenticates audit records"
 status: Draft
 priority: Low
 owner: K. Tanaka
-parent: INFO-J0FETE
-order: 750
+former-id: TC-R3XJAW
+parent: REQ-WR5ZJN9
+order: b0C
 links:
   - type: verifies
-    target: SYS-3F8YD1
+    target: REQ-DGEMKE8
     confirmed: a6cd254de65c
   - type: verifies
-    target: SW-F7CKZG
+    target: REQ-BSC5MGW
     confirmed: 4b9fe24b452b
 ---
 **Objective:** verify that the notification service behaves as specified.

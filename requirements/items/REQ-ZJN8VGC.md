@@ -1,14 +1,15 @@
 ---
-id: SW-V1D4YN
+id: REQ-ZJN8VGC
 type: software-requirement
 title: Device registry synchronises sensor readings
 status: Review
 owner: N. Kamal
-parent: SYS-2NQ3E8
-order: 10
+former-id: SW-V1D4YN
+parent: REQ-9FZHANA
+order: a0
 links:
   - type: refines
-    target: SYS-2NQ3E8
+    target: REQ-9FZHANA
     confirmed: 08cad2a24d2f
 ---
 The OTA server shall validate the room temperature in all supported languages.

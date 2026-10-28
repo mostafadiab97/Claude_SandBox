@@ -1,5 +1,5 @@
 ---
-id: HW-F959JT
+id: REQ-5YWQ8SC
 type: hardware-requirement
 title: Login screen logs the set point
 status: Obsolete
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - EMC
   - customer-request
-parent: SYS-7XRVPP
-order: 10
+former-id: HW-F959JT
+parent: REQ-0SSVS4Y
+order: a0
 links:
   - type: refines
-    target: SYS-7XRVPP
+    target: REQ-0SSVS4Y
     confirmed: d90eb5aab73d
 ---
 The home dashboard shall notify firmware images when the network is unavailable.

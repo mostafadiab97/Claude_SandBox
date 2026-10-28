@@ -1,5 +1,5 @@
 ---
-id: TC-392ZFP
+id: REQ-A1F983M
 type: test-case
 title: "Verify: User account service detects energy consumption"
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - security
   - connectivity
-parent: INFO-7P4D8D
-order: 1680
+former-id: TC-392ZFP
+parent: REQ-8351896
+order: b1h
 links:
   - type: verifies
-    target: SYS-9P1HDM
+    target: REQ-RPS4RWY
     confirmed: d55d9bf1fce6
 ---
 **Objective:** verify that the user account service behaves as specified.

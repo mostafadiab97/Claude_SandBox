@@ -1,5 +1,5 @@
 ---
-id: SW-NSH5XV
+id: REQ-AY0W4FN
 type: software-requirement
 title: Rotary knob calibrates the connection state
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: H. Mostafa
 tags:
   - power
-parent: SYS-56D65V
-order: 10
+former-id: SW-NSH5XV
+parent: REQ-FMXF1V3
+order: a0
 links:
   - type: refines
-    target: SYS-56D65V
+    target: REQ-FMXF1V3
     confirmed: 2b18c8ee9832
 ---
 The touch display shall authenticate the room temperature after a power loss.

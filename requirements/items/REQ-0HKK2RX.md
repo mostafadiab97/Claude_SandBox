@@ -1,16 +1,17 @@
 ---
-id: SW-R99G83
+id: REQ-0HKK2RX
 type: software-requirement
 title: Zone valve synchronises the room temperature
 status: Approved
 tags:
   - power
   - regulatory
-parent: SYS-VNKX29
-order: 10
+former-id: SW-R99G83
+parent: REQ-TR67EMJ
+order: a0
 links:
   - type: refines
-    target: SYS-VNKX29
+    target: REQ-TR67EMJ
     confirmed: 1e93aa64c8e1
 ---
 The heat pump driver shall notify humidity values after a power loss.

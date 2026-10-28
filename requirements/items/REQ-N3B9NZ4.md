@@ -1,7 +1,8 @@
 ---
-id: INFO-QHXQWK
+id: REQ-N3B9NZ4
 type: information
-title: 2.1 Stakeholder needs
-parent: INFO-8K830K
-order: 5
+title: Stakeholder needs
+former-id: INFO-QHXQWK
+parent: REQ-1XY7QMN
+order: a0
 ---

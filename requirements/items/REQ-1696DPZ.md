@@ -1,14 +1,15 @@
 ---
-id: SYS-VJ67GV
+id: REQ-1696DPZ
 type: system-requirement
 title: Bluetooth LE link authenticates safety limits
 status: Review
 priority: High
-parent: INFO-NRVHA2
-order: 2070
+former-id: SYS-VJ67GV
+parent: REQ-6R94HFM
+order: b2K
 links:
   - type: refines
-    target: STK-F7D2QS
+    target: REQ-7JDZJ5E
     confirmed: bd8a3050a12b
 ---
 The Bluetooth LE link shall encrypt relay events for up to 8 zones.

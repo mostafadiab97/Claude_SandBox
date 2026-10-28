@@ -1,5 +1,5 @@
 ---
-id: DE-358PRF
+id: REQ-RKAKQXC
 type: design-element
 title: Module boiler_interface_3
 status: Draft
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - cost
   - regulatory
-parent: SW-8S81RT
-order: 10
+former-id: DE-358PRF
+parent: REQ-Y6AM28S
+order: a0
 links:
   - type: implements
-    target: SW-8S81RT
+    target: REQ-Y6AM28S
     confirmed: 789b723216ac
 ---
 Implemented in `src/heat/boiler_interface.c`.

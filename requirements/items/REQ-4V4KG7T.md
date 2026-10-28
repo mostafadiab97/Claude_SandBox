@@ -1,5 +1,5 @@
 ---
-id: SW-W0ZSKH
+id: REQ-4V4KG7T
 type: software-requirement
 title: Regulation loop logs safety limits
 status: Approved
@@ -7,11 +7,12 @@ owner: K. Tanaka
 tags:
   - safety
   - power
-parent: SYS-64T5WP
-order: 20
+former-id: SW-W0ZSKH
+parent: REQ-6JJPX7J
+order: a1
 links:
   - type: refines
-    target: SYS-64T5WP
+    target: REQ-6JJPX7J
     confirmed: 6eadc6d38c4a
 ---
 The heat pump driver shall report schedule entries for at least 10 years.

@@ -1,16 +1,17 @@
 ---
-id: SYS-PY3FTT
+id: REQ-ND2B61F
 type: system-requirement
 title: Status LED restores the room temperature
 status: Draft
 tags:
   - ux
   - regulatory
-parent: INFO-PDR6FV
-order: 570
+former-id: SYS-PY3FTT
+parent: REQ-2ZA2TRZ
+order: au
 links:
   - type: refines
-    target: STK-BV5YMS
+    target: REQ-XR7FDXB
     confirmed: 07434b0b5615
 ---
 The status LED shall limit safety limits within 200 ms.

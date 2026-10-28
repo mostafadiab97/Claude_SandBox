@@ -1,15 +1,16 @@
 ---
-id: IF-3R64QN
+id: REQ-KEGN9AK
 type: interface-requirement
 title: Local API restores error conditions
 status: Draft
 priority: Low
 owner: L. Samir
-parent: SYS-0MGEHH
-order: 40
+former-id: IF-3R64QN
+parent: REQ-HY0DZ5N
+order: a3
 links:
   - type: refines
-    target: SYS-0MGEHH
+    target: REQ-HY0DZ5N
     confirmed: 342197138fa1
 ---
 The local API shall report firmware images for at least 10 years.

@@ -1,5 +1,5 @@
 ---
-id: TC-0ZEKRJ
+id: REQ-Y14W99Q
 type: test-case
 title: "Regression: Mobile app reports safety limits"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: N. Kamal
 tags:
   - connectivity
-parent: INFO-ECHASH
-order: 880
+former-id: TC-0ZEKRJ
+parent: REQ-6H15AV2
+order: b0P
 links:
   - type: verifies
-    target: SYS-367JHA
+    target: REQ-K9JV17T
     confirmed: bf84f865fd8d
 ---
 **Objective:** verify that the device behaves as specified.

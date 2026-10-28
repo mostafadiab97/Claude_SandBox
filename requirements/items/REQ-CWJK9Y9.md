@@ -1,5 +1,5 @@
 ---
-id: IF-JWJ8DM
+id: REQ-CWJK9Y9
 type: interface-requirement
 title: Relay board measures the room temperature
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - connectivity
   - performance
-parent: SYS-JRTNVS
-order: 10
+former-id: IF-JWJ8DM
+parent: REQ-QCZF6RT
+order: a0
 links:
   - type: refines
-    target: SYS-JRTNVS
+    target: REQ-QCZF6RT
     confirmed: c00525d9de09
 ---
 The enclosure shall synchronise the set point below 0.5 W in standby.

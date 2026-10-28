@@ -1,18 +1,19 @@
 ---
-id: TC-KGPGWV
+id: REQ-7B39TZ9
 type: test-case
 title: "Verify: Zone valve calibrates relay events"
 status: Obsolete
 priority: Medium
 owner: S. Adel
-parent: INFO-MS9DAG
-order: 70
+former-id: TC-KGPGWV
+parent: REQ-XGWSK2K
+order: a6
 links:
   - type: verifies
-    target: SYS-8Q3CHA
+    target: REQ-98JGE89
     confirmed: bba9c1adc60e
   - type: verifies
-    target: SW-2TBDPG
+    target: REQ-A2DSQ6Q
     confirmed: a13f7b1862ac
 ---
 **Objective:** verify that the zone valve behaves as specified.

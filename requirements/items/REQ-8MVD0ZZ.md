@@ -1,16 +1,17 @@
 ---
-id: SW-4GAZYJ
+id: REQ-8MVD0ZZ
 type: software-requirement
 title: Status LED displays sensor readings
 status: Approved
 owner: É. Laurent
 tags:
   - ux
-parent: SYS-Y4YCS0
-order: 40
+former-id: SW-4GAZYJ
+parent: REQ-XWFNNXT
+order: a3
 links:
   - type: refines
-    target: SYS-Y4YCS0
+    target: REQ-XWFNNXT
     confirmed: a080ef16fc5e
 ---
 The menu system shall log safety limits below 0.5 W in standby.

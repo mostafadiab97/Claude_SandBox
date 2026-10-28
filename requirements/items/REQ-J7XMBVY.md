@@ -1,5 +1,5 @@
 ---
-id: SW-QC18BS
+id: REQ-J7XMBVY
 type: software-requirement
 title: Local API switchs the operating mode
 status: Review
@@ -9,11 +9,12 @@ tags:
   - ux
   - performance
   - release-1.0
-parent: SYS-PX6WZT
-order: 40
+former-id: SW-QC18BS
+parent: REQ-D0AFD98
+order: a3
 links:
   - type: refines
-    target: SYS-PX6WZT
+    target: REQ-D0AFD98
     confirmed: f32411f63461
 ---
 The Bluetooth LE link shall limit error conditions below 0.5 W in standby.

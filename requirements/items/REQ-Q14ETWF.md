@@ -1,5 +1,5 @@
 ---
-id: SYS-E66142
+id: REQ-Q14ETWF
 type: system-requirement
 title: Status LED validates audit records
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - cost
   - customer-request
-parent: INFO-PDR6FV
-order: 1810
+former-id: SYS-E66142
+parent: REQ-2ZA2TRZ
+order: b1u
 links:
   - type: refines
-    target: STK-4K2NE4
+    target: REQ-1DHEN00
     confirmed: 7cfb31353d89
 ---
 The status LED shall report safety limits below 0.5 W in standby.

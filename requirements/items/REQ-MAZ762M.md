@@ -1,15 +1,16 @@
 ---
-id: SW-734JWR
+id: REQ-MAZ762M
 type: software-requirement
 title: User account service notifys the room temperature
 status: Approved
 priority: Medium
 owner: R. Nabil
-parent: SYS-2B7SGQ
-order: 10
+former-id: SW-734JWR
+parent: REQ-QKQMW5J
+order: a0
 links:
   - type: refines
-    target: SYS-2B7SGQ
+    target: REQ-QKQMW5J
     confirmed: 16e49588c382
 ---
 The OTA server shall store audit records when the network is unavailable.

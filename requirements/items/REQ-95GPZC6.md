@@ -1,5 +1,5 @@
 ---
-id: SW-KD1QPJ
+id: REQ-95GPZC6
 type: software-requirement
 title: Encrypt relay events — detail
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - connectivity
   - release-1.0
   - regulatory
-parent: SW-KPEZFF
-order: 10
+former-id: SW-KD1QPJ
+parent: REQ-9CB4A9P
+order: a0
 links:
   - type: refines
-    target: SW-KPEZFF
+    target: REQ-9CB4A9P
     confirmed: 9b54fb39d731
 ---
 The encryption layer shall encrypt energy consumption without user interaction.

@@ -1,18 +1,19 @@
 ---
-id: SYS-ZQYMN8
+id: REQ-RHW7HNJ
 type: system-requirement
 title: Watchdog displays error conditions
 status: Approved
 priority: High
 owner: J. Müller
-parent: INFO-0229G8
-order: 630
+former-id: SYS-ZQYMN8
+parent: REQ-H9113WA
+order: b00
 links:
   - type: refines
-    target: STK-AKFTAC
+    target: REQ-C7Y99ZB
     confirmed: 3cca48da4b1c
   - type: mitigates
-    target: RSK-4K4PV0
+    target: REQ-45CBKT5
     confirmed: a3307c1a9b06
 ---
 The watchdog shall calibrate the room temperature within 200 ms.

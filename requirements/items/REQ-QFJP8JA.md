@@ -1,5 +1,5 @@
 ---
-id: TC-AHW9BX
+id: REQ-QFJP8JA
 type: test-case
 title: "Verify: Zigbee radio displays error conditions"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - i18n
   - connectivity
   - EMC
-parent: INFO-F0M7VC
-order: 40
+former-id: TC-AHW9BX
+parent: REQ-67RQXCK
+order: a3
 links:
   - type: verifies
-    target: SYS-5CGTBY
+    target: REQ-8D3F6MP
     confirmed: a16febe00c06
   - type: verifies
-    target: SW-0ZHFRT
+    target: REQ-TWE4D4J
     confirmed: ccc7bd38a02a
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

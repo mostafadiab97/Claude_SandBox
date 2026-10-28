@@ -1,5 +1,5 @@
 ---
-id: RSK-VGP24B
+id: REQ-W7BB6H5
 type: risk
 title: "Risk: rotary knob fails to switch the room temperature"
 status: Obsolete
@@ -7,8 +7,9 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - ux
-parent: INFO-0V9DV4
-order: 40
+former-id: RSK-VGP24B
+parent: REQ-HHCVAFQ
+order: a3
 ---
 **Hazard:** the rotary knob could fail to encrypt humidity values.
 

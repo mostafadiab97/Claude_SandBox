@@ -1,5 +1,5 @@
 ---
-id: DE-RV2715
+id: REQ-6SNFKV0
 type: design-element
 title: Module mobile_app_14
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - EMC
   - safety
   - accessibility
-parent: SW-P7YKAD
-order: 10
+former-id: DE-RV2715
+parent: REQ-ZSEBDYQ
+order: a0
 links:
   - type: implements
-    target: SW-P7YKAD
+    target: REQ-ZSEBDYQ
     confirmed: 0c53042abe6c
 ---
 Implemented in `src/app/mobile_app.c`.

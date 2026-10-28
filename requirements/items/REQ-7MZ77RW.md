@@ -1,5 +1,5 @@
 ---
-id: TC-XJAF7S
+id: REQ-7MZ77RW
 type: test-case
 title: "Verify: Enclosure synchronises energy consumption"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - customer-request
   - release-2.0
-parent: INFO-MACGC3
-order: 100
+former-id: TC-XJAF7S
+parent: REQ-F9Z1FYS
+order: a9
 links:
   - type: verifies
-    target: SYS-KT5254
+    target: REQ-HTW9WGV
     confirmed: 609b39c5ecd0
 ---
 **Objective:** verify that the enclosure behaves as specified.

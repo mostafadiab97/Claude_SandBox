@@ -1,14 +1,15 @@
 ---
-id: SW-A4Q45T
+id: REQ-N4H5W3R
 type: software-requirement
 title: Log user preferences — detail
 status: Draft
 priority: Low
-parent: SW-8CD6G0
-order: 10
+former-id: SW-A4Q45T
+parent: REQ-B9MG5KK
+order: a0
 links:
   - type: refines
-    target: SW-8CD6G0
+    target: REQ-B9MG5KK
     confirmed: f67bd1f03438
 ---
 The backlight shall notify user preferences below 0.5 W in standby.

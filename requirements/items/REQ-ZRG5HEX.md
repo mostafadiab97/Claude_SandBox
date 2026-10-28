@@ -1,14 +1,15 @@
 ---
-id: TC-BDZVGG
+id: REQ-ZRG5HEX
 type: test-case
 title: "Verify: Local API restores user preferences"
 status: Draft
 priority: Medium
-parent: INFO-F0M7VC
-order: 130
+former-id: TC-BDZVGG
+parent: REQ-67RQXCK
+order: aC
 links:
   - type: verifies
-    target: SYS-MBT5B7
+    target: REQ-SFYBMHX
     confirmed: 558c60af173b
 ---
 **Objective:** verify that the local API behaves as specified.

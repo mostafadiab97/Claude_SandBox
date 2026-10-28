@@ -1,18 +1,19 @@
 ---
-id: TC-ZPAYSJ
+id: REQ-QFZGFQY
 type: test-case
 title: "Verify: Mobile app synchronises firmware images"
 status: Approved
 priority: High
 owner: R. Nabil
-parent: INFO-J0FETE
-order: 990
+former-id: TC-ZPAYSJ
+parent: REQ-WR5ZJN9
+order: b0a
 links:
   - type: verifies
-    target: SYS-1XCVNB
+    target: REQ-43JY6PF
     confirmed: 54d963c03420
   - type: verifies
-    target: SW-KZQTY6
+    target: REQ-YMMXAK8
     confirmed: 2d0abae3753b
 ---
 **Objective:** verify that the mobile app behaves as specified.

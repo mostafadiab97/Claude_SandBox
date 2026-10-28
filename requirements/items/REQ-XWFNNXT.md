@@ -1,5 +1,5 @@
 ---
-id: SYS-Y4YCS0
+id: REQ-XWFNNXT
 type: system-requirement
 title: Menu system measures firmware images
 status: Obsolete
@@ -9,14 +9,15 @@ tags:
   - EMC
   - security
   - release-1.0
-parent: INFO-PDR6FV
-order: 1830
+former-id: SYS-Y4YCS0
+parent: REQ-2ZA2TRZ
+order: b1w
 links:
   - type: refines
-    target: STK-HH6ZNR
+    target: REQ-PPDBMB4
     confirmed: caa77fe9df1c
   - type: mitigates
-    target: RSK-S88NZ1
+    target: REQ-4HTMT91
     confirmed: 257f5def6363
 ---
 The menu system shall synchronise audit records at least once per minute.

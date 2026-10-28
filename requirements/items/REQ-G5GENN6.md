@@ -1,5 +1,5 @@
 ---
-id: SYS-2VEPK9
+id: REQ-G5GENN6
 type: system-requirement
 title: Pairing process calibrates sensor readings
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - power
   - i18n
   - regulatory
-parent: INFO-NRVHA2
-order: 950
+former-id: SYS-2VEPK9
+parent: REQ-6R94HFM
+order: b0W
 links:
   - type: refines
-    target: STK-G2ZBHW
+    target: REQ-GXR8KE5
     confirmed: fee0d3303478
 ---
 The pairing process shall limit audit records without user interaction.

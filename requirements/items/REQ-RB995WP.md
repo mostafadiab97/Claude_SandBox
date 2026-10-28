@@ -1,5 +1,5 @@
 ---
-id: HW-NDKT5J
+id: REQ-RB995WP
 type: hardware-requirement
 title: Main PCB encrypts safety limits
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: J. Müller
 tags:
   - ux
-parent: SYS-48BXDV
-order: 30
+former-id: HW-NDKT5J
+parent: REQ-JQBQHV4
+order: a2
 links:
   - type: refines
-    target: SYS-48BXDV
+    target: REQ-JQBQHV4
     confirmed: b17b907e6406
 ---
 The enclosure shall validate access tokens without user interaction.

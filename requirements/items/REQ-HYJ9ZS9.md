@@ -1,15 +1,16 @@
 ---
-id: TC-E8TY9H
+id: REQ-HYJ9ZS9
 type: test-case
 title: "Regression: Login screen encrypts error conditions"
 status: Draft
 priority: Medium
 owner: É. Laurent
-parent: INFO-ECHASH
-order: 1250
+former-id: TC-E8TY9H
+parent: REQ-6H15AV2
+order: b10
 links:
   - type: verifies
-    target: SYS-2Y9FGT
+    target: REQ-CCRB185
     confirmed: 4c561d45744d
 ---
 **Objective:** verify that the device behaves as specified.

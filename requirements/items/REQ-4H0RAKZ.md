@@ -1,15 +1,16 @@
 ---
-id: SW-3D0M7A
+id: REQ-4H0RAKZ
 type: software-requirement
 title: Encrypt access tokens — detail
 status: Obsolete
 priority: Medium
 owner: É. Laurent
-parent: SW-2H0559
-order: 10
+former-id: SW-3D0M7A
+parent: REQ-M5X6C27
+order: a0
 links:
   - type: refines
-    target: SW-2H0559
+    target: REQ-M5X6C27
     confirmed: 5579dea52157
 ---
 The telemetry pipeline shall restore error conditions in under 3 s.

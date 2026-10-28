@@ -1,15 +1,16 @@
 ---
-id: DE-TWVV72
+id: REQ-XC9Z793
 type: design-element
 title: Module mobile_app_92
 status: Draft
 priority: Medium
 owner: L. Samir
-parent: SW-CB97QM
-order: 10
+former-id: DE-TWVV72
+parent: REQ-800J4BP
+order: a0
 links:
   - type: implements
-    target: SW-CB97QM
+    target: REQ-800J4BP
     confirmed: a22fcfd3ae02
 ---
 Implemented in `src/app/mobile_app.c`.

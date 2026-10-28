@@ -1,16 +1,17 @@
 ---
-id: SW-0E2S2E
+id: REQ-HVGR9ZV
 type: software-requirement
 title: OTA server calibrates error conditions
 status: Draft
 priority: High
 tags:
   - performance
-parent: SYS-TX0P0A
-order: 10
+former-id: SW-0E2S2E
+parent: REQ-XWK1AAE
+order: a0
 links:
   - type: refines
-    target: SYS-TX0P0A
+    target: REQ-XWK1AAE
     confirmed: 1e529db5157b
 ---
 The telemetry pipeline shall synchronise the set point below 0.5 W in standby.

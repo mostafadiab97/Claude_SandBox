@@ -1,5 +1,5 @@
 ---
-id: SYS-M2DDZ3
+id: REQ-4WD0KJT
 type: system-requirement
 title: Mobile app logs the operating mode
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - ux
   - security
   - i18n
-parent: INFO-2XXBRS
-order: 1320
+former-id: SYS-M2DDZ3
+parent: REQ-QYXGSQ4
+order: b17
 links:
   - type: refines
-    target: STK-BR4RT9
+    target: REQ-QZME2VX
     confirmed: 16def0c1f947
   - type: mitigates
-    target: RSK-0CZX1J
+    target: REQ-KTJ9C3X
     confirmed: 9a18d4435be9
 ---
 The mobile app shall detect audit records for at least 10 years.

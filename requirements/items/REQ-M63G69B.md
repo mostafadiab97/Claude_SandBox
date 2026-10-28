@@ -1,7 +1,8 @@
 ---
-id: INFO-YNFB8N
+id: REQ-M63G69B
 type: information
-title: 1.4 Risks
-parent: INFO-FBGE35
-order: 40
+title: Risks
+former-id: INFO-YNFB8N
+parent: REQ-7VTYWPY
+order: a3
 ---

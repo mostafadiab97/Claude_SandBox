@@ -1,5 +1,5 @@
 ---
-id: SW-BS2GHY
+id: REQ-XE6TT98
 type: software-requirement
 title: OTA server displays firmware images
 status: Draft
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - EMC
   - connectivity
-parent: SYS-2DFH04
-order: 10
+former-id: SW-BS2GHY
+parent: REQ-H2YF6W3
+order: a0
 links:
   - type: refines
-    target: SYS-2DFH04
+    target: REQ-H2YF6W3
     confirmed: 051320b022ae
 ---
 The device registry shall validate user preferences without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: DE-Z0T7KD
+id: REQ-QQ8WZAS
 type: design-element
 title: Module tamper_detection_94
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - connectivity
   - i18n
-parent: SW-YEPWFV
-order: 10
+former-id: DE-Z0T7KD
+parent: REQ-RKMNKMA
+order: a0
 links:
   - type: implements
-    target: SW-YEPWFV
+    target: REQ-RKMNKMA
     confirmed: ab8349964d89
 ---
 Implemented in `src/safe/tamper_detection.c`.

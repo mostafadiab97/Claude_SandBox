@@ -1,5 +1,5 @@
 ---
-id: SW-BS4TZY
+id: REQ-A9Z54HH
 type: software-requirement
 title: Zigbee radio measures energy consumption
 status: Draft
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - regulatory
   - connectivity
-parent: SYS-WTMM9P
-order: 30
+former-id: SW-BS4TZY
+parent: REQ-Y89HNMM
+order: a2
 links:
   - type: refines
-    target: SYS-WTMM9P
+    target: REQ-Y89HNMM
     confirmed: f9afa2fdb4af
 ---
 The Wi-Fi module shall validate the connection state for at least 10 years.

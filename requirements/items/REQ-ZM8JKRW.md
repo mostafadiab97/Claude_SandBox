@@ -1,18 +1,19 @@
 ---
-id: DEF-13RSDQ
+id: REQ-ZM8JKRW
 type: defect
 title: "Defect: tamper detection does not limit safety limits"
 status: Approved
 priority: Medium
 owner: J. Müller
-parent: INFO-6QFMYN
-order: 40
+former-id: DEF-13RSDQ
+parent: REQ-1XKBKFE
+order: a3
 links:
   - type: relates-to
-    target: TC-78BAHG
+    target: REQ-FBDA77R
     confirmed: 31ad518043d5
   - type: relates-to
-    target: SYS-W3VB1X
+    target: REQ-KBZR5EK
     confirmed: 0b387183e7b1
 ---
 Found during regression testing of build 2.0.13.

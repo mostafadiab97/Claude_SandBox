@@ -1,5 +1,5 @@
 ---
-id: TC-4R6PXF
+id: REQ-GBWATS7
 type: test-case
 title: "Verify: Enclosure measures humidity values"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - EMC
   - safety
   - accessibility
-parent: INFO-MACGC3
-order: 970
+former-id: TC-4R6PXF
+parent: REQ-F9Z1FYS
+order: b0Y
 links:
   - type: verifies
-    target: SYS-3QBDZ4
+    target: REQ-X96CFFP
     confirmed: 1ebb264cb27c
 ---
 **Objective:** verify that the enclosure behaves as specified.

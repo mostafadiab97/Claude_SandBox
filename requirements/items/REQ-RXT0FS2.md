@@ -1,5 +1,5 @@
 ---
-id: SW-89CSDM
+id: REQ-RXT0FS2
 type: software-requirement
 title: Switch relay events — detail
 status: Review
@@ -8,11 +8,12 @@ tags:
   - safety
   - regulatory
   - release-2.0
-parent: SW-0PV9X9
-order: 10
+former-id: SW-89CSDM
+parent: REQ-92Y4N70
+order: a0
 links:
   - type: refines
-    target: SW-0PV9X9
+    target: REQ-92Y4N70
     confirmed: 0cbc71fbe5ed
 ---
 The schedule editor shall measure audit records at least once per minute.

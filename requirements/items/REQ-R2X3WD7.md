@@ -1,15 +1,16 @@
 ---
-id: SYS-12HMHQ
+id: REQ-R2X3WD7
 type: system-requirement
 title: Mobile app notifys audit records
 status: Review
 priority: Medium
 owner: L. Samir
-parent: INFO-2XXBRS
-order: 130
+former-id: SYS-12HMHQ
+parent: REQ-QYXGSQ4
+order: aC
 links:
   - type: refines
-    target: STK-639N9T
+    target: REQ-EMZ19WQ
     confirmed: 252da9caa62c
 ---
 The mobile app shall store user preferences without user interaction.

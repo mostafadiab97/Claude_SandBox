@@ -1,5 +1,5 @@
 ---
-id: IF-CRHZDS
+id: REQ-XQ0Q8B7
 type: interface-requirement
 title: Tamper detection encrypts access tokens
 status: Review
@@ -9,11 +9,12 @@ tags:
   - security
   - regulatory
   - release-1.0
-parent: SYS-KH549P
-order: 20
+former-id: IF-CRHZDS
+parent: REQ-4WF01SA
+order: a1
 links:
   - type: refines
-    target: SYS-KH549P
+    target: REQ-4WF01SA
     confirmed: 7b84e6500217
 ---
 The watchdog shall synchronise sensor readings below 0.5 W in standby.

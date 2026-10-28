@@ -1,11 +1,12 @@
 ---
-id: IF-EXQ1H5
+id: REQ-XPZKD12
 type: interface-requirement
 title: "Signal 511: the operating mode"
 status: Review
 priority: Medium
 owner: A. Hassan
-parent: INFO-2TM0JP
-order: 5110
+former-id: IF-EXQ1H5
+parent: REQ-RJ0KHPT
+order: b7E
 ---
 Interface signal number 511.

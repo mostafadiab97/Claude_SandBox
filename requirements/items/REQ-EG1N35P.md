@@ -1,14 +1,15 @@
 ---
-id: SW-B40EWB
+id: REQ-EG1N35P
 type: software-requirement
 title: Watchdog authenticates sensor readings
 status: Approved
 owner: S. Adel
-parent: SYS-FP2QK1
-order: 10
+former-id: SW-B40EWB
+parent: REQ-VP03MR3
+order: a0
 links:
   - type: refines
-    target: SYS-FP2QK1
+    target: REQ-VP03MR3
     confirmed: c97badc87373
 ---
 The secure boot shall restore relay events without user interaction.

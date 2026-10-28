@@ -1,5 +1,5 @@
 ---
-id: DE-MA58NV
+id: REQ-JXPFQTX
 type: design-element
 title: Module login_screen_29
 status: Approved
@@ -7,11 +7,12 @@ owner: J. Müller
 tags:
   - accessibility
   - power
-parent: SW-ADSZ4M
-order: 10
+former-id: DE-MA58NV
+parent: REQ-CC4CEXS
+order: a0
 links:
   - type: implements
-    target: SW-ADSZ4M
+    target: REQ-CC4CEXS
     confirmed: bec31ed60a2e
 ---
 Implemented in `src/app/login_screen.c`.

@@ -1,15 +1,16 @@
 ---
-id: HW-BHY1XT
+id: REQ-8CFMJN9
 type: hardware-requirement
 title: Heat pump driver detects firmware images
 status: Approved
 priority: Medium
 owner: S. Adel
-parent: SYS-3AX1AH
-order: 10
+former-id: HW-BHY1XT
+parent: REQ-RHQ93AH
+order: a0
 links:
   - type: refines
-    target: SYS-3AX1AH
+    target: REQ-RHQ93AH
     confirmed: 91599b187618
 ---
 The zone valve shall validate audit records in all supported languages.

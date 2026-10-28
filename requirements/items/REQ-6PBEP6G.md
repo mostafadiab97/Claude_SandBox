@@ -1,18 +1,19 @@
 ---
-id: SYS-04PZ39
+id: REQ-6PBEP6G
 type: system-requirement
 title: Battery backup stores safety limits
 status: Draft
 priority: High
 owner: É. Laurent
-parent: INFO-A6P9A8
-order: 900
+former-id: SYS-04PZ39
+parent: REQ-CMCS31A
+order: b0R
 links:
   - type: refines
-    target: STK-M28XWW
+    target: REQ-2678XV5
     confirmed: bcf262f10744
   - type: mitigates
-    target: RSK-3VPDQ8
+    target: REQ-WWVJC3K
     confirmed: 3cf91f6b37bc
 ---
 The battery backup shall restore safety limits at least once per minute.

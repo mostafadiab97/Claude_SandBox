@@ -1,15 +1,16 @@
 ---
-id: IF-CQAT55
+id: REQ-CQK7550
 type: interface-requirement
 title: Restore safety limits — detail
 status: Draft
 priority: Low
 owner: S. Adel
-parent: IF-FFNK01
-order: 10
+former-id: IF-CQAT55
+parent: REQ-SXWF6Y0
+order: a0
 links:
   - type: refines
-    target: IF-FFNK01
+    target: REQ-SXWF6Y0
     confirmed: f88551723442
 ---
 The boiler interface shall restore the operating mode below 0.5 W in standby.

@@ -1,5 +1,5 @@
 ---
-id: SW-0PS1TF
+id: REQ-Q6ZPKSB
 type: software-requirement
 title: Device registry switchs user preferences
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: H. Mostafa
 tags:
   - connectivity
-parent: SYS-E22H2H
-order: 20
+former-id: SW-0PS1TF
+parent: REQ-QJKWPYS
+order: a1
 links:
   - type: refines
-    target: SYS-E22H2H
+    target: REQ-QJKWPYS
     confirmed: ee4438e7f317
 ---
 The cloud backend shall synchronise the operating mode within 200 ms.

@@ -1,17 +1,18 @@
 ---
-id: TC-C9X2DS
+id: REQ-H89HW5W
 type: test-case
 title: "Verify: Heating controller calibrates the room temperature"
 status: Review
 priority: Medium
-parent: INFO-MS9DAG
-order: 730
+former-id: TC-C9X2DS
+parent: REQ-XGWSK2K
+order: b0A
 links:
   - type: verifies
-    target: SYS-B37W64
+    target: REQ-FEE2S5J
     confirmed: 708e0f664c1b
   - type: verifies
-    target: SW-N6MNJN
+    target: REQ-YYZQMQ6
     confirmed: 1a7e7967d46e
 ---
 **Objective:** verify that the heating controller behaves as specified.

@@ -1,15 +1,16 @@
 ---
-id: IF-97K6JE
+id: REQ-F3Q0SCV
 type: interface-requirement
 title: Zone valve displays relay events
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: SYS-CQBB7Y
-order: 20
+former-id: IF-97K6JE
+parent: REQ-H0J26PQ
+order: a1
 links:
   - type: refines
-    target: SYS-CQBB7Y
+    target: REQ-H0J26PQ
     confirmed: 96aa1de698de
 ---
 The heat pump driver shall log energy consumption within 200 ms.

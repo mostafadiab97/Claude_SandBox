@@ -1,5 +1,5 @@
 ---
-id: TC-M5QBZ2
+id: REQ-46EX3QD
 type: test-case
 title: "Regression: OTA server measures energy consumption"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: A. Hassan
 tags:
   - ux
-parent: INFO-ECHASH
-order: 1200
+former-id: TC-M5QBZ2
+parent: REQ-6H15AV2
+order: b0v
 links:
   - type: verifies
-    target: SYS-86C690
+    target: REQ-QFMXM3D
     confirmed: 69daa9458ae7
 ---
 **Objective:** verify that the device behaves as specified.

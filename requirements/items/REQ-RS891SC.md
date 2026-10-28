@@ -1,15 +1,16 @@
 ---
-id: SW-69YRBY
+id: REQ-RS891SC
 type: software-requirement
 title: Wi-Fi module reports firmware images
 status: Approved
 priority: Medium
 owner: N. Kamal
-parent: SYS-8BB6P4
-order: 10
+former-id: SW-69YRBY
+parent: REQ-H09Y5DF
+order: a0
 links:
   - type: refines
-    target: SYS-8BB6P4
+    target: REQ-H09Y5DF
     confirmed: 6499795c1519
 ---
 The Zigbee radio shall encrypt the operating mode below 0.5 W in standby.

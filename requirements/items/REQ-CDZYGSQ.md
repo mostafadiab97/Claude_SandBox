@@ -1,5 +1,5 @@
 ---
-id: IF-V755XP
+id: REQ-CDZYGSQ
 type: interface-requirement
 title: "Signal 621: energy consumption"
 status: Approved
@@ -7,7 +7,8 @@ priority: High
 owner: Y. Saber
 tags:
   - power
-parent: INFO-2TM0JP
-order: 6210
+former-id: IF-V755XP
+parent: REQ-RJ0KHPT
+order: b90
 ---
 Interface signal number 621.

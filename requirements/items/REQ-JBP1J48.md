@@ -1,5 +1,5 @@
 ---
-id: HW-4PHPGX
+id: REQ-JBP1J48
 type: hardware-requirement
 title: Synchronise sensor readings — detail
 status: Draft
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - connectivity
   - accessibility
-parent: HW-HAHK2K
-order: 10
+former-id: HW-4PHPGX
+parent: REQ-FB1N97W
+order: a0
 links:
   - type: refines
-    target: HW-HAHK2K
+    target: REQ-FB1N97W
     confirmed: 7f1ee54f249d
 ---
 The notification service shall log the set point after a power loss.

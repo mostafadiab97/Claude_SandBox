@@ -1,5 +1,5 @@
 ---
-id: SW-0BF7EG
+id: REQ-6F28NFP
 type: software-requirement
 title: User account service reports access tokens
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - i18n
   - release-1.0
   - accessibility
-parent: SYS-MASKXR
-order: 30
+former-id: SW-0BF7EG
+parent: REQ-WSY0MZM
+order: a2
 links:
   - type: refines
-    target: SYS-MASKXR
+    target: REQ-WSY0MZM
     confirmed: c14e888575b5
 ---
 The telemetry pipeline shall notify energy consumption in under 3 s.

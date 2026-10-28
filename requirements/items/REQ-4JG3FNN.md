@@ -1,15 +1,16 @@
 ---
-id: TC-DQSJDG
+id: REQ-4JG3FNN
 type: test-case
 title: "Verify: Local API switchs firmware images"
 status: Draft
 priority: Medium
 owner: A. Hassan
-parent: INFO-F0M7VC
-order: 1250
+former-id: TC-DQSJDG
+parent: REQ-67RQXCK
+order: b10
 links:
   - type: verifies
-    target: SYS-0C344V
+    target: REQ-3SWFYVD
     confirmed: 2edabd3093b3
 ---
 **Objective:** verify that the local API behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: IF-64GA7V
+id: REQ-0KFYBXH
 type: interface-requirement
 title: Log audit records — detail
 status: Draft
@@ -7,11 +7,12 @@ owner: L. Samir
 tags:
   - performance
   - security
-parent: IF-9AM6AS
-order: 10
+former-id: IF-64GA7V
+parent: REQ-1APDC6P
+order: a0
 links:
   - type: refines
-    target: IF-9AM6AS
+    target: REQ-1APDC6P
     confirmed: e8481894cf73
 ---
 The login screen shall encrypt relay events when the network is unavailable.

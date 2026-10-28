@@ -1,15 +1,16 @@
 ---
-id: IF-W5H9YR
+id: REQ-RZPTPNN
 type: interface-requirement
 title: Telemetry pipeline calibrates humidity values
 status: Draft
 priority: Medium
 owner: H. Mostafa
-parent: SYS-TE6FDF
-order: 10
+former-id: IF-W5H9YR
+parent: REQ-TF5DFFZ
+order: a0
 links:
   - type: refines
-    target: SYS-TE6FDF
+    target: REQ-TF5DFFZ
     confirmed: 11c446c78b24
 ---
 The telemetry pipeline shall encrypt relay events using AES-256-GCM.

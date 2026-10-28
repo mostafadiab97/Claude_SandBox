@@ -1,5 +1,5 @@
 ---
-id: SW-737HC5
+id: REQ-DAD6G4W
 type: software-requirement
 title: OTA server stores humidity values
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - performance
   - regulatory
-parent: SYS-3MCFDD
-order: 40
+former-id: SW-737HC5
+parent: REQ-89S1J9Z
+order: a3
 links:
   - type: refines
-    target: SYS-3MCFDD
+    target: REQ-89S1J9Z
     confirmed: a0fea72fbd43
 ---
 The telemetry pipeline shall log user preferences using AES-256-GCM.

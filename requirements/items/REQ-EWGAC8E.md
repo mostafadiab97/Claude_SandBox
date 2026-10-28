@@ -1,5 +1,5 @@
 ---
-id: TC-XJFQEV
+id: REQ-EWGAC8E
 type: test-case
 title: "Verify: Wi-Fi module switchs audit records"
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 owner: Y. Saber
 tags:
   - release-2.0
-parent: INFO-F0M7VC
-order: 710
+former-id: TC-XJFQEV
+parent: REQ-67RQXCK
+order: b08
 links:
   - type: verifies
-    target: SYS-T6SZE0
+    target: REQ-FSK3RQV
     confirmed: eb82d81a139b
   - type: verifies
-    target: SW-9MRSNT
+    target: REQ-S3R9PG4
     confirmed: 6bafc433808a
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

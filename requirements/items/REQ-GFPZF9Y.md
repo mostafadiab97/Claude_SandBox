@@ -1,15 +1,16 @@
 ---
-id: SW-HPASBC
+id: REQ-GFPZF9Y
 type: software-requirement
 title: Wi-Fi module synchronises the connection state
 status: Obsolete
 priority: High
 owner: N. Kamal
-parent: SYS-X57709
-order: 20
+former-id: SW-HPASBC
+parent: REQ-GFKSCK5
+order: a1
 links:
   - type: refines
-    target: SYS-X57709
+    target: REQ-GFKSCK5
     confirmed: 8f0b9de9eefc
 ---
 The Zigbee radio shall measure energy consumption when the network is unavailable.

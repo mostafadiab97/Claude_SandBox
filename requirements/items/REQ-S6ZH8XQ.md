@@ -1,15 +1,16 @@
 ---
-id: SYS-FN4CWM
+id: REQ-S6ZH8XQ
 type: system-requirement
 title: Home dashboard notifys the connection state
 status: Review
 priority: Low
 owner: K. Tanaka
-parent: INFO-2XXBRS
-order: 860
+former-id: SYS-FN4CWM
+parent: REQ-QYXGSQ4
+order: b0N
 links:
   - type: refines
-    target: STK-MC9ASH
+    target: REQ-7NDC8E1
     confirmed: a4f2ebaecfbe
 ---
 The home dashboard shall encrypt the operating mode below 0.5 W in standby.

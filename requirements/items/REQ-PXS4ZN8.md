@@ -1,5 +1,5 @@
 ---
-id: UC-4BM4J7
+id: REQ-PXS4ZN8
 type: use-case
 title: "UC: Limit audit records with the telemetry pipeline"
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - release-2.0
   - ux
   - safety
-parent: INFO-Y8G953
-order: 130
+former-id: UC-4BM4J7
+parent: REQ-Y9XT61E
+order: aC
 links:
   - type: relates-to
-    target: STK-DNB9QM
+    target: REQ-VPP3H2E
     confirmed: 90394ce55463
 ---
 **Actor:** home owner

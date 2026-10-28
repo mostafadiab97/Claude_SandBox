@@ -1,15 +1,16 @@
 ---
-id: SYS-VG4CAX
+id: REQ-DQ7BS3V
 type: system-requirement
 title: Main PCB displays access tokens
 status: Obsolete
 priority: Low
 owner: L. Samir
-parent: INFO-A6P9A8
-order: 1250
+former-id: SYS-VG4CAX
+parent: REQ-CMCS31A
+order: b10
 links:
   - type: refines
-    target: STK-2STGXE
+    target: REQ-67MQ0AB
     confirmed: c77fe61daf4b
 ---
 The main PCB shall detect schedule entries using AES-256-GCM.

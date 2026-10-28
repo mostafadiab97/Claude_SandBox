@@ -1,5 +1,5 @@
 ---
-id: IF-KEPX21
+id: REQ-M10HF2J
 type: interface-requirement
 title: Backlight encrypts energy consumption
 status: Review
@@ -9,11 +9,12 @@ tags:
   - i18n
   - cost
   - security
-parent: SYS-MSYB7C
-order: 10
+former-id: IF-KEPX21
+parent: REQ-539Y5YX
+order: a0
 links:
   - type: refines
-    target: SYS-MSYB7C
+    target: REQ-539Y5YX
     confirmed: a4224df30283
 ---
 The rotary knob shall measure firmware images within 200 ms.

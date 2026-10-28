@@ -1,5 +1,5 @@
 ---
-id: DE-Q6MQDW
+id: REQ-41GCYSS
 type: design-element
 title: Module regulation_loop_52
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - cost
   - security
   - customer-request
-parent: SW-MTXK34
-order: 20
+former-id: DE-Q6MQDW
+parent: REQ-W0XHGQ1
+order: a1
 links:
   - type: implements
-    target: SW-MTXK34
+    target: REQ-W0XHGQ1
     confirmed: 4c707dcaf3d3
 ---
 Implemented in `src/heat/regulation_loop.c`.

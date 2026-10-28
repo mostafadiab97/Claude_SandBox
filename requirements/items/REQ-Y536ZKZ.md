@@ -1,16 +1,17 @@
 ---
-id: IF-DPHMZ5
+id: REQ-Y536ZKZ
 type: interface-requirement
 title: Validate audit records — detail
 status: Obsolete
 owner: محمد علي
 tags:
   - cost
-parent: IF-BXVFWK
-order: 10
+former-id: IF-DPHMZ5
+parent: REQ-DVEC0TQ
+order: a0
 links:
   - type: refines
-    target: IF-BXVFWK
+    target: REQ-DVEC0TQ
     confirmed: 22e60abc9f8b
 ---
 The OTA server shall synchronise energy consumption without user interaction.

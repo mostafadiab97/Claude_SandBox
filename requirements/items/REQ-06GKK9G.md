@@ -1,5 +1,5 @@
 ---
-id: IF-C3T15H
+id: REQ-06GKK9G
 type: interface-requirement
 title: Secure boot reports schedule entries
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: A. Hassan
 tags:
   - regulatory
-parent: SYS-J8A4BW
-order: 30
+former-id: IF-C3T15H
+parent: REQ-6MEBSJR
+order: a2
 links:
   - type: refines
-    target: SYS-J8A4BW
+    target: REQ-6MEBSJR
     confirmed: b28f6844e565
 ---
 The secure boot shall synchronise the connection state with an accuracy of ±0.5 °C.

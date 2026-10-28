@@ -1,5 +1,5 @@
 ---
-id: SYS-FVC51X
+id: REQ-JQGMKTV
 type: system-requirement
 title: Enclosure displays the operating mode
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - ux
   - security
-parent: INFO-A6P9A8
-order: 570
+former-id: SYS-FVC51X
+parent: REQ-CMCS31A
+order: au
 links:
   - type: refines
-    target: STK-CDR1Y9
+    target: REQ-QC1Z78M
     confirmed: d9857f8b33bf
 ---
 The enclosure shall report the operating mode within 200 ms.

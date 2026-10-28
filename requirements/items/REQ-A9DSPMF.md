@@ -1,5 +1,5 @@
 ---
-id: HW-JRCYPT
+id: REQ-A9DSPMF
 type: hardware-requirement
 title: Store sensor readings — detail
 status: Review
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - regulatory
   - accessibility
-parent: HW-EA29A3
-order: 10
+former-id: HW-JRCYPT
+parent: REQ-9NXK17H
+order: a0
 links:
   - type: refines
-    target: HW-EA29A3
+    target: REQ-9NXK17H
     confirmed: acb43e96ee9a
 ---
 The relay board shall display access tokens without user interaction.

@@ -1,15 +1,16 @@
 ---
-id: SYS-5FN1TB
+id: REQ-ACEDPGP
 type: system-requirement
 title: Regulation loop synchronises audit records
 status: Approved
 priority: Medium
 owner: Y. Saber
-parent: INFO-6DQTKV
-order: 1970
+former-id: SYS-5FN1TB
+parent: REQ-7ED7ZET
+order: b2A
 links:
   - type: refines
-    target: STK-M7S0HJ
+    target: REQ-219619F
     confirmed: 000356d5d38b
 ---
 The regulation loop shall detect access tokens using AES-256-GCM.

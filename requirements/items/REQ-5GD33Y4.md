@@ -1,5 +1,5 @@
 ---
-id: IF-X80R53
+id: REQ-5GD33Y4
 type: interface-requirement
 title: Main PCB reports error conditions
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - performance
   - i18n
-parent: SYS-CPG2EW
-order: 10
+former-id: IF-X80R53
+parent: REQ-G8Z58Z4
+order: a0
 links:
   - type: refines
-    target: SYS-CPG2EW
+    target: REQ-G8Z58Z4
     confirmed: e993ebab475d
 ---
 The enclosure shall encrypt user preferences without user interaction.

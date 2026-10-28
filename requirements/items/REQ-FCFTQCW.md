@@ -1,14 +1,15 @@
 ---
-id: SW-S1E6DV
+id: REQ-FCFTQCW
 type: software-requirement
 title: Zone valve restores relay events
 status: Approved
 priority: High
-parent: SYS-J8Q01T
-order: 40
+former-id: SW-S1E6DV
+parent: REQ-66SD5Y0
+order: a3
 links:
   - type: refines
-    target: SYS-J8Q01T
+    target: REQ-66SD5Y0
     confirmed: d85270700def
 ---
 The zone valve shall store the connection state with an accuracy of ±0.5 °C.

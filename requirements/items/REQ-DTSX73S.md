@@ -1,5 +1,5 @@
 ---
-id: SYS-6VF733
+id: REQ-DTSX73S
 type: system-requirement
 title: Power supply limits the set point
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 owner: K. Tanaka
 tags:
   - security
-parent: INFO-A6P9A8
-order: 730
+former-id: SYS-6VF733
+parent: REQ-CMCS31A
+order: b0A
 links:
   - type: refines
-    target: STK-7F9256
+    target: REQ-GXZBB32
     confirmed: 5588db2eb80a
 ---
 The power supply shall notify safety limits within 200 ms.

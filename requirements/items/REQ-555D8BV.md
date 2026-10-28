@@ -1,5 +1,5 @@
 ---
-id: SW-F3VFP1
+id: REQ-555D8BV
 type: software-requirement
 title: Authenticate safety limits — detail
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: L. Samir
 tags:
   - connectivity
-parent: SW-E05HS7
-order: 10
+former-id: SW-F3VFP1
+parent: REQ-3KYHB3Q
+order: a0
 links:
   - type: refines
-    target: SW-E05HS7
+    target: REQ-3KYHB3Q
     confirmed: 417b034b04bb
 ---
 The user account service shall synchronise schedule entries below 0.5 W in standby.

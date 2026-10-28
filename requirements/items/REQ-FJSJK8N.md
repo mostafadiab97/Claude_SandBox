@@ -1,15 +1,16 @@
 ---
-id: HW-N78B7T
+id: REQ-FJSJK8N
 type: hardware-requirement
 title: Enclosure encrypts the room temperature
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: SYS-BD00HF
-order: 10
+former-id: HW-N78B7T
+parent: REQ-H1CFNB4
+order: a0
 links:
   - type: refines
-    target: SYS-BD00HF
+    target: REQ-H1CFNB4
     confirmed: c1fda425d923
 ---
 The relay board shall detect the operating mode without user interaction.

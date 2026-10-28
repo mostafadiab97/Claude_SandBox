@@ -1,16 +1,17 @@
 ---
-id: TC-3NP3BY
+id: REQ-NP6XGFM
 type: test-case
 title: "Verify: Notification service detects relay events"
 status: Draft
 owner: R. Nabil
 tags:
   - performance
-parent: INFO-J0FETE
-order: 1220
+former-id: TC-3NP3BY
+parent: REQ-WR5ZJN9
+order: b0x
 links:
   - type: verifies
-    target: SYS-XYBVJ4
+    target: REQ-CJSXPH6
     confirmed: 7d080417271e
 ---
 **Objective:** verify that the notification service behaves as specified.

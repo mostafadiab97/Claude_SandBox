@@ -1,5 +1,5 @@
 ---
-id: SW-ZNDXXX
+id: REQ-8BAH03J
 type: software-requirement
 title: Wi-Fi module logs firmware images
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - regulatory
   - performance
-parent: SYS-K61Y1H
-order: 40
+former-id: SW-ZNDXXX
+parent: REQ-PKDYEYJ
+order: a3
 links:
   - type: refines
-    target: SYS-K61Y1H
+    target: REQ-PKDYEYJ
     confirmed: 05248eb02fec
 ---
 The Bluetooth LE link shall log the connection state without user interaction.

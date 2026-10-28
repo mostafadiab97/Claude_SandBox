@@ -1,5 +1,5 @@
 ---
-id: SYS-MEFF8R
+id: REQ-CQQM0M4
 type: system-requirement
 title: Heating controller synchronises user preferences
 status: Review
@@ -8,14 +8,15 @@ owner: N. Kamal
 tags:
   - performance
   - ux
-parent: INFO-6DQTKV
-order: 1510
+former-id: SYS-MEFF8R
+parent: REQ-7ED7ZET
+order: b1Q
 links:
   - type: refines
-    target: STK-EWSQ9Z
+    target: REQ-GXKEHF3
     confirmed: aa5e4143dbe7
   - type: mitigates
-    target: RSK-F4STQD
+    target: REQ-GRE3TBN
     confirmed: 0441ab9b0284
 ---
 The heating controller shall restore access tokens below 0.5 W in standby.

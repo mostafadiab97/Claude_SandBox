@@ -1,5 +1,5 @@
 ---
-id: SW-PAYV6C
+id: REQ-EVMZQBP
 type: software-requirement
 title: Local API authenticates sensor readings
 status: Draft
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - accessibility
   - connectivity
-parent: SYS-B7X9NT
-order: 10
+former-id: SW-PAYV6C
+parent: REQ-891HRQ1
+order: a0
 links:
   - type: refines
-    target: SYS-B7X9NT
+    target: REQ-891HRQ1
     confirmed: 3dbe2b5d8662
 ---
 The Bluetooth LE link shall display the operating mode for at least 10 years.

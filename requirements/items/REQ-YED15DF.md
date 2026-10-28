@@ -1,5 +1,5 @@
 ---
-id: SYS-JRYFKW
+id: REQ-YED15DF
 type: system-requirement
 title: Power supply limits error conditions
 status: Approved
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - ux
   - EMC
-parent: INFO-A6P9A8
-order: 1460
+former-id: SYS-JRYFKW
+parent: REQ-CMCS31A
+order: b1L
 links:
   - type: refines
-    target: STK-CDR1Y9
+    target: REQ-QC1Z78M
     confirmed: d9857f8b33bf
 ---
 The power supply shall validate schedule entries using AES-256-GCM.

@@ -1,14 +1,15 @@
 ---
-id: TC-7EDPV6
+id: REQ-SDCW9Z5
 type: test-case
 title: "Verify: Zone valve synchronises relay events"
 status: Review
 owner: L. Samir
-parent: INFO-MS9DAG
-order: 1010
+former-id: TC-7EDPV6
+parent: REQ-XGWSK2K
+order: b0c
 links:
   - type: verifies
-    target: SYS-4DP5C1
+    target: REQ-VP9FW5Z
     confirmed: c489a3ad366f
 ---
 **Objective:** verify that the zone valve behaves as specified.

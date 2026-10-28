@@ -1,15 +1,16 @@
 ---
-id: IF-QF5DCC
+id: REQ-P9JDK2Q
 type: interface-requirement
 title: Watchdog switchs energy consumption
 status: Draft
 priority: Medium
 owner: K. Tanaka
-parent: SYS-HAHB1Q
-order: 20
+former-id: IF-QF5DCC
+parent: REQ-ZTVJEZ4
+order: a1
 links:
   - type: refines
-    target: SYS-HAHB1Q
+    target: REQ-ZTVJEZ4
     confirmed: 7a23dee59b18
 ---
 The tamper detection shall report audit records when the network is unavailable.

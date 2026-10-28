@@ -1,15 +1,16 @@
 ---
-id: TC-JC1DQV
+id: REQ-TBXEK52
 type: test-case
 title: "Verify: User account service validates energy consumption"
 status: Draft
 priority: High
 owner: N. Kamal
-parent: INFO-7P4D8D
-order: 310
+former-id: TC-JC1DQV
+parent: REQ-8351896
+order: aU
 links:
   - type: verifies
-    target: SYS-9MTYDR
+    target: REQ-Y0E1P23
     confirmed: 167b541b0a5f
 ---
 **Objective:** verify that the user account service behaves as specified.

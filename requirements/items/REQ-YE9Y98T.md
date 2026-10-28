@@ -1,5 +1,5 @@
 ---
-id: TC-6AA3WC
+id: REQ-YE9Y98T
 type: test-case
 title: "Verify: Regulation loop stores the room temperature"
 status: Review
@@ -8,14 +8,15 @@ owner: N. Kamal
 tags:
   - safety
   - customer-request
-parent: INFO-MS9DAG
-order: 450
+former-id: TC-6AA3WC
+parent: REQ-XGWSK2K
+order: ai
 links:
   - type: verifies
-    target: SYS-QYMGFJ
+    target: REQ-XS1VJSH
     confirmed: 9139027643fc
   - type: verifies
-    target: SW-NZ6SEH
+    target: REQ-EYZWQW8
     confirmed: cbd057a32e6d
 ---
 **Objective:** verify that the regulation loop behaves as specified.

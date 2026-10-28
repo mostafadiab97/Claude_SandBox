@@ -1,5 +1,5 @@
 ---
-id: SW-VVB8Y3
+id: REQ-63MNXC6
 type: software-requirement
 title: Heating controller measures energy consumption
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - regulatory
   - EMC
-parent: SYS-7THG7S
-order: 10
+former-id: SW-VVB8Y3
+parent: REQ-8XAB9X3
+order: a0
 links:
   - type: refines
-    target: SYS-7THG7S
+    target: REQ-8XAB9X3
     confirmed: c2a2db34ec62
 ---
 The zone valve shall measure safety limits when the network is unavailable.

@@ -1,5 +1,5 @@
 ---
-id: TC-FA0Y3E
+id: REQ-JBCV40M
 type: test-case
 title: "Regression: Zone valve displays the operating mode"
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: محمد علي
 tags:
   - power
-parent: INFO-ECHASH
-order: 2100
+former-id: TC-FA0Y3E
+parent: REQ-6H15AV2
+order: b2N
 links:
   - type: verifies
-    target: SYS-ZQSPB3
+    target: REQ-7638CXD
     confirmed: c8c012d7096b
 ---
 **Objective:** verify that the device behaves as specified.

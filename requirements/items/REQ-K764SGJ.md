@@ -1,15 +1,16 @@
 ---
-id: SW-8CMXBZ
+id: REQ-K764SGJ
 type: software-requirement
 title: Cloud backend detects schedule entries
 status: Draft
 priority: Medium
 owner: R. Nabil
-parent: SYS-A10V0R
-order: 20
+former-id: SW-8CMXBZ
+parent: REQ-13K6ME8
+order: a1
 links:
   - type: refines
-    target: SYS-A10V0R
+    target: REQ-13K6ME8
     confirmed: ff47382f2bba
 ---
 The user account service shall measure sensor readings below 0.5 W in standby.

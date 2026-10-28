@@ -1,14 +1,15 @@
 ---
-id: TC-V07BAY
+id: REQ-96G83JA
 type: test-case
 title: "Verify: Battery backup stores safety limits"
 status: Draft
 priority: Low
-parent: INFO-MACGC3
-order: 680
+former-id: TC-V07BAY
+parent: REQ-F9Z1FYS
+order: b05
 links:
   - type: verifies
-    target: SYS-04PZ39
+    target: REQ-6PBEP6G
     confirmed: ba731e9e2cc5
 ---
 **Objective:** verify that the battery backup behaves as specified.

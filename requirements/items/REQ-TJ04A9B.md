@@ -1,5 +1,5 @@
 ---
-id: TC-WQ1HWP
+id: REQ-TJ04A9B
 type: test-case
 title: "Verify: Cloud backend validates the room temperature"
 status: Draft
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - power
   - connectivity
-parent: INFO-7P4D8D
-order: 540
+former-id: TC-WQ1HWP
+parent: REQ-8351896
+order: ar
 links:
   - type: verifies
-    target: SYS-DMYBQ9
+    target: REQ-00CXS7S
     confirmed: bc350f64bb32
 ---
 **Objective:** verify that the cloud backend behaves as specified.

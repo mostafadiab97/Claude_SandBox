@@ -1,15 +1,16 @@
 ---
-id: TC-RDM5D2
+id: REQ-BFKDQCW
 type: test-case
 title: "Verify: Status LED authenticates safety limits"
 status: Draft
 priority: Medium
 owner: Y. Saber
-parent: INFO-HTSZ15
-order: 310
+former-id: TC-RDM5D2
+parent: REQ-Y9VHHKA
+order: aU
 links:
   - type: verifies
-    target: SYS-TV1J1J
+    target: REQ-0WX3PV8
     confirmed: 4dad1a572bf6
 ---
 **Objective:** verify that the status LED behaves as specified.

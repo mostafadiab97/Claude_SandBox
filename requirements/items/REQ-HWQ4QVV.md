@@ -1,15 +1,16 @@
 ---
-id: HW-22HRPH
+id: REQ-HWQ4QVV
 type: hardware-requirement
 title: Rotary knob detects the room temperature
 status: Draft
 priority: Low
 owner: S. Adel
-parent: SYS-XNZMY7
-order: 10
+former-id: HW-22HRPH
+parent: REQ-BXXG4N0
+order: a0
 links:
   - type: refines
-    target: SYS-XNZMY7
+    target: REQ-BXXG4N0
     confirmed: 1e674699e206
 ---
 The backlight shall detect the operating mode for up to 8 zones.

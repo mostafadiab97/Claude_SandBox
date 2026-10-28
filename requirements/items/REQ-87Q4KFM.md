@@ -1,15 +1,16 @@
 ---
-id: SW-T67T0K
+id: REQ-87Q4KFM
 type: software-requirement
 title: Local API detects schedule entries
 status: Approved
 priority: Medium
 owner: M. Farouk
-parent: SYS-N6E1NE
-order: 30
+former-id: SW-T67T0K
+parent: REQ-JGWJGVK
+order: a2
 links:
   - type: refines
-    target: SYS-N6E1NE
+    target: REQ-JGWJGVK
     confirmed: cc346536e668
 ---
 The Bluetooth LE link shall measure sensor readings when the network is unavailable.

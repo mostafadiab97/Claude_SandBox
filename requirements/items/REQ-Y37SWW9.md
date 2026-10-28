@@ -1,5 +1,5 @@
 ---
-id: HW-M9QXW2
+id: REQ-Y37SWW9
 type: hardware-requirement
 title: Relay board stores safety limits
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: M. Farouk
 tags:
   - cost
-parent: SYS-E3W0C4
-order: 30
+former-id: HW-M9QXW2
+parent: REQ-8X792M6
+order: a2
 links:
   - type: refines
-    target: SYS-E3W0C4
+    target: REQ-8X792M6
     confirmed: 6069f1d540ab
 ---
 The enclosure shall detect schedule entries within 200 ms.

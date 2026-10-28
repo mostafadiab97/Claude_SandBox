@@ -1,15 +1,16 @@
 ---
-id: IF-KQ3YF2
+id: REQ-ZCZ1BGQ
 type: interface-requirement
 title: Display energy consumption — detail
 status: Approved
 tags:
   - performance
-parent: IF-DXR1XX
-order: 10
+former-id: IF-KQ3YF2
+parent: REQ-08DW2F9
+order: a0
 links:
   - type: refines
-    target: IF-DXR1XX
+    target: REQ-08DW2F9
     confirmed: 3cbef25923d6
 ---
 The Zigbee radio shall limit the connection state after a power loss.

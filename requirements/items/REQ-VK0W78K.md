@@ -1,14 +1,15 @@
 ---
-id: SW-NXCKHB
+id: REQ-VK0W78K
 type: software-requirement
 title: Encryption layer validates user preferences
 status: Draft
 owner: K. Tanaka
-parent: SYS-JKF1QX
-order: 30
+former-id: SW-NXCKHB
+parent: REQ-4Q67RJE
+order: a2
 links:
   - type: refines
-    target: SYS-JKF1QX
+    target: REQ-4Q67RJE
     confirmed: ff14b57eee23
 ---
 The encryption layer shall measure the connection state using AES-256-GCM.

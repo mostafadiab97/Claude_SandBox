@@ -1,15 +1,16 @@
 ---
-id: SW-S0F1BA
+id: REQ-BAWTDNP
 type: software-requirement
 title: Local API restores energy consumption
 status: Obsolete
 priority: Medium
 owner: H. Mostafa
-parent: SYS-66QHTN
-order: 30
+former-id: SW-S0F1BA
+parent: REQ-G5ZVX3X
+order: a2
 links:
   - type: refines
-    target: SYS-66QHTN
+    target: REQ-G5ZVX3X
     confirmed: 65154f9b889c
 ---
 The local API shall switch energy consumption in under 3 s.

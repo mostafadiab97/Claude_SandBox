@@ -1,5 +1,5 @@
 ---
-id: SYS-MVY23C
+id: REQ-8G4VY21
 type: system-requirement
 title: Backlight validates schedule entries
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - ux
   - security
   - regulatory
-parent: INFO-PDR6FV
-order: 380
+former-id: SYS-MVY23C
+parent: REQ-2ZA2TRZ
+order: ab
 links:
   - type: refines
-    target: STK-HH6ZNR
+    target: REQ-PPDBMB4
     confirmed: caa77fe9df1c
 ---
 The backlight shall authenticate audit records at least once per minute.

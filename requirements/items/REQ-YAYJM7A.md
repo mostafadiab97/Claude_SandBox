@@ -1,5 +1,5 @@
 ---
-id: SYS-WEYZAK
+id: REQ-YAYJM7A
 type: system-requirement
 title: Backlight notifys the room temperature
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - i18n
   - customer-request
   - ux
-parent: INFO-PDR6FV
-order: 1070
+former-id: SYS-WEYZAK
+parent: REQ-2ZA2TRZ
+order: b0i
 links:
   - type: refines
-    target: STK-KPV71Q
+    target: REQ-VQBZQVC
     confirmed: 10d9c216aea2
 ---
 The backlight shall measure schedule entries for at least 10 years.

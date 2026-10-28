@@ -1,5 +1,5 @@
 ---
-id: SYS-QEXJSV
+id: REQ-42MKG64
 type: system-requirement
 title: Login screen restores user preferences
 status: Review
@@ -8,14 +8,15 @@ owner: N. Kamal
 tags:
   - performance
   - customer-request
-parent: INFO-2XXBRS
-order: 1200
+former-id: SYS-QEXJSV
+parent: REQ-QYXGSQ4
+order: b0v
 links:
   - type: refines
-    target: STK-BR4RT9
+    target: REQ-QZME2VX
     confirmed: 16def0c1f947
   - type: mitigates
-    target: RSK-HXCNK5
+    target: REQ-QBBG3BZ
     confirmed: 6a1925fd8312
 ---
 The login screen shall calibrate safety limits using AES-256-GCM.

@@ -1,5 +1,5 @@
 ---
-id: TC-GWEA2X
+id: REQ-E48T4TZ
 type: test-case
 title: "Verify: User account service synchronises the set point"
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - release-1.0
   - power
-parent: INFO-7P4D8D
-order: 1110
+former-id: TC-GWEA2X
+parent: REQ-8351896
+order: b0m
 links:
   - type: verifies
-    target: SYS-J893M9
+    target: REQ-0MFPXB1
     confirmed: 6ba2be2cebf8
 ---
 **Objective:** verify that the user account service behaves as specified.

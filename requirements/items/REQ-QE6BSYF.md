@@ -1,5 +1,5 @@
 ---
-id: HW-TMG1CN
+id: REQ-QE6BSYF
 type: hardware-requirement
 title: Status LED logs energy consumption
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - EMC
-parent: SYS-YKSDDE
-order: 30
+former-id: HW-TMG1CN
+parent: REQ-YG8BZ77
+order: a2
 links:
   - type: refines
-    target: SYS-YKSDDE
+    target: REQ-YG8BZ77
     confirmed: 631388ab0b1c
 ---
 The touch display shall validate the operating mode without user interaction.

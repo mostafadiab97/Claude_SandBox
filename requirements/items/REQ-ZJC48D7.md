@@ -1,15 +1,16 @@
 ---
-id: SYS-C9V44A
+id: REQ-ZJC48D7
 type: system-requirement
 title: Relay board detects humidity values
 status: Draft
 priority: Medium
 owner: A. Hassan
-parent: INFO-A6P9A8
-order: 500
+former-id: SYS-C9V44A
+parent: REQ-CMCS31A
+order: an
 links:
   - type: refines
-    target: STK-2STGXE
+    target: REQ-67MQ0AB
     confirmed: c77fe61daf4b
 ---
 The relay board shall log the operating mode in all supported languages.

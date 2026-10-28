@@ -1,5 +1,5 @@
 ---
-id: SW-Q23XDF
+id: REQ-RYMWRT7
 type: software-requirement
 title: Regulation loop limits firmware images
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - connectivity
   - safety
-parent: SYS-0GKFAB
-order: 30
+former-id: SW-Q23XDF
+parent: REQ-1AQ8AT5
+order: a2
 links:
   - type: refines
-    target: SYS-0GKFAB
+    target: REQ-1AQ8AT5
     confirmed: b42a1b2bb89f
 ---
 The zone valve shall report safety limits with an accuracy of ±0.5 °C.

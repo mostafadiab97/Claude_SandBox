@@ -1,5 +1,5 @@
 ---
-id: TC-6ER635
+id: REQ-XPE9253
 type: test-case
 title: "Verify: Pairing process stores the room temperature"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - i18n
   - security
   - release-1.0
-parent: INFO-F0M7VC
-order: 1140
+former-id: TC-6ER635
+parent: REQ-67RQXCK
+order: b0p
 links:
   - type: verifies
-    target: SYS-9D1YDX
+    target: REQ-R3YX2BZ
     confirmed: c9cc1c48d86c
 ---
 **Objective:** verify that the pairing process behaves as specified.

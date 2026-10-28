@@ -1,5 +1,5 @@
 ---
-id: TC-N12THW
+id: REQ-MVHE821
 type: test-case
 title: "Regression: Power supply measures sensor readings"
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - connectivity
   - EMC
-parent: INFO-ECHASH
-order: 2140
+former-id: TC-N12THW
+parent: REQ-6H15AV2
+order: b2R
 links:
   - type: verifies
-    target: SYS-KK90ZN
+    target: REQ-TVXQNBY
     confirmed: a81e8767fb91
 ---
 **Objective:** verify that the device behaves as specified.

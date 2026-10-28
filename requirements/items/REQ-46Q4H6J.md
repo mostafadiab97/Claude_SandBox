@@ -1,16 +1,17 @@
 ---
-id: SW-NDZNVP
+id: REQ-46Q4H6J
 type: software-requirement
 title: Home dashboard limits humidity values
 status: Draft
 owner: É. Laurent
 tags:
   - security
-parent: SYS-263BJQ
-order: 20
+former-id: SW-NDZNVP
+parent: REQ-94M0JBB
+order: a1
 links:
   - type: refines
-    target: SYS-263BJQ
+    target: REQ-94M0JBB
     confirmed: 545c48596828
 ---
 The mobile app shall authenticate firmware images in all supported languages.

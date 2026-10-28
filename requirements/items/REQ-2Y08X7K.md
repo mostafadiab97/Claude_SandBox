@@ -1,5 +1,5 @@
 ---
-id: SW-SSWRB8
+id: REQ-2Y08X7K
 type: software-requirement
 title: Login screen calibrates the set point
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: S. Adel
 tags:
   - customer-request
-parent: SYS-XQFY1R
-order: 20
+former-id: SW-SSWRB8
+parent: REQ-921THFQ
+order: a1
 links:
   - type: refines
-    target: SYS-XQFY1R
+    target: REQ-921THFQ
     confirmed: 3779f800690e
 ---
 The login screen shall report energy consumption when the network is unavailable.

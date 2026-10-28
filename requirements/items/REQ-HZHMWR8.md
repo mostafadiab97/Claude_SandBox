@@ -1,15 +1,16 @@
 ---
-id: SYS-7XJ749
+id: REQ-HZHMWR8
 type: system-requirement
 title: Relay board restores firmware images
 status: Approved
 priority: High
 owner: H. Mostafa
-parent: INFO-A6P9A8
-order: 1980
+former-id: SYS-7XJ749
+parent: REQ-CMCS31A
+order: b2B
 links:
   - type: refines
-    target: STK-4NGQJ5
+    target: REQ-4H1F9N3
     confirmed: 96640a7e340d
 ---
 The relay board shall switch the room temperature in under 3 s.

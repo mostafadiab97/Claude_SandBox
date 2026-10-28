@@ -1,5 +1,5 @@
 ---
-id: IF-BTV6V9
+id: REQ-9XH24WH
 type: interface-requirement
 title: Encrypt error conditions — detail
 status: Review
@@ -7,11 +7,12 @@ priority: High
 owner: K. Tanaka
 tags:
   - customer-request
-parent: IF-GDQ732
-order: 10
+former-id: IF-BTV6V9
+parent: REQ-05V0SM3
+order: a0
 links:
   - type: refines
-    target: IF-GDQ732
+    target: REQ-05V0SM3
     confirmed: 529789567d36
 ---
 The battery backup shall store relay events within 200 ms.

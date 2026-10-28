@@ -1,5 +1,5 @@
 ---
-id: IF-CR5JTZ
+id: REQ-C05PAMH
 type: interface-requirement
 title: Pairing process reports the set point
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: A. Hassan
 tags:
   - security
-parent: SYS-B9VTJR
-order: 20
+former-id: IF-CR5JTZ
+parent: REQ-EK8RFSG
+order: a1
 links:
   - type: refines
-    target: SYS-B9VTJR
+    target: REQ-EK8RFSG
     confirmed: 07a4ebe67d81
 ---
 The pairing process shall report firmware images when the network is unavailable.

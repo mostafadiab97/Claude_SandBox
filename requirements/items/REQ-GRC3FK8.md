@@ -1,5 +1,5 @@
 ---
-id: SW-EH8GQQ
+id: REQ-GRC3FK8
 type: software-requirement
 title: Wi-Fi module displays error conditions
 status: Draft
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - release-1.0
   - customer-request
-parent: SYS-749A38
-order: 30
+former-id: SW-EH8GQQ
+parent: REQ-GHJK43J
+order: a2
 links:
   - type: refines
-    target: SYS-749A38
+    target: REQ-GHJK43J
     confirmed: a8274ea6218e
 ---
 The Wi-Fi module shall store error conditions using AES-256-GCM.

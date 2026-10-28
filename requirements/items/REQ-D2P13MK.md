@@ -1,18 +1,19 @@
 ---
-id: TC-MXE337
+id: REQ-D2P13MK
 type: test-case
 title: "Verify: Login screen notifys firmware images"
 status: Review
 priority: Medium
 owner: É. Laurent
-parent: INFO-J0FETE
-order: 840
+former-id: TC-MXE337
+parent: REQ-WR5ZJN9
+order: b0L
 links:
   - type: verifies
-    target: SYS-PERCNX
+    target: REQ-1CGSZAR
     confirmed: 6bc9ba229103
   - type: verifies
-    target: SW-G6TGXX
+    target: REQ-0Y3FPG4
     confirmed: 2381b283029d
 ---
 **Objective:** verify that the login screen behaves as specified.

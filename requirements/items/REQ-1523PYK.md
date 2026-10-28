@@ -1,19 +1,20 @@
 ---
-id: TC-PQFNTG
+id: REQ-1523PYK
 type: test-case
 title: "Verify: Status LED limits relay events"
 status: Review
 tags:
   - performance
   - release-2.0
-parent: INFO-HTSZ15
-order: 460
+former-id: TC-PQFNTG
+parent: REQ-Y9VHHKA
+order: aj
 links:
   - type: verifies
-    target: SYS-2NNT9F
+    target: REQ-Z37752H
     confirmed: 34d488ad75d2
   - type: verifies
-    target: SW-EGMPBV
+    target: REQ-CY0TP17
     confirmed: aab0bb8098cb
 ---
 **Objective:** verify that the status LED behaves as specified.

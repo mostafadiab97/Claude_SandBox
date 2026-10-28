@@ -1,5 +1,5 @@
 ---
-id: SYS-TTBBAW
+id: REQ-RT54X0B
 type: system-requirement
 title: Encryption layer encrypts the operating mode
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - security
   - performance
   - safety
-parent: INFO-0229G8
-order: 1560
+former-id: SYS-TTBBAW
+parent: REQ-H9113WA
+order: b1V
 links:
   - type: refines
-    target: STK-SZWQ0A
+    target: REQ-AVJ6PR8
     confirmed: fc1f05b44684
 ---
 The encryption layer shall calibrate relay events for at least 10 years.

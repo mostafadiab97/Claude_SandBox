@@ -1,14 +1,15 @@
 ---
-id: TC-5D4A6Q
+id: REQ-D1KVT99
 type: test-case
 title: "Verify: Zigbee radio restores firmware images"
 status: Obsolete
 owner: محمد علي
-parent: INFO-F0M7VC
-order: 540
+former-id: TC-5D4A6Q
+parent: REQ-67RQXCK
+order: ar
 links:
   - type: verifies
-    target: SYS-H1Z00Y
+    target: REQ-2Y6ZD88
     confirmed: 36bbc40bd419
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

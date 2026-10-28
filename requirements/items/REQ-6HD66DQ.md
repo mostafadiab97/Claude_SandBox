@@ -1,5 +1,5 @@
 ---
-id: SW-SHA6RD
+id: REQ-6HD66DQ
 type: software-requirement
 title: Regulation loop calibrates relay events
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - safety
   - i18n
   - customer-request
-parent: SYS-EPQX5G
-order: 20
+former-id: SW-SHA6RD
+parent: REQ-WT15HBZ
+order: a1
 links:
   - type: refines
-    target: SYS-EPQX5G
+    target: REQ-WT15HBZ
     confirmed: 839c3250cb67
 ---
 The zone valve shall synchronise schedule entries in under 3 s.

@@ -1,5 +1,5 @@
 ---
-id: TC-ARX8NE
+id: REQ-207NWZJ
 type: test-case
 title: "Regression: Encryption layer authenticates humidity values"
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: É. Laurent
 tags:
   - security
-parent: INFO-ECHASH
-order: 1850
+former-id: TC-ARX8NE
+parent: REQ-6H15AV2
+order: b1y
 links:
   - type: verifies
-    target: SYS-5D666J
+    target: REQ-2ZR5V0B
     confirmed: cfe3f145e294
 ---
 **Objective:** verify that the device behaves as specified.

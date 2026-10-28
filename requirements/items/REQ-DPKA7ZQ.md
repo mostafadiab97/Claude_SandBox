@@ -1,5 +1,5 @@
 ---
-id: HW-KDCC9W
+id: REQ-DPKA7ZQ
 type: hardware-requirement
 title: Notification service encrypts safety limits
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - release-1.0
   - safety
   - cost
-parent: SYS-AW0CHS
-order: 10
+former-id: HW-KDCC9W
+parent: REQ-PTAM8D9
+order: a0
 links:
   - type: refines
-    target: SYS-AW0CHS
+    target: REQ-PTAM8D9
     confirmed: "565684011683"
 ---
 The schedule editor shall restore relay events within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: HW-XSBP92
+id: REQ-6M9VQAY
 type: hardware-requirement
 title: Enclosure switchs error conditions
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - cost
   - customer-request
   - accessibility
-parent: SYS-9DPF6C
-order: 20
+former-id: HW-XSBP92
+parent: REQ-H49BVYV
+order: a1
 links:
   - type: refines
-    target: SYS-9DPF6C
+    target: REQ-H49BVYV
     confirmed: 33deda97a847
 ---
 The power supply shall encrypt the room temperature in all supported languages.

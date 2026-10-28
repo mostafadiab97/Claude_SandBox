@@ -1,5 +1,5 @@
 ---
-id: SW-V4SFWV
+id: REQ-EKMS9ZA
 type: software-requirement
 title: Encryption layer validates the connection state
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - customer-request
   - cost
   - release-2.0
-parent: SYS-ABZP07
-order: 10
+former-id: SW-V4SFWV
+parent: REQ-RB03G7X
+order: a0
 links:
   - type: refines
-    target: SYS-ABZP07
+    target: REQ-RB03G7X
     confirmed: fada4baa41ba
 ---
 The tamper detection shall encrypt the room temperature for at least 10 years.

@@ -1,5 +1,5 @@
 ---
-id: SYS-HZ4B6T
+id: REQ-CQ0MMHD
 type: system-requirement
 title: Login screen logs sensor readings
 status: Draft
@@ -7,8 +7,9 @@ priority: Medium
 owner: R. Nabil
 tags:
   - EMC
-parent: INFO-2XXBRS
-order: 830
+former-id: SYS-HZ4B6T
+parent: REQ-QYXGSQ4
+order: b0K
 links:
   - type: refines
     target: STK-H87WHA

@@ -1,9 +1,10 @@
 ---
-id: INFO-29DSW9
+id: REQ-9CW26PZ
 type: information
 title: Glossary
-parent: INFO-G6W4NC
-order: 10
+former-id: INFO-29DSW9
+parent: REQ-82JBFRP
+order: a0
 ---
 | Term | Meaning |
 | --- | --- |

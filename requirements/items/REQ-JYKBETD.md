@@ -1,5 +1,5 @@
 ---
-id: SW-0BXTN1
+id: REQ-JYKBETD
 type: software-requirement
 title: Home dashboard reports user preferences
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - release-2.0
   - release-1.0
-parent: SYS-AY7604
-order: 30
+former-id: SW-0BXTN1
+parent: REQ-TVYEGT2
+order: a2
 links:
   - type: refines
-    target: SYS-AY7604
+    target: REQ-TVYEGT2
     confirmed: b500de19135f
 ---
 The home dashboard shall switch the room temperature within 200 ms.

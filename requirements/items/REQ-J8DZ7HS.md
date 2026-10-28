@@ -1,14 +1,15 @@
 ---
-id: IF-NQE3ME
+id: REQ-J8DZ7HS
 type: interface-requirement
 title: Display the operating mode — detail
 status: Obsolete
 owner: S. Adel
-parent: IF-JVAV8P
-order: 10
+former-id: IF-NQE3ME
+parent: REQ-MSNKD9W
+order: a0
 links:
   - type: refines
-    target: IF-JVAV8P
+    target: REQ-MSNKD9W
     confirmed: 0c0f1c607330
 ---
 The encryption layer shall notify sensor readings in under 3 s.

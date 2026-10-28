@@ -1,15 +1,16 @@
 ---
-id: HW-EB6E2D
+id: REQ-KB5S2QZ
 type: hardware-requirement
 title: Main PCB switchs humidity values
 status: Draft
 priority: Medium
 owner: É. Laurent
-parent: SYS-H9YARC
-order: 30
+former-id: HW-EB6E2D
+parent: REQ-7DP8FH8
+order: a2
 links:
   - type: refines
-    target: SYS-H9YARC
+    target: REQ-7DP8FH8
     confirmed: 65250d626484
 ---
 The main PCB shall log error conditions in all supported languages.

@@ -1,5 +1,5 @@
 ---
-id: SYS-B1T54X
+id: REQ-H8MPYP8
 type: system-requirement
 title: Enclosure stores the operating mode
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: L. Samir
 tags:
   - connectivity
-parent: INFO-A6P9A8
-order: 1120
+former-id: SYS-B1T54X
+parent: REQ-CMCS31A
+order: b0n
 links:
   - type: refines
-    target: STK-2STGXE
+    target: REQ-67MQ0AB
     confirmed: c77fe61daf4b
 ---
 The enclosure shall encrypt schedule entries with an accuracy of ±0.5 °C.

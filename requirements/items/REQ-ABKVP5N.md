@@ -1,5 +1,5 @@
 ---
-id: SYS-SPCMHW
+id: REQ-ABKVP5N
 type: system-requirement
 title: Battery backup limits user preferences
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - i18n
   - power
-parent: INFO-A6P9A8
-order: 1840
+former-id: SYS-SPCMHW
+parent: REQ-CMCS31A
+order: b1x
 links:
   - type: refines
-    target: STK-KEP05J
+    target: REQ-PRMNGRJ
     confirmed: 74304e03fe52
 ---
 The battery backup shall encrypt the connection state using AES-256-GCM.

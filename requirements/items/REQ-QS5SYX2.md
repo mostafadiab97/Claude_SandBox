@@ -1,5 +1,5 @@
 ---
-id: TC-NPYXKN
+id: REQ-QS5SYX2
 type: test-case
 title: "Verify: Zigbee radio encrypts error conditions"
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: R. Nabil
 tags:
   - connectivity
-parent: INFO-F0M7VC
-order: 900
+former-id: TC-NPYXKN
+parent: REQ-67RQXCK
+order: b0R
 links:
   - type: verifies
-    target: SYS-F6VRWH
+    target: REQ-5PW0SDX
     confirmed: abf71e4c34db
 ---
 **Objective:** verify that the Zigbee radio behaves as specified.

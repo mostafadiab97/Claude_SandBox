@@ -1,5 +1,5 @@
 ---
-id: DE-ABGDTS
+id: REQ-HTKN32F
 type: design-element
 title: Module notification_service_27
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - safety
   - power
   - accessibility
-parent: SW-WF1GZZ
-order: 10
+former-id: DE-ABGDTS
+parent: REQ-D4BST2A
+order: a0
 links:
   - type: implements
-    target: SW-WF1GZZ
+    target: REQ-D4BST2A
     confirmed: abee984b43ba
 ---
 Implemented in `src/app/notification_service.c`.

@@ -1,5 +1,5 @@
 ---
-id: IF-GZ92PE
+id: REQ-2PN2SKD
 type: interface-requirement
 title: Bluetooth LE link limits error conditions
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - cost
   - release-1.0
   - i18n
-parent: SYS-TGB5BV
-order: 40
+former-id: IF-GZ92PE
+parent: REQ-FD54NF7
+order: a3
 links:
   - type: refines
-    target: SYS-TGB5BV
+    target: REQ-FD54NF7
     confirmed: efddaa3f87b9
 ---
 The Bluetooth LE link shall measure audit records at least once per minute.

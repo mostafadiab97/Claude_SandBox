@@ -1,5 +1,5 @@
 ---
-id: SYS-N863QF
+id: REQ-SNPKEPT
 type: system-requirement
 title: Battery backup limits the connection state
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - accessibility
   - EMC
-parent: INFO-A6P9A8
-order: 2120
+former-id: SYS-N863QF
+parent: REQ-CMCS31A
+order: b2P
 links:
   - type: refines
-    target: STK-4NGQJ5
+    target: REQ-4H1F9N3
     confirmed: 96640a7e340d
 ---
 The battery backup shall detect the room temperature within 200 ms.

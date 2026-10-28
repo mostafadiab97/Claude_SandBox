@@ -1,5 +1,5 @@
 ---
-id: SYS-P6F0FV
+id: REQ-9T16YB2
 type: system-requirement
 title: Secure boot detects the operating mode
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - power
   - safety
   - customer-request
-parent: INFO-0229G8
-order: 1130
+former-id: SYS-P6F0FV
+parent: REQ-H9113WA
+order: b0o
 links:
   - type: refines
-    target: STK-SM9B7Z
+    target: REQ-Z2QF8WD
     confirmed: 44235e2789f0
 ---
 The secure boot shall detect relay events at least once per minute.

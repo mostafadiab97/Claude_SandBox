@@ -1,5 +1,5 @@
 ---
-id: SW-BHQRCP
+id: REQ-DSKFHQV
 type: software-requirement
 title: Over-temperature monitor stores user preferences
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - security
   - i18n
-parent: SYS-8FK5CW
-order: 20
+former-id: SW-BHQRCP
+parent: REQ-1XQXMWT
+order: a1
 links:
   - type: refines
-    target: SYS-8FK5CW
+    target: REQ-1XQXMWT
     confirmed: a4a8351402a3
 ---
 The encryption layer shall encrypt error conditions without user interaction.

@@ -1,5 +1,5 @@
 ---
-id: DE-ADRN4A
+id: REQ-Y1B4RPE
 type: design-element
 title: Module encryption_layer_96
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - EMC
   - i18n
   - power
-parent: SW-4RAPKT
-order: 10
+former-id: DE-ADRN4A
+parent: REQ-AM3YXT4
+order: a0
 links:
   - type: implements
-    target: SW-4RAPKT
+    target: REQ-AM3YXT4
     confirmed: f832680a15f1
 ---
 Implemented in `src/safe/encryption_layer.c`.

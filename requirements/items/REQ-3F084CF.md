@@ -1,5 +1,5 @@
 ---
-id: TC-XKWTF4
+id: REQ-3F084CF
 type: test-case
 title: "Verify: Touch display logs audit records"
 status: Approved
@@ -7,14 +7,15 @@ priority: High
 tags:
   - release-1.0
   - regulatory
-parent: INFO-HTSZ15
-order: 1520
+former-id: TC-XKWTF4
+parent: REQ-Y9VHHKA
+order: b1R
 links:
   - type: verifies
-    target: SYS-6DS2H0
+    target: REQ-9BVVNS9
     confirmed: 108113d0fa0b
   - type: verifies
-    target: SW-DMY4GP
+    target: REQ-2RJWX8E
     confirmed: b52688ba9a63
 ---
 **Objective:** verify that the touch display behaves as specified.

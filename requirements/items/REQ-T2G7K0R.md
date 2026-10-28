@@ -1,5 +1,5 @@
 ---
-id: SW-R043GQ
+id: REQ-T2G7K0R
 type: software-requirement
 title: OTA server synchronises the set point
 status: Review
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - performance
   - i18n
-parent: SYS-J86K99
-order: 30
+former-id: SW-R043GQ
+parent: REQ-Q9W4EZ1
+order: a2
 links:
   - type: refines
-    target: SYS-J86K99
+    target: REQ-Q9W4EZ1
     confirmed: cd639bbeedd1
 ---
 The device registry shall log the set point using AES-256-GCM.

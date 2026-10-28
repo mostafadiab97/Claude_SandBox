@@ -1,8 +1,9 @@
 ---
-id: INFO-G6W4NC
+id: REQ-82JBFRP
 type: information
 title: Smart Home Climate System — Requirements Specification
-order: 10
+former-id: INFO-G6W4NC
+order: a0
 ---
 # Purpose
 

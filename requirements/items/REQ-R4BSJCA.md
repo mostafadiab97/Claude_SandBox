@@ -1,19 +1,20 @@
 ---
-id: SYS-F1Q0NC
+id: REQ-R4BSJCA
 type: system-requirement
 title: Zone valve authenticates firmware images
 status: Approved
 priority: Medium
 tags:
   - security
-parent: INFO-6DQTKV
-order: 1830
+former-id: SYS-F1Q0NC
+parent: REQ-7ED7ZET
+order: b1w
 links:
   - type: refines
-    target: STK-M7S0HJ
+    target: REQ-219619F
     confirmed: 000356d5d38b
   - type: mitigates
-    target: RSK-BCAGDN
+    target: REQ-8G7SNRG
     confirmed: 872827ad2760
 ---
 The zone valve shall encrypt the room temperature at least once per minute.

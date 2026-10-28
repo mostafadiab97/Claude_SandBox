@@ -1,5 +1,5 @@
 ---
-id: SW-8EMMCV
+id: REQ-3WVWJ9X
 type: software-requirement
 title: Heating controller notifys the set point
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 owner: R. Nabil
 tags:
   - release-2.0
-parent: SYS-HZRAQ2
-order: 20
+former-id: SW-8EMMCV
+parent: REQ-MN0BSTQ
+order: a1
 links:
   - type: refines
-    target: SYS-HZRAQ2
+    target: REQ-MN0BSTQ
     confirmed: 67e08d743ee6
 ---
 The heating controller shall display error conditions at least once per minute.

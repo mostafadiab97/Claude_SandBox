@@ -1,5 +1,5 @@
 ---
-id: SW-KFTKB8
+id: REQ-CKBG36S
 type: software-requirement
 title: Rotary knob displays schedule entries
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - release-2.0
   - security
-parent: SYS-TPWEFS
-order: 20
+former-id: SW-KFTKB8
+parent: REQ-RCFJ9CQ
+order: a1
 links:
   - type: refines
-    target: SYS-TPWEFS
+    target: REQ-RCFJ9CQ
     confirmed: dcd525a7f6f5
 ---
 The menu system shall display energy consumption within 200 ms.

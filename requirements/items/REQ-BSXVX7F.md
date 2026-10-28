@@ -1,14 +1,15 @@
 ---
-id: TC-TQM1JF
+id: REQ-BSXVX7F
 type: test-case
 title: "Regression: Main PCB displays sensor readings"
 status: Review
 priority: Medium
-parent: INFO-ECHASH
-order: 1040
+former-id: TC-TQM1JF
+parent: REQ-6H15AV2
+order: b0f
 links:
   - type: verifies
-    target: SYS-80ZJ33
+    target: REQ-Z02MCDH
     confirmed: 7a5b090e57ac
 ---
 **Objective:** verify that the device behaves as specified.

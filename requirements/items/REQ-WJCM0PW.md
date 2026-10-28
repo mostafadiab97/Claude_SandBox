@@ -1,5 +1,5 @@
 ---
-id: SW-MNFBRT
+id: REQ-WJCM0PW
 type: software-requirement
 title: Restore the set point — detail
 status: Obsolete
@@ -9,11 +9,12 @@ tags:
   - cost
   - EMC
   - customer-request
-parent: SW-T0Z7E3
-order: 10
+former-id: SW-MNFBRT
+parent: REQ-YNYMV60
+order: a0
 links:
   - type: refines
-    target: SW-T0Z7E3
+    target: REQ-YNYMV60
     confirmed: 912bd055e38d
 ---
 The heating controller shall synchronise the operating mode for at least 10 years.

@@ -1,5 +1,5 @@
 ---
-id: SW-6T7847
+id: REQ-ECFS4ZP
 type: software-requirement
 title: Pairing process measures the room temperature
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - performance
   - connectivity
   - security
-parent: SYS-MT91D9
-order: 20
+former-id: SW-6T7847
+parent: REQ-WG3XYJ3
+order: a1
 links:
   - type: refines
-    target: SYS-MT91D9
+    target: REQ-WG3XYJ3
     confirmed: 4dae60ba5140
 ---
 The local API shall store safety limits within 200 ms.

@@ -1,16 +1,17 @@
 ---
-id: DE-3XSYZS
+id: REQ-7MYZ2H0
 type: design-element
 title: Module status_LED_54
 status: Draft
 priority: Low
 tags:
   - safety
-parent: SW-WJPZMR
-order: 20
+former-id: DE-3XSYZS
+parent: REQ-ET7TKC8
+order: a1
 links:
   - type: implements
-    target: SW-WJPZMR
+    target: REQ-ET7TKC8
     confirmed: 15b12041082c
 ---
 Implemented in `src/ui/status_LED.c`.

@@ -1,5 +1,5 @@
 ---
-id: SW-JP6Q8Q
+id: REQ-D8MN2JR
 type: software-requirement
 title: Telemetry pipeline restores the connection state
 status: Review
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - release-1.0
   - cost
-parent: SYS-8RS5SX
-order: 10
+former-id: SW-JP6Q8Q
+parent: REQ-MRTEEED
+order: a0
 links:
   - type: refines
-    target: SYS-8RS5SX
+    target: REQ-MRTEEED
     confirmed: 46ee13bca2b0
 ---
 The OTA server shall detect schedule entries for up to 8 zones.

@@ -1,5 +1,5 @@
 ---
-id: IF-5MCCNT
+id: REQ-3G06QC4
 type: interface-requirement
 title: "Signal 370: the connection state"
 status: Review
@@ -9,7 +9,8 @@ tags:
   - performance
   - connectivity
   - accessibility
-parent: INFO-2TM0JP
-order: 3700
+former-id: IF-5MCCNT
+parent: REQ-RJ0KHPT
+order: b4x
 ---
 Interface signal number 370.

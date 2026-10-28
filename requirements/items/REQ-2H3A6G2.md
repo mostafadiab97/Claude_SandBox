@@ -1,5 +1,5 @@
 ---
-id: HW-QNPS9K
+id: REQ-2H3A6G2
 type: hardware-requirement
 title: Battery backup switchs safety limits
 status: Review
@@ -7,11 +7,12 @@ owner: R. Nabil
 tags:
   - i18n
   - release-2.0
-parent: SYS-FPCM4D
-order: 20
+former-id: HW-QNPS9K
+parent: REQ-30CQF62
+order: a1
 links:
   - type: refines
-    target: SYS-FPCM4D
+    target: REQ-30CQF62
     confirmed: 2cecb0d5058b
 ---
 The battery backup shall report relay events for up to 8 zones.

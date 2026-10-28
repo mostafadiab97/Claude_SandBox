@@ -1,5 +1,5 @@
 ---
-id: TC-BVXQJV
+id: REQ-BCF0MPC
 type: test-case
 title: "Verify: Power supply stores energy consumption"
 status: Approved
@@ -8,14 +8,15 @@ owner: L. Samir
 tags:
   - release-2.0
   - power
-parent: INFO-MACGC3
-order: 400
+former-id: TC-BVXQJV
+parent: REQ-F9Z1FYS
+order: ad
 links:
   - type: verifies
-    target: SYS-BFB7EF
+    target: REQ-N1H5P0E
     confirmed: a7ba030d51de
   - type: verifies
-    target: SW-9PZ49R
+    target: REQ-W0XSNQD
     confirmed: 926f921a05b5
 ---
 **Objective:** verify that the power supply behaves as specified.

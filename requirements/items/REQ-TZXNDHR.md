@@ -1,5 +1,5 @@
 ---
-id: IF-NVT8WG
+id: REQ-TZXNDHR
 type: interface-requirement
 title: Home dashboard synchronises the set point
 status: Draft
@@ -8,11 +8,12 @@ owner: M. Farouk
 tags:
   - security
   - connectivity
-parent: SYS-R2FDWQ
-order: 30
+former-id: IF-NVT8WG
+parent: REQ-JJMJXVK
+order: a2
 links:
   - type: refines
-    target: SYS-R2FDWQ
+    target: REQ-JJMJXVK
     confirmed: 08d5a1fe5a7b
 ---
 The schedule editor shall switch schedule entries within 200 ms.

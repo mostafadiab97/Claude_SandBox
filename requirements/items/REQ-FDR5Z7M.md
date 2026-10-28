@@ -1,5 +1,5 @@
 ---
-id: TC-NPBHZC
+id: REQ-FDR5Z7M
 type: test-case
 title: "Verify: OTA server detects the set point"
 status: Review
@@ -7,14 +7,15 @@ priority: High
 owner: R. Nabil
 tags:
   - connectivity
-parent: INFO-7P4D8D
-order: 80
+former-id: TC-NPBHZC
+parent: REQ-8351896
+order: a7
 links:
   - type: verifies
-    target: SYS-2RPS4X
+    target: REQ-DK1Y1RM
     confirmed: 6a90f09e6ec1
   - type: verifies
-    target: SW-EJ1VD0
+    target: REQ-6THY5S8
     confirmed: 34b66d1bd62f
 ---
 **Objective:** verify that the OTA server behaves as specified.

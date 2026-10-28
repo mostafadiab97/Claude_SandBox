@@ -1,5 +1,5 @@
 ---
-id: DE-KXZCNN
+id: REQ-CRF0H1F
 type: design-element
 title: Module over-temperature_monitor_75
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 tags:
   - accessibility
   - security
-parent: SW-P2J8K1
-order: 10
+former-id: DE-KXZCNN
+parent: REQ-EVQZD1F
+order: a0
 links:
   - type: implements
-    target: SW-P2J8K1
+    target: REQ-EVQZD1F
     confirmed: c5f184930ac5
 ---
 Implemented in `src/safe/over-temperature_monitor.c`.

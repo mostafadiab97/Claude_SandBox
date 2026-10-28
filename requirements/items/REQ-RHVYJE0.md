@@ -1,5 +1,5 @@
 ---
-id: DE-EYNYAT
+id: REQ-RHVYJE0
 type: design-element
 title: Module cloud_backend_96
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - power
   - connectivity
   - performance
-parent: SW-4D3AV2
-order: 20
+former-id: DE-EYNYAT
+parent: REQ-333VFHS
+order: a1
 links:
   - type: implements
-    target: SW-4D3AV2
+    target: REQ-333VFHS
     confirmed: cf9fe2dfac00
 ---
 Implemented in `src/cloud/cloud_backend.c`.

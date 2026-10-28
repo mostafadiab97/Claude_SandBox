@@ -1,16 +1,17 @@
 ---
-id: TC-QJ9REW
+id: REQ-BTZNDB6
 type: test-case
 title: "Verify: Relay board validates the operating mode"
 status: Draft
 priority: High
 tags:
   - release-2.0
-parent: INFO-MACGC3
-order: 770
+former-id: TC-QJ9REW
+parent: REQ-F9Z1FYS
+order: b0E
 links:
   - type: verifies
-    target: SYS-2G95V5
+    target: REQ-Y6WGRCS
     confirmed: c56996de7c48
 ---
 **Objective:** verify that the relay board behaves as specified.

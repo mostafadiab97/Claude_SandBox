@@ -1,5 +1,5 @@
 ---
-id: SW-YE059F
+id: REQ-8HDKGDK
 type: software-requirement
 title: Zone valve switchs energy consumption
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: محمد علي
 tags:
   - ux
-parent: SYS-2VJXMH
-order: 20
+former-id: SW-YE059F
+parent: REQ-851RY2T
+order: a1
 links:
   - type: refines
-    target: SYS-2VJXMH
+    target: REQ-851RY2T
     confirmed: 83f4124c0709
 ---
 The zone valve shall log humidity values using AES-256-GCM.

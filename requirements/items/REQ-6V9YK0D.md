@@ -1,15 +1,16 @@
 ---
-id: SW-DG1EW3
+id: REQ-6V9YK0D
 type: software-requirement
 title: Wi-Fi module limits audit records
 status: Approved
 priority: Low
 owner: N. Kamal
-parent: SYS-1NHXCW
-order: 10
+former-id: SW-DG1EW3
+parent: REQ-WK5920T
+order: a0
 links:
   - type: refines
-    target: SYS-1NHXCW
+    target: REQ-WK5920T
     confirmed: e694361bd48d
 ---
 The Wi-Fi module shall encrypt firmware images at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: SW-6EGBCD
+id: REQ-A1Y5R5K
 type: software-requirement
 title: Cloud backend reports schedule entries
 status: Draft
@@ -7,11 +7,12 @@ owner: R. Nabil
 tags:
   - release-1.0
   - i18n
-parent: SYS-C084T6
-order: 30
+former-id: SW-6EGBCD
+parent: REQ-MXBKVNX
+order: a2
 links:
   - type: refines
-    target: SYS-C084T6
+    target: REQ-MXBKVNX
     confirmed: 60b474ed648f
 ---
 The cloud backend shall validate the room temperature with an accuracy of ±0.5 °C.

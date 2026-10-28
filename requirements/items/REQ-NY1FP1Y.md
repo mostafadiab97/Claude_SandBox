@@ -1,5 +1,5 @@
 ---
-id: HW-2Z6C9V
+id: REQ-NY1FP1Y
 type: hardware-requirement
 title: User account service authenticates the connection state
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - i18n
   - safety
-parent: SYS-KCC5WV
-order: 20
+former-id: HW-2Z6C9V
+parent: REQ-PSHZ85Z
+order: a1
 links:
   - type: refines
-    target: SYS-KCC5WV
+    target: REQ-PSHZ85Z
     confirmed: 201bc4a0f987
 ---
 The user account service shall validate access tokens with an accuracy of ±0.5 °C.

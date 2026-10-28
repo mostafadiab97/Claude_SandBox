@@ -1,5 +1,5 @@
 ---
-id: SYS-7JSRR1
+id: REQ-KTXE533
 type: system-requirement
 title: Notification service authenticates schedule entries
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - power
   - EMC
-parent: INFO-2XXBRS
-order: 640
+former-id: SYS-7JSRR1
+parent: REQ-QYXGSQ4
+order: b01
 links:
   - type: refines
-    target: STK-4F6B1Y
+    target: REQ-5P7JDVE
     confirmed: 4a1d76b1da2c
 ---
 The notification service shall report humidity values in under 3 s.

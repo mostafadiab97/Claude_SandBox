@@ -1,16 +1,17 @@
 ---
-id: IF-R59HYZ
+id: REQ-JFVZGG9
 type: interface-requirement
 title: Over-temperature monitor measures the set point
 status: Draft
 priority: High
 tags:
   - performance
-parent: SYS-XFVPHY
-order: 40
+former-id: IF-R59HYZ
+parent: REQ-VJDSGE0
+order: a3
 links:
   - type: refines
-    target: SYS-XFVPHY
+    target: REQ-VJDSGE0
     confirmed: 7476eaa71d9e
 ---
 The tamper detection shall store the operating mode after a power loss.

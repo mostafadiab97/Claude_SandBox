@@ -1,5 +1,5 @@
 ---
-id: DE-HMC5N7
+id: REQ-GAJ4S94
 type: design-element
 title: Module boiler_interface_70
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - cost
   - connectivity
   - security
-parent: SW-M4Q7EZ
-order: 10
+former-id: DE-HMC5N7
+parent: REQ-1VRMR6D
+order: a0
 links:
   - type: implements
-    target: SW-M4Q7EZ
+    target: REQ-1VRMR6D
     confirmed: 0f3b5272ad4b
 ---
 Implemented in `src/heat/boiler_interface.c`.

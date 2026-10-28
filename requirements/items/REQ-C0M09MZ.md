@@ -1,15 +1,16 @@
 ---
-id: IF-0FTXDY
+id: REQ-C0M09MZ
 type: interface-requirement
 title: Device registry switchs user preferences
 status: Draft
 priority: High
 owner: R. Nabil
-parent: SYS-MNWAKG
-order: 20
+former-id: IF-0FTXDY
+parent: REQ-DGZD7G8
+order: a1
 links:
   - type: refines
-    target: SYS-MNWAKG
+    target: REQ-DGZD7G8
     confirmed: 979db4a6f2e3
 ---
 The OTA server shall encrypt the set point at least once per minute.

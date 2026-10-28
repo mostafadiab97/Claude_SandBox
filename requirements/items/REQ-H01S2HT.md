@@ -1,5 +1,5 @@
 ---
-id: TC-TK4F9V
+id: REQ-H01S2HT
 type: test-case
 title: "Verify: Over-temperature monitor stores audit records"
 status: Draft
@@ -7,14 +7,15 @@ owner: J. Müller
 tags:
   - regulatory
   - cost
-parent: INFO-Z4TW4B
-order: 580
+former-id: TC-TK4F9V
+parent: REQ-K6FGAY0
+order: av
 links:
   - type: verifies
-    target: SYS-WQRW57
+    target: REQ-J1452PB
     confirmed: a077b95b29b8
   - type: verifies
-    target: SW-0B9G6V
+    target: REQ-G9347E5
     confirmed: 4dd853c054a2
 ---
 **Objective:** verify that the over-temperature monitor behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: IF-79E597
+id: REQ-FWKQHN9
 type: interface-requirement
 title: Over-temperature monitor restores the room temperature
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - safety
   - customer-request
   - regulatory
-parent: SYS-T8M3T5
-order: 40
+former-id: IF-79E597
+parent: REQ-5XTHHVF
+order: a3
 links:
   - type: refines
-    target: SYS-T8M3T5
+    target: REQ-5XTHHVF
     confirmed: 6f66a4941544
 ---
 The over-temperature monitor shall validate the connection state without user interaction.

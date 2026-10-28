@@ -1,15 +1,16 @@
 ---
-id: UC-3CCQ29
+id: REQ-961GMX3
 type: use-case
 title: "UC: Log safety limits with the regulation loop"
 status: Review
 priority: Medium
 owner: Y. Saber
-parent: INFO-10C32K
-order: 170
+former-id: UC-3CCQ29
+parent: REQ-NER72N9
+order: aG
 links:
   - type: relates-to
-    target: STK-EWSQ9Z
+    target: REQ-GXKEHF3
     confirmed: aa5e4143dbe7
 ---
 **Actor:** home owner

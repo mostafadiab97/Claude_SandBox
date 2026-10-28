@@ -1,5 +1,5 @@
 ---
-id: IF-S0E81A
+id: REQ-MPJCD7B
 type: interface-requirement
 title: Telemetry pipeline validates user preferences
 status: Approved
@@ -7,11 +7,12 @@ owner: Y. Saber
 tags:
   - cost
   - connectivity
-parent: SYS-NKN3QV
-order: 30
+former-id: IF-S0E81A
+parent: REQ-4V8EY3P
+order: a2
 links:
   - type: refines
-    target: SYS-NKN3QV
+    target: REQ-4V8EY3P
     confirmed: 2f2d653f73be
 ---
 The user account service shall synchronise energy consumption within 200 ms.

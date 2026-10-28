@@ -1,15 +1,16 @@
 ---
-id: SYS-M3FMZZ
+id: REQ-2965TER
 type: system-requirement
 title: Status LED switchs the set point
 status: Review
 priority: Low
 owner: محمد علي
-parent: INFO-PDR6FV
-order: 330
+former-id: SYS-M3FMZZ
+parent: REQ-2ZA2TRZ
+order: aW
 links:
   - type: refines
-    target: STK-KPV71Q
+    target: REQ-VQBZQVC
     confirmed: 10d9c216aea2
 ---
 The status LED shall limit audit records using AES-256-GCM.

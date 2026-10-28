@@ -1,5 +1,5 @@
 ---
-id: TC-2KEWWY
+id: REQ-78TAX3G
 type: test-case
 title: "Verify: Enclosure switchs audit records"
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: M. Farouk
 tags:
   - connectivity
-parent: INFO-MACGC3
-order: 1270
+former-id: TC-2KEWWY
+parent: REQ-F9Z1FYS
+order: b12
 links:
   - type: verifies
-    target: SYS-E3W0C4
+    target: REQ-8X792M6
     confirmed: 6069f1d540ab
 ---
 **Objective:** verify that the enclosure behaves as specified.

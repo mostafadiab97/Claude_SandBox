@@ -1,5 +1,5 @@
 ---
-id: SW-7ZSB19
+id: REQ-19XQBMG
 type: software-requirement
 title: Status LED synchronises humidity values
 status: Approved
@@ -8,11 +8,12 @@ owner: J. Müller
 tags:
   - cost
   - i18n
-parent: SYS-N4973J
-order: 10
+former-id: SW-7ZSB19
+parent: REQ-PXV8ZVB
+order: a0
 links:
   - type: refines
-    target: SYS-N4973J
+    target: REQ-PXV8ZVB
     confirmed: 8d1bab1da881
 ---
 The menu system shall switch firmware images for at least 10 years.

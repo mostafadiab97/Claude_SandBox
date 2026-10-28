@@ -1,15 +1,16 @@
 ---
-id: SW-HY5F5F
+id: REQ-7AP0S9G
 type: software-requirement
 title: Home dashboard notifys energy consumption
 status: Approved
 priority: Medium
 owner: محمد علي
-parent: SYS-6085Y8
-order: 20
+former-id: SW-HY5F5F
+parent: REQ-HZ7KKKF
+order: a1
 links:
   - type: refines
-    target: SYS-6085Y8
+    target: REQ-HZ7KKKF
     confirmed: d22ffa0b21da
 ---
 The home dashboard shall limit error conditions when the network is unavailable.

@@ -1,15 +1,16 @@
 ---
-id: IF-0Z1CBK
+id: REQ-RB2SZD5
 type: interface-requirement
 title: Switch relay events — detail
 status: Obsolete
 priority: Medium
 owner: Y. Saber
-parent: IF-VA8QRB
-order: 10
+former-id: IF-0Z1CBK
+parent: REQ-7AZEG7V
+order: a0
 links:
   - type: refines
-    target: IF-VA8QRB
+    target: REQ-7AZEG7V
     confirmed: e3fa2d32112b
 ---
 The heating controller shall calibrate audit records in all supported languages.

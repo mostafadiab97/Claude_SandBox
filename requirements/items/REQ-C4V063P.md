@@ -1,18 +1,19 @@
 ---
-id: TC-FJCGYY
+id: REQ-C4V063P
 type: test-case
 title: "Verify: Mobile app logs schedule entries"
 status: Draft
 priority: Low
 owner: H. Mostafa
-parent: INFO-J0FETE
-order: 240
+former-id: TC-FJCGYY
+parent: REQ-WR5ZJN9
+order: aN
 links:
   - type: verifies
-    target: SYS-H82ZTG
+    target: REQ-09X88MA
     confirmed: f99414faf3d8
   - type: verifies
-    target: SW-MV99XM
+    target: REQ-86NSB1A
     confirmed: ebb6a7b1b83a
 ---
 **Objective:** verify that the mobile app behaves as specified.

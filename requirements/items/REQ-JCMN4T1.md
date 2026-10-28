@@ -1,15 +1,16 @@
 ---
-id: SYS-927AKR
+id: REQ-JCMN4T1
 type: system-requirement
 title: Menu system measures schedule entries
 status: Approved
 priority: High
 owner: H. Mostafa
-parent: INFO-PDR6FV
-order: 180
+former-id: SYS-927AKR
+parent: REQ-2ZA2TRZ
+order: aH
 links:
   - type: refines
-    target: STK-PCP268
+    target: REQ-DMRJS9A
     confirmed: 74f66b1bb8e8
 ---
 The menu system shall restore safety limits within 200 ms.

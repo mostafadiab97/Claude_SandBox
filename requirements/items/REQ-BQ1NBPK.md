@@ -1,5 +1,5 @@
 ---
-id: DE-8HBG5H
+id: REQ-BQ1NBPK
 type: design-element
 title: Module secure_boot_22
 status: Review
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - power
   - i18n
-parent: SW-61NQ7P
-order: 10
+former-id: DE-8HBG5H
+parent: REQ-N15ZHX7
+order: a0
 links:
   - type: implements
-    target: SW-61NQ7P
+    target: REQ-N15ZHX7
     confirmed: 9eab6a339615
 ---
 Implemented in `src/safe/secure_boot.c`.

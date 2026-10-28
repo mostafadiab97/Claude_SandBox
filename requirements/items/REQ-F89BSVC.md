@@ -1,15 +1,16 @@
 ---
-id: SW-BHPCQG
+id: REQ-F89BSVC
 type: software-requirement
 title: Status LED notifys humidity values
 status: Review
 priority: Medium
 owner: K. Tanaka
-parent: SYS-W9R8ZQ
-order: 20
+former-id: SW-BHPCQG
+parent: REQ-SH3K9A3
+order: a1
 links:
   - type: refines
-    target: SYS-W9R8ZQ
+    target: REQ-SH3K9A3
     confirmed: 38b79a7f1e8e
 ---
 The backlight shall store the connection state with an accuracy of ±0.5 °C.

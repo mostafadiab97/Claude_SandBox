@@ -1,15 +1,16 @@
 ---
-id: IF-NHYR20
+id: REQ-96R5RTN
 type: interface-requirement
 title: Main PCB notifys error conditions
 status: Approved
 priority: High
 owner: L. Samir
-parent: SYS-467EA2
-order: 40
+former-id: IF-NHYR20
+parent: REQ-SXVZTB3
+order: a3
 links:
   - type: refines
-    target: SYS-467EA2
+    target: REQ-SXVZTB3
     confirmed: 60a80a1c9e4e
 ---
 The power supply shall switch error conditions when the network is unavailable.

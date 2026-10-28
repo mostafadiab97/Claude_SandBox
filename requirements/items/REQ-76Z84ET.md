@@ -1,5 +1,5 @@
 ---
-id: HW-JM67ER
+id: REQ-76Z84ET
 type: hardware-requirement
 title: Home dashboard reports sensor readings
 status: Review
@@ -7,11 +7,12 @@ owner: N. Kamal
 tags:
   - connectivity
   - performance
-parent: SYS-FCT3MK
-order: 10
+former-id: HW-JM67ER
+parent: REQ-X86M4P6
+order: a0
 links:
   - type: refines
-    target: SYS-FCT3MK
+    target: REQ-X86M4P6
     confirmed: bc66988537d7
 ---
 The schedule editor shall log the set point with an accuracy of ±0.5 °C.

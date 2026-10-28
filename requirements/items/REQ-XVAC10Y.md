@@ -1,5 +1,5 @@
 ---
-id: DE-HXW22K
+id: REQ-XVAC10Y
 type: design-element
 title: Module schedule_editor_15
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - regulatory
   - cost
-parent: SW-Z3GRGG
-order: 10
+former-id: DE-HXW22K
+parent: REQ-N89006F
+order: a0
 links:
   - type: implements
-    target: SW-Z3GRGG
+    target: REQ-N89006F
     confirmed: cdfebd0c4ad3
 ---
 Implemented in `src/app/schedule_editor.c`.

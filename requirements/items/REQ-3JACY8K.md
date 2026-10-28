@@ -1,5 +1,5 @@
 ---
-id: TC-8JDQ6P
+id: REQ-3JACY8K
 type: test-case
 title: "Verify: Mobile app encrypts relay events"
 status: Approved
@@ -7,14 +7,15 @@ priority: High
 owner: L. Samir
 tags:
   - ux
-parent: INFO-J0FETE
-order: 720
+former-id: TC-8JDQ6P
+parent: REQ-WR5ZJN9
+order: b09
 links:
   - type: verifies
-    target: SYS-FBM4B7
+    target: REQ-0BCC2Y7
     confirmed: c2dee4a6831a
   - type: verifies
-    target: SW-5HV8ZB
+    target: REQ-T15RRBN
     confirmed: 3d295cfeb105
 ---
 **Objective:** verify that the mobile app behaves as specified.

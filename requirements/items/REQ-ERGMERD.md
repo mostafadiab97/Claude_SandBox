@@ -1,14 +1,15 @@
 ---
-id: TC-RNAN3V
+id: REQ-ERGMERD
 type: test-case
 title: "Verify: Main PCB calibrates the room temperature"
 status: Approved
 priority: Low
-parent: INFO-MACGC3
-order: 280
+former-id: TC-RNAN3V
+parent: REQ-F9Z1FYS
+order: aR
 links:
   - type: verifies
-    target: SYS-6PYBJD
+    target: REQ-E7EV6P4
     confirmed: fd85d789dbcd
 ---
 **Objective:** verify that the main PCB behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-1BYVAP
+id: REQ-3A5VGRW
 type: software-requirement
 title: Synchronise sensor readings — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - i18n
   - safety
   - customer-request
-parent: SW-S0F1BA
-order: 10
+former-id: SW-1BYVAP
+parent: REQ-BAWTDNP
+order: a0
 links:
   - type: refines
-    target: SW-S0F1BA
+    target: REQ-BAWTDNP
     confirmed: 2e961ae9e721
 ---
 The local API shall display the operating mode with an accuracy of ±0.5 °C.

@@ -1,5 +1,5 @@
 ---
-id: TC-HFBAB3
+id: REQ-06SJC5B
 type: test-case
 title: "Verify: Rotary knob restores safety limits"
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - release-2.0
-parent: INFO-HTSZ15
-order: 880
+former-id: TC-HFBAB3
+parent: REQ-Y9VHHKA
+order: b0P
 links:
   - type: verifies
-    target: SYS-AE5DCT
+    target: REQ-G7FNBP6
     confirmed: 5733321e8c53
 ---
 **Objective:** verify that the rotary knob behaves as specified.

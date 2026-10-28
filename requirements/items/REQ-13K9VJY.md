@@ -1,5 +1,5 @@
 ---
-id: IF-7R66ST
+id: REQ-13K9VJY
 type: interface-requirement
 title: Rotary knob limits error conditions
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: R. Nabil
 tags:
   - security
-parent: SYS-9W9NZD
-order: 10
+former-id: IF-7R66ST
+parent: REQ-T3A35PV
+order: a0
 links:
   - type: refines
-    target: SYS-9W9NZD
+    target: REQ-T3A35PV
     confirmed: 4875c522f62f
 ---
 The touch display shall validate schedule entries using AES-256-GCM.

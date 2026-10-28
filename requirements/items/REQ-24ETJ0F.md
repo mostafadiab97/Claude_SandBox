@@ -1,15 +1,16 @@
 ---
-id: TC-V698SN
+id: REQ-24ETJ0F
 type: test-case
 title: "Verify: Bluetooth LE link measures audit records"
 status: Approved
 priority: Medium
 owner: J. Müller
-parent: INFO-F0M7VC
-order: 1160
+former-id: TC-V698SN
+parent: REQ-67RQXCK
+order: b0r
 links:
   - type: verifies
-    target: SYS-BJ0Q20
+    target: REQ-J216NC7
     confirmed: 5bd6f55bad83
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

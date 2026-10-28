@@ -1,5 +1,5 @@
 ---
-id: DE-BE91TQ
+id: REQ-CY576MP
 type: design-element
 title: Module watchdog_43
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - safety
   - customer-request
-parent: SW-7NFGHB
-order: 10
+former-id: DE-BE91TQ
+parent: REQ-PZTXSS3
+order: a0
 links:
   - type: implements
-    target: SW-7NFGHB
+    target: REQ-PZTXSS3
     confirmed: 7629bf895475
 ---
 Implemented in `src/safe/watchdog.c`.

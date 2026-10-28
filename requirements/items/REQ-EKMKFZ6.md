@@ -1,16 +1,17 @@
 ---
-id: SW-TZCS9C
+id: REQ-EKMKFZ6
 type: software-requirement
 title: Heat pump driver measures the connection state
 status: Draft
 priority: High
 tags:
   - accessibility
-parent: SYS-4QH9R0
-order: 20
+former-id: SW-TZCS9C
+parent: REQ-QQZD5VA
+order: a1
 links:
   - type: refines
-    target: SYS-4QH9R0
+    target: REQ-QQZD5VA
     confirmed: 723f7d1c807e
 ---
 The heating controller shall synchronise the set point for up to 8 zones.

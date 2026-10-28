@@ -1,15 +1,16 @@
 ---
-id: SYS-M533EE
+id: REQ-7N71AKR
 type: system-requirement
 title: Battery backup authenticates the room temperature
 status: Approved
 priority: Low
 owner: K. Tanaka
-parent: INFO-A6P9A8
-order: 1510
+former-id: SYS-M533EE
+parent: REQ-CMCS31A
+order: b1Q
 links:
   - type: refines
-    target: STK-ZWN5M8
+    target: REQ-Z2PYD5A
     confirmed: 994b9d44bde8
 ---
 The battery backup shall limit firmware images at least once per minute.

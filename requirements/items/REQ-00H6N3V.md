@@ -1,5 +1,5 @@
 ---
-id: HW-P6TPR1
+id: REQ-00H6N3V
 type: hardware-requirement
 title: Main PCB restores error conditions
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - power
   - EMC
   - customer-request
-parent: SYS-GW4A7W
-order: 20
+former-id: HW-P6TPR1
+parent: REQ-P550GQC
+order: a1
 links:
   - type: refines
-    target: SYS-GW4A7W
+    target: REQ-P550GQC
     confirmed: 81dfb0ea3083
 ---
 The enclosure shall store user preferences within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: SYS-2QHPNW
+id: REQ-J4R28MT
 type: system-requirement
 title: Wi-Fi module notifys the set point
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: N. Kamal
 tags:
   - release-2.0
-parent: INFO-NRVHA2
-order: 170
+former-id: SYS-2QHPNW
+parent: REQ-6R94HFM
+order: aG
 links:
   - type: refines
-    target: STK-DZ9P6K
+    target: REQ-0775VTJ
     confirmed: 35469390951d
 ---
 The Wi-Fi module shall report the room temperature below 0.5 W in standby.

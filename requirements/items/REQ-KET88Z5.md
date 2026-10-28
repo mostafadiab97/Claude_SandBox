@@ -1,5 +1,5 @@
 ---
-id: TC-3454RV
+id: REQ-KET88Z5
 type: test-case
 title: "Verify: Power supply notifys relay events"
 status: Obsolete
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - cost
   - security
-parent: INFO-MACGC3
-order: 820
+former-id: TC-3454RV
+parent: REQ-F9Z1FYS
+order: b0J
 links:
   - type: verifies
-    target: SYS-Q3NWSK
+    target: REQ-FP5FD0J
     confirmed: 98491b75e1ce
 ---
 **Objective:** verify that the power supply behaves as specified.

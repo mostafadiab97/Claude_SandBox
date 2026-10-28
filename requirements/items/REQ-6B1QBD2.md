@@ -1,5 +1,5 @@
 ---
-id: SW-1Q5XEP
+id: REQ-6B1QBD2
 type: software-requirement
 title: Telemetry pipeline measures safety limits
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 tags:
   - performance
   - release-2.0
-parent: SYS-2RPS4X
-order: 10
+former-id: SW-1Q5XEP
+parent: REQ-DK1Y1RM
+order: a0
 links:
   - type: refines
-    target: SYS-2RPS4X
+    target: REQ-DK1Y1RM
     confirmed: 6a90f09e6ec1
 ---
 The OTA server shall synchronise relay events with an accuracy of ±0.5 °C.

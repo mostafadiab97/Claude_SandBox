@@ -1,5 +1,5 @@
 ---
-id: SYS-MV4PNS
+id: REQ-NTS0RXZ
 type: system-requirement
 title: Heat pump driver stores humidity values
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - power
   - security
   - cost
-parent: INFO-6DQTKV
-order: 2020
+former-id: SYS-MV4PNS
+parent: REQ-7ED7ZET
+order: b2F
 links:
   - type: refines
-    target: STK-M7S0HJ
+    target: REQ-219619F
     confirmed: 000356d5d38b
 ---
 The heat pump driver shall measure humidity values for at least 10 years.

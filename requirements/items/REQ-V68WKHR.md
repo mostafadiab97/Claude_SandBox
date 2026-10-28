@@ -1,5 +1,5 @@
 ---
-id: HW-A6XAPV
+id: REQ-V68WKHR
 type: hardware-requirement
 title: Power supply validates the room temperature
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - i18n
   - ux
-parent: SYS-Q3NWSK
-order: 40
+former-id: HW-A6XAPV
+parent: REQ-FP5FD0J
+order: a3
 links:
   - type: refines
-    target: SYS-Q3NWSK
+    target: REQ-FP5FD0J
     confirmed: 98491b75e1ce
 ---
 The power supply shall display the room temperature with an accuracy of ±0.5 °C.

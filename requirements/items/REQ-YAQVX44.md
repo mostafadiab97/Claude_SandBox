@@ -1,5 +1,5 @@
 ---
-id: HW-X19N9W
+id: REQ-YAQVX44
 type: hardware-requirement
 title: Power supply measures relay events
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: Y. Saber
 tags:
   - security
-parent: SYS-K4NJEM
-order: 20
+former-id: HW-X19N9W
+parent: REQ-PEMQFK5
+order: a1
 links:
   - type: refines
-    target: SYS-K4NJEM
+    target: REQ-PEMQFK5
     confirmed: caa88f61d9bd
 ---
 The enclosure shall authenticate firmware images for up to 8 zones.

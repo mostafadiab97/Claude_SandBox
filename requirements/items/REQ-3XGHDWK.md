@@ -1,5 +1,5 @@
 ---
-id: TC-XKNW02
+id: REQ-3XGHDWK
 type: test-case
 title: "Regression: Encryption layer encrypts firmware images"
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: M. Farouk
 tags:
   - release-1.0
-parent: INFO-ECHASH
-order: 640
+former-id: TC-XKNW02
+parent: REQ-6H15AV2
+order: b01
 links:
   - type: verifies
-    target: SYS-N4MBK3
+    target: REQ-Q3XX7E0
     confirmed: 55991efb2c92
 ---
 **Objective:** verify that the device behaves as specified.

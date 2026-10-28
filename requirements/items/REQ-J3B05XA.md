@@ -1,15 +1,16 @@
 ---
-id: TC-SP8C0N
+id: REQ-J3B05XA
 type: test-case
 title: "Regression: Home dashboard limits the connection state"
 status: Draft
 priority: High
 owner: S. Adel
-parent: INFO-ECHASH
-order: 1830
+former-id: TC-SP8C0N
+parent: REQ-6H15AV2
+order: b1w
 links:
   - type: verifies
-    target: SYS-82PKWA
+    target: REQ-YMRV1JM
     confirmed: c920ab97ee7b
 ---
 **Objective:** verify that the device behaves as specified.

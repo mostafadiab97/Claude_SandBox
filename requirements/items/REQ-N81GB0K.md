@@ -1,5 +1,5 @@
 ---
-id: HW-SZDD1M
+id: REQ-N81GB0K
 type: hardware-requirement
 title: Report the connection state — detail
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - connectivity
   - security
   - safety
-parent: HW-CNGCHP
-order: 10
+former-id: HW-SZDD1M
+parent: REQ-5X539VW
+order: a0
 links:
   - type: refines
-    target: HW-CNGCHP
+    target: REQ-5X539VW
     confirmed: 7cdde80cd1b5
 ---
 The schedule editor shall calibrate the connection state at least once per minute.

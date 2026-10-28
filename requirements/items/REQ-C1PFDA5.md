@@ -1,5 +1,5 @@
 ---
-id: SW-NPR1MX
+id: REQ-C1PFDA5
 type: software-requirement
 title: Pairing process limits energy consumption
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - performance
   - ux
-parent: SYS-ZTJGBY
-order: 10
+former-id: SW-NPR1MX
+parent: REQ-E7C83FN
+order: a0
 links:
   - type: refines
-    target: SYS-ZTJGBY
+    target: REQ-E7C83FN
     confirmed: bce29b6dd921
 ---
 The pairing process shall notify error conditions in all supported languages.

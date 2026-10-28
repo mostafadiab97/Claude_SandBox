@@ -1,5 +1,5 @@
 ---
-id: HW-NWPRR1
+id: REQ-V6Y9VQP
 type: hardware-requirement
 title: Encrypt energy consumption — detail
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - release-1.0
   - EMC
-parent: HW-EV4NV0
-order: 10
+former-id: HW-NWPRR1
+parent: REQ-TZMNZBZ
+order: a0
 links:
   - type: refines
-    target: HW-EV4NV0
+    target: REQ-TZMNZBZ
     confirmed: 490ad1ad2251
 ---
 The power supply shall notify schedule entries below 0.5 W in standby.

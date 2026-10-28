@@ -1,5 +1,5 @@
 ---
-id: DE-PZ3XXK
+id: REQ-SKEC3PB
 type: design-element
 title: Module watchdog_19
 status: Obsolete
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - cost
   - EMC
-parent: SW-K84RZ5
-order: 10
+former-id: DE-PZ3XXK
+parent: REQ-TJDBE2B
+order: a0
 links:
   - type: implements
-    target: SW-K84RZ5
+    target: REQ-TJDBE2B
     confirmed: 5abb1b8e2e20
 ---
 Implemented in `src/safe/watchdog.c`.

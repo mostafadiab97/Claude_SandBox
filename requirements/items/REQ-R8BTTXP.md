@@ -1,15 +1,16 @@
 ---
-id: TC-C0F0ZZ
+id: REQ-R8BTTXP
 type: test-case
 title: "Regression: Boiler interface notifys user preferences"
 status: Draft
 priority: Medium
 owner: K. Tanaka
-parent: INFO-ECHASH
-order: 1410
+former-id: TC-C0F0ZZ
+parent: REQ-6H15AV2
+order: b1G
 links:
   - type: verifies
-    target: SYS-AZWQYS
+    target: REQ-DC7HJR1
     confirmed: 00d3546fe417
 ---
 **Objective:** verify that the device behaves as specified.

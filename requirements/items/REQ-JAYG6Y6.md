@@ -1,18 +1,19 @@
 ---
-id: TC-WD0169
+id: REQ-JAYG6Y6
 type: test-case
 title: "Verify: Menu system measures schedule entries"
 status: Draft
 priority: Low
 owner: R. Nabil
-parent: INFO-HTSZ15
-order: 140
+former-id: TC-WD0169
+parent: REQ-Y9VHHKA
+order: aD
 links:
   - type: verifies
-    target: SYS-927AKR
+    target: REQ-JCMN4T1
     confirmed: a7bb3114a08e
   - type: verifies
-    target: SW-5SKQZV
+    target: REQ-8R81M1Y
     confirmed: 254e4c6d5905
 ---
 **Objective:** verify that the menu system behaves as specified.

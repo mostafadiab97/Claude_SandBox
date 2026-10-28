@@ -1,17 +1,18 @@
 ---
-id: DEF-EAH8G9
+id: REQ-58D8MS9
 type: defect
 title: "Defect: notification service does not detect energy consumption"
 status: Review
 priority: Low
-parent: INFO-FH5FB3
-order: 70
+former-id: DEF-EAH8G9
+parent: REQ-MWRPGWA
+order: a6
 links:
   - type: relates-to
-    target: TC-95YRV4
+    target: REQ-SY2XQHW
     confirmed: 2c47ff4fb672
   - type: relates-to
-    target: SYS-HJM62M
+    target: REQ-ZHKWT4C
     confirmed: 1d6deddc1634
 ---
 Found during regression testing of build 2.4.18.

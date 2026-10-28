@@ -1,5 +1,5 @@
 ---
-id: IF-NZNTR3
+id: REQ-FK6MKM0
 type: interface-requirement
 title: User account service validates the operating mode
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - customer-request
   - accessibility
-parent: SYS-G8M4SE
-order: 10
+former-id: IF-NZNTR3
+parent: REQ-9W3N8PR
+order: a0
 links:
   - type: refines
-    target: SYS-G8M4SE
+    target: REQ-9W3N8PR
     confirmed: df8c85150795
 ---
 The device registry shall calibrate energy consumption without user interaction.

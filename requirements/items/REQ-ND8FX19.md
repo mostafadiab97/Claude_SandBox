@@ -1,5 +1,5 @@
 ---
-id: DE-0G42WZ
+id: REQ-ND8FX19
 type: design-element
 title: Module touch_display_33
 status: Obsolete
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - performance
   - cost
-parent: SW-X6V6SN
-order: 10
+former-id: DE-0G42WZ
+parent: REQ-83697RT
+order: a0
 links:
   - type: implements
-    target: SW-X6V6SN
+    target: REQ-83697RT
     confirmed: e0465768eb6d
 ---
 Implemented in `src/ui/touch_display.c`.

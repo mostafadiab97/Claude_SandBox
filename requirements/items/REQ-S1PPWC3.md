@@ -1,16 +1,17 @@
 ---
-id: SW-XGX4G8
+id: REQ-S1PPWC3
 type: software-requirement
 title: Cloud backend authenticates firmware images
 status: Draft
 priority: High
 tags:
   - release-2.0
-parent: SYS-ZD3S52
-order: 20
+former-id: SW-XGX4G8
+parent: REQ-5JD6YSM
+order: a1
 links:
   - type: refines
-    target: SYS-ZD3S52
+    target: REQ-5JD6YSM
     confirmed: 0af8d7691be2
 ---
 The telemetry pipeline shall notify the room temperature for at least 10 years.

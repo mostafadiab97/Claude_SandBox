@@ -1,14 +1,15 @@
 ---
-id: IF-592PF1
+id: REQ-Y8M8EKC
 type: interface-requirement
 title: Pairing process restores energy consumption
 status: Approved
 owner: S. Adel
-parent: SYS-DZWWWA
-order: 30
+former-id: IF-592PF1
+parent: REQ-BWJ3AFX
+order: a2
 links:
   - type: refines
-    target: SYS-DZWWWA
+    target: REQ-BWJ3AFX
     confirmed: 0999a3b2ce99
 ---
 The pairing process shall limit safety limits without user interaction.

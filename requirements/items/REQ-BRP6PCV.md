@@ -1,14 +1,15 @@
 ---
-id: SW-GBVWNQ
+id: REQ-BRP6PCV
 type: software-requirement
 title: Over-temperature monitor synchronises safety limits
 status: Draft
 owner: H. Mostafa
-parent: SYS-49FF9M
-order: 40
+former-id: SW-GBVWNQ
+parent: REQ-M1R4HSQ
+order: a3
 links:
   - type: refines
-    target: SYS-49FF9M
+    target: REQ-M1R4HSQ
     confirmed: de1a22bc8031
 ---
 The tamper detection shall notify relay events after a power loss.

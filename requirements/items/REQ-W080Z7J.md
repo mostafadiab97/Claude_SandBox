@@ -1,5 +1,5 @@
 ---
-id: IF-XT2QGB
+id: REQ-W080Z7J
 type: interface-requirement
 title: Power supply logs the room temperature
 status: Approved
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - regulatory
   - customer-request
-parent: SYS-9DPF6C
-order: 10
+former-id: IF-XT2QGB
+parent: REQ-H49BVYV
+order: a0
 links:
   - type: refines
-    target: SYS-9DPF6C
+    target: REQ-H49BVYV
     confirmed: 33deda97a847
 ---
 The power supply shall authenticate error conditions in all supported languages.

@@ -1,16 +1,17 @@
 ---
-id: TC-3ED6VX
+id: REQ-WATAQN4
 type: test-case
 title: "Verify: Mobile app limits relay events"
 status: Review
-parent: INFO-J0FETE
-order: 790
+former-id: TC-3ED6VX
+parent: REQ-WR5ZJN9
+order: b0G
 links:
   - type: verifies
-    target: SYS-SD1N38
+    target: REQ-6VREK7W
     confirmed: 5e8b057ab780
   - type: verifies
-    target: SW-677MHF
+    target: REQ-C19ECNK
     confirmed: 4ca724906785
 ---
 **Objective:** verify that the mobile app behaves as specified.

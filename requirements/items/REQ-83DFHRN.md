@@ -1,5 +1,5 @@
 ---
-id: IF-1NAG5S
+id: REQ-83DFHRN
 type: interface-requirement
 title: Detect firmware images — detail
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: R. Nabil
 tags:
   - customer-request
-parent: IF-XD7AFZ
-order: 10
+former-id: IF-1NAG5S
+parent: REQ-FK25SCT
+order: a0
 links:
   - type: refines
-    target: IF-XD7AFZ
+    target: REQ-FK25SCT
     confirmed: 1b7e0ea31eaa
 ---
 The local API shall calibrate access tokens for up to 8 zones.

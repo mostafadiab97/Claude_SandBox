@@ -1,5 +1,5 @@
 ---
-id: TC-37D3BR
+id: REQ-41PDF73
 type: test-case
 title: "Verify: Wi-Fi module encrypts energy consumption"
 status: Approved
@@ -7,11 +7,12 @@ priority: Low
 owner: Y. Saber
 tags:
   - safety
-parent: INFO-F0M7VC
-order: 570
+former-id: TC-37D3BR
+parent: REQ-67RQXCK
+order: au
 links:
   - type: verifies
-    target: SYS-2TKSSR
+    target: REQ-6J8J6CK
     confirmed: 7b7bf03ff065
 ---
 **Objective:** verify that the Wi-Fi module behaves as specified.

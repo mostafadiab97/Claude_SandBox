@@ -1,5 +1,5 @@
 ---
-id: SW-BH16P1
+id: REQ-F3CVB2B
 type: software-requirement
 title: Cloud backend measures audit records
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - accessibility
-parent: SYS-0J3695
-order: 20
+former-id: SW-BH16P1
+parent: REQ-FWGAA5Z
+order: a1
 links:
   - type: refines
-    target: SYS-0J3695
+    target: REQ-FWGAA5Z
     confirmed: b9c7a1a0e56b
 ---
 The OTA server shall calibrate error conditions in under 3 s.

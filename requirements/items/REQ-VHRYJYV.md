@@ -1,5 +1,5 @@
 ---
-id: IF-5ZT2TX
+id: REQ-VHRYJYV
 type: interface-requirement
 title: Watchdog reports error conditions
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - connectivity
-parent: SYS-9TKGBW
-order: 10
+former-id: IF-5ZT2TX
+parent: REQ-77TZTJF
+order: a0
 links:
   - type: refines
-    target: SYS-9TKGBW
+    target: REQ-77TZTJF
     confirmed: cdd3f206f1b7
 ---
 The over-temperature monitor shall notify the room temperature using AES-256-GCM.

@@ -1,5 +1,5 @@
 ---
-id: IF-M5M0AY
+id: REQ-T5EASJH
 type: interface-requirement
 title: "Signal 332: audit records"
 status: Approved
@@ -8,7 +8,8 @@ tags:
   - safety
   - performance
   - security
-parent: INFO-2TM0JP
-order: 3320
+former-id: IF-M5M0AY
+parent: REQ-RJ0KHPT
+order: b4L
 ---
 Interface signal number 332.

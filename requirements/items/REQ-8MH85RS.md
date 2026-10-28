@@ -1,5 +1,5 @@
 ---
-id: HW-Q3FNRK
+id: REQ-8MH85RS
 type: hardware-requirement
 title: Enclosure notifys access tokens
 status: Review
@@ -7,11 +7,12 @@ priority: High
 tags:
   - i18n
   - security
-parent: SYS-3QBDZ4
-order: 40
+former-id: HW-Q3FNRK
+parent: REQ-X96CFFP
+order: a3
 links:
   - type: refines
-    target: SYS-3QBDZ4
+    target: REQ-X96CFFP
     confirmed: 1ebb264cb27c
 ---
 The enclosure shall synchronise access tokens within 200 ms.

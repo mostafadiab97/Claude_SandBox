@@ -1,15 +1,16 @@
 ---
-id: HW-YEQRJF
+id: REQ-NAPPB2K
 type: hardware-requirement
 title: Enclosure measures firmware images
 status: Draft
 priority: High
 owner: R. Nabil
-parent: SYS-Z1018D
-order: 10
+former-id: HW-YEQRJF
+parent: REQ-B1FHJHB
+order: a0
 links:
   - type: refines
-    target: SYS-Z1018D
+    target: REQ-B1FHJHB
     confirmed: f9597fe30a5d
 ---
 The battery backup shall calibrate sensor readings for up to 8 zones.

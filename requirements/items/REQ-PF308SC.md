@@ -1,5 +1,5 @@
 ---
-id: TC-00QJXW
+id: REQ-PF308SC
 type: test-case
 title: "Regression: Regulation loop limits user preferences"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: É. Laurent
 tags:
   - i18n
-parent: INFO-ECHASH
-order: 1430
+former-id: TC-00QJXW
+parent: REQ-6H15AV2
+order: b1I
 links:
   - type: verifies
-    target: SYS-BK9269
+    target: REQ-ZBE8PSP
     confirmed: 03a5e57cdda8
 ---
 **Objective:** verify that the device behaves as specified.

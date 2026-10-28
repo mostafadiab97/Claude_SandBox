@@ -1,16 +1,17 @@
 ---
-id: IF-50VFAS
+id: REQ-0J0KCAB
 type: interface-requirement
 title: Battery backup stores firmware images
 status: Draft
 tags:
   - customer-request
   - performance
-parent: SYS-SGE8R7
-order: 40
+former-id: IF-50VFAS
+parent: REQ-YSKYE18
+order: a3
 links:
   - type: refines
-    target: SYS-SGE8R7
+    target: REQ-YSKYE18
     confirmed: f0923cc9ca25
 ---
 The power supply shall switch relay events when the network is unavailable.

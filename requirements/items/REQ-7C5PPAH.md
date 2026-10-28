@@ -1,5 +1,5 @@
 ---
-id: IF-9M6AFB
+id: REQ-7C5PPAH
 type: interface-requirement
 title: OTA server reports safety limits
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - release-2.0
   - EMC
   - security
-parent: SYS-J86K99
-order: 10
+former-id: IF-9M6AFB
+parent: REQ-Q9W4EZ1
+order: a0
 links:
   - type: refines
-    target: SYS-J86K99
+    target: REQ-Q9W4EZ1
     confirmed: cd639bbeedd1
 ---
 The device registry shall validate safety limits below 0.5 W in standby.

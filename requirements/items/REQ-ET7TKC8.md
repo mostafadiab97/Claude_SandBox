@@ -1,15 +1,16 @@
 ---
-id: SW-WJPZMR
+id: REQ-ET7TKC8
 type: software-requirement
 title: Rotary knob measures humidity values
 status: Obsolete
 priority: Medium
 owner: A. Hassan
-parent: SYS-J7BTY7
-order: 20
+former-id: SW-WJPZMR
+parent: REQ-22M9B7Z
+order: a1
 links:
   - type: refines
-    target: SYS-J7BTY7
+    target: REQ-22M9B7Z
     confirmed: 407923e760c5
 ---
 The status LED shall report relay events in under 3 s.

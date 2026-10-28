@@ -1,14 +1,15 @@
 ---
-id: SW-02HSX8
+id: REQ-N1PCZH3
 type: software-requirement
 title: Wi-Fi module restores firmware images
 status: Draft
 owner: Y. Saber
-parent: SYS-T58ZF0
-order: 20
+former-id: SW-02HSX8
+parent: REQ-NXTCN67
+order: a1
 links:
   - type: refines
-    target: SYS-T58ZF0
+    target: REQ-NXTCN67
     confirmed: 5e996d12a800
 ---
 The Wi-Fi module shall store user preferences without user interaction.

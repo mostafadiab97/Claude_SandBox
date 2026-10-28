@@ -1,5 +1,5 @@
 ---
-id: TC-5WW8G6
+id: REQ-FWZC246
 type: test-case
 title: "Regression: Boiler interface validates error conditions"
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: A. Hassan
 tags:
   - power
-parent: INFO-ECHASH
-order: 1630
+former-id: TC-5WW8G6
+parent: REQ-6H15AV2
+order: b1c
 links:
   - type: verifies
-    target: SYS-5DA537
+    target: REQ-GE3XCDD
     confirmed: b3506b846105
 ---
 **Objective:** verify that the device behaves as specified.

@@ -1,16 +1,17 @@
 ---
-id: HW-QVM8DQ
+id: REQ-Z2M013H
 type: hardware-requirement
 title: Main PCB calibrates safety limits
 status: Review
 owner: S. Adel
 tags:
   - safety
-parent: SYS-QRF69W
-order: 20
+former-id: HW-QVM8DQ
+parent: REQ-2D06W8P
+order: a1
 links:
   - type: refines
-    target: SYS-QRF69W
+    target: REQ-2D06W8P
     confirmed: 3f29c139da8b
 ---
 The enclosure shall calibrate the set point for at least 10 years.

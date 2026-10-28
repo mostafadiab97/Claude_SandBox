@@ -1,5 +1,5 @@
 ---
-id: SW-EVHG51
+id: REQ-2VVDGQA
 type: software-requirement
 title: Zigbee radio logs humidity values
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - regulatory
   - security
   - accessibility
-parent: SYS-RP2FET
-order: 10
+former-id: SW-EVHG51
+parent: REQ-93NME1R
+order: a0
 links:
   - type: refines
-    target: SYS-RP2FET
+    target: REQ-93NME1R
     confirmed: f29685558736
 ---
 The Bluetooth LE link shall switch sensor readings using AES-256-GCM.

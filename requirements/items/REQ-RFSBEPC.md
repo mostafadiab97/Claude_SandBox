@@ -1,5 +1,5 @@
 ---
-id: TC-N35PY4
+id: REQ-RFSBEPC
 type: test-case
 title: "Verify: Menu system stores the room temperature"
 status: Obsolete
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - i18n
-parent: INFO-HTSZ15
-order: 1500
+former-id: TC-N35PY4
+parent: REQ-Y9VHHKA
+order: b1P
 links:
   - type: verifies
-    target: SYS-G1WQ30
+    target: REQ-KDBFG7Y
     confirmed: 6324bbe48da8
 ---
 **Objective:** verify that the menu system behaves as specified.

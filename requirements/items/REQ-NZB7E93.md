@@ -1,14 +1,15 @@
 ---
-id: SW-NCGXSY
+id: REQ-NZB7E93
 type: software-requirement
 title: Zone valve measures the set point
 status: Draft
 owner: É. Laurent
-parent: SYS-3NFK47
-order: 10
+former-id: SW-NCGXSY
+parent: REQ-4XY0BS3
+order: a0
 links:
   - type: refines
-    target: SYS-3NFK47
+    target: REQ-4XY0BS3
     confirmed: a62ecfbf4557
 ---
 The heat pump driver shall switch the operating mode at least once per minute.

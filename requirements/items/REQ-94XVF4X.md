@@ -1,18 +1,19 @@
 ---
-id: TC-J9PWDR
+id: REQ-94XVF4X
 type: test-case
 title: "Verify: Bluetooth LE link restores relay events"
 status: Approved
 priority: Medium
 owner: M. Farouk
-parent: INFO-F0M7VC
-order: 630
+former-id: TC-J9PWDR
+parent: REQ-67RQXCK
+order: b00
 links:
   - type: verifies
-    target: SYS-MY3DCX
+    target: REQ-GGT2621
     confirmed: ace85c596789
   - type: verifies
-    target: SW-3GNB5A
+    target: REQ-3X6J8DT
     confirmed: 4b2f2da462f8
 ---
 **Objective:** verify that the Bluetooth LE link behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-5P6H4R
+id: REQ-CK0WXFA
 type: software-requirement
 title: Schedule editor limits safety limits
 status: Approved
@@ -8,11 +8,12 @@ owner: S. Adel
 tags:
   - security
   - ux
-parent: SYS-VJQ42N
-order: 30
+former-id: SW-5P6H4R
+parent: REQ-VNQTVEQ
+order: a2
 links:
   - type: refines
-    target: SYS-VJQ42N
+    target: REQ-VNQTVEQ
     confirmed: 46ac6e51abcb
 ---
 The schedule editor shall measure relay events after a power loss.

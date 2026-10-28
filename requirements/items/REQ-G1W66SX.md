@@ -1,5 +1,5 @@
 ---
-id: DE-SSKGNF
+id: REQ-G1W66SX
 type: design-element
 title: Module login_screen_27
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - ux
   - EMC
   - security
-parent: SW-44307Q
-order: 10
+former-id: DE-SSKGNF
+parent: REQ-JFY1Z87
+order: a0
 links:
   - type: implements
-    target: SW-44307Q
+    target: REQ-JFY1Z87
     confirmed: 9cdba3274e95
 ---
 Implemented in `src/app/login_screen.c`.

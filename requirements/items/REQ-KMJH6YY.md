@@ -1,5 +1,5 @@
 ---
-id: TC-BK5DAM
+id: REQ-KMJH6YY
 type: test-case
 title: "Verify: Regulation loop logs energy consumption"
 status: Draft
@@ -7,11 +7,12 @@ priority: High
 owner: S. Adel
 tags:
   - release-2.0
-parent: INFO-MS9DAG
-order: 720
+former-id: TC-BK5DAM
+parent: REQ-XGWSK2K
+order: b09
 links:
   - type: verifies
-    target: SYS-G3EJDX
+    target: REQ-42QCGS2
     confirmed: 949315efbc71
 ---
 **Objective:** verify that the regulation loop behaves as specified.

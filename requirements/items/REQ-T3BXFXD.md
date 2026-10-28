@@ -1,5 +1,5 @@
 ---
-id: TC-T0MT9T
+id: REQ-T3BXFXD
 type: test-case
 title: "Verify: Menu system notifys the room temperature"
 status: Obsolete
@@ -8,14 +8,15 @@ owner: L. Samir
 tags:
   - performance
   - i18n
-parent: INFO-HTSZ15
-order: 290
+former-id: TC-T0MT9T
+parent: REQ-Y9VHHKA
+order: aS
 links:
   - type: verifies
-    target: SYS-S17F3W
+    target: REQ-B5QM2ZG
     confirmed: 02e3c6ed2cec
   - type: verifies
-    target: SW-8S81RT
+    target: REQ-Y6AM28S
     confirmed: 789b723216ac
 ---
 **Objective:** verify that the menu system behaves as specified.

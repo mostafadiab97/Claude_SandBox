@@ -1,5 +1,5 @@
 ---
-id: SW-NE9SBJ
+id: REQ-6FD3TB6
 type: software-requirement
 title: Home dashboard displays firmware images
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - release-2.0
   - customer-request
   - power
-parent: SYS-A8AYK0
-order: 40
+former-id: SW-NE9SBJ
+parent: REQ-Z94YSEP
+order: a3
 links:
   - type: refines
-    target: SYS-A8AYK0
+    target: REQ-Z94YSEP
     confirmed: 7c18672779dd
 ---
 The schedule editor shall encrypt the operating mode within 200 ms.

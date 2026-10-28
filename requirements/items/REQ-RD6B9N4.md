@@ -1,5 +1,5 @@
 ---
-id: HW-F5HBSP
+id: REQ-RD6B9N4
 type: hardware-requirement
 title: Heating controller displays the set point
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: L. Samir
 tags:
   - i18n
-parent: SYS-A6Z44C
-order: 20
+former-id: HW-F5HBSP
+parent: REQ-2VGMQ5S
+order: a1
 links:
   - type: refines
-    target: SYS-A6Z44C
+    target: REQ-2VGMQ5S
     confirmed: ac3474515883
 ---
 The heating controller shall switch the connection state in all supported languages.

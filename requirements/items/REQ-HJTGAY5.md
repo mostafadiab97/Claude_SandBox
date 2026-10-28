@@ -1,5 +1,5 @@
 ---
-id: IF-AMBD97
+id: REQ-HJTGAY5
 type: interface-requirement
 title: "Signal 413: humidity values"
 status: Draft
@@ -9,7 +9,8 @@ tags:
   - release-2.0
   - security
   - accessibility
-parent: INFO-2TM0JP
-order: 4130
+former-id: IF-AMBD97
+parent: REQ-RJ0KHPT
+order: b5e
 ---
 Interface signal number 413.

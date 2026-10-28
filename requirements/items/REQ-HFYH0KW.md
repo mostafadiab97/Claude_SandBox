@@ -1,7 +1,8 @@
 ---
-id: INFO-7HY7F9
+id: REQ-HFYH0KW
 type: information
-title: 4.5 Defects and change requests
-parent: INFO-APHEKT
-order: 50
+title: Defects and change requests
+former-id: INFO-7HY7F9
+parent: REQ-1VKER3H
+order: a4
 ---

@@ -1,16 +1,17 @@
 ---
-id: IF-F1CCKC
+id: REQ-3XHZEBS
 type: interface-requirement
 title: Enclosure validates access tokens
 status: Draft
 priority: High
 tags:
   - safety
-parent: SYS-PCB26E
-order: 10
+former-id: IF-F1CCKC
+parent: REQ-95R7PF6
+order: a0
 links:
   - type: refines
-    target: SYS-PCB26E
+    target: REQ-95R7PF6
     confirmed: 1f9a2a50a4bc
 ---
 The enclosure shall report the operating mode within 200 ms.

@@ -1,5 +1,5 @@
 ---
-id: SW-J36VPS
+id: REQ-0M6BYFX
 type: software-requirement
 title: Status LED displays the connection state
 status: Review
@@ -9,11 +9,12 @@ tags:
   - accessibility
   - connectivity
   - release-1.0
-parent: SYS-AE5DCT
-order: 20
+former-id: SW-J36VPS
+parent: REQ-G7FNBP6
+order: a1
 links:
   - type: refines
-    target: SYS-AE5DCT
+    target: REQ-G7FNBP6
     confirmed: 5733321e8c53
 ---
 The rotary knob shall validate sensor readings for up to 8 zones.

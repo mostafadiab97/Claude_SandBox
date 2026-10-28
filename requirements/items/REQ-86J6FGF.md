@@ -1,5 +1,5 @@
 ---
-id: SW-EXYGBR
+id: REQ-86J6FGF
 type: software-requirement
 title: Telemetry pipeline stores firmware images
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: K. Tanaka
 tags:
   - accessibility
-parent: SYS-8SN8KA
-order: 30
+former-id: SW-EXYGBR
+parent: REQ-JYC0NB4
+order: a2
 links:
   - type: refines
-    target: SYS-8SN8KA
+    target: REQ-JYC0NB4
     confirmed: 57d91dd17cd7
 ---
 The device registry shall restore user preferences at least once per minute.

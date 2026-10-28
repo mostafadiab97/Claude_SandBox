@@ -1,5 +1,5 @@
 ---
-id: TC-XZ3SSZ
+id: REQ-EQ3EB62
 type: test-case
 title: "Verify: OTA server stores the room temperature"
 status: Review
@@ -7,14 +7,15 @@ priority: Medium
 owner: L. Samir
 tags:
   - performance
-parent: INFO-7P4D8D
-order: 1560
+former-id: TC-XZ3SSZ
+parent: REQ-8351896
+order: b1V
 links:
   - type: verifies
-    target: SYS-2NQ3E8
+    target: REQ-9FZHANA
     confirmed: 08cad2a24d2f
   - type: verifies
-    target: SW-EHGN0R
+    target: REQ-CMXC7R6
     confirmed: c5b8f223d682
 ---
 **Objective:** verify that the OTA server behaves as specified.

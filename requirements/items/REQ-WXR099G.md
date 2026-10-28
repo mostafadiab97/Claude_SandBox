@@ -1,5 +1,5 @@
 ---
-id: TC-9H820S
+id: REQ-WXR099G
 type: test-case
 title: "Verify: Backlight switchs audit records"
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 owner: محمد علي
 tags:
   - EMC
-parent: INFO-HTSZ15
-order: 560
+former-id: TC-9H820S
+parent: REQ-Y9VHHKA
+order: at
 links:
   - type: verifies
-    target: SYS-JGW1WQ
+    target: REQ-R8BDX9R
     confirmed: b34c573d4b49
 ---
 **Objective:** verify that the backlight behaves as specified.

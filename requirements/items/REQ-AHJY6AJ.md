@@ -1,5 +1,5 @@
 ---
-id: TC-H43E1J
+id: REQ-AHJY6AJ
 type: test-case
 title: "Verify: Menu system authenticates humidity values"
 status: Approved
@@ -8,14 +8,15 @@ owner: M. Farouk
 tags:
   - accessibility
   - i18n
-parent: INFO-HTSZ15
-order: 1010
+former-id: TC-H43E1J
+parent: REQ-Y9VHHKA
+order: b0c
 links:
   - type: verifies
-    target: SYS-RJDTZ9
+    target: REQ-KAX2E4K
     confirmed: e76b1fb2127a
   - type: verifies
-    target: SW-SZZCD2
+    target: REQ-7M9350H
     confirmed: 87a5a0a3990a
 ---
 **Objective:** verify that the menu system behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: SW-THZSGT
+id: REQ-BBZGQKN
 type: software-requirement
 title: Encrypt error conditions — detail
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - i18n
   - regulatory
   - connectivity
-parent: SW-FWYA43
-order: 10
+former-id: SW-THZSGT
+parent: REQ-7GAYKMC
+order: a0
 links:
   - type: refines
-    target: SW-FWYA43
+    target: REQ-7GAYKMC
     confirmed: 3f33db39740d
 ---
 The over-temperature monitor shall limit humidity values below 0.5 W in standby.

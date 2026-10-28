@@ -1,15 +1,16 @@
 ---
-id: SW-HKGFJX
+id: REQ-9A87NFV
 type: software-requirement
 title: Backlight reports safety limits
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: SYS-3PT4BJ
-order: 10
+former-id: SW-HKGFJX
+parent: REQ-ABD02P3
+order: a0
 links:
   - type: refines
-    target: SYS-3PT4BJ
+    target: REQ-ABD02P3
     confirmed: 0a43238dc6c3
 ---
 The touch display shall switch error conditions at least once per minute.

@@ -1,19 +1,20 @@
 ---
-id: SYS-M9R01H
+id: REQ-EZY9M63
 type: system-requirement
 title: Mobile app switchs error conditions
 status: Draft
 priority: Low
 tags:
   - performance
-parent: INFO-2XXBRS
-order: 1670
+former-id: SYS-M9R01H
+parent: REQ-QYXGSQ4
+order: b1g
 links:
   - type: refines
-    target: STK-MC9ASH
+    target: REQ-7NDC8E1
     confirmed: a4f2ebaecfbe
   - type: mitigates
-    target: RSK-040M7X
+    target: REQ-0CSS0FS
     confirmed: fdb267eb1465
 ---
 The mobile app shall log user preferences in all supported languages.

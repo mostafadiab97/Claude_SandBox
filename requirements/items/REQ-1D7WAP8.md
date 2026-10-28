@@ -1,16 +1,17 @@
 ---
-id: CR-HXJXDY
+id: REQ-1D7WAP8
 type: change-request
 title: "CR: extend cloud backend to store access tokens"
 status: Draft
 priority: Medium
 tags:
   - customer-request
-parent: INFO-M91889
-order: 80
+former-id: CR-HXJXDY
+parent: REQ-9FNWH0D
+order: a7
 links:
   - type: relates-to
-    target: SYS-FN0RX8
+    target: REQ-89HPNKM
     confirmed: 30d123440a38
 ---
 Requested by customer support (ticket #11231).

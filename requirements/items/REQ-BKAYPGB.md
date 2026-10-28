@@ -1,5 +1,5 @@
 ---
-id: SW-FJMKGH
+id: REQ-BKAYPGB
 type: software-requirement
 title: Touch display limits sensor readings
 status: Approved
@@ -7,11 +7,12 @@ priority: High
 owner: A. Hassan
 tags:
   - performance
-parent: SYS-Z3AF7E
-order: 10
+former-id: SW-FJMKGH
+parent: REQ-Y6VKCP8
+order: a0
 links:
   - type: refines
-    target: SYS-Z3AF7E
+    target: REQ-Y6VKCP8
     confirmed: 9dfa61330ebe
 ---
 The menu system shall restore energy consumption when the network is unavailable.

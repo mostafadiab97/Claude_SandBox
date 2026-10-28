@@ -1,15 +1,16 @@
 ---
-id: SYS-CN5R0M
+id: REQ-GAEVZB6
 type: system-requirement
 title: Rotary knob restores sensor readings
 status: Draft
 priority: High
 owner: L. Samir
-parent: INFO-PDR6FV
-order: 1620
+former-id: SYS-CN5R0M
+parent: REQ-2ZA2TRZ
+order: b1b
 links:
   - type: refines
-    target: STK-FWM06B
+    target: REQ-MM7V23Z
     confirmed: bbd40f488fa4
 ---
 The rotary knob shall validate schedule entries for at least 10 years.

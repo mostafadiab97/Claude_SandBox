@@ -1,5 +1,5 @@
 ---
-id: IF-GB3NKP
+id: REQ-SPSTJ1Z
 type: interface-requirement
 title: "Signal 592: error conditions"
 status: Approved
@@ -9,7 +9,8 @@ tags:
   - release-1.0
   - customer-request
   - regulatory
-parent: INFO-2TM0JP
-order: 5920
+former-id: IF-GB3NKP
+parent: REQ-RJ0KHPT
+order: b8X
 ---
 Interface signal number 592.

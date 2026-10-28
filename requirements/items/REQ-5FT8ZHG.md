@@ -1,5 +1,5 @@
 ---
-id: UC-3EJAWK
+id: REQ-5FT8ZHG
 type: use-case
 title: "UC: Encrypt the set point with the schedule editor"
 status: Draft
@@ -7,11 +7,12 @@ priority: Low
 owner: R. Nabil
 tags:
   - regulatory
-parent: INFO-Y8G953
-order: 140
+former-id: UC-3EJAWK
+parent: REQ-Y9XT61E
+order: aE
 links:
   - type: relates-to
-    target: STK-F8MTPC
+    target: REQ-1ZYN1HD
     confirmed: bbf5b4f56657
 ---
 **Actor:** home owner

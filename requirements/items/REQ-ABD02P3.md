@@ -1,5 +1,5 @@
 ---
-id: SYS-3PT4BJ
+id: REQ-ABD02P3
 type: system-requirement
 title: Touch display detects energy consumption
 status: Obsolete
@@ -7,11 +7,12 @@ owner: L. Samir
 tags:
   - security
   - regulatory
-parent: INFO-PDR6FV
-order: 260
+former-id: SYS-3PT4BJ
+parent: REQ-2ZA2TRZ
+order: aP
 links:
   - type: refines
-    target: STK-EHVDJF
+    target: REQ-4T80DB9
     confirmed: cf195cdb6a20
 ---
 The touch display shall synchronise the operating mode at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: SW-62ASH0
+id: REQ-WWM24KG
 type: software-requirement
 title: Zigbee radio measures relay events
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 owner: L. Samir
 tags:
   - customer-request
-parent: SYS-3PRD5R
-order: 10
+former-id: SW-62ASH0
+parent: REQ-3HC3EJ1
+order: a0
 links:
   - type: refines
-    target: SYS-3PRD5R
+    target: REQ-3HC3EJ1
     confirmed: 582bb4e31c0f
 ---
 The Zigbee radio shall encrypt relay events at least once per minute.

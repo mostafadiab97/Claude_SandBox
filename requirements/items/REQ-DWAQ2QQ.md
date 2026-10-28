@@ -1,5 +1,5 @@
 ---
-id: HW-VVA1MR
+id: REQ-DWAQ2QQ
 type: hardware-requirement
 title: Watchdog displays humidity values
 status: Draft
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - ux
   - accessibility
-parent: SYS-HB35Z8
-order: 20
+former-id: HW-VVA1MR
+parent: REQ-WS4KCQE
+order: a1
 links:
   - type: refines
-    target: SYS-HB35Z8
+    target: REQ-WS4KCQE
     confirmed: 503c5b0d07ad
 ---
 The encryption layer shall validate the room temperature at least once per minute.

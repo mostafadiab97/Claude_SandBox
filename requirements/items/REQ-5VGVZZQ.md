@@ -1,18 +1,19 @@
 ---
-id: TC-1WJ01E
+id: REQ-5VGVZZQ
 type: test-case
 title: "Verify: Status LED notifys schedule entries"
 status: Approved
 priority: Medium
 owner: J. Müller
-parent: INFO-HTSZ15
-order: 600
+former-id: TC-1WJ01E
+parent: REQ-Y9VHHKA
+order: ax
 links:
   - type: verifies
-    target: SYS-ASDD8G
+    target: REQ-8X41AR2
     confirmed: 5ff12c4c4c1a
   - type: verifies
-    target: SW-2GS8S2
+    target: REQ-PRWSH2X
     confirmed: eec819e67021
 ---
 **Objective:** verify that the status LED behaves as specified.

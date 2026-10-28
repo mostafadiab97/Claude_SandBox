@@ -1,5 +1,5 @@
 ---
-id: SW-0S985C
+id: REQ-KFZ8SY2
 type: software-requirement
 title: Local API restores humidity values
 status: Review
@@ -9,11 +9,12 @@ tags:
   - customer-request
   - ux
   - EMC
-parent: SYS-1AMMK8
-order: 20
+former-id: SW-0S985C
+parent: REQ-TK985W8
+order: a1
 links:
   - type: refines
-    target: SYS-1AMMK8
+    target: REQ-TK985W8
     confirmed: 6b7fab82fc75
 ---
 The local API shall authenticate sensor readings in under 3 s.

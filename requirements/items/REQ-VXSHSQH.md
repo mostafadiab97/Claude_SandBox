@@ -1,5 +1,5 @@
 ---
-id: TC-3MGJRB
+id: REQ-VXSHSQH
 type: test-case
 title: "Regression: Login screen limits the connection state"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - ux
   - i18n
   - regulatory
-parent: INFO-ECHASH
-order: 1130
+former-id: TC-3MGJRB
+parent: REQ-6H15AV2
+order: b0o
 links:
   - type: verifies
-    target: SYS-ZW9PC7
+    target: REQ-PM3KZFS
     confirmed: cf666200a270
 ---
 **Objective:** verify that the device behaves as specified.

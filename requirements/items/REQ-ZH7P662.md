@@ -1,15 +1,16 @@
 ---
-id: TC-C700H7
+id: REQ-ZH7P662
 type: test-case
 title: "Verify: Main PCB authenticates safety limits"
 status: Review
 priority: High
 owner: H. Mostafa
-parent: INFO-MACGC3
-order: 1170
+former-id: TC-C700H7
+parent: REQ-F9Z1FYS
+order: b0s
 links:
   - type: verifies
-    target: SYS-0033FV
+    target: REQ-0K8FF43
     confirmed: c4f0539f5269
 ---
 **Objective:** verify that the main PCB behaves as specified.

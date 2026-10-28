@@ -1,15 +1,16 @@
 ---
-id: UC-2NATX1
+id: REQ-JRXZ2N5
 type: use-case
 title: "UC: Detect relay events with the tamper detection"
 status: Approved
 priority: High
 owner: S. Adel
-parent: INFO-RE7JP9
-order: 160
+former-id: UC-2NATX1
+parent: REQ-3EBQKRK
+order: aF
 links:
   - type: relates-to
-    target: STK-SZWQ0A
+    target: REQ-AVJ6PR8
     confirmed: fc1f05b44684
 ---
 **Actor:** home owner

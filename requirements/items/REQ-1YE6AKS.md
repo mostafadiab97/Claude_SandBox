@@ -1,5 +1,5 @@
 ---
-id: SW-SR6XFH
+id: REQ-1YE6AKS
 type: software-requirement
 title: Menu system authenticates humidity values
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - customer-request
   - safety
-parent: SYS-7AH6RP
-order: 10
+former-id: SW-SR6XFH
+parent: REQ-X70NK7E
+order: a0
 links:
   - type: refines
-    target: SYS-7AH6RP
+    target: REQ-X70NK7E
     confirmed: f255e71521d5
 ---
 The status LED shall limit sensor readings in all supported languages.

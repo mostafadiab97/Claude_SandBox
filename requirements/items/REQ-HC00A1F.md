@@ -1,5 +1,5 @@
 ---
-id: HW-3NEQVG
+id: REQ-HC00A1F
 type: hardware-requirement
 title: Wi-Fi module notifys relay events
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - ux
-parent: SYS-2DYZPV
-order: 10
+former-id: HW-3NEQVG
+parent: REQ-D1MTBDV
+order: a0
 links:
   - type: refines
-    target: SYS-2DYZPV
+    target: REQ-D1MTBDV
     confirmed: 37aac0e40a8d
 ---
 The Bluetooth LE link shall authenticate the room temperature for up to 8 zones.

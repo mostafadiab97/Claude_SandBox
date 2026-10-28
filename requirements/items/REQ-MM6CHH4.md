@@ -1,5 +1,5 @@
 ---
-id: HW-MG10ZC
+id: REQ-MM6CHH4
 type: hardware-requirement
 title: Zone valve notifys firmware images
 status: Obsolete
@@ -8,11 +8,12 @@ tags:
   - security
   - ux
   - regulatory
-parent: SYS-PQPJM5
-order: 20
+former-id: HW-MG10ZC
+parent: REQ-RBXKFAD
+order: a1
 links:
   - type: refines
-    target: SYS-PQPJM5
+    target: REQ-RBXKFAD
     confirmed: 743135e74e23
 ---
 The heat pump driver shall measure the operating mode for at least 10 years.

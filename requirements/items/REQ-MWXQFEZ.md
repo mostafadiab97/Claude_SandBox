@@ -1,5 +1,5 @@
 ---
-id: TC-T57VDZ
+id: REQ-MWXQFEZ
 type: test-case
 title: "Verify: Heating controller limits access tokens"
 status: Obsolete
@@ -7,14 +7,15 @@ priority: Medium
 owner: H. Mostafa
 tags:
   - release-1.0
-parent: INFO-MS9DAG
-order: 300
+former-id: TC-T57VDZ
+parent: REQ-XGWSK2K
+order: aT
 links:
   - type: verifies
-    target: SYS-3XC6WM
+    target: REQ-4WDHKJ7
     confirmed: 1ce7059fa9be
   - type: verifies
-    target: SW-4KDV18
+    target: REQ-K82516J
     confirmed: 2888a35b1963
 ---
 **Objective:** verify that the heating controller behaves as specified.

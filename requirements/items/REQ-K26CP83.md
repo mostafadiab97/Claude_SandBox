@@ -1,5 +1,5 @@
 ---
-id: IF-NX27SP
+id: REQ-K26CP83
 type: interface-requirement
 title: Heat pump driver authenticates the operating mode
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - customer-request
   - regulatory
-parent: SYS-5FN1TB
-order: 40
+former-id: IF-NX27SP
+parent: REQ-ACEDPGP
+order: a3
 links:
   - type: refines
-    target: SYS-5FN1TB
+    target: REQ-ACEDPGP
     confirmed: 52219f23d7ef
 ---
 The regulation loop shall display access tokens at least once per minute.

@@ -1,5 +1,5 @@
 ---
-id: SW-YFJBNJ
+id: REQ-VFJ4XFT
 type: software-requirement
 title: Cloud backend notifys user preferences
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - release-1.0
   - regulatory
   - ux
-parent: SYS-C849TP
-order: 20
+former-id: SW-YFJBNJ
+parent: REQ-XA0H1EA
+order: a1
 links:
   - type: refines
-    target: SYS-C849TP
+    target: REQ-XA0H1EA
     confirmed: 0e79beed01a7
 ---
 The cloud backend shall display safety limits without user interaction.

@@ -1,16 +1,17 @@
 ---
-id: TC-CZ4DSA
+id: REQ-6VV0KX1
 type: test-case
 title: "Verify: Watchdog authenticates the operating mode"
 status: Review
 owner: L. Samir
 tags:
   - EMC
-parent: INFO-Z4TW4B
-order: 1340
+former-id: TC-CZ4DSA
+parent: REQ-K6FGAY0
+order: b19
 links:
   - type: verifies
-    target: SYS-WPKDG7
+    target: REQ-2WZH649
     confirmed: 871bc601285c
 ---
 **Objective:** verify that the watchdog behaves as specified.

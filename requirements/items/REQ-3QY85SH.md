@@ -1,5 +1,5 @@
 ---
-id: IF-M7HYKX
+id: REQ-3QY85SH
 type: interface-requirement
 title: Tamper detection stores the operating mode
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - ux
   - performance
   - safety
-parent: SYS-XHYQN4
-order: 20
+former-id: IF-M7HYKX
+parent: REQ-SP2XMBQ
+order: a1
 links:
   - type: refines
-    target: SYS-XHYQN4
+    target: REQ-SP2XMBQ
     confirmed: 3a60145a886a
 ---
 The secure boot shall authenticate energy consumption for up to 8 zones.

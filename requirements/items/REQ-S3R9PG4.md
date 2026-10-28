@@ -1,15 +1,16 @@
 ---
-id: SW-9MRSNT
+id: REQ-S3R9PG4
 type: software-requirement
 title: Boiler interface detects user preferences
 status: Approved
 priority: Low
 owner: N. Kamal
-parent: SYS-9Y8YJ7
-order: 20
+former-id: SW-9MRSNT
+parent: REQ-RPJTF01
+order: a1
 links:
   - type: refines
-    target: SYS-9Y8YJ7
+    target: REQ-RPJTF01
     confirmed: 1548dd90610f
 ---
 The heating controller shall restore relay events within 200 ms.

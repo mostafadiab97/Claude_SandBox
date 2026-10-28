@@ -1,5 +1,5 @@
 ---
-id: SYS-RF310F
+id: REQ-HMAJH78
 type: system-requirement
 title: Local API stores user preferences
 status: Draft
@@ -9,14 +9,15 @@ tags:
   - power
   - security
   - EMC
-parent: INFO-NRVHA2
-order: 2100
+former-id: SYS-RF310F
+parent: REQ-6R94HFM
+order: b2N
 links:
   - type: refines
-    target: STK-GMCKMF
+    target: REQ-5EJHVJ8
     confirmed: f47328374a2b
   - type: mitigates
-    target: RSK-W4Q53T
+    target: REQ-K37AFMX
     confirmed: d200c399f368
 ---
 The local API shall calibrate firmware images with an accuracy of ±0.5 °C.

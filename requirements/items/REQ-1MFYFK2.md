@@ -1,5 +1,5 @@
 ---
-id: TC-KYSW3Y
+id: REQ-1MFYFK2
 type: test-case
 title: "Verify: Rotary knob authenticates humidity values"
 status: Approved
@@ -8,11 +8,12 @@ owner: L. Samir
 tags:
   - safety
   - customer-request
-parent: INFO-HTSZ15
-order: 990
+former-id: TC-KYSW3Y
+parent: REQ-Y9VHHKA
+order: b0a
 links:
   - type: verifies
-    target: SYS-NY5DFZ
+    target: REQ-7PZT8S2
     confirmed: aa8559f49f1f
 ---
 **Objective:** verify that the rotary knob behaves as specified.

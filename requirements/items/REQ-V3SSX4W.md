@@ -1,5 +1,5 @@
 ---
-id: SYS-MK2A6C
+id: REQ-V3SSX4W
 type: system-requirement
 title: Telemetry pipeline validates audit records
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - regulatory
   - accessibility
   - EMC
-parent: INFO-YV5EZD
-order: 1370
+former-id: SYS-MK2A6C
+parent: REQ-RE9ZKHF
+order: b1C
 links:
   - type: refines
-    target: STK-4NCGP6
+    target: REQ-6WXSS37
     confirmed: 34735dce772b
   - type: mitigates
-    target: RSK-M50SEK
+    target: REQ-RGWQXYM
     confirmed: 2cdadc33fb4f
 ---
 The telemetry pipeline shall report audit records for up to 8 zones.

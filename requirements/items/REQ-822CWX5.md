@@ -1,5 +1,5 @@
 ---
-id: TC-S3H2BH
+id: REQ-822CWX5
 type: test-case
 title: "Verify: Watchdog calibrates the room temperature"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - release-1.0
   - safety
   - ux
-parent: INFO-Z4TW4B
-order: 700
+former-id: TC-S3H2BH
+parent: REQ-K6FGAY0
+order: b07
 links:
   - type: verifies
-    target: SYS-WKCZDQ
+    target: REQ-AN5WSWC
     confirmed: ef7ce1eb28d3
   - type: verifies
-    target: SW-K3F3HS
+    target: REQ-DX9XHYM
     confirmed: 850242f25f43
 ---
 **Objective:** verify that the watchdog behaves as specified.

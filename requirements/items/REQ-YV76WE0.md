@@ -1,5 +1,5 @@
 ---
-id: HW-QNT2YM
+id: REQ-YV76WE0
 type: hardware-requirement
 title: Local API reports the operating mode
 status: Review
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - cost
   - release-2.0
-parent: SYS-244X2N
-order: 10
+former-id: HW-QNT2YM
+parent: REQ-4H2GHHD
+order: a0
 links:
   - type: refines
-    target: SYS-244X2N
+    target: REQ-4H2GHHD
     confirmed: fa8561abaa1a
 ---
 The Bluetooth LE link shall store the room temperature for at least 10 years.

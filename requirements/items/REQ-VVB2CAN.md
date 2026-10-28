@@ -1,15 +1,16 @@
 ---
-id: SYS-J8E1WK
+id: REQ-VVB2CAN
 type: system-requirement
 title: Cloud backend authenticates the operating mode
 status: Approved
 priority: Medium
 owner: محمد علي
-parent: INFO-YV5EZD
-order: 780
+former-id: SYS-J8E1WK
+parent: REQ-RE9ZKHF
+order: b0F
 links:
   - type: refines
-    target: STK-1CAAXP
+    target: REQ-ZEW4521
     confirmed: a853df6f0866
 ---
 The cloud backend shall switch sensor readings for at least 10 years.

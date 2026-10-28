@@ -1,5 +1,5 @@
 ---
-id: IF-JYNHEE
+id: REQ-QVMBRSN
 type: interface-requirement
 title: "Signal 562: the room temperature"
 status: Approved
@@ -9,7 +9,8 @@ tags:
   - cost
   - power
   - security
-parent: INFO-2TM0JP
-order: 5620
+former-id: IF-JYNHEE
+parent: REQ-RJ0KHPT
+order: b83
 ---
 Interface signal number 562.

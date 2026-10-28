@@ -1,5 +1,5 @@
 ---
-id: TC-RQQE5C
+id: REQ-BR4XSQ7
 type: test-case
 title: "Verify: Power supply detects the room temperature"
 status: Approved
@@ -7,14 +7,15 @@ priority: Medium
 owner: M. Farouk
 tags:
   - power
-parent: INFO-MACGC3
-order: 1620
+former-id: TC-RQQE5C
+parent: REQ-F9Z1FYS
+order: b1b
 links:
   - type: verifies
-    target: SYS-D0Q5ED
+    target: REQ-GTNV20Q
     confirmed: a25afcb373b1
   - type: verifies
-    target: SW-6MVV07
+    target: REQ-SRRDXSE
     confirmed: 58b332ca4f54
 ---
 **Objective:** verify that the power supply behaves as specified.

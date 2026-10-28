@@ -1,15 +1,16 @@
 ---
-id: SW-6ZQ6TG
+id: REQ-TBVR9Y9
 type: software-requirement
 title: Bluetooth LE link reports access tokens
 status: Draft
 priority: Medium
 owner: M. Farouk
-parent: SYS-2DYZPV
-order: 20
+former-id: SW-6ZQ6TG
+parent: REQ-D1MTBDV
+order: a1
 links:
   - type: refines
-    target: SYS-2DYZPV
+    target: REQ-D1MTBDV
     confirmed: 37aac0e40a8d
 ---
 The Bluetooth LE link shall report schedule entries within 200 ms.

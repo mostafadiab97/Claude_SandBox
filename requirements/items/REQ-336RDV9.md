@@ -1,5 +1,5 @@
 ---
-id: SW-EN2TRC
+id: REQ-336RDV9
 type: software-requirement
 title: Heating controller synchronises schedule entries
 status: Approved
@@ -8,11 +8,12 @@ owner: R. Nabil
 tags:
   - customer-request
   - cost
-parent: SYS-FNDSGK
-order: 40
+former-id: SW-EN2TRC
+parent: REQ-PYC0FAG
+order: a3
 links:
   - type: refines
-    target: SYS-FNDSGK
+    target: REQ-PYC0FAG
     confirmed: cc35bc1c9bb3
 ---
 The regulation loop shall notify access tokens for up to 8 zones.

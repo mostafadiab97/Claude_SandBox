@@ -1,14 +1,15 @@
 ---
-id: IF-5XFJR9
+id: REQ-BGSB2Y0
 type: interface-requirement
 title: Login screen stores error conditions
 status: Approved
 owner: S. Adel
-parent: SYS-ZW9PC7
-order: 10
+former-id: IF-5XFJR9
+parent: REQ-PM3KZFS
+order: a0
 links:
   - type: refines
-    target: SYS-ZW9PC7
+    target: REQ-PM3KZFS
     confirmed: cf666200a270
 ---
 The login screen shall authenticate safety limits in under 3 s.

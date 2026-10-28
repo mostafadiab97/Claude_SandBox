@@ -1,5 +1,5 @@
 ---
-id: SW-GD1AD4
+id: REQ-EERHB6H
 type: software-requirement
 title: Local API limits humidity values
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - cost
   - EMC
-parent: SYS-BPCY60
-order: 10
+former-id: SW-GD1AD4
+parent: REQ-XPCV023
+order: a0
 links:
   - type: refines
-    target: SYS-BPCY60
+    target: REQ-XPCV023
     confirmed: a39478942b51
 ---
 The Zigbee radio shall report user preferences after a power loss.

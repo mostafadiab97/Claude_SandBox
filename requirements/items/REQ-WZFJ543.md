@@ -1,14 +1,15 @@
 ---
-id: SW-PT4B21
+id: REQ-WZFJ543
 type: software-requirement
 title: Encryption layer measures user preferences
 status: Draft
 owner: A. Hassan
-parent: SYS-FD2FZ8
-order: 20
+former-id: SW-PT4B21
+parent: REQ-2W0YRQS
+order: a1
 links:
   - type: refines
-    target: SYS-FD2FZ8
+    target: REQ-2W0YRQS
     confirmed: 4dfe758a6e2c
 ---
 The tamper detection shall notify relay events when the network is unavailable.

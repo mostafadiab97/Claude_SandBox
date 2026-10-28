@@ -1,5 +1,5 @@
 ---
-id: IF-11QKAE
+id: REQ-4EGKDXG
 type: interface-requirement
 title: Switch relay events — detail
 status: Review
@@ -7,11 +7,12 @@ priority: Medium
 tags:
   - security
   - ux
-parent: IF-WT0723
-order: 10
+former-id: IF-11QKAE
+parent: REQ-NJHSY7A
+order: a0
 links:
   - type: refines
-    target: IF-WT0723
+    target: REQ-NJHSY7A
     confirmed: cf712a2f2dbd
 ---
 The heat pump driver shall synchronise access tokens below 0.5 W in standby.

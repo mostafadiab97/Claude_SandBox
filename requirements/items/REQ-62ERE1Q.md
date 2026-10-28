@@ -1,5 +1,5 @@
 ---
-id: SYS-901PZX
+id: REQ-62ERE1Q
 type: system-requirement
 title: Enclosure displays user preferences
 status: Draft
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - EMC
   - connectivity
-parent: INFO-A6P9A8
-order: 1600
+former-id: SYS-901PZX
+parent: REQ-CMCS31A
+order: b1Z
 links:
   - type: refines
-    target: STK-7F9256
+    target: REQ-GXZBB32
     confirmed: 5588db2eb80a
 ---
 The enclosure shall measure sensor readings below 0.5 W in standby.

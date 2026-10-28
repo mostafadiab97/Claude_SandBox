@@ -1,5 +1,5 @@
 ---
-id: SW-PWJEVV
+id: REQ-DSW0VPD
 type: software-requirement
 title: Over-temperature monitor logs the operating mode
 status: Review
@@ -7,11 +7,12 @@ priority: Low
 owner: Y. Saber
 tags:
   - accessibility
-parent: SYS-NQ8RXH
-order: 30
+former-id: SW-PWJEVV
+parent: REQ-8565GVW
+order: a2
 links:
   - type: refines
-    target: SYS-NQ8RXH
+    target: REQ-8565GVW
     confirmed: 372b9844dfa7
 ---
 The secure boot shall measure safety limits within 200 ms.

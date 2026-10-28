@@ -1,5 +1,5 @@
 ---
-id: HW-4RSJFB
+id: REQ-12NBPMB
 type: hardware-requirement
 title: Status LED stores relay events
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - safety
-parent: SYS-97KT0W
-order: 20
+former-id: HW-4RSJFB
+parent: REQ-7A0DC7K
+order: a1
 links:
   - type: refines
-    target: SYS-97KT0W
+    target: REQ-7A0DC7K
     confirmed: 26b3fcad096f
 ---
 The touch display shall store humidity values after a power loss.

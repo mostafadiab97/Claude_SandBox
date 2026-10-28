@@ -1,5 +1,5 @@
 ---
-id: TC-1PSEH6
+id: REQ-52EAAK2
 type: test-case
 title: "Verify: Cloud backend stores the set point"
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - customer-request
   - safety
   - EMC
-parent: INFO-7P4D8D
-order: 1360
+former-id: TC-1PSEH6
+parent: REQ-8351896
+order: b1B
 links:
   - type: verifies
-    target: SYS-E22H2H
+    target: REQ-QJKWPYS
     confirmed: ee4438e7f317
   - type: verifies
-    target: SW-YDB75D
+    target: REQ-W191KF9
     confirmed: 63cf0f5701dc
 ---
 **Objective:** verify that the cloud backend behaves as specified.

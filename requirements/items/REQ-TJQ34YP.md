@@ -1,16 +1,17 @@
 ---
-id: SW-ZGZE15
+id: REQ-TJQ34YP
 type: software-requirement
 title: Local API displays firmware images
 status: Draft
 owner: É. Laurent
 tags:
   - release-2.0
-parent: SYS-GDH96C
-order: 20
+former-id: SW-ZGZE15
+parent: REQ-C7QGA19
+order: a1
 links:
   - type: refines
-    target: SYS-GDH96C
+    target: REQ-C7QGA19
     confirmed: dfc6c8083c05
 ---
 The Zigbee radio shall encrypt the operating mode at least once per minute.

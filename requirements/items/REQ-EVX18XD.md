@@ -1,15 +1,16 @@
 ---
-id: SW-KS6W8M
+id: REQ-EVX18XD
 type: software-requirement
 title: Watchdog switchs user preferences
 status: Approved
 priority: Low
 owner: L. Samir
-parent: SYS-4WB58V
-order: 20
+former-id: SW-KS6W8M
+parent: REQ-WMCNKJW
+order: a1
 links:
   - type: refines
-    target: SYS-4WB58V
+    target: REQ-WMCNKJW
     confirmed: 328c59c5e6fa
 ---
 The tamper detection shall authenticate energy consumption for at least 10 years.

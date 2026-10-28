@@ -1,5 +1,5 @@
 ---
-id: SW-V2AE48
+id: REQ-4F38S3K
 type: software-requirement
 title: Schedule editor calibrates safety limits
 status: Draft
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - performance
   - regulatory
-parent: SYS-7BRVTY
-order: 10
+former-id: SW-V2AE48
+parent: REQ-FRE9B15
+order: a0
 links:
   - type: refines
-    target: SYS-7BRVTY
+    target: REQ-FRE9B15
     confirmed: f003d27313f2
 ---
 The home dashboard shall restore sensor readings after a power loss.

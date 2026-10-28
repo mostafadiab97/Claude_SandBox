@@ -1,5 +1,5 @@
 ---
-id: SW-YHE4H0
+id: REQ-95CHR8E
 type: software-requirement
 title: Over-temperature monitor detects the operating mode
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - connectivity
   - performance
   - accessibility
-parent: SYS-F2DJDC
-order: 20
+former-id: SW-YHE4H0
+parent: REQ-W18RFR4
+order: a1
 links:
   - type: refines
-    target: SYS-F2DJDC
+    target: REQ-W18RFR4
     confirmed: 2d379fb34255
 ---
 The watchdog shall restore relay events for up to 8 zones.

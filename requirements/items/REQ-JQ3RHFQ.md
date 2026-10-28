@@ -1,15 +1,16 @@
 ---
-id: SYS-1YMXAH
+id: REQ-JQ3RHFQ
 type: system-requirement
 title: Backlight reports humidity values
 status: Review
 priority: Medium
 owner: محمد علي
-parent: INFO-PDR6FV
-order: 1500
+former-id: SYS-1YMXAH
+parent: REQ-2ZA2TRZ
+order: b1P
 links:
   - type: refines
-    target: STK-HH6ZNR
+    target: REQ-PPDBMB4
     confirmed: caa77fe9df1c
 ---
 The backlight shall log schedule entries within 200 ms.

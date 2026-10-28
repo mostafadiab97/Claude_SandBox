@@ -1,5 +1,5 @@
 ---
-id: HW-SQPTCC
+id: REQ-0Y7ZB0F
 type: hardware-requirement
 title: Battery backup validates firmware images
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - security
   - performance
   - cost
-parent: SYS-ESNRC9
-order: 20
+former-id: HW-SQPTCC
+parent: REQ-7FP22QF
+order: a1
 links:
   - type: refines
-    target: SYS-ESNRC9
+    target: REQ-7FP22QF
     confirmed: 72173e46587d
 ---
 The relay board shall validate safety limits at least once per minute.

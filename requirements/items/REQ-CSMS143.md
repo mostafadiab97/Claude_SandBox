@@ -1,14 +1,15 @@
 ---
-id: HW-AD84GB
+id: REQ-CSMS143
 type: hardware-requirement
 title: Boiler interface encrypts the connection state
 status: Obsolete
 owner: M. Farouk
-parent: SYS-2GY8ED
-order: 40
+former-id: HW-AD84GB
+parent: REQ-JE2A5W1
+order: a3
 links:
   - type: refines
-    target: SYS-2GY8ED
+    target: REQ-JE2A5W1
     confirmed: af1bc2a80b1d
 ---
 The zone valve shall authenticate relay events within 200 ms.

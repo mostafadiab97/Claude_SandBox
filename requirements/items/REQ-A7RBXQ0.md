@@ -1,5 +1,5 @@
 ---
-id: SW-7G5AR2
+id: REQ-A7RBXQ0
 type: software-requirement
 title: Bluetooth LE link measures the set point
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - release-1.0
-parent: SYS-10AYV7
-order: 20
+former-id: SW-7G5AR2
+parent: REQ-PYT4632
+order: a1
 links:
   - type: refines
-    target: SYS-10AYV7
+    target: REQ-PYT4632
     confirmed: 05e0bb495f40
 ---
 The Bluetooth LE link shall validate audit records at least once per minute.

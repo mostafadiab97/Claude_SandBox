@@ -1,5 +1,5 @@
 ---
-id: TC-21PVRS
+id: REQ-W16VR48
 type: test-case
 title: "Verify: Login screen limits sensor readings"
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - EMC
-parent: INFO-J0FETE
-order: 900
+former-id: TC-21PVRS
+parent: REQ-WR5ZJN9
+order: b0R
 links:
   - type: verifies
-    target: SYS-G2WJ4Z
+    target: REQ-Y9F757T
     confirmed: 24c104aab763
 ---
 **Objective:** verify that the login screen behaves as specified.

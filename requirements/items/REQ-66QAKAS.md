@@ -1,5 +1,5 @@
 ---
-id: SYS-EXGREK
+id: REQ-66QAKAS
 type: system-requirement
 title: Bluetooth LE link switchs humidity values
 status: Approved
@@ -9,14 +9,15 @@ tags:
   - regulatory
   - EMC
   - performance
-parent: INFO-NRVHA2
-order: 20
+former-id: SYS-EXGREK
+parent: REQ-6R94HFM
+order: a1
 links:
   - type: refines
-    target: STK-0AD5XP
+    target: REQ-W8GJYMQ
     confirmed: 30e7f07df0d1
   - type: mitigates
-    target: RSK-6FVAYV
+    target: REQ-1H5BZ3M
     confirmed: 0c5515bf4edc
 ---
 The Bluetooth LE link shall log the set point below 0.5 W in standby.

@@ -1,5 +1,5 @@
 ---
-id: SW-C5ZJWZ
+id: REQ-HAEA19W
 type: software-requirement
 title: Rotary knob validates schedule entries
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - safety
   - performance
-parent: SYS-G8P704
-order: 40
+former-id: SW-C5ZJWZ
+parent: REQ-DGJWR53
+order: a3
 links:
   - type: refines
-    target: SYS-G8P704
+    target: REQ-DGJWR53
     confirmed: ac1f313d67a2
 ---
 The menu system shall measure schedule entries below 0.5 W in standby.

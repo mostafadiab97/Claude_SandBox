@@ -1,16 +1,17 @@
 ---
-id: HW-3ACE23
+id: REQ-KCZ6CVG
 type: hardware-requirement
 title: Enclosure limits safety limits
 status: Approved
 priority: High
 tags:
   - ux
-parent: SYS-84WAA6
-order: 30
+former-id: HW-3ACE23
+parent: REQ-DDVX1KJ
+order: a2
 links:
   - type: refines
-    target: SYS-84WAA6
+    target: REQ-DDVX1KJ
     confirmed: f4bfc0859903
 ---
 The battery backup shall store the operating mode for up to 8 zones.

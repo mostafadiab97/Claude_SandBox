@@ -1,5 +1,5 @@
 ---
-id: IF-JGATZ5
+id: REQ-PC54JDS
 type: interface-requirement
 title: "Signal 473: relay events"
 status: Approved
@@ -7,7 +7,8 @@ priority: High
 owner: L. Samir
 tags:
   - accessibility
-parent: INFO-2TM0JP
-order: 4730
+former-id: IF-JGATZ5
+parent: REQ-RJ0KHPT
+order: b6c
 ---
 Interface signal number 473.

@@ -1,5 +1,5 @@
 ---
-id: HW-8WKX6R
+id: REQ-NTQGBCP
 type: hardware-requirement
 title: Heating controller reports schedule entries
 status: Obsolete
@@ -7,11 +7,12 @@ priority: High
 tags:
   - ux
   - cost
-parent: SYS-P9J0Z4
-order: 30
+former-id: HW-8WKX6R
+parent: REQ-CZAP4H4
+order: a2
 links:
   - type: refines
-    target: SYS-P9J0Z4
+    target: REQ-CZAP4H4
     confirmed: c925c6f3b356
 ---
 The zone valve shall validate safety limits in all supported languages.

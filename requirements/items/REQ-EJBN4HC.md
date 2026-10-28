@@ -1,5 +1,5 @@
 ---
-id: SYS-V7ZK4B
+id: REQ-EJBN4HC
 type: system-requirement
 title: Watchdog measures relay events
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: É. Laurent
 tags:
   - customer-request
-parent: INFO-0229G8
-order: 50
+former-id: SYS-V7ZK4B
+parent: REQ-H9113WA
+order: a4
 links:
   - type: refines
-    target: STK-92HHJV
+    target: REQ-Z7761RK
     confirmed: 260bd01800c6
 ---
 The watchdog shall authenticate access tokens in all supported languages.

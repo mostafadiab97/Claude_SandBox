@@ -1,5 +1,5 @@
 ---
-id: SW-0ZHFRT
+id: REQ-TWE4D4J
 type: software-requirement
 title: Rotary knob restores the operating mode
 status: Draft
@@ -8,11 +8,12 @@ owner: Y. Saber
 tags:
   - customer-request
   - release-2.0
-parent: SYS-017PAV
-order: 20
+former-id: SW-0ZHFRT
+parent: REQ-2EXPE7A
+order: a1
 links:
   - type: refines
-    target: SYS-017PAV
+    target: REQ-2EXPE7A
     confirmed: 4d92fcc680f5
 ---
 The touch display shall detect error conditions in all supported languages.

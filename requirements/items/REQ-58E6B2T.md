@@ -1,16 +1,17 @@
 ---
-id: SYS-VNH1K0
+id: REQ-58E6B2T
 type: system-requirement
 title: Heating controller calibrates user preferences
 status: Review
 owner: K. Tanaka
 tags:
   - release-1.0
-parent: INFO-6DQTKV
-order: 1570
+former-id: SYS-VNH1K0
+parent: REQ-7ED7ZET
+order: b1W
 links:
   - type: refines
-    target: STK-W8N48B
+    target: REQ-GHEE73G
     confirmed: 00c32cea6ea5
 ---
 The heating controller shall authenticate humidity values within 200 ms.

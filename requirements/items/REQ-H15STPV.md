@@ -1,15 +1,16 @@
 ---
-id: TC-FMZ4VH
+id: REQ-H15STPV
 type: test-case
 title: "Verify: User account service detects user preferences"
 status: Approved
 priority: Medium
 owner: A. Hassan
-parent: INFO-7P4D8D
-order: 270
+former-id: TC-FMZ4VH
+parent: REQ-8351896
+order: aQ
 links:
   - type: verifies
-    target: SYS-94CAYR
+    target: REQ-V32ZD57
     confirmed: a1ec4218b106
 ---
 **Objective:** verify that the user account service behaves as specified.

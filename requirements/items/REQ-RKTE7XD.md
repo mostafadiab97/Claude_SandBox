@@ -1,15 +1,16 @@
 ---
-id: SW-3Y0DJQ
+id: REQ-RKTE7XD
 type: software-requirement
 title: Home dashboard authenticates firmware images
 status: Draft
 priority: Low
 owner: S. Adel
-parent: SYS-EB0Q7V
-order: 10
+former-id: SW-3Y0DJQ
+parent: REQ-NY8TNSE
+order: a0
 links:
   - type: refines
-    target: SYS-EB0Q7V
+    target: REQ-NY8TNSE
     confirmed: 7707b9c36b9c
 ---
 The home dashboard shall synchronise user preferences within 200 ms.

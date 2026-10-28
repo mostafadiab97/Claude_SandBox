@@ -1,5 +1,5 @@
 ---
-id: SW-R0VHBC
+id: REQ-RWAC4VZ
 type: software-requirement
 title: Store relay events — detail
 status: Approved
@@ -8,11 +8,12 @@ tags:
   - customer-request
   - safety
   - regulatory
-parent: SW-GCCF7H
-order: 10
+former-id: SW-R0VHBC
+parent: REQ-0D8BWEX
+order: a0
 links:
   - type: refines
-    target: SW-GCCF7H
+    target: REQ-0D8BWEX
     confirmed: fce7af1ab815
 ---
 The user account service shall switch the room temperature with an accuracy of ±0.5 °C.

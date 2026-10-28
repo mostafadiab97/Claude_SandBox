@@ -1,5 +1,5 @@
 ---
-id: IF-9TCFSF
+id: REQ-D62WXVS
 type: interface-requirement
 title: Local API validates the connection state
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - ux
   - i18n
-parent: SYS-XBES39
-order: 20
+former-id: IF-9TCFSF
+parent: REQ-3EZE86Y
+order: a1
 links:
   - type: refines
-    target: SYS-XBES39
+    target: REQ-3EZE86Y
     confirmed: bc98487a5cdc
 ---
 The pairing process shall limit firmware images for up to 8 zones.

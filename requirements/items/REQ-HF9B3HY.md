@@ -1,5 +1,5 @@
 ---
-id: SW-DP8JRQ
+id: REQ-HF9B3HY
 type: software-requirement
 title: Zone valve detects user preferences
 status: Draft
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - performance
   - power
-parent: SYS-KS8K75
-order: 20
+former-id: SW-DP8JRQ
+parent: REQ-Q8HHQ1E
+order: a1
 links:
   - type: refines
-    target: SYS-KS8K75
+    target: REQ-Q8HHQ1E
     confirmed: 6713f81a0fb0
 ---
 The heating controller shall display the room temperature within 200 ms.

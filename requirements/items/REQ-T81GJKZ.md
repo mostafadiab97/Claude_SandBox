@@ -1,16 +1,17 @@
 ---
-id: SW-G8GS43
+id: REQ-T81GJKZ
 type: software-requirement
 title: Encryption layer displays error conditions
 status: Draft
 priority: High
 tags:
   - ux
-parent: SYS-W3VB1X
-order: 10
+former-id: SW-G8GS43
+parent: REQ-KBZR5EK
+order: a0
 links:
   - type: refines
-    target: SYS-W3VB1X
+    target: REQ-KBZR5EK
     confirmed: 0b387183e7b1
 ---
 The tamper detection shall measure audit records at least once per minute.

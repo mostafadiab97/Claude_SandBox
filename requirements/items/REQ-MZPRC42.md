@@ -1,5 +1,5 @@
 ---
-id: SYS-ES2T78
+id: REQ-MZPRC42
 type: system-requirement
 title: Enclosure authenticates firmware images
 status: Approved
@@ -8,11 +8,12 @@ owner: N. Kamal
 tags:
   - i18n
   - EMC
-parent: INFO-A6P9A8
-order: 1330
+former-id: SYS-ES2T78
+parent: REQ-CMCS31A
+order: b18
 links:
   - type: refines
-    target: STK-CDR1Y9
+    target: REQ-QC1Z78M
     confirmed: d9857f8b33bf
 ---
 The enclosure shall display humidity values after a power loss.

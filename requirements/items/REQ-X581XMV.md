@@ -1,17 +1,18 @@
 ---
-id: TC-A7DMTK
+id: REQ-X581XMV
 type: test-case
 title: "Verify: Encryption layer reports safety limits"
 status: Draft
 owner: S. Adel
-parent: INFO-Z4TW4B
-order: 200
+former-id: TC-A7DMTK
+parent: REQ-K6FGAY0
+order: aJ
 links:
   - type: verifies
-    target: SYS-H80NAW
+    target: REQ-NZV7M9Z
     confirmed: d4703e1835f9
   - type: verifies
-    target: SW-TJ91Q0
+    target: REQ-B3W3WPF
     confirmed: dd6fbda1233e
 ---
 **Objective:** verify that the encryption layer behaves as specified.

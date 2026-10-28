@@ -1,14 +1,15 @@
 ---
-id: SYS-RAP7Z6
+id: REQ-YBS8MW9
 type: system-requirement
 title: Heating controller notifys relay events
 status: Draft
 priority: Low
-parent: INFO-6DQTKV
-order: 720
+former-id: SYS-RAP7Z6
+parent: REQ-7ED7ZET
+order: b09
 links:
   - type: refines
-    target: STK-AA05P4
+    target: REQ-REA5VGA
     confirmed: e2bec3bcd11c
 ---
 The heating controller shall switch user preferences when the network is unavailable.

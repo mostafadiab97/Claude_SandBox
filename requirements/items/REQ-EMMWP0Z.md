@@ -1,5 +1,5 @@
 ---
-id: IF-Z035YQ
+id: REQ-EMMWP0Z
 type: interface-requirement
 title: "Signal 317: user preferences"
 status: Approved
@@ -9,7 +9,8 @@ tags:
   - connectivity
   - customer-request
   - regulatory
-parent: INFO-2TM0JP
-order: 3170
+former-id: IF-Z035YQ
+parent: REQ-RJ0KHPT
+order: b46
 ---
 Interface signal number 317.

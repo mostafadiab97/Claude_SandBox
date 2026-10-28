@@ -1,5 +1,5 @@
 ---
-id: HW-JM9VP3
+id: REQ-DJ8AR49
 type: hardware-requirement
 title: Telemetry pipeline calibrates energy consumption
 status: Draft
@@ -7,11 +7,12 @@ priority: Medium
 owner: J. Müller
 tags:
   - release-1.0
-parent: SYS-P4DXM6
-order: 10
+former-id: HW-JM9VP3
+parent: REQ-CM5Q1FW
+order: a0
 links:
   - type: refines
-    target: SYS-P4DXM6
+    target: REQ-CM5Q1FW
     confirmed: 45befcee12fc
 ---
 The OTA server shall log humidity values when the network is unavailable.

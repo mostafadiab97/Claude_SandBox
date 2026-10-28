@@ -1,5 +1,5 @@
 ---
-id: SYS-49FF9M
+id: REQ-M1R4HSQ
 type: system-requirement
 title: Tamper detection logs error conditions
 status: Obsolete
@@ -8,14 +8,15 @@ tags:
   - power
   - ux
   - cost
-parent: INFO-0229G8
-order: 510
+former-id: SYS-49FF9M
+parent: REQ-H9113WA
+order: ao
 links:
   - type: refines
-    target: STK-SM9B7Z
+    target: REQ-Z2QF8WD
     confirmed: 44235e2789f0
   - type: mitigates
-    target: RSK-RV8KBD
+    target: REQ-VYYM5AA
     confirmed: 637ec5e39d53
 ---
 The tamper detection shall switch firmware images when the network is unavailable.

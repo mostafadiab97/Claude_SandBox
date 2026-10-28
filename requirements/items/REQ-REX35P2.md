@@ -1,5 +1,5 @@
 ---
-id: TC-HFGJMJ
+id: REQ-REX35P2
 type: test-case
 title: "Verify: Login screen switchs the operating mode"
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - safety
   - power
   - security
-parent: INFO-J0FETE
-order: 360
+former-id: TC-HFGJMJ
+parent: REQ-WR5ZJN9
+order: aZ
 links:
   - type: verifies
-    target: SYS-JD8TXM
+    target: REQ-670N5PW
     confirmed: f81d3e3b2c08
 ---
 **Objective:** verify that the login screen behaves as specified.

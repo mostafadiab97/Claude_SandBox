@@ -1,15 +1,16 @@
 ---
-id: IF-Y7XB4Z
+id: REQ-W9Q01GV
 type: interface-requirement
 title: Heating controller measures audit records
 status: Approved
 priority: High
 owner: N. Kamal
-parent: SYS-0P0DNN
-order: 20
+former-id: IF-Y7XB4Z
+parent: REQ-MKJBG9X
+order: a1
 links:
   - type: refines
-    target: SYS-0P0DNN
+    target: REQ-MKJBG9X
     confirmed: fb01b79aacb5
 ---
 The boiler interface shall log energy consumption in all supported languages.

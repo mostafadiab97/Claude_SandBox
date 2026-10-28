@@ -1,5 +1,5 @@
 ---
-id: TC-G5FNNW
+id: REQ-Y51SXTM
 type: test-case
 title: "Verify: Pairing process calibrates sensor readings"
 status: Approved
@@ -8,11 +8,12 @@ owner: H. Mostafa
 tags:
   - power
   - cost
-parent: INFO-F0M7VC
-order: 660
+former-id: TC-G5FNNW
+parent: REQ-67RQXCK
+order: b03
 links:
   - type: verifies
-    target: SYS-2VEPK9
+    target: REQ-G5GENN6
     confirmed: a7e58f20b1a5
 ---
 **Objective:** verify that the pairing process behaves as specified.

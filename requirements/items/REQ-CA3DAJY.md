@@ -1,5 +1,5 @@
 ---
-id: CR-9D8YC7
+id: REQ-CA3DAJY
 type: change-request
 title: "CR: extend boiler interface to report the room temperature"
 status: Draft
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - cost
   - accessibility
-parent: INFO-ZBHTYF
-order: 20
+former-id: CR-9D8YC7
+parent: REQ-XJDN42Y
+order: a1
 links:
   - type: relates-to
-    target: SYS-0KFPCF
+    target: REQ-YHPAPF6
     confirmed: 38fbc1f616e4
 ---
 Requested by customer support (ticket #16964).

@@ -1,5 +1,5 @@
 ---
-id: SW-0ZRPX8
+id: REQ-Y2T6NYS
 type: software-requirement
 title: Encryption layer switchs the set point
 status: Approved
@@ -8,11 +8,12 @@ owner: محمد علي
 tags:
   - safety
   - performance
-parent: SYS-WPKDG7
-order: 30
+former-id: SW-0ZRPX8
+parent: REQ-2WZH649
+order: a2
 links:
   - type: refines
-    target: SYS-WPKDG7
+    target: REQ-2WZH649
     confirmed: 871bc601285c
 ---
 The watchdog shall measure relay events after a power loss.

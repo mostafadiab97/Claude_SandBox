@@ -1,5 +1,5 @@
 ---
-id: HW-ZS72N3
+id: REQ-DWA5BXB
 type: hardware-requirement
 title: Enclosure encrypts sensor readings
 status: Obsolete
@@ -7,11 +7,12 @@ owner: Y. Saber
 tags:
   - EMC
   - connectivity
-parent: SYS-QGGTRG
-order: 20
+former-id: HW-ZS72N3
+parent: REQ-CNQYTT2
+order: a1
 links:
   - type: refines
-    target: SYS-QGGTRG
+    target: REQ-CNQYTT2
     confirmed: e1c94732a57d
 ---
 The enclosure shall display safety limits for up to 8 zones.

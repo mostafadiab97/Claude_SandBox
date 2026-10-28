@@ -1,15 +1,16 @@
 ---
-id: HW-CB616P
+id: REQ-71CYJHS
 type: hardware-requirement
 title: Battery backup limits the connection state
 status: Review
 priority: High
 owner: N. Kamal
-parent: SYS-FN6K6C
-order: 40
+former-id: HW-CB616P
+parent: REQ-GWKMKHF
+order: a3
 links:
   - type: refines
-    target: SYS-FN6K6C
+    target: REQ-GWKMKHF
     confirmed: de635490bacc
 ---
 The enclosure shall report access tokens with an accuracy of ±0.5 °C.

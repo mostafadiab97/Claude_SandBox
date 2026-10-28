@@ -1,16 +1,17 @@
 ---
-id: HW-91QG42
+id: REQ-7CQ6X7S
 type: hardware-requirement
 title: Notify schedule entries — detail
 status: Draft
 owner: N. Kamal
 tags:
   - security
-parent: HW-P04WFB
-order: 10
+former-id: HW-91QG42
+parent: REQ-5MPTHY2
+order: a0
 links:
   - type: refines
-    target: HW-P04WFB
+    target: REQ-5MPTHY2
     confirmed: 13db4bc14993
 ---
 The login screen shall encrypt user preferences in under 3 s.

@@ -1,5 +1,5 @@
 ---
-id: TC-6S4Y3B
+id: REQ-JWEAHCW
 type: test-case
 title: "Verify: Encryption layer measures the room temperature"
 status: Obsolete
@@ -8,14 +8,15 @@ owner: A. Hassan
 tags:
   - connectivity
   - safety
-parent: INFO-Z4TW4B
-order: 1120
+former-id: TC-6S4Y3B
+parent: REQ-K6FGAY0
+order: b0n
 links:
   - type: verifies
-    target: SYS-PN5J1K
+    target: REQ-C0Z47PJ
     confirmed: 3969f39acf44
   - type: verifies
-    target: SW-336TCW
+    target: REQ-XMSVC1K
     confirmed: eb669076665a
 ---
 **Objective:** verify that the encryption layer behaves as specified.

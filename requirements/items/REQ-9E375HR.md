@@ -1,15 +1,16 @@
 ---
-id: SYS-ZMJ6E1
+id: REQ-9E375HR
 type: system-requirement
 title: Heat pump driver logs safety limits
 status: Obsolete
 priority: High
 owner: S. Adel
-parent: INFO-6DQTKV
-order: 1370
+former-id: SYS-ZMJ6E1
+parent: REQ-7ED7ZET
+order: b1C
 links:
   - type: refines
-    target: STK-EFJRJ9
+    target: REQ-6WZCEAT
     confirmed: fc922ec1a72e
 ---
 The heat pump driver shall detect the connection state in under 3 s.

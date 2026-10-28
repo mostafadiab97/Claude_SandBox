@@ -1,5 +1,5 @@
 ---
-id: TC-G1GDYN
+id: REQ-PFHWBBC
 type: test-case
 title: "Verify: Cloud backend switchs sensor readings"
 status: Approved
@@ -9,11 +9,12 @@ tags:
   - cost
   - power
   - performance
-parent: INFO-7P4D8D
-order: 850
+former-id: TC-G1GDYN
+parent: REQ-8351896
+order: b0M
 links:
   - type: verifies
-    target: SYS-ANP21Y
+    target: REQ-VGBPCZD
     confirmed: 3e91619f12fb
 ---
 **Objective:** verify that the cloud backend behaves as specified.

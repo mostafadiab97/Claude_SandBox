@@ -1,5 +1,5 @@
 ---
-id: SW-81JA41
+id: REQ-W7RSXDH
 type: software-requirement
 title: Notification service encrypts audit records
 status: Draft
@@ -8,11 +8,12 @@ owner: É. Laurent
 tags:
   - cost
   - i18n
-parent: SYS-3ABMNG
-order: 10
+former-id: SW-81JA41
+parent: REQ-EY967YJ
+order: a0
 links:
   - type: refines
-    target: SYS-3ABMNG
+    target: REQ-EY967YJ
     confirmed: 856e0842d1dd
 ---
 The notification service shall store the set point for up to 8 zones.

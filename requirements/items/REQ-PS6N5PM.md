@@ -1,15 +1,16 @@
 ---
-id: IF-F82RC4
+id: REQ-PS6N5PM
 type: interface-requirement
 title: Telemetry pipeline limits audit records
 status: Approved
 priority: High
 owner: J. Müller
-parent: SYS-Z2TFC8
-order: 10
+former-id: IF-F82RC4
+parent: REQ-NTH5FYH
+order: a0
 links:
   - type: refines
-    target: SYS-Z2TFC8
+    target: REQ-NTH5FYH
     confirmed: 985116655f53
 ---
 The telemetry pipeline shall log audit records without user interaction.

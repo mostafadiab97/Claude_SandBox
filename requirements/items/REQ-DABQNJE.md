@@ -1,15 +1,16 @@
 ---
-id: SW-WFQQHP
+id: REQ-DABQNJE
 type: software-requirement
 title: Authenticate humidity values — detail
 status: Approved
 priority: Medium
 owner: K. Tanaka
-parent: SW-A10E8C
-order: 10
+former-id: SW-WFQQHP
+parent: REQ-4JBECB9
+order: a0
 links:
   - type: refines
-    target: SW-A10E8C
+    target: REQ-4JBECB9
     confirmed: 2c36623fc5b2
 ---
 The boiler interface shall synchronise error conditions with an accuracy of ±0.5 °C.

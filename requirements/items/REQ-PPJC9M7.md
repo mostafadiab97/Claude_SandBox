@@ -1,5 +1,5 @@
 ---
-id: SW-KM5X1C
+id: REQ-PPJC9M7
 type: software-requirement
 title: Over-temperature monitor notifys schedule entries
 status: Approved
@@ -7,11 +7,12 @@ priority: Medium
 owner: N. Kamal
 tags:
   - EMC
-parent: SYS-D3GXWM
-order: 10
+former-id: SW-KM5X1C
+parent: REQ-V9G96MX
+order: a0
 links:
   - type: refines
-    target: SYS-D3GXWM
+    target: REQ-V9G96MX
     confirmed: 837c0d0a7912
 ---
 The over-temperature monitor shall store error conditions without user interaction.

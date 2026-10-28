@@ -1,14 +1,15 @@
 ---
-id: TC-P7Q0F7
+id: REQ-464NJNA
 type: test-case
 title: "Verify: Heating controller measures safety limits"
 status: Approved
 priority: High
-parent: INFO-MS9DAG
-order: 760
+former-id: TC-P7Q0F7
+parent: REQ-XGWSK2K
+order: b0D
 links:
   - type: verifies
-    target: SYS-DFR9YD
+    target: REQ-BKYB8D1
     confirmed: 72056f4d9703
 ---
 **Objective:** verify that the heating controller behaves as specified.

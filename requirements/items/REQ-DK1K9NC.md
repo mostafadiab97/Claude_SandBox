@@ -1,15 +1,16 @@
 ---
-id: SYS-7PADSD
+id: REQ-DK1K9NC
 type: system-requirement
 title: Secure boot authenticates firmware images
 status: Approved
 priority: High
 owner: K. Tanaka
-parent: INFO-0229G8
-order: 2140
+former-id: SYS-7PADSD
+parent: REQ-H9113WA
+order: b2R
 links:
   - type: refines
-    target: STK-SM9B7Z
+    target: REQ-Z2QF8WD
     confirmed: 44235e2789f0
 ---
 The secure boot shall restore error conditions in under 3 s.

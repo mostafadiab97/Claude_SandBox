@@ -1,16 +1,17 @@
 ---
-id: SW-Q8ZVNR
+id: REQ-YP539RG
 type: software-requirement
 title: Notification service validates user preferences
 status: Approved
 tags:
   - accessibility
   - power
-parent: SYS-6FZH1S
-order: 30
+former-id: SW-Q8ZVNR
+parent: REQ-JTH2F31
+order: a2
 links:
   - type: refines
-    target: SYS-6FZH1S
+    target: REQ-JTH2F31
     confirmed: d02bd019a00a
 ---
 The home dashboard shall synchronise sensor readings for up to 8 zones.

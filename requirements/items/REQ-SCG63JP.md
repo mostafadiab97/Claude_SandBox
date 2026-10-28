@@ -1,5 +1,5 @@
 ---
-id: SW-E0VZFJ
+id: REQ-SCG63JP
 type: software-requirement
 title: Status LED switchs safety limits
 status: Draft
@@ -9,11 +9,12 @@ tags:
   - cost
   - connectivity
   - EMC
-parent: SYS-TFXCHW
-order: 30
+former-id: SW-E0VZFJ
+parent: REQ-3S6527M
+order: a2
 links:
   - type: refines
-    target: SYS-TFXCHW
+    target: REQ-3S6527M
     confirmed: e2bb9e80b6f4
 ---
 The status LED shall report access tokens in under 3 s.

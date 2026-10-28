@@ -1,5 +1,5 @@
 ---
-id: TC-1YPJSW
+id: REQ-FAZ8FBZ
 type: test-case
 title: "Verify: Login screen encrypts error conditions"
 status: Draft
@@ -7,14 +7,15 @@ owner: Y. Saber
 tags:
   - release-2.0
   - i18n
-parent: INFO-J0FETE
-order: 150
+former-id: TC-1YPJSW
+parent: REQ-WR5ZJN9
+order: aE
 links:
   - type: verifies
-    target: SYS-2Y9FGT
+    target: REQ-CCRB185
     confirmed: 4c561d45744d
   - type: verifies
-    target: SW-CGSC6B
+    target: REQ-71BWGG7
     confirmed: 48866ed0074a
 ---
 **Objective:** verify that the login screen behaves as specified.

@@ -1,5 +1,5 @@
 ---
-id: TC-T8KDDX
+id: REQ-G678WV5
 type: test-case
 title: "Verify: Relay board logs the room temperature"
 status: Draft
@@ -7,14 +7,15 @@ priority: Medium
 owner: K. Tanaka
 tags:
   - accessibility
-parent: INFO-MACGC3
-order: 860
+former-id: TC-T8KDDX
+parent: REQ-F9Z1FYS
+order: b0N
 links:
   - type: verifies
-    target: SYS-ZD8ARR
+    target: REQ-HGJN0RD
     confirmed: 8e6f137aeffa
   - type: verifies
-    target: SW-YWTE94
+    target: REQ-7N7W2B8
     confirmed: 6cae84c7c9a0
 ---
 **Objective:** verify that the relay board behaves as specified.

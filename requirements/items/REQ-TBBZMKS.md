@@ -1,5 +1,5 @@
 ---
-id: SW-WN3EGC
+id: REQ-TBBZMKS
 type: software-requirement
 title: Home dashboard calibrates audit records
 status: Approved
@@ -8,11 +8,12 @@ owner: A. Hassan
 tags:
   - cost
   - i18n
-parent: SYS-MN0YG6
-order: 20
+former-id: SW-WN3EGC
+parent: REQ-PN0PDWX
+order: a1
 links:
   - type: refines
-    target: SYS-MN0YG6
+    target: REQ-PN0PDWX
     confirmed: abb306df2814
 ---
 The login screen shall synchronise relay events with an accuracy of ±0.5 °C.

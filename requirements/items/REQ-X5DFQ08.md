@@ -1,15 +1,16 @@
 ---
-id: IF-58BJ92
+id: REQ-X5DFQ08
 type: interface-requirement
 title: Backlight detects energy consumption
 status: Approved
 priority: Low
 owner: É. Laurent
-parent: SYS-JHZTBB
-order: 30
+former-id: IF-58BJ92
+parent: REQ-28FPB5X
+order: a2
 links:
   - type: refines
-    target: SYS-JHZTBB
+    target: REQ-28FPB5X
     confirmed: a18fdffef991
 ---
 The backlight shall limit the set point with an accuracy of ±0.5 °C.

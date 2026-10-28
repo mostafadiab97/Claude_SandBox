@@ -1,15 +1,16 @@
 ---
-id: IF-94WKBQ
+id: REQ-G8B1E6X
 type: interface-requirement
 title: Heat pump driver measures safety limits
 status: Obsolete
 priority: Medium
 owner: H. Mostafa
-parent: SYS-3C9GVX
-order: 30
+former-id: IF-94WKBQ
+parent: REQ-E1AFN5W
+order: a2
 links:
   - type: refines
-    target: SYS-3C9GVX
+    target: REQ-E1AFN5W
     confirmed: 982b55b41ef5
 ---
 The regulation loop shall report the room temperature below 0.5 W in standby.

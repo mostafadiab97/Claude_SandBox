@@ -1,5 +1,5 @@
 ---
-id: SYS-ZTBW13
+id: REQ-M3058GC
 type: system-requirement
 title: Regulation loop displays the set point
 status: Approved
@@ -8,11 +8,12 @@ owner: K. Tanaka
 tags:
   - release-2.0
   - connectivity
-parent: INFO-6DQTKV
-order: 480
+former-id: SYS-ZTBW13
+parent: REQ-7ED7ZET
+order: al
 links:
   - type: refines
-    target: STK-M7S0HJ
+    target: REQ-219619F
     confirmed: 000356d5d38b
 ---
 The regulation loop shall authenticate sensor readings below 0.5 W in standby.

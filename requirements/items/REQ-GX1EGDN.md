@@ -1,5 +1,5 @@
 ---
-id: DE-YHDHPP
+id: REQ-GX1EGDN
 type: design-element
 title: Module OTA_server_62
 status: Draft
@@ -8,11 +8,12 @@ tags:
   - i18n
   - EMC
   - regulatory
-parent: SW-AK76CZ
-order: 10
+former-id: DE-YHDHPP
+parent: REQ-1QNGHDW
+order: a0
 links:
   - type: implements
-    target: SW-AK76CZ
+    target: REQ-1QNGHDW
     confirmed: a0a5d3b8cf4a
 ---
 Implemented in `src/cloud/OTA_server.c`.

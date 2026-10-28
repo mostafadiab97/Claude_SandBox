@@ -1,14 +1,15 @@
 ---
-id: SW-XK724D
+id: REQ-K97PYYV
 type: software-requirement
 title: User account service measures user preferences
 status: Approved
 priority: High
-parent: SYS-3KF2S8
-order: 30
+former-id: SW-XK724D
+parent: REQ-WRJ2YBY
+order: a2
 links:
   - type: refines
-    target: SYS-3KF2S8
+    target: REQ-WRJ2YBY
     confirmed: 6e6c9a856c9a
 ---
 The device registry shall limit the operating mode after a power loss.

@@ -1,15 +1,16 @@
 ---
-id: SYS-9W0KTX
+id: REQ-BWX988Q
 type: system-requirement
 title: Bluetooth LE link notifys error conditions
 status: Approved
 tags:
   - i18n
-parent: INFO-NRVHA2
-order: 230
+former-id: SYS-9W0KTX
+parent: REQ-6R94HFM
+order: aM
 links:
   - type: refines
-    target: STK-22X165
+    target: REQ-QCFMNYV
     confirmed: 0023c9af8e7d
 ---
 The Bluetooth LE link shall validate relay events within 200 ms.
