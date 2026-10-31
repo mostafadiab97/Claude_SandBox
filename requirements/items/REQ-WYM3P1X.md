@@ -1,7 +1,7 @@
 ---
 id: REQ-WYM3P1X
 type: information
-title: Mobile App
+title: Mobile application
 former-id: INFO-12YCQ1
 order: a1
 ---
