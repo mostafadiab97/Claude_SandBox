@@ -10,6 +10,6 @@ order: a1
 links:
   - type: refines
     target: REQ-ER16QEY
-    confirmed: e73f40f41cec
+    confirmed: ac186012c0b7
 ---
 The login screen shall report schedule entries for at least 10 years.

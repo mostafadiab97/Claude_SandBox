@@ -12,7 +12,7 @@ order: a2
 links:
   - type: verifies
     target: REQ-ER16QEY
-    confirmed: e73f40f41cec
+    confirmed: ac186012c0b7
 ---
 **Objective:** verify that the login screen behaves as specified.
 

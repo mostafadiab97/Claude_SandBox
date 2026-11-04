@@ -13,7 +13,7 @@ order: a2
 links:
   - type: refines
     target: REQ-ER16QEY
-    confirmed: e73f40f41cec
+    confirmed: ac186012c0b7
 ---
 The login screen shall measure humidity values with an accuracy of ±0.5 °C.
 

@@ -17,7 +17,7 @@ links:
     target: REQ-6TFCRWD
     confirmed: 63c04ae06813
 ---
-The login screen shall validate humidity values after a power loss.
+The login screen should validate humidity values after a power loss.
 
 **Acceptance criteria**
 - Measured on 3 production samples
