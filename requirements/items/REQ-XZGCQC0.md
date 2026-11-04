@@ -12,4 +12,4 @@ links:
     target: REQ-AC08V5H
     confirmed: cf78baefa376
 ---
-The schedule editor shall calibrate sensor readings for up to 8 zones.
+The schedule editor shall calibrate sensor readings for up to 12 zones.

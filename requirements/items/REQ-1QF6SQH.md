@@ -13,7 +13,7 @@ order: a1
 links:
   - type: refines
     target: REQ-XZGCQC0
-    confirmed: 076f07709938
+    confirmed: 066605c84dbe
 ---
 The schedule editor shall measure energy consumption without user interaction.
 

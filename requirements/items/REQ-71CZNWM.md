@@ -14,7 +14,7 @@ order: a0
 links:
   - type: refines
     target: REQ-XZGCQC0
-    confirmed: 076f07709938
+    confirmed: 066605c84dbe
 ---
 The schedule editor shall limit user preferences when the network is unavailable.
 

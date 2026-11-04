@@ -11,7 +11,7 @@ order: a1
 links:
   - type: verifies
     target: REQ-XZGCQC0
-    confirmed: 076f07709938
+    confirmed: 066605c84dbe
   - type: verifies
     target: REQ-FR4F14S
     confirmed: 00bc06cc95d8

@@ -11,7 +11,7 @@ order: b1O
 links:
   - type: verifies
     target: REQ-XZGCQC0
-    confirmed: 076f07709938
+    confirmed: 066605c84dbe
 ---
 **Objective:** verify that the device behaves as specified.
 

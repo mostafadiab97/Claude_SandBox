@@ -13,6 +13,6 @@ order: a2
 links:
   - type: refines
     target: REQ-XZGCQC0
-    confirmed: 076f07709938
+    confirmed: 066605c84dbe
 ---
 The schedule editor shall authenticate sensor readings below 0.5 W in standby.
