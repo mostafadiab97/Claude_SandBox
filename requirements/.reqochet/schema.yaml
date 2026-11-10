@@ -7,30 +7,30 @@
 version: 1
 
 itemTypes:
-  - { id: stakeholder-need,     name: Stakeholder Need }
-  - { id: system-requirement,   name: System Requirement }
+  - { id: stakeholder-need, name: Stakeholder Need }
+  - { id: system-requirement, name: System Requirement }
   - { id: software-requirement, name: Software Requirement }
   - { id: hardware-requirement, name: Hardware Requirement }
   - { id: interface-requirement, name: Interface Requirement }
-  - { id: use-case,             name: Use Case }
-  - { id: design-element,       name: Design Element }
-  - { id: test-case,            name: Test Case }
-  - { id: defect,               name: Defect }
-  - { id: risk,                 name: Risk }
-  - { id: change-request,       name: Change Request }
+  - { id: use-case, name: Use Case }
+  - { id: design-element, name: Design Element }
+  - { id: test-case, name: Test Case }
+  - { id: defect, name: Defect }
+  - { id: risk, name: Risk }
+  - { id: change-request, name: Change Request }
   # Headings and explanatory text that structure a specification; not counted as requirements.
-  - { id: information,          name: Heading / Information, requirement: false }
+  - { id: information, name: Heading / Information, requirement: false }
 
 fields:
   - id: status
     name: Status
     type: enum
-    options: [Draft, Review, Approved, Obsolete]
+    options: [ Draft, Review, Approved, Obsolete ]
     default: Draft
   - id: priority
     name: Priority
     type: enum
-    options: [High, Medium, Low]
+    options: [ High, Medium, Low ]
   - id: owner
     name: Owner
     type: text
@@ -39,9 +39,16 @@ fields:
     type: list
 
 linkTypes:
-  - { id: refines,    name: refines,       reverseName: refined by }
-  - { id: satisfies,  name: satisfies,     reverseName: satisfied by }
-  - { id: implements, name: implements,    reverseName: implemented by }
-  - { id: verifies,   name: verifies,      reverseName: verified by }
-  - { id: mitigates,  name: mitigates,     reverseName: mitigated by }
-  - { id: relates-to, name: relates to,    reverseName: related to }
+  - { id: refines, name: refines, reverseName: refined by }
+  - { id: satisfies, name: satisfies, reverseName: satisfied by }
+  - { id: implements, name: implements, reverseName: implemented by }
+  - { id: verifies, name: verifies, reverseName: verified by }
+  - { id: mitigates, name: mitigates, reverseName: mitigated by }
+  - { id: relates-to, name: relates to, reverseName: related to }
+rules:
+  - { id: need-refined, type: stakeholder-need, link: refines, direction: incoming, from: [ system-requirement ], min: 1, level: warning }
+  - { id: system-verified, type: system-requirement, link: verifies, direction: incoming, from: [ test-case ], min: 1, level: warning }
+  - { id: software-verified, type: software-requirement, link: verifies, direction: incoming, from: [ test-case ], min: 1, level: warning }
+  - { id: hardware-verified, type: hardware-requirement, link: verifies, direction: incoming, from: [ test-case ], min: 1, level: warning }
+  - { id: interface-verified, type: interface-requirement, link: verifies, direction: incoming, from: [ test-case ], min: 1, level: warning }
+  - { id: risk-mitigated, type: risk, link: mitigates, direction: incoming, from: [ system-requirement, software-requirement, hardware-requirement, interface-requirement ], min: 1, level: warning }
